@@ -213,7 +213,7 @@ function render() {
     const catClass = getCategoryClass(art.category);
     return `
       <div class="article-card" onclick="openArticle('${art.id}')">
-        <div class="card-banner" style="background: ${getBannerBg(art.category)};">
+        <div class="card-cover-img" style="background-image: linear-gradient(180deg, rgba(15, 23, 42, 0.25) 0%, rgba(15, 23, 42, 0.85) 100%), url('${art.hero_image}');">
           <div class="card-badges">
             <span class="badge ${catClass}">${icon} ${art.category}</span>
             <span class="badge badge-type">${art.type}</span>
@@ -282,6 +282,15 @@ function openFullArticleView(art, updateHash = true) {
   document.getElementById('art-view-title').textContent = art.title;
   document.getElementById('art-view-sapo').textContent = art.description;
 
+  // Set Featured Hero Image
+  const heroImg = document.getElementById('art-view-hero-img');
+  const heroCaption = document.getElementById('art-view-hero-caption');
+  if (heroImg && art.hero_image) {
+    heroImg.src = art.hero_image;
+    heroImg.alt = art.title;
+    heroCaption.textContent = `${art.title} — Clinical Editorial Feature`;
+  }
+
   // Set Meta details
   document.getElementById('art-view-source').textContent = art.source_name;
   document.getElementById('art-view-screen').textContent = art.screen;
@@ -290,8 +299,28 @@ function openFullArticleView(art, updateHash = true) {
   // Set Takeaway
   document.getElementById('art-view-takeaway').textContent = art.takeaway;
 
-  // Render Markdown Body
-  const parsedHtml = marked.parse(art.content);
+  // Render Markdown Body with Injected Inline Diagram Image
+  let parsedHtml = marked.parse(art.content);
+  if (art.inline_image) {
+    const inlineDiagramHtml = `
+      <figure class="article-inline-diagram">
+        <img src="${art.inline_image}" alt="${art.inline_caption}" loading="lazy">
+        <figcaption>📊 <strong>Clinical Biometric Visual:</strong> ${art.inline_caption}</figcaption>
+      </figure>
+    `;
+
+    if (parsedHtml.includes('</h2>')) {
+      const parts = parsedHtml.split('</h2>', 2);
+      if (parts[1].includes('</p>')) {
+        const pParts = parts[1].split('</p>', 2);
+        parsedHtml = parts[0] + '</h2>' + pParts[0] + '</p>' + inlineDiagramHtml + pParts[1];
+      } else {
+        parsedHtml = parts[0] + '</h2>' + inlineDiagramHtml + parts[1];
+      }
+    } else {
+      parsedHtml = inlineDiagramHtml + parsedHtml;
+    }
+  }
   document.getElementById('art-view-body').innerHTML = parsedHtml;
 
   // Set Canonical Citation
@@ -347,15 +376,19 @@ function openFullArticleView(art, updateHash = true) {
     const relColors = categoryColors[rel.category] || { bg: '#F1F5F9', text: '#334155' };
     return `
       <div class="related-post-card" onclick="openArticle('${rel.id}')" style="cursor: pointer;">
-        <div class="related-post-badge" style="background: ${relColors.bg}; color: ${relColors.text};">
-          ${relIcon} ${rel.category}
+        <div class="related-post-img" style="background-image: url('${rel.hero_image}');">
+          <span class="related-post-badge" style="background: ${relColors.bg}; color: ${relColors.text};">
+            ${relIcon} ${rel.category}
+          </span>
         </div>
-        <h4 class="related-post-title">${rel.title}</h4>
-        <p class="related-post-desc">${rel.description.slice(0, 95)}...</p>
-        <div class="related-post-meta">
-          <span>⏱ ${rel.reading_time}</span>
-          <span>•</span>
-          <span>${rel.type}</span>
+        <div class="related-post-info">
+          <h4 class="related-post-title">${rel.title}</h4>
+          <p class="related-post-desc">${rel.description.slice(0, 85)}...</p>
+          <div class="related-post-meta">
+            <span>⏱ ${rel.reading_time}</span>
+            <span>•</span>
+            <span>${rel.type}</span>
+          </div>
         </div>
       </div>
     `;
