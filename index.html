@@ -1,0 +1,260 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Health & Human Performance Knowledge Hub (Demo)</title>
+  <link rel="stylesheet" href="styles.css">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:wght@400;500;600;700;800&family=Lora:ital,wght@0,400;0,500;0,600;1,400&display=swap" rel="stylesheet">
+  <!-- Markdown parser -->
+  <script src="https://cdn.jsdelivr.net/npm/marked/marked.min.js"></script>
+</head>
+<body>
+  <!-- Reading Progress Bar -->
+  <div class="reading-progress-container">
+    <div id="reading-progress" class="reading-progress-bar"></div>
+  </div>
+
+  <!-- Header / Navigation -->
+  <header class="navbar">
+    <div class="nav-container">
+      <div class="brand" onclick="closeArticleView()" style="cursor: pointer;">
+        <div class="brand-logo">⚡</div>
+        <div class="brand-text">
+          <span class="brand-title">PULSE & VITALITY</span>
+          <span class="brand-subtitle">Health & Human Performance Knowledge Hub</span>
+        </div>
+      </div>
+      <div class="nav-actions">
+        <button id="view-mode-toggle" class="btn-toggle" title="Toggle between Full Web Blog and In-App Modal Simulation">
+          📱 In-App Modal Mode
+        </button>
+      </div>
+    </div>
+  </header>
+
+  <!-- ========================================== -->
+  <!-- 1. CATALOG / HUB VIEW                      -->
+  <!-- ========================================== -->
+  <div id="hub-view">
+    <!-- Hero Section -->
+    <section class="hero-section">
+      <div class="hero-container">
+        <span class="hero-badge">Curated Health Science</span>
+        <h1>Evidence-Based Science for Sleep, Recovery, Activity & Longevity</h1>
+        <p>Explore 28 clinical deep-dives and contextual explainers, mapped directly to real-time wearable biometrics.</p>
+        
+        <!-- Search & Filters -->
+        <div class="search-box">
+          <svg class="search-icon" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><circle cx="11" cy="11" r="8"/><path d="m21 21-4.3-4.3"/></svg>
+          <input type="text" id="search-input" placeholder="Search by topic, metric (HRV, Deep Sleep, BBT, Kegel), or keywords...">
+        </div>
+      </div>
+    </section>
+
+    <!-- Filter Bar -->
+    <section class="filters-section">
+      <div class="filters-container">
+        <!-- Category Tabs -->
+        <div class="filter-group">
+          <label>Category:</label>
+          <div class="filter-pills" id="category-pills">
+            <button class="pill active" data-category="All">All Categories</button>
+            <button class="pill" data-category="Sleep">🌙 Sleep</button>
+            <button class="pill" data-category="Recovery">🔋 Recovery</button>
+            <button class="pill" data-category="Activity">🏃 Activity</button>
+            <button class="pill" data-category="Health & Wellness">🌿 Health & Wellness</button>
+            <button class="pill" data-category="Women's Health">🌸 Women's Health</button>
+            <button class="pill" data-category="Men's Health">💪 Men's Health</button>
+          </div>
+        </div>
+
+        <!-- Secondary Filters -->
+        <div class="secondary-filters">
+          <div class="select-wrapper">
+            <label>Format:</label>
+            <select id="type-select">
+              <option value="All">All Formats</option>
+              <option value="Learn more">Learn more (Tooltips & Explanations)</option>
+              <option value="Discover more">Discover more (In-Depth Guides)</option>
+            </select>
+          </div>
+
+          <div class="select-wrapper">
+            <label>Audience:</label>
+            <select id="gender-select">
+              <option value="All">All Audiences</option>
+              <option value="Female">Female (Cycle & Hormonal)</option>
+              <option value="Male">Male (Pelvic & Stamina)</option>
+            </select>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <!-- Main Content Feed -->
+    <main class="feed-section">
+      <div class="feed-container">
+        <div class="feed-header">
+          <span id="results-count">Showing 28 articles</span>
+        </div>
+        <div class="articles-grid" id="articles-grid">
+          <!-- Rendered dynamically via JS -->
+        </div>
+      </div>
+    </main>
+  </div>
+
+  <!-- ========================================== -->
+  <!-- 2. FULL STANDALONE BLOG ARTICLE VIEW (SPA) -->
+  <!-- ========================================== -->
+  <article id="article-view" class="article-page-container hidden">
+    <!-- Top Action Toolbar -->
+    <div class="article-breadcrumb" style="justify-content: space-between;">
+      <div style="display: flex; align-items: center; gap: 0.5rem; flex-wrap: wrap;">
+        <button class="btn-back-hub" onclick="closeArticleView()">
+          ← Back to All Articles
+        </button>
+        <span class="sep">/</span>
+        <span id="article-view-cat-breadcrumb" class="current">Sleep</span>
+        <span class="sep">/</span>
+        <span id="article-view-subtopic-breadcrumb" style="color: var(--text-muted);">Deep Sleep</span>
+      </div>
+
+      <div class="article-toolbar">
+        <button id="btn-preview-inapp" class="btn-tool" title="Preview how this appears in mobile app tooltip">
+          📱 In-App Tooltip View
+        </button>
+        <a id="btn-open-standalone" href="#" target="_blank" class="btn-tool" title="Open this article as an independent static HTML file">
+          📄 Standalone File ↗
+        </a>
+      </div>
+    </div>
+
+    <!-- Article Hero Header -->
+    <header class="article-page-header">
+      <div class="article-badges-row">
+        <span class="badge" id="art-view-category">🌙 Sleep</span>
+        <span class="badge badge-sub" id="art-view-subtopic">Deep Sleep</span>
+        <span class="badge badge-type" id="art-view-type">Discover more</span>
+        <span class="article-read-time" id="art-view-readtime">⏱ 5 min read</span>
+      </div>
+
+      <h1 class="article-main-title" id="art-view-title">Article Title</h1>
+      
+      <p class="article-sapo-lead" id="art-view-sapo">Short lead description...</p>
+
+      <!-- Editorial & Clinical Metadata Card -->
+      <div class="article-metadata-card">
+        <div class="meta-avatar">PV</div>
+        <div class="meta-content">
+          <div class="meta-author">Pulse & Vitality Clinical Editorial Board</div>
+          <div class="meta-details">
+            <span>Clinical Wearable Reference: <strong id="art-view-source">WHOOP Science</strong></span>
+            <span class="meta-dot">•</span>
+            <span>Mapped Screen: <strong id="art-view-screen">Sleep Screen</strong></span>
+            <span class="meta-dot">•</span>
+            <span>Metric: <strong id="art-view-metric">Slow Wave Sleep</strong></span>
+          </div>
+        </div>
+      </div>
+    </header>
+
+    <!-- Key Actionable Takeaway Banner -->
+    <section class="takeaway-banner-large">
+      <div class="takeaway-banner-header">
+        <span class="takeaway-icon-lg">💡</span>
+        <span>Key Actionable Takeaway</span>
+      </div>
+      <p id="art-view-takeaway">Actionable protocol advice...</p>
+    </section>
+
+    <!-- Full Article Markdown Content -->
+    <div class="article-rich-body" id="art-view-body">
+      <!-- Markdown rendered content goes here -->
+    </div>
+
+    <!-- Canonical Source Reference Box -->
+    <section class="canonical-citation-card">
+      <div class="citation-icon">📚</div>
+      <div class="citation-body">
+        <h4>Clinical Reference & Scientific Backing</h4>
+        <p id="art-view-citation-desc">This article is synthesized from peer-reviewed physiology, clinical guidelines, and wearable biometric methodologies developed by WHOOP.</p>
+        <div class="citation-actions">
+          <a id="art-view-canonical-link" href="#" target="_blank" rel="noopener noreferrer" class="btn-canonical-study">
+            Read Canonical Study / Original Article ↗
+          </a>
+        </div>
+      </div>
+    </section>
+
+    <!-- Next / Previous Article Navigation -->
+    <nav class="post-pagination-nav" id="art-view-pagination">
+      <!-- Populated via JS -->
+    </nav>
+
+    <!-- Related Articles Section -->
+    <section class="related-articles-section">
+      <div class="related-section-header">
+        <h3 id="art-view-related-heading">Related Reads</h3>
+      </div>
+      <div class="related-posts-grid" id="art-view-related-grid">
+        <!-- Related cards populated via JS -->
+      </div>
+    </section>
+
+    <!-- Return to Hub Footer CTA -->
+    <div class="return-hub-cta">
+      <button onclick="closeArticleView()" class="btn-return-hub">
+        ← Back to Knowledge Hub & Search
+      </button>
+      <button onclick="window.scrollTo({ top: 0, behavior: 'smooth' })" class="btn-scroll-top">
+        ↑ Back to Top
+      </button>
+    </div>
+  </article>
+
+  <!-- ========================================== -->
+  <!-- 3. IN-APP MOBILE TOOLTIP SIMULATOR MODAL   -->
+  <!-- ========================================== -->
+  <div id="inapp-modal" class="modal-overlay inapp-overlay hidden">
+    <div class="inapp-phone-frame">
+      <div class="phone-notch"></div>
+      <div class="inapp-modal-sheet">
+        <div class="sheet-handle"></div>
+        <div class="inapp-header">
+          <div class="inapp-metric-tag" id="inapp-metric">HRV (Heart Rate Variability)</div>
+          <button class="inapp-close" id="inapp-close-btn">&times;</button>
+        </div>
+        <h3 id="inapp-title">What is Heart Rate Variability?</h3>
+        
+        <div class="inapp-takeaway-banner">
+          <span>💡</span> <span id="inapp-takeaway-text">Key Takeaway</span>
+        </div>
+
+        <div class="inapp-content" id="inapp-content-body">
+          <!-- Short markdown content -->
+        </div>
+
+        <div class="inapp-footer">
+          <span class="inapp-source" id="inapp-source">Source: Fitbit Health</span>
+          <button class="btn-inapp-dismiss" id="inapp-dismiss-btn">Got It</button>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <!-- Site Footer -->
+  <footer class="site-footer">
+    <div class="footer-container">
+      <p>© 2026 Pulse & Vitality Performance Engine • Built for iOS / Android Wearable Integration</p>
+      <p class="disclaimer">Clinical data curated from Flo Health, Clue, Natural Cycles, Fitbit Blog, WHOOP The Locker, Maven Clinic, and Dr. Kegel.</p>
+    </div>
+  </footer>
+
+  <script src="articles_data.js"></script>
+  <script src="app.js"></script>
+</body>
+</html>

@@ -1,0 +1,19 @@
+{
+  "name": "pulse-vitality-health-hub",
+  "version": "1.0.0",
+  "description": "Evidence-Based Health & Human Performance Knowledge Hub for Wearable Biometrics",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "keywords": [
+    "health",
+    "wearables",
+    "whoop",
+    "fitbit",
+    "flo",
+    "kegel"
+  ],
+  "author": "Pulse & Vitality Team",
+  "license": "MIT"
+}
