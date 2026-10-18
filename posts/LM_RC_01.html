@@ -3,7 +3,7 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Heart Rate Variability (HRV) Explained: Electrophysiology, RMSSD Math, and Autonomic Readiness — Pulse & Vitality Blog</title>
+  <title>Heart Rate Variability (HRV) Explained: How to Read Your Overnight Recovery Metric — Pulse & Vitality Blog</title>
   <link rel="stylesheet" href="../styles.css">
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
@@ -52,17 +52,17 @@
         </span>
         <span class="badge badge-sub">HRV Physiology</span>
         <span class="badge badge-type">Learn more</span>
-        <span class="article-read-time">⏱ 8 min read</span>
+        <span class="article-read-time">⏱ 10 min read</span>
       </div>
 
-      <h1 class="article-main-title">Heart Rate Variability (HRV) Explained: Electrophysiology, RMSSD Math, and Autonomic Readiness</h1>
+      <h1 class="article-main-title">Heart Rate Variability (HRV) Explained: How to Read Your Overnight Recovery Metric</h1>
       
-      <p class="article-sapo-lead">A definitive clinical guide to Heart Rate Variability (HRV), detailing how beat-to-beat millisecond fluctuations at the sinoatrial node reflect vagus nerve tone, why RMSSD is the gold-standard metric for athletic recovery, and how to interpret your personal rolling baseline.</p>
+      <p class="article-sapo-lead">Heart Rate Variability (HRV) is the gold-standard readiness metric on WHOOP, Oura, Garmin, and Apple Watch. Learn why a higher millisecond variation between heartbeats means lower stress, why you should never compare your HRV to a friend's, and how to train using your 7-day HRV trend.</p>
 
       <!-- Featured Cover Hero Image -->
       <figure class="article-featured-hero">
-        <img src="../images/LM_RC_01_hero.jpg" alt="Heart Rate Variability (HRV) Explained: Electrophysiology, RMSSD Math, and Autonomic Readiness">
-        <figcaption>Heart Rate Variability (HRV) Explained: Electrophysiology, RMSSD Math, and Autonomic Readiness — Clinical Editorial Feature</figcaption>
+        <img src="../images/LM_RC_01_hero.jpg" alt="Heart Rate Variability (HRV) Explained: How to Read Your Overnight Recovery Metric">
+        <figcaption>Heart Rate Variability (HRV) Explained: How to Read Your Overnight Recovery Metric — Clinical Editorial Feature</figcaption>
       </figure>
 
       <!-- Editorial & Clinical Metadata Card -->
@@ -71,7 +71,7 @@
         <div class="meta-content">
           <div class="meta-author">Pulse & Vitality Clinical Editorial Board</div>
           <div class="meta-details">
-            <span>Clinical Wearable Reference: <strong>Frontiers in Public Health / Sports Medicine / WHOOP</strong></span>
+            <span>Clinical Wearable Reference: <strong>Frontiers in Public Health (Shaffer & Ginsberg, 2017) & Plews et al. (2013)</strong></span>
             <span class="meta-dot">•</span>
             <span>Mapped Screen: <strong>Recovery Screen</strong></span>
             <span class="meta-dot">•</span>
@@ -87,112 +87,110 @@
         <span class="takeaway-icon-lg">💡</span>
         <span>Key Actionable Takeaway</span>
       </div>
-      <p>A healthy heart is not a metronome. Higher HRV (RMSSD) indicates strong parasympathetic vagal brake activity and high physiological readiness to absorb strain. Never compare your absolute HRV number to another person; track your daily reading against your own 7-to-30-day rolling baseline.</p>
+      <p>HRV is not your heart rate—it is the millisecond variation in timing between consecutive heartbeats. A high HRV relative to your personal 30-day baseline signals strong vagus nerve recovery and readiness for intense training, while a multi-day drop warns of accumulated training strain, hidden psychological stress, alcohol recovery, or an oncoming illness.</p>
     </section>
 
     <!-- Full Article Markdown Content -->
     <article class="article-rich-body">
-      <h2>Executive Clinical Summary</h2>
-<p>A common misconception is that a resting heart rate of <strong>60 beats per minute (bpm)</strong> means your heart beats exactly once every $1.000\text{ second}$ like a mechanical metronome. In reality, as Fred Shaffer and J. P. Ginsberg famously noted in <em>Frontiers in Public Health</em> (2017, PMID: 29034226): <strong>"A healthy heart is not a metronome."</strong></p>
-<p><strong>Heart Rate Variability (HRV)</strong> measures the microscopic, millisecond-level fluctuations in the time intervals between consecutive heartbeats—known on an electrocardiogram (ECG) as <strong>R-R intervals</strong> or <strong>Inter-Beat Intervals (IBI)</strong>. Rather than being a cardiac defect, high beat-to-beat variability is the single most sensitive non-invasive biomarker of <strong>Autonomic Nervous System (ANS) adaptability</strong>, stress resilience, and athletic recovery readiness.</p>
-<hr />
-<h2>1. Cardiac Electrophysiology: The Tug-of-War at the Sinoatrial (SA) Node</h2>
-<p>Your heart's natural pacemaker, the <strong>sinoatrial (SA) node</strong> located in the right atrium, has an intrinsic firing rate of roughly $100\text{ bpm}$. However, it is continuously innervated by both branches of the Autonomic Nervous System:</p>
-<ol>
-<li><strong>The Sympathetic Nervous System (SNS — "Accelerator"):</strong> Mediated by the catecholamines <strong>epinephrine and norepinephrine</strong>. Sympathetic signaling acts slowly (taking $1–5\text{ seconds}$ to peak and $15–30\text{ seconds}$ to decay). When sympathetic tone dominates—during psychological stress, dehydration, overtraining, or early viral infection—it overrides local fluctuations and locks the heart into a <strong>rigid, metronomic rhythm (Low HRV)</strong>.</li>
-<li><strong>The Parasympathetic Nervous System (PNS — "Vagal Brake"):</strong> Mediated by the <strong>10th Cranial Nerve (Vagus Nerve)</strong> releasing the neurotransmitter <strong>acetylcholine (ACh)</strong>. Because the SA node is rich in the enzyme <em>acetylcholinesterase</em>, vagal signals take effect almost instantaneously (<strong>within $&lt; 100\text{ milliseconds}$</strong>) and clear within a single heartbeat.</li>
-<li><strong>Respiratory Sinus Arrhythmia (RSA):</strong> When you inhale, vagal tone briefly withdraws and heart rate accelerates ($e.g., \text{R-R} = 820\text{ ms}$); when you exhale, the vagus nerve fires acetylcholine and heart rate decelerates ($e.g., \text{R-R} = 1,140\text{ ms}$). <strong>High HRV is the direct signature of a responsive, dominant vagal brake.</strong></li>
-</ol>
+      <h2>Why a Healthy Heart Does Not Beat Like a Metronome</h2>
+<p>If your resting heart rate is <strong>60 beats per minute (bpm)</strong>, it is tempting to assume your heart beats exactly once every <strong>1.000 second</strong> like a quartz clock. In reality, a healthy human heart never beats with robotic regularity.</p>
+<p>One beat might occur after <strong>0.88 seconds (880 ms)</strong>, the next after <strong>1.12 seconds (1,120 ms)</strong>, and the next after <strong>0.95 seconds (950 ms)</strong>. <strong>Heart Rate Variability (HRV)</strong> measures that microscopic millisecond variation between consecutive heartbeats (known clinically as <strong>R-R intervals</strong> or <strong>inter-beat intervals</strong>).</p>
+<p>Paradoxically, while you want a <strong>low</strong> Resting Heart Rate, you want a <strong>high</strong> Heart Rate Variability:<br />
+- <strong>Low HRV (Metronome-like beats):</strong> Means your <strong>Sympathetic Nervous System ("Fight-or-Flight")</strong> is dominating, locking your heart into a rigid rhythm to deal with stress, fatigue, dehydration, or inflammation.<br />
+- <strong>High HRV (Flexible, variable beats):</strong> Means your <strong>Parasympathetic Nervous System ("Rest-and-Digest")</strong> is thriving via the <strong>Vagus Nerve</strong>, dynamically adjusting your heart rate with every breath and signaling that your body is recovered and adaptable.</p>
 <figure class="article-inline-diagram">
-  <img src="../images/LM_RC_01_diagram.svg" alt="ECG R-R Interval Variability RMSSD comparison between High HRV and Low HRV at 60 BPM">
-  <figcaption>📊 <strong>Figure 1 (Cardiac Electrophysiology):</strong> Both State A and State B average exactly 60 beats per minute. However, State A exhibits dynamic R-R millisecond variance (RMSSD = 92 ms) driven by rapid vagal acetylcholine modulation, whereas State B exhibits rigid sympathetic lock (RMSSD = 21 ms) (Adapted from Shaffer &amp; Ginsberg, 2017, PMC5624990).</figcaption>
+  <img src="../images/LM_RC_01_diagram.svg" alt="Heart Rate Variability R-R Intervals and Autonomic Nervous System Balance" loading="lazy">
+  <figcaption>📊 <strong>Autonomic Nervous System Tug-of-War:</strong> How R-R interval variability (RMSSD) captures the real-time balance between Sympathetic stress activation and Parasympathetic Vagus Nerve recovery.</figcaption>
 </figure>
 
 <hr />
-<h2>2. Why Wearables Use RMSSD: The Mathematical Standard</h2>
-<p>In clinical cardiology (<em>Task Force of the ESC &amp; NASPE, 1996, Circulation</em>, PMID: 8598068), HRV can be quantified across time-domain and frequency-domain metrics. However, leading performance wearables (WHOOP, Oura, Garmin, Fitbit) standardize on <strong>RMSSD</strong> (<strong>Root Mean Square of Successive Differences</strong>):</p>
-<p>$$\text{RMSSD} = \sqrt{\frac{1}{N - 1} \sum_{i=1}^{N-1} (\text{RR}_{i+1} - \text{RR}_i)^2}$$</p>
-<h3>Why RMSSD Over SDNN?</h3>
-<ul>
-<li><strong>Pure Parasympathetic Specificity:</strong> While <strong>SDNN</strong> (Standard Deviation of NN intervals) reflects both sympathetic and circadian influences over 24 hours, <strong>RMSSD</strong> isolates beat-to-beat, high-frequency ($0.15–0.40\text{ Hz}$) <strong>vagal nerve activity</strong> without being confounded by slow respiratory trends (<em>Shaffer &amp; Ginsberg, 2017</em>).</li>
-<li><strong>Nocturnal Slow-Wave Sampling:</strong> Measuring HRV during the day is noisy due to posture changes, caffeine, and cognitive tasks. Wearables sample RMSSD during <strong>late Slow-Wave Sleep (Stage N3)</strong>—when environmental interference is zero and autonomic tone is purest.</li>
-</ul>
+<h2>How Wearables Calculate HRV: What Is RMSSD?</h2>
+<p>When you look at your morning HRV number on <strong>WHOOP</strong>, <strong>Oura Ring</strong>, <strong>Garmin HRV Status</strong>, or <strong>Fitbit</strong> (measured in milliseconds, <code>ms</code>), you are looking at a specific time-domain metric recommended by sports physiologists (<strong>Shaffer &amp; Ginsberg, 2017</strong>; <strong>Plews et al., 2013</strong>): <strong>RMSSD</strong> (<em>Root Mean Square of Successive Differences</em>).</p>
+<p>Here is how your watch computes RMSSD in three simple steps during deep, still sleep:<br />
+1. <strong>Measure Beat-to-Beat Gaps:</strong> Your optical sensor measures the exact time in milliseconds (<code>ms</code>) between each heartbeat (<code>R-R interval</code>).<br />
+2. <strong>Calculate Successive Differences:</strong> It subtracts each beat's interval from the very next beat's interval (e.g., <code>1,050 ms − 980 ms = +70 ms</code>).<br />
+3. <strong>Square, Average &amp; Take the Square Root:</strong> By squaring those beat-to-beat differences, averaging them across 5-minute sleep windows, and taking the square root, <strong>RMSSD isolates pure high-frequency Vagus Nerve (parasympathetic) activity</strong> linked to your breathing cycle (<strong>Respiratory Sinus Arrhythmia</strong>).</p>
+<blockquote>
+<p><strong>How Different Brands Sample Your Overnight HRV:</strong><br />
+- <strong>Oura Ring &amp; Garmin (Firstbeat):</strong> Calculate the <strong>full-night average RMSSD</strong> across all 5-minute sleep windows from sleep onset to wake-up, producing a rock-solid, highly repeatable baseline.<br />
+- <strong>WHOOP:</strong> Applies a dynamic weighted average skewed toward your <strong>last slow-wave (Deep) sleep phase</strong> before waking, when parasympathetic restoration peaks and early-night digestion noise has cleared.<br />
+- <strong>Apple Watch:</strong> Samples discrete <strong>SDNN</strong> readings intermittently throughout the day and night (unless AFib History is enabled for higher-frequency sampling).</p>
+</blockquote>
 <hr />
-<h2>3. Normative Population Ranges vs. Individual Rolling Baselines</h2>
-<p>In sports science (<em>Plews et al., 2013, Sports Medicine</em>, PMID: 23852425), researchers emphasize that <strong>absolute HRV is highly heritable and age-dependent</strong>, declining naturally as we age, though regular aerobic conditioning can give a 50-year-old endurance athlete the HRV of a sedentary 22-year-old:</p>
+<h2>Why You Should Never Compare Your HRV to a Friend's</h2>
+<p>One of the biggest surprises for wearable users is discovering that an elite marathoner might have an average HRV of <strong>55 ms</strong>, while a recreational gym-goer of the same age has an average HRV of <strong>110 ms</strong>.</p>
+<p>As <strong>Garmin</strong>, <strong>Oura</strong>, and <strong>WHOOP</strong> physiology teams emphasize, <strong>HRV is a deeply individualized metric</strong> shaped by genetics, cardiac anatomy, age, sex, and hormone levels. While population data shows an age-related decline, <strong>only changes relative to your own 30-day rolling baseline carry actionable meaning</strong>:</p>
 <table>
 <thead>
 <tr>
-<th style="text-align: left;">Age Cohort</th>
-<th style="text-align: left;">25th Percentile (Low)</th>
-<th style="text-align: left;">50th Percentile (Median RMSSD)</th>
-<th style="text-align: left;">75th Percentile (Good)</th>
-<th style="text-align: left;">Endurance Athlete Benchmark</th>
+<th style="text-align: left;">Age Group</th>
+<th style="text-align: left;">Typical Middle 50% RMSSD Range</th>
+<th style="text-align: left;">Typical 10th – 90th Percentile</th>
+<th style="text-align: left;">How to Interpret Your Personal Baseline</th>
 </tr>
 </thead>
 <tbody>
 <tr>
 <td style="text-align: left;"><strong>20 – 29 Years</strong></td>
-<td style="text-align: left;">$32\text{ ms}$</td>
-<td style="text-align: left;"><strong>$55 – 68\text{ ms}$</strong></td>
-<td style="text-align: left;">$88\text{ ms}$</td>
-<td style="text-align: left;">$95 – 145+\text{ ms}$</td>
+<td style="text-align: left;"><strong>55 – 105 ms</strong></td>
+<td style="text-align: left;">35 – 145 ms</td>
+<td style="text-align: left;">High baseline variability; watch for sharp single-night drops after alcohol or late nights.</td>
 </tr>
 <tr>
 <td style="text-align: left;"><strong>30 – 39 Years</strong></td>
-<td style="text-align: left;">$26\text{ ms}$</td>
-<td style="text-align: left;"><strong>$44 – 54\text{ ms}$</strong></td>
-<td style="text-align: left;">$72\text{ ms}$</td>
-<td style="text-align: left;">$80 – 125+\text{ ms}$</td>
+<td style="text-align: left;"><strong>42 – 82 ms</strong></td>
+<td style="text-align: left;">28 – 115 ms</td>
+<td style="text-align: left;">Sensitive barometer of career stress, parenting sleep fragmentation, and training load.</td>
 </tr>
 <tr>
 <td style="text-align: left;"><strong>40 – 49 Years</strong></td>
-<td style="text-align: left;">$21\text{ ms}$</td>
-<td style="text-align: left;"><strong>$35 – 43\text{ ms}$</strong></td>
-<td style="text-align: left;">$58\text{ ms}$</td>
-<td style="text-align: left;">$65 – 105+\text{ ms}$</td>
+<td style="text-align: left;"><strong>32 – 65 ms</strong></td>
+<td style="text-align: left;">22 – 92 ms</td>
+<td style="text-align: left;">Consistently responds to Zone 2 aerobic conditioning and evening wind-down habits.</td>
 </tr>
 <tr>
 <td style="text-align: left;"><strong>50 – 59 Years</strong></td>
-<td style="text-align: left;">$17\text{ ms}$</td>
-<td style="text-align: left;"><strong>$28 – 35\text{ ms}$</strong></td>
-<td style="text-align: left;">$47\text{ ms}$</td>
-<td style="text-align: left;">$55 – 90+\text{ ms}$</td>
+<td style="text-align: left;"><strong>25 – 52 ms</strong></td>
+<td style="text-align: left;">18 – 75 ms</td>
+<td style="text-align: left;">Focus on multi-day rolling averages (<code>7-day HRV trend</code>) rather than daily noise.</td>
 </tr>
 <tr>
 <td style="text-align: left;"><strong>60+ Years</strong></td>
-<td style="text-align: left;">$14\text{ ms}$</td>
-<td style="text-align: left;"><strong>$22 – 28\text{ ms}$</strong></td>
-<td style="text-align: left;">$38\text{ ms}$</td>
-<td style="text-align: left;">$45 – 75+\text{ ms}$</td>
+<td style="text-align: left;"><strong>20 – 45 ms</strong></td>
+<td style="text-align: left;">15 – 65 ms</td>
+<td style="text-align: left;">Even a <code>+5 ms</code> upward shift in your 30-day average reflects meaningful cardiovascular resilience.</td>
 </tr>
 </tbody>
 </table>
-<blockquote>
-<p><strong>The Golden Rule of HRV Monitoring (Plews et al., 2013):</strong> Never compare your raw millisecond value to a teammate. Instead, track your daily RMSSD (or log-transformed $\text{Ln rMSSD}$) against your <strong>7-day and 30-day rolling baseline</strong> (Smallest Worthwhile Change, $\text{SWC} = \pm 0.5 \times \text{SD}$).<br />
-* <strong>Within or Above Baseline (Green Recovery):</strong> Vagal tone is restored; your central nervous system is primed for high-intensity interval or heavy neuromuscular training.<br />
-* <strong>1–2 Standard Deviations Below Baseline (Yellow/Red Recovery):</strong> Acute sympathetic strain from yesterday's workout, dehydration, late eating, alcohol, or prodromal viral immune activation (HRV often drops <strong>24–48 hours before fever or symptoms appear</strong>).</p>
-</blockquote>
-<figure class="article-inline-diagram">
-  <img src="../images/LM_RC_01_photo.jpg" alt="Clinical autonomic nervous system and heart rate variability monitoring">
-  <figcaption>📷 <strong>Figure 2 (Autonomic Readiness Prescription):</strong> Tracking rolling 7-day RMSSD trends allows athletes and clinicians to dynamically periodize training loads and prevent non-functional overreaching.</figcaption>
+<figure class="article-inline-photo">
+  <img src="../images/LM_RC_01_photo.jpg" alt="Athlete checking morning HRV recovery readiness score before training" loading="lazy">
+  <figcaption>📷 <strong>HRV-Guided Training (Plews et al., 2013):</strong> Using your 7-day rolling HRV baseline to decide when to push high-intensity intervals and when to pivot to Zone 2 active recovery.</figcaption>
 </figure>
 
 <hr />
-<h2>4. Evidence-Based Levers That Chronically Elevate Baseline HRV</h2>
+<h2>Real-World Wearable Insights: "Why Did My HRV Drop Last Night?"</h2>
+<p>Your overnight HRV is an early-warning radar for hidden physiological stress. Here are the four most common reasons your morning HRV drops below your baseline corridor:</p>
 <ol>
-<li><strong>Zone 2 Aerobic Base Conditioning ($3–4\times / \text{week}$):</strong> Sustained aerobic exercise at $60\%–70\%\text{ HR}_{\text{max}}$ increases left ventricular stroke volume and vagal acetylcholine receptor density at the SA node, raising baseline RMSSD by <strong>15%–25% over 8–12 weeks</strong>.</li>
-<li><strong>Eliminate Evening Alcohol:</strong> Clinical telemetry from WHOOP and Oura datasets shows that a single night of moderate alcohol consumption suppresses nocturnal RMSSD by <strong>$-15\text{ ms}$ to $-32\text{ ms}$</strong> (a 20%–40% drop) for up to 48 hours.</li>
-<li><strong>Resonance Frequency Breathing ($5.5\text{ Breaths/Min}$):</strong> Inhaling for $5.5\text{ seconds}$ and exhaling for $5.5\text{ seconds}$ ($0.1\text{ Hz}$) synchronizes respiratory sinus arrhythmia with arterial baroreceptors, acutely maximizing vagal afferent signaling.</li>
-<li><strong>Morning Hydration &amp; Electrolytes:</strong> Plasma volume contraction (dehydration) reduces venous return and stroke volume, forcing the sympathetic nervous system to elevate heart rate and suppress HRV via baroreceptor unloading.</li>
+<li><strong>Alcohol (The #1 Acute HRV Suppressor):</strong> In WHOOP and Oura member datasets across millions of nights, alcohol causes the most dramatic single-night HRV crash of any behavior. Just <strong>1 to 2 evening drinks</strong> suppresses overnight HRV by <strong>10% to 22%</strong>, while <strong>3+ drinks</strong> can slash HRV by <strong>30% to 50%</strong> and keep it suppressed for up to 72 hours.</li>
+<li><strong>Incubating Illness (48 Hours Before Symptoms):</strong> Often, your HRV will drop <strong>20% to 35% below baseline</strong> (accompanied by a <code>+4 to +8 bpm</code> spike in Resting Heart Rate and <code>+0.4°C</code> skin temperature) <strong>1 to 2 days before you feel a sore throat or fever</strong>. Your immune system's inflammatory response activates the sympathetic nervous system long before conscious symptoms appear.</li>
+<li><strong>Accumulated Training Load &amp; Dehydration:</strong> After a heavy leg day, long run, or hot training session, plasma blood volume drops and microscopic muscle inflammation rises—temporarily lowering HRV for 24–48 hours while your body repairs tissue.</li>
+<li><strong>Late Meals &amp; Psychological Work Stress:</strong> Eating within 2 hours of sleep or going to bed after an argument or late-night work sprint keeps cortisol elevated, preventing the vagus nerve from taking over during early sleep cycles.</li>
 </ol>
 <hr />
-<h2>5. Peer-Reviewed References &amp; Authoritative Sources</h2>
+<h2>How to Use Your 7-Day HRV Trend to Guide Training &amp; Life</h2>
+<p>In a landmark sports science study of elite endurance athletes (<strong>Plews et al., 2013</strong>), researchers proved that <strong>HRV-guided training</strong>—adjusting daily workout intensity based on a <strong>7-day rolling RMSSD average (<code>HRV_7d</code>)</strong> rather than rigidly following a calendar—produced superior VO2 Max and race performance with less overtraining:</p>
+<ul>
+<li><strong>🟢 HRV Within or Above Your 30-Day Baseline (Green Readiness):</strong> Your autonomic nervous system is balanced and adaptable. <strong>Ideal day for HIIT, heavy strength training, tempo runs, or high-stakes cognitive work.</strong></li>
+<li><strong>🟡 HRV 10%–20% Below Baseline for 1–2 Days (Yellow Caution):</strong> Normal acute recovery response after a hard workout or poor night's sleep. <strong>Train at moderate intensity (Zone 2 cardio or technique work), hydrate with electrolytes, and prioritize an early bedtime.</strong></li>
+<li><strong>🔴 7-Day Rolling HRV Trend Drops Below Your Normal Corridor (Red Recovery):</strong> Indicates cumulative sympathetic strain, under-recovery, or oncoming illness. <strong>Take a rest day, do 10 minutes of slow resonance breathing (6 breaths/minute), and focus on sleep and nutrition until your 7-day trend rebounds.</strong></li>
+</ul>
+<hr />
+<h2>References &amp; Clinical Sources</h2>
 <ol>
-<li><strong>Shaffer, F., &amp; Ginsberg, J. P. (2017).</strong> <em>An Overview of Heart Rate Variability Metrics and Norms.</em> <strong>Frontiers in Public Health</strong>, 5, 258. <a href="https://pubmed.ncbi.nlm.nih.gov/29034226/">PubMed PMID: 29034226</a> / <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC5624990/">Full Text PMC5624990</a></li>
-<li><strong>Plews, D. J., Laursen, P. B., Stanley, J., Kilding, A. E., &amp; Buchheit, M. (2013).</strong> <em>Training Adaptation and Heart Rate Variability in Elite Endurance Athletes: Opening the Door to Effective Monitoring.</em> <strong>Sports Medicine</strong>, 43(9), 773–781. <a href="https://pubmed.ncbi.nlm.nih.gov/23852425/">PubMed PMID: 23852425</a></li>
-<li><strong>Task Force of the European Society of Cardiology and the North American Society of Pacing and Electrophysiology (1996).</strong> <em>Heart rate variability: standards of measurement, physiological interpretation and clinical use.</em> <strong>Circulation</strong>, 93(5), 1043–1065. <a href="https://pubmed.ncbi.nlm.nih.gov/8598068/">PubMed PMID: 8598068</a></li>
-<li><strong>WHOOP Recovery Science:</strong> <em>Heart Rate Variability (HRV): What It Is and How to Improve It.</em> <a href="https://support.whoop.com/s/article/WHOOP-Recovery">WHOOP Support &amp; Science</a></li>
+<li><strong>Shaffer, F., &amp; Ginsberg, J. P. (2017).</strong> <em>An Overview of Heart Rate Variability Metrics and Norms.</em> Frontiers in Public Health, 5, 258. <a href="https://pubmed.ncbi.nlm.nih.gov/29034226/">Read on PubMed / NIH ↗</a></li>
+<li><strong>Plews, D. J., Laursen, P. B., Stanley, J., Buchheit, M., &amp; Kilding, A. E. (2013).</strong> <em>Training adaptation and heart rate variability in elite endurance athletes: opening the door to effective monitoring.</em> Sports Medicine, 43(9), 773–781. <a href="https://pubmed.ncbi.nlm.nih.gov/23852425/">Read on PubMed / NIH ↗</a></li>
+<li><strong>Oura Ring Pulse Blog.</strong> <em>What Is Heart Rate Variability (HRV)? The Definitive Guide.</em> <a href="https://ouraring.com/blog/what-is-heart-rate-variability/">Read on Oura Ring ↗</a></li>
+<li><strong>Garmin Health Science.</strong> <em>Heart Rate Variability (HRV) Status &amp; Autonomic Recovery.</em> <a href="https://www.garmin.com/en-US/garmin-technology/health-science/hrv-status/">Read on Garmin Health Science ↗</a></li>
 </ol>
     </article>
 
@@ -201,7 +199,7 @@
       <div class="citation-icon">📚</div>
       <div class="citation-body">
         <h4>Clinical Reference & Scientific Backing</h4>
-        <p>This article is synthesized from peer-reviewed physiology, clinical guidelines, and wearable biometric methodologies developed by <strong>Frontiers in Public Health / Sports Medicine / WHOOP</strong>.</p>
+        <p>This article is synthesized from peer-reviewed physiology, clinical guidelines, and wearable biometric methodologies developed by <strong>Frontiers in Public Health (Shaffer & Ginsberg, 2017) & Plews et al. (2013)</strong>.</p>
         <div class="citation-actions">
           <a href="https://pubmed.ncbi.nlm.nih.gov/29034226/" target="_blank" rel="noopener noreferrer" class="btn-canonical-study">
             Read Canonical Study / Original Article ↗
@@ -215,7 +213,7 @@
       
     <a href="DM_SL_02.html" class="post-nav-btn prev">
       <span class="nav-direction">← Previous Article</span>
-      <span class="nav-title">The Science of Sleep Debt: Cumulative Neurobehavioral Decline, Metabolic Toll, and Repayment Math</span>
+      <span class="nav-title">Sleep Debt, Social Jetlag & Circadian Consistency: Why Weekend Catch-Up Sleep Fails</span>
     </a>
     
       
