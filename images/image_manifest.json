@@ -1,0 +1,254 @@
+{
+  "LM_SL_01": {
+    "hero_url": "https://images.unsplash.com/photo-1541781774459-bb2af2f05b55?auto=format&fit=crop&w=1200&q=85",
+    "hero_source_page": "https://unsplash.com/photos/photo-1541781774459-bb2af2f05b55",
+    "figure_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Polysomnography_model.jpg/1280px-Polysomnography_model.jpg",
+    "figure_source_page": "https://commons.wikimedia.org/wiki/File:Polysomnography_model.jpg",
+    "figure_ext": "jpg",
+    "hero_local": "images/LM_SL_01_hero.jpg",
+    "figure_local": "images/LM_SL_01_figure.jpg"
+  },
+  "LM_SL_02": {
+    "hero_url": "https://images.unsplash.com/photo-1511295742362-92c96b1cf484?auto=format&fit=crop&w=1200&q=85",
+    "hero_source_page": "https://unsplash.com/photos/photo-1511295742362-92c96b1cf484",
+    "figure_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Sleep_Hypnogram.svg/1280px-Sleep_Hypnogram.svg.png",
+    "figure_source_page": "https://commons.wikimedia.org/wiki/File:Sleep_Hypnogram.svg",
+    "figure_ext": "png",
+    "hero_local": "images/LM_SL_02_hero.jpg",
+    "figure_local": "images/LM_SL_02_figure.png"
+  },
+  "DM_SL_01": {
+    "hero_url": "https://images.unsplash.com/photo-1520206183501-b80df61043c2?auto=format&fit=crop&w=1200&q=85",
+    "hero_source_page": "https://unsplash.com/photos/photo-1520206183501-b80df61043c2",
+    "figure_url": "https://upload.wikimedia.org/wikipedia/commons/d/db/Sleep_EEG_Stage_4.jpg",
+    "figure_source_page": "https://commons.wikimedia.org/wiki/File:Sleep_EEG_Stage_4.jpg",
+    "figure_ext": "jpg",
+    "hero_local": "images/DM_SL_01_hero.jpg",
+    "figure_local": "images/DM_SL_01_figure.jpg"
+  },
+  "DM_SL_02": {
+    "hero_url": "https://images.unsplash.com/photo-1506126613408-eca07ce68773?auto=format&fit=crop&w=1200&q=85",
+    "hero_source_page": "https://unsplash.com/photos/photo-1506126613408-eca07ce68773",
+    "figure_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Biological_clock_human.svg/1280px-Biological_clock_human.svg.png",
+    "figure_source_page": "https://commons.wikimedia.org/wiki/File:Biological_clock_human.svg",
+    "figure_ext": "png",
+    "hero_local": "images/DM_SL_02_hero.jpg",
+    "figure_local": "images/DM_SL_02_figure.png"
+  },
+  "LM_RC_01": {
+    "hero_url": "https://images.unsplash.com/photo-1551288049-bebda4e38f71?auto=format&fit=crop&w=1200&q=85",
+    "hero_source_page": "https://unsplash.com/photos/photo-1551288049-bebda4e38f71",
+    "figure_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/ECG-RRinterval.svg/1280px-ECG-RRinterval.svg.png",
+    "figure_source_page": "https://commons.wikimedia.org/wiki/File:ECG-RRinterval.svg",
+    "figure_ext": "png",
+    "hero_local": "images/LM_RC_01_hero.jpg",
+    "figure_local": "images/LM_RC_01_figure.png"
+  },
+  "LM_RC_02": {
+    "hero_url": "https://images.unsplash.com/photo-1576091160550-2173dba999ef?auto=format&fit=crop&w=1200&q=85",
+    "hero_source_page": "https://unsplash.com/photos/photo-1576091160550-2173dba999ef",
+    "figure_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/2031_Factors_in_Cardiac_Output.jpg/1280px-2031_Factors_in_Cardiac_Output.jpg",
+    "figure_source_page": "https://commons.wikimedia.org/wiki/File:2031_Factors_in_Cardiac_Output.jpg",
+    "figure_ext": "jpg",
+    "hero_local": "images/LM_RC_02_hero.jpg",
+    "figure_local": "images/LM_RC_02_figure.jpg"
+  },
+  "DM_RC_01": {
+    "hero_url": "https://images.unsplash.com/photo-1518241353330-0f7941c2d9b5?auto=format&fit=crop&w=1200&q=85",
+    "hero_source_page": "https://unsplash.com/photos/photo-1518241353330-0f7941c2d9b5",
+    "figure_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Respiratory_sinus_arrhythmia_with_RBBB_%28male%2C_21%29.jpg/1280px-Respiratory_sinus_arrhythmia_with_RBBB_%28male%2C_21%29.jpg",
+    "figure_source_page": "https://commons.wikimedia.org/wiki/File:Respiratory_sinus_arrhythmia_with_RBBB_(male,_21).jpg",
+    "figure_ext": "jpg",
+    "hero_local": "images/DM_RC_01_hero.jpg",
+    "figure_local": "images/DM_RC_01_figure.jpg"
+  },
+  "DM_RC_02": {
+    "hero_url": "https://images.unsplash.com/photo-1544367567-0f2fcb009e0b?auto=format&fit=crop&w=1200&q=85",
+    "hero_source_page": "https://unsplash.com/photos/photo-1544367567-0f2fcb009e0b",
+    "figure_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/The_Cori_cycle.png/1280px-The_Cori_cycle.png",
+    "figure_source_page": "https://commons.wikimedia.org/wiki/File:The_Cori_cycle.png",
+    "figure_ext": "png",
+    "hero_local": "images/DM_RC_02_hero.jpg",
+    "figure_local": "images/DM_RC_02_figure.png"
+  },
+  "LM_AC_01": {
+    "hero_url": "https://images.unsplash.com/photo-1476480862126-209bfaa8edc8?auto=format&fit=crop&w=1200&q=85",
+    "hero_source_page": "https://unsplash.com/photos/photo-1476480862126-209bfaa8edc8",
+    "figure_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Exercise_zones_Fox_and_Haskell.svg/1280px-Exercise_zones_Fox_and_Haskell.svg.png",
+    "figure_source_page": "https://commons.wikimedia.org/wiki/File:Exercise_zones_Fox_and_Haskell.svg",
+    "figure_ext": "png",
+    "hero_local": "images/LM_AC_01_hero.jpg",
+    "figure_local": "images/LM_AC_01_figure.png"
+  },
+  "LM_AC_02": {
+    "hero_url": "https://images.unsplash.com/photo-1517836357463-d25dfeac3438?auto=format&fit=crop&w=1200&q=85",
+    "hero_source_page": "https://unsplash.com/photos/photo-1517836357463-d25dfeac3438",
+    "figure_url": "https://upload.wikimedia.org/wikipedia/commons/c/c5/CO_Incresing.png",
+    "figure_source_page": "https://commons.wikimedia.org/wiki/File:CO_Incresing.png",
+    "figure_ext": "png",
+    "hero_local": "images/LM_AC_02_hero.jpg",
+    "figure_local": "images/LM_AC_02_figure.png"
+  },
+  "DM_AC_01": {
+    "hero_url": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?auto=format&fit=crop&w=1200&q=85",
+    "hero_source_page": "https://unsplash.com/photos/photo-1461896836934-ffe607ba8211",
+    "figure_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Cellular_respiration_EN.svg/1280px-Cellular_respiration_EN.svg.png",
+    "figure_source_page": "https://commons.wikimedia.org/wiki/File:Cellular_respiration_EN.svg",
+    "figure_ext": "png",
+    "hero_local": "images/DM_AC_01_hero.jpg",
+    "figure_local": "images/DM_AC_01_figure.png"
+  },
+  "DM_AC_02": {
+    "hero_url": "https://images.unsplash.com/photo-1526506118085-60ce8714f8c5?auto=format&fit=crop&w=1200&q=85",
+    "hero_source_page": "https://unsplash.com/photos/photo-1526506118085-60ce8714f8c5",
+    "figure_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Supercompensation.svg/1280px-Supercompensation.svg.png",
+    "figure_source_page": "https://commons.wikimedia.org/wiki/File:Supercompensation.svg",
+    "figure_ext": "png",
+    "hero_local": "images/DM_AC_02_hero.jpg",
+    "figure_local": "images/DM_AC_02_figure.png"
+  },
+  "LM_HW_01": {
+    "hero_url": "https://images.unsplash.com/photo-1499209974431-9dddcece7f88?auto=format&fit=crop&w=1200&q=85",
+    "hero_source_page": "https://unsplash.com/photos/photo-1499209974431-9dddcece7f88",
+    "figure_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Autonomic_and_Somatic_Nervous_System.png/1280px-Autonomic_and_Somatic_Nervous_System.png",
+    "figure_source_page": "https://commons.wikimedia.org/wiki/File:Autonomic_and_Somatic_Nervous_System.png",
+    "figure_ext": "png",
+    "hero_local": "images/LM_HW_01_hero.jpg",
+    "figure_local": "images/LM_HW_01_figure.png"
+  },
+  "LM_HW_02": {
+    "hero_url": "https://images.unsplash.com/photo-1538805060514-97d9cc17730c?auto=format&fit=crop&w=1200&q=85",
+    "hero_source_page": "https://unsplash.com/photos/photo-1538805060514-97d9cc17730c",
+    "figure_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Ergospirometry_laboratory.jpg/1280px-Ergospirometry_laboratory.jpg",
+    "figure_source_page": "https://commons.wikimedia.org/wiki/File:Ergospirometry_laboratory.jpg",
+    "figure_ext": "jpg",
+    "hero_local": "images/LM_HW_02_hero.jpg",
+    "figure_local": "images/LM_HW_02_figure.jpg"
+  },
+  "DM_HW_01": {
+    "hero_url": "https://images.unsplash.com/photo-1515377905703-c4788e51af15?auto=format&fit=crop&w=1200&q=85",
+    "hero_source_page": "https://unsplash.com/photos/photo-1515377905703-c4788e51af15",
+    "figure_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Anatomy_of_Anterior_Vagus_Nerve_Diagram.jpg/1280px-Anatomy_of_Anterior_Vagus_Nerve_Diagram.jpg",
+    "figure_source_page": "https://commons.wikimedia.org/wiki/File:Anatomy_of_Anterior_Vagus_Nerve_Diagram.jpg",
+    "figure_ext": "jpg",
+    "hero_local": "images/DM_HW_01_hero.jpg",
+    "figure_local": "images/DM_HW_01_figure.jpg"
+  },
+  "DM_HW_02": {
+    "hero_url": "https://images.unsplash.com/photo-1540555700478-4be289fbecef?auto=format&fit=crop&w=1200&q=85",
+    "hero_source_page": "https://unsplash.com/photos/photo-1540555700478-4be289fbecef",
+    "figure_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Negative_Feedback_Loop_Diagram_for_Human_Body_Temperature_Regulation.svg/1280px-Negative_Feedback_Loop_Diagram_for_Human_Body_Temperature_Regulation.svg.png",
+    "figure_source_page": "https://commons.wikimedia.org/wiki/File:Negative_Feedback_Loop_Diagram_for_Human_Body_Temperature_Regulation.svg",
+    "figure_ext": "png",
+    "hero_local": "images/DM_HW_02_hero.jpg",
+    "figure_local": "images/DM_HW_02_figure.png"
+  },
+  "LM_WH_01": {
+    "hero_url": "https://images.unsplash.com/photo-1518611012118-696072aa579a?auto=format&fit=crop&w=1200&q=85",
+    "hero_source_page": "https://unsplash.com/photos/photo-1518611012118-696072aa579a",
+    "figure_url": "https://upload.wikimedia.org/wikipedia/commons/c/cd/MenstrualCycle2.png",
+    "figure_source_page": "https://commons.wikimedia.org/wiki/File:MenstrualCycle2.png",
+    "figure_ext": "png",
+    "hero_local": "images/LM_WH_01_hero.jpg",
+    "figure_local": "images/LM_WH_01_figure.png"
+  },
+  "LM_WH_02": {
+    "hero_url": "https://images.unsplash.com/photo-1522337360788-8b13dee7a37e?auto=format&fit=crop&w=1200&q=85",
+    "hero_source_page": "https://unsplash.com/photos/photo-1522337360788-8b13dee7a37e",
+    "figure_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Female_reproductive_system.svg/1280px-Female_reproductive_system.svg.png",
+    "figure_source_page": "https://commons.wikimedia.org/wiki/File:Female_reproductive_system.svg",
+    "figure_ext": "png",
+    "hero_local": "images/LM_WH_02_hero.jpg",
+    "figure_local": "images/LM_WH_02_figure.png"
+  },
+  "LM_WH_03": {
+    "hero_url": "https://images.unsplash.com/photo-1516585427167-9f4af9627e6c?auto=format&fit=crop&w=1200&q=85",
+    "hero_source_page": "https://unsplash.com/photos/photo-1516585427167-9f4af9627e6c",
+    "figure_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Menstrual_cycle.svg/1280px-Menstrual_cycle.svg.png",
+    "figure_source_page": "https://commons.wikimedia.org/wiki/File:Menstrual_cycle.svg",
+    "figure_ext": "png",
+    "hero_local": "images/LM_WH_03_hero.jpg",
+    "figure_local": "images/LM_WH_03_figure.png"
+  },
+  "DM_WH_01": {
+    "hero_url": "https://images.unsplash.com/photo-1571019614242-c5c5dee9f50b?auto=format&fit=crop&w=1200&q=85",
+    "hero_source_page": "https://unsplash.com/photos/photo-1571019614242-c5c5dee9f50b",
+    "figure_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Hormones_estradiol%2C_progesterone%2C_LH_and_FSH_during_menstrual_cycle.svg/1280px-Hormones_estradiol%2C_progesterone%2C_LH_and_FSH_during_menstrual_cycle.svg.png",
+    "figure_source_page": "https://commons.wikimedia.org/wiki/File:Hormones_estradiol,_progesterone,_LH_and_FSH_during_menstrual_cycle.svg",
+    "figure_ext": "png",
+    "hero_local": "images/DM_WH_01_hero.jpg",
+    "figure_local": "images/DM_WH_01_figure.png"
+  },
+  "DM_WH_02": {
+    "hero_url": "https://images.unsplash.com/photo-1519689680058-324335c77eba?auto=format&fit=crop&w=1200&q=85",
+    "hero_source_page": "https://unsplash.com/photos/photo-1519689680058-324335c77eba",
+    "figure_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Pregnancy_chance_by_day_near_ovulation.jpg/1280px-Pregnancy_chance_by_day_near_ovulation.jpg",
+    "figure_source_page": "https://commons.wikimedia.org/wiki/File:Pregnancy_chance_by_day_near_ovulation.jpg",
+    "figure_ext": "jpg",
+    "hero_local": "images/DM_WH_02_hero.jpg",
+    "figure_local": "images/DM_WH_02_figure.jpg"
+  },
+  "DM_WH_03": {
+    "hero_url": "https://images.unsplash.com/photo-1490645935967-10de6ba17061?auto=format&fit=crop&w=1200&q=85",
+    "hero_source_page": "https://unsplash.com/photos/photo-1490645935967-10de6ba17061",
+    "figure_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Period_pain_menstrual_cramps_uterus.jpg/1280px-Period_pain_menstrual_cramps_uterus.jpg",
+    "figure_source_page": "https://commons.wikimedia.org/wiki/File:Period_pain_menstrual_cramps_uterus.jpg",
+    "figure_ext": "jpg",
+    "hero_local": "images/DM_WH_03_hero.jpg",
+    "figure_local": "images/DM_WH_03_figure.jpg"
+  },
+  "LM_MH_01": {
+    "hero_url": "https://images.unsplash.com/photo-1534438327276-14e5300c3a48?auto=format&fit=crop&w=1200&q=85",
+    "hero_source_page": "https://unsplash.com/photos/photo-1534438327276-14e5300c3a48",
+    "figure_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/1115_Muscles_of_the_Pelvic_Floor.jpg/1280px-1115_Muscles_of_the_Pelvic_Floor.jpg",
+    "figure_source_page": "https://commons.wikimedia.org/wiki/File:1115_Muscles_of_the_Pelvic_Floor.jpg",
+    "figure_ext": "jpg",
+    "hero_local": "images/LM_MH_01_hero.jpg",
+    "figure_local": "images/LM_MH_01_figure.jpg"
+  },
+  "LM_MH_02": {
+    "hero_url": "https://images.unsplash.com/photo-1571019613454-1cb2f99b2d8b?auto=format&fit=crop&w=1200&q=85",
+    "hero_source_page": "https://unsplash.com/photos/photo-1571019613454-1cb2f99b2d8b",
+    "figure_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Breathing_at_rest.jpg/1280px-Breathing_at_rest.jpg",
+    "figure_source_page": "https://commons.wikimedia.org/wiki/File:Breathing_at_rest.jpg",
+    "figure_ext": "jpg",
+    "hero_local": "images/LM_MH_02_hero.jpg",
+    "figure_local": "images/LM_MH_02_figure.jpg"
+  },
+  "LM_MH_03": {
+    "hero_url": "https://images.unsplash.com/photo-1579684385127-1ef15d508118?auto=format&fit=crop&w=1200&q=85",
+    "hero_source_page": "https://unsplash.com/photos/photo-1579684385127-1ef15d508118",
+    "figure_url": "https://upload.wikimedia.org/wikipedia/commons/1/11/Figure_28_01_06.jpg",
+    "figure_source_page": "https://commons.wikimedia.org/wiki/File:Figure_28_01_06.jpg",
+    "figure_ext": "jpg",
+    "hero_local": "images/LM_MH_03_hero.jpg",
+    "figure_local": "images/LM_MH_03_figure.jpg"
+  },
+  "DM_MH_01": {
+    "hero_url": "https://images.unsplash.com/photo-1581009146145-b5ef050c2e1e?auto=format&fit=crop&w=1200&q=85",
+    "hero_source_page": "https://unsplash.com/photos/photo-1581009146145-b5ef050c2e1e",
+    "figure_url": "https://upload.wikimedia.org/wikipedia/commons/e/ea/1116_Muscle_of_the_Male_Perineum.png",
+    "figure_source_page": "https://commons.wikimedia.org/wiki/File:1116_Muscle_of_the_Male_Perineum.png",
+    "figure_ext": "png",
+    "hero_local": "images/DM_MH_01_hero.jpg",
+    "figure_local": "images/DM_MH_01_figure.png"
+  },
+  "DM_MH_02": {
+    "hero_url": "https://images.unsplash.com/photo-1599058917212-d750089bc07e?auto=format&fit=crop&w=1200&q=85",
+    "hero_source_page": "https://unsplash.com/photos/photo-1599058917212-d750089bc07e",
+    "figure_url": "https://upload.wikimedia.org/wikipedia/commons/e/e2/Anterior_Hip_Muscles_2.PNG",
+    "figure_source_page": "https://commons.wikimedia.org/wiki/File:Anterior_Hip_Muscles_2.PNG",
+    "figure_ext": "png",
+    "hero_local": "images/DM_MH_02_hero.jpg",
+    "figure_local": "images/DM_MH_02_figure.png"
+  },
+  "DM_MH_03": {
+    "hero_url": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?auto=format&fit=crop&w=1200&q=85",
+    "hero_source_page": "https://unsplash.com/photos/photo-1507003211169-0a1dd7228f2d",
+    "figure_url": "https://upload.wikimedia.org/wikipedia/commons/4/4a/HPA_axis_chronic_stress.jpg",
+    "figure_source_page": "https://commons.wikimedia.org/wiki/File:HPA_axis_chronic_stress.jpg",
+    "figure_ext": "jpg",
+    "hero_local": "images/DM_MH_03_hero.jpg",
+    "figure_local": "images/DM_MH_03_figure.jpg"
+  }
+}

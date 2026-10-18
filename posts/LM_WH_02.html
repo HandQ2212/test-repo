@@ -1,207 +1,277 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="vi">
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Cervical Fluid 101: Decoding Vaginal Discharge as an Estrogen Mirror — Pulse & Vitality Blog</title>
+  <title>Dịch Nhầy Cổ Tử Cung 101: Chiếc Gương Phản Chiếu Estrogen Và Dự Báo Sớm Cửa Sổ Thụ Thai | Cervical Fluid 101: How Cervical Mucus Mirrors Estrogen and Predicts Your Fertile Window</title>
   <link rel="stylesheet" href="../styles.css">
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
   <link href="https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:wght@400;500;600;700;800&family=Lora:ital,wght@0,400;0,500;0,600;1,400&display=swap" rel="stylesheet">
 </head>
 <body class="blog-post-page">
-  <!-- Reading Progress Bar -->
   <div class="reading-progress-container">
     <div id="reading-progress" class="reading-progress-bar"></div>
   </div>
 
-  <!-- Sticky Top Navigation -->
+  <!-- Sticky Top Navigation with Bilingual Switcher -->
   <header class="navbar post-navbar">
     <div class="nav-container">
       <a href="../index.html" class="brand" style="text-decoration: none;">
         <div class="brand-logo">⚡</div>
         <div class="brand-text">
           <span class="brand-title">PULSE & VITALITY</span>
-          <span class="brand-subtitle">Health & Human Performance Knowledge Hub</span>
+          <span class="brand-subtitle" id="post-brand-subtitle">Cẩm Nang Khoa Học Sức Khỏe & Thiết Bị Đeo</span>
         </div>
       </a>
       <div class="nav-actions">
-        <a href="../index.html" class="btn-back-hub">
-          ← Back to All Articles
+        <div class="lang-switch-group" role="group" aria-label="Language Switcher">
+          <button id="post-lang-vi" class="lang-btn active" onclick="switchPostLang('vi')">🇻🇳 Tiếng Việt</button>
+          <button id="post-lang-en" class="lang-btn" onclick="switchPostLang('en')">🇬🇧 English</button>
+        </div>
+        <a href="../index.html" class="btn-back-hub" id="post-back-btn">
+          ← Quay lại Danh sách
         </a>
       </div>
     </div>
   </header>
 
-  <!-- Main Article Layout -->
-  <main class="article-page-container">
-    <!-- Breadcrumb -->
+  <!-- ========================================================= -->
+  <!-- VIETNAMESE ARTICLE CONTAINER                              -->
+  <!-- ========================================================= -->
+  <main id="post-container-vi" class="article-page-container">
     <nav class="article-breadcrumb">
-      <a href="../index.html">Knowledge Hub</a>
+      <a href="../index.html?lang=vi">Trang chủ</a>
       <span class="sep">/</span>
-      <a href="../index.html?cat=Women's Health">Women's Health</a>
+      <a href="../index.html?lang=vi">Sức khỏe Nữ giới</a>
       <span class="sep">/</span>
       <span class="current">Cervical Fluid Tracking</span>
     </nav>
 
-    <!-- Article Hero Header -->
     <header class="article-page-header">
       <div class="article-badges-row">
         <span class="badge" style="background: #FCE7F3; color: #DB2777; font-weight: 700;">
-          🌸 Women's Health
+          🌸 Sức khỏe Nữ giới
         </span>
         <span class="badge badge-sub">Cervical Fluid Tracking</span>
         <span class="badge badge-type">Learn more</span>
-        <span class="article-read-time">⏱ 3 min read</span>
+        <span class="article-read-time">⏱ 8 phút đọc</span>
       </div>
 
-      <h1 class="article-main-title">Cervical Fluid 101: Decoding Vaginal Discharge as an Estrogen Mirror</h1>
-      
-      <p class="article-sapo-lead">How the physical consistency, pH, and elasticity of cervical mucus shift across the cycle to protect or facilitate sperm motility.</p>
+      <h1 class="article-main-title">Dịch Nhầy Cổ Tử Cung 101: Chiếc Gương Phản Chiếu Estrogen Và Dự Báo Sớm Cửa Sổ Thụ Thai</h1>
+      <p class="article-sapo-lead">Nhiều ngày trước khi đồng hồ thông minh ghi nhận mức tăng nhiệt độ sau rụng trứng, các tuyến chuyên biệt tại cổ tử cung đã phản hồi tức thì với làn sóng Estrogen. Tìm hiểu cách đọc vị 4 trạng thái dịch nhầy cổ tử cung kết hợp cùng dữ liệu thiết bị đeo.</p>
 
-      <!-- Featured Cover Hero Image -->
       <figure class="article-featured-hero">
-        <img src="https://images.unsplash.com/photo-1508214751196-bcfd4ca60f91?auto=format&fit=crop&w=1200&q=80" alt="Cervical Fluid 101: Decoding Vaginal Discharge as an Estrogen Mirror">
-        <figcaption>Cervical Fluid 101: Decoding Vaginal Discharge as an Estrogen Mirror — Clinical Editorial Feature</figcaption>
+        <img src="../images/LM_WH_02_hero.jpg" alt="Dịch Nhầy Cổ Tử Cung 101: Chiếc Gương Phản Chiếu Estrogen Và Dự Báo Sớm Cửa Sổ Thụ Thai">
+        <figcaption>Dịch Nhầy Cổ Tử Cung 101: Chiếc Gương Phản Chiếu Estrogen Và Dự Báo Sớm Cửa Sổ Thụ Thai • <a href="https://images.unsplash.com/photo-1522337360788-8b13dee7a37e?auto=format&fit=crop&w=1200&q=85" target="_blank" rel="noopener noreferrer" class="img-source-badge">Link ảnh gốc xác thực (Unsplash) ↗</a></figcaption>
       </figure>
 
-      <!-- Editorial & Clinical Metadata Card -->
       <div class="article-metadata-card">
         <div class="meta-avatar">PV</div>
         <div class="meta-content">
-          <div class="meta-author">Pulse & Vitality Clinical Editorial Board</div>
+          <div class="meta-author">Hội Đồng Biên Tập Y Khoa Pulse & Vitality</div>
           <div class="meta-details">
-            <span>Clinical Wearable Reference: <strong>Clue App</strong></span>
+            <span>Nguồn nghiên cứu & Thiết bị: <strong>Clue Reproductive Science & PubMed / Odeblad & Bigelow et al. (Human Reproduction, 2004)</strong></span>
             <span class="meta-dot">•</span>
-            <span>Mapped Screen: <strong>Menstrual Cycle Screen</strong></span>
+            <span>Màn hình App: <strong>Menstrual Cycle Screen</strong></span>
             <span class="meta-dot">•</span>
-            <span>Metric: <strong>Cervical Mucus</strong></span>
+            <span>Chỉ số: <strong>Cervical Mucus</strong></span>
           </div>
         </div>
       </div>
     </header>
 
-    <!-- Key Actionable Takeaway Banner -->
     <section class="takeaway-banner-large">
       <div class="takeaway-banner-header">
         <span class="takeaway-icon-lg">💡</span>
-        <span>Key Actionable Takeaway</span>
+        <span>Điểm Cốt Lõi & Hành Động Thực Tế</span>
       </div>
-      <p>Stretchy, clear, egg-white cervical fluid indicates peak estrogen levels and confirms you have entered your most fertile days.</p>
+      <p>Trong khi nhiệt độ cơ thể ban đêm là chỉ báo trễ giúp xác nhận rụng trứng sau khi trứng đã phóng thích, dịch nhầy cổ tử cung trong suốt, co giãn như lòng trắng trứng lại là chỉ báo sớm xuất hiện trước khi rụng trứng 3 đến 5 ngày dưới tác động của đỉnh Estradiol—báo hiệu cửa sổ thụ thai chính thức mở ra.</p>
     </section>
 
-    <!-- Full Article Markdown Content -->
     <article class="article-rich-body">
-      
-        <figure class="article-inline-diagram">
-          <img src="https://images.unsplash.com/photo-1516585427167-9f4af9627e6c?auto=format&fit=crop&w=800&q=80" alt="Estrogen-stimulated cervical crypt secretions transitioning to clear, stretchy, fertile mucus." loading="lazy">
-          <figcaption>📊 <strong>Clinical Biometric Visual:</strong> Estrogen-stimulated cervical crypt secretions transitioning to clear, stretchy, fertile mucus.</figcaption>
-        </figure>
-        <h3>1. What is Cervical Fluid?</h3>
-<p>Cervical fluid (or cervical mucus) is a dynamic biological hydrogel secreted by specialized crypt glands inside the cervix. Far from being random discharge, its volume, viscosity, and chemical composition are regulated directly by circulating levels of estrogen and progesterone.</p>
-<h3>2. The Four Primary Consistencies Across the Cycle</h3>
+      <h2>Vì Sao Dịch Nhầy Cổ Tử Cung Là "Cảm Biến Estrogen" Thời Gian Thực Của Cơ Thể?</h2>
+<p>Khi bạn theo dõi chu kỳ trên <strong>Oura Ring</strong>, <strong>Apple Watch</strong>, <strong>WHOOP</strong> hoặc <strong>Garmin</strong>, thiết bị đeo dựa chủ yếu vào <strong>nhiệt độ da ngoại vi ban đêm</strong> để xác định thời điểm rụng trứng. Dù theo dõi nhiệt độ cực kỳ chính xác trong việc xác nhận rụng trứng <em>đã diễn ra</em>, phương pháp này có một giới hạn sinh học tự nhiên: hormone Progesterone chỉ làm tăng nhiệt độ cơ thể <strong>sau khi</strong> trứng đã được phóng thích khỏi buồng trứng.</p>
+<p>Nếu bạn muốn biết thời điểm rụng trứng đang đến gần <strong>trước từ 3 đến 5 ngày</strong>—dù để chuẩn bị mang thai, tránh thai tự nhiên theo phương pháp Sympto-Thermal (Triệu chứng – Nhiệt độ), hay đơn giản là hiểu vì sao năng lượng và ham muốn của mình đang dâng cao—cơ thể luôn cung cấp một chỉ dấu sinh học hoàn toàn miễn phí theo thời gian thực: <strong>Dịch nhầy cổ tử cung (Cervical Fluid / Cervical Mucus)</strong>.</p>
+<p>Hoàn toàn không phải là chất tiết ngẫu nhiên, dịch nhầy cổ tử cung là một <strong>hệ gel sinh học (Hydrogel)</strong> tinh vi được điều khiển trực tiếp bởi hormone, tiết ra từ hàng trăm tuyến hốc siêu nhỏ nằm bên trong <strong>kênh cổ tử cung</strong> (cánh cổng hẹp nối giữa âm đạo và buồng tử cung).</p>
+<figure class="article-inline-diagram">
+  <img src="../images/LM_WH_02_figure.png" alt="Sơ đồ giải phẫu hệ sinh sản nữ làm nổi bật cổ tử cung, tử cung, ống dẫn trứng và buồng trứng" loading="lazy">
+  <figcaption>📊 <strong>Cánh Cổng Sinh Học Cổ Tử Cung:</strong> Nằm giữa môi trường axit của âm đạo và buồng tử cung phía trên, các tuyến hốc nhạy cảm với hormone bên trong cổ tử cung liên tục thay đổi cấu trúc gel tiết ra mỗi ngày theo nồng độ Estradiol và Progesterone. <a href="https://commons.wikimedia.org/wiki/File:Female_reproductive_system.svg" target="_blank" rel="noopener noreferrer">Original Image Source: Wikimedia Commons ↗</a></figcaption>
+</figure>
+
+<hr />
+<h2>Cơ Chế Lý Sinh Của Cổ Tử Cung: Dịch Nhầy Loại G Và Dịch Nhầy Loại E</h2>
+<p>Nghiên cứu lý sinh đột phá của <strong>Giáo sư Erik Odeblad</strong> đã khám phá ra rằng các tuyến hốc cổ tử cung sản xuất hai loại gel mucin hoàn toàn trái ngược nhau tùy thuộc vào hormone nào đang chiếm ưu thế trong máu:</p>
 <ol>
-<li><strong>Dry or Sticky (Post-Menses / Early Follicular):</strong><br />
-   - <em>Hormone Driver:</em> Low estrogen, baseline progesterone.<br />
-   - <em>Appearance:</em> Minimal fluid; feels tacky, pasty, or rubbery.<br />
-   - <em>Fertility Status:</em> Low. The mucus forms a dense, acidic physical barrier that prevents sperm penetration.</li>
-<li><strong>Creamy (Mid-Follicular):</strong><br />
-   - <em>Hormone Driver:</em> Rising estrogen.<br />
-   - <em>Appearance:</em> Milky white or pale yellow, resembling hand lotion or yogurt.<br />
-   - <em>Fertility Status:</em> Moderate. Fluid volume is expanding, transitioning toward an alkaline pH.</li>
-<li><strong>Egg-White / Stretchy (Peak Fertile Window / Ovulation):</strong><br />
-   - <em>Hormone Driver:</em> Peak estrogen (estradiol).<br />
-   - <em>Appearance:</em> Completely clear, wet, slippery, and elastic (known clinically as <em>spinnbarkeit</em>), stretching several inches between thumb and index finger like raw egg white.<br />
-   - <em>Fertility Status:</em> <strong>Peak Fertility.</strong> This hydrogel forms microscopic parallel swimming channels that filter, nourish, and transport sperm into the uterine cavity.</li>
-<li><strong>Tacky or Dry (Luteal Phase):</strong><br />
-   - <em>Hormone Driver:</em> Dominant progesterone.<br />
-   - <em>Appearance:</em> Quickly turns cloudy, thick, and viscous, sealing off the cervical canal post-ovulation.</li>
+<li><strong>Dịch nhầy loại G do Progesterone chi phối ("Người Gác Cổng"):</strong> Trong khoảng 22 đến 24 ngày của chu kỳ 28 ngày, khi Estrogen thấp hoặc Progesterone cao, các tuyến hốc phía dưới cổ tử cung tiết ra một mạng lưới sợi mucin đan chéo dày đặc giàu bạch cầu. Dưới kính hiển vi, lớp gel này trông như một hàng rào gai chằng chịt. Kết hợp với độ pH axit tự nhiên của âm đạo (<code>3.8 đến 4.5</code>), nó tạo thành nút chặn vật lý ngăn cản tinh trùng và vi khuẩn xâm nhập vào tử cung.</li>
+<li><strong>Dịch nhầy loại E do Estrogen chi phối ("Cao Tốc Thụ Thai"):</strong> Khi một nang trứng trội lớn dần ở giữa và cuối pha Nang trứng, lượng <strong>Estradiol</strong> tăng vọt sẽ kích thích các tuyến hốc S và L của cổ tử cung. Tỷ lệ nước trong dịch nhầy tăng vọt từ <strong>90% lên tới 98.5%</strong>, độ pH chuyển sang môi trường kiềm lý tưởng cho tinh trùng (<code>7.0 đến 8.5</code>), và các phân tử mucin tự sắp xếp thành <strong>những làn bơi song song siêu nhỏ</strong>.</li>
+</ol>
+<hr />
+<h2>4 Trạng Thái Dịch Nhầy Cổ Tử Cung Qua Các Ngày Trong Chu Kỳ</h2>
+<p>Trên các ứng dụng theo dõi chu kỳ như <strong>Clue</strong>, <strong>Natural Cycles</strong>, <strong>Oura</strong> và <strong>Apple Health</strong>, dịch nhầy cổ tử cung được chia thành 4 giai đoạn quan sát trực quan dựa trên hình thái trên giấy vệ sinh, độ co giãn giữa hai ngón tay và cảm giác tại vùng kín khi đi lại:</p>
+<table>
+<thead>
+<tr>
+<th style="text-align: left;">Giai Đoạn Dịch Nhầy</th>
+<th style="text-align: left;">Ngày Điển Hình (Chu Kỳ 28 Ngày)</th>
+<th style="text-align: left;">Hormone Điều Khiển</th>
+<th style="text-align: left;">Đặc Điểm Nhận Diện Bằng Mắt &amp; Xúc Giác</th>
+<th style="text-align: left;">Khả Năng Thụ Thai &amp; Tương Quan Thiết Bị Đeo</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="text-align: left;"><strong>1. Khô (Dry / None)</strong></td>
+<td style="text-align: left;"><strong>Ngày 5 – 7</strong><br><em>(Ngay sau kỳ kinh)</em></td>
+<td style="text-align: left;">Estradiol và Progesterone đều ở mức nền thấp</td>
+<td style="text-align: left;">Không thấy dịch trên giấy vệ sinh; vùng âm hộ có cảm giác khô ráo hoặc bình thường.</td>
+<td style="text-align: left;"><strong>Khả năng thụ thai rất thấp.</strong> Nhiệt độ da trên đồng hồ/nhẫn đang ở mức nền thấp của pha Nang trứng.</td>
+</tr>
+<tr>
+<td style="text-align: left;"><strong>2. Dính / Đặc (Sticky / Tacky)</strong></td>
+<td style="text-align: left;"><strong>Ngày 7 – 9</strong></td>
+<td style="text-align: left;">Đầu pha Nang trứng; Estradiol bắt đầu nhích nhẹ</td>
+<td style="text-align: left;">Lượng ít, đặc, dạng bột hồ, vụn nhỏ hoặc hơi dẻo màu trắng đục/vàng nhạt; đứt ngay lập tức khi kéo nhẹ giữa hai ngón tay.</td>
+<td style="text-align: left;"><strong>Khả năng thụ thai thấp.</strong> Mạng lưới mucin dày đặc vẫn khóa kín cổ tử cung; chuẩn bị bước vào giai đoạn chuyển tiếp.</td>
+</tr>
+<tr>
+<td style="text-align: left;"><strong>3. Kem Mịn (Creamy / Lotion)</strong></td>
+<td style="text-align: left;"><strong>Ngày 10 – 12</strong></td>
+<td style="text-align: left;">Estradiol tăng dần ở giữa pha Nang trứng</td>
+<td style="text-align: left;">Mịn màng, màu trắng sữa hoặc vàng kem—giống sữa dưỡng thể (lotion) hoặc sữa chua Hy Lạp. Vùng kín có cảm giác ẩm mát.</td>
+<td style="text-align: left;"><strong>Giai đoạn chuyển tiếp / Bắt đầu có khả năng thụ thai.</strong> Hàm lượng nước tăng giúp tinh trùng sống được 1–3 ngày; chỉ số HRV đang tiến dần lên đỉnh tháng.</td>
+</tr>
+<tr>
+<td style="text-align: left;"><strong>4. Trong &amp; Co Giãn Như Lòng Trắng Trứng (EWCM)</strong></td>
+<td style="text-align: left;"><strong>Ngày 12 – 14</strong><br><em>(Đỉnh cửa sổ thụ thai)</em></td>
+<td style="text-align: left;"><strong>Đỉnh sóng Estradiol</strong> ngay trước khi rụng trứng</td>
+<td style="text-align: left;">Trong suốt (hoặc hơi ánh trắng), ướt và cực kỳ đàn hồi (<strong>Spinnbarkeit</strong>)—có thể kéo giãn <strong>2.5 đến 10+ cm</strong> giữa ngón cái và ngón trỏ mà không đứt. Vùng kín có cảm giác trơn ướt rõ rệt.</td>
+<td style="text-align: left;"><strong>Đỉnh Điểm Thụ Thai.</strong> Các kênh hydrogel song song nuôi dưỡng và dẫn đường cho tinh trùng sống tới 5 ngày. Nhiệt độ trên thiết bị đeo sẽ tăng <code>+0.3°C</code> trong vòng 24–48 giờ sau khi dịch này khô đi!</td>
+</tr>
+<tr>
+<td style="text-align: left;"><strong>5. Khô Hoặc Đặc Sau Rụng Trứng</strong></td>
+<td style="text-align: left;"><strong>Ngày 15 – 28</strong><br><em>(Pha Hoàng thể)</em></td>
+<td style="text-align: left;"><strong>Progesterone chiếm ưu thế</strong> từ Hoàng thể</td>
+<td style="text-align: left;">Nhanh chóng khô ráo hoặc chuyển sang đặc đục trong vòng 24 giờ sau rụng trứng khi Progesterone đóng kín nút nhầy cổ tử cung.</td>
+<td style="text-align: left;"><strong>Giai đoạn Hoàng thể không còn khả năng thụ thai</strong> (sau khi được xác nhận bởi 3 ngày nhiệt độ thiết bị đeo tăng cao liên tiếp).</td>
+</tr>
+</tbody>
+</table>
+<hr />
+<h2>Bằng Chứng Lâm Sàng: Quan Sát Dịch Nhầy Chính Xác Hơn Đếm Lịch</h2>
+<p>Chỉ dấu dịch nhầy cổ tử cung mạnh mẽ đến mức nào? Trong một nghiên cứu đa trung tâm kinh điển đăng trên tạp chí <em>Human Reproduction</em> (<strong>Bigelow et al., 2004</strong>; <strong>Scarpa et al., 2006</strong>), các nhà khoa học đã theo dõi xác suất thụ thai hàng ngày qua hàng nghìn chu kỳ:
+- Bất kể quan hệ tình dục diễn ra vào ngày thứ mấy trên lịch, <strong>xác suất thụ thai tăng gấp gần 3 lần vào những ngày người phụ nữ quan sát thấy dịch nhầy trong và co giãn như lòng trắng trứng (EWCM)</strong> so với những ngày không có dịch nhầy ở cùng một khoảng cách ngày tính tới lúc rụng trứng.
+- Ngay cả ở thời điểm 2 đến 3 ngày trước khi trứng rụng, sự hiện diện của dịch nhầy loại E chất lượng cao chính là yếu tố quyết định lớn nhất giúp tinh trùng sống sót đủ lâu để đợi trứng phóng thích.</p>
+<blockquote>
+<p><strong>Vì Sao Chỉ Đếm Ngày Trên Lịch Thường Sai Lệch?</strong> Các ứng dụng tính lịch truyền thống mặc định mọi phụ nữ đều rụng trứng vào Ngày 14. Trên thực tế, nghiên cứu dữ liệu lớn (<strong>Bull et al., Nature Digital Medicine 2019</strong> phân tích hơn 600.000 chu kỳ từ Natural Cycles) chứng minh chỉ có <strong>13% chu kỳ kéo dài đúng 28 ngày</strong>, và pha Nang trứng thường xuyên co giãn từ 3 đến 7 ngày do căng thẳng, di chuyển hoặc thiếu ngủ. Việc kết hợp <strong>chỉ báo sớm (Dịch nhầy cổ tử cung)</strong> với <strong>chỉ báo xác nhận trễ (Nhiệt độ da trên thiết bị đeo)</strong>—phương pháp <strong>Sympto-Thermal</strong>—giúp định vị chính xác cả điểm mở đầu lẫn điểm kết thúc của cửa sổ thụ thai.</p>
+</blockquote>
+<hr />
+<h2>4 Yếu Tố Thực Tế Ảnh Hưởng Đến Dịch Nhầy Cổ Tử Cung</h2>
+<p>Khi ghi chép dữ liệu trên ứng dụng, hãy lưu ý 4 yếu tố sinh hoạt có thể làm thay đổi tạm thời hình thái dịch nhầy:</p>
+<ol>
+<li><strong>Mức Độ Đủ Nước Của Cơ Thể:</strong> Vì dịch nhầy lòng trắng trứng (EWCM) chứa tới <strong>98% là nước</strong>, tình trạng thiếu nước nhẹ có thể khiến dịch nhầy trông đặc hơn hoặc chỉ ở dạng kem. Uống đủ <code>2.0 đến 2.5 lít</code> nước kèm điện giải ở nửa cuối pha Nang trứng giúp tuyến cổ tử cung tiết gel trong suốt rõ rệt hơn.</li>
+<li><strong>Thuốc Kháng Histamine &amp; Thuốc Cảm Nghẹt Mũi:</strong> Các loại thuốc dị ứng hoặc thông mũi không kê đơn làm khô màng nhầy toàn thân—không chỉ ở xoang mũi mà cả ở cổ tử cung—làm giảm lượng dịch EWCM quan sát được dù Estrogen vẫn đang ở đỉnh.</li>
+<li><strong>Phân Biệt Dịch Cổ Tử Cung Với Dịch Hưng Phần Tình Dục:</strong>
+   - <strong>Dịch nhầy thụ thai (EWCM)</strong> có cấu trúc dạng gel, kéo thành sợi dài giữa hai ngón tay mà không đứt và không thấm ngay vào giấy vệ sinh.
+   - <strong>Dịch tiết khi hưng phấn</strong> (từ tuyến Bartholin và thành âm đạo) mỏng, loãng như nước, phủ đều trên bề mặt da và thấm hoặc bay hơi rất nhanh trên giấy.</li>
+<li><strong>Nhận Biết Dịch Sinh Lý Khỏe Mạnh Và Dấu Hiệu Viêm Nhiễm:</strong> Dịch cổ tử cung khỏe mạnh chuyển từ trong suốt sang trắng sữa hoặc vàng nhạt khi tiếp xúc không khí, không mùi hoặc có mùi hơi chua nhẹ tự nhiên (do lợi khuẩn <em>Lactobacillus</em> bảo vệ). Nếu dịch chuyển sang <strong>vón cục như bã đậu kèm ngứa rát</strong> (nấm Candida), <strong>màu xám đục có mùi tanh</strong> (viêm âm đạo do vi khuẩn), hoặc <strong>màu vàng xanh kèm đau vùng chậu</strong>, bạn nên thăm khám bác sĩ phụ khoa.</li>
+</ol>
+<hr />
+<h2>Quy Trình 3 Bước Quan Sát &amp; Ghi Chép Dịch Nhầy Trong 15 Giây Mỗi Ngày</h2>
+<ol>
+<li><strong>Kiểm Tra Vào Giữa Ngày Hoặc Chiều (Trước Hoặc Sau Khi Đi Tiểu):</strong> Kiểm tra ngay khi mới ngủ dậy đôi khi chưa thấy rõ vì dịch cần thời gian di chuyển xuống ống âm đạo khi bạn đi lại.</li>
+<li><strong>Áp Dụng Quy Tắc "Cảm Giác + Giấy Vệ Sinh":</strong>
+   - Trước khi lau, hãy lắng nghe <strong>cảm giác tự nhiên ở vùng âm hộ</strong> (<em>khô ráo, ẩm mịn hay trơn ướt rõ rệt</em>).
+   - Dùng giấy vệ sinh sạch lau từ trước ra sau, quan sát màu sắc và thử chạm hai mặt giấy (hoặc dùng ngón cái và ngón trỏ sạch) kéo nhẹ xem dịch thuộc nhóm <strong>dính đặc, kem mịn hay trong suốt kéo sợi</strong>.</li>
+<li><strong>Luôn Ghi Nhận Trạng Thái Màu Mỡ Nhất Trong Ngày:</strong> Nếu buổi sáng bạn thấy dịch dạng kem nhưng lúc 4 giờ chiều lại thấy dịch trong kéo sợi như lòng trắng trứng, hãy chọn <strong>Egg-White (Lòng trắng trứng)</strong> trên ứng dụng cho ngày hôm đó. Sau đó, hãy theo dõi biểu đồ nhiệt độ ban đêm trên đồng hồ trong 48–72 giờ tiếp theo để thấy bước nhảy nhiệt độ của Progesterone xác nhận kỳ rụng trứng hoàn tất!</li>
+</ol>
+<hr />
+<h2>Tài Liệu Tham Khảo &amp; Nguồn Y Khoa</h2>
+<ol>
+<li><strong>Bigelow, J. L., Dunson, D. B., Stanford, J. B., Ecochard, R., Gnoth, C., &amp; Colombo, B. (2004).</strong> <em>Mucus observations in the fertile window: a better predictor of conception than timing of intercourse.</em> Human Reproduction, 19(4), 889–892. <a href="https://pubmed.ncbi.nlm.nih.gov/14998971/">Đọc trên PubMed / NIH ↗</a></li>
+<li><strong>Scarpa, B., Dunson, D. B., &amp; Colombo, B. (2006).</strong> <em>Cervical mucus secretions on the day of intercourse: an accurate marker of highly fertile days.</em> European Journal of Obstetrics &amp; Gynecology and Reproductive Biology, 125(1), 72–78. <a href="https://pubmed.ncbi.nlm.nih.gov/16154254/">Đọc trên PubMed / NIH ↗</a></li>
+<li><strong>Clue Reproductive Health Library.</strong> <em>Wet, Sticky, Clear: What Your Cervical Fluid &amp; Discharge Are Telling You.</em> <a href="https://helloclue.com/articles/cycle-a-z/wet-sticky-what-your-discharge-is-telling-you">Đọc trên Clue ↗</a></li>
+<li><strong>Oura Ring Pulse Blog.</strong> <em>Understanding Cervical Mucus Changes Across Your Menstrual Cycle.</em> <a href="https://ouraring.com/blog/cervical-mucus/">Đọc trên Oura Ring ↗</a></li>
 </ol>
     </article>
 
-    <!-- Canonical Source Reference Box -->
     <section class="canonical-citation-card">
       <div class="citation-icon">📚</div>
       <div class="citation-body">
-        <h4>Clinical Reference & Scientific Backing</h4>
-        <p>This article is synthesized from peer-reviewed physiology, clinical guidelines, and wearable biometric methodologies developed by <strong>Clue App</strong>.</p>
+        <h4>Nguồn Tham Khảo Y Khoa & Nghiên Cứu Gốc</h4>
+        <p>Bài viết này được tổng hợp và kiểm chứng từ các nghiên cứu y sinh học, hướng dẫn lâm sàng và tài liệu khoa học thiết bị đeo của <strong>Clue Reproductive Science & PubMed / Odeblad & Bigelow et al. (Human Reproduction, 2004)</strong>.</p>
         <div class="citation-actions">
-          <a href="https://helloclue.com/articles/cycle-a-z/wet-sticky-what-your-discharge-is-telling-you" target="_blank" rel="noopener noreferrer" class="btn-canonical-study">
-            Read Canonical Study / Original Article ↗
+          <a href="https://pubmed.ncbi.nlm.nih.gov/14998971/" target="_blank" rel="noopener noreferrer" class="btn-canonical-study">
+            Xem Nghiên Cứu Gốc / Bài Báo Khoa Học ↗
           </a>
         </div>
       </div>
     </section>
 
-    <!-- Next / Previous Article Navigation -->
     <nav class="post-pagination-nav">
       
-    <a href="LM_WH_01.html" class="post-nav-btn prev">
-      <span class="nav-direction">← Previous Article</span>
-      <span class="nav-title">The Four Menstrual Phases: Hormonal Drivers of Energy, Mood, and Metabolism</span>
+    <a href="LM_WH_01.html?lang=vi" class="post-nav-btn prev">
+      <span class="nav-direction">← Bài viết trước</span>
+      <span class="nav-title">4 Giai Đoạn Của Chu Kỳ Kinh Nguyệt: Cách Hormone Điều Phối Năng Lượng, Giấc Ngủ Và Chỉ Số Sinh Học Trên Thiết Bị Đeo</span>
     </a>
-    
       
-    <a href="LM_WH_03.html" class="post-nav-btn next">
-      <span class="nav-direction">Next Article →</span>
-      <span class="nav-title">Basal Body Temperature (BBT): The Thermal Signature of Ovulation</span>
+    <a href="LM_WH_03.html?lang=vi" class="post-nav-btn next">
+      <span class="nav-direction">Bài tiếp theo →</span>
+      <span class="nav-title">Nhiệt Độ Cơ Bản (BBT) & Nhiệt Độ Da Ban Đêm: Cách Thiết Bị Đeo Xác Nhận Rụng Trứng</span>
     </a>
-    
     </nav>
 
-    <!-- Related Articles Section -->
     <section class="related-articles-section">
       <div class="related-section-header">
-        <h3>Related Reads in Women's Health</h3>
-        <a href="../index.html?cat=Women's Health" class="view-all-link">View all Women's Health articles →</a>
+        <h3>Bài viết liên quan thuộc chủ đề Sức khỏe Nữ giới</h3>
       </div>
       <div class="related-posts-grid">
         
-        <a href="LM_WH_01.html" class="related-post-card">
-          <div class="related-post-img" style="background-image: url('https://images.unsplash.com/photo-1518611012118-696072aa579a?auto=format&fit=crop&w=1200&q=80');">
+        <a href="LM_WH_01.html?lang=vi" class="related-post-card">
+          <div class="related-post-img" style="background-image: url('../images/LM_WH_01_hero.jpg');">
             <span class="related-post-badge" style="background: #FCE7F3; color: #DB2777;">
-              🌸 Women's Health
+              🌸 Sức khỏe Nữ giới
             </span>
           </div>
           <div class="related-post-info">
-            <h4 class="related-post-title">The Four Menstrual Phases: Hormonal Drivers of Energy, Mood, and Metabolism</h4>
-            <p class="related-post-desc">How the 28-day ebb and flow of Estrogen and Progesterone governs your energy, insulin sens...</p>
+            <h4 class="related-post-title">4 Giai Đoạn Của Chu Kỳ Kinh Nguyệt: Cách Hormone Điều Phối Năng Lượng, Giấc Ngủ Và Chỉ Số Sinh Học Trên Thiết Bị Đeo</h4>
+            <p class="related-post-desc">Cơ thể nữ giới vận hành theo hai nhịp sinh học song hành: nhịp ngày đêm 24 giờ (Circadian)...</p>
             <div class="related-post-meta">
-              <span>⏱ 3 min</span>
+              <span>⏱ 8 phút đọc</span>
               <span>•</span>
               <span>Learn more</span>
             </div>
           </div>
         </a>
         
-        <a href="LM_WH_03.html" class="related-post-card">
-          <div class="related-post-img" style="background-image: url('https://images.unsplash.com/photo-1516585427167-9f4af9627e6c?auto=format&fit=crop&w=1200&q=80');">
+        <a href="LM_WH_03.html?lang=vi" class="related-post-card">
+          <div class="related-post-img" style="background-image: url('../images/LM_WH_03_hero.jpg');">
             <span class="related-post-badge" style="background: #FCE7F3; color: #DB2777;">
-              🌸 Women's Health
+              🌸 Sức khỏe Nữ giới
             </span>
           </div>
           <div class="related-post-info">
-            <h4 class="related-post-title">Basal Body Temperature (BBT): The Thermal Signature of Ovulation</h4>
-            <p class="related-post-desc">How a post-ovulatory progesterone surge elevates your resting core and skin temperature by...</p>
+            <h4 class="related-post-title">Nhiệt Độ Cơ Bản (BBT) & Nhiệt Độ Da Ban Đêm: Cách Thiết Bị Đeo Xác Nhận Rụng Trứng</h4>
+            <p class="related-post-desc">Mỗi chu kỳ có rụng trứng đều vẽ nên một đường cong nhiệt độ hai pha rõ rệt qua từng đêm. T...</p>
             <div class="related-post-meta">
-              <span>⏱ 3 min</span>
+              <span>⏱ 8 phút đọc</span>
               <span>•</span>
               <span>Learn more</span>
             </div>
           </div>
         </a>
         
-        <a href="DM_WH_01.html" class="related-post-card">
-          <div class="related-post-img" style="background-image: url('https://images.unsplash.com/photo-1518611012118-696072aa579a?auto=format&fit=crop&w=1200&q=80');">
+        <a href="DM_WH_01.html?lang=vi" class="related-post-card">
+          <div class="related-post-img" style="background-image: url('../images/DM_WH_01_hero.jpg');">
             <span class="related-post-badge" style="background: #FCE7F3; color: #DB2777;">
-              🌸 Women's Health
+              🌸 Sức khỏe Nữ giới
             </span>
           </div>
           <div class="related-post-info">
-            <h4 class="related-post-title">Cycle-Synced Fitness: Programming Resistance and Cardio Across Your Infradian Rhythm</h4>
-            <p class="related-post-desc">The definitive clinical guide to periodizing your strength, HIIT, and recovery workouts in...</p>
+            <h4 class="related-post-title">Tập Luyện Đồng Bộ Chu Kỳ (Cycle-Synced Training): Cách Phân Kỳ Sức Mạnh, HIIT Và Phục Hồi Theo Nội Tiết Tố</h4>
+            <p class="related-post-desc">Vì sao cùng một giáo án nâng tạ hay chạy bộ lại mang đến cảm giác nhẹ nhàng ở Tuần 2 nhưng...</p>
             <div class="related-post-meta">
-              <span>⏱ 5 min</span>
+              <span>⏱ 9 phút đọc</span>
               <span>•</span>
               <span>Discover more</span>
             </div>
@@ -211,32 +281,313 @@
       </div>
     </section>
 
-    <!-- Return to Hub Footer CTA -->
     <div class="return-hub-cta">
-      <a href="../index.html" class="btn-return-hub">
-        ← Back to Knowledge Hub & Search
-      </a>
-      <button onclick="window.scrollTo({ top: 0, behavior: 'smooth' })" class="btn-scroll-top">
-        ↑ Back to Top
-      </button>
+      <a href="../index.html?lang=vi" class="btn-return-hub">← Quay lại Trang chủ & Tìm kiếm</a>
+      <button onclick="window.scrollTo({top: 0, behavior: 'smooth'})" class="btn-scroll-top">↑ Lên đầu trang</button>
     </div>
   </main>
 
-  <!-- Site Footer -->
+  <!-- ========================================================= -->
+  <!-- ENGLISH ARTICLE CONTAINER                                 -->
+  <!-- ========================================================= -->
+  <main id="post-container-en" class="article-page-container hidden">
+    <nav class="article-breadcrumb">
+      <a href="../index.html?lang=en">Knowledge Hub</a>
+      <span class="sep">/</span>
+      <a href="../index.html?lang=en">Women's Health</a>
+      <span class="sep">/</span>
+      <span class="current">Cervical Fluid Tracking</span>
+    </nav>
+
+    <header class="article-page-header">
+      <div class="article-badges-row">
+        <span class="badge" style="background: #FCE7F3; color: #DB2777; font-weight: 700;">
+          🌸 Women's Health
+        </span>
+        <span class="badge badge-sub">Cervical Fluid Tracking</span>
+        <span class="badge badge-type">Learn more</span>
+        <span class="article-read-time">⏱ 8 min read</span>
+      </div>
+
+      <h1 class="article-main-title">Cervical Fluid 101: How Cervical Mucus Mirrors Estrogen and Predicts Your Fertile Window</h1>
+      <p class="article-sapo-lead">Long before your smartwatch registers a post-ovulatory temperature rise, specialized glands in your cervix respond to rising estrogen in real time. Learn how to decode the four stages of cervical fluid alongside your wearable biometrics.</p>
+
+      <figure class="article-featured-hero">
+        <img src="../images/LM_WH_02_hero.jpg" alt="Cervical Fluid 101: How Cervical Mucus Mirrors Estrogen and Predicts Your Fertile Window">
+        <figcaption>Cervical Fluid 101: How Cervical Mucus Mirrors Estrogen and Predicts Your Fertile Window • <a href="https://images.unsplash.com/photo-1522337360788-8b13dee7a37e?auto=format&fit=crop&w=1200&q=85" target="_blank" rel="noopener noreferrer" class="img-source-badge">Verified Original Photo Source (Unsplash) ↗</a></figcaption>
+      </figure>
+
+      <div class="article-metadata-card">
+        <div class="meta-avatar">PV</div>
+        <div class="meta-content">
+          <div class="meta-author">Pulse & Vitality Clinical Editorial Board</div>
+          <div class="meta-details">
+            <span>Clinical & Wearable Source: <strong>Clue Reproductive Science & PubMed / Odeblad & Bigelow et al. (Human Reproduction, 2004)</strong></span>
+            <span class="meta-dot">•</span>
+            <span>Mapped Screen: <strong>Menstrual Cycle Screen</strong></span>
+            <span class="meta-dot">•</span>
+            <span>Biometric: <strong>Cervical Mucus</strong></span>
+          </div>
+        </div>
+      </div>
+    </header>
+
+    <section class="takeaway-banner-large">
+      <div class="takeaway-banner-header">
+        <span class="takeaway-icon-lg">💡</span>
+        <span>Key Actionable Takeaway</span>
+      </div>
+      <p>While overnight skin temperature is a lagging indicator that confirms ovulation after the egg has already been released, clear, stretchy 'egg-white' cervical fluid is a leading indicator triggered by surging estradiol 3 to 5 days before ovulation—marking the true opening of your fertile window.</p>
+    </section>
+
+    <article class="article-rich-body">
+      <h2>Why Cervical Fluid Is Your Body's Real-Time Estrogen Sensor</h2>
+<p>When you track your cycle on an <strong>Oura Ring</strong>, <strong>Apple Watch</strong>, <strong>WHOOP</strong>, or <strong>Garmin</strong>, your device relies primarily on <strong>overnight peripheral skin temperature</strong> to identify ovulation. While temperature tracking is remarkably accurate at confirming that ovulation <em>has already happened</em>, it faces one biological limitation: progesterone only raises your temperature <strong>after</strong> the egg has been released.</p>
+<p>If you want to know that ovulation is approaching <strong>3 to 5 days in advance</strong>—whether to plan a pregnancy, avoid conception naturally via Sympto-Thermal tracking, or simply understand why your energy and libido are surging—your body provides a free, real-time clinical biomarker: <strong>Cervical Fluid</strong> (known medically as <em>cervical mucus</em>).</p>
+<p>Far from being random vaginal discharge, cervical fluid is a sophisticated, hormone-controlled <strong>biological hydrogel</strong> secreted by hundreds of microscopic crypts inside your <strong>cervical canal</strong> (the narrow gateway connecting the vagina to the uterus).</p>
+<figure class="article-inline-diagram">
+  <img src="../images/LM_WH_02_figure.png" alt="Anatomical diagram of the female reproductive tract highlighting the cervix, uterus, fallopian tubes, and ovaries" loading="lazy">
+  <figcaption>📊 <strong>The Cervical Gateway:</strong> Positioned between the acidic vaginal environment and the upper uterine cavity, specialized crypt glands inside the cervix remodel their hydrogel secretions daily in response to ovarian estradiol and progesterone. <a href="https://commons.wikimedia.org/wiki/File:Female_reproductive_system.svg" target="_blank" rel="noopener noreferrer">Original Image Source: Wikimedia Commons ↗</a></figcaption>
+</figure>
+
+<hr />
+<h2>The Biophysical Magic of the Cervix: G-Type vs. E-Type Mucus</h2>
+<p>Pioneering biophysics research by <strong>Dr. Erik Odeblad</strong> discovered that cervical crypts produce two fundamentally different types of mucin gel depending on which ovarian hormone dominates your bloodstream:</p>
+<ol>
+<li><strong>Progesterone-Driven "G-Type" Mucus (The Biological Gatekeeper):</strong> For roughly 22 to 24 days of a 28-day cycle, when estrogen is low or progesterone is high, the lower cervical crypts secrete a dense, cross-linked meshwork of mucin fibers rich in leukocytes (white blood cells). Under a microscope, this gel looks like a tangled thicket of brushwood. Combined with a naturally acidic vaginal pH (<code>3.8 to 4.5</code>), it blocks sperm and pathogens from entering the uterus.</li>
+<li><strong>Estrogen-Driven "E-Type" Mucus (The Fertility Superhighway):</strong> As a dominant ovarian follicle grows during the mid-to-late follicular phase, surging <strong>estradiol</strong> stimulates the S-crypts and L-crypts of the cervix. Water content in the mucus jumps from <strong>90% up to 98.5%</strong>, pH shifts to a sperm-friendly alkaline range (<code>7.0 to 8.5</code>), and the mucin molecules align into <strong>parallel microscopic swimming lanes</strong>.</li>
+</ol>
+<hr />
+<h2>The 4 Stages of Cervical Fluid Across Your Cycle</h2>
+<p>In cycle-tracking apps like <strong>Clue</strong>, <strong>Natural Cycles</strong>, <strong>Oura</strong>, and <strong>Apple Health</strong>, cervical fluid is categorized into four observable stages based on how it looks on toilet paper or between clean fingers, and how your vulva feels as you walk:</p>
+<table>
+<thead>
+<tr>
+<th style="text-align: left;">Cervical Fluid Stage</th>
+<th style="text-align: left;">Typical Cycle Days</th>
+<th style="text-align: left;">Hormone Driver</th>
+<th style="text-align: left;">Visual &amp; Tactile Characteristics</th>
+<th style="text-align: left;">Fertility &amp; Wearable Alignment</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="text-align: left;"><strong>1. Dry or None</strong></td>
+<td style="text-align: left;"><strong>Days 5 – 7</strong><br><em>(Right after period)</em></td>
+<td style="text-align: left;">Low baseline Estradiol &amp; low Progesterone</td>
+<td style="text-align: left;">No visible fluid on tissue; vulvar sensation feels dry or neutral.</td>
+<td style="text-align: left;"><strong>Very Low Fertility.</strong> Skin temperature on your wearable is at its low follicular baseline.</td>
+</tr>
+<tr>
+<td style="text-align: left;"><strong>2. Sticky / Tacky</strong></td>
+<td style="text-align: left;"><strong>Days 7 – 9</strong></td>
+<td style="text-align: left;">Early Follicular; Estradiol beginning to stir</td>
+<td style="text-align: left;">Scant, thick, pasty, crumbly, or rubbery white/yellowish specks; breaks immediately if stretched between fingers.</td>
+<td style="text-align: left;"><strong>Low Fertility.</strong> Dense mucin mesh still blocks sperm movement; early fertile transition may begin soon.</td>
+</tr>
+<tr>
+<td style="text-align: left;"><strong>3. Creamy / Lotion-Like</strong></td>
+<td style="text-align: left;"><strong>Days 10 – 12</strong></td>
+<td style="text-align: left;">Rising Follicular Estradiol</td>
+<td style="text-align: left;">Smooth, opaque white or pale yellow—resembling hand lotion, milk, or Greek yogurt. Vulva feels cool or moisturized.</td>
+<td style="text-align: left;"><strong>Transition / Potentially Fertile.</strong> High water content begins keeping sperm alive for 1–3 days; HRV is climbing toward its monthly peak.</td>
+</tr>
+<tr>
+<td style="text-align: left;"><strong>4. Egg-White / Clear &amp; Stretchy (EWCM)</strong></td>
+<td style="text-align: left;"><strong>Days 12 – 14</strong><br><em>(Peak Fertile Window)</em></td>
+<td style="text-align: left;"><strong>Peak Estradiol Surge</strong> right before Ovulation</td>
+<td style="text-align: left;">Crystal clear (or translucent streaks), watery, and highly elastic (<strong>Spinnbarkeit</strong>)—stretches <strong>2.5 to 10+ cm (1 to 4 inches)</strong> between thumb and forefinger without breaking. Vulva feels distinctly wet and lubricative.</td>
+<td style="text-align: left;"><strong>Peak Fertility.</strong> Parallel hydrogel channels nourish and transport sperm for up to 5 days. Overnight temperature shift (<code>+0.3°C</code>) will follow 24–48 hours after this fluid dries up!</td>
+</tr>
+<tr>
+<td style="text-align: left;"><strong>5. Post-Ovulatory Dry / Thick</strong></td>
+<td style="text-align: left;"><strong>Days 15 – 28</strong><br><em>(Luteal Phase)</em></td>
+<td style="text-align: left;"><strong>Dominant Progesterone</strong> from Corpus Luteum</td>
+<td style="text-align: left;">Abruptly dries up or turns thick, cloudy, and tacky within 24 hours of ovulation as progesterone seals the cervical plug.</td>
+<td style="text-align: left;"><strong>Non-Fertile Luteal Window</strong> (once confirmed by 3 days of elevated wearable temperature).</td>
+</tr>
+</tbody>
+</table>
+<hr />
+<h2>Clinical Evidence: Cervical Fluid Outperforms Calendar Counting</h2>
+<p>How powerful is cervical fluid as a fertility biomarker? In a landmark multi-center study published in <em>Human Reproduction</em> (<strong>Bigelow et al., 2004</strong>; <strong>Scarpa et al., 2006</strong>), researchers tracked daily conception probabilities across thousands of cycles:
+- Regardless of which calendar day intercourse occurred, <strong>the probability of conception was nearly triple on days when women observed slippery, stretchy Egg-White Cervical Mucus (EWCM)</strong> compared to days with no visible mucus on the exact same day relative to ovulation.
+- Even 2 to 3 days before ovulation, the presence of high-quality E-type mucus was the single strongest determinant of whether sperm survived long enough to fertilize the egg.</p>
+<blockquote>
+<p><strong>Why Calendar Apps Alone Miss the Mark:</strong> Standard period apps assume every woman ovulates on Day 14. In reality, clinical studies (<strong>Bull et al., Nature Digital Medicine 2019</strong> analyzing over 600,000 cycles from Natural Cycles) prove that only <strong>13% of cycles are exactly 28 days long</strong>, and the follicular phase routinely shifts by 3 to 7 days due to travel, stress, or illness. Pairing <strong>leading cervical fluid observation</strong> with <strong>lagging wearable skin temperature</strong> (the <strong>Sympto-Thermal Method</strong>) captures both ends of your fertile window with clinical precision.</p>
+</blockquote>
+<hr />
+<h2>Real-World Wearable &amp; Lifestyle Factors That Affect Cervical Fluid</h2>
+<p>When checking your app logs, keep in mind four everyday factors that can temporarily alter cervical fluid appearance:</p>
+<ol>
+<li><strong>Systemic Hydration:</strong> Because fertile Egg-White Cervical Mucus is <strong>98% water</strong>, mild dehydration can mask fertile fluid, making it look thicker or merely creamy. Drinking <code>2.0 to 2.5 liters</code> of water with electrolytes during your late follicular phase helps cervical crypts express clear hydrogel.</li>
+<li><strong>Antihistamines &amp; Decongestants:</strong> Over-the-counter allergy medications dry out mucous membranes not just in your nasal passages, but also in your cervix—temporarily reducing visible EWCM even when estrogen is peaking.</li>
+<li><strong>Distinguishing EWCM from Arousal Fluid or Semen:</strong>
+   - <strong>Fertile EWCM</strong> is thick, gel-like, stretches several inches without snapping, and does not easily soak into toilet paper.
+   - <strong>Sexual arousal fluid</strong> (from the Bartholin's glands and vaginal transudate) is thin, watery, coats the skin evenly, and evaporates or absorbs into tissue within seconds.</li>
+<li><strong>Recognizing Normal Variations vs. Infection:</strong> Healthy cervical fluid shifts from clear to milky white or pale yellow when exposed to air and has a mild, neutral, or slightly tangy scent (from protective <em>Lactobacillus</em> bacteria). If discharge turns <strong>cottage-cheese clumpy with itching</strong> (yeast/Candida), <strong>grayish with a fishy odor</strong> (bacterial vaginosis), or <strong>yellow-green with pelvic pain</strong>, consult a healthcare provider.</li>
+</ol>
+<hr />
+<h2>3-Step Daily Routine to Log Cervical Fluid in Under 15 Seconds</h2>
+<ol>
+<li><strong>Check Before or After Urinating (Mid-Day Is Best):</strong> Morning checks can sometimes miss fluid that hasn't traveled down the vaginal canal yet. The easiest time to observe cervical fluid is mid-day or afternoon after walking around.</li>
+<li><strong>Use the "Sensation + Tissue" Check:</strong>
+   - Before wiping, notice the <strong>sensation at your vulva</strong> (<em>dry, damp, or distinctly slippery/lubricative</em>).
+   - Fold a clean piece of toilet paper, wipe front-to-back, and gently press and pull the paper apart (or test a small sample between clean thumb and index finger) to see if it is <strong>sticky, creamy, or stretchy/clear</strong>.</li>
+<li><strong>Always Log the Most Fertile Observation of the Day:</strong> If you notice creamy fluid at 10:00 AM and clear, stretchy egg-white fluid at 4:00 PM, always log <strong>Egg-White</strong> in your wearable app for that day. Watch your wearable's overnight temperature graph over the next 48–72 hours to see the progesterone thermal shift lock in!</li>
+</ol>
+<hr />
+<h2>References &amp; Clinical Sources</h2>
+<ol>
+<li><strong>Bigelow, J. L., Dunson, D. B., Stanford, J. B., Ecochard, R., Gnoth, C., &amp; Colombo, B. (2004).</strong> <em>Mucus observations in the fertile window: a better predictor of conception than timing of intercourse.</em> Human Reproduction, 19(4), 889–892. <a href="https://pubmed.ncbi.nlm.nih.gov/14998971/">Read on PubMed / NIH ↗</a></li>
+<li><strong>Scarpa, B., Dunson, D. B., &amp; Colombo, B. (2006).</strong> <em>Cervical mucus secretions on the day of intercourse: anaccurate marker of highly fertile days.</em> European Journal of Obstetrics &amp; Gynecology and Reproductive Biology, 125(1), 72–78. <a href="https://pubmed.ncbi.nlm.nih.gov/16154254/">Read on PubMed / NIH ↗</a></li>
+<li><strong>Clue Reproductive Health Library.</strong> <em>Wet, Sticky, Clear: What Your Cervical Fluid &amp; Discharge Are Telling You.</em> <a href="https://helloclue.com/articles/cycle-a-z/wet-sticky-what-your-discharge-is-telling-you">Read on Clue ↗</a></li>
+<li><strong>Oura Ring Pulse Blog.</strong> <em>Understanding Cervical Mucus Changes Across Your Menstrual Cycle.</em> <a href="https://ouraring.com/blog/cervical-mucus/">Read on Oura Ring ↗</a></li>
+</ol>
+    </article>
+
+    <section class="canonical-citation-card">
+      <div class="citation-icon">📚</div>
+      <div class="citation-body">
+        <h4>Clinical Reference & Scientific Backing</h4>
+        <p>This article is synthesized from peer-reviewed medical literature, clinical guidelines, and wearable biometric validation studies from <strong>Clue Reproductive Science & PubMed / Odeblad & Bigelow et al. (Human Reproduction, 2004)</strong>.</p>
+        <div class="citation-actions">
+          <a href="https://pubmed.ncbi.nlm.nih.gov/14998971/" target="_blank" rel="noopener noreferrer" class="btn-canonical-study">
+            Read Canonical Study / Original Source ↗
+          </a>
+        </div>
+      </div>
+    </section>
+
+    <nav class="post-pagination-nav">
+      
+    <a href="LM_WH_01.html?lang=en" class="post-nav-btn prev">
+      <span class="nav-direction">← Previous Article</span>
+      <span class="nav-title">The 4 Phases of Your Menstrual Cycle: How Hormones Shape Your Energy, Sleep, and Wearable Biometrics</span>
+    </a>
+      
+    <a href="LM_WH_03.html?lang=en" class="post-nav-btn next">
+      <span class="nav-direction">Next Article →</span>
+      <span class="nav-title">Basal Body Temperature (BBT) & Overnight Skin Temperature: How Wearables Confirm Ovulation</span>
+    </a>
+    </nav>
+
+    <section class="related-articles-section">
+      <div class="related-section-header">
+        <h3>Related Reads in Women's Health</h3>
+      </div>
+      <div class="related-posts-grid">
+        
+        <a href="LM_WH_01.html?lang=en" class="related-post-card">
+          <div class="related-post-img" style="background-image: url('../images/LM_WH_01_hero.jpg');">
+            <span class="related-post-badge" style="background: #FCE7F3; color: #DB2777;">
+              🌸 Women's Health
+            </span>
+          </div>
+          <div class="related-post-info">
+            <h4 class="related-post-title">The 4 Phases of Your Menstrual Cycle: How Hormones Shape Your Energy, Sleep, and Wearable Biometrics</h4>
+            <p class="related-post-desc">Your body operates on two biological clocks: a 24-hour circadian rhythm and a ~28-day infr...</p>
+            <div class="related-post-meta">
+              <span>⏱ 8 min</span>
+              <span>•</span>
+              <span>Learn more</span>
+            </div>
+          </div>
+        </a>
+        
+        <a href="LM_WH_03.html?lang=en" class="related-post-card">
+          <div class="related-post-img" style="background-image: url('../images/LM_WH_03_hero.jpg');">
+            <span class="related-post-badge" style="background: #FCE7F3; color: #DB2777;">
+              🌸 Women's Health
+            </span>
+          </div>
+          <div class="related-post-info">
+            <h4 class="related-post-title">Basal Body Temperature (BBT) & Overnight Skin Temperature: How Wearables Confirm Ovulation</h4>
+            <p class="related-post-desc">Every ovulatory cycle paints a distinct two-phase thermal signature across your nights. Le...</p>
+            <div class="related-post-meta">
+              <span>⏱ 8 min</span>
+              <span>•</span>
+              <span>Learn more</span>
+            </div>
+          </div>
+        </a>
+        
+        <a href="DM_WH_01.html?lang=en" class="related-post-card">
+          <div class="related-post-img" style="background-image: url('../images/DM_WH_01_hero.jpg');">
+            <span class="related-post-badge" style="background: #FCE7F3; color: #DB2777;">
+              🌸 Women's Health
+            </span>
+          </div>
+          <div class="related-post-info">
+            <h4 class="related-post-title">Cycle-Synced Training: How to Periodize Strength, HIIT, and Recovery Across Your Menstrual Cycle</h4>
+            <p class="related-post-desc">Why does the exact same weightlifting or running program feel effortless in Week 2 of your...</p>
+            <div class="related-post-meta">
+              <span>⏱ 9 min</span>
+              <span>•</span>
+              <span>Discover more</span>
+            </div>
+          </div>
+        </a>
+        
+      </div>
+    </section>
+
+    <div class="return-hub-cta">
+      <a href="../index.html?lang=en" class="btn-return-hub">← Back to Knowledge Hub & Search</a>
+      <button onclick="window.scrollTo({top: 0, behavior: 'smooth'})" class="btn-scroll-top">↑ Back to Top</button>
+    </div>
+  </main>
+
   <footer class="site-footer">
     <div class="footer-container">
-      <p>© 2026 Pulse & Vitality Performance Engine • Built for iOS / Android Wearable Integration</p>
-      <p class="disclaimer">Clinical data curated from Flo Health, Clue, Natural Cycles, Fitbit Blog, WHOOP The Locker, Maven Clinic, and Dr. Kegel.</p>
+      <p>© 2026 Pulse & Vitality Performance Engine • Evidence-Based Wearable Health Hub (EN / VI)</p>
     </div>
   </footer>
 
   <script>
+    function switchPostLang(lang) {
+      localStorage.setItem('pv_lang', lang);
+      const viContainer = document.getElementById('post-container-vi');
+      const enContainer = document.getElementById('post-container-en');
+      const btnVi = document.getElementById('post-lang-vi');
+      const btnEn = document.getElementById('post-lang-en');
+      const brandSub = document.getElementById('post-brand-subtitle');
+      const backBtn = document.getElementById('post-back-btn');
+
+      if (lang === 'en') {
+        viContainer.classList.add('hidden');
+        enContainer.classList.remove('hidden');
+        btnVi.classList.remove('active');
+        btnEn.classList.add('active');
+        brandSub.textContent = 'Health & Human Performance Knowledge Hub';
+        backBtn.textContent = '← Back to All Articles';
+        backBtn.href = '../index.html?lang=en';
+        document.documentElement.lang = 'en';
+      } else {
+        enContainer.classList.add('hidden');
+        viContainer.classList.remove('hidden');
+        btnEn.classList.remove('active');
+        btnVi.classList.add('active');
+        brandSub.textContent = 'Cẩm Nang Khoa Học Sức Khỏe & Thiết Bị Đeo';
+        backBtn.textContent = '← Quay lại Danh sách';
+        backBtn.href = '../index.html?lang=vi';
+        document.documentElement.lang = 'vi';
+      }
+    }
+
+    (function initLang() {
+      const params = new URLSearchParams(window.location.search);
+      const qLang = params.get('lang');
+      const saved = qLang || localStorage.getItem('pv_lang') || 'vi';
+      switchPostLang(saved === 'en' ? 'en' : 'vi');
+    })();
+
     window.addEventListener('scroll', () => {
       const winScroll = document.body.scrollTop || document.documentElement.scrollTop;
       const height = document.documentElement.scrollHeight - document.documentElement.clientHeight;
-      if (height > 0) {
-        const scrolled = (winScroll / height) * 100;
-        document.getElementById('reading-progress').style.width = scrolled + '%';
+      const bar = document.getElementById('reading-progress');
+      if (height > 0 && bar) {
+        bar.style.width = ((winScroll / height) * 100) + '%';
       }
     });
   </script>

@@ -1,206 +1,252 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="vi">
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Overtraining Syndrome: Early Warning Biomarkers and Strategic Deloading — Pulse & Vitality Blog</title>
+  <title>Hội Chứng Tập Luyện Quá Sức & Đường Cong Siêu Bù Trừ: Dấu Hiệu Sinh Học Cảnh Báo Sớm Và Giao Thức Giảm Tải (Deload) | Overtraining Syndrome & The Supercompensation Curve: Early Warning Biomarkers and How to Execute a Deload Week</title>
   <link rel="stylesheet" href="../styles.css">
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
   <link href="https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:wght@400;500;600;700;800&family=Lora:ital,wght@0,400;0,500;0,600;1,400&display=swap" rel="stylesheet">
 </head>
 <body class="blog-post-page">
-  <!-- Reading Progress Bar -->
   <div class="reading-progress-container">
     <div id="reading-progress" class="reading-progress-bar"></div>
   </div>
 
-  <!-- Sticky Top Navigation -->
+  <!-- Sticky Top Navigation with Bilingual Switcher -->
   <header class="navbar post-navbar">
     <div class="nav-container">
       <a href="../index.html" class="brand" style="text-decoration: none;">
         <div class="brand-logo">⚡</div>
         <div class="brand-text">
           <span class="brand-title">PULSE & VITALITY</span>
-          <span class="brand-subtitle">Health & Human Performance Knowledge Hub</span>
+          <span class="brand-subtitle" id="post-brand-subtitle">Cẩm Nang Khoa Học Sức Khỏe & Thiết Bị Đeo</span>
         </div>
       </a>
       <div class="nav-actions">
-        <a href="../index.html" class="btn-back-hub">
-          ← Back to All Articles
+        <div class="lang-switch-group" role="group" aria-label="Language Switcher">
+          <button id="post-lang-vi" class="lang-btn active" onclick="switchPostLang('vi')">🇻🇳 Tiếng Việt</button>
+          <button id="post-lang-en" class="lang-btn" onclick="switchPostLang('en')">🇬🇧 English</button>
+        </div>
+        <a href="../index.html" class="btn-back-hub" id="post-back-btn">
+          ← Quay lại Danh sách
         </a>
       </div>
     </div>
   </header>
 
-  <!-- Main Article Layout -->
-  <main class="article-page-container">
-    <!-- Breadcrumb -->
+  <!-- ========================================================= -->
+  <!-- VIETNAMESE ARTICLE CONTAINER                              -->
+  <!-- ========================================================= -->
+  <main id="post-container-vi" class="article-page-container">
     <nav class="article-breadcrumb">
-      <a href="../index.html">Knowledge Hub</a>
+      <a href="../index.html?lang=vi">Trang chủ</a>
       <span class="sep">/</span>
-      <a href="../index.html?cat=Activity">Activity</a>
+      <a href="../index.html?lang=vi">Vận động</a>
       <span class="sep">/</span>
       <span class="current">Overtraining Prevention</span>
     </nav>
 
-    <!-- Article Hero Header -->
     <header class="article-page-header">
       <div class="article-badges-row">
         <span class="badge" style="background: #FEF3C7; color: #D97706; font-weight: 700;">
-          🏃 Activity
+          🏃 Vận động
         </span>
         <span class="badge badge-sub">Overtraining Prevention</span>
         <span class="badge badge-type">Discover more</span>
-        <span class="article-read-time">⏱ 5 min read</span>
+        <span class="article-read-time">⏱ 9 phút đọc</span>
       </div>
 
-      <h1 class="article-main-title">Overtraining Syndrome: Early Warning Biomarkers and Strategic Deloading</h1>
-      
-      <p class="article-sapo-lead">The physiology of central nervous system fatigue, adrenal desensitization, and how to execute a 7-day deload before catastrophic burnout occurs.</p>
+      <h1 class="article-main-title">Hội Chứng Tập Luyện Quá Sức & Đường Cong Siêu Bù Trừ: Dấu Hiệu Sinh Học Cảnh Báo Sớm Và Giao Thức Giảm Tải (Deload)</h1>
+      <p class="article-sapo-lead">Mỗi buổi tập đều tạm thời làm suy giảm thể lực của bạn; cơ thể chỉ thực sự mạnh lên trong pha bật tăng phục hồi gọi là Siêu bù trừ (Supercompensation). Tìm hiểu cách phân biệt đau mỏi cơ thông thường với Tình trạng Quá tải Phi chức năng và Hội chứng Tập luyện Quá sức (OTS) qua xu hướng HRV, Nhịp tim Lúc nghỉ và Nhịp tim Tối đa trên đồng hồ.</p>
 
-      <!-- Featured Cover Hero Image -->
       <figure class="article-featured-hero">
-        <img src="https://images.unsplash.com/photo-1518611012118-696072aa579a?auto=format&fit=crop&w=1200&q=80" alt="Overtraining Syndrome: Early Warning Biomarkers and Strategic Deloading">
-        <figcaption>Overtraining Syndrome: Early Warning Biomarkers and Strategic Deloading — Clinical Editorial Feature</figcaption>
+        <img src="../images/DM_AC_02_hero.jpg" alt="Hội Chứng Tập Luyện Quá Sức & Đường Cong Siêu Bù Trừ: Dấu Hiệu Sinh Học Cảnh Báo Sớm Và Giao Thức Giảm Tải (Deload)">
+        <figcaption>Hội Chứng Tập Luyện Quá Sức & Đường Cong Siêu Bù Trừ: Dấu Hiệu Sinh Học Cảnh Báo Sớm Và Giao Thức Giảm Tải (Deload) • <a href="https://images.unsplash.com/photo-1526506118085-60ce8714f8c5?auto=format&fit=crop&w=1200&q=85" target="_blank" rel="noopener noreferrer" class="img-source-badge">Link ảnh gốc xác thực (Unsplash) ↗</a></figcaption>
       </figure>
 
-      <!-- Editorial & Clinical Metadata Card -->
       <div class="article-metadata-card">
         <div class="meta-avatar">PV</div>
         <div class="meta-content">
-          <div class="meta-author">Pulse & Vitality Clinical Editorial Board</div>
+          <div class="meta-author">Hội Đồng Biên Tập Y Khoa Pulse & Vitality</div>
           <div class="meta-details">
-            <span>Clinical Wearable Reference: <strong>WHOOP Science / NSCA</strong></span>
+            <span>Nguồn nghiên cứu & Thiết bị: <strong>ACSM & ECSS Joint Consensus Statement (Meeusen et al., 2013)</strong></span>
             <span class="meta-dot">•</span>
-            <span>Mapped Screen: <strong>Activity Screen</strong></span>
+            <span>Màn hình App: <strong>Activity Screen</strong></span>
             <span class="meta-dot">•</span>
-            <span>Metric: <strong>Overtraining Syndrome</strong></span>
+            <span>Chỉ số: <strong>Overtraining Syndrome</strong></span>
           </div>
         </div>
       </div>
     </header>
 
-    <!-- Key Actionable Takeaway Banner -->
     <section class="takeaway-banner-large">
       <div class="takeaway-banner-header">
         <span class="takeaway-icon-lg">💡</span>
-        <span>Key Actionable Takeaway</span>
+        <span>Điểm Cốt Lõi & Hành Động Thực Tế</span>
       </div>
-      <p>When your multi-day HRV plummets and resting heart rate remains elevated, execute a 50% volume deload week immediately to avert clinical overtraining.</p>
+      <p>Sự tiến bộ thể lực diễn ra trong pha Siêu bù trừ (Supercompensation) chứ không phải trong lúc bạn đang nâng tạ hay chạy bộ. Khi trung bình trượt HRV 7 ngày tụt xuống dưới mức nền đi kèm Nhịp tim Lúc nghỉ tăng +5 đến +8 bpm suốt 4 ngày liên tiếp, hãy thực hiện ngay Tuần Giảm Tải (cắt giảm 40%–50% khối lượng tập) để kích hoạt pha bật tăng phong độ.</p>
     </section>
 
-    <!-- Full Article Markdown Content -->
     <article class="article-rich-body">
-      
-        <figure class="article-inline-diagram">
-          <img src="https://images.unsplash.com/photo-1576091160399-112ba8d25d1d?auto=format&fit=crop&w=800&q=80" alt="Neuroendocrine markers of central overtraining syndrome and sympathetic exhaustion." loading="lazy">
-          <figcaption>📊 <strong>Clinical Biometric Visual:</strong> Neuroendocrine markers of central overtraining syndrome and sympathetic exhaustion.</figcaption>
-        </figure>
-        <h3>1. Overreaching vs. Overtraining Syndrome</h3>
-<p>Exercise adaptation requires functional overreaching: applying acute micro-damage to muscular and metabolic structures so that the body supercompensates during recovery. However, when chronic strain continuously outpaces restorative capacity, athletes transition from non-functional overreaching into <strong>Overtraining Syndrome (OTS)</strong>—a clinical neuroendocrine disorder that can take months to resolve.</p>
-<h3>2. The Biometric Triad of Early Warning Signals</h3>
-<p>Before you feel physically exhausted, your wearable metrics will reveal the signature of systemic nervous system overload:<br />
-1. <strong>Multi-Day HRV Collapse:</strong> Rolling RMSSD falls more than 1.5 standard deviations below your normal baseline for 4 consecutive days, accompanied by loss of heart rate variability dynamics.<br />
-2. <strong>Elevated Nocturnal RHR:</strong> Waking pulse sits 5–10 bpm higher than your 30-day baseline, indicating persistent sympathetic drive and inability to down-regulate.<br />
-3. <strong>Suppressed Maximum Heart Rate:</strong> During high-intensity workouts, your heart feels sluggish and cannot reach peak target zones due to beta-adrenergic receptor desensitization.</p>
-<h3>3. Systemic Symptoms</h3>
-<ul>
-<li>Chronic sleep fragmentation and waking between 02:00 and 04:00 due to nocturnal cortisol spikes.</li>
-<li>Persistent heavy limbs and loss of explosive power.</li>
-<li>Altered appetite, mood volatility, and suppressed libido.</li>
-</ul>
-<h3>4. The 7-Day Strategic Deload Protocol</h3>
-<p>When your biometric indicators signal high risk, execute an immediate 7-day deload:<br />
-- <strong>Volume Reduction:</strong> Cut total sets and mileage by 50% immediately.<br />
-- <strong>Maintain Intensity, Drop Volume:</strong> Keep weight on the bar or running pace crisp, but perform only 2 sets instead of 4 or 5. This preserves neuromuscular adaptations without accumulating fatigue.<br />
-- <strong>Nutritional Surplus:</strong> Increase complex carbohydrate intake by 15%–20% to fully replenish hepatic and intramuscular glycogen stores.<br />
-- <strong>Sleep Extension:</strong> Add 45 minutes of scheduled time in bed each night.</p>
+      <h2>Quy Luật Siêu Bù Trừ: Vì Sao Cơ Thể Bạn Không Hề Mạnh Lên Trong Lúc Đang Tập?</h2>
+<p>Một trong những sự thật khó chấp nhận nhất đối với những người đam mê thể thao và luôn nỗ lực hết mình là: <strong>bạn không hề khỏe hơn, nhanh hơn hay săn chắc hơn trong lúc đang tập luyện</strong>. Trong suốt 60 phút nâng tạ nặng hay chạy 15 km tốc độ cao, thực chất bạn đang làm cơ thể <strong>yếu đi tạm thời</strong>: làm cạn kiệt kho dự trữ glycogen nội cơ, tạo ra hàng ngàn vết rách vi thể trên sợi cơ, đẩy hormone dị hóa cortisol lên cao và bào mòn hệ thần kinh tự chủ.</p>
+<p>Sự thích nghi sinh lý tích cực—được y học thể thao gọi là <strong>Siêu bù trừ (Supercompensation)</strong>—chỉ diễn ra <em>sau khi</em> buổi tập kết thúc, với điều kiện cơ thể bạn được cung cấp đủ giấc ngủ sâu, dinh dưỡng và thời gian nghỉ ngơi đối giao cảm để tái thiết lập cấu trúc mới vượt cao hơn nền tảng ban đầu.</p>
+<figure class="article-inline-diagram">
+  <img src="../images/DM_AC_02_figure.png" alt="Đường cong sinh lý học Siêu bù trừ và quỹ đạo tập luyện quá sức" loading="lazy">
+  <figcaption>📊 <strong>Biểu Đồ Thời Gian Siêu Bù Trừ (Supercompensation):</strong> Cách một kích thích tập luyện làm giảm năng lực thể chất tạm thời (Pha 1), phục hồi về mức nền (Pha 2), bật tăng lên đỉnh Siêu bù trừ mới (Pha 3), hoặc trượt dài xuống suy kiệt nếu tiếp tục dồn tải nặng khi chưa kịp hồi phục. <a href="https://commons.wikimedia.org/wiki/File:Supercompensation.svg" target="_blank" rel="noopener">Nguồn hình ảnh gốc: Wikimedia Commons ↗</a></figcaption>
+</figure>
+
+<hr />
+<h2>Quá Tải Chức Năng vs. Quá Tải Phi Chức Năng vs. Hội Chứng Tập Luyện Quá Sức (OTS)</h2>
+<p>Trong <strong>Tuyên bố Đồng thuận Chung giữa Hội Khoa học Thể thao Châu Âu (ECSS) và Hiệp hội Y học Thể thao Hoa Kỳ (ACSM)</strong> (<strong>Meeusen et al., 2013</strong>), các bác sĩ y học thể thao đã chỉ rõ sự mệt mỏi do tập luyện diễn tiến qua 3 cấp độ lâm sàng:</p>
+<table>
+<thead>
+<tr>
+<th style="text-align: left;">Cấp Độ Lâm Sàng</th>
+<th style="text-align: left;">Thời Gian Phục Hồi Điển Hình</th>
+<th style="text-align: left;">Trạng Thái Phong Độ &amp; Tâm Tâm Lý</th>
+<th style="text-align: left;">Dấu Hiệu Sinh Học Trên Thiết Bị Đeo (HRV, RHR, Giấc Ngủ)</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="text-align: left;"><strong>1. Quá Tải Chức Năng (Functional Overreaching)</strong></td>
+<td style="text-align: left;"><strong>3 – 7 Ngày</strong> <em>(Chu kỳ tích lũy có chủ đích)</em></td>
+<td style="text-align: left;">Nặng chân tạm thời vài ngày, sau đó <strong>bứt phá kỷ lục cá nhân (PR)</strong> ngay sau tuần giảm tải (Deload).</td>
+<td style="text-align: left;">HRV giảm nhẹ 2–3 ngày (<code>−5% đến −12%</code>) và RHR nhích nhẹ (<code>+2 đến +4 bpm</code>), sau đó bật tăng vượt mức nền khi nghỉ ngơi.</td>
+</tr>
+<tr>
+<td style="text-align: left;"><strong>2. Quá Tải Phi Chức Năng (Non-Functional Overreaching)</strong></td>
+<td style="text-align: left;"><strong>2 – 6 Tuần</strong></td>
+<td style="text-align: left;">Mức tạ và tốc độ chạy chững lại hoặc đi xuống, dễ cáu gắt, đau mỏi cơ dai dẳng và uể oải đầu óc dù vẫn cố tập nặng hơn.</td>
+<td style="text-align: left;"><strong>Trung bình trượt HRV 7 ngày tụt &gt; 1.5 độ lệch chuẩn dưới mức nền</strong>; RHR neo cao <code>+5 đến +8 bpm</code>; thức giấc lúc 3:00 sáng do đỉnh cortisol.</td>
+</tr>
+<tr>
+<td style="text-align: left;"><strong>3. Hội Chứng Tập Quá Sức (Overtraining Syndrome – OTS)</strong></td>
+<td style="text-align: left;"><strong>Nhiều Tháng (3 – 6+ Tháng)</strong></td>
+<td style="text-align: left;">Suy kiệt thần kinh-nội tiết toàn thân, mất động lực thi đấu, hay ốm vặt đường hô hấp trên và suy giảm hormone sinh dục.</td>
+<td style="text-align: left;">Rối loạn thần kinh tự chủ mạn tính: HRV đi ngang ở đáy hoặc dao động bất thường, nhịp tim tối đa khi tập bị kìm hãm và điểm sẵn sàng luôn báo Đỏ.</td>
+</tr>
+</tbody>
+</table>
+<hr />
+<h2>2 Giai Đoạn Của Tập Luyện Quá Sức: Quá Tải Giao Cảm vs. Suy Kiệt Đối Giao Cảm</h2>
+<p>Khi theo dõi dữ liệu sinh trắc học trên <strong>WHOOP</strong>, <strong>Garmin Training Status</strong> hoặc <strong>Oura Ring</strong>, giai đoạn đầu và giai đoạn muộn của tập luyện quá sức mang hai dấu ấn thần kinh tự chủ hoàn toàn khác biệt (<strong>Plews et al., 2013</strong>):</p>
+<h3>1. Giai Đoạn Sớm — Quá Tải Giao Cảm ("Mệt Rã Rời Nhưng Không Thể Ngủ Sâu")</h3>
+<p>Thường gặp ở người tập HIIT cường độ cao, CrossFit và tập tạ nặng kết hợp với áp lực công việc lớn và thiếu ngủ:
+- <strong>Nhịp Tim Lúc Nghỉ Qua Đêm Tăng Vọt (<code>+5 đến +10 bpm</code>):</strong> Nhánh thần kinh giao cảm ("chiến hay chạy") không thể tắt đi khi bạn lên giường.
+- <strong>HRV Ban Đêm Lao Dốc:</strong> Chỉ số RMSSD sụt giảm mạnh liên tục từ 4 ngày trở lên.
+- <strong>Cơn Thức Giấc Lúc 2:30 Sáng Do Cortisol:</strong> Bạn chìm vào giấc ngủ rất nhanh vì kiệt sức, nhưng một đợt phóng thích bất thường của <strong>cortisol và adrenaline</strong> vào ban đêm đánh thức bạn dậy tỉnh táo hoàn toàn trong khoảng 2:00 đến 4:00 sáng.</p>
+<h3>2. Giai Đoạn Muộn — Suy Kiệt Đối Giao Cảm ("Trơ Lì &amp; Nặng Nề")</h3>
+<p>Thường gặp ở vận động viên chạy bộ đường dài, đạp xe và 3 môn phối hợp tích lũy số km quá lớn từ tuần này qua tuần khác mà không có tuần giảm tải:
+- <strong>Không Thể Đạt Nhịp Tim Tối Đa Khi Nước Rút (Trơ Thụ Thể Beta-Adrenergic):</strong> Do cơ tim đã bị ngâm trong hormone adrenaline suốt nhiều tuần liền, các <strong>thụ thể beta-adrenergic</strong> tự động đóng bớt để bảo vệ cơ tim. Khi bạn cố gắng chạy nước rút hết sức với cảm giác mệt <code>10/10</code>, đồng hồ lại cho thấy nhịp tim bị kẹt cứng ở mức <code>162 bpm</code> thay vì lên tới <code>185 bpm</code> như bình thường!
+- <strong>Cơ Thể Nặng Trĩu &amp; Mất Động Lực:</strong> Trục tuyến thượng thận bị chai lì, khiến bạn luôn cảm thấy lạnh người, uể oải và mất hứng thú tập luyện.</p>
+<hr />
+<h2>Góc Nhìn Thực Tế: Bộ 3 Dấu Hiệu Đỏ Cảnh Báo Sớm Trên Đồng Hồ</h2>
+<p>Trước khi bạn bị căng cơ đùi sau hay đổ bệnh cảm cúm phải nghỉ tập 2 tuần, đồng hồ thông minh sẽ phát tín hiệu qua <strong>Bộ 3 Chỉ Số Sinh Học Cảnh Báo Sớm</strong>. Hãy luôn quan sát xu hướng trượt 7 ngày thay vì chỉ nhìn kết quả một buổi sáng:</p>
+<ol>
+<li><strong>HRV Trung Bình 7 Ngày Tụt Khỏi Vùng Nền Quá 4 Ngày Liên Tiếp:</strong> Khi đường trung bình HRV 7 ngày rơi xuống dưới dải tiêu chuẩn cá nhân (hiển thị trong mục <em>HRV Status</em> của Garmin hoặc <em>Health Monitor</em> của WHOOP), tốc độ tích lũy căng thẳng đang vượt quá khả năng tự sửa chữa của mô cơ.</li>
+<li><strong>Nhịp Tim Lúc Nghỉ (RHR) Neo Cao (<code>+5 bpm</code> So Với Mức Nền):</strong> Nếu RHR qua đêm bình thường của bạn là <code>52 bpm</code> nhưng lại neo ở mức <code>57–60 bpm</code> suốt 4 buổi sáng liên tiếp dù không uống rượu bia hay ăn khuya, cơ thể bạn đang phải chống chọi với phản ứng viêm hệ thống hoặc một đợt nhiễm siêu vi đang ủ bệnh.</li>
+<li><strong>Cảnh Báo "Strained / Unproductive" (Tỷ Lệ Tải Trọng Cấp Tính / Mạn Tính &gt; 1.5):</strong> Khi <strong>Tải trọng Cấp tính (7 ngày gần nhất)</strong> vượt quá <strong>1.5 lần Tải trọng Mạn tính (trung bình 28 ngày)</strong>—được gọi là chỉ số <strong>ACWR &gt; 1.5</strong>—nguy cơ chấn thương mô mềm tăng vọt hơn 200%.</li>
+</ol>
+<hr />
+<h2>Giao Thức Tuần Giảm Tải Chiến Lược (7-Day Deload): Kích Hoạt Siêu Bù Trừ</h2>
+<p>Một <strong>Tuần Giảm Tải (Deload Week)</strong> hoàn toàn không phải là sự lười biếng—đó là chất xúc tác sinh học chuyển hóa sự mệt mỏi tích lũy thành sợi cơ mới khỏe hơn và đỉnh VO₂ Max cao hơn. Hãy chủ động lên lịch Deload vào <strong>mỗi tuần thứ 4 đến thứ 6 của chu kỳ tập</strong> (hoặc ngay lập tức khi Bộ 3 Cảnh Báo Sớm xuất hiện):</p>
+<ol>
+<li><strong>Cắt Giảm 40% Đến 50% Tổng Khối Lượng Tập (Volume):</strong> Giảm gần một nửa tổng số hiệp tập tạ hoặc tổng số km chạy bộ/đạp xe trong tuần. Nếu bình thường bạn tập 4 hiệp Squat × 8 lần, hãy chỉ thực hiện <strong>2 hiệp gọn gàng × 5–6 lần</strong>.</li>
+<li><strong>Giữ Cường Độ Vừa Phải, Tuyệt Đối Tránh Tập Đến Thất Bại Cơ (Failure):</strong> Giữ mức tạ ở khoảng 80%–85% mức tạ làm việc bình thường để hệ thần kinh duy trì khả năng huy động đơn vị vận động, nhưng hãy dừng hiệp tập khi <strong>còn dư từ 3 đến 4 lần đẩy (RIR 3–4)</strong>. Tạm ngưng toàn bộ các buổi HIIT tối đa trong tuần Deload.</li>
+<li><strong>Giữ Nguyên Mức Calo Duy Trì (Không Cắt Giảm Dinh Dưỡng):</strong> Sai lầm kinh điển là ăn kiêng cắt giảm calo trong tuần giảm tải vì nghĩ rằng mình tập ít hơn. Quá trình hàn gắn các tơ cơ bị rách vi thể và nạp đầy lại kho glycogen đòi hỏi lượng đạm (<code>1.6–2.2 g/kg</code>) và tinh bột phức hợp đầy đủ!</li>
+<li><strong>Đón Nhận Cú Bật Tăng HRV Vào Ngày Thứ 5–6:</strong> Đến khoảng thứ Sáu hoặc thứ Bảy của tuần Deload chuẩn xác, bạn sẽ thấy <strong>Nhịp tim Lúc nghỉ qua đêm hạ xuống mức thấp nhất tháng và chỉ số HRV bật tăng mạnh mẽ vào vùng Xanh đỉnh cao</strong>—xác nhận cơ thể đã hoàn tất quá trình siêu bù trừ và sẵn sàng chinh phục những kỷ lục mới vào tuần kế tiếp.</li>
+</ol>
+<hr />
+<h2>Tài Liệu Tham Khảo &amp; Nguồn Y Khoa</h2>
+<ol>
+<li><strong>Meeusen, R., Duclos, M., Foster, C., Fry, A., Gleeson, M., Nieman, D., ... &amp; Urhausen, A. (2013).</strong> <em>Prevention, diagnosis, and treatment of the overtraining syndrome: joint consensus statement of the European College of Sport Science (ECSS) and the American College of Sports Medicine (ACSM).</em> Medicine &amp; Science in Sports &amp; Exercise, 45(1), 186–205. <a href="https://pubmed.ncbi.nlm.nih.gov/23247672/">Đọc trên PubMed / NIH ↗</a></li>
+<li><strong>Plews, D. J., Laursen, P. B., Stanley, J., Kilding, A. E., &amp; Buchheit, M. (2013).</strong> <em>Training adaptation and heart rate variability in elite endurance athletes: opening the door to effective monitoring.</em> Sports Medicine, 43(9), 773–781. <a href="https://pubmed.ncbi.nlm.nih.gov/23852425/">Đọc trên PubMed / NIH ↗</a></li>
+<li><strong>WHOOP The Locker.</strong> <em>Overtraining Syndrome: Signs, Symptoms, Recovery &amp; How to Prevent It With HRV.</em> <a href="https://www.whoop.com/us/en/thelocker/overtraining-signs-symptoms-prevention/">Đọc trên WHOOP ↗</a></li>
+<li><strong>Garmin Health Science.</strong> <em>Training Status &amp; Acute-to-Chronic Load Ratio: Balancing Strain and Recovery.</em> <a href="https://www.garmin.com/en-US/garmin-technology/running-science/physiological-measurements/training-status/">Đọc trên Garmin Health Science ↗</a></li>
+</ol>
     </article>
 
-    <!-- Canonical Source Reference Box -->
     <section class="canonical-citation-card">
       <div class="citation-icon">📚</div>
       <div class="citation-body">
-        <h4>Clinical Reference & Scientific Backing</h4>
-        <p>This article is synthesized from peer-reviewed physiology, clinical guidelines, and wearable biometric methodologies developed by <strong>WHOOP Science / NSCA</strong>.</p>
+        <h4>Nguồn Tham Khảo Y Khoa & Nghiên Cứu Gốc</h4>
+        <p>Bài viết này được tổng hợp và kiểm chứng từ các nghiên cứu y sinh học, hướng dẫn lâm sàng và tài liệu khoa học thiết bị đeo của <strong>ACSM & ECSS Joint Consensus Statement (Meeusen et al., 2013)</strong>.</p>
         <div class="citation-actions">
-          <a href="https://www.whoop.com/us/en/thelocker/overtraining-signs-symptoms-prevention/" target="_blank" rel="noopener noreferrer" class="btn-canonical-study">
-            Read Canonical Study / Original Article ↗
+          <a href="https://pubmed.ncbi.nlm.nih.gov/23247672/" target="_blank" rel="noopener noreferrer" class="btn-canonical-study">
+            Xem Nghiên Cứu Gốc / Bài Báo Khoa Học ↗
           </a>
         </div>
       </div>
     </section>
 
-    <!-- Next / Previous Article Navigation -->
     <nav class="post-pagination-nav">
       
-    <a href="DM_AC_01.html" class="post-nav-btn prev">
-      <span class="nav-direction">← Previous Article</span>
-      <span class="nav-title">The Zone 2 Cardio Blueprint: Maximizing Mitochondrial Density and Fat Oxidation</span>
+    <a href="DM_AC_01.html?lang=vi" class="post-nav-btn prev">
+      <span class="nav-direction">← Bài viết trước</span>
+      <span class="nav-title">Cẩm Nang Tập Luyện Cardio Zone 2: Xây Dựng Mật Độ Ti Thể Và Sự Linh Hoạt Chuyển Hóa Ở Nhịp Độ Trò Chuyện</span>
     </a>
-    
       
-    <a href="LM_HW_01.html" class="post-nav-btn next">
-      <span class="nav-direction">Next Article →</span>
-      <span class="nav-title">Stress Management Score: How Wearable Sensors Quantify Autonomic Strain</span>
+    <a href="LM_HW_01.html?lang=vi" class="post-nav-btn next">
+      <span class="nav-direction">Bài tiếp theo →</span>
+      <span class="nav-title">Giải Mã Điểm Quản Lý Căng Thẳng (Stress Score): Cách Thiết Bị Đeo Đo Lường Điện Sinh Lý Da (EDA) Và Hệ Thần Kinh Tự Chủ</span>
     </a>
-    
     </nav>
 
-    <!-- Related Articles Section -->
     <section class="related-articles-section">
       <div class="related-section-header">
-        <h3>Related Reads in Activity</h3>
-        <a href="../index.html?cat=Activity" class="view-all-link">View all Activity articles →</a>
+        <h3>Bài viết liên quan thuộc chủ đề Vận động</h3>
       </div>
       <div class="related-posts-grid">
         
-        <a href="LM_AC_01.html" class="related-post-card">
-          <div class="related-post-img" style="background-image: url('https://images.unsplash.com/photo-1476480862126-209bfaa8edc8?auto=format&fit=crop&w=1200&q=80');">
+        <a href="LM_AC_01.html?lang=vi" class="related-post-card">
+          <div class="related-post-img" style="background-image: url('../images/LM_AC_01_hero.jpg');">
             <span class="related-post-badge" style="background: #FEF3C7; color: #D97706;">
-              🏃 Activity
+              🏃 Vận động
             </span>
           </div>
           <div class="related-post-info">
-            <h4 class="related-post-title">Active Zone Minutes (AZM): Why Intensity Trumps Raw Step Counts</h4>
-            <p class="related-post-desc">How the WHO-backed metric uses personalized heart rate thresholds to reward cardiovascular...</p>
+            <h4 class="related-post-title">Giải Mã Active Zone Minutes (AZM): Vì Sao Cường Độ Nhịp Tim Quan Trọng Hơn 10.000 Bước Chân</h4>
+            <p class="related-post-desc">Đi bộ 10.000 bước thư thả mỗi ngày rất tốt cho vận động cơ bản, nhưng để tái cấu trúc hệ t...</p>
             <div class="related-post-meta">
-              <span>⏱ 3 min</span>
+              <span>⏱ 8 phút đọc</span>
               <span>•</span>
               <span>Learn more</span>
             </div>
           </div>
         </a>
         
-        <a href="LM_AC_02.html" class="related-post-card">
-          <div class="related-post-img" style="background-image: url('https://images.unsplash.com/photo-1517836357463-d25dfeac3438?auto=format&fit=crop&w=1200&q=80');">
+        <a href="LM_AC_02.html?lang=vi" class="related-post-card">
+          <div class="related-post-img" style="background-image: url('../images/LM_AC_02_hero.jpg');">
             <span class="related-post-badge" style="background: #FEF3C7; color: #D97706;">
-              🏃 Activity
+              🏃 Vận động
             </span>
           </div>
           <div class="related-post-info">
-            <h4 class="related-post-title">Demystifying Day Strain (0–21): The Logarithmic Scale of Daily Load</h4>
-            <p class="related-post-desc">How cardiovascular time-in-zone and resistance muscular load are compiled into a non-linea...</p>
+            <h4 class="related-post-title">Giải Mã Chỉ Số Day Strain (0–21): Cách Thiết Bị Đeo Đo Lường Tổng Tải Trọng Tim Mạch & Cơ Bắp</h4>
+            <p class="related-post-desc">Tại sao việc nâng điểm Day Strain từ 14 lên 18 lại đòi hỏi nỗ lực khắc nghiệt gấp nhiều lầ...</p>
             <div class="related-post-meta">
-              <span>⏱ 3 min</span>
+              <span>⏱ 8 phút đọc</span>
               <span>•</span>
               <span>Learn more</span>
             </div>
           </div>
         </a>
         
-        <a href="DM_AC_01.html" class="related-post-card">
-          <div class="related-post-img" style="background-image: url('https://images.unsplash.com/photo-1483721074573-58630b9f75d5?auto=format&fit=crop&w=1200&q=80');">
+        <a href="DM_AC_01.html?lang=vi" class="related-post-card">
+          <div class="related-post-img" style="background-image: url('../images/DM_AC_01_hero.jpg');">
             <span class="related-post-badge" style="background: #FEF3C7; color: #D97706;">
-              🏃 Activity
+              🏃 Vận động
             </span>
           </div>
           <div class="related-post-info">
-            <h4 class="related-post-title">The Zone 2 Cardio Blueprint: Maximizing Mitochondrial Density and Fat Oxidation</h4>
-            <p class="related-post-desc">Why elite endurance athletes spend 80% of their training volume at conversational pace, an...</p>
+            <h4 class="related-post-title">Cẩm Nang Tập Luyện Cardio Zone 2: Xây Dựng Mật Độ Ti Thể Và Sự Linh Hoạt Chuyển Hóa Ở Nhịp Độ Trò Chuyện</h4>
+            <p class="related-post-desc">Tại sao các cua-rơ Tour de France và vận động viên Marathon đỉnh cao lại dành tới 80% tổng...</p>
             <div class="related-post-meta">
-              <span>⏱ 5 min</span>
+              <span>⏱ 9 phút đọc</span>
               <span>•</span>
               <span>Discover more</span>
             </div>
@@ -210,32 +256,288 @@
       </div>
     </section>
 
-    <!-- Return to Hub Footer CTA -->
     <div class="return-hub-cta">
-      <a href="../index.html" class="btn-return-hub">
-        ← Back to Knowledge Hub & Search
-      </a>
-      <button onclick="window.scrollTo({ top: 0, behavior: 'smooth' })" class="btn-scroll-top">
-        ↑ Back to Top
-      </button>
+      <a href="../index.html?lang=vi" class="btn-return-hub">← Quay lại Trang chủ & Tìm kiếm</a>
+      <button onclick="window.scrollTo({top: 0, behavior: 'smooth'})" class="btn-scroll-top">↑ Lên đầu trang</button>
     </div>
   </main>
 
-  <!-- Site Footer -->
+  <!-- ========================================================= -->
+  <!-- ENGLISH ARTICLE CONTAINER                                 -->
+  <!-- ========================================================= -->
+  <main id="post-container-en" class="article-page-container hidden">
+    <nav class="article-breadcrumb">
+      <a href="../index.html?lang=en">Knowledge Hub</a>
+      <span class="sep">/</span>
+      <a href="../index.html?lang=en">Activity</a>
+      <span class="sep">/</span>
+      <span class="current">Overtraining Prevention</span>
+    </nav>
+
+    <header class="article-page-header">
+      <div class="article-badges-row">
+        <span class="badge" style="background: #FEF3C7; color: #D97706; font-weight: 700;">
+          🏃 Activity
+        </span>
+        <span class="badge badge-sub">Overtraining Prevention</span>
+        <span class="badge badge-type">Discover more</span>
+        <span class="article-read-time">⏱ 9 min read</span>
+      </div>
+
+      <h1 class="article-main-title">Overtraining Syndrome & The Supercompensation Curve: Early Warning Biomarkers and How to Execute a Deload Week</h1>
+      <p class="article-sapo-lead">Every workout temporarily breaks your body down; you only grow stronger during the recovery rebound known as Supercompensation. Learn how to distinguish normal training soreness from Non-Functional Overreaching and Overtraining Syndrome using your watch's HRV, Resting Heart Rate, and Max HR trends.</p>
+
+      <figure class="article-featured-hero">
+        <img src="../images/DM_AC_02_hero.jpg" alt="Overtraining Syndrome & The Supercompensation Curve: Early Warning Biomarkers and How to Execute a Deload Week">
+        <figcaption>Overtraining Syndrome & The Supercompensation Curve: Early Warning Biomarkers and How to Execute a Deload Week • <a href="https://images.unsplash.com/photo-1526506118085-60ce8714f8c5?auto=format&fit=crop&w=1200&q=85" target="_blank" rel="noopener noreferrer" class="img-source-badge">Verified Original Photo Source (Unsplash) ↗</a></figcaption>
+      </figure>
+
+      <div class="article-metadata-card">
+        <div class="meta-avatar">PV</div>
+        <div class="meta-content">
+          <div class="meta-author">Pulse & Vitality Clinical Editorial Board</div>
+          <div class="meta-details">
+            <span>Clinical & Wearable Source: <strong>ACSM & ECSS Joint Consensus Statement (Meeusen et al., 2013)</strong></span>
+            <span class="meta-dot">•</span>
+            <span>Mapped Screen: <strong>Activity Screen</strong></span>
+            <span class="meta-dot">•</span>
+            <span>Biometric: <strong>Overtraining Syndrome</strong></span>
+          </div>
+        </div>
+      </div>
+    </header>
+
+    <section class="takeaway-banner-large">
+      <div class="takeaway-banner-header">
+        <span class="takeaway-icon-lg">💡</span>
+        <span>Key Actionable Takeaway</span>
+      </div>
+      <p>Fitness gains happen during Supercompensation, not during the workout itself. When your 7-day rolling HRV drops below baseline while overnight Resting Heart Rate climbs +5 to +8 bpm for 4+ consecutive days, execute an immediate 7-day Deload (cutting training volume by 40%–50%) to trigger your performance rebound.</p>
+    </section>
+
+    <article class="article-rich-body">
+      <h2>The Law of Supercompensation: Why You Never Get Fitter During a Workout</h2>
+<p>One of the hardest truths for dedicated athletes and high-achievers to accept is that <strong>you do not get stronger, faster, or fitter while you are working out</strong>. During a heavy lifting block or a 15 km tempo run, you are actually making your body temporarily <em>weaker</em>: depleting intramuscular glycogen, creating microscopic tears in myofibrils, elevating cortisol, and taxing your autonomic nervous system.</p>
+<p>Positive physiological adaptation—known in sports science as <strong>Supercompensation</strong>—only occurs <em>after</em> the workout, provided your body is given sufficient sleep, nutrients, and parasympathetic downtime to rebuild above its previous baseline.</p>
+<figure class="article-inline-diagram">
+  <img src="../images/DM_AC_02_figure.png" alt="Physiological Supercompensation Curve and Overtraining Trajectory" loading="lazy">
+  <figcaption>📊 <strong>The Supercompensation Timeline:</strong> How an acute training stimulus temporarily lowers performance capacity (Phase 1), recovers to baseline (Phase 2), rebounds into a higher Supercompensation peak (Phase 3), or spirals downward if high strain is stacked without recovery. <a href="https://commons.wikimedia.org/wiki/File:Supercompensation.svg" target="_blank" rel="noopener">Original Image Source: Wikimedia Commons ↗</a></figcaption>
+</figure>
+
+<hr />
+<h2>Functional Overreaching vs. Non-Functional Overreaching vs. Overtraining Syndrome</h2>
+<p>In the landmark <strong>Joint Consensus Statement of the European College of Sport Science (ECSS) and the American College of Sports Medicine (ACSM)</strong> (<strong>Meeusen et al., 2013</strong>), sports medicine physicians established that training fatigue exists on a three-stage clinical spectrum:</p>
+<table>
+<thead>
+<tr>
+<th style="text-align: left;">Clinical Stage</th>
+<th style="text-align: left;">Typical Recovery Time</th>
+<th style="text-align: left;">Performance &amp; Mood State</th>
+<th style="text-align: left;">What Shows Up on Your Wearable (HRV, RHR, Sleep)</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="text-align: left;"><strong>1. Functional Overreaching (FOR)</strong></td>
+<td style="text-align: left;"><strong>3 – 7 Days</strong> <em>(Strategic Training Block)</em></td>
+<td style="text-align: left;">Temporary heavy legs for a few days, followed by a <strong>Supercompensation PR peak</strong> after a planned rest/deload week.</td>
+<td style="text-align: left;">2–3 days of mild HRV dip (<code>−5% to −12%</code>) and slight RHR rise (<code>+2 to +4 bpm</code>) that quickly rebound above baseline during taper.</td>
+</tr>
+<tr>
+<td style="text-align: left;"><strong>2. Non-Functional Overreaching (NFOR)</strong></td>
+<td style="text-align: left;"><strong>2 – 6 Weeks</strong></td>
+<td style="text-align: left;">Stagnant or declining lift numbers/run paces, irritability, persistent soreness, and afternoon brain fog despite training harder.</td>
+<td style="text-align: left;"><strong>7-day rolling HRV drops &gt; 1.5 SD below baseline</strong>; RHR stays elevated <code>+5 to +8 bpm</code>; Sleep Efficiency drops due to 3:00 AM cortisol wakeups.</td>
+</tr>
+<tr>
+<td style="text-align: left;"><strong>3. Overtraining Syndrome (OTS)</strong></td>
+<td style="text-align: left;"><strong>Months (3 – 6+ Months)</strong></td>
+<td style="text-align: left;">Systemic neuroendocrine burnout, loss of competitive drive, frequent upper respiratory infections, and hormonal suppression.</td>
+<td style="text-align: left;">Chronic autonomic dysregulation: flatlined or erratic HRV, suppressed maximum heart rate during exercise, and persistent red/low readiness scores.</td>
+</tr>
+</tbody>
+</table>
+<hr />
+<h2>The 2 Stages of Autonomic Overtraining: Sympathetic vs. Parasympathetic</h2>
+<p>When you monitor your biometrics on <strong>WHOOP</strong>, <strong>Garmin Training Status</strong>, or <strong>Oura Ring</strong>, early-stage and late-stage overtraining actually display two distinct autonomic signatures (<strong>Plews et al., 2013</strong>):</p>
+<h3>1. Early Stage — Sympathetic Overtraining ("Wired and Tired")</h3>
+<p>Common in high-intensity interval athletes, CrossFitters, and weightlifters who combine heavy gym sessions with high work stress and inadequate sleep:
+- <strong>Overnight RHR Surges (<code>+5 to +10 bpm</code>):</strong> Your sympathetic nervous system fails to shut off at night.
+- <strong>Nocturnal HRV Collapses:</strong> RMSSD drops sharply for 4 or more consecutive days.
+- <strong>The 2:30 AM Cortisol Wake-Up:</strong> You fall asleep quickly from exhaustion, but an abnormal nocturnal pulse of <strong>cortisol and adrenaline</strong> wakes you up wide-eyed between 2:00 AM and 4:00 AM.</p>
+<h3>2. Advanced Stage — Parasympathetic Exhaustion ("Flatlined &amp; Sluggish")</h3>
+<p>Common in high-volume endurance runners, cyclists, and triathletes who log excessive mileage week after week without deloading:
+- <strong>Inability to Hit Max Heart Rate (Beta-Adrenergic Desensitization):</strong> Because your heart has been flooded with adrenaline for weeks, its <strong>beta-adrenergic receptors</strong> down-regulate to protect the myocardium. During an all-out sprint, your legs burn and you feel at a <code>10/10</code> effort, yet your watch shows your heart rate is stuck at <code>162 bpm</code> instead of your normal <code>185 bpm</code>!
+- <strong>Deceptively Low or Unstable HRV/RHR:</strong> Your adrenal axis becomes blunted, leaving you feeling heavy, cold, and unmotivated all day.</p>
+<hr />
+<h2>Real-World Wearable Insights: The 3-Biomarker Red Flag Triad</h2>
+<p>Before you ever pull a hamstring or catch a cold that sidelines you for two weeks, your smartwatch will flash the <strong>Early Warning Biometric Triad</strong>. Look at your 7-day rolling trends rather than a single morning reading:</p>
+<ol>
+<li><strong>4+ Days of Below-Baseline Rolling HRV:</strong> When your 7-day HRV average crosses outside the bottom edge of your personal normal band (shown in Garmin's <em>HRV Status</em> or WHOOP's <em>Health Monitor</em>), accumulated stress is outpacing tissue repair.</li>
+<li><strong>Waking RHR Creeping Upward (<code>+5 bpm</code> Over Baseline):</strong> If your normal overnight RHR is <code>52 bpm</code> and it sits at <code>57–60 bpm</code> for four straight mornings without alcohol or late meals, your body is fighting either systemic training inflammation or an incubating virus.</li>
+<li><strong>Garmin "Strained" / "Unproductive" Status:</strong> When your <strong>Acute Load (7-day strain)</strong> rises past <strong>1.5× your Chronic Load (28-day baseline)</strong>—known clinically as the <strong>Acute:Chronic Workload Ratio (ACWR &gt; 1.5)</strong>—injury risk spikes by more than 200%.</li>
+</ol>
+<hr />
+<h2>The 7-Day Strategic Deload Protocol: How to Trigger Supercompensation</h2>
+<p>A <strong>Deload Week</strong> is not laziness—it is the biological catalyst that converts accumulated training fatigue into new muscle fibers and higher VO₂ Max. Execute a planned Deload every <strong>4th to 6th week of training</strong> (or immediately whenever the 3-Biomarker Triad appears):</p>
+<ol>
+<li><strong>Slash Training Volume by 40% to 50%:</strong> Cut your total weekly sets (in weightlifting) or weekly mileage/duration (in running/cycling) nearly in half. If you normally perform 4 sets of 8 squats, perform <strong>2 crisp sets of 5–6 reps</strong>.</li>
+<li><strong>Maintain Moderate Intensity, Eliminate Failure:</strong> Keep roughly 80%–85% of your normal working weight on the bar so your nervous system retains motor unit recruitment, but stay <strong>3 to 4 reps shy of muscular failure (RIR 3–4)</strong>. Avoid all-out HIIT or race-pace tests during deload week.</li>
+<li><strong>Keep Nutrition at Maintenance (Do Not Slash Calories):</strong> A classic mistake is cutting calories during a deload week because you are burning less energy. Repairing micro-torn sarcomeres and refilling depleted muscle glycogen requires full protein (<code>1.6–2.2 g/kg</code>) and complex carbohydrates!</li>
+<li><strong>Watch for the Day 5–6 HRV Supercompensation Bounce:</strong> By Friday or Saturday of a proper Deload week, you will see your <strong>overnight RHR drop to a monthly low and your HRV surge into peak Green territory</strong>—confirming that your body has supercompensated and is ready to set new personal records next week.</li>
+</ol>
+<hr />
+<h2>References &amp; Clinical Sources</h2>
+<ol>
+<li><strong>Meeusen, R., Duclos, M., Foster, C., Fry, A., Gleeson, M., Nieman, D., ... &amp; Urhausen, A. (2013).</strong> <em>Prevention, diagnosis, and treatment of the overtraining syndrome: joint consensus statement of the European College of Sport Science (ECSS) and the American College of Sports Medicine (ACSM).</em> Medicine &amp; Science in Sports &amp; Exercise, 45(1), 186–205. <a href="https://pubmed.ncbi.nlm.nih.gov/23247672/">Read on PubMed / NIH ↗</a></li>
+<li><strong>Plews, D. J., Laursen, P. B., Stanley, J., Kilding, A. E., &amp; Buchheit, M. (2013).</strong> <em>Training adaptation and heart rate variability in elite endurance athletes: opening the door to effective monitoring.</em> Sports Medicine, 43(9), 773–781. <a href="https://pubmed.ncbi.nlm.nih.gov/23852425/">Read on PubMed / NIH ↗</a></li>
+<li><strong>WHOOP The Locker.</strong> <em>Overtraining Syndrome: Signs, Symptoms, Recovery &amp; How to Prevent It With HRV.</em> <a href="https://www.whoop.com/us/en/thelocker/overtraining-signs-symptoms-prevention/">Read on WHOOP ↗</a></li>
+<li><strong>Garmin Health Science.</strong> <em>Training Status &amp; Acute-to-Chronic Load Ratio: Balancing Strain and Recovery.</em> <a href="https://www.garmin.com/en-US/garmin-technology/running-science/physiological-measurements/training-status/">Read on Garmin Health Science ↗</a></li>
+</ol>
+    </article>
+
+    <section class="canonical-citation-card">
+      <div class="citation-icon">📚</div>
+      <div class="citation-body">
+        <h4>Clinical Reference & Scientific Backing</h4>
+        <p>This article is synthesized from peer-reviewed medical literature, clinical guidelines, and wearable biometric validation studies from <strong>ACSM & ECSS Joint Consensus Statement (Meeusen et al., 2013)</strong>.</p>
+        <div class="citation-actions">
+          <a href="https://pubmed.ncbi.nlm.nih.gov/23247672/" target="_blank" rel="noopener noreferrer" class="btn-canonical-study">
+            Read Canonical Study / Original Source ↗
+          </a>
+        </div>
+      </div>
+    </section>
+
+    <nav class="post-pagination-nav">
+      
+    <a href="DM_AC_01.html?lang=en" class="post-nav-btn prev">
+      <span class="nav-direction">← Previous Article</span>
+      <span class="nav-title">The Zone 2 Cardio Blueprint: How Conversational-Pace Training Builds Mitochondrial Density and Metabolic Flexibility</span>
+    </a>
+      
+    <a href="LM_HW_01.html?lang=en" class="post-nav-btn next">
+      <span class="nav-direction">Next Article →</span>
+      <span class="nav-title">Stress Management Score Explained: How Wearables Track Electrodermal Activity (EDA) and Autonomic Balance</span>
+    </a>
+    </nav>
+
+    <section class="related-articles-section">
+      <div class="related-section-header">
+        <h3>Related Reads in Activity</h3>
+      </div>
+      <div class="related-posts-grid">
+        
+        <a href="LM_AC_01.html?lang=en" class="related-post-card">
+          <div class="related-post-img" style="background-image: url('../images/LM_AC_01_hero.jpg');">
+            <span class="related-post-badge" style="background: #FEF3C7; color: #D97706;">
+              🏃 Activity
+            </span>
+          </div>
+          <div class="related-post-info">
+            <h4 class="related-post-title">Active Zone Minutes (AZM) Explained: Why Heart Rate Intensity Matters More Than 10,000 Steps</h4>
+            <p class="related-post-desc">Walking 10,000 casual steps is great for baseline movement, but true cardiovascular remode...</p>
+            <div class="related-post-meta">
+              <span>⏱ 8 min</span>
+              <span>•</span>
+              <span>Learn more</span>
+            </div>
+          </div>
+        </a>
+        
+        <a href="LM_AC_02.html?lang=en" class="related-post-card">
+          <div class="related-post-img" style="background-image: url('../images/LM_AC_02_hero.jpg');">
+            <span class="related-post-badge" style="background: #FEF3C7; color: #D97706;">
+              🏃 Activity
+            </span>
+          </div>
+          <div class="related-post-info">
+            <h4 class="related-post-title">Demystifying Day Strain (0–21): How Wearables Quantify Total Cardiovascular & Muscular Load</h4>
+            <p class="related-post-desc">Why does jumping from a Day Strain of 14 to 18 feel exponentially harder than moving from ...</p>
+            <div class="related-post-meta">
+              <span>⏱ 8 min</span>
+              <span>•</span>
+              <span>Learn more</span>
+            </div>
+          </div>
+        </a>
+        
+        <a href="DM_AC_01.html?lang=en" class="related-post-card">
+          <div class="related-post-img" style="background-image: url('../images/DM_AC_01_hero.jpg');">
+            <span class="related-post-badge" style="background: #FEF3C7; color: #D97706;">
+              🏃 Activity
+            </span>
+          </div>
+          <div class="related-post-info">
+            <h4 class="related-post-title">The Zone 2 Cardio Blueprint: How Conversational-Pace Training Builds Mitochondrial Density and Metabolic Flexibility</h4>
+            <p class="related-post-desc">Why do Tour de France cyclists and elite marathoners spend 80% of their weekly training ho...</p>
+            <div class="related-post-meta">
+              <span>⏱ 9 min</span>
+              <span>•</span>
+              <span>Discover more</span>
+            </div>
+          </div>
+        </a>
+        
+      </div>
+    </section>
+
+    <div class="return-hub-cta">
+      <a href="../index.html?lang=en" class="btn-return-hub">← Back to Knowledge Hub & Search</a>
+      <button onclick="window.scrollTo({top: 0, behavior: 'smooth'})" class="btn-scroll-top">↑ Back to Top</button>
+    </div>
+  </main>
+
   <footer class="site-footer">
     <div class="footer-container">
-      <p>© 2026 Pulse & Vitality Performance Engine • Built for iOS / Android Wearable Integration</p>
-      <p class="disclaimer">Clinical data curated from Flo Health, Clue, Natural Cycles, Fitbit Blog, WHOOP The Locker, Maven Clinic, and Dr. Kegel.</p>
+      <p>© 2026 Pulse & Vitality Performance Engine • Evidence-Based Wearable Health Hub (EN / VI)</p>
     </div>
   </footer>
 
   <script>
+    function switchPostLang(lang) {
+      localStorage.setItem('pv_lang', lang);
+      const viContainer = document.getElementById('post-container-vi');
+      const enContainer = document.getElementById('post-container-en');
+      const btnVi = document.getElementById('post-lang-vi');
+      const btnEn = document.getElementById('post-lang-en');
+      const brandSub = document.getElementById('post-brand-subtitle');
+      const backBtn = document.getElementById('post-back-btn');
+
+      if (lang === 'en') {
+        viContainer.classList.add('hidden');
+        enContainer.classList.remove('hidden');
+        btnVi.classList.remove('active');
+        btnEn.classList.add('active');
+        brandSub.textContent = 'Health & Human Performance Knowledge Hub';
+        backBtn.textContent = '← Back to All Articles';
+        backBtn.href = '../index.html?lang=en';
+        document.documentElement.lang = 'en';
+      } else {
+        enContainer.classList.add('hidden');
+        viContainer.classList.remove('hidden');
+        btnEn.classList.remove('active');
+        btnVi.classList.add('active');
+        brandSub.textContent = 'Cẩm Nang Khoa Học Sức Khỏe & Thiết Bị Đeo';
+        backBtn.textContent = '← Quay lại Danh sách';
+        backBtn.href = '../index.html?lang=vi';
+        document.documentElement.lang = 'vi';
+      }
+    }
+
+    (function initLang() {
+      const params = new URLSearchParams(window.location.search);
+      const qLang = params.get('lang');
+      const saved = qLang || localStorage.getItem('pv_lang') || 'vi';
+      switchPostLang(saved === 'en' ? 'en' : 'vi');
+    })();
+
     window.addEventListener('scroll', () => {
       const winScroll = document.body.scrollTop || document.documentElement.scrollTop;
       const height = document.documentElement.scrollHeight - document.documentElement.clientHeight;
-      if (height > 0) {
-        const scrolled = (winScroll / height) * 100;
-        document.getElementById('reading-progress').style.width = scrolled + '%';
+      const bar = document.getElementById('reading-progress');
+      if (height > 0 && bar) {
+        bar.style.width = ((winScroll / height) * 100) + '%';
       }
     });
   </script>

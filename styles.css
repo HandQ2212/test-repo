@@ -1374,10 +1374,11 @@ body {
 .article-inline-diagram img {
   width: 100%;
   height: auto;
-  max-height: 520px;
+  max-height: 540px;
   object-fit: contain;
   display: block;
-  background: #0F172A;
+  background: #FFFFFF;
+  padding: 1rem;
 }
 
 .article-rich-body blockquote {
@@ -1420,6 +1421,63 @@ body {
   color: #1E3A8A;
 }
 
+/* Bilingual Language Switcher (EN / VI) */
+.nav-actions {
+  display: flex;
+  align-items: center;
+  gap: 0.75rem;
+  flex-wrap: wrap;
+}
+
+.lang-switch-group {
+  display: inline-flex;
+  align-items: center;
+  background: #F1F5F9;
+  border: 1px solid #CBD5E1;
+  border-radius: 999px;
+  padding: 0.2rem;
+  gap: 0.15rem;
+}
+
+.lang-btn {
+  border: none;
+  background: transparent;
+  color: #475569;
+  font-family: "Plus Jakarta Sans", sans-serif;
+  font-size: 0.8rem;
+  font-weight: 700;
+  padding: 0.35rem 0.75rem;
+  border-radius: 999px;
+  cursor: pointer;
+  transition: all 0.2s ease;
+  display: inline-flex;
+  align-items: center;
+  gap: 0.3rem;
+}
+
+.lang-btn:hover {
+  color: #0F172A;
+}
+
+.lang-btn.active {
+  background: #1E3A8A;
+  color: #FFFFFF;
+  box-shadow: 0 2px 6px rgba(30, 58, 138, 0.25);
+}
+
+.img-source-badge {
+  display: inline-block;
+  margin-left: 0.4rem;
+  font-size: 0.8rem;
+  color: #2563EB;
+  font-weight: 600;
+  text-decoration: none;
+}
+
+.img-source-badge:hover {
+  text-decoration: underline;
+}
+
 .related-post-img {
   height: 130px;
   background-size: cover;
@@ -1439,5 +1497,5 @@ body {
 
 @media (max-width: 768px) {
   .article-featured-hero img { height: 240px; }
-  .article-inline-diagram img { max-height: 240px; }
+  .article-inline-diagram img { max-height: 280px; }
 }

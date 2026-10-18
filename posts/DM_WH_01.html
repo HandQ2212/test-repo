@@ -1,50 +1,286 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="vi">
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Cycle-Synced Fitness: Programming Resistance and Cardio Across Your Infradian Rhythm — Pulse & Vitality Blog</title>
+  <title>Tập Luyện Đồng Bộ Chu Kỳ (Cycle-Synced Training): Cách Phân Kỳ Sức Mạnh, HIIT Và Phục Hồi Theo Nội Tiết Tố | Cycle-Synced Training: How to Periodize Strength, HIIT, and Recovery Across Your Menstrual Cycle</title>
   <link rel="stylesheet" href="../styles.css">
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
   <link href="https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:wght@400;500;600;700;800&family=Lora:ital,wght@0,400;0,500;0,600;1,400&display=swap" rel="stylesheet">
 </head>
 <body class="blog-post-page">
-  <!-- Reading Progress Bar -->
   <div class="reading-progress-container">
     <div id="reading-progress" class="reading-progress-bar"></div>
   </div>
 
-  <!-- Sticky Top Navigation -->
+  <!-- Sticky Top Navigation with Bilingual Switcher -->
   <header class="navbar post-navbar">
     <div class="nav-container">
       <a href="../index.html" class="brand" style="text-decoration: none;">
         <div class="brand-logo">⚡</div>
         <div class="brand-text">
           <span class="brand-title">PULSE & VITALITY</span>
-          <span class="brand-subtitle">Health & Human Performance Knowledge Hub</span>
+          <span class="brand-subtitle" id="post-brand-subtitle">Cẩm Nang Khoa Học Sức Khỏe & Thiết Bị Đeo</span>
         </div>
       </a>
       <div class="nav-actions">
-        <a href="../index.html" class="btn-back-hub">
-          ← Back to All Articles
+        <div class="lang-switch-group" role="group" aria-label="Language Switcher">
+          <button id="post-lang-vi" class="lang-btn active" onclick="switchPostLang('vi')">🇻🇳 Tiếng Việt</button>
+          <button id="post-lang-en" class="lang-btn" onclick="switchPostLang('en')">🇬🇧 English</button>
+        </div>
+        <a href="../index.html" class="btn-back-hub" id="post-back-btn">
+          ← Quay lại Danh sách
         </a>
       </div>
     </div>
   </header>
 
-  <!-- Main Article Layout -->
-  <main class="article-page-container">
-    <!-- Breadcrumb -->
+  <!-- ========================================================= -->
+  <!-- VIETNAMESE ARTICLE CONTAINER                              -->
+  <!-- ========================================================= -->
+  <main id="post-container-vi" class="article-page-container">
     <nav class="article-breadcrumb">
-      <a href="../index.html">Knowledge Hub</a>
+      <a href="../index.html?lang=vi">Trang chủ</a>
       <span class="sep">/</span>
-      <a href="../index.html?cat=Women's Health">Women's Health</a>
+      <a href="../index.html?lang=vi">Sức khỏe Nữ giới</a>
       <span class="sep">/</span>
       <span class="current">Cycle-Synced Fitness</span>
     </nav>
 
-    <!-- Article Hero Header -->
+    <header class="article-page-header">
+      <div class="article-badges-row">
+        <span class="badge" style="background: #FCE7F3; color: #DB2777; font-weight: 700;">
+          🌸 Sức khỏe Nữ giới
+        </span>
+        <span class="badge badge-sub">Cycle-Synced Fitness</span>
+        <span class="badge badge-type">Discover more</span>
+        <span class="article-read-time">⏱ 9 phút đọc</span>
+      </div>
+
+      <h1 class="article-main-title">Tập Luyện Đồng Bộ Chu Kỳ (Cycle-Synced Training): Cách Phân Kỳ Sức Mạnh, HIIT Và Phục Hồi Theo Nội Tiết Tố</h1>
+      <p class="article-sapo-lead">Vì sao cùng một giáo án nâng tạ hay chạy bộ lại mang đến cảm giác nhẹ nhàng ở Tuần 2 nhưng lại vắt kiệt sức lực ở Tuần 4 của chu kỳ? Khám phá khoa học nội tiết thể thao từ Tiến sĩ Stacy Sims và WHOOP Menstrual Cycle Coaching để tối ưu hóa tải tập luyện theo nhịp điệu Estrogen và Progesterone.</p>
+
+      <figure class="article-featured-hero">
+        <img src="../images/DM_WH_01_hero.jpg" alt="Tập Luyện Đồng Bộ Chu Kỳ (Cycle-Synced Training): Cách Phân Kỳ Sức Mạnh, HIIT Và Phục Hồi Theo Nội Tiết Tố">
+        <figcaption>Tập Luyện Đồng Bộ Chu Kỳ (Cycle-Synced Training): Cách Phân Kỳ Sức Mạnh, HIIT Và Phục Hồi Theo Nội Tiết Tố • <a href="https://images.unsplash.com/photo-1571019614242-c5c5dee9f50b?auto=format&fit=crop&w=1200&q=85" target="_blank" rel="noopener noreferrer" class="img-source-badge">Link ảnh gốc xác thực (Unsplash) ↗</a></figcaption>
+      </figure>
+
+      <div class="article-metadata-card">
+        <div class="meta-avatar">PV</div>
+        <div class="meta-content">
+          <div class="meta-author">Hội Đồng Biên Tập Y Khoa Pulse & Vitality</div>
+          <div class="meta-details">
+            <span>Nguồn nghiên cứu & Thiết bị: <strong>WHOOP Menstrual Cycle Coaching & Dr. Stacy Sims / PubMed (Sung et al., SpringerPlus 2014; McNulty et al., Sports Medicine 2020)</strong></span>
+            <span class="meta-dot">•</span>
+            <span>Màn hình App: <strong>Menstrual Cycle Screen</strong></span>
+            <span class="meta-dot">•</span>
+            <span>Chỉ số: <strong>Cycle-Synced Training</strong></span>
+          </div>
+        </div>
+      </div>
+    </header>
+
+    <section class="takeaway-banner-large">
+      <div class="takeaway-banner-header">
+        <span class="takeaway-icon-lg">💡</span>
+        <span>Điểm Cốt Lõi & Hành Động Thực Tế</span>
+      </div>
+      <p>Hãy dồn các buổi tập tạ nặng, cường độ cao ngắt quãng (HIIT) và mục tiêu phá kỷ lục cá nhân vào giai đoạn Nang trứng và Rụng trứng (Ngày 3–15) khi Estrogen tối ưu hóa tổng hợp protein cơ bắp và sử dụng glycogen. Sang nửa cuối pha Hoàng thể (Ngày 20–28), hãy chuyển sang Cardio Zone 2 bền bỉ, rèn kỹ thuật, tăng lượng đạm (1.8–2.2 g/kg) và chủ động làm mát cơ thể.</p>
+    </section>
+
+    <article class="article-rich-body">
+      <h2>Vì Sao Giáo Án Tập Luyện Tuyến Tính Truyền Thống Bỏ Quên Sinh Lý Nữ Giới?</h2>
+<p>Suốt nhiều thập kỷ, các giáo trình khoa học thể thao và chương trình tập gym đều được xây dựng dựa trên một giả định đơn giản: mọi ngày trong tháng đều bắt đầu từ một nền tảng nội tiết giống hệt nhau. Mô hình tuyến tính này hoạt động khá hiệu quả với sinh lý nam giới (nơi nồng độ Testosterone lặp lại theo chu kỳ 24 giờ mỗi ngày), nhưng với vận động viên và phụ nữ năng động, cơ thể trải qua <strong>sự biến thiên nồng độ Estradiol gấp 10 lần và Progesterone tăng vọt gấp 25 lần</strong> chỉ trong vòng một tháng.</p>
+<p>Như Tiến sĩ sinh lý học thể thao <strong>Stacy Sims</strong> (cố vấn khoa học cho tính năng <strong>WHOOP Menstrual Cycle Coaching</strong>) từng khẳng định trong câu nói nổi tiếng: <em>"Phụ nữ không phải là những người đàn ông thu nhỏ."</em> Khi bạn ép cơ thể tập luyện với khối lượng nặng và cường độ cao ở Tuần 4 của chu kỳ giống hệt như Tuần 2—bất chấp cảnh báo từ chỉ số HRV, Nhịp tim lúc nghỉ (RHR) và nhiệt độ da trên đồng hồ—bạn đang làm tăng nguy cơ <strong>quá tải thần kinh, tăng vọt hormone căng thẳng Cortisol, rối loạn giấc ngủ và Hội chứng thiếu hụt năng lượng tương đối trong thể thao (RED-S)</strong>.</p>
+<figure class="article-inline-diagram">
+  <img src="../images/DM_WH_01_figure.png" alt="Đường cong định lượng hormone Estradiol, Progesterone, LH và FSH qua các giai đoạn chu kỳ kinh nguyệt" loading="lazy">
+  <figcaption>📊 <strong>Bản Thiết Kế Nội Tiết Cho Phân Kỳ Tập Luyện:</strong> Hãy quan sát cách Estradiol tăng mạnh trong Pha Nang trứng (Ngày 7–14) tạo ra cửa sổ đồng hóa cơ bắp lý tưởng, trong khi Progesterone thống trị Pha Hoàng thể (Ngày 16–26) làm tăng thân nhiệt và thúc đẩy quá trình dị hóa đạm. <a href="https://commons.wikimedia.org/wiki/File:Hormones_estradiol,_progesterone,_LH_and_FSH_during_menstrual_cycle.svg" target="_blank" rel="noopener noreferrer">Original Image Source: Wikimedia Commons ↗</a></figcaption>
+</figure>
+
+<hr />
+<h2>Nghiên Cứu Khoa Học Thể Thao Đột Phá: Tập Sức Mạnh Ở Pha Nang Trứng So Với Pha Hoàng Thể</h2>
+<p>Liệu việc sắp xếp lịch tập tạ theo các pha của chu kỳ kinh nguyệt có thực sự giúp tăng cơ và sức mạnh vượt trội hơn? Hai công trình nghiên cứu lâm sàng trọng điểm đã chứng minh điều đó:</p>
+<ol>
+<li><strong>Lợi Thế Tăng Cơ Ở Pha Nang Trứng (<em>Sung et al., SpringerPlus 2014</em> &amp; <em>Wikström-Frisén et al., 2017</em>):</strong> Các nhà khoa học đã tiến hành thử nghiệm đối chứng, trong đó phụ nữ tập luyện một bên chân chủ yếu vào <strong>Pha Nang trứng</strong> (tập tần suất cao ở Tuần 1–2, giảm tải ở Tuần 3–4) và chân còn lại tập chủ yếu vào <strong>Pha Hoàng thể</strong> (tập nhẹ ở Tuần 1–2, tập nặng ở Tuần 3–4) suốt 3 chu kỳ liên tiếp.
+   - <strong>Kết quả ấn tượng:</strong> Nhóm tập sức mạnh tập trung vào Pha Nang trứng đạt <strong>mức tăng lực co cơ tứ đầu đùi tối đa cao hơn vượt trội (+42% so với +17%)</strong>, đường kính mặt cắt ngang sợi cơ lớn hơn và mật độ nhân tế bào cơ cao hơn hẳn so với tập nặng ở Pha Hoàng thể!</li>
+<li><strong>Vì Sao Estrogen Có Tính Đồng Hóa (Xây Dựng) Còn Progesterone Có Tính Dị Hóa (Phân Giải)?</strong>
+   - <strong>Estradiol (Thống trị Pha Nang trứng):</strong> Kích hoạt tế bào vệ tinh cơ xương, tăng độ nhạy Insulin, đẩy nhanh tốc độ nạp Glycogen vào cơ và hoạt động như một chất chống oxy hóa tự nhiên giúp giảm đau nhức cơ khởi phát muộn (DOMS) sau tập.
+   - <strong>Progesterone (Thống trị Pha Hoàng thể):</strong> Làm tăng <strong>quá trình oxy hóa axit amin và dị hóa protein</strong> (khiến cơ thể cần nhiều đạm hơn chỉ để giữ cơ), làm tăng nhiệt độ lõi thêm <code>+0.3°C đến +0.5°C</code>, đồng thời làm giảm khoảng ~8% thể tích huyết tương trong máu.</li>
+</ol>
+<hr />
+<h2>Phác Đồ Tập Luyện &amp; Dinh Dưỡng Đồng Bộ 4 Giai Đoạn Chu Kỳ</h2>
+<p>Hãy kết hợp màn hình Chu kỳ (Cycle Insights) cùng <strong>Điểm Sẵn sàng / Phục hồi (Readiness / Recovery Score)</strong> mỗi sáng trên đồng hồ để điều chỉnh tải tập luyện và dinh dưỡng:</p>
+<table>
+<thead>
+<tr>
+<th style="text-align: left;">Giai Đoạn Chu Kỳ</th>
+<th style="text-align: left;">Chỉ Số Thiết Bị Đeo &amp; Sinh Trắc Học</th>
+<th style="text-align: left;">Trọng Tâm Tập Luyện Tối Ưu</th>
+<th style="text-align: left;">Chiến Lược Dinh Dưỡng Trước &amp; Sau Tập</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="text-align: left;"><strong>1. Đầu Kỳ Kinh</strong><br><em>(Ngày 1 – 2)</em></td>
+<td style="text-align: left;"><strong>Nhiệt độ:</strong> Hạ về đường nền<br><strong>HRV:</strong> Bắt đầu bật tăng<br><strong>Triệu chứng:</strong> Đỉnh Prostaglandin gây co thắt</td>
+<td style="text-align: left;"><strong>Giải Tỏa Thần Kinh &amp; Linh Hoạt Khớp:</strong> Đi bộ Zone 1–2, Pilates, giãn cơ Mobility hoặc tập tạ kỹ thuật vừa phải nếu không đau bụng.</td>
+<td style="text-align: left;"><strong>Bổ Sung Sắt &amp; Kháng Viêm:</strong> Sắt Heme (thịt bò nạc, cá mòi) hoặc đậu lăng kèm Vitamin C; bổ sung Omega-3 và trà gừng ấm giảm co thắt.</td>
+</tr>
+<tr>
+<td style="text-align: left;"><strong>2. Cuối Kỳ Kinh &amp; Pha Nang Trứng</strong><br><em>(Ngày 3 – 13)</em></td>
+<td style="text-align: left;"><strong>Nhiệt độ:</strong> Mát và ổn định nhất<br><strong>RHR:</strong> Thấp nhất tháng<br><strong>HRV:</strong> Cao nhất tháng</td>
+<td style="text-align: left;"><strong>Tập Tạ Nặng, Tăng Cơ (Hypertrophy) &amp; HIIT:</strong> Tăng tải lũy tiến (<code>75%–90% 1RM</code>), các bài Compound đa khớp, chạy nước rút ngắt quãng.</td>
+<td style="text-align: left;"><strong>Nạp Tinh Bột Hiệu Suất Cao:</strong> Độ nhạy Insulin cực tốt giúp cơ bắp hấp thu nhanh tinh bột phức hợp (<code>30–50g</code> trước tập) và phục hồi thần tốc.</td>
+</tr>
+<tr>
+<td style="text-align: left;"><strong>3. Cửa Sổ Rụng Trứng</strong><br><em>(Ngày 13 – 16)</em></td>
+<td style="text-align: left;"><strong>Nhiệt độ:</strong> Điểm chuyển giao<br><strong>HRV:</strong> Duy trì mức cao<br><strong>Hormone:</strong> Đỉnh Estrogen + Testosterone</td>
+<td style="text-align: left;"><strong>Bùng Nổ Sức Mạnh &amp; Phá Kỷ Lục (PR):</strong> Kiểm tra mức tạ tối đa (1RM), chạy Tempo tốc độ cao.<br><em>Lưu ý:</em> Khởi động kỹ khớp gối và cơ mông!</td>
+<td style="text-align: left;"><strong>Cân Bằng Nước &amp; Phục Hồi:</strong> Duy trì nguồn tinh bột dồi dào và nạp <code>20–30g</code> đạm giàu Leucine ngay sau buổi tập nặng.</td>
+</tr>
+<tr>
+<td style="text-align: left;"><strong>4. Giữa Đến Cuối Pha Hoàng Thể</strong><br><em>(Ngày 19 – 28)</em></td>
+<td style="text-align: left;"><strong>Nhiệt độ:</strong> <code>+0.3°C đến +0.5°C</code><br><strong>RHR:</strong> <code>+3 đến +7 bpm</code><br><strong>HRV:</strong> <code>−5% đến −15%</code></td>
+<td style="text-align: left;"><strong>Cardio Bền Bỉ Zone 2 &amp; Giảm Tải (Deload):</strong> Chạy bộ/đạp xe nhịp tim ổn định, tập tạ mức trung bình (<code>65%–75% 1RM</code>), tránh tập quá sức trong môi trường nóng.</td>
+<td style="text-align: left;"><strong>Tăng Đạm &amp; Điện Giải:</strong> Nâng mức đạm lên <strong>1.8–2.2 g/kg thể trọng</strong>; ăn nhẹ <code>30–40g</code> carb trước tập và tăng gấp đôi lượng Natri/Magie.</td>
+</tr>
+</tbody>
+</table>
+<hr />
+<h2>Lưu Ý Dây Chằng Chéo Trước (ACL) Khi Rụng Trứng: Bảo Vệ Khớp Gối Ở Đỉnh Estrogen</h2>
+<p>Mặc dù đỉnh Estrogen quanh <strong>Ngày 12 đến Ngày 15</strong> mang lại sự hưng phấn thần kinh – cơ tuyệt vời, các nghiên cứu y học thể thao chỉnh hình (<strong>Herzberg et al., 2017</strong>) đã chỉ ra một sự đánh đổi cơ sinh học quan trọng: <strong>nồng độ Estradiol đạt đỉnh tạm thời ức chế liên kết ngang của sợi collagen, làm tăng độ lỏng lẻo của dây chằng chéo trước (ACL) ở khớp gối.</strong>
+- Nữ vận động viên có nguy cơ đứt dây chằng ACL không do va chạm <strong>cao gấp 3 đến 6 lần nam giới</strong>, và tỷ lệ chấn thương tập trung cao nhất vào cuối pha Nang trứng và cửa sổ Rụng trứng.
+- <strong>Cách tập an toàn:</strong> Bạn <em>không</em> cần phải nghỉ tập tạ nặng khi rụng trứng! Thay vào đó, hãy dành thêm <strong>5 phút khởi động kích hoạt cơ mông nhỡ (Glute Medius), cơ đùi sau (Hamstrings) và kiểm soát trục đầu gối</strong> trước khi thực hiện các bài bật nhảy (Plyometrics) hoặc đổi hướng tốc độ cao.</p>
+<hr />
+<h2>Giải Mã Thiết Bị Đeo: Vì Sao Nhịp Tim Khi Chạy Bộ Lại Cao Hơn Ở Pha Hoàng Thể?</h2>
+<p>Bạn đã bao giờ chạy đúng cự ly 5 km với tốc độ quen thuộc vào <strong>Ngày 23 của chu kỳ</strong>, nhìn xuống đồng hồ và thấy nhịp tim vọt lên <strong>Zone 4 (<code>168 bpm</code>)</strong> trong khi ở Tuần 2 tốc độ đó chỉ nằm ở <strong>Zone 2 (<code>152 bpm</code>)</strong> chưa?</p>
+<p>Đây là những gì đang diễn ra bên trong hệ tim mạch của bạn:
+1. <strong>Nhiệt Độ Lõi Tăng Cao (+0.4°C):</strong> Do Progesterone đẩy nhiệt độ nền lên cao, cơ thể chạm ngưỡng đổ mồ hôi và giãn mạch sớm hơn khi vận động, buộc tim phải bơm nhiều máu hơn ra dưới da để làm mát.
+2. <strong>Thể Tích Huyết Tương Giảm Nhẹ (~8%):</strong> Hormone pha Hoàng thể làm dịch chuyển một phần nước từ lòng mạch ra khoảng gian bào (gây cảm giác hơi tích nước trước kỳ kinh). Khi lượng máu bơm đi trong mỗi nhát bóp (Stroke Volume) giảm nhẹ, tim phải đập nhanh hơn <strong>5 đến 10 nhịp/phút</strong> để cung cấp đủ oxy cho cơ bắp (<strong>Hiện tượng trôi nhịp tim — Cardiac Drift</strong>).
+3. <strong>Cảm Nhận Gắng Sức (RPE) Cao Hơn:</strong> Phân tích tổng hợp trên <em>Sports Medicine</em> (<strong>McNulty et al., 2020</strong>) xác nhận các bài tập sức bền trong điều kiện nhiệt độ cao luôn tạo cảm giác mệt hơn ở nửa cuối pha Hoàng thể.</p>
+<hr />
+<h2>4 Bước Hành Động Để Đồng Bộ Lịch Tập Với Đồng Hồ Của Bạn</h2>
+<ol>
+<li><strong>Áp Dụng Chu Kỳ Tập "3 Tuần Tăng Tải / 1 Tuần Giảm Tải (Deload)":</strong> Hãy thiết kế giáo án hàng tháng sao cho <strong>Tuần 1, Tuần 2 và đầu Tuần 3</strong> (từ Ngày 3 kỳ kinh đến Ngày 18 đầu pha Hoàng thể) là giai đoạn tăng tạ và cường độ, còn <strong>Tuần 4</strong> (cuối pha Hoàng thể, Ngày 21–28) trở thành tuần giảm tải (Deload) tự nhiên để rèn kỹ thuật và phục hồi!</li>
+<li><strong>Không Tập Cường Độ Cao Khi Bụng Rỗng Ở Pha Hoàng Thể:</strong> Tập HIIT hoặc nâng tạ nặng khi nhịn ăn sáng ở <strong>Pha Hoàng thể</strong> sẽ làm tăng vọt Cortisol và thúc đẩy dị hóa cơ bắp. Hãy nạp nhẹ <code>25–30g tinh bột dễ tiêu + 15g đạm</code> trước buổi tập 30–60 phút.</li>
+<li><strong>Đạt Ngưỡng Leucine Ngay Sau Khi Tập Tạ:</strong> Đặc biệt trong pha Hoàng thể có tính dị hóa cao, hãy bổ sung <strong>30 đến 40 gram protein chất lượng cao</strong> (cung cấp ít nhất <code>3g axit amin Leucine</code>) trong vòng 30–45 phút sau buổi tập để kích hoạt tổng hợp cơ bắp.</li>
+<li><strong>Lắng Nghe Chỉ Số HRV Hàng Ngày Thay Vì Máy Móc Theo Lịch:</strong> Đồng bộ chu kỳ là kim chỉ nam, không phải chiếc lồng giam. Nếu bạn thức dậy vào Ngày 24 của chu kỳ với <strong>Điểm Phục Hồi Xanh 88%</strong> và cơ thể tràn đầy năng lượng, hãy tự tin tập luyện! Ngược lại, nếu Ngày 10 bạn bị thiếu ngủ và HRV sụt giảm, hãy linh hoạt giảm tải.</li>
+</ol>
+<hr />
+<h2>Tài Liệu Tham Khảo &amp; Nguồn Y Khoa</h2>
+<ol>
+<li><strong>Sung, E., Han, A., Hinrichs, T., Vorgerd, M., Manchado, C., &amp; Platen, P. (2014).</strong> <em>Effects of follicular versus luteal phase-based strength training in young women.</em> SpringerPlus, 3(1), 668. <a href="https://pubmed.ncbi.nlm.nih.gov/25525569/">Đọc trên PubMed / NIH ↗</a></li>
+<li><strong>McNulty, K. L., Elliott-Sale, K. J., Dolan, E., Swinton, P. A., Ansdell, P., Goodall, S., ... &amp; Hicks, K. M. (2020).</strong> <em>The Effects of Menstrual Cycle Phase on Exercise Performance in Eumenorrheic Women: A Systematic Review and Meta-Analysis.</em> Sports Medicine, 50(10), 1813–1827. <a href="https://pubmed.ncbi.nlm.nih.gov/32661839/">Đọc trên PubMed / NIH ↗</a></li>
+<li><strong>Herzberg, S. D., Motu'apuaka, M. L., Lambert, W., Fu, R., Brady, J., &amp; Guise, J. M. (2017).</strong> <em>The Effect of Menstrual Cycle and Contraceptives on ACL Injuries and Laxity: A Systematic Review and Meta-analysis.</em> Orthopaedic Journal of Sports Medicine, 5(7), 2325967117718781. <a href="https://pubmed.ncbi.nlm.nih.gov/28795075/">Đọc trên PubMed / NIH ↗</a></li>
+<li><strong>WHOOP The Locker (with Dr. Stacy Sims).</strong> <em>Menstrual Cycle Coaching: Training &amp; Recovery Across Your Cycle Phases.</em> <a href="https://www.whoop.com/us/en/thelocker/menstrual-cycle-coaching/">Đọc trên WHOOP ↗</a></li>
+</ol>
+    </article>
+
+    <section class="canonical-citation-card">
+      <div class="citation-icon">📚</div>
+      <div class="citation-body">
+        <h4>Nguồn Tham Khảo Y Khoa & Nghiên Cứu Gốc</h4>
+        <p>Bài viết này được tổng hợp và kiểm chứng từ các nghiên cứu y sinh học, hướng dẫn lâm sàng và tài liệu khoa học thiết bị đeo của <strong>WHOOP Menstrual Cycle Coaching & Dr. Stacy Sims / PubMed (Sung et al., SpringerPlus 2014; McNulty et al., Sports Medicine 2020)</strong>.</p>
+        <div class="citation-actions">
+          <a href="https://pubmed.ncbi.nlm.nih.gov/25525569/" target="_blank" rel="noopener noreferrer" class="btn-canonical-study">
+            Xem Nghiên Cứu Gốc / Bài Báo Khoa Học ↗
+          </a>
+        </div>
+      </div>
+    </section>
+
+    <nav class="post-pagination-nav">
+      
+    <a href="LM_WH_03.html?lang=vi" class="post-nav-btn prev">
+      <span class="nav-direction">← Bài viết trước</span>
+      <span class="nav-title">Nhiệt Độ Cơ Bản (BBT) & Nhiệt Độ Da Ban Đêm: Cách Thiết Bị Đeo Xác Nhận Rụng Trứng</span>
+    </a>
+      
+    <a href="DM_WH_02.html?lang=vi" class="post-nav-btn next">
+      <span class="nav-direction">Bài tiếp theo →</span>
+      <span class="nav-title">Cửa Sổ Thụ Thai 6 Ngày: Dòng Thời Gian Sinh Học Chính Xác Của Sự Thụ Tinh & Theo Dõi Đa Cảm Biến</span>
+    </a>
+    </nav>
+
+    <section class="related-articles-section">
+      <div class="related-section-header">
+        <h3>Bài viết liên quan thuộc chủ đề Sức khỏe Nữ giới</h3>
+      </div>
+      <div class="related-posts-grid">
+        
+        <a href="LM_WH_01.html?lang=vi" class="related-post-card">
+          <div class="related-post-img" style="background-image: url('../images/LM_WH_01_hero.jpg');">
+            <span class="related-post-badge" style="background: #FCE7F3; color: #DB2777;">
+              🌸 Sức khỏe Nữ giới
+            </span>
+          </div>
+          <div class="related-post-info">
+            <h4 class="related-post-title">4 Giai Đoạn Của Chu Kỳ Kinh Nguyệt: Cách Hormone Điều Phối Năng Lượng, Giấc Ngủ Và Chỉ Số Sinh Học Trên Thiết Bị Đeo</h4>
+            <p class="related-post-desc">Cơ thể nữ giới vận hành theo hai nhịp sinh học song hành: nhịp ngày đêm 24 giờ (Circadian)...</p>
+            <div class="related-post-meta">
+              <span>⏱ 8 phút đọc</span>
+              <span>•</span>
+              <span>Learn more</span>
+            </div>
+          </div>
+        </a>
+        
+        <a href="LM_WH_02.html?lang=vi" class="related-post-card">
+          <div class="related-post-img" style="background-image: url('../images/LM_WH_02_hero.jpg');">
+            <span class="related-post-badge" style="background: #FCE7F3; color: #DB2777;">
+              🌸 Sức khỏe Nữ giới
+            </span>
+          </div>
+          <div class="related-post-info">
+            <h4 class="related-post-title">Dịch Nhầy Cổ Tử Cung 101: Chiếc Gương Phản Chiếu Estrogen Và Dự Báo Sớm Cửa Sổ Thụ Thai</h4>
+            <p class="related-post-desc">Nhiều ngày trước khi đồng hồ thông minh ghi nhận mức tăng nhiệt độ sau rụng trứng, các tuy...</p>
+            <div class="related-post-meta">
+              <span>⏱ 8 phút đọc</span>
+              <span>•</span>
+              <span>Learn more</span>
+            </div>
+          </div>
+        </a>
+        
+        <a href="LM_WH_03.html?lang=vi" class="related-post-card">
+          <div class="related-post-img" style="background-image: url('../images/LM_WH_03_hero.jpg');">
+            <span class="related-post-badge" style="background: #FCE7F3; color: #DB2777;">
+              🌸 Sức khỏe Nữ giới
+            </span>
+          </div>
+          <div class="related-post-info">
+            <h4 class="related-post-title">Nhiệt Độ Cơ Bản (BBT) & Nhiệt Độ Da Ban Đêm: Cách Thiết Bị Đeo Xác Nhận Rụng Trứng</h4>
+            <p class="related-post-desc">Mỗi chu kỳ có rụng trứng đều vẽ nên một đường cong nhiệt độ hai pha rõ rệt qua từng đêm. T...</p>
+            <div class="related-post-meta">
+              <span>⏱ 8 phút đọc</span>
+              <span>•</span>
+              <span>Learn more</span>
+            </div>
+          </div>
+        </a>
+        
+      </div>
+    </section>
+
+    <div class="return-hub-cta">
+      <a href="../index.html?lang=vi" class="btn-return-hub">← Quay lại Trang chủ & Tìm kiếm</a>
+      <button onclick="window.scrollTo({top: 0, behavior: 'smooth'})" class="btn-scroll-top">↑ Lên đầu trang</button>
+    </div>
+  </main>
+
+  <!-- ========================================================= -->
+  <!-- ENGLISH ARTICLE CONTAINER                                 -->
+  <!-- ========================================================= -->
+  <main id="post-container-en" class="article-page-container hidden">
+    <nav class="article-breadcrumb">
+      <a href="../index.html?lang=en">Knowledge Hub</a>
+      <span class="sep">/</span>
+      <a href="../index.html?lang=en">Women's Health</a>
+      <span class="sep">/</span>
+      <span class="current">Cycle-Synced Fitness</span>
+    </nav>
+
     <header class="article-page-header">
       <div class="article-badges-row">
         <span class="badge" style="background: #FCE7F3; color: #DB2777; font-weight: 700;">
@@ -52,162 +288,205 @@
         </span>
         <span class="badge badge-sub">Cycle-Synced Fitness</span>
         <span class="badge badge-type">Discover more</span>
-        <span class="article-read-time">⏱ 5 min read</span>
+        <span class="article-read-time">⏱ 9 min read</span>
       </div>
 
-      <h1 class="article-main-title">Cycle-Synced Fitness: Programming Resistance and Cardio Across Your Infradian Rhythm</h1>
-      
-      <p class="article-sapo-lead">The definitive clinical guide to periodizing your strength, HIIT, and recovery workouts in harmony with fluctuating estrogen and progesterone.</p>
+      <h1 class="article-main-title">Cycle-Synced Training: How to Periodize Strength, HIIT, and Recovery Across Your Menstrual Cycle</h1>
+      <p class="article-sapo-lead">Why does the exact same weightlifting or running program feel effortless in Week 2 of your cycle and exhausting in Week 4? Learn the sports endocrinology of Dr. Stacy Sims and WHOOP Menstrual Cycle Coaching to match your training load with estrogen and progesterone.</p>
 
-      <!-- Featured Cover Hero Image -->
       <figure class="article-featured-hero">
-        <img src="https://images.unsplash.com/photo-1518611012118-696072aa579a?auto=format&fit=crop&w=1200&q=80" alt="Cycle-Synced Fitness: Programming Resistance and Cardio Across Your Infradian Rhythm">
-        <figcaption>Cycle-Synced Fitness: Programming Resistance and Cardio Across Your Infradian Rhythm — Clinical Editorial Feature</figcaption>
+        <img src="../images/DM_WH_01_hero.jpg" alt="Cycle-Synced Training: How to Periodize Strength, HIIT, and Recovery Across Your Menstrual Cycle">
+        <figcaption>Cycle-Synced Training: How to Periodize Strength, HIIT, and Recovery Across Your Menstrual Cycle • <a href="https://images.unsplash.com/photo-1571019614242-c5c5dee9f50b?auto=format&fit=crop&w=1200&q=85" target="_blank" rel="noopener noreferrer" class="img-source-badge">Verified Original Photo Source (Unsplash) ↗</a></figcaption>
       </figure>
 
-      <!-- Editorial & Clinical Metadata Card -->
       <div class="article-metadata-card">
         <div class="meta-avatar">PV</div>
         <div class="meta-content">
           <div class="meta-author">Pulse & Vitality Clinical Editorial Board</div>
           <div class="meta-details">
-            <span>Clinical Wearable Reference: <strong>Flo Health / WHOOP Science</strong></span>
+            <span>Clinical & Wearable Source: <strong>WHOOP Menstrual Cycle Coaching & Dr. Stacy Sims / PubMed (Sung et al., SpringerPlus 2014; McNulty et al., Sports Medicine 2020)</strong></span>
             <span class="meta-dot">•</span>
             <span>Mapped Screen: <strong>Menstrual Cycle Screen</strong></span>
             <span class="meta-dot">•</span>
-            <span>Metric: <strong>Cycle-Synced Training</strong></span>
+            <span>Biometric: <strong>Cycle-Synced Training</strong></span>
           </div>
         </div>
       </div>
     </header>
 
-    <!-- Key Actionable Takeaway Banner -->
     <section class="takeaway-banner-large">
       <div class="takeaway-banner-header">
         <span class="takeaway-icon-lg">💡</span>
         <span>Key Actionable Takeaway</span>
       </div>
-      <p>Lift heavy and sprint during the late follicular phase when estrogen is high; transition to steady-state Zone 2 and mobility during the late luteal phase.</p>
+      <p>Stack your heaviest resistance training, high-intensity intervals (HIIT), and personal record attempts in the Follicular and Ovulatory phases (Days 3–15) when estrogen maximizes muscle protein synthesis and glycogen usage. In the mid-to-late Luteal phase (Days 20–28), shift toward Zone 2 aerobic endurance, technique work, higher protein intake (1.8–2.2 g/kg), and active cooling.</p>
     </section>
 
-    <!-- Full Article Markdown Content -->
     <article class="article-rich-body">
-      
-        <figure class="article-inline-diagram">
-          <img src="https://images.unsplash.com/photo-1483721074573-58630b9f75d5?auto=format&fit=crop&w=800&q=80" alt="Programming strength training in late follicular phase when estrogen peaks and recovery capacity is highest." loading="lazy">
-          <figcaption>📊 <strong>Clinical Biometric Visual:</strong> Programming strength training in late follicular phase when estrogen peaks and recovery capacity is highest.</figcaption>
-        </figure>
-        <h3>1. Breaking the Linear Training Paradigm</h3>
-<p>Traditional athletic training protocols are designed around a linear 24-hour hormonal cycle. For women, pushing through high-volume, high-stress workouts indiscriminately across all 4 weeks of the menstrual cycle frequently triggers relative energy deficiency in sport (RED-S), elevated cortisol, and prolonged muscle soreness. Cycle syncing is the strategic alignment of training loads with hormonal metabolic advantages.</p>
-<h3>2. Periodizing Across the 4 Phases</h3>
-<h4>Phase 1: Menstrual Phase (Days 1–5) — Neuro-Muscular Reset</h4>
-<ul>
-<li><em>Physiological State:</em> Low systemic estrogen and progesterone; acute uterine inflammation.</li>
-<li><em>Training Focus:</em> Restorative mobility, steady Zone 1 walking, and yin yoga. If performing resistance work, keep loads moderate and avoid heavy intra-abdominal compression (e.g., maximal deadlifts).</li>
-<li><em>Nutritional Support:</em> Iron-rich foods (heme iron from lean beef or non-heme from spinach paired with Vitamin C) and anti-inflammatory compounds (turmeric, ginger).</li>
-</ul>
-<h4>Phase 2: Late Follicular Phase (Days 6–13) — The Anabolic Window</h4>
-<ul>
-<li><em>Physiological State:</em> Estrogen is soaring; insulin sensitivity and pain tolerance are high.</li>
-<li><em>Training Focus:</em> <strong>Maximum Strength &amp; Hypertrophy.</strong> Lift heavy weights (75%–85% 1RM), challenge personal records, and execute high-intensity interval training (HIIT). Estrogen acts as an anabolic hormone, increasing muscle protein synthesis and protecting against muscle damage.</li>
-<li><em>Nutritional Support:</em> Higher complex carbohydrates (sweet potatoes, oats, quinoa) to fuel high-intensity glycolytic output.</li>
-</ul>
-<h4>Phase 3: Ovulatory Window (Days 14–16) — Peak Neuromuscular Power</h4>
-<ul>
-<li><em>Physiological State:</em> Estrogen and testosterone crest simultaneously.</li>
-<li><em>Training Focus:</em> Explosive power, sprinting, and competition. <em>Biomechanical Precaution:</em> Elevated estrogen temporarily increases ligamentous laxity (particularly the ACL). Ensure comprehensive warm-ups and stable knee tracking during plyometrics.</li>
-</ul>
-<h4>Phase 4: Luteal Phase (Days 17–28) — Endurance &amp; Metabolic Efficiency</h4>
-<ul>
-<li><em>Physiological State:</em> Progesterone dominates; core temperature is elevated, resting heart rate rises by 4–8 bpm, and protein breakdown rates increase.</li>
-<li><em>Training Focus:</em> Transition away from maximal lifting toward steady-state Zone 2 cardio, Pilates, and higher-rep hypertrophy work. Work out in climate-controlled environments to offset elevated core temperature.</li>
-<li><em>Nutritional Support:</em> Increase protein intake (1.8–2.2 g/kg) and supplement with magnesium to mitigate PMS-related cramping.</li>
-</ul>
+      <h2>Why Traditional Linear Training Plans Ignore Female Physiology</h2>
+<p>For decades, exercise science textbooks and gym training programs were built around a simple assumption: every day starts from the exact same hormonal baseline. While that linear model works reasonably well for male physiology (where testosterone follows a predictable 24-hour daily rhythm), female athletes and active women experience <strong>up to a 10-fold fluctuation in estradiol and a 25-fold surge in progesterone</strong> over a single month.</p>
+<p>As exercise physiologist <strong>Dr. Stacy Sims</strong> (scientific advisor to <strong>WHOOP Menstrual Cycle Coaching</strong>) famously put it: <em>"Women are not small men."</em> When you push through the exact same high-volume, high-heat workouts indiscriminately in Week 4 of your cycle as you do in Week 2—ignoring what your wearable's HRV, Resting Heart Rate, and skin temperature are telling you—you increase the risk of <strong>overreaching, elevated cortisol, sleep disruption, and Relative Energy Deficiency in Sport (RED-S)</strong>.</p>
+<figure class="article-inline-diagram">
+  <img src="../images/DM_WH_01_figure.png" alt="Quantitative hormone curves of Estradiol, Progesterone, LH, and FSH across the menstrual cycle" loading="lazy">
+  <figcaption>📊 <strong>The Endocrine Blueprint for Periodization:</strong> Notice how Estradiol climbs unchecked during the Follicular Phase (Days 7–14) to create a prime anabolic window, whereas Progesterone dominates the Luteal Phase (Days 16–26), raising core temperature and protein breakdown. <a href="https://commons.wikimedia.org/wiki/File:Hormones_estradiol,_progesterone,_LH_and_FSH_during_menstrual_cycle.svg" target="_blank" rel="noopener noreferrer">Original Image Source: Wikimedia Commons ↗</a></figcaption>
+</figure>
+
+<hr />
+<h2>Landmark Sports Science: Follicular vs. Luteal Strength Training</h2>
+<p>Does aligning your resistance training with your menstrual phases actually build more muscle and strength? Two pivotal bodies of clinical research say yes:</p>
+<ol>
+<li><strong>The Follicular Hypertrophy Advantage (<em>Sung et al., SpringerPlus 2014</em> &amp; <em>Wikström-Frisén et al., 2017</em>):</strong> Researchers conducted a controlled trial where women trained one leg predominantly during the <strong>Follicular Phase</strong> (high sessions in Weeks 1–2, low maintenance in Weeks 3–4) and the other leg predominantly during the <strong>Luteal Phase</strong> (low in Weeks 1–2, high in Weeks 3–4) over three menstrual cycles.
+   - <strong>The Results:</strong> Follicular-phase-dominated strength training produced <strong>significantly greater increases in maximal isometric quadriceps force (+42% vs. +17%)</strong>, larger muscle fiber cross-sectional diameter, and higher myonuclei-to-fiber ratios than luteal-dominated training!</li>
+<li><strong>Why Estrogen Is Anabolic &amp; Progesterone Is Catabolic:</strong>
+   - <strong>Estradiol (Follicular Dominant):</strong> Stimulates skeletal muscle satellite cell activation, enhances insulin sensitivity, facilitates rapid glycogen storage, and acts as a natural antioxidant that reduces post-workout delayed-onset muscle soreness (DOMS).
+   - <strong>Progesterone (Luteal Dominant):</strong> Increases <strong>amino acid oxidation and protein catabolism</strong> (requiring more dietary protein just to maintain muscle tissue), blunts central nervous system motor drive under fatigue, raises core temperature by <code>+0.3°C to +0.5°C</code>, and reduces blood plasma volume by ~8%.</li>
+</ol>
+<hr />
+<h2>The 4-Phase Cycle-Synced Training &amp; Nutrition Blueprint</h2>
+<p>Use your wearable's Cycle Insights screen alongside your daily <strong>Readiness / Recovery Score</strong> to adjust training intensity and fueling across the month:</p>
+<table>
+<thead>
+<tr>
+<th style="text-align: left;">Cycle Window</th>
+<th style="text-align: left;">Wearable Readiness &amp; Biometrics</th>
+<th style="text-align: left;">Optimal Training Focus</th>
+<th style="text-align: left;">Pre- &amp; Post-Workout Nutritional Strategy</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="text-align: left;"><strong>1. Early Menstrual</strong><br><em>(Days 1 – 2)</em></td>
+<td style="text-align: left;"><strong>Temp:</strong> Dropping to baseline<br><strong>HRV:</strong> Starting to rebound<br><strong>Symptoms:</strong> Peak uterine prostaglandins</td>
+<td style="text-align: left;"><strong>Autonomic Reset &amp; Mobility:</strong> Zone 1–2 walking, Pilates, mobility flows, or moderate technique lifting if cramps are mild.</td>
+<td style="text-align: left;"><strong>Iron &amp; Anti-Inflammatory Focus:</strong> Heme iron (beef, sardines) or lentils + Vitamin C; omega-3s and ginger to calm cramping.</td>
+</tr>
+<tr>
+<td style="text-align: left;"><strong>2. Late Menstrual &amp; Follicular</strong><br><em>(Days 3 – 13)</em></td>
+<td style="text-align: left;"><strong>Temp:</strong> Coolest baseline<br><strong>RHR:</strong> Lowest of the month<br><strong>HRV:</strong> Highest of the month</td>
+<td style="text-align: left;"><strong>Heavy Strength, Hypertrophy &amp; HIIT:</strong> Progressive overload (<code>75%–90% 1RM</code>), heavy compound lifts, sprint intervals, and high-volume blocks.</td>
+<td style="text-align: left;"><strong>Carb-Fueled Performance:</strong> High insulin sensitivity means your muscles soak up complex carbs (<code>30–50g</code> pre-workout) and recover rapidly.</td>
+</tr>
+<tr>
+<td style="text-align: left;"><strong>3. Ovulatory Window</strong><br><em>(Days 13 – 16)</em></td>
+<td style="text-align: left;"><strong>Temp:</strong> Inflection point<br><strong>HRV:</strong> High<br><strong>Hormones:</strong> Peak Estrogen + Testosterone crest</td>
+<td style="text-align: left;"><strong>Peak Power &amp; PR Attempts:</strong> Test 1-rep maxes, race-pace tempos, and explosive workouts.<br><em>Caution:</em> Prioritize thorough dynamic warm-ups and knee alignment!</td>
+<td style="text-align: left;"><strong>Balanced Hydration &amp; Recovery:</strong> Maintain high carbohydrate availability and <code>20–30g</code> post-workout leucine-rich protein.</td>
+</tr>
+<tr>
+<td style="text-align: left;"><strong>4. Mid-to-Late Luteal</strong><br><em>(Days 19 – 28)</em></td>
+<td style="text-align: left;"><strong>Temp:</strong> <code>+0.3°C to +0.5°C</code><br><strong>RHR:</strong> <code>+3 to +7 bpm</code><br><strong>HRV:</strong> <code>−5% to −15%</code></td>
+<td style="text-align: left;"><strong>Zone 2 Endurance, Moderate Loads &amp; Deload:</strong> Steady-state aerobic cardio, moderate-rep strength (<code>65%–75% 1RM</code>), and form work. Avoid max-effort heat strain.</td>
+<td style="text-align: left;"><strong>Protein &amp; Electrolyte Upgrade:</strong> Boost daily protein to <strong>1.8–2.2 g/kg</strong>; take <code>30–40g</code> carbs before cardio (progesterone impairs glycogen access) and double sodium/magnesium intake.</td>
+</tr>
+</tbody>
+</table>
+<hr />
+<h2>The Ovulatory ACL Precaution: Protecting Your Joints on Peak Estrogen Days</h2>
+<p>While peak estrogen around <strong>Days 12 to 15</strong> gives you incredible neuromuscular drive, orthopedic sports medicine studies (<strong>Herzberg et al., 2017</strong>) have documented a critical biomechanical trade-off: <strong>peak estradiol temporarily inhibits fibroblast collagen cross-linking, increasing anterior cruciate ligament (ACL) and joint laxity.</strong>
+- Female athletes suffer non-contact ACL tears at <strong>3 to 6 times the rate of male athletes</strong>, with injury incidence clustering disproportionately in the late follicular and ovulatory window.
+- <strong>How to Train Safely:</strong> You do <em>not</em> need to skip heavy lifting during ovulation! Instead, spend <strong>5 extra minutes on glute medius activation, hamstring priming, and single-leg landing stability</strong> before plyometrics, box jumps, or field cutting drills.</p>
+<hr />
+<h2>Real-World Wearable Insights: Why Your Heart Rate Runs Higher in the Luteal Phase</h2>
+<p>Have you ever gone for your normal 5 km pace run on <strong>Day 23 of your cycle</strong>, looked down at your watch, and seen your heart rate sitting in <strong>Zone 4 (<code>168 bpm</code>)</strong> when that exact pace usually sits in <strong>Zone 2 (<code>152 bpm</code>)</strong>?</p>
+<p>Here is what is happening inside your cardiovascular system:
+1. <strong>Elevated Core Temperature (+0.4°C):</strong> Because progesterone raises your baseline temperature, your body reaches its sweating and vasodilation threshold earlier during exercise, diverting more blood to the skin for cooling.
+2. <strong>Reduced Plasma Volume (~8% Drop):</strong> High luteal hormones shift fluid from your bloodstream into interstitial spaces (causing mild luteal bloating). With slightly lower blood volume per heartbeat (stroke volume), your heart must beat <strong>5 to 10 bpm faster</strong> to deliver the same oxygen to your muscles (<strong>Cardiac Drift</strong>).
+3. <strong>Higher Perceived Exertion (RPE):</strong> Studies (<strong>McNulty et al., Sports Medicine 2020</strong>) show that high-temperature endurance sessions feel significantly harder in the mid-to-late luteal phase.</p>
+<hr />
+<h2>4-Step Action Plan to Sync Your Workouts With Your Watch</h2>
+<ol>
+<li><strong>Follow a 3-Week Build / 1-Week Deload Rhythm:</strong> Structure your monthly training mesocycle so <strong>Weeks 1, 2, and early Week 3</strong> (Menstrual Day 3 through Early Luteal Day 18) carry your progressive overload and intensity, while <strong>Week 4</strong> (Late Luteal Days 21–28) serves as your built-in recovery and technique deload week!</li>
+<li><strong>Don't Fast Before Luteal Workouts:</strong> While fasted morning cardio is poorly tolerated by female hormones in general, doing high-intensity training fasted in the <strong>Luteal Phase</strong> spikes cortisol and triggers muscle breakdown. Eat <code>25–30g of easily digestible carbs + 15g protein</code> 30–60 minutes before luteal sessions.</li>
+<li><strong>Hit the Leucine Threshold Immediately Post-Workout:</strong> Especially during the catabolic luteal phase, consume <strong>30 to 40 grams of high-quality protein</strong> (providing at least <code>3g of the amino acid Leucine</code>) within 30–45 minutes after strength training to stimulate muscle protein synthesis.</li>
+<li><strong>Let Daily HRV Override Rigid Calendar Rules:</strong> Cycle-syncing is a compass, not a cage. As <strong>McNulty et al. (2020)</strong> and <strong>WHOOP</strong> emphasize, individual variation is huge: if you wake up on Day 24 of your cycle with an <strong>88% Green Recovery Score</strong> and you feel great, go ahead and lift! Conversely, if you wake up on Day 10 with a poor sleep score and suppressed HRV, scale back.</li>
+</ol>
+<hr />
+<h2>References &amp; Clinical Sources</h2>
+<ol>
+<li><strong>Sung, E., Han, A., Hinrichs, T., Vorgerd, M., Manchado, C., &amp; Platen, P. (2014).</strong> <em>Effects of follicular versus luteal phase-based strength training in young women.</em> SpringerPlus, 3(1), 668. <a href="https://pubmed.ncbi.nlm.nih.gov/25525569/">Read on PubMed / NIH ↗</a></li>
+<li><strong>McNulty, K. L., Elliott-Sale, K. J., Dolan, E., Swinton, P. A., Ansdell, P., Goodall, S., ... &amp; Hicks, K. M. (2020).</strong> <em>The Effects of Menstrual Cycle Phase on Exercise Performance in Eumenorrheic Women: A Systematic Review and Meta-Analysis.</em> Sports Medicine, 50(10), 1813–1827. <a href="https://pubmed.ncbi.nlm.nih.gov/32661839/">Read on PubMed / NIH ↗</a></li>
+<li><strong>Herzberg, S. D., Motu'apuaka, M. L., Lambert, W., Fu, R., Brady, J., &amp; Guise, J. M. (2017).</strong> <em>The Effect of Menstrual Cycle and Contraceptives on ACL Injuries and Laxity: A Systematic Review and Meta-analysis.</em> Orthopaedic Journal of Sports Medicine, 5(7), 2325967117718781. <a href="https://pubmed.ncbi.nlm.nih.gov/28795075/">Read on PubMed / NIH ↗</a></li>
+<li><strong>WHOOP The Locker (with Dr. Stacy Sims).</strong> <em>Menstrual Cycle Coaching: Training &amp; Recovery Across Your Cycle Phases.</em> <a href="https://www.whoop.com/us/en/thelocker/menstrual-cycle-coaching/">Read on WHOOP ↗</a></li>
+</ol>
     </article>
 
-    <!-- Canonical Source Reference Box -->
     <section class="canonical-citation-card">
       <div class="citation-icon">📚</div>
       <div class="citation-body">
         <h4>Clinical Reference & Scientific Backing</h4>
-        <p>This article is synthesized from peer-reviewed physiology, clinical guidelines, and wearable biometric methodologies developed by <strong>Flo Health / WHOOP Science</strong>.</p>
+        <p>This article is synthesized from peer-reviewed medical literature, clinical guidelines, and wearable biometric validation studies from <strong>WHOOP Menstrual Cycle Coaching & Dr. Stacy Sims / PubMed (Sung et al., SpringerPlus 2014; McNulty et al., Sports Medicine 2020)</strong>.</p>
         <div class="citation-actions">
-          <a href="https://flo.health/menstrual-cycle/lifestyle/fitness-and-exercise/exercising-during-period" target="_blank" rel="noopener noreferrer" class="btn-canonical-study">
-            Read Canonical Study / Original Article ↗
+          <a href="https://pubmed.ncbi.nlm.nih.gov/25525569/" target="_blank" rel="noopener noreferrer" class="btn-canonical-study">
+            Read Canonical Study / Original Source ↗
           </a>
         </div>
       </div>
     </section>
 
-    <!-- Next / Previous Article Navigation -->
     <nav class="post-pagination-nav">
       
-    <a href="LM_WH_03.html" class="post-nav-btn prev">
+    <a href="LM_WH_03.html?lang=en" class="post-nav-btn prev">
       <span class="nav-direction">← Previous Article</span>
-      <span class="nav-title">Basal Body Temperature (BBT): The Thermal Signature of Ovulation</span>
+      <span class="nav-title">Basal Body Temperature (BBT) & Overnight Skin Temperature: How Wearables Confirm Ovulation</span>
     </a>
-    
       
-    <a href="DM_WH_02.html" class="post-nav-btn next">
+    <a href="DM_WH_02.html?lang=en" class="post-nav-btn next">
       <span class="nav-direction">Next Article →</span>
-      <span class="nav-title">The 6-Day Fertile Window: The Biological Timeline of Conception and Natural Family Planning</span>
+      <span class="nav-title">The 6-Day Fertile Window: The Exact Biological Timeline of Conception & Multi-Sensor Tracking</span>
     </a>
-    
     </nav>
 
-    <!-- Related Articles Section -->
     <section class="related-articles-section">
       <div class="related-section-header">
         <h3>Related Reads in Women's Health</h3>
-        <a href="../index.html?cat=Women's Health" class="view-all-link">View all Women's Health articles →</a>
       </div>
       <div class="related-posts-grid">
         
-        <a href="LM_WH_01.html" class="related-post-card">
-          <div class="related-post-img" style="background-image: url('https://images.unsplash.com/photo-1518611012118-696072aa579a?auto=format&fit=crop&w=1200&q=80');">
+        <a href="LM_WH_01.html?lang=en" class="related-post-card">
+          <div class="related-post-img" style="background-image: url('../images/LM_WH_01_hero.jpg');">
             <span class="related-post-badge" style="background: #FCE7F3; color: #DB2777;">
               🌸 Women's Health
             </span>
           </div>
           <div class="related-post-info">
-            <h4 class="related-post-title">The Four Menstrual Phases: Hormonal Drivers of Energy, Mood, and Metabolism</h4>
-            <p class="related-post-desc">How the 28-day ebb and flow of Estrogen and Progesterone governs your energy, insulin sens...</p>
+            <h4 class="related-post-title">The 4 Phases of Your Menstrual Cycle: How Hormones Shape Your Energy, Sleep, and Wearable Biometrics</h4>
+            <p class="related-post-desc">Your body operates on two biological clocks: a 24-hour circadian rhythm and a ~28-day infr...</p>
             <div class="related-post-meta">
-              <span>⏱ 3 min</span>
+              <span>⏱ 8 min</span>
               <span>•</span>
               <span>Learn more</span>
             </div>
           </div>
         </a>
         
-        <a href="LM_WH_02.html" class="related-post-card">
-          <div class="related-post-img" style="background-image: url('https://images.unsplash.com/photo-1508214751196-bcfd4ca60f91?auto=format&fit=crop&w=1200&q=80');">
+        <a href="LM_WH_02.html?lang=en" class="related-post-card">
+          <div class="related-post-img" style="background-image: url('../images/LM_WH_02_hero.jpg');">
             <span class="related-post-badge" style="background: #FCE7F3; color: #DB2777;">
               🌸 Women's Health
             </span>
           </div>
           <div class="related-post-info">
-            <h4 class="related-post-title">Cervical Fluid 101: Decoding Vaginal Discharge as an Estrogen Mirror</h4>
-            <p class="related-post-desc">How the physical consistency, pH, and elasticity of cervical mucus shift across the cycle ...</p>
+            <h4 class="related-post-title">Cervical Fluid 101: How Cervical Mucus Mirrors Estrogen and Predicts Your Fertile Window</h4>
+            <p class="related-post-desc">Long before your smartwatch registers a post-ovulatory temperature rise, specialized gland...</p>
             <div class="related-post-meta">
-              <span>⏱ 3 min</span>
+              <span>⏱ 8 min</span>
               <span>•</span>
               <span>Learn more</span>
             </div>
           </div>
         </a>
         
-        <a href="LM_WH_03.html" class="related-post-card">
-          <div class="related-post-img" style="background-image: url('https://images.unsplash.com/photo-1516585427167-9f4af9627e6c?auto=format&fit=crop&w=1200&q=80');">
+        <a href="LM_WH_03.html?lang=en" class="related-post-card">
+          <div class="related-post-img" style="background-image: url('../images/LM_WH_03_hero.jpg');">
             <span class="related-post-badge" style="background: #FCE7F3; color: #DB2777;">
               🌸 Women's Health
             </span>
           </div>
           <div class="related-post-info">
-            <h4 class="related-post-title">Basal Body Temperature (BBT): The Thermal Signature of Ovulation</h4>
-            <p class="related-post-desc">How a post-ovulatory progesterone surge elevates your resting core and skin temperature by...</p>
+            <h4 class="related-post-title">Basal Body Temperature (BBT) & Overnight Skin Temperature: How Wearables Confirm Ovulation</h4>
+            <p class="related-post-desc">Every ovulatory cycle paints a distinct two-phase thermal signature across your nights. Le...</p>
             <div class="related-post-meta">
-              <span>⏱ 3 min</span>
+              <span>⏱ 8 min</span>
               <span>•</span>
               <span>Learn more</span>
             </div>
@@ -217,32 +496,62 @@
       </div>
     </section>
 
-    <!-- Return to Hub Footer CTA -->
     <div class="return-hub-cta">
-      <a href="../index.html" class="btn-return-hub">
-        ← Back to Knowledge Hub & Search
-      </a>
-      <button onclick="window.scrollTo({ top: 0, behavior: 'smooth' })" class="btn-scroll-top">
-        ↑ Back to Top
-      </button>
+      <a href="../index.html?lang=en" class="btn-return-hub">← Back to Knowledge Hub & Search</a>
+      <button onclick="window.scrollTo({top: 0, behavior: 'smooth'})" class="btn-scroll-top">↑ Back to Top</button>
     </div>
   </main>
 
-  <!-- Site Footer -->
   <footer class="site-footer">
     <div class="footer-container">
-      <p>© 2026 Pulse & Vitality Performance Engine • Built for iOS / Android Wearable Integration</p>
-      <p class="disclaimer">Clinical data curated from Flo Health, Clue, Natural Cycles, Fitbit Blog, WHOOP The Locker, Maven Clinic, and Dr. Kegel.</p>
+      <p>© 2026 Pulse & Vitality Performance Engine • Evidence-Based Wearable Health Hub (EN / VI)</p>
     </div>
   </footer>
 
   <script>
+    function switchPostLang(lang) {
+      localStorage.setItem('pv_lang', lang);
+      const viContainer = document.getElementById('post-container-vi');
+      const enContainer = document.getElementById('post-container-en');
+      const btnVi = document.getElementById('post-lang-vi');
+      const btnEn = document.getElementById('post-lang-en');
+      const brandSub = document.getElementById('post-brand-subtitle');
+      const backBtn = document.getElementById('post-back-btn');
+
+      if (lang === 'en') {
+        viContainer.classList.add('hidden');
+        enContainer.classList.remove('hidden');
+        btnVi.classList.remove('active');
+        btnEn.classList.add('active');
+        brandSub.textContent = 'Health & Human Performance Knowledge Hub';
+        backBtn.textContent = '← Back to All Articles';
+        backBtn.href = '../index.html?lang=en';
+        document.documentElement.lang = 'en';
+      } else {
+        enContainer.classList.add('hidden');
+        viContainer.classList.remove('hidden');
+        btnEn.classList.remove('active');
+        btnVi.classList.add('active');
+        brandSub.textContent = 'Cẩm Nang Khoa Học Sức Khỏe & Thiết Bị Đeo';
+        backBtn.textContent = '← Quay lại Danh sách';
+        backBtn.href = '../index.html?lang=vi';
+        document.documentElement.lang = 'vi';
+      }
+    }
+
+    (function initLang() {
+      const params = new URLSearchParams(window.location.search);
+      const qLang = params.get('lang');
+      const saved = qLang || localStorage.getItem('pv_lang') || 'vi';
+      switchPostLang(saved === 'en' ? 'en' : 'vi');
+    })();
+
     window.addEventListener('scroll', () => {
       const winScroll = document.body.scrollTop || document.documentElement.scrollTop;
       const height = document.documentElement.scrollHeight - document.documentElement.clientHeight;
-      if (height > 0) {
-        const scrolled = (winScroll / height) * 100;
-        document.getElementById('reading-progress').style.width = scrolled + '%';
+      const bar = document.getElementById('reading-progress');
+      if (height > 0 && bar) {
+        bar.style.width = ((winScroll / height) * 100) + '%';
       }
     });
   </script>

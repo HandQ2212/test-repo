@@ -28,6 +28,14 @@
         </div>
       </div>
       <div class="nav-actions">
+        <div class="lang-switch-group" role="group" aria-label="Language Switcher">
+          <button id="lang-btn-vi" class="lang-btn active" onclick="setLanguage('vi')" title="Đọc bằng Tiếng Việt">
+            🇻🇳 Tiếng Việt
+          </button>
+          <button id="lang-btn-en" class="lang-btn" onclick="setLanguage('en')" title="Read in English">
+            🇬🇧 English
+          </button>
+        </div>
         <button id="view-mode-toggle" class="btn-toggle" title="Toggle between Full Web Blog and In-App Modal Simulation">
           📱 In-App Modal Mode
         </button>
@@ -42,9 +50,9 @@
     <!-- Hero Section -->
     <section class="hero-section">
       <div class="hero-container">
-        <span class="hero-badge">Curated Health Science</span>
-        <h1>Evidence-Based Science for Sleep, Recovery, Activity & Longevity</h1>
-        <p>Explore 28 clinical deep-dives and contextual explainers, mapped directly to real-time wearable biometrics.</p>
+        <span class="hero-badge" id="hero-badge">Curated Health Science</span>
+        <h1 id="hero-title">Evidence-Based Science for Sleep, Recovery, Activity & Longevity</h1>
+        <p id="hero-subtitle">Explore 28 clinical deep-dives and contextual explainers, mapped directly to real-time wearable biometrics.</p>
         
         <!-- Search & Filters -->
         <div class="search-box">
@@ -59,7 +67,7 @@
       <div class="filters-container">
         <!-- Category Tabs -->
         <div class="filter-group">
-          <label>Category:</label>
+          <label id="filter-label-category">Category:</label>
           <div class="filter-pills" id="category-pills">
             <button class="pill active" data-category="All">All Categories</button>
             <button class="pill" data-category="Sleep">🌙 Sleep</button>
@@ -74,7 +82,7 @@
         <!-- Secondary Filters -->
         <div class="secondary-filters">
           <div class="select-wrapper">
-            <label>Format:</label>
+            <label id="filter-label-format">Format:</label>
             <select id="type-select">
               <option value="All">All Formats</option>
               <option value="Learn more">Learn more (Tooltips & Explanations)</option>
@@ -83,7 +91,7 @@
           </div>
 
           <div class="select-wrapper">
-            <label>Audience:</label>
+            <label id="filter-label-audience">Audience:</label>
             <select id="gender-select">
               <option value="All">All Audiences</option>
               <option value="Female">Female (Cycle & Hormonal)</option>
@@ -114,7 +122,7 @@
     <!-- Top Action Toolbar -->
     <div class="article-breadcrumb" style="justify-content: space-between;">
       <div style="display: flex; align-items: center; gap: 0.5rem; flex-wrap: wrap;">
-        <button class="btn-back-hub" onclick="closeArticleView()">
+        <button id="btn-back-hub-top" class="btn-back-hub" onclick="closeArticleView()">
           ← Back to All Articles
         </button>
         <span class="sep">/</span>
@@ -156,13 +164,13 @@
       <div class="article-metadata-card">
         <div class="meta-avatar">PV</div>
         <div class="meta-content">
-          <div class="meta-author">Pulse & Vitality Clinical Editorial Board</div>
+          <div class="meta-author" id="art-view-author-board">Pulse & Vitality Clinical Editorial Board</div>
           <div class="meta-details">
-            <span>Clinical Wearable Reference: <strong id="art-view-source">WHOOP Science</strong></span>
+            <span><span id="meta-label-ref">Clinical Wearable Reference:</span> <strong id="art-view-source">WHOOP Science</strong></span>
             <span class="meta-dot">•</span>
-            <span>Mapped Screen: <strong id="art-view-screen">Sleep Screen</strong></span>
+            <span><span id="meta-label-screen">Mapped Screen:</span> <strong id="art-view-screen">Sleep Screen</strong></span>
             <span class="meta-dot">•</span>
-            <span>Metric: <strong id="art-view-metric">Slow Wave Sleep</strong></span>
+            <span><span id="meta-label-metric">Metric:</span> <strong id="art-view-metric">Slow Wave Sleep</strong></span>
           </div>
         </div>
       </div>
@@ -172,7 +180,7 @@
     <section class="takeaway-banner-large">
       <div class="takeaway-banner-header">
         <span class="takeaway-icon-lg">💡</span>
-        <span>Key Actionable Takeaway</span>
+        <span id="takeaway-header-label">Key Actionable Takeaway</span>
       </div>
       <p id="art-view-takeaway">Actionable protocol advice...</p>
     </section>
@@ -186,7 +194,7 @@
     <section class="canonical-citation-card">
       <div class="citation-icon">📚</div>
       <div class="citation-body">
-        <h4>Clinical Reference & Scientific Backing</h4>
+        <h4 id="citation-header-label">Clinical Reference & Scientific Backing</h4>
         <p id="art-view-citation-desc">This article is synthesized from peer-reviewed physiology, clinical guidelines, and wearable biometric methodologies developed by WHOOP.</p>
         <div class="citation-actions">
           <a id="art-view-canonical-link" href="#" target="_blank" rel="noopener noreferrer" class="btn-canonical-study">
@@ -213,10 +221,10 @@
 
     <!-- Return to Hub Footer CTA -->
     <div class="return-hub-cta">
-      <button onclick="closeArticleView()" class="btn-return-hub">
+      <button id="btn-return-hub-bottom" onclick="closeArticleView()" class="btn-return-hub">
         ← Back to Knowledge Hub & Search
       </button>
-      <button onclick="window.scrollTo({ top: 0, behavior: 'smooth' })" class="btn-scroll-top">
+      <button id="btn-scroll-top-bottom" onclick="window.scrollTo({ top: 0, behavior: 'smooth' })" class="btn-scroll-top">
         ↑ Back to Top
       </button>
     </div>

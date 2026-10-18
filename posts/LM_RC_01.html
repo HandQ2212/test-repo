@@ -1,50 +1,296 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="vi">
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Heart Rate Variability (HRV) Explained: How to Read Your Overnight Recovery Metric — Pulse & Vitality Blog</title>
+  <title>Giải Mã Biến Thiên Nhịp Tim (HRV): Cách Đọc Chỉ Số Phục Hồi Vàng Trên Thiết Bị Đeo | Heart Rate Variability (HRV) Explained: How to Read Your Overnight Recovery Metric</title>
   <link rel="stylesheet" href="../styles.css">
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
   <link href="https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:wght@400;500;600;700;800&family=Lora:ital,wght@0,400;0,500;0,600;1,400&display=swap" rel="stylesheet">
 </head>
 <body class="blog-post-page">
-  <!-- Reading Progress Bar -->
   <div class="reading-progress-container">
     <div id="reading-progress" class="reading-progress-bar"></div>
   </div>
 
-  <!-- Sticky Top Navigation -->
+  <!-- Sticky Top Navigation with Bilingual Switcher -->
   <header class="navbar post-navbar">
     <div class="nav-container">
       <a href="../index.html" class="brand" style="text-decoration: none;">
         <div class="brand-logo">⚡</div>
         <div class="brand-text">
           <span class="brand-title">PULSE & VITALITY</span>
-          <span class="brand-subtitle">Health & Human Performance Knowledge Hub</span>
+          <span class="brand-subtitle" id="post-brand-subtitle">Cẩm Nang Khoa Học Sức Khỏe & Thiết Bị Đeo</span>
         </div>
       </a>
       <div class="nav-actions">
-        <a href="../index.html" class="btn-back-hub">
-          ← Back to All Articles
+        <div class="lang-switch-group" role="group" aria-label="Language Switcher">
+          <button id="post-lang-vi" class="lang-btn active" onclick="switchPostLang('vi')">🇻🇳 Tiếng Việt</button>
+          <button id="post-lang-en" class="lang-btn" onclick="switchPostLang('en')">🇬🇧 English</button>
+        </div>
+        <a href="../index.html" class="btn-back-hub" id="post-back-btn">
+          ← Quay lại Danh sách
         </a>
       </div>
     </div>
   </header>
 
-  <!-- Main Article Layout -->
-  <main class="article-page-container">
-    <!-- Breadcrumb -->
+  <!-- ========================================================= -->
+  <!-- VIETNAMESE ARTICLE CONTAINER                              -->
+  <!-- ========================================================= -->
+  <main id="post-container-vi" class="article-page-container">
     <nav class="article-breadcrumb">
-      <a href="../index.html">Knowledge Hub</a>
+      <a href="../index.html?lang=vi">Trang chủ</a>
       <span class="sep">/</span>
-      <a href="../index.html?cat=Recovery">Recovery</a>
+      <a href="../index.html?lang=vi">Phục hồi</a>
       <span class="sep">/</span>
       <span class="current">HRV Physiology</span>
     </nav>
 
-    <!-- Article Hero Header -->
+    <header class="article-page-header">
+      <div class="article-badges-row">
+        <span class="badge" style="background: #ECFDF5; color: #059669; font-weight: 700;">
+          🔋 Phục hồi
+        </span>
+        <span class="badge badge-sub">HRV Physiology</span>
+        <span class="badge badge-type">Learn more</span>
+        <span class="article-read-time">⏱ 10 phút đọc</span>
+      </div>
+
+      <h1 class="article-main-title">Giải Mã Biến Thiên Nhịp Tim (HRV): Cách Đọc Chỉ Số Phục Hồi Vàng Trên Thiết Bị Đeo</h1>
+      <p class="article-sapo-lead">Biến thiên nhịp tim (HRV) là chỉ số chuẩn vàng đánh giá mức độ sẵn sàng trên WHOOP, Oura, Garmin và Apple Watch. Tìm hiểu tại sao độ lệch mili-giây giữa các nhịp đập càng cao lại báo hiệu cơ thể càng ít căng thẳng, tại sao không bao giờ nên so sánh HRV với người khác, và cách điều chỉnh lịch tập theo xu hướng HRV 7 ngày.</p>
+
+      <figure class="article-featured-hero">
+        <img src="../images/LM_RC_01_hero.jpg" alt="Giải Mã Biến Thiên Nhịp Tim (HRV): Cách Đọc Chỉ Số Phục Hồi Vàng Trên Thiết Bị Đeo">
+        <figcaption>Giải Mã Biến Thiên Nhịp Tim (HRV): Cách Đọc Chỉ Số Phục Hồi Vàng Trên Thiết Bị Đeo • <a href="https://images.unsplash.com/photo-1551288049-bebda4e38f71?auto=format&fit=crop&w=1200&q=85" target="_blank" rel="noopener noreferrer" class="img-source-badge">Link ảnh gốc xác thực (Unsplash) ↗</a></figcaption>
+      </figure>
+
+      <div class="article-metadata-card">
+        <div class="meta-avatar">PV</div>
+        <div class="meta-content">
+          <div class="meta-author">Hội Đồng Biên Tập Y Khoa Pulse & Vitality</div>
+          <div class="meta-details">
+            <span>Nguồn nghiên cứu & Thiết bị: <strong>Frontiers in Public Health (Shaffer & Ginsberg, 2017) & Sports Medicine (Plews et al., 2013)</strong></span>
+            <span class="meta-dot">•</span>
+            <span>Màn hình App: <strong>Recovery Screen</strong></span>
+            <span class="meta-dot">•</span>
+            <span>Chỉ số: <strong>Heart Rate Variability (HRV)</strong></span>
+          </div>
+        </div>
+      </div>
+    </header>
+
+    <section class="takeaway-banner-large">
+      <div class="takeaway-banner-header">
+        <span class="takeaway-icon-lg">💡</span>
+        <span>Điểm Cốt Lõi & Hành Động Thực Tế</span>
+      </div>
+      <p>HRV không phải là nhịp tim—đó là sự chênh lệch tính bằng mili-giây (ms) giữa các nhịp tim liên tiếp. Chỉ số HRV cao hơn mức nền 30 ngày của chính bạn báo hiệu dây thần kinh phế vị phục hồi mạnh mẽ và sẵn sàng tập nặng, trong khi HRV sụt giảm nhiều ngày liên tiếp cảnh báo quá tải tập luyện, căng thẳng ngầm, dư âm của rượu bia hoặc cơ thể sắp ốm.</p>
+    </section>
+
+    <article class="article-rich-body">
+      <h2>Tại Sao Một Trái Tim Khỏe Mạnh Không Đập Đều Đặn Như Máy Đếm Nhịp?</h2>
+<p>Nếu nhịp tim nghỉ của bạn là <strong>60 nhịp/phút (bpm)</strong>, rất dễ lầm tưởng rằng trái tim đập chính xác mỗi <strong>1.000 giây</strong> một lần giống như đồng hồ thạch anh. Trên thực tế, một trái tim con người khỏe mạnh không bao giờ đập cứng nhắc như máy móc.</p>
+<p>Một nhịp có thể diễn ra sau <strong>0.88 giây (880 ms)</strong>, nhịp tiếp theo sau <strong>1.12 giây (1.120 ms)</strong>, và nhịp kế tiếp sau <strong>0.95 giây (950 ms)</strong>. <strong>Biến thiên nhịp tim (Heart Rate Variability - HRV)</strong> đo lường chính sự chênh lệch vi mô tính bằng mili-giây giữa các nhịp đập liên tiếp đó (trong lâm sàng gọi là <strong>khoảng R-R</strong> hay <strong>inter-beat intervals</strong>).</p>
+<p>Nghịch lý thú vị là trong khi bạn muốn có Nhịp tim nghỉ (RHR) <strong>thấp</strong>, bạn lại muốn có Biến thiên nhịp tim (HRV) <strong>cao</strong>:
+- <strong>HRV Thấp (Nhịp đập cứng nhắc như máy đếm nhịp):</strong> Cho thấy <strong>Hệ thần kinh Giao cảm ("Chiến đấu hay Bỏ chạy")</strong> đang chiếm quyền kiểm soát, khóa nhịp tim vào một tần số cứng nhắc để đối phó với căng thẳng, mệt mỏi, mất nước hoặc phản ứng viêm.
+- <strong>HRV Cao (Nhịp đập linh hoạt, biến thiên lớn):</strong> Cho thấy <strong>Hệ thần kinh Phó giao cảm ("Nghỉ ngơi và Tiêu hóa")</strong> đang hoạt động mạnh mẽ thông qua <strong>Dây thần kinh Phế vị (Vagus Nerve)</strong>, linh hoạt điều chỉnh nhịp tim theo từng hơi thở và báo hiệu cơ thể đã phục hồi hoàn toàn, sẵn sàng thích nghi với thử thách mới.</p>
+<figure class="article-inline-diagram">
+  <img src="../images/LM_RC_01_figure.png" alt="Sóng Điện tâm đồ ECG minh họa khoảng cách R-R giữa các nhịp tim" loading="lazy">
+  <figcaption>📊 <strong>Đo Lường Khoảng Cách R-R Giữa Từng Nhịp Đập:</strong> HRV không phải là số nhịp tim mỗi phút (bpm)—đó là độ biến thiên tính bằng mili-giây giữa các đỉnh sóng R liên tiếp (`R-R intervals`) trên điện tâm đồ hoặc sóng mạch quang học, phản ánh trực tiếp hoạt động điều hòa của Dây thần kinh Phế vị. <a href="https://commons.wikimedia.org/wiki/File:ECG-RRinterval.svg" target="_blank" rel="noopener">Nguồn Ảnh Gốc: Wikimedia Commons ↗</a></figcaption>
+</figure>
+
+<hr />
+<h2>Thiết Bị Đeo Tính Toán HRV Như Thế Nào? Chỉ Số RMSSD Là Gì?</h2>
+<p>Khi bạn nhìn vào con số HRV buổi sáng trên <strong>WHOOP</strong>, <strong>Oura Ring</strong>, <strong>Garmin HRV Status</strong>, hoặc <strong>Fitbit</strong> (đơn vị mili-giây, <code>ms</code>), bạn đang xem một chỉ số miền thời gian chuyên biệt được các nhà sinh lý học thể thao khuyến nghị (<strong>Shaffer &amp; Ginsberg, 2017</strong>; <strong>Plews et al., 2013</strong>): <strong>RMSSD</strong> (<em>Căn bậc hai của trung bình bình phương các hiệu số liên tiếp</em>).</p>
+<p>Dưới đây là 3 bước đơn giản mà đồng hồ thực hiện để tính RMSSD khi bạn đang ngủ yên:
+1. <strong>Đo Khoảng Thời Gian Giữa Các Nhịp Đập:</strong> Cảm biến quang học đo chính xác thời gian bằng mili-giây (<code>ms</code>) giữa từng nhịp tim (<code>khoảng R-R</code>).
+2. <strong>Tính Hiệu Số Giữa Hai Nhịp Liên Tiếp:</strong> Lấy khoảng thời gian của nhịp sau trừ đi nhịp ngay trước nó (ví dụ: <code>1.050 ms − 980 ms = +70 ms</code>).
+3. <strong>Bình Phương, Lấy Trung Bình &amp; Khai Căn:</strong> Bằng cách bình phương các hiệu số đó, tính trung bình trong từng cửa sổ ngủ 5 phút rồi lấy căn bậc hai, <strong>RMSSD lọc ra chính xác tín hiệu tần số cao của Dây thần kinh Phế vị (phó giao cảm)</strong> gắn liền với chu kỳ hô hấp (<strong>Loạn nhịp xoang hô hấp - Respiratory Sinus Arrhythmia</strong>).</p>
+<blockquote>
+<p><strong>Cách Các Thương Hiệu Khác Nhau Lấy Mẫu HRV Ban Đêm:</strong>
+- <strong>Oura Ring &amp; Garmin (Firstbeat):</strong> Tính <strong>trung bình RMSSD toàn đêm</strong> qua tất cả các khung 5 phút từ lúc ngủ đến lúc thức dậy, tạo ra đường cơ sở (baseline) cực kỳ ổn định và nhất quán.
+- <strong>WHOOP:</strong> Áp dụng trung bình có trọng số ưu tiên vào <strong>giai đoạn Giấc ngủ Sâu (Slow-Wave Sleep) cuối cùng</strong> trước khi thức dậy—thời điểm hoạt động phó giao cảm đạt đỉnh và nhiễu do tiêu hóa đầu đêm đã qua đi.
+- <strong>Apple Watch:</strong> Lấy mẫu rời rạc chỉ số <strong>SDNN</strong> ngắt quãng trong ngày và đêm (trừ khi bật tính năng Lịch sử Rung nhĩ - AFib History để tăng tần suất lấy mẫu).</p>
+</blockquote>
+<hr />
+<h2>Tại Sao Không Bao Giờ Nên So Sánh HRV Của Bạn Với Người Khác?</h2>
+<p>Một trong những bất ngờ lớn nhất đối với người dùng thiết bị đeo là phát hiện ra một vận động viên marathon chuyên nghiệp có thể có HRV trung bình là <strong>55 ms</strong>, trong khi một người tập gym phong trào cùng độ tuổi lại có HRV trung bình tới <strong>110 ms</strong>.</p>
+<p>Như đội ngũ sinh lý học tại <strong>Garmin</strong>, <strong>Oura</strong>, và <strong>WHOOP</strong> luôn nhấn mạnh, <strong>HRV là chỉ số mang tính cá nhân hóa cực cao</strong>, phụ thuộc vào di truyền, cấu trúc giải phẫu tim, tuổi tác, giới tính và nội tiết tố. Dù dữ liệu quần thể cho thấy HRV giảm dần theo tuổi, <strong>chỉ có sự thay đổi so với đường cơ sở trung bình 30 ngày của chính bạn mới mang ý nghĩa hành động</strong>:</p>
+<table>
+<thead>
+<tr>
+<th style="text-align: left;">Nhóm Tuổi</th>
+<th style="text-align: left;">Khoảng RMSSD Trung Vị (50% Giữa)</th>
+<th style="text-align: left;">Phân Vị Thứ 10 – Thứ 90</th>
+<th style="text-align: left;">Cách Đọc Đường Cơ Sở Cá Nhân (Personal Baseline)</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="text-align: left;"><strong>20 – 29 Tuổi</strong></td>
+<td style="text-align: left;"><strong>55 – 105 ms</strong></td>
+<td style="text-align: left;">35 – 145 ms</td>
+<td style="text-align: left;">Độ biến thiên nền cao; chú ý các đợt tụt sâu đơn lẻ sau khi uống rượu bia hoặc thức khuya.</td>
+</tr>
+<tr>
+<td style="text-align: left;"><strong>30 – 39 Tuổi</strong></td>
+<td style="text-align: left;"><strong>42 – 82 ms</strong></td>
+<td style="text-align: left;">28 – 115 ms</td>
+<td style="text-align: left;">Phong vũ biểu nhạy bén phản ánh áp lực công việc, giấc ngủ bị ngắt quãng khi chăm con nhỏ và tải tập luyện.</td>
+</tr>
+<tr>
+<td style="text-align: left;"><strong>40 – 49 Tuổi</strong></td>
+<td style="text-align: left;"><strong>32 – 65 ms</strong></td>
+<td style="text-align: left;">22 – 92 ms</td>
+<td style="text-align: left;">Phản hồi rất tích cực với tập luyện sức bền nền tảng Zone 2 và thói quen thư giãn buổi tối.</td>
+</tr>
+<tr>
+<td style="text-align: left;"><strong>50 – 59 Tuổi</strong></td>
+<td style="text-align: left;"><strong>25 – 52 ms</strong></td>
+<td style="text-align: left;">18 – 75 ms</td>
+<td style="text-align: left;">Tập trung theo dõi xu hướng trung bình trượt 7 ngày (<code>7-day HRV trend</code>) thay vì biến động từng ngày.</td>
+</tr>
+<tr>
+<td style="text-align: left;"><strong>Trên 60 Tuổi</strong></td>
+<td style="text-align: left;"><strong>20 – 45 ms</strong></td>
+<td style="text-align: left;">15 – 65 ms</td>
+<td style="text-align: left;">Chỉ cần mức trung bình 30 ngày tăng thêm <code>+5 ms</code> đã phản ánh sự cải thiện đáng kể về sức bền tim mạch.</td>
+</tr>
+</tbody>
+</table>
+<hr />
+<h2>Góc Nhìn Thực Tế Từ Thiết Bị Đeo: "Tại Sao HRV Của Tôi Tụt Sâu Đêm Qua?"</h2>
+<p>HRV ban đêm là hệ thống radar cảnh báo sớm những căng thẳng sinh lý tiềm ẩn. Dưới đây là 4 nguyên nhân phổ biến nhất khiến HRV buổi sáng rơi xuống dưới hành lang cơ sở của bạn:</p>
+<ol>
+<li><strong>Rượu Bia (Kẻ Hủy Diệt HRV Cấp Tính Số 1):</strong> Trong kho dữ liệu hàng triệu đêm của WHOOP và Oura, cồn gây ra cú sập HRV đơn lẻ mạnh nhất trong mọi thói quen sinh hoạt. Chỉ <strong>1 đến 2 đơn vị cồn buổi tối</strong> làm giảm HRV ban đêm từ <strong>10% đến 22%</strong>, trong khi <strong>từ 3 ly trở lên</strong> có thể kéo tụt HRV từ <strong>30% đến 50%</strong> và duy trì mức ức chế đó suốt 72 giờ tiếp theo.</li>
+<li><strong>Ủ Bệnh Nhiễm Trùng (48 Giờ Trước Khi Phát Triệu Chứng):</strong> Rất thường xuyên, HRV của bạn sẽ tụt <strong>20% đến 35% dưới mức nền</strong> (đi kèm Nhịp tim nghỉ tăng <code>+4 đến +8 nhịp/phút</code> và nhiệt độ da tăng <code>+0.4°C</code>) <strong>từ 1 đến 2 ngày trước khi bạn cảm thấy đau họng hay sốt</strong>. Phản ứng viêm của hệ miễn dịch đã kích hoạt hệ thần kinh giao cảm từ rất lâu trước khi triệu chứng lâm sàng xuất hiện.</li>
+<li><strong>Tải Tập Luyện Tích Lũy &amp; Mất Nước:</strong> Sau một buổi tập chân nặng, chạy dài (long run) hoặc tập dưới trời nắng nóng, thể tích huyết tương giảm và phản ứng viêm vi mô ở sợi cơ tăng lên—tạm thời kéo giảm HRV trong 24–48 giờ trong lúc cơ thể sửa chữa mô cơ.</li>
+<li><strong>Ăn Khuya &amp; Căng Thẳng Tâm Lý:</strong> Ăn trong vòng 2 giờ trước khi ngủ hoặc đi ngủ ngay sau khi tranh luận, chạy deadline công việc khiến cortisol duy trì ở mức cao, ngăn cản dây thần kinh phế vị tiếp quản nhịp tim trong các chu kỳ ngủ đầu đêm.</li>
+</ol>
+<hr />
+<h2>Cách Sử Dụng Xu Hướng HRV 7 Ngày Để Điều Phối Lịch Tập &amp; Công Việc</h2>
+<p>Trong nghiên cứu khoa học thể thao nổi tiếng trên các vận động viên sức bền đỉnh cao (<strong>Plews et al., 2013</strong>), các nhà khoa học đã chứng minh rằng <strong>Tập luyện dẫn đường bằng HRV (HRV-guided training)</strong>—tức linh hoạt điều chỉnh cường độ tập hàng ngày dựa trên <strong>trung bình trượt RMSSD 7 ngày (<code>HRV_7d</code>)</strong> thay vì bám cứng nhắc vào giáo án cố định—giúp tăng VO₂ Max và thành tích thi đấu vượt trội đồng thời ngăn ngừa hội chứng tập luyện quá sức:</p>
+<ul>
+<li><strong>🟢 HRV Nằm Trong Hoặc Cao Hơn Mức Nền 30 Ngày (Sẵn Sàng Xanh):</strong> Hệ thần kinh tự chủ cân bằng và giàu khả năng thích nghi. <strong>Ngày lý tưởng để tập HIIT, nâng tạ nặng, chạy Tempo hoặc giải quyết công việc trí óc đòi hỏi độ tập trung cao.</strong></li>
+<li><strong>🟡 HRV Thấp Hơn Mức Nền 10%–20% Trong 1–2 Ngày (Cảnh Báo Vàng):</strong> Phản ứng phục hồi cấp tính bình thường sau buổi tập nặng hoặc một đêm thiếu ngủ. <strong>Tập ở cường độ vừa phải (Cardio Zone 2 hoặc rèn kỹ thuật), bù đủ nước điện giải và ưu tiên đi ngủ sớm.</strong></li>
+<li><strong>🔴 Xu Hướng HRV Trung Bình 7 Ngày Rơi Khỏi Hành Lang Chuẩn (Báo Động Đỏ):</strong> Báo hiệu căng thẳng giao cảm tích lũy, phục hồi chưa đủ hoặc cơ thể đang ủ bệnh. <strong>Hãy nghỉ ngơi chủ động, thực hành 10 phút thở cộng hưởng chậm (6 nhịp thở/phút), và ưu tiên dinh dưỡng cùng giấc ngủ cho đến khi đường trung bình 7 ngày bật tăng trở lại.</strong></li>
+</ul>
+<hr />
+<h2>Tài Liệu Tham Khảo &amp; Nguồn Y Khoa</h2>
+<ol>
+<li><strong>Shaffer, F., &amp; Ginsberg, J. P. (2017).</strong> <em>An Overview of Heart Rate Variability Metrics and Norms.</em> Frontiers in Public Health, 5, 258. <a href="https://pubmed.ncbi.nlm.nih.gov/29034226/">Xem trên PubMed / NIH ↗</a></li>
+<li><strong>Plews, D. J., Laursen, P. B., Stanley, J., Buchheit, M., &amp; Kilding, A. E. (2013).</strong> <em>Training adaptation and heart rate variability in elite endurance athletes: opening the door to effective monitoring.</em> Sports Medicine, 43(9), 773–781. <a href="https://pubmed.ncbi.nlm.nih.gov/23852425/">Xem trên PubMed / NIH ↗</a></li>
+<li><strong>Oura Ring Pulse Blog.</strong> <em>What Is Heart Rate Variability (HRV)? The Definitive Guide.</em> <a href="https://ouraring.com/blog/what-is-heart-rate-variability/">Xem trên Oura Ring ↗</a></li>
+<li><strong>Garmin Health Science.</strong> <em>Heart Rate Variability (HRV) Status &amp; Autonomic Recovery.</em> <a href="https://www.garmin.com/en-US/garmin-technology/health-science/hrv-status/">Xem trên Garmin Health Science ↗</a></li>
+</ol>
+    </article>
+
+    <section class="canonical-citation-card">
+      <div class="citation-icon">📚</div>
+      <div class="citation-body">
+        <h4>Nguồn Tham Khảo Y Khoa & Nghiên Cứu Gốc</h4>
+        <p>Bài viết này được tổng hợp và kiểm chứng từ các nghiên cứu y sinh học, hướng dẫn lâm sàng và tài liệu khoa học thiết bị đeo của <strong>Frontiers in Public Health (Shaffer & Ginsberg, 2017) & Sports Medicine (Plews et al., 2013)</strong>.</p>
+        <div class="citation-actions">
+          <a href="https://pubmed.ncbi.nlm.nih.gov/29034226/" target="_blank" rel="noopener noreferrer" class="btn-canonical-study">
+            Xem Nghiên Cứu Gốc / Bài Báo Khoa Học ↗
+          </a>
+        </div>
+      </div>
+    </section>
+
+    <nav class="post-pagination-nav">
+      
+    <a href="DM_SL_02.html?lang=vi" class="post-nav-btn prev">
+      <span class="nav-direction">← Bài viết trước</span>
+      <span class="nav-title">Nợ Giấc Ngủ (Sleep Debt) & Lệch Múi Giờ Xã Hội: Tại Sao Ngủ Bù Cuối Tuần Không Thể Cứu Vãn Sức Khỏe?</span>
+    </a>
+      
+    <a href="LM_RC_02.html?lang=vi" class="post-nav-btn next">
+      <span class="nav-direction">Bài tiếp theo →</span>
+      <span class="nav-title">Nhịp Tim Nghỉ Ban Đêm (Overnight RHR): Mạch Đập Khi Ngủ Tiết Lộ Gì Về Thể Lực Và Mức Độ Phục Hồi?</span>
+    </a>
+    </nav>
+
+    <section class="related-articles-section">
+      <div class="related-section-header">
+        <h3>Bài viết liên quan thuộc chủ đề Phục hồi</h3>
+      </div>
+      <div class="related-posts-grid">
+        
+        <a href="LM_RC_02.html?lang=vi" class="related-post-card">
+          <div class="related-post-img" style="background-image: url('../images/LM_RC_02_hero.jpg');">
+            <span class="related-post-badge" style="background: #ECFDF5; color: #059669;">
+              🔋 Phục hồi
+            </span>
+          </div>
+          <div class="related-post-info">
+            <h4 class="related-post-title">Nhịp Tim Nghỉ Ban Đêm (Overnight RHR): Mạch Đập Khi Ngủ Tiết Lộ Gì Về Thể Lực Và Mức Độ Phục Hồi?</h4>
+            <p class="related-post-desc">Nhịp tim nghỉ ban đêm (Overnight RHR) là một trong những thước đo rõ ràng nhất về sức bền ...</p>
+            <div class="related-post-meta">
+              <span>⏱ 8 phút đọc</span>
+              <span>•</span>
+              <span>Learn more</span>
+            </div>
+          </div>
+        </a>
+        
+        <a href="DM_RC_01.html?lang=vi" class="related-post-card">
+          <div class="related-post-img" style="background-image: url('../images/DM_RC_01_hero.jpg');">
+            <span class="related-post-badge" style="background: #ECFDF5; color: #059669;">
+              🔋 Phục hồi
+            </span>
+          </div>
+          <div class="related-post-info">
+            <h4 class="related-post-title">Giao Thức Thở Cộng Hưởng 5.5 Giây: Cách Kích Hoạt Dây Thần Kinh Phế Vị & Tăng Chỉ Số HRV Tự Nhiên</h4>
+            <p class="related-post-desc">Nhịp thở là chiếc điều khiển từ xa duy nhất giúp bạn trực tiếp điều hướng Hệ thần kinh Tự ...</p>
+            <div class="related-post-meta">
+              <span>⏱ 8 phút đọc</span>
+              <span>•</span>
+              <span>Discover more</span>
+            </div>
+          </div>
+        </a>
+        
+        <a href="DM_RC_02.html?lang=vi" class="related-post-card">
+          <div class="related-post-img" style="background-image: url('../images/DM_RC_02_hero.jpg');">
+            <span class="related-post-badge" style="background: #ECFDF5; color: #059669;">
+              🔋 Phục hồi
+            </span>
+          </div>
+          <div class="related-post-info">
+            <h4 class="related-post-title">Phục Hồi Chủ Động (Active Recovery) So Với Nghỉ Thụ Động: Tại Sao Vận Động Nhẹ Zone 1 Giúp Tan Mỏi Cơ Nhanh Hơn Nằm Yên?</h4>
+            <p class="related-post-desc">Khi đôi chân nặng trĩu sau buổi tập nặng và đồng hồ báo điểm phục hồi màu vàng hoặc đỏ, vi...</p>
+            <div class="related-post-meta">
+              <span>⏱ 8 phút đọc</span>
+              <span>•</span>
+              <span>Discover more</span>
+            </div>
+          </div>
+        </a>
+        
+      </div>
+    </section>
+
+    <div class="return-hub-cta">
+      <a href="../index.html?lang=vi" class="btn-return-hub">← Quay lại Trang chủ & Tìm kiếm</a>
+      <button onclick="window.scrollTo({top: 0, behavior: 'smooth'})" class="btn-scroll-top">↑ Lên đầu trang</button>
+    </div>
+  </main>
+
+  <!-- ========================================================= -->
+  <!-- ENGLISH ARTICLE CONTAINER                                 -->
+  <!-- ========================================================= -->
+  <main id="post-container-en" class="article-page-container hidden">
+    <nav class="article-breadcrumb">
+      <a href="../index.html?lang=en">Knowledge Hub</a>
+      <span class="sep">/</span>
+      <a href="../index.html?lang=en">Recovery</a>
+      <span class="sep">/</span>
+      <span class="current">HRV Physiology</span>
+    </nav>
+
     <header class="article-page-header">
       <div class="article-badges-row">
         <span class="badge" style="background: #ECFDF5; color: #059669; font-weight: 700;">
@@ -56,32 +302,28 @@
       </div>
 
       <h1 class="article-main-title">Heart Rate Variability (HRV) Explained: How to Read Your Overnight Recovery Metric</h1>
-      
       <p class="article-sapo-lead">Heart Rate Variability (HRV) is the gold-standard readiness metric on WHOOP, Oura, Garmin, and Apple Watch. Learn why a higher millisecond variation between heartbeats means lower stress, why you should never compare your HRV to a friend's, and how to train using your 7-day HRV trend.</p>
 
-      <!-- Featured Cover Hero Image -->
       <figure class="article-featured-hero">
         <img src="../images/LM_RC_01_hero.jpg" alt="Heart Rate Variability (HRV) Explained: How to Read Your Overnight Recovery Metric">
-        <figcaption>Heart Rate Variability (HRV) Explained: How to Read Your Overnight Recovery Metric — Clinical Editorial Feature</figcaption>
+        <figcaption>Heart Rate Variability (HRV) Explained: How to Read Your Overnight Recovery Metric • <a href="https://images.unsplash.com/photo-1551288049-bebda4e38f71?auto=format&fit=crop&w=1200&q=85" target="_blank" rel="noopener noreferrer" class="img-source-badge">Verified Original Photo Source (Unsplash) ↗</a></figcaption>
       </figure>
 
-      <!-- Editorial & Clinical Metadata Card -->
       <div class="article-metadata-card">
         <div class="meta-avatar">PV</div>
         <div class="meta-content">
           <div class="meta-author">Pulse & Vitality Clinical Editorial Board</div>
           <div class="meta-details">
-            <span>Clinical Wearable Reference: <strong>Frontiers in Public Health (Shaffer & Ginsberg, 2017) & Plews et al. (2013)</strong></span>
+            <span>Clinical & Wearable Source: <strong>Frontiers in Public Health (Shaffer & Ginsberg, 2017) & Sports Medicine (Plews et al., 2013)</strong></span>
             <span class="meta-dot">•</span>
             <span>Mapped Screen: <strong>Recovery Screen</strong></span>
             <span class="meta-dot">•</span>
-            <span>Metric: <strong>Heart Rate Variability (HRV)</strong></span>
+            <span>Biometric: <strong>Heart Rate Variability (HRV)</strong></span>
           </div>
         </div>
       </div>
     </header>
 
-    <!-- Key Actionable Takeaway Banner -->
     <section class="takeaway-banner-large">
       <div class="takeaway-banner-header">
         <span class="takeaway-icon-lg">💡</span>
@@ -90,30 +332,29 @@
       <p>HRV is not your heart rate—it is the millisecond variation in timing between consecutive heartbeats. A high HRV relative to your personal 30-day baseline signals strong vagus nerve recovery and readiness for intense training, while a multi-day drop warns of accumulated training strain, hidden psychological stress, alcohol recovery, or an oncoming illness.</p>
     </section>
 
-    <!-- Full Article Markdown Content -->
     <article class="article-rich-body">
       <h2>Why a Healthy Heart Does Not Beat Like a Metronome</h2>
 <p>If your resting heart rate is <strong>60 beats per minute (bpm)</strong>, it is tempting to assume your heart beats exactly once every <strong>1.000 second</strong> like a quartz clock. In reality, a healthy human heart never beats with robotic regularity.</p>
 <p>One beat might occur after <strong>0.88 seconds (880 ms)</strong>, the next after <strong>1.12 seconds (1,120 ms)</strong>, and the next after <strong>0.95 seconds (950 ms)</strong>. <strong>Heart Rate Variability (HRV)</strong> measures that microscopic millisecond variation between consecutive heartbeats (known clinically as <strong>R-R intervals</strong> or <strong>inter-beat intervals</strong>).</p>
-<p>Paradoxically, while you want a <strong>low</strong> Resting Heart Rate, you want a <strong>high</strong> Heart Rate Variability:<br />
-- <strong>Low HRV (Metronome-like beats):</strong> Means your <strong>Sympathetic Nervous System ("Fight-or-Flight")</strong> is dominating, locking your heart into a rigid rhythm to deal with stress, fatigue, dehydration, or inflammation.<br />
+<p>Paradoxically, while you want a <strong>low</strong> Resting Heart Rate, you want a <strong>high</strong> Heart Rate Variability:
+- <strong>Low HRV (Metronome-like beats):</strong> Means your <strong>Sympathetic Nervous System ("Fight-or-Flight")</strong> is dominating, locking your heart into a rigid rhythm to deal with stress, fatigue, dehydration, or inflammation.
 - <strong>High HRV (Flexible, variable beats):</strong> Means your <strong>Parasympathetic Nervous System ("Rest-and-Digest")</strong> is thriving via the <strong>Vagus Nerve</strong>, dynamically adjusting your heart rate with every breath and signaling that your body is recovered and adaptable.</p>
 <figure class="article-inline-diagram">
-  <img src="../images/LM_RC_01_diagram.svg" alt="Heart Rate Variability R-R Intervals and Autonomic Nervous System Balance" loading="lazy">
-  <figcaption>📊 <strong>Autonomic Nervous System Tug-of-War:</strong> How R-R interval variability (RMSSD) captures the real-time balance between Sympathetic stress activation and Parasympathetic Vagus Nerve recovery.</figcaption>
+  <img src="../images/LM_RC_01_figure.png" alt="Clinical ECG Waveform Showing R-R Intervals Between Heartbeats" loading="lazy">
+  <figcaption>📊 <strong>Measuring Beat-to-Beat R-R Intervals:</strong> HRV is not your heart rate in bpm—it is the millisecond variation between consecutive R-wave peaks (`R-R intervals`) on an ECG or optical pulse wave, reflecting real-time Vagus Nerve regulation. <a href="https://commons.wikimedia.org/wiki/File:ECG-RRinterval.svg" target="_blank" rel="noopener">Original Image Source: Wikimedia Commons ↗</a></figcaption>
 </figure>
 
 <hr />
 <h2>How Wearables Calculate HRV: What Is RMSSD?</h2>
 <p>When you look at your morning HRV number on <strong>WHOOP</strong>, <strong>Oura Ring</strong>, <strong>Garmin HRV Status</strong>, or <strong>Fitbit</strong> (measured in milliseconds, <code>ms</code>), you are looking at a specific time-domain metric recommended by sports physiologists (<strong>Shaffer &amp; Ginsberg, 2017</strong>; <strong>Plews et al., 2013</strong>): <strong>RMSSD</strong> (<em>Root Mean Square of Successive Differences</em>).</p>
-<p>Here is how your watch computes RMSSD in three simple steps during deep, still sleep:<br />
-1. <strong>Measure Beat-to-Beat Gaps:</strong> Your optical sensor measures the exact time in milliseconds (<code>ms</code>) between each heartbeat (<code>R-R interval</code>).<br />
-2. <strong>Calculate Successive Differences:</strong> It subtracts each beat's interval from the very next beat's interval (e.g., <code>1,050 ms − 980 ms = +70 ms</code>).<br />
+<p>Here is how your watch computes RMSSD in three simple steps during deep, still sleep:
+1. <strong>Measure Beat-to-Beat Gaps:</strong> Your optical sensor measures the exact time in milliseconds (<code>ms</code>) between each heartbeat (<code>R-R interval</code>).
+2. <strong>Calculate Successive Differences:</strong> It subtracts each beat's interval from the very next beat's interval (e.g., <code>1,050 ms − 980 ms = +70 ms</code>).
 3. <strong>Square, Average &amp; Take the Square Root:</strong> By squaring those beat-to-beat differences, averaging them across 5-minute sleep windows, and taking the square root, <strong>RMSSD isolates pure high-frequency Vagus Nerve (parasympathetic) activity</strong> linked to your breathing cycle (<strong>Respiratory Sinus Arrhythmia</strong>).</p>
 <blockquote>
-<p><strong>How Different Brands Sample Your Overnight HRV:</strong><br />
-- <strong>Oura Ring &amp; Garmin (Firstbeat):</strong> Calculate the <strong>full-night average RMSSD</strong> across all 5-minute sleep windows from sleep onset to wake-up, producing a rock-solid, highly repeatable baseline.<br />
-- <strong>WHOOP:</strong> Applies a dynamic weighted average skewed toward your <strong>last slow-wave (Deep) sleep phase</strong> before waking, when parasympathetic restoration peaks and early-night digestion noise has cleared.<br />
+<p><strong>How Different Brands Sample Your Overnight HRV:</strong>
+- <strong>Oura Ring &amp; Garmin (Firstbeat):</strong> Calculate the <strong>full-night average RMSSD</strong> across all 5-minute sleep windows from sleep onset to wake-up, producing a rock-solid, highly repeatable baseline.
+- <strong>WHOOP:</strong> Applies a dynamic weighted average skewed toward your <strong>last slow-wave (Deep) sleep phase</strong> before waking, when parasympathetic restoration peaks and early-night digestion noise has cleared.
 - <strong>Apple Watch:</strong> Samples discrete <strong>SDNN</strong> readings intermittently throughout the day and night (unless AFib History is enabled for higher-frequency sampling).</p>
 </blockquote>
 <hr />
@@ -162,11 +403,6 @@
 </tr>
 </tbody>
 </table>
-<figure class="article-inline-photo">
-  <img src="../images/LM_RC_01_photo.jpg" alt="Athlete checking morning HRV recovery readiness score before training" loading="lazy">
-  <figcaption>📷 <strong>HRV-Guided Training (Plews et al., 2013):</strong> Using your 7-day rolling HRV baseline to decide when to push high-intensity intervals and when to pivot to Zone 2 active recovery.</figcaption>
-</figure>
-
 <hr />
 <h2>Real-World Wearable Insights: "Why Did My HRV Drop Last Night?"</h2>
 <p>Your overnight HRV is an early-warning radar for hidden physiological stress. Here are the four most common reasons your morning HRV drops below your baseline corridor:</p>
@@ -178,7 +414,7 @@
 </ol>
 <hr />
 <h2>How to Use Your 7-Day HRV Trend to Guide Training &amp; Life</h2>
-<p>In a landmark sports science study of elite endurance athletes (<strong>Plews et al., 2013</strong>), researchers proved that <strong>HRV-guided training</strong>—adjusting daily workout intensity based on a <strong>7-day rolling RMSSD average (<code>HRV_7d</code>)</strong> rather than rigidly following a calendar—produced superior VO2 Max and race performance with less overtraining:</p>
+<p>In a landmark sports science study of elite endurance athletes (<strong>Plews et al., 2013</strong>), researchers proved that <strong>HRV-guided training</strong>—adjusting daily workout intensity based on a <strong>7-day rolling RMSSD average (<code>HRV_7d</code>)</strong> rather than rigidly following a calendar—produced superior VO₂ Max and race performance with less overtraining:</p>
 <ul>
 <li><strong>🟢 HRV Within or Above Your 30-Day Baseline (Green Readiness):</strong> Your autonomic nervous system is balanced and adaptable. <strong>Ideal day for HIIT, heavy strength training, tempo runs, or high-stakes cognitive work.</strong></li>
 <li><strong>🟡 HRV 10%–20% Below Baseline for 1–2 Days (Yellow Caution):</strong> Normal acute recovery response after a hard workout or poor night's sleep. <strong>Train at moderate intensity (Zone 2 cardio or technique work), hydrate with electrolytes, and prioritize an early bedtime.</strong></li>
@@ -194,89 +430,83 @@
 </ol>
     </article>
 
-    <!-- Canonical Source Reference Box -->
     <section class="canonical-citation-card">
       <div class="citation-icon">📚</div>
       <div class="citation-body">
         <h4>Clinical Reference & Scientific Backing</h4>
-        <p>This article is synthesized from peer-reviewed physiology, clinical guidelines, and wearable biometric methodologies developed by <strong>Frontiers in Public Health (Shaffer & Ginsberg, 2017) & Plews et al. (2013)</strong>.</p>
+        <p>This article is synthesized from peer-reviewed medical literature, clinical guidelines, and wearable biometric validation studies from <strong>Frontiers in Public Health (Shaffer & Ginsberg, 2017) & Sports Medicine (Plews et al., 2013)</strong>.</p>
         <div class="citation-actions">
           <a href="https://pubmed.ncbi.nlm.nih.gov/29034226/" target="_blank" rel="noopener noreferrer" class="btn-canonical-study">
-            Read Canonical Study / Original Article ↗
+            Read Canonical Study / Original Source ↗
           </a>
         </div>
       </div>
     </section>
 
-    <!-- Next / Previous Article Navigation -->
     <nav class="post-pagination-nav">
       
-    <a href="DM_SL_02.html" class="post-nav-btn prev">
+    <a href="DM_SL_02.html?lang=en" class="post-nav-btn prev">
       <span class="nav-direction">← Previous Article</span>
       <span class="nav-title">Sleep Debt, Social Jetlag & Circadian Consistency: Why Weekend Catch-Up Sleep Fails</span>
     </a>
-    
       
-    <a href="LM_RC_02.html" class="post-nav-btn next">
+    <a href="LM_RC_02.html?lang=en" class="post-nav-btn next">
       <span class="nav-direction">Next Article →</span>
-      <span class="nav-title">Overnight Resting Heart Rate (RHR): Your Window into Myocardial Efficiency</span>
+      <span class="nav-title">Overnight Resting Heart Rate (RHR): What Your Sleeping Pulse Reveals About Fitness and Recovery</span>
     </a>
-    
     </nav>
 
-    <!-- Related Articles Section -->
     <section class="related-articles-section">
       <div class="related-section-header">
         <h3>Related Reads in Recovery</h3>
-        <a href="../index.html?cat=Recovery" class="view-all-link">View all Recovery articles →</a>
       </div>
       <div class="related-posts-grid">
         
-        <a href="LM_RC_02.html" class="related-post-card">
-          <div class="related-post-img" style="background-image: url('https://images.unsplash.com/photo-1510519138171-c70d76b640a2?auto=format&fit=crop&w=1200&q=80');">
+        <a href="LM_RC_02.html?lang=en" class="related-post-card">
+          <div class="related-post-img" style="background-image: url('../images/LM_RC_02_hero.jpg');">
             <span class="related-post-badge" style="background: #ECFDF5; color: #059669;">
               🔋 Recovery
             </span>
           </div>
           <div class="related-post-info">
-            <h4 class="related-post-title">Overnight Resting Heart Rate (RHR): Your Window into Myocardial Efficiency</h4>
-            <p class="related-post-desc">How nocturnal resting pulse reflects stroke volume, myocardial efficiency, and acute syste...</p>
+            <h4 class="related-post-title">Overnight Resting Heart Rate (RHR): What Your Sleeping Pulse Reveals About Fitness and Recovery</h4>
+            <p class="related-post-desc">Your overnight Resting Heart Rate (RHR) is one of the clearest indicators of cardiovascula...</p>
             <div class="related-post-meta">
-              <span>⏱ 3 min</span>
+              <span>⏱ 8 min</span>
               <span>•</span>
               <span>Learn more</span>
             </div>
           </div>
         </a>
         
-        <a href="DM_RC_01.html" class="related-post-card">
-          <div class="related-post-img" style="background-image: url('https://images.unsplash.com/photo-1506126613408-eca07ce68773?auto=format&fit=crop&w=1200&q=80');">
+        <a href="DM_RC_01.html?lang=en" class="related-post-card">
+          <div class="related-post-img" style="background-image: url('../images/DM_RC_01_hero.jpg');">
             <span class="related-post-badge" style="background: #ECFDF5; color: #059669;">
               🔋 Recovery
             </span>
           </div>
           <div class="related-post-info">
-            <h4 class="related-post-title">The 5.5-Second Coherence Breathing Protocol: Voluntarily Elevating Your HRV Baseline</h4>
-            <p class="related-post-desc">A neuro-cardiology protocol to synchronize respiratory sinus arrhythmia with heart rate os...</p>
+            <h4 class="related-post-title">The 5.5-Second Resonance Breathing Protocol: How to Stimulate Your Vagus Nerve & Boost HRV</h4>
+            <p class="related-post-desc">Your breathing rate is the only remote control that directly steers your Autonomic Nervous...</p>
             <div class="related-post-meta">
-              <span>⏱ 5 min</span>
+              <span>⏱ 8 min</span>
               <span>•</span>
               <span>Discover more</span>
             </div>
           </div>
         </a>
         
-        <a href="DM_RC_02.html" class="related-post-card">
-          <div class="related-post-img" style="background-image: url('https://images.unsplash.com/photo-1544367567-0f2fcb009e0b?auto=format&fit=crop&w=1200&q=80');">
+        <a href="DM_RC_02.html?lang=en" class="related-post-card">
+          <div class="related-post-img" style="background-image: url('../images/DM_RC_02_hero.jpg');">
             <span class="related-post-badge" style="background: #ECFDF5; color: #059669;">
               🔋 Recovery
             </span>
           </div>
           <div class="related-post-info">
-            <h4 class="related-post-title">Active Recovery vs. Passive Rest: Accelerating Cellular Repair and Metabolic Clearance</h4>
-            <p class="related-post-desc">The biological mechanics of why low-intensity Zone 1 movement restores muscular and autono...</p>
+            <h4 class="related-post-title">Active Recovery vs. Passive Rest: Why Zone 1 Movement Clears Fatigue Faster Than the Couch</h4>
+            <p class="related-post-desc">When your legs feel heavy and your wearable shows a yellow or red recovery score, lying mo...</p>
             <div class="related-post-meta">
-              <span>⏱ 4 min</span>
+              <span>⏱ 8 min</span>
               <span>•</span>
               <span>Discover more</span>
             </div>
@@ -286,32 +516,62 @@
       </div>
     </section>
 
-    <!-- Return to Hub Footer CTA -->
     <div class="return-hub-cta">
-      <a href="../index.html" class="btn-return-hub">
-        ← Back to Knowledge Hub & Search
-      </a>
-      <button onclick="window.scrollTo({ top: 0, behavior: 'smooth' })" class="btn-scroll-top">
-        ↑ Back to Top
-      </button>
+      <a href="../index.html?lang=en" class="btn-return-hub">← Back to Knowledge Hub & Search</a>
+      <button onclick="window.scrollTo({top: 0, behavior: 'smooth'})" class="btn-scroll-top">↑ Back to Top</button>
     </div>
   </main>
 
-  <!-- Site Footer -->
   <footer class="site-footer">
     <div class="footer-container">
-      <p>© 2026 Pulse & Vitality Performance Engine • Built for iOS / Android Wearable Integration</p>
-      <p class="disclaimer">Clinical data curated from Flo Health, Clue, Natural Cycles, Fitbit Blog, WHOOP The Locker, Maven Clinic, and Dr. Kegel.</p>
+      <p>© 2026 Pulse & Vitality Performance Engine • Evidence-Based Wearable Health Hub (EN / VI)</p>
     </div>
   </footer>
 
   <script>
+    function switchPostLang(lang) {
+      localStorage.setItem('pv_lang', lang);
+      const viContainer = document.getElementById('post-container-vi');
+      const enContainer = document.getElementById('post-container-en');
+      const btnVi = document.getElementById('post-lang-vi');
+      const btnEn = document.getElementById('post-lang-en');
+      const brandSub = document.getElementById('post-brand-subtitle');
+      const backBtn = document.getElementById('post-back-btn');
+
+      if (lang === 'en') {
+        viContainer.classList.add('hidden');
+        enContainer.classList.remove('hidden');
+        btnVi.classList.remove('active');
+        btnEn.classList.add('active');
+        brandSub.textContent = 'Health & Human Performance Knowledge Hub';
+        backBtn.textContent = '← Back to All Articles';
+        backBtn.href = '../index.html?lang=en';
+        document.documentElement.lang = 'en';
+      } else {
+        enContainer.classList.add('hidden');
+        viContainer.classList.remove('hidden');
+        btnEn.classList.remove('active');
+        btnVi.classList.add('active');
+        brandSub.textContent = 'Cẩm Nang Khoa Học Sức Khỏe & Thiết Bị Đeo';
+        backBtn.textContent = '← Quay lại Danh sách';
+        backBtn.href = '../index.html?lang=vi';
+        document.documentElement.lang = 'vi';
+      }
+    }
+
+    (function initLang() {
+      const params = new URLSearchParams(window.location.search);
+      const qLang = params.get('lang');
+      const saved = qLang || localStorage.getItem('pv_lang') || 'vi';
+      switchPostLang(saved === 'en' ? 'en' : 'vi');
+    })();
+
     window.addEventListener('scroll', () => {
       const winScroll = document.body.scrollTop || document.documentElement.scrollTop;
       const height = document.documentElement.scrollHeight - document.documentElement.clientHeight;
-      if (height > 0) {
-        const scrolled = (winScroll / height) * 100;
-        document.getElementById('reading-progress').style.width = scrolled + '%';
+      const bar = document.getElementById('reading-progress');
+      if (height > 0 && bar) {
+        bar.style.width = ((winScroll / height) * 100) + '%';
       }
     });
   </script>

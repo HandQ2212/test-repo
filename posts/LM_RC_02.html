@@ -1,50 +1,289 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="vi">
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Overnight Resting Heart Rate (RHR): Your Window into Myocardial Efficiency — Pulse & Vitality Blog</title>
+  <title>Nhịp Tim Nghỉ Ban Đêm (Overnight RHR): Mạch Đập Khi Ngủ Tiết Lộ Gì Về Thể Lực Và Mức Độ Phục Hồi? | Overnight Resting Heart Rate (RHR): What Your Sleeping Pulse Reveals About Fitness and Recovery</title>
   <link rel="stylesheet" href="../styles.css">
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
   <link href="https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:wght@400;500;600;700;800&family=Lora:ital,wght@0,400;0,500;0,600;1,400&display=swap" rel="stylesheet">
 </head>
 <body class="blog-post-page">
-  <!-- Reading Progress Bar -->
   <div class="reading-progress-container">
     <div id="reading-progress" class="reading-progress-bar"></div>
   </div>
 
-  <!-- Sticky Top Navigation -->
+  <!-- Sticky Top Navigation with Bilingual Switcher -->
   <header class="navbar post-navbar">
     <div class="nav-container">
       <a href="../index.html" class="brand" style="text-decoration: none;">
         <div class="brand-logo">⚡</div>
         <div class="brand-text">
           <span class="brand-title">PULSE & VITALITY</span>
-          <span class="brand-subtitle">Health & Human Performance Knowledge Hub</span>
+          <span class="brand-subtitle" id="post-brand-subtitle">Cẩm Nang Khoa Học Sức Khỏe & Thiết Bị Đeo</span>
         </div>
       </a>
       <div class="nav-actions">
-        <a href="../index.html" class="btn-back-hub">
-          ← Back to All Articles
+        <div class="lang-switch-group" role="group" aria-label="Language Switcher">
+          <button id="post-lang-vi" class="lang-btn active" onclick="switchPostLang('vi')">🇻🇳 Tiếng Việt</button>
+          <button id="post-lang-en" class="lang-btn" onclick="switchPostLang('en')">🇬🇧 English</button>
+        </div>
+        <a href="../index.html" class="btn-back-hub" id="post-back-btn">
+          ← Quay lại Danh sách
         </a>
       </div>
     </div>
   </header>
 
-  <!-- Main Article Layout -->
-  <main class="article-page-container">
-    <!-- Breadcrumb -->
+  <!-- ========================================================= -->
+  <!-- VIETNAMESE ARTICLE CONTAINER                              -->
+  <!-- ========================================================= -->
+  <main id="post-container-vi" class="article-page-container">
     <nav class="article-breadcrumb">
-      <a href="../index.html">Knowledge Hub</a>
+      <a href="../index.html?lang=vi">Trang chủ</a>
       <span class="sep">/</span>
-      <a href="../index.html?cat=Recovery">Recovery</a>
+      <a href="../index.html?lang=vi">Phục hồi</a>
       <span class="sep">/</span>
       <span class="current">Resting Heart Rate</span>
     </nav>
 
-    <!-- Article Hero Header -->
+    <header class="article-page-header">
+      <div class="article-badges-row">
+        <span class="badge" style="background: #ECFDF5; color: #059669; font-weight: 700;">
+          🔋 Phục hồi
+        </span>
+        <span class="badge badge-sub">Resting Heart Rate</span>
+        <span class="badge badge-type">Learn more</span>
+        <span class="article-read-time">⏱ 8 phút đọc</span>
+      </div>
+
+      <h1 class="article-main-title">Nhịp Tim Nghỉ Ban Đêm (Overnight RHR): Mạch Đập Khi Ngủ Tiết Lộ Gì Về Thể Lực Và Mức Độ Phục Hồi?</h1>
+      <p class="article-sapo-lead">Nhịp tim nghỉ ban đêm (Overnight RHR) là một trong những thước đo rõ ràng nhất về sức bền tim mạch và trạng thái phục hồi hàng ngày. Khám phá lý do đồng hồ thông minh đo RHR khi bạn ngủ, cách thể tích nhát bóp giúp giảm nhịp tim theo thời gian, và ý nghĩa đằng sau việc RHR bất ngờ tăng vọt +5 nhịp/phút qua đêm.</p>
+
+      <figure class="article-featured-hero">
+        <img src="../images/LM_RC_02_hero.jpg" alt="Nhịp Tim Nghỉ Ban Đêm (Overnight RHR): Mạch Đập Khi Ngủ Tiết Lộ Gì Về Thể Lực Và Mức Độ Phục Hồi?">
+        <figcaption>Nhịp Tim Nghỉ Ban Đêm (Overnight RHR): Mạch Đập Khi Ngủ Tiết Lộ Gì Về Thể Lực Và Mức Độ Phục Hồi? • <a href="https://images.unsplash.com/photo-1576091160550-2173dba999ef?auto=format&fit=crop&w=1200&q=85" target="_blank" rel="noopener noreferrer" class="img-source-badge">Link ảnh gốc xác thực (Unsplash) ↗</a></figcaption>
+      </figure>
+
+      <div class="article-metadata-card">
+        <div class="meta-avatar">PV</div>
+        <div class="meta-content">
+          <div class="meta-author">Hội Đồng Biên Tập Y Khoa Pulse & Vitality</div>
+          <div class="meta-details">
+            <span>Nguồn nghiên cứu & Thiết bị: <strong>PLOS ONE (Quer et al., 2020) & OpenStax Anatomy / Oura & WHOOP Science</strong></span>
+            <span class="meta-dot">•</span>
+            <span>Màn hình App: <strong>Recovery Screen</strong></span>
+            <span class="meta-dot">•</span>
+            <span>Chỉ số: <strong>Resting Heart Rate (RHR)</strong></span>
+          </div>
+        </div>
+      </div>
+    </header>
+
+    <section class="takeaway-banner-large">
+      <div class="takeaway-banner-header">
+        <span class="takeaway-icon-lg">💡</span>
+        <span>Điểm Cốt Lõi & Hành Động Thực Tế</span>
+      </div>
+      <p>Sự giảm dần của Nhịp tim nghỉ ban đêm (RHR) theo từng tháng phản ánh tâm thất trái khỏe hơn và Thể tích nhát bóp (Stroke Volume) lớn hơn nhờ tập luyện sức bền. Ngược lại, nếu RHR tăng đột ngột từ +4 đến +8 nhịp/phút so với mức nền 30 ngày chỉ sau một đêm, đó là tín hiệu cảnh báo tức thời của quá trình chuyển hóa cồn, mất nước, ăn khuya hoặc cơ thể đang ủ bệnh nhiễm trùng.</p>
+    </section>
+
+    <article class="article-rich-body">
+      <h2>Tại Sao Thiết Bị Đeo Lại Đo Nhịp Tim Nghỉ Khi Bạn Đang Ngủ?</h2>
+<p>Trước đây, việc kiểm tra <strong>Nhịp tim nghỉ (Resting Heart Rate - RHR)</strong> đồng nghĩa với việc ngồi yên tại bàn làm việc hoặc phòng khám và đếm mạch đập trong 60 giây. Ngày nay, các thiết bị đeo tiên tiến như <strong>Oura Ring</strong>, <strong>WHOOP</strong>, <strong>Garmin</strong>, và <strong>Fitbit</strong> đo <strong>Nhịp tim nghỉ ban đêm (Nocturnal / Overnight RHR)</strong> khi bạn đang chìm sâu vào giấc ngủ.</p>
+<p>Tại sao đo RHR ban đêm lại chính xác hơn gấp nhiều lần so với đo lúc ngồi nghỉ ban ngày?
+Vào ban ngày, ngay cả những tác nhân rất nhỏ—như tiêu hóa bữa sáng, suy nghĩ về cuộc họp sắp tới, tư thế ngồi thẳng chống lại trọng lực hay sự thay đổi nhiệt độ phòng—đều có thể làm tăng nhịp mạch từ <strong>8 đến 15 nhịp/phút (bpm)</strong>. Việc đo nhịp tim khi bạn nằm ngang và ngủ sâu giúp loại bỏ hoàn toàn các yếu tố gây nhiễu ban ngày, phơi bày đường cơ sở sinh lý thực sự của trái tim.</p>
+<blockquote>
+<p><strong>Điểm Thấp Nhất (Nadir) So Với Trung Bình Cả Đêm:</strong> Tùy thuộc vào ứng dụng bạn dùng, bạn sẽ thấy hai con số RHR ban đêm:
+1. <strong>Nhịp Tim Nghỉ Thấp Nhất Đêm (RHR Nadir):</strong> Mức trung bình 5 phút thấp nhất được ghi nhận trong suốt đêm (thường đạt <code>42–55 bpm</code> ở người năng động).
+2. <strong>Nhịp Tim Ngủ Trung Bình (Sleeping Average RHR):</strong> Nhịp tim trung bình tính trên toàn bộ thời gian ngủ (thường cao hơn mức đáy từ <code>3 đến 6 bpm</code>).</p>
+</blockquote>
+<figure class="article-inline-diagram">
+  <img src="../images/LM_RC_02_figure.jpg" alt="Sơ đồ sinh lý học OpenStax về các yếu tố quyết định Cung lượng tim: Nhịp tim và Thể tích nhát bóp" loading="lazy">
+  <figcaption>📊 <strong>Sinh Lý Học Về Cung Lượng Tim (OpenStax):</strong> Vì `Cung lượng tim = Nhịp tim × Thể tích nhát bóp`, việc tăng Thể tích nhát bóp (Stroke Volume) thông qua tập luyện sức bền giúp trái tim bơm cùng một lượng máu giàu oxy đi nuôi cơ thể với số nhịp đập ít hơn hẳn mỗi phút. <a href="https://commons.wikimedia.org/wiki/File:2031_Factors_in_Cardiac_Output.jpg" target="_blank" rel="noopener">Nguồn Ảnh Gốc: Wikimedia Commons ↗</a></figcaption>
+</figure>
+
+<hr />
+<h2>Phương Trình Đằng Sau Nhịp Tim Thấp Của Vận Động Viên: Thể Tích Nhát Bóp (Stroke Volume)</h2>
+<p>Tại sao một vận động viên chạy bộ đường dài hoặc bơi lội thường có RHR ban đêm chỉ từ <strong>40 đến 48 bpm</strong>, trong khi người ít vận động có mức trung bình từ <strong>65 đến 75 bpm</strong>? Câu trả lời nằm ở phương trình nền tảng của sinh lý học tim mạch:</p>
+<blockquote>
+<p><strong>Cung Lượng Tim (Q) = Nhịp Tim (HR) × Thể Tích Nhát Bóp (SV)</strong></p>
+</blockquote>
+<p>Ở trạng thái nghỉ ngơi hoàn toàn, cơ thể người trưởng thành cần khoảng <strong>5.0 lít (5.000 mL) máu mỗi phút</strong> (<code>Cung lượng tim</code>) để cung cấp oxy cho các cơ quan nội tạng và mô:
+- <strong>Trái Tim Chưa Tập Luyện (Thể Tích Nhát Bóp Nhỏ):</strong> Nếu tâm thất trái của bạn bơm được <strong>70 mL máu trong mỗi nhát bóp</strong>, trái tim buộc phải co bóp <strong>71 lần mỗi phút</strong> (<code>71 bpm × 70 mL ≈ 5.000 mL/phút</code>) để đáp ứng nhu cầu oxy lúc nghỉ.
+- <strong>Trái Tim Rèn Luyện Sức Bền (Thể Tích Nhát Bóp Lớn):</strong> Nhiều tháng tập luyện cardio Zone 2 và chạy biến tốc giúp củng cố cơ tim và mở rộng buồng tâm thất trái (<strong>phì đại cơ tim sinh lý hướng tâm/lệch tâm lành mạnh</strong>). Khi tâm thất trái bơm được tới <strong>105 mL máu trong mỗi nhát bóp</strong>, trái tim chỉ cần co bóp <strong>48 lần mỗi phút</strong> (<code>48 bpm × 105 mL ≈ 5.040 mL/phút</code>) để lưu thông đúng 5 lít máu đó!</p>
+<p>Mỗi nhịp đập tiết kiệm được trong một phút tương đương với việc <strong>trái tim giảm được 1.440 lần co bóp mỗi ngày (24 giờ)</strong>—giảm đáng kể hao mòn cơ học lên hệ thống tim mạch suốt cuộc đời.</p>
+<hr />
+<h2>Bảng Định Mức Quần Thể: Nhịp Tim Nghỉ Ban Đêm Bao Nhiêu Là Chuẩn?</h2>
+<p>Trong một nghiên cứu y học kỹ thuật số quy mô lớn đăng trên tạp chí <em>PLOS ONE</em> (<strong>Quer et al., 2020</strong>), các nhà khoa học tại Viện Nghiên cứu Scripps đã phân tích hơn <strong>92.000 người trưởng thành</strong> đeo đồng hồ thông minh liên tục trong 1 năm. Dù RHR của người lớn dao động rộng từ <strong>40 đến 90 bpm</strong>, đường cơ sở của riêng từng cá nhân lại cực kỳ ổn định qua từng tuần trừ khi bị xáo trộn bởi lối sống hoặc bệnh lý:</p>
+<table>
+<thead>
+<tr>
+<th style="text-align: left;">Phân Nhóm Thể Lực</th>
+<th style="text-align: left;">RHR Ban Đêm Điển Hình (Nam)</th>
+<th style="text-align: left;">RHR Ban Đêm Điển Hình (Nữ)</th>
+<th style="text-align: left;">Ý Nghĩa Sinh Lý Học Tim Mạch</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="text-align: left;"><strong>Vận Động Viên Sức Bền</strong></td>
+<td style="text-align: left;"><strong>38 – 49 bpm</strong></td>
+<td style="text-align: left;"><strong>42 – 52 bpm</strong></td>
+<td style="text-align: left;">Thể tích nhát bóp tâm thất trái lớn, thể tích huyết tương cao và trương lực phế vị rất mạnh.</td>
+</tr>
+<tr>
+<td style="text-align: left;"><strong>Người Tập Luyện Thể Thao</strong></td>
+<td style="text-align: left;"><strong>50 – 58 bpm</strong></td>
+<td style="text-align: left;"><strong>53 – 61 bpm</strong></td>
+<td style="text-align: left;">Hiệu suất tim phổi tốt và khả năng phục hồi phó giao cảm ban đêm hiệu quả.</td>
+</tr>
+<tr>
+<td style="text-align: left;"><strong>Người Trưởng Thành Khỏe Mạnh</strong></td>
+<td style="text-align: left;"><strong>59 – 68 bpm</strong></td>
+<td style="text-align: left;"><strong>62 – 71 bpm</strong></td>
+<td style="text-align: left;">Mức nền trung bình; nữ giới tự nhiên cao hơn nam giới <code>3–4 bpm</code> do kích thước buồng tim nhỏ hơn.</td>
+</tr>
+<tr>
+<td style="text-align: left;"><strong>Mức Cao / Ít Vận Động</strong></td>
+<td style="text-align: left;"><strong>69 – 82+ bpm</strong></td>
+<td style="text-align: left;"><strong>72 – 85+ bpm</strong></td>
+<td style="text-align: left;">Thường liên quan đến thiếu vận động hiếu khí, căng thẳng mạn tính, thiếu ngủ hoặc gánh nặng chuyển hóa.</td>
+</tr>
+</tbody>
+</table>
+<hr />
+<h2>Góc Nhìn Thực Tế Từ Thiết Bị Đeo: Cú Tăng Vọt +5 bpm Qua Đêm Cảnh Báo Điều Gì?</h2>
+<p>Trong khi xu hướng RHR trong 90 ngày phản ánh <strong>nền tảng thể lực hiếu khí</strong>, thì việc RHR bất ngờ nhảy vọt <strong>+4 đến +10 bpm so với mức nền 30 ngày của bạn chỉ sau một đêm</strong> là một trong những tín hiệu cảnh báo sớm đáng tin cậy nhất trên đồng hồ thông minh:</p>
+<ol>
+<li><strong>Ủ Bệnh Nhiễm Vi-rút Hoặc Vi Khuẩn:</strong> Khi hệ miễn dịch phát hiện mầm bệnh, nó giải phóng các chất trung gian gây viêm (<strong>cytokine gây sốt</strong>) để nâng thân nhiệt lõi nhằm ức chế vi-rút. Cứ mỗi <strong>1.0°C (1.8°F) thân nhiệt tăng lên</strong>, Nhịp tim nghỉ của bạn sẽ tự động tăng thêm khoảng <strong>8 đến 10 bpm</strong>. Rất nhiều trường hợp đồng hồ cảnh báo RHR tăng vọt kèm nhiệt độ da tăng <strong>từ 24 đến 48 giờ trước khi bạn nhận thấy triệu chứng sốt hay ho</strong>.</li>
+<li><strong>Mất Nước (Dehydration) &amp; Tiếp Xúc Nhiệt Nóng:</strong> Huyết tương chủ yếu là nước. Khi bạn bị mất nước sau một ngày nắng nóng hoặc buổi tập ra nhiều mồ hôi, tổng thể tích máu lưu thông giảm xuống. Vì lượng máu đổ về tim mỗi nhịp ít hơn (<strong>giảm tiền tải và thể tích nhát bóp</strong>), tim buộc phải đập nhanh hơn suốt đêm để duy trì huyết áp.</li>
+<li><strong>Bia Rượu &amp; Bữa Ăn Khuya Thịnh Soạn:</strong> Quá trình phân giải ethanol tại gan và tiêu hóa bữa tối 1.000 calo lúc 21:30 tối buộc cơ thể phải điều hướng tới 25% cung lượng tim về đường tiêu hóa, đồng thời kích hoạt thần kinh giao cảm—khiến mạch ngủ cao hơn bình thường từ <strong>+5 đến +12 bpm</strong>.</li>
+<li><strong>Biến Động Nội Tiết Pha Hoàng Thể (Ở Nữ Giới):</strong> Trong nửa sau của chu kỳ kinh nguyệt (sau khi rụng trứng), nồng độ <strong>progesterone</strong> tăng cao tự nhiên làm tăng thân nhiệt lõi từ <code>0.3°C đến 0.5°C</code> và đẩy RHR ban đêm tăng nhẹ <strong>+2 đến +4 bpm</strong>—đây là nhịp sinh học hoàn toàn bình thường chứ không phải do giảm thể lực.</li>
+</ol>
+<hr />
+<h2>4 Bước Khoa Học Giúp Giảm Nhịp Tim Nghỉ Của Bạn</h2>
+<ol>
+<li><strong>Xây Dựng Nền Tảng Hiếu Khí Zone 2 (150–180 Phút/Tuần):</strong> Tập cardio đều đặn ở ngưỡng vẫn có thể trò chuyện thoải mái (chạy bộ chậm, đạp xe, chèo thuyền hoặc đi bộ dốc ở mức 60%–70% Nhịp tim tối đa) là kích thích số 1 giúp mở rộng Thể tích nhát bóp tâm thất trái, kéo giảm RHR trung bình khoảng <strong>1 bpm sau mỗi 2–3 tuần</strong> ở người mới bắt đầu.</li>
+<li><strong>Bù Nước Kèm Điện Giải Vào Ban Ngày:</strong> Uống đủ nước bổ sung natri, kali và magie vào buổi sáng và buổi chiều để duy trì thể tích huyết tương tối ưu—và ngưng uống nhiều nước trước giờ ngủ 90 phút để không phải thức dậy đi vệ sinh giữa đêm.</li>
+<li><strong>Dành Khoảng Trống 3 Giờ Sau Bữa Ăn Tối Cuối Cùng:</strong> Đi ngủ khi dạ dày đã tiêu hóa xong giúp nhịp tim nhanh chóng hạ xuống đường cong hình chiếc võng ngay trong giờ ngủ đầu tiên.</li>
+<li><strong>Thực Hành 5 Phút Thở Chậm Bằng Mũi Trên Giường:</strong> Kéo dài nhịp thở ra kích hoạt dây thần kinh phế vị giải phóng <strong>acetylcholine</strong> trực tiếp lên nút xoang (SA node) của tim, giúp làm dịu mạch đập ngay trước khi chợp mắt.</li>
+</ol>
+<hr />
+<h2>Tài Liệu Tham Khảo &amp; Nguồn Y Khoa</h2>
+<ol>
+<li><strong>Quer, G., Gouda, P., Galarnyk, M., Topol, E. J., &amp; Steinhubl, S. R. (2020).</strong> <em>Inter- and intraindividual variability in daily resting heart rate and its associations with age, sex, sleep, BMI, and time of year: Retrospective, longitudinal cohort study of 92,457 adults.</em> PLOS ONE, 15(2), e0227709. <a href="https://pubmed.ncbi.nlm.nih.gov/32027692/">Xem trên PubMed / NIH ↗</a></li>
+<li><strong>Reimers, A. K., Knapp, G., &amp; Reimers, C. D. (2018).</strong> <em>Effects of Exercise on the Resting Heart Rate: A Systematic Review and Meta-Analysis of Interventional Studies.</em> Journal of Clinical Medicine, 7(12), 503. <a href="https://pubmed.ncbi.nlm.nih.gov/30513777/">Xem trên PubMed / NIH ↗</a></li>
+<li><strong>Oura Ring Pulse Blog.</strong> <em>Resting Heart Rate: What Is a Normal RHR &amp; How to Lower Yours.</em> <a href="https://ouraring.com/blog/resting-heart-rate/">Xem trên Oura Ring ↗</a></li>
+<li><strong>WHOOP The Locker.</strong> <em>Resting Heart Rate: Normal Ranges, What It Means &amp; How to Improve It.</em> <a href="https://www.whoop.com/us/en/thelocker/normal-resting-heart-rate-improve-it/">Xem trên WHOOP ↗</a></li>
+</ol>
+    </article>
+
+    <section class="canonical-citation-card">
+      <div class="citation-icon">📚</div>
+      <div class="citation-body">
+        <h4>Nguồn Tham Khảo Y Khoa & Nghiên Cứu Gốc</h4>
+        <p>Bài viết này được tổng hợp và kiểm chứng từ các nghiên cứu y sinh học, hướng dẫn lâm sàng và tài liệu khoa học thiết bị đeo của <strong>PLOS ONE (Quer et al., 2020) & OpenStax Anatomy / Oura & WHOOP Science</strong>.</p>
+        <div class="citation-actions">
+          <a href="https://pubmed.ncbi.nlm.nih.gov/32027692/" target="_blank" rel="noopener noreferrer" class="btn-canonical-study">
+            Xem Nghiên Cứu Gốc / Bài Báo Khoa Học ↗
+          </a>
+        </div>
+      </div>
+    </section>
+
+    <nav class="post-pagination-nav">
+      
+    <a href="LM_RC_01.html?lang=vi" class="post-nav-btn prev">
+      <span class="nav-direction">← Bài viết trước</span>
+      <span class="nav-title">Giải Mã Biến Thiên Nhịp Tim (HRV): Cách Đọc Chỉ Số Phục Hồi Vàng Trên Thiết Bị Đeo</span>
+    </a>
+      
+    <a href="DM_RC_01.html?lang=vi" class="post-nav-btn next">
+      <span class="nav-direction">Bài tiếp theo →</span>
+      <span class="nav-title">Giao Thức Thở Cộng Hưởng 5.5 Giây: Cách Kích Hoạt Dây Thần Kinh Phế Vị & Tăng Chỉ Số HRV Tự Nhiên</span>
+    </a>
+    </nav>
+
+    <section class="related-articles-section">
+      <div class="related-section-header">
+        <h3>Bài viết liên quan thuộc chủ đề Phục hồi</h3>
+      </div>
+      <div class="related-posts-grid">
+        
+        <a href="LM_RC_01.html?lang=vi" class="related-post-card">
+          <div class="related-post-img" style="background-image: url('../images/LM_RC_01_hero.jpg');">
+            <span class="related-post-badge" style="background: #ECFDF5; color: #059669;">
+              🔋 Phục hồi
+            </span>
+          </div>
+          <div class="related-post-info">
+            <h4 class="related-post-title">Giải Mã Biến Thiên Nhịp Tim (HRV): Cách Đọc Chỉ Số Phục Hồi Vàng Trên Thiết Bị Đeo</h4>
+            <p class="related-post-desc">Biến thiên nhịp tim (HRV) là chỉ số chuẩn vàng đánh giá mức độ sẵn sàng trên WHOOP, Oura, ...</p>
+            <div class="related-post-meta">
+              <span>⏱ 10 phút đọc</span>
+              <span>•</span>
+              <span>Learn more</span>
+            </div>
+          </div>
+        </a>
+        
+        <a href="DM_RC_01.html?lang=vi" class="related-post-card">
+          <div class="related-post-img" style="background-image: url('../images/DM_RC_01_hero.jpg');">
+            <span class="related-post-badge" style="background: #ECFDF5; color: #059669;">
+              🔋 Phục hồi
+            </span>
+          </div>
+          <div class="related-post-info">
+            <h4 class="related-post-title">Giao Thức Thở Cộng Hưởng 5.5 Giây: Cách Kích Hoạt Dây Thần Kinh Phế Vị & Tăng Chỉ Số HRV Tự Nhiên</h4>
+            <p class="related-post-desc">Nhịp thở là chiếc điều khiển từ xa duy nhất giúp bạn trực tiếp điều hướng Hệ thần kinh Tự ...</p>
+            <div class="related-post-meta">
+              <span>⏱ 8 phút đọc</span>
+              <span>•</span>
+              <span>Discover more</span>
+            </div>
+          </div>
+        </a>
+        
+        <a href="DM_RC_02.html?lang=vi" class="related-post-card">
+          <div class="related-post-img" style="background-image: url('../images/DM_RC_02_hero.jpg');">
+            <span class="related-post-badge" style="background: #ECFDF5; color: #059669;">
+              🔋 Phục hồi
+            </span>
+          </div>
+          <div class="related-post-info">
+            <h4 class="related-post-title">Phục Hồi Chủ Động (Active Recovery) So Với Nghỉ Thụ Động: Tại Sao Vận Động Nhẹ Zone 1 Giúp Tan Mỏi Cơ Nhanh Hơn Nằm Yên?</h4>
+            <p class="related-post-desc">Khi đôi chân nặng trĩu sau buổi tập nặng và đồng hồ báo điểm phục hồi màu vàng hoặc đỏ, vi...</p>
+            <div class="related-post-meta">
+              <span>⏱ 8 phút đọc</span>
+              <span>•</span>
+              <span>Discover more</span>
+            </div>
+          </div>
+        </a>
+        
+      </div>
+    </section>
+
+    <div class="return-hub-cta">
+      <a href="../index.html?lang=vi" class="btn-return-hub">← Quay lại Trang chủ & Tìm kiếm</a>
+      <button onclick="window.scrollTo({top: 0, behavior: 'smooth'})" class="btn-scroll-top">↑ Lên đầu trang</button>
+    </div>
+  </main>
+
+  <!-- ========================================================= -->
+  <!-- ENGLISH ARTICLE CONTAINER                                 -->
+  <!-- ========================================================= -->
+  <main id="post-container-en" class="article-page-container hidden">
+    <nav class="article-breadcrumb">
+      <a href="../index.html?lang=en">Knowledge Hub</a>
+      <span class="sep">/</span>
+      <a href="../index.html?lang=en">Recovery</a>
+      <span class="sep">/</span>
+      <span class="current">Resting Heart Rate</span>
+    </nav>
+
     <header class="article-page-header">
       <div class="article-badges-row">
         <span class="badge" style="background: #ECFDF5; color: #059669; font-weight: 700;">
@@ -52,104 +291,164 @@
         </span>
         <span class="badge badge-sub">Resting Heart Rate</span>
         <span class="badge badge-type">Learn more</span>
-        <span class="article-read-time">⏱ 3 min read</span>
+        <span class="article-read-time">⏱ 8 min read</span>
       </div>
 
-      <h1 class="article-main-title">Overnight Resting Heart Rate (RHR): Your Window into Myocardial Efficiency</h1>
-      
-      <p class="article-sapo-lead">How nocturnal resting pulse reflects stroke volume, myocardial efficiency, and acute systemic stressors like alcohol, dehydration, or viral infection.</p>
+      <h1 class="article-main-title">Overnight Resting Heart Rate (RHR): What Your Sleeping Pulse Reveals About Fitness and Recovery</h1>
+      <p class="article-sapo-lead">Your overnight Resting Heart Rate (RHR) is one of the clearest indicators of cardiovascular fitness and daily readiness. Discover why smartwatches measure RHR during sleep, how stroke volume lowers your pulse over time, and what a sudden +5 bpm overnight spike is trying to tell you.</p>
 
-      <!-- Featured Cover Hero Image -->
       <figure class="article-featured-hero">
-        <img src="https://images.unsplash.com/photo-1510519138171-c70d76b640a2?auto=format&fit=crop&w=1200&q=80" alt="Overnight Resting Heart Rate (RHR): Your Window into Myocardial Efficiency">
-        <figcaption>Overnight Resting Heart Rate (RHR): Your Window into Myocardial Efficiency — Clinical Editorial Feature</figcaption>
+        <img src="../images/LM_RC_02_hero.jpg" alt="Overnight Resting Heart Rate (RHR): What Your Sleeping Pulse Reveals About Fitness and Recovery">
+        <figcaption>Overnight Resting Heart Rate (RHR): What Your Sleeping Pulse Reveals About Fitness and Recovery • <a href="https://images.unsplash.com/photo-1576091160550-2173dba999ef?auto=format&fit=crop&w=1200&q=85" target="_blank" rel="noopener noreferrer" class="img-source-badge">Verified Original Photo Source (Unsplash) ↗</a></figcaption>
       </figure>
 
-      <!-- Editorial & Clinical Metadata Card -->
       <div class="article-metadata-card">
         <div class="meta-avatar">PV</div>
         <div class="meta-content">
           <div class="meta-author">Pulse & Vitality Clinical Editorial Board</div>
           <div class="meta-details">
-            <span>Clinical Wearable Reference: <strong>Fitbit Cardio Health / AHA</strong></span>
+            <span>Clinical & Wearable Source: <strong>PLOS ONE (Quer et al., 2020) & OpenStax Anatomy / Oura & WHOOP Science</strong></span>
             <span class="meta-dot">•</span>
             <span>Mapped Screen: <strong>Recovery Screen</strong></span>
             <span class="meta-dot">•</span>
-            <span>Metric: <strong>Resting Heart Rate (RHR)</strong></span>
+            <span>Biometric: <strong>Resting Heart Rate (RHR)</strong></span>
           </div>
         </div>
       </div>
     </header>
 
-    <!-- Key Actionable Takeaway Banner -->
     <section class="takeaway-banner-large">
       <div class="takeaway-banner-header">
         <span class="takeaway-icon-lg">💡</span>
         <span>Key Actionable Takeaway</span>
       </div>
-      <p>A sudden jump in overnight resting heart rate is an early indicator that your heart is working overtime to clear alcohol, counter dehydration, or fight an infection.</p>
+      <p>Long-term reductions in your overnight Resting Heart Rate reflect a stronger left ventricle and higher Stroke Volume from aerobic training. Conversely, an acute single-night jump of +4 to +8 bpm above your 30-day baseline is an immediate warning sign of alcohol metabolism, dehydration, late-night digestion, or an incubating viral infection.</p>
     </section>
 
-    <!-- Full Article Markdown Content -->
     <article class="article-rich-body">
-      
-        <figure class="article-inline-diagram">
-          <img src="https://images.unsplash.com/photo-1506126613408-eca07ce68773?auto=format&fit=crop&w=800&q=80" alt="A hammock-shaped overnight heart rate curve indicates deep parasympathetic myocardial recovery." loading="lazy">
-          <figcaption>📊 <strong>Clinical Biometric Visual:</strong> A hammock-shaped overnight heart rate curve indicates deep parasympathetic myocardial recovery.</figcaption>
-        </figure>
-        <h3>1. What is Nocturnal Resting Heart Rate?</h3>
-<p>Resting Heart Rate (RHR) measures the minimum number of times your heart contracts per minute while in a state of complete rest. The app measures your nocturnal baseline during your deepest, most stable slow-wave sleep periods to eliminate the confounding variables of movement, posture, and emotional arousal.</p>
-<h3>2. The Physiology of Stroke Volume</h3>
-<p>Your cardiac output (<code>Q</code>) is the product of Stroke Volume (<code>SV</code>) and Heart Rate (<code>HR</code>):<br />
-<strong>Cardiac Output (Q) = Stroke Volume (SV) × Heart Rate (HR)</strong><br />
-As aerobic fitness and myocardial hypertrophy improve, your left ventricle increases its chamber volume and contractile force, pumping more blood per contraction. Consequently, your resting heart rate drops to maintain steady systemic perfusion. Elite endurance athletes often exhibit resting heart rates between 38 and 48 bpm.</p>
-<h3>3. Acute Overnight Spikes: What Do They Mean?</h3>
-<p>While long-term declines in RHR indicate cardiovascular conditioning, an acute overnight spike (+4 to +8 bpm above baseline) serves as an immediate physiological red flag:<br />
-- <strong>Alcohol Clearance:</strong> Hepatic clearance of ethanol and acetaldehyde demands vasodilation and increased cardiac output throughout the sleep cycle.<br />
-- <strong>Dehydration:</strong> Reduced plasma blood volume forces the heart to beat faster to supply peripheral tissues.<br />
-- <strong>Immune Mobilization:</strong> Pyrogenic cytokines released during viral incubation elevate core temperature and heart rate hours before physical symptoms manifest.<br />
-- <strong>Late Digestion:</strong> Gastrointestinal perfusion prevents nocturnal cardiac down-regulation.</p>
+      <h2>Why Wearables Measure Your Resting Heart Rate While You Sleep</h2>
+<p>In the past, checking your <strong>Resting Heart Rate (RHR)</strong> meant sitting quietly at a kitchen table or doctor's office and counting your pulse for 60 seconds. Today, wearables like <strong>Oura Ring</strong>, <strong>WHOOP</strong>, <strong>Garmin</strong>, and <strong>Fitbit</strong> measure your <strong>nocturnal (overnight) RHR</strong> while you are completely asleep.</p>
+<p>Why is overnight RHR far more accurate than a daytime sitting pulse?
+During the day, even subtle variables—like digesting breakfast, thinking about a work meeting, sitting upright against gravity, or changing room temperature—can elevate your pulse by <strong>8 to 15 beats per minute (bpm)</strong>. Measuring your pulse during deep, horizontal sleep eliminates those confounding daytime variables, revealing your true physiological baseline.</p>
+<blockquote>
+<p><strong>Lowest Minute (Nadir) vs. Full-Night Average:</strong> Depending on your app, you will see two nocturnal RHR numbers:
+1. <strong>Lowest Overnight RHR (Nadir):</strong> The single lowest 5-minute average recorded during the night (often <code>42–55 bpm</code> in active adults).
+2. <strong>Sleeping Average RHR:</strong> Your mean heart rate across the entire sleep duration (typically <code>3 to 6 bpm</code> higher than your lowest point).</p>
+</blockquote>
+<figure class="article-inline-diagram">
+  <img src="../images/LM_RC_02_figure.jpg" alt="OpenStax Physiological Diagram of Factors in Cardiac Output: Heart Rate and Stroke Volume" loading="lazy">
+  <figcaption>📊 <strong>The Physiology of Cardiac Output (OpenStax):</strong> Because `Cardiac Output = Heart Rate × Stroke Volume`, increasing your heart's Stroke Volume through aerobic training allows your heart to deliver the same amount of oxygen-rich blood with significantly fewer beats per minute. <a href="https://commons.wikimedia.org/wiki/File:2031_Factors_in_Cardiac_Output.jpg" target="_blank" rel="noopener">Original Image Source: Wikimedia Commons ↗</a></figcaption>
+</figure>
+
+<hr />
+<h2>The Equation Behind a Low Athlete Pulse: Stroke Volume vs. Heart Rate</h2>
+<p>Why does an endurance runner or swimmer often have an overnight RHR of <strong>40 to 48 bpm</strong>, while a sedentary adult averages <strong>65 to 75 bpm</strong>? The answer lies in the fundamental equation of cardiovascular physiology:</p>
+<blockquote>
+<p><strong>Cardiac Output (Q) = Heart Rate (HR) × Stroke Volume (SV)</strong></p>
+</blockquote>
+<p>At rest, an average adult body requires roughly <strong>5.0 liters (5,000 mL) of blood per minute</strong> (<code>Cardiac Output</code>) to supply organs and tissues with oxygen:
+- <strong>Untrained Heart (Smaller Stroke Volume):</strong> If your left ventricle pumps <strong>70 mL of blood per beat</strong>, your heart must contract <strong>71 times per minute</strong> (<code>71 bpm × 70 mL ≈ 5,000 mL/min</code>) to meet your body's resting demand.
+- <strong>Aerobically Conditioned Heart (Larger Stroke Volume):</strong> Months of Zone 2 aerobic exercise and interval training strengthen the heart muscle and expand the left ventricular chamber (<strong>eccentric myocardial hypertrophy</strong>). If your heart now pumps <strong>105 mL of blood per beat</strong>, it only needs to contract <strong>48 times per minute</strong> (<code>48 bpm × 105 mL ≈ 5,040 mL/min</code>) to circulate the exact same 5 liters of blood!</p>
+<p>Every beat saved per minute translates to <strong>1,440 fewer heartbeats every 24 hours</strong>—dramatically reducing long-term mechanical wear and tear on your cardiovascular system.</p>
+<hr />
+<h2>Population Benchmarks: What Is a Normal Overnight RHR?</h2>
+<p>In a massive digital medicine study published in <em>PLOS ONE</em> (<strong>Quer et al., 2020</strong>), researchers at the Scripps Research Translational Institute analyzed over <strong>92,000 individuals</strong> wearing consumer smartwatches for a full year. While normal adult RHR spans from <strong>40 to 90 bpm</strong>, each person's individual baseline stays remarkably tight from week to week unless disrupted by lifestyle or illness:</p>
+<table>
+<thead>
+<tr>
+<th style="text-align: left;">Fitness / Population Tier</th>
+<th style="text-align: left;">Typical Overnight RHR (Men)</th>
+<th style="text-align: left;">Typical Overnight RHR (Women)</th>
+<th style="text-align: left;">Physiological Interpretation</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="text-align: left;"><strong>Endurance Athletes</strong></td>
+<td style="text-align: left;"><strong>38 – 49 bpm</strong></td>
+<td style="text-align: left;"><strong>42 – 52 bpm</strong></td>
+<td style="text-align: left;">High left-ventricular stroke volume, high plasma blood volume, and strong vagal tone.</td>
+</tr>
+<tr>
+<td style="text-align: left;"><strong>Active / Athletic Adults</strong></td>
+<td style="text-align: left;"><strong>50 – 58 bpm</strong></td>
+<td style="text-align: left;"><strong>53 – 61 bpm</strong></td>
+<td style="text-align: left;">Strong cardiorespiratory conditioning and efficient nocturnal parasympathetic recovery.</td>
+</tr>
+<tr>
+<td style="text-align: left;"><strong>Healthy General Population</strong></td>
+<td style="text-align: left;"><strong>59 – 68 bpm</strong></td>
+<td style="text-align: left;"><strong>62 – 71 bpm</strong></td>
+<td style="text-align: left;">Normal adult baseline; women naturally average <code>3–4 bpm</code> higher due to smaller heart chamber size.</td>
+</tr>
+<tr>
+<td style="text-align: left;"><strong>Elevated / Deconditioned</strong></td>
+<td style="text-align: left;"><strong>69 – 82+ bpm</strong></td>
+<td style="text-align: left;"><strong>72 – 85+ bpm</strong></td>
+<td style="text-align: left;">Often linked to low aerobic activity, chronic stress, poor sleep quality, or metabolic strain.</td>
+</tr>
+</tbody>
+</table>
+<hr />
+<h2>Real-World Wearable Insights: What Does a Sudden +5 bpm Spike Mean?</h2>
+<p>While your 90-day RHR trend reflects your <strong>aerobic fitness</strong>, a sudden single-night jump of <strong>+4 to +10 bpm above your personal 30-day average</strong> is one of the most reliable early warning signs on your smartwatch:</p>
+<ol>
+<li><strong>Incubating Viral or Bacterial Infection:</strong> When your immune system detects a pathogen, it releases inflammatory messengers (<strong>pyrogenic cytokines</strong>) to raise your core body temperature. For every <strong>1.0°C (1.8°F) rise in internal body temperature</strong>, your Resting Heart Rate automatically increases by roughly <strong>8 to 10 bpm</strong>. Often, your watch will flag an elevated RHR + elevated skin temperature <strong>24 to 48 hours before you feel sick</strong>.</li>
+<li><strong>Dehydration &amp; Heat Exposure:</strong> Blood plasma is mostly water. When you are dehydrated after a hot day or long workout, your total circulating blood volume drops. Because less blood returns to your heart per beat (<strong>reduced preload and stroke volume</strong>), your heart must beat faster all night to maintain blood pressure.</li>
+<li><strong>Alcohol &amp; Late Heavy Meals:</strong> Processing ethanol in the liver and digesting a 1,000-calorie dinner at 9:30 PM diverts up to 25% of cardiac output to your digestive tract and triggers sympathetic nerve activation—keeping your sleeping pulse <strong>+5 to +12 bpm higher</strong> than normal.</li>
+<li><strong>Luteal Phase Hormone Shift (In Women):</strong> During the second half of the menstrual cycle (after ovulation), rising <strong>progesterone</strong> naturally raises core body temperature by <code>0.3°C to 0.5°C</code> and increases overnight RHR by <strong>+2 to +4 bpm</strong>—a completely normal physiological rhythm rather than poor fitness.</li>
+</ol>
+<hr />
+<h2>4 Proven Steps to Lower Your Resting Heart Rate</h2>
+<ol>
+<li><strong>Build Your Zone 2 Aerobic Base (150–180 Mins/Week):</strong> Steady, conversational-pace cardio (running, cycling, rowing, or brisk incline walking at 60%–70% of Max HR) is the primary stimulus that expands left-ventricular Stroke Volume, steadily lowering your RHR by <strong>1 bpm every 2–3 weeks</strong> in beginners.</li>
+<li><strong>Hydrate with Electrolytes Before Evening:</strong> Drink water with sodium, potassium, and magnesium during the morning and afternoon so your plasma blood volume is topped off—stopping 90 minutes before bed so bathroom trips don't fragment your sleep.</li>
+<li><strong>Leave a 3-Hour Buffer After Your Last Meal:</strong> Going to bed with an empty stomach allows your heart rate to drop into its restorative hammock curve within the first hour of sleep.</li>
+<li><strong>Practice 5 Minutes of Slow Nasal Breathing in Bed:</strong> Extending your exhales activates the vagus nerve, releasing <strong>acetylcholine</strong> onto your heart's pacemaker node (SA node) to immediately slow your pulse before sleep onset.</li>
+</ol>
+<hr />
+<h2>References &amp; Clinical Sources</h2>
+<ol>
+<li><strong>Quer, G., Gouda, P., Galarnyk, M., Topol, E. J., &amp; Steinhubl, S. R. (2020).</strong> <em>Inter- and intraindividual variability in daily resting heart rate and its associations with age, sex, sleep, BMI, and time of year: Retrospective, longitudinal cohort study of 92,457 adults.</em> PLOS ONE, 15(2), e0227709. <a href="https://pubmed.ncbi.nlm.nih.gov/32027692/">Read on PubMed / NIH ↗</a></li>
+<li><strong>Reimers, A. K., Knapp, G., &amp; Reimers, C. D. (2018).</strong> <em>Effects of Exercise on the Resting Heart Rate: A Systematic Review and Meta-Analysis of Interventional Studies.</em> Journal of Clinical Medicine, 7(12), 503. <a href="https://pubmed.ncbi.nlm.nih.gov/30513777/">Read on PubMed / NIH ↗</a></li>
+<li><strong>Oura Ring Pulse Blog.</strong> <em>Resting Heart Rate: What Is a Normal RHR &amp; How to Lower Yours.</em> <a href="https://ouraring.com/blog/resting-heart-rate/">Read on Oura Ring ↗</a></li>
+<li><strong>WHOOP The Locker.</strong> <em>Resting Heart Rate: Normal Ranges, What It Means &amp; How to Improve It.</em> <a href="https://www.whoop.com/us/en/thelocker/normal-resting-heart-rate-improve-it/">Read on WHOOP ↗</a></li>
+</ol>
     </article>
 
-    <!-- Canonical Source Reference Box -->
     <section class="canonical-citation-card">
       <div class="citation-icon">📚</div>
       <div class="citation-body">
         <h4>Clinical Reference & Scientific Backing</h4>
-        <p>This article is synthesized from peer-reviewed physiology, clinical guidelines, and wearable biometric methodologies developed by <strong>Fitbit Cardio Health / AHA</strong>.</p>
+        <p>This article is synthesized from peer-reviewed medical literature, clinical guidelines, and wearable biometric validation studies from <strong>PLOS ONE (Quer et al., 2020) & OpenStax Anatomy / Oura & WHOOP Science</strong>.</p>
         <div class="citation-actions">
-          <a href="https://blog.fitbit.com/resting-heart-rate/" target="_blank" rel="noopener noreferrer" class="btn-canonical-study">
-            Read Canonical Study / Original Article ↗
+          <a href="https://pubmed.ncbi.nlm.nih.gov/32027692/" target="_blank" rel="noopener noreferrer" class="btn-canonical-study">
+            Read Canonical Study / Original Source ↗
           </a>
         </div>
       </div>
     </section>
 
-    <!-- Next / Previous Article Navigation -->
     <nav class="post-pagination-nav">
       
-    <a href="LM_RC_01.html" class="post-nav-btn prev">
+    <a href="LM_RC_01.html?lang=en" class="post-nav-btn prev">
       <span class="nav-direction">← Previous Article</span>
       <span class="nav-title">Heart Rate Variability (HRV) Explained: How to Read Your Overnight Recovery Metric</span>
     </a>
-    
       
-    <a href="DM_RC_01.html" class="post-nav-btn next">
+    <a href="DM_RC_01.html?lang=en" class="post-nav-btn next">
       <span class="nav-direction">Next Article →</span>
-      <span class="nav-title">The 5.5-Second Coherence Breathing Protocol: Voluntarily Elevating Your HRV Baseline</span>
+      <span class="nav-title">The 5.5-Second Resonance Breathing Protocol: How to Stimulate Your Vagus Nerve & Boost HRV</span>
     </a>
-    
     </nav>
 
-    <!-- Related Articles Section -->
     <section class="related-articles-section">
       <div class="related-section-header">
         <h3>Related Reads in Recovery</h3>
-        <a href="../index.html?cat=Recovery" class="view-all-link">View all Recovery articles →</a>
       </div>
       <div class="related-posts-grid">
         
-        <a href="LM_RC_01.html" class="related-post-card">
+        <a href="LM_RC_01.html?lang=en" class="related-post-card">
           <div class="related-post-img" style="background-image: url('../images/LM_RC_01_hero.jpg');">
             <span class="related-post-badge" style="background: #ECFDF5; color: #059669;">
               🔋 Recovery
@@ -166,34 +465,34 @@ As aerobic fitness and myocardial hypertrophy improve, your left ventricle incre
           </div>
         </a>
         
-        <a href="DM_RC_01.html" class="related-post-card">
-          <div class="related-post-img" style="background-image: url('https://images.unsplash.com/photo-1506126613408-eca07ce68773?auto=format&fit=crop&w=1200&q=80');">
+        <a href="DM_RC_01.html?lang=en" class="related-post-card">
+          <div class="related-post-img" style="background-image: url('../images/DM_RC_01_hero.jpg');">
             <span class="related-post-badge" style="background: #ECFDF5; color: #059669;">
               🔋 Recovery
             </span>
           </div>
           <div class="related-post-info">
-            <h4 class="related-post-title">The 5.5-Second Coherence Breathing Protocol: Voluntarily Elevating Your HRV Baseline</h4>
-            <p class="related-post-desc">A neuro-cardiology protocol to synchronize respiratory sinus arrhythmia with heart rate os...</p>
+            <h4 class="related-post-title">The 5.5-Second Resonance Breathing Protocol: How to Stimulate Your Vagus Nerve & Boost HRV</h4>
+            <p class="related-post-desc">Your breathing rate is the only remote control that directly steers your Autonomic Nervous...</p>
             <div class="related-post-meta">
-              <span>⏱ 5 min</span>
+              <span>⏱ 8 min</span>
               <span>•</span>
               <span>Discover more</span>
             </div>
           </div>
         </a>
         
-        <a href="DM_RC_02.html" class="related-post-card">
-          <div class="related-post-img" style="background-image: url('https://images.unsplash.com/photo-1544367567-0f2fcb009e0b?auto=format&fit=crop&w=1200&q=80');">
+        <a href="DM_RC_02.html?lang=en" class="related-post-card">
+          <div class="related-post-img" style="background-image: url('../images/DM_RC_02_hero.jpg');">
             <span class="related-post-badge" style="background: #ECFDF5; color: #059669;">
               🔋 Recovery
             </span>
           </div>
           <div class="related-post-info">
-            <h4 class="related-post-title">Active Recovery vs. Passive Rest: Accelerating Cellular Repair and Metabolic Clearance</h4>
-            <p class="related-post-desc">The biological mechanics of why low-intensity Zone 1 movement restores muscular and autono...</p>
+            <h4 class="related-post-title">Active Recovery vs. Passive Rest: Why Zone 1 Movement Clears Fatigue Faster Than the Couch</h4>
+            <p class="related-post-desc">When your legs feel heavy and your wearable shows a yellow or red recovery score, lying mo...</p>
             <div class="related-post-meta">
-              <span>⏱ 4 min</span>
+              <span>⏱ 8 min</span>
               <span>•</span>
               <span>Discover more</span>
             </div>
@@ -203,32 +502,62 @@ As aerobic fitness and myocardial hypertrophy improve, your left ventricle incre
       </div>
     </section>
 
-    <!-- Return to Hub Footer CTA -->
     <div class="return-hub-cta">
-      <a href="../index.html" class="btn-return-hub">
-        ← Back to Knowledge Hub & Search
-      </a>
-      <button onclick="window.scrollTo({ top: 0, behavior: 'smooth' })" class="btn-scroll-top">
-        ↑ Back to Top
-      </button>
+      <a href="../index.html?lang=en" class="btn-return-hub">← Back to Knowledge Hub & Search</a>
+      <button onclick="window.scrollTo({top: 0, behavior: 'smooth'})" class="btn-scroll-top">↑ Back to Top</button>
     </div>
   </main>
 
-  <!-- Site Footer -->
   <footer class="site-footer">
     <div class="footer-container">
-      <p>© 2026 Pulse & Vitality Performance Engine • Built for iOS / Android Wearable Integration</p>
-      <p class="disclaimer">Clinical data curated from Flo Health, Clue, Natural Cycles, Fitbit Blog, WHOOP The Locker, Maven Clinic, and Dr. Kegel.</p>
+      <p>© 2026 Pulse & Vitality Performance Engine • Evidence-Based Wearable Health Hub (EN / VI)</p>
     </div>
   </footer>
 
   <script>
+    function switchPostLang(lang) {
+      localStorage.setItem('pv_lang', lang);
+      const viContainer = document.getElementById('post-container-vi');
+      const enContainer = document.getElementById('post-container-en');
+      const btnVi = document.getElementById('post-lang-vi');
+      const btnEn = document.getElementById('post-lang-en');
+      const brandSub = document.getElementById('post-brand-subtitle');
+      const backBtn = document.getElementById('post-back-btn');
+
+      if (lang === 'en') {
+        viContainer.classList.add('hidden');
+        enContainer.classList.remove('hidden');
+        btnVi.classList.remove('active');
+        btnEn.classList.add('active');
+        brandSub.textContent = 'Health & Human Performance Knowledge Hub';
+        backBtn.textContent = '← Back to All Articles';
+        backBtn.href = '../index.html?lang=en';
+        document.documentElement.lang = 'en';
+      } else {
+        enContainer.classList.add('hidden');
+        viContainer.classList.remove('hidden');
+        btnEn.classList.remove('active');
+        btnVi.classList.add('active');
+        brandSub.textContent = 'Cẩm Nang Khoa Học Sức Khỏe & Thiết Bị Đeo';
+        backBtn.textContent = '← Quay lại Danh sách';
+        backBtn.href = '../index.html?lang=vi';
+        document.documentElement.lang = 'vi';
+      }
+    }
+
+    (function initLang() {
+      const params = new URLSearchParams(window.location.search);
+      const qLang = params.get('lang');
+      const saved = qLang || localStorage.getItem('pv_lang') || 'vi';
+      switchPostLang(saved === 'en' ? 'en' : 'vi');
+    })();
+
     window.addEventListener('scroll', () => {
       const winScroll = document.body.scrollTop || document.documentElement.scrollTop;
       const height = document.documentElement.scrollHeight - document.documentElement.clientHeight;
-      if (height > 0) {
-        const scrolled = (winScroll / height) * 100;
-        document.getElementById('reading-progress').style.width = scrolled + '%';
+      const bar = document.getElementById('reading-progress');
+      if (height > 0 && bar) {
+        bar.style.width = ((winScroll / height) * 100) + '%';
       }
     });
   </script>

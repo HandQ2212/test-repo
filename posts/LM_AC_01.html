@@ -1,50 +1,291 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="vi">
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Active Zone Minutes (AZM): Why Intensity Trumps Raw Step Counts — Pulse & Vitality Blog</title>
+  <title>Giải Mã Active Zone Minutes (AZM): Vì Sao Cường Độ Nhịp Tim Quan Trọng Hơn 10.000 Bước Chân | Active Zone Minutes (AZM) Explained: Why Heart Rate Intensity Matters More Than 10,000 Steps</title>
   <link rel="stylesheet" href="../styles.css">
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
   <link href="https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:wght@400;500;600;700;800&family=Lora:ital,wght@0,400;0,500;0,600;1,400&display=swap" rel="stylesheet">
 </head>
 <body class="blog-post-page">
-  <!-- Reading Progress Bar -->
   <div class="reading-progress-container">
     <div id="reading-progress" class="reading-progress-bar"></div>
   </div>
 
-  <!-- Sticky Top Navigation -->
+  <!-- Sticky Top Navigation with Bilingual Switcher -->
   <header class="navbar post-navbar">
     <div class="nav-container">
       <a href="../index.html" class="brand" style="text-decoration: none;">
         <div class="brand-logo">⚡</div>
         <div class="brand-text">
           <span class="brand-title">PULSE & VITALITY</span>
-          <span class="brand-subtitle">Health & Human Performance Knowledge Hub</span>
+          <span class="brand-subtitle" id="post-brand-subtitle">Cẩm Nang Khoa Học Sức Khỏe & Thiết Bị Đeo</span>
         </div>
       </a>
       <div class="nav-actions">
-        <a href="../index.html" class="btn-back-hub">
-          ← Back to All Articles
+        <div class="lang-switch-group" role="group" aria-label="Language Switcher">
+          <button id="post-lang-vi" class="lang-btn active" onclick="switchPostLang('vi')">🇻🇳 Tiếng Việt</button>
+          <button id="post-lang-en" class="lang-btn" onclick="switchPostLang('en')">🇬🇧 English</button>
+        </div>
+        <a href="../index.html" class="btn-back-hub" id="post-back-btn">
+          ← Quay lại Danh sách
         </a>
       </div>
     </div>
   </header>
 
-  <!-- Main Article Layout -->
-  <main class="article-page-container">
-    <!-- Breadcrumb -->
+  <!-- ========================================================= -->
+  <!-- VIETNAMESE ARTICLE CONTAINER                              -->
+  <!-- ========================================================= -->
+  <main id="post-container-vi" class="article-page-container">
     <nav class="article-breadcrumb">
-      <a href="../index.html">Knowledge Hub</a>
+      <a href="../index.html?lang=vi">Trang chủ</a>
       <span class="sep">/</span>
-      <a href="../index.html?cat=Activity">Activity</a>
+      <a href="../index.html?lang=vi">Vận động</a>
       <span class="sep">/</span>
       <span class="current">Active Zone Minutes</span>
     </nav>
 
-    <!-- Article Hero Header -->
+    <header class="article-page-header">
+      <div class="article-badges-row">
+        <span class="badge" style="background: #FEF3C7; color: #D97706; font-weight: 700;">
+          🏃 Vận động
+        </span>
+        <span class="badge badge-sub">Active Zone Minutes</span>
+        <span class="badge badge-type">Learn more</span>
+        <span class="article-read-time">⏱ 8 phút đọc</span>
+      </div>
+
+      <h1 class="article-main-title">Giải Mã Active Zone Minutes (AZM): Vì Sao Cường Độ Nhịp Tim Quan Trọng Hơn 10.000 Bước Chân</h1>
+      <p class="article-sapo-lead">Đi bộ 10.000 bước thư thả mỗi ngày rất tốt cho vận động cơ bản, nhưng để tái cấu trúc hệ tim mạch thực sự, bạn cần đưa nhịp tim vào các vùng cường độ mục tiêu cá nhân hóa. Tìm hiểu cách đồng hồ thông minh tính toán số Phút Vận Động Tích Cực (AZM) qua công thức Dự trữ Nhịp tim Karvonen, vì sao vận động cường độ cao được nhân đôi số điểm và cách chinh phục mục tiêu 150 phút mỗi tuần của WHO.</p>
+
+      <figure class="article-featured-hero">
+        <img src="../images/LM_AC_01_hero.jpg" alt="Giải Mã Active Zone Minutes (AZM): Vì Sao Cường Độ Nhịp Tim Quan Trọng Hơn 10.000 Bước Chân">
+        <figcaption>Giải Mã Active Zone Minutes (AZM): Vì Sao Cường Độ Nhịp Tim Quan Trọng Hơn 10.000 Bước Chân • <a href="https://images.unsplash.com/photo-1476480862126-209bfaa8edc8?auto=format&fit=crop&w=1200&q=85" target="_blank" rel="noopener noreferrer" class="img-source-badge">Link ảnh gốc xác thực (Unsplash) ↗</a></figcaption>
+      </figure>
+
+      <div class="article-metadata-card">
+        <div class="meta-avatar">PV</div>
+        <div class="meta-content">
+          <div class="meta-author">Hội Đồng Biên Tập Y Khoa Pulse & Vitality</div>
+          <div class="meta-details">
+            <span>Nguồn nghiên cứu & Thiết bị: <strong>Fitbit Health Science & World Health Organization (Bull et al., 2020)</strong></span>
+            <span class="meta-dot">•</span>
+            <span>Màn hình App: <strong>Activity Screen</strong></span>
+            <span class="meta-dot">•</span>
+            <span>Chỉ số: <strong>Active Zone Minutes (AZM)</strong></span>
+          </div>
+        </div>
+      </div>
+    </header>
+
+    <section class="takeaway-banner-large">
+      <div class="takeaway-banner-header">
+        <span class="takeaway-icon-lg">💡</span>
+        <span>Điểm Cốt Lõi & Hành Động Thực Tế</span>
+      </div>
+      <p>Đừng chỉ đánh giá thể lực hàng ngày qua số bước chân. Tích lũy đủ 150 Phút Vận Động Tích Cực (AZM) mỗi tuần—với vùng Đốt Mỡ trung bình tính 1× điểm và vùng Cardio/Đỉnh tính 2× điểm—giúp bạn đáp ứng trọn vẹn khuyến nghị của WHO và Hiệp hội Tim mạch Hoa Kỳ (AHA) nhằm giảm thiểu nguy cơ bệnh tim mạch.</p>
+    </section>
+
+    <article class="article-rich-body">
+      <h2>Vượt Qua Lầm Tưởng Về Con Số 10.000 Bước Chân</h2>
+<p>Trong nhiều thập kỷ, thước đo vàng của các thiết bị theo dõi vận động phổ thông luôn là <strong>10.000 bước chân mỗi ngày</strong>—một cột mốc thực chất bắt nguồn từ chiến dịch quảng cáo máy đếm bước chân (<em>Manpo-kei</em>) tại Nhật Bản năm 1965 chứ không phải từ một nghiên cứu sinh lý học lâm sàng. Dù việc đi lại thường xuyên trong ngày giúp ngăn ngừa ứ trệ chuyển hóa và hỗ trợ kiểm soát đường huyết sau bữa ăn, <strong>tổng số bước chân hoàn toàn không phản ánh được cường độ làm việc của hệ tim mạch</strong>.</p>
+<p>Mười nghìn bước chân dạo phố thong thả rải rác suốt 12 tiếng đồng hồ không hề tạo ra áp lực đủ lớn để tăng thể tích nhát bóp của tim, mở rộng mạng lưới mao mạch hay kích thích sinh tổng hợp ti thể như 30 phút đi bộ nhanh lên dốc hoặc chạy bộ nhịp độ cao. Để thu hẹp khoảng cách giữa vận động thông thường và y học thể thao lâm sàng, các thiết bị đeo hiện đại—dẫn đầu bởi <strong>Fitbit Active Zone Minutes (AZM)</strong>, <strong>Garmin Intensity Minutes</strong> và <strong>Apple Watch Exercise Minutes</strong>—đã chuyển trọng tâm từ <em>bạn bước được bao nhiêu bước</em> sang <em>trái tim bạn đang làm việc tích cực đến mức nào so với nền tảng sinh lý cá nhân</em>.</p>
+<figure class="article-inline-diagram">
+  <img src="../images/LM_AC_01_figure.png" alt="Biểu đồ phân vùng nhịp tim tập luyện theo độ tuổi của Fox và Haskell" loading="lazy">
+  <figcaption>📊 <strong>Các Vùng Nhịp Tim Tập Luyện Theo Độ Tuổi (Mô hình Fox & Haskell):</strong> Cách các ngưỡng nhịp tim phân tách giữa vận động hiếu khí trung bình và rèn luyện tim phổi cường độ cao xuyên suốt các nhóm tuổi trưởng thành. <a href="https://commons.wikimedia.org/wiki/File:Exercise_zones_Fox_and_Haskell.svg" target="_blank" rel="noopener">Nguồn hình ảnh gốc: Wikimedia Commons ↗</a></figcaption>
+</figure>
+
+<hr />
+<h2>Đồng Hồ Tính Toán Số Phút Vận Động Tích Cực (AZM) Như Thế Nào: Công Thức Karvonen</h2>
+<p>Các thế hệ vòng đeo tay đời đầu chỉ dựa vào công thức nhịp tim tối đa chung chung <code>220 − Tuổi</code>. Tuy nhiên, hai người cùng 35 tuổi có cùng nhịp tim tối đa (<code>185 bpm</code>) có thể sở hữu nền tảng thể lực hoàn toàn khác biệt nếu một người có nhịp tim lúc nghỉ (RHR) là <code>48 bpm</code> trong khi người kia ở mức <code>78 bpm</code>.</p>
+<p>Để cá nhân hóa các vùng nhịp tim cho riêng bạn, đồng hồ thông minh hiện đại áp dụng <strong>Công thức Dự trữ Nhịp tim Karvonen (Heart Rate Reserve – HRR)</strong>:</p>
+<ol>
+<li><strong>Tính Dự trữ Nhịp tim (HRR):</strong> <code>HRR = Nhịp tim Tối đa (HRmax) − Nhịp tim Lúc nghỉ (RHR)</code></li>
+<li><strong>Xác định Ngưỡng Nhịp tim Mục tiêu Cá nhân:</strong> <code>Nhịp tim Mục tiêu = RHR + (HRR × % Cường độ)</code></li>
+</ol>
+<p>Nhờ việc đồng hồ liên tục đo lường Nhịp tim Lúc nghỉ qua đêm của bạn, các ngưỡng tính điểm <strong>Active Zone Minutes (AZM)</strong> sẽ tự động điều chỉnh linh hoạt khi thể lực tim mạch của bạn tiến bộ hoặc khi cơ thể mệt mỏi làm nhịp tim nền tăng nhẹ.</p>
+<table>
+<thead>
+<tr>
+<th style="text-align: left;">Phân Vùng Cường Độ (AZM)</th>
+<th style="text-align: left;">% Dự Trữ Nhịp Tim (% HRR)</th>
+<th style="text-align: left;">% Nhịp Tim Tối Đa (% HRmax)</th>
+<th style="text-align: left;">Hệ Số Điểm AZM</th>
+<th style="text-align: left;">Lợi Ích Sinh Lý &amp; Chuyển Hóa Trọng Tâm</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="text-align: left;"><strong>Dưới Ngưỡng (Vận động nhẹ)</strong></td>
+<td style="text-align: left;"><strong>&lt; 40% HRR</strong></td>
+<td style="text-align: left;"><strong>&lt; 50% HRmax</strong></td>
+<td style="text-align: left;"><strong>0 AZM / phút</strong></td>
+<td style="text-align: left;">Duy trì tuần hoàn máu cơ bản, bôi trơn khớp và sinh nhiệt vận động hàng ngày (NEAT).</td>
+</tr>
+<tr>
+<td style="text-align: left;"><strong>Vùng Đốt Mỡ / Trung Bình (Fat Burn)</strong></td>
+<td style="text-align: left;"><strong>40% – 59% HRR</strong></td>
+<td style="text-align: left;"><strong>~50% – 69% HRmax</strong></td>
+<td style="text-align: left;"><strong>1 AZM / phút</strong></td>
+<td style="text-align: left;">Huy động sợi cơ bền nhóm I, oxy hóa axit béo tự do làm năng lượng và mở rộng mật độ mao mạch nền tảng.</td>
+</tr>
+<tr>
+<td style="text-align: left;"><strong>Vùng Tim Mạch / Cường Độ Cao (Cardio)</strong></td>
+<td style="text-align: left;"><strong>60% – 84% HRR</strong></td>
+<td style="text-align: left;"><strong>~70% – 84% HRmax</strong></td>
+<td style="text-align: left;"><strong>2 AZM / phút</strong></td>
+<td style="text-align: left;">Tăng thể tích nhát bóp tâm thất trái, nâng cao chỉ số VO₂ Max và tối ưu hóa cung lượng tim.</td>
+</tr>
+<tr>
+<td style="text-align: left;"><strong>Vùng Đỉnh / Tối Đa (Peak)</strong></td>
+<td style="text-align: left;"><strong>≥ 85% HRR</strong></td>
+<td style="text-align: left;"><strong>≥ 85% HRmax</strong></td>
+<td style="text-align: left;"><strong>2 AZM / phút</strong></td>
+<td style="text-align: left;">Huy động sợi cơ nhanh nhóm II, tăng khả năng đệm axit lactic và phát triển công suất kỵ khí tối đa.</td>
+</tr>
+</tbody>
+</table>
+<hr />
+<h2>Vì Sao Tập Cường Độ Cao Được Nhân Đôi Điểm Số (2×): Tiêu Chuẩn Lâm Sàng Từ WHO &amp; AHA</h2>
+<p>Khi bạn chạy bộ trong vùng <strong>Cardio</strong> hoặc <strong>Peak</strong> suốt 20 phút, đồng hồ sẽ cộng cho bạn <strong>40 Phút Vận Động Tích Cực (40 AZMs)</strong>. Tại sao nỗ lực cường độ cao lại được tính gấp đôi?</p>
+<p>Hệ số nhân <strong>2 đổi 1</strong> này bắt nguồn trực tiếp từ <strong>Hướng dẫn Hoạt động Thể chất của Tổ chức Y tế Thế giới (WHO 2020)</strong> và <strong>Hiệp hội Tim mạch Hoa Kỳ (AHA)</strong>. Các nghiên cứu dịch tễ học quy mô lớn trên hơn 500.000 người trưởng thành đã chứng minh rằng cơ thể đạt được mức giảm thiểu mạnh mẽ nguy cơ tử vong do mọi nguyên nhân, bệnh mạch vành, tiểu đường tuýp 2 và suy giảm nhận thức khi tích lũy đủ một trong các ngưỡng sau:
+- <strong>150 đến 300 phút mỗi tuần</strong> vận động hiếu khí <strong>Cường độ Trung bình</strong> (<code>hệ số 1×</code>), <strong>HOẶC</strong>
+- <strong>75 đến 150 phút mỗi tuần</strong> vận động hiếu khí <strong>Cường độ Cao</strong> (<code>hệ số 2×</code>), <strong>HOẶC</strong>
+- Sự kết hợp tương đương đạt tối thiểu <strong>150+ Active Zone Minutes mỗi tuần</strong> (tương đương khoảng <strong>22 AZM mỗi ngày</strong>).</p>
+<p>Về mặt sinh lý học, khi vận động vượt ngưỡng 60% Dự trữ Nhịp tim (HRR), dòng máu chảy nhanh tạo ra lực ma sát thành mạch lành mạnh, kích thích lớp nội mô mạch máu tiết ra <strong>Oxit Nitric (NO)</strong>—giúp thành động mạch đàn hồi dẻo dai và hạ huyết áp lúc nghỉ hiệu quả hơn rất nhiều so với việc chỉ đi bộ chậm.</p>
+<hr />
+<h2>Góc Nhìn Thực Tế Trên Thiết Bị Đeo: Đọc Hiểu Biểu Đồ Hàng Ngày</h2>
+<p>Khi theo dõi biểu đồ Active Zone Minutes ngày và tuần trên ứng dụng điện thoại, bạn sẽ nhận ra 3 quy luật thực tế rất thú vị:</p>
+<ol>
+<li><strong>Nghịch lý "10.000 Bước Chân Nhưng Chỉ Đạt 5 AZM":</strong> Bạn có thể dành cả ngày thứ Bảy đi siêu thị và dọn dẹp nhà cửa với 11.500 bước chân, nhưng cuối ngày chỉ có <strong>5 AZM</strong>. Đó là bởi nhịp tim của bạn luôn nằm dưới ngưỡng <code>40% HRR</code> (<code>~105 bpm</code>)—hệ cơ xương có di chuyển nhưng cơ tim chưa bao giờ nhận được kích thích đủ lớn để thích nghi nâng cao.</li>
+<li><strong>Tín hiệu Rung Chuyển Vùng Trên Cổ Tay:</strong> Khi đang đi bộ nhanh lên dốc hoặc đạp xe, đồng hồ sẽ rung nhẹ 1 lần khi bạn bước vào <strong>Vùng Đốt Mỡ (1×)</strong> và rung 2 lần khi chạm <strong>Vùng Cardio (2×)</strong>. Phản hồi xúc giác theo thời gian thực này giúp bạn dễ dàng biến một buổi đi dạo thông thường thành bài tập tim mạch chuẩn y khoa chỉ bằng cách tăng nhẹ sải chân hoặc nâng độ dốc máy chạy thêm 2%–3%.</li>
+<li><strong>Xu Hướng Giảm Nhịp Tim Lúc Nghỉ (RHR) Dài Hạn:</strong> Những người dùng nâng mức trung bình AZM hàng tuần từ <code>&lt; 60 phút</code> lên <code>150–250 phút</code> đều đặn trong 8 tuần thường ghi nhận <strong>Nhịp tim Lúc nghỉ qua đêm giảm từ 3 đến 6 bpm</strong> đi kèm chỉ số <strong>VO₂ Max ước tính</strong> tăng trưởng bền vững.</li>
+</ol>
+<hr />
+<h2>4 Thói Quen Thực Tế Để Chinh Phục 150+ AZM Mỗi Tuần</h2>
+<ol>
+<li><strong>Thiết Lập "Mức Sàn 22 Phút Mỗi Ngày":</strong> Chia nhỏ mục tiêu 150 phút hàng tuần thành <strong>22 AZM mỗi ngày</strong> giúp bạn không bị dồn áp lực vào cuối tuần. Chỉ cần 22 phút đi bộ nhanh giờ nghỉ trưa (vùng Fat Burn) hoặc 11 phút chạy bộ / leo cầu thang cường độ cao (vùng Cardio) là bạn đã hoàn thành chỉ tiêu trong ngày.</li>
+<li><strong>Nâng Cấp Buổi Đi Bộ Bằng Độ Dốc Hoặc Balo (Rucking):</strong> Nếu đi bộ đường bằng không còn đưa nhịp tim bạn vào vùng Đốt Mỡ do thể lực đã tốt lên, hãy chỉnh <strong>độ dốc máy chạy lên 4%–6%</strong>, chọn cung đường có dốc thoai thoải, hoặc đeo một chiếc balo nhẹ. Cách này đưa nhịp tim vào vùng <code>40%–59% HRR</code> mà không gây áp lực va đập lên khớp gối.</li>
+<li><strong>Áp Dụng Tỷ Lệ Vàng 80/20 Hàng Tuần:</strong> Hãy tích lũy khoảng <strong>70%–80% tổng số AZM</strong> trong <strong>Vùng Đốt Mỡ / Trung bình</strong> (xây dựng sức bền hiếu khí mà không gây quá tải thần kinh tự chủ) và <strong>20%–30% trong Vùng Cardio/Peak</strong> (1–2 buổi tập cường độ cao mỗi tuần để bứt phá VO₂ Max).</li>
+<li><strong>Tận Dụng Các "Bữa Ăn Nhẹ Vận Động" (Exercise Snacks):</strong> Các hướng dẫn y khoa mới nhất đã bãi bỏ quy định cũ bắt buộc mỗi hiệp tập phải kéo dài liên tục trên 10 phút. Ngay cả <strong>5 phút leo cầu thang nhanh</strong> hay đạp xe tại chỗ giữa các cuộc họp cũng được cộng dồn vào tổng AZM trong ngày và giữ độ nhạy insulin ở mức tối ưu suốt buổi chiều.</li>
+</ol>
+<hr />
+<h2>Tài Liệu Tham Khảo &amp; Nguồn Y Khoa</h2>
+<ol>
+<li><strong>Bull, F. C., Al-Ansari, S. S., Biddle, S., Borodulin, K., Buman, M. P., Cardon, G., ... &amp; Willumsen, J. F. (2020).</strong> <em>World Health Organization 2020 guidelines on physical activity and sedentary behaviour.</em> British Journal of Sports Medicine, 54(24), 1451–1462. <a href="https://pubmed.ncbi.nlm.nih.gov/33239350/">Đọc trên PubMed / NIH ↗</a></li>
+<li><strong>Karvonen, M. J., Kentala, E., &amp; Mustala, O. (1957).</strong> <em>The effects of training on heart rate; a longitudinal study.</em> Annales Medicinae Experimentalis et Biologiae Fenniae, 35(3), 307–315. <a href="https://pubmed.ncbi.nlm.nih.gov/13470504/">Đọc trên PubMed / NIH ↗</a></li>
+<li><strong>Fitbit Health Science.</strong> <em>What Are Active Zone Minutes or Active Minutes on My Fitbit Device?</em> <a href="https://support.google.com/fitbit/answer/14236513">Đọc trên Fitbit Help / Science ↗</a></li>
+<li><strong>Garmin Health Science.</strong> <em>Intensity Minutes: How Garmin Tracks Moderate and Vigorous Activity Based on WHO &amp; AHA Standards.</em> <a href="https://www.garmin.com/en-US/garmin-technology/health-science/intensity-minutes/">Đọc trên Garmin Health Science ↗</a></li>
+</ol>
+    </article>
+
+    <section class="canonical-citation-card">
+      <div class="citation-icon">📚</div>
+      <div class="citation-body">
+        <h4>Nguồn Tham Khảo Y Khoa & Nghiên Cứu Gốc</h4>
+        <p>Bài viết này được tổng hợp và kiểm chứng từ các nghiên cứu y sinh học, hướng dẫn lâm sàng và tài liệu khoa học thiết bị đeo của <strong>Fitbit Health Science & World Health Organization (Bull et al., 2020)</strong>.</p>
+        <div class="citation-actions">
+          <a href="https://pubmed.ncbi.nlm.nih.gov/33239350/" target="_blank" rel="noopener noreferrer" class="btn-canonical-study">
+            Xem Nghiên Cứu Gốc / Bài Báo Khoa Học ↗
+          </a>
+        </div>
+      </div>
+    </section>
+
+    <nav class="post-pagination-nav">
+      
+    <a href="DM_RC_02.html?lang=vi" class="post-nav-btn prev">
+      <span class="nav-direction">← Bài viết trước</span>
+      <span class="nav-title">Phục Hồi Chủ Động (Active Recovery) So Với Nghỉ Thụ Động: Tại Sao Vận Động Nhẹ Zone 1 Giúp Tan Mỏi Cơ Nhanh Hơn Nằm Yên?</span>
+    </a>
+      
+    <a href="LM_AC_02.html?lang=vi" class="post-nav-btn next">
+      <span class="nav-direction">Bài tiếp theo →</span>
+      <span class="nav-title">Giải Mã Chỉ Số Day Strain (0–21): Cách Thiết Bị Đeo Đo Lường Tổng Tải Trọng Tim Mạch & Cơ Bắp</span>
+    </a>
+    </nav>
+
+    <section class="related-articles-section">
+      <div class="related-section-header">
+        <h3>Bài viết liên quan thuộc chủ đề Vận động</h3>
+      </div>
+      <div class="related-posts-grid">
+        
+        <a href="LM_AC_02.html?lang=vi" class="related-post-card">
+          <div class="related-post-img" style="background-image: url('../images/LM_AC_02_hero.jpg');">
+            <span class="related-post-badge" style="background: #FEF3C7; color: #D97706;">
+              🏃 Vận động
+            </span>
+          </div>
+          <div class="related-post-info">
+            <h4 class="related-post-title">Giải Mã Chỉ Số Day Strain (0–21): Cách Thiết Bị Đeo Đo Lường Tổng Tải Trọng Tim Mạch & Cơ Bắp</h4>
+            <p class="related-post-desc">Tại sao việc nâng điểm Day Strain từ 14 lên 18 lại đòi hỏi nỗ lực khắc nghiệt gấp nhiều lầ...</p>
+            <div class="related-post-meta">
+              <span>⏱ 8 phút đọc</span>
+              <span>•</span>
+              <span>Learn more</span>
+            </div>
+          </div>
+        </a>
+        
+        <a href="DM_AC_01.html?lang=vi" class="related-post-card">
+          <div class="related-post-img" style="background-image: url('../images/DM_AC_01_hero.jpg');">
+            <span class="related-post-badge" style="background: #FEF3C7; color: #D97706;">
+              🏃 Vận động
+            </span>
+          </div>
+          <div class="related-post-info">
+            <h4 class="related-post-title">Cẩm Nang Tập Luyện Cardio Zone 2: Xây Dựng Mật Độ Ti Thể Và Sự Linh Hoạt Chuyển Hóa Ở Nhịp Độ Trò Chuyện</h4>
+            <p class="related-post-desc">Tại sao các cua-rơ Tour de France và vận động viên Marathon đỉnh cao lại dành tới 80% tổng...</p>
+            <div class="related-post-meta">
+              <span>⏱ 9 phút đọc</span>
+              <span>•</span>
+              <span>Discover more</span>
+            </div>
+          </div>
+        </a>
+        
+        <a href="DM_AC_02.html?lang=vi" class="related-post-card">
+          <div class="related-post-img" style="background-image: url('../images/DM_AC_02_hero.jpg');">
+            <span class="related-post-badge" style="background: #FEF3C7; color: #D97706;">
+              🏃 Vận động
+            </span>
+          </div>
+          <div class="related-post-info">
+            <h4 class="related-post-title">Hội Chứng Tập Luyện Quá Sức & Đường Cong Siêu Bù Trừ: Dấu Hiệu Sinh Học Cảnh Báo Sớm Và Giao Thức Giảm Tải (Deload)</h4>
+            <p class="related-post-desc">Mỗi buổi tập đều tạm thời làm suy giảm thể lực của bạn; cơ thể chỉ thực sự mạnh lên trong ...</p>
+            <div class="related-post-meta">
+              <span>⏱ 9 phút đọc</span>
+              <span>•</span>
+              <span>Discover more</span>
+            </div>
+          </div>
+        </a>
+        
+      </div>
+    </section>
+
+    <div class="return-hub-cta">
+      <a href="../index.html?lang=vi" class="btn-return-hub">← Quay lại Trang chủ & Tìm kiếm</a>
+      <button onclick="window.scrollTo({top: 0, behavior: 'smooth'})" class="btn-scroll-top">↑ Lên đầu trang</button>
+    </div>
+  </main>
+
+  <!-- ========================================================= -->
+  <!-- ENGLISH ARTICLE CONTAINER                                 -->
+  <!-- ========================================================= -->
+  <main id="post-container-en" class="article-page-container hidden">
+    <nav class="article-breadcrumb">
+      <a href="../index.html?lang=en">Knowledge Hub</a>
+      <span class="sep">/</span>
+      <a href="../index.html?lang=en">Activity</a>
+      <span class="sep">/</span>
+      <span class="current">Active Zone Minutes</span>
+    </nav>
+
     <header class="article-page-header">
       <div class="article-badges-row">
         <span class="badge" style="background: #FEF3C7; color: #D97706; font-weight: 700;">
@@ -52,151 +293,210 @@
         </span>
         <span class="badge badge-sub">Active Zone Minutes</span>
         <span class="badge badge-type">Learn more</span>
-        <span class="article-read-time">⏱ 3 min read</span>
+        <span class="article-read-time">⏱ 8 min read</span>
       </div>
 
-      <h1 class="article-main-title">Active Zone Minutes (AZM): Why Intensity Trumps Raw Step Counts</h1>
-      
-      <p class="article-sapo-lead">How the WHO-backed metric uses personalized heart rate thresholds to reward cardiovascular effort rather than simple movement volume.</p>
+      <h1 class="article-main-title">Active Zone Minutes (AZM) Explained: Why Heart Rate Intensity Matters More Than 10,000 Steps</h1>
+      <p class="article-sapo-lead">Walking 10,000 casual steps is great for baseline movement, but true cardiovascular remodeling requires elevating your heart rate into personalized training zones. Learn how smartwatches calculate Active Zone Minutes (AZM) using the Karvonen Heart Rate Reserve formula, why vigorous minutes count double, and how to hit your weekly 150-minute WHO longevity target.</p>
 
-      <!-- Featured Cover Hero Image -->
       <figure class="article-featured-hero">
-        <img src="https://images.unsplash.com/photo-1476480862126-209bfaa8edc8?auto=format&fit=crop&w=1200&q=80" alt="Active Zone Minutes (AZM): Why Intensity Trumps Raw Step Counts">
-        <figcaption>Active Zone Minutes (AZM): Why Intensity Trumps Raw Step Counts — Clinical Editorial Feature</figcaption>
+        <img src="../images/LM_AC_01_hero.jpg" alt="Active Zone Minutes (AZM) Explained: Why Heart Rate Intensity Matters More Than 10,000 Steps">
+        <figcaption>Active Zone Minutes (AZM) Explained: Why Heart Rate Intensity Matters More Than 10,000 Steps • <a href="https://images.unsplash.com/photo-1476480862126-209bfaa8edc8?auto=format&fit=crop&w=1200&q=85" target="_blank" rel="noopener noreferrer" class="img-source-badge">Verified Original Photo Source (Unsplash) ↗</a></figcaption>
       </figure>
 
-      <!-- Editorial & Clinical Metadata Card -->
       <div class="article-metadata-card">
         <div class="meta-avatar">PV</div>
         <div class="meta-content">
           <div class="meta-author">Pulse & Vitality Clinical Editorial Board</div>
           <div class="meta-details">
-            <span>Clinical Wearable Reference: <strong>Fitbit / WHO</strong></span>
+            <span>Clinical & Wearable Source: <strong>Fitbit Health Science & World Health Organization (Bull et al., 2020)</strong></span>
             <span class="meta-dot">•</span>
             <span>Mapped Screen: <strong>Activity Screen</strong></span>
             <span class="meta-dot">•</span>
-            <span>Metric: <strong>Active Zone Minutes (AZM)</strong></span>
+            <span>Biometric: <strong>Active Zone Minutes (AZM)</strong></span>
           </div>
         </div>
       </div>
     </header>
 
-    <!-- Key Actionable Takeaway Banner -->
     <section class="takeaway-banner-large">
       <div class="takeaway-banner-header">
         <span class="takeaway-icon-lg">💡</span>
         <span>Key Actionable Takeaway</span>
       </div>
-      <p>Every minute of vigorous cardio earns double Active Zone Minutes, directly rewarding the cardiovascular intensity that drives metabolic health and longevity.</p>
+      <p>Stop judging your daily fitness solely by step count. Earning 150 Active Zone Minutes per week—where moderate Fat Burn zones earn 1× credit and vigorous Cardio/Peak zones earn 2× credit—directly fulfills WHO and American Heart Association guidelines for reducing cardiovascular risk.</p>
     </section>
 
-    <!-- Full Article Markdown Content -->
     <article class="article-rich-body">
-      
-        <figure class="article-inline-diagram">
-          <img src="https://images.unsplash.com/photo-1517838277536-f5f99be501cd?auto=format&fit=crop&w=800&q=80" alt="Heart rate zone telemetry tracking Cardio and Peak zone intensity minutes." loading="lazy">
-          <figcaption>📊 <strong>Clinical Biometric Visual:</strong> Heart rate zone telemetry tracking Cardio and Peak zone intensity minutes.</figcaption>
-        </figure>
-        <h3>1. Moving Beyond the 10,000-Step Myth</h3>
-<p>For decades, physical activity was measured solely through pedometer step counts. However, 10,000 slow, casual steps do not stimulate myocardial hypertrophy, increase capillary density, or improve mitochondrial volume in the same way structured cardiovascular effort does. <strong>Active Zone Minutes (AZM)</strong> changes the paradigm by quantifying cardiac work.</p>
-<h3>2. How Active Zone Minutes are Calculated</h3>
-<p>AZM uses your personalized resting heart rate and age to establish three dynamic training tiers:<br />
-1. <strong>Fat Burn Zone (Moderate Exertion: ~50%–69% HR Max):</strong><br />
-   - <em>Multiplier:</em> <strong>1 AZM</strong> earned for every minute spent here.<br />
-   - <em>Physiological Goal:</em> Aerobic base development and utilization of free fatty acids for fuel.<br />
-2. <strong>Cardio Zone (Vigorous Exertion: ~70%–84% HR Max):</strong><br />
-   - <em>Multiplier:</em> <strong>2 AZM</strong> earned per minute.<br />
-   - <em>Physiological Goal:</em> Expanding stroke volume, increasing VO2 Max, and improving glycogen storage capacity.<br />
-3. <strong>Peak Zone (Maximum Effort: 85%+ HR Max):</strong><br />
-   - <em>Multiplier:</em> <strong>2 AZM</strong> earned per minute.<br />
-   - <em>Physiological Goal:</em> Neuromuscular recruitment, lactic acid buffering, and anaerobic power.</p>
-<h3>3. The 150-Minute Clinical Target</h3>
-<p>Major health authorities—including the American Heart Association (AHA) and World Health Organization (WHO)—recommend at least <strong>150 minutes of moderate activity</strong> or <strong>75 minutes of vigorous activity</strong> per week. AZM aligns directly with this guideline: by earning 150 AZMs weekly, you significantly lower cardiovascular disease incidence and all-cause mortality.</p>
+      <h2>Moving Beyond the 10,000-Step Myth</h2>
+<p>For decades, the gold standard of consumer fitness tracking was <strong>10,000 steps per day</strong>—a benchmark that actually originated from a 1965 Japanese pedometer marketing campaign (<em>Manpo-kei</em>) rather than a clinical physiology trial. While walking throughout the day prevents metabolic stagnation and improves post-meal blood glucose clearance, <strong>step count is completely blind to cardiovascular intensity</strong>.</p>
+<p>Ten thousand slow window-shopping steps across twelve hours do not challenge your heart's stroke volume, expand capillary beds, or stimulate mitochondrial biogenesis the way a brisk 30-minute uphill hike or tempo run does. To bridge the gap between casual movement and clinical exercise science, modern wearables—led by <strong>Fitbit Active Zone Minutes (AZM)</strong>, <strong>Garmin Intensity Minutes</strong>, and <strong>Apple Watch Exercise Minutes</strong>—shift the focus from <em>how many steps you take</em> to <em>how hard your heart is working relative to your personal physiology</em>.</p>
+<figure class="article-inline-diagram">
+  <img src="../images/LM_AC_01_figure.png" alt="Fox and Haskell Cardiovascular Exercise Heart Rate Zones" loading="lazy">
+  <figcaption>📊 <strong>Cardiovascular Training Zones by Age (Fox & Haskell Model):</strong> How heart rate thresholds divide moderate aerobic work from vigorous cardiopulmonary conditioning across the adult lifespan. <a href="https://commons.wikimedia.org/wiki/File:Exercise_zones_Fox_and_Haskell.svg" target="_blank" rel="noopener">Original Image Source: Wikimedia Commons ↗</a></figcaption>
+</figure>
+
+<hr />
+<h2>How Your Watch Calculates Active Zone Minutes: The Karvonen Formula</h2>
+<p>Early fitness trackers relied solely on the generic <code>220 − Age</code> maximum heart rate formula. However, two 35-year-olds with the same maximum heart rate (<code>185 bpm</code>) can have vastly different fitness levels if one has a resting heart rate of <code>48 bpm</code> and the other sits at <code>78 bpm</code>.</p>
+<p>To personalize your zones, modern wearables use the <strong>Karvonen Heart Rate Reserve (HRR) Formula</strong>:</p>
+<ol>
+<li><strong>Calculate Heart Rate Reserve (HRR):</strong> <code>HRR = Maximum Heart Rate (HRmax) − Resting Heart Rate (RHR)</code></li>
+<li><strong>Determine Personalized Target Threshold:</strong> <code>Target Heart Rate = RHR + (HRR × % Intensity)</code></li>
+</ol>
+<p>Because your smartwatch continuously tracks your overnight Resting Heart Rate, your <strong>Active Zone Minute</strong> thresholds automatically adapt as your cardiovascular fitness improves or when fatigue temporarily elevates your resting pulse.</p>
+<table>
+<thead>
+<tr>
+<th style="text-align: left;">Active Zone Tier</th>
+<th style="text-align: left;">Heart Rate Reserve (% HRR)</th>
+<th style="text-align: left;">Typical % of HRmax</th>
+<th style="text-align: left;">AZM Credit Multiplier</th>
+<th style="text-align: left;">Primary Physiological &amp; Metabolic Benefit</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="text-align: left;"><strong>Below Zones (Light)</strong></td>
+<td style="text-align: left;"><strong>&lt; 40% HRR</strong></td>
+<td style="text-align: left;"><strong>&lt; 50% HRmax</strong></td>
+<td style="text-align: left;"><strong>0 AZM / min</strong></td>
+<td style="text-align: left;">Baseline daily circulation, joint lubrication, and non-exercise activity thermogenesis (NEAT).</td>
+</tr>
+<tr>
+<td style="text-align: left;"><strong>Fat Burn / Moderate Zone</strong></td>
+<td style="text-align: left;"><strong>40% – 59% HRR</strong></td>
+<td style="text-align: left;"><strong>~50% – 69% HRmax</strong></td>
+<td style="text-align: left;"><strong>1 AZM / min</strong></td>
+<td style="text-align: left;">Recruits Type I slow-twitch muscle fibers, oxidizes free fatty acids, and builds foundational capillary density.</td>
+</tr>
+<tr>
+<td style="text-align: left;"><strong>Cardio / Vigorous Zone</strong></td>
+<td style="text-align: left;"><strong>60% – 84% HRR</strong></td>
+<td style="text-align: left;"><strong>~70% – 84% HRmax</strong></td>
+<td style="text-align: left;"><strong>2 AZMs / min</strong></td>
+<td style="text-align: left;">Expands left ventricular stroke volume, elevates VO₂ Max, and strengthens cardiac output efficiency.</td>
+</tr>
+<tr>
+<td style="text-align: left;"><strong>Peak / Maximal Zone</strong></td>
+<td style="text-align: left;"><strong>≥ 85% HRR</strong></td>
+<td style="text-align: left;"><strong>≥ 85% HRmax</strong></td>
+<td style="text-align: left;"><strong>2 AZMs / min</strong></td>
+<td style="text-align: left;">Recruits fast-twitch glycolytic fibers, buffers blood lactate, and drives peak anaerobic power.</td>
+</tr>
+</tbody>
+</table>
+<hr />
+<h2>Why Vigorous Exercise Earns 2× Points: The WHO &amp; AHA Clinical Standard</h2>
+<p>If you jog in the <strong>Cardio</strong> or <strong>Peak</strong> zone for 20 minutes, your watch awards you <strong>40 Active Zone Minutes</strong>. Why does vigorous effort count double?</p>
+<p>This <strong>2-to-1 multiplier</strong> comes directly from the <strong>World Health Organization (WHO 2020 Guidelines on Physical Activity)</strong> and the <strong>American Heart Association (AHA)</strong>. Large-scale epidemiological trials involving over 500,000 adults demonstrate that adults achieve profound reductions in all-cause mortality, coronary heart disease, type 2 diabetes, and cognitive decline when they accumulate either:
+- <strong>150 to 300 minutes per week</strong> of <strong>Moderate-Intensity</strong> aerobic activity (<code>1× multiplier</code>), <strong>OR</strong>
+- <strong>75 to 150 minutes per week</strong> of <strong>Vigorous-Intensity</strong> aerobic activity (<code>2× multiplier</code>), <strong>OR</strong>
+- An equivalent combination totaling <strong>150+ Active Zone Minutes per week</strong> (roughly <strong>22 AZMs per day</strong>).</p>
+<p>Physiologically, vigorous exercise above 60% of your Heart Rate Reserve creates high laminar shear stress along your arterial walls, triggering the endothelium to release <strong>Nitric Oxide (NO)</strong>—which keeps blood vessels elastic and lowers resting blood pressure far more potently than slow walking alone.</p>
+<hr />
+<h2>Real-World Wearable Insights: What Shows Up on Your Wrist</h2>
+<p>When you review your daily and weekly Active Zone Minutes graph in your companion app, look for these three practical patterns:</p>
+<ol>
+<li><strong>The "10,000 Steps, 5 AZM" Paradox:</strong> You may spend an entire Saturday on your feet running errands, logging 11,500 steps, yet finish the day with only <strong>5 AZMs</strong>. Because your heart rate stayed below <code>40% HRR</code> (<code>~105 bpm</code>), your musculoskeletal system moved, but your cardiovascular pump was never placed under adaptive load.</li>
+<li><strong>Wrist Haptic Zone Transitions:</strong> During a brisk incline walk or cycling session, your watch vibrates once when you cross into the <strong>Fat Burn Zone (1×)</strong> and vibrates twice when you enter the <strong>Cardio Zone (2×)</strong>. Using these real-time haptic cues lets you turn a casual stroll into a structured aerobic session simply by increasing your pace or treadmill incline by 2%–3%.</li>
+<li><strong>Long-Term RHR Downward Shift:</strong> Users who consistently increase their weekly AZM average from <code>&lt; 60 minutes</code> to <code>150–250 minutes</code> over an 8-week block typically observe a <strong>3 to 6 bpm reduction in Overnight Resting Heart Rate</strong> and a steady upward trend in <strong>Estimated VO₂ Max</strong>.</li>
+</ol>
+<hr />
+<h2>4 Actionable Habits to Hit 150+ Active Zone Minutes Every Week</h2>
+<ol>
+<li><strong>Aim for the "22-Minute Daily Floor":</strong> Breaking the 150-minute weekly goal into <strong>22 Active Zone Minutes per day</strong> eliminates weekend catch-up pressure. A single 22-minute brisk power walk at lunch (in Fat Burn) or an 11-minute vigorous stair-climb or run (in Cardio) completes your daily quota.</li>
+<li><strong>Upgrade Casual Walks with Incline or Rucking:</strong> If flat walking no longer raises your heart rate into the Fat Burn zone because your fitness has improved, walk on a <strong>4% to 6% treadmill incline</strong>, choose hilly outdoor routes, or wear a light backpack. This elevates your heart rate into <code>40%–59% HRR</code> with zero extra joint impact.</li>
+<li><strong>Use the 80/20 Weekly Balance:</strong> Earn roughly <strong>70%–80% of your weekly AZMs</strong> in the sustainable <strong>Fat Burn / Moderate Zone</strong> (building aerobic endurance without autonomic burnout) and <strong>20%–30% in the Cardio/Peak Zones</strong> (1–2 vigorous sessions per week to expand VO₂ Max).</li>
+<li><strong>Stack "Exercise Snacks" on Busy Workdays:</strong> Recent clinical updates removed the old rule that aerobic bouts had to last at least 10 consecutive minutes. Even <strong>5-minute brisk stair climbs</strong> or short stationary bike bouts between meetings accumulate toward your daily AZM total and keep insulin sensitivity high all afternoon.</li>
+</ol>
+<hr />
+<h2>References &amp; Clinical Sources</h2>
+<ol>
+<li><strong>Bull, F. C., Al-Ansari, S. S., Biddle, S., Borodulin, K., Buman, M. P., Cardon, G., ... &amp; Willumsen, J. F. (2020).</strong> <em>World Health Organization 2020 guidelines on physical activity and sedentary behaviour.</em> British Journal of Sports Medicine, 54(24), 1451–1462. <a href="https://pubmed.ncbi.nlm.nih.gov/33239350/">Read on PubMed / NIH ↗</a></li>
+<li><strong>Karvonen, M. J., Kentala, E., &amp; Mustala, O. (1957).</strong> <em>The effects of training on heart rate; a longitudinal study.</em> Annales Medicinae Experimentalis et Biologiae Fenniae, 35(3), 307–315. <a href="https://pubmed.ncbi.nlm.nih.gov/13470504/">Read on PubMed / NIH ↗</a></li>
+<li><strong>Fitbit Health Science.</strong> <em>What Are Active Zone Minutes or Active Minutes on My Fitbit Device?</em> <a href="https://support.google.com/fitbit/answer/14236513">Read on Fitbit Help / Science ↗</a></li>
+<li><strong>Garmin Health Science.</strong> <em>Intensity Minutes: How Garmin Tracks Moderate and Vigorous Activity Based on WHO &amp; AHA Standards.</em> <a href="https://www.garmin.com/en-US/garmin-technology/health-science/intensity-minutes/">Read on Garmin Health Science ↗</a></li>
+</ol>
     </article>
 
-    <!-- Canonical Source Reference Box -->
     <section class="canonical-citation-card">
       <div class="citation-icon">📚</div>
       <div class="citation-body">
         <h4>Clinical Reference & Scientific Backing</h4>
-        <p>This article is synthesized from peer-reviewed physiology, clinical guidelines, and wearable biometric methodologies developed by <strong>Fitbit / WHO</strong>.</p>
+        <p>This article is synthesized from peer-reviewed medical literature, clinical guidelines, and wearable biometric validation studies from <strong>Fitbit Health Science & World Health Organization (Bull et al., 2020)</strong>.</p>
         <div class="citation-actions">
-          <a href="https://blog.fitbit.com/active-zone-minutes/" target="_blank" rel="noopener noreferrer" class="btn-canonical-study">
-            Read Canonical Study / Original Article ↗
+          <a href="https://pubmed.ncbi.nlm.nih.gov/33239350/" target="_blank" rel="noopener noreferrer" class="btn-canonical-study">
+            Read Canonical Study / Original Source ↗
           </a>
         </div>
       </div>
     </section>
 
-    <!-- Next / Previous Article Navigation -->
     <nav class="post-pagination-nav">
       
-    <a href="DM_RC_02.html" class="post-nav-btn prev">
+    <a href="DM_RC_02.html?lang=en" class="post-nav-btn prev">
       <span class="nav-direction">← Previous Article</span>
-      <span class="nav-title">Active Recovery vs. Passive Rest: Accelerating Cellular Repair and Metabolic Clearance</span>
+      <span class="nav-title">Active Recovery vs. Passive Rest: Why Zone 1 Movement Clears Fatigue Faster Than the Couch</span>
     </a>
-    
       
-    <a href="LM_AC_02.html" class="post-nav-btn next">
+    <a href="LM_AC_02.html?lang=en" class="post-nav-btn next">
       <span class="nav-direction">Next Article →</span>
-      <span class="nav-title">Demystifying Day Strain (0–21): The Logarithmic Scale of Daily Load</span>
+      <span class="nav-title">Demystifying Day Strain (0–21): How Wearables Quantify Total Cardiovascular & Muscular Load</span>
     </a>
-    
     </nav>
 
-    <!-- Related Articles Section -->
     <section class="related-articles-section">
       <div class="related-section-header">
         <h3>Related Reads in Activity</h3>
-        <a href="../index.html?cat=Activity" class="view-all-link">View all Activity articles →</a>
       </div>
       <div class="related-posts-grid">
         
-        <a href="LM_AC_02.html" class="related-post-card">
-          <div class="related-post-img" style="background-image: url('https://images.unsplash.com/photo-1517836357463-d25dfeac3438?auto=format&fit=crop&w=1200&q=80');">
+        <a href="LM_AC_02.html?lang=en" class="related-post-card">
+          <div class="related-post-img" style="background-image: url('../images/LM_AC_02_hero.jpg');">
             <span class="related-post-badge" style="background: #FEF3C7; color: #D97706;">
               🏃 Activity
             </span>
           </div>
           <div class="related-post-info">
-            <h4 class="related-post-title">Demystifying Day Strain (0–21): The Logarithmic Scale of Daily Load</h4>
-            <p class="related-post-desc">How cardiovascular time-in-zone and resistance muscular load are compiled into a non-linea...</p>
+            <h4 class="related-post-title">Demystifying Day Strain (0–21): How Wearables Quantify Total Cardiovascular & Muscular Load</h4>
+            <p class="related-post-desc">Why does jumping from a Day Strain of 14 to 18 feel exponentially harder than moving from ...</p>
             <div class="related-post-meta">
-              <span>⏱ 3 min</span>
+              <span>⏱ 8 min</span>
               <span>•</span>
               <span>Learn more</span>
             </div>
           </div>
         </a>
         
-        <a href="DM_AC_01.html" class="related-post-card">
-          <div class="related-post-img" style="background-image: url('https://images.unsplash.com/photo-1483721074573-58630b9f75d5?auto=format&fit=crop&w=1200&q=80');">
+        <a href="DM_AC_01.html?lang=en" class="related-post-card">
+          <div class="related-post-img" style="background-image: url('../images/DM_AC_01_hero.jpg');">
             <span class="related-post-badge" style="background: #FEF3C7; color: #D97706;">
               🏃 Activity
             </span>
           </div>
           <div class="related-post-info">
-            <h4 class="related-post-title">The Zone 2 Cardio Blueprint: Maximizing Mitochondrial Density and Fat Oxidation</h4>
-            <p class="related-post-desc">Why elite endurance athletes spend 80% of their training volume at conversational pace, an...</p>
+            <h4 class="related-post-title">The Zone 2 Cardio Blueprint: How Conversational-Pace Training Builds Mitochondrial Density and Metabolic Flexibility</h4>
+            <p class="related-post-desc">Why do Tour de France cyclists and elite marathoners spend 80% of their weekly training ho...</p>
             <div class="related-post-meta">
-              <span>⏱ 5 min</span>
+              <span>⏱ 9 min</span>
               <span>•</span>
               <span>Discover more</span>
             </div>
           </div>
         </a>
         
-        <a href="DM_AC_02.html" class="related-post-card">
-          <div class="related-post-img" style="background-image: url('https://images.unsplash.com/photo-1518611012118-696072aa579a?auto=format&fit=crop&w=1200&q=80');">
+        <a href="DM_AC_02.html?lang=en" class="related-post-card">
+          <div class="related-post-img" style="background-image: url('../images/DM_AC_02_hero.jpg');">
             <span class="related-post-badge" style="background: #FEF3C7; color: #D97706;">
               🏃 Activity
             </span>
           </div>
           <div class="related-post-info">
-            <h4 class="related-post-title">Overtraining Syndrome: Early Warning Biomarkers and Strategic Deloading</h4>
-            <p class="related-post-desc">The physiology of central nervous system fatigue, adrenal desensitization, and how to exec...</p>
+            <h4 class="related-post-title">Overtraining Syndrome & The Supercompensation Curve: Early Warning Biomarkers and How to Execute a Deload Week</h4>
+            <p class="related-post-desc">Every workout temporarily breaks your body down; you only grow stronger during the recover...</p>
             <div class="related-post-meta">
-              <span>⏱ 5 min</span>
+              <span>⏱ 9 min</span>
               <span>•</span>
               <span>Discover more</span>
             </div>
@@ -206,32 +506,62 @@
       </div>
     </section>
 
-    <!-- Return to Hub Footer CTA -->
     <div class="return-hub-cta">
-      <a href="../index.html" class="btn-return-hub">
-        ← Back to Knowledge Hub & Search
-      </a>
-      <button onclick="window.scrollTo({ top: 0, behavior: 'smooth' })" class="btn-scroll-top">
-        ↑ Back to Top
-      </button>
+      <a href="../index.html?lang=en" class="btn-return-hub">← Back to Knowledge Hub & Search</a>
+      <button onclick="window.scrollTo({top: 0, behavior: 'smooth'})" class="btn-scroll-top">↑ Back to Top</button>
     </div>
   </main>
 
-  <!-- Site Footer -->
   <footer class="site-footer">
     <div class="footer-container">
-      <p>© 2026 Pulse & Vitality Performance Engine • Built for iOS / Android Wearable Integration</p>
-      <p class="disclaimer">Clinical data curated from Flo Health, Clue, Natural Cycles, Fitbit Blog, WHOOP The Locker, Maven Clinic, and Dr. Kegel.</p>
+      <p>© 2026 Pulse & Vitality Performance Engine • Evidence-Based Wearable Health Hub (EN / VI)</p>
     </div>
   </footer>
 
   <script>
+    function switchPostLang(lang) {
+      localStorage.setItem('pv_lang', lang);
+      const viContainer = document.getElementById('post-container-vi');
+      const enContainer = document.getElementById('post-container-en');
+      const btnVi = document.getElementById('post-lang-vi');
+      const btnEn = document.getElementById('post-lang-en');
+      const brandSub = document.getElementById('post-brand-subtitle');
+      const backBtn = document.getElementById('post-back-btn');
+
+      if (lang === 'en') {
+        viContainer.classList.add('hidden');
+        enContainer.classList.remove('hidden');
+        btnVi.classList.remove('active');
+        btnEn.classList.add('active');
+        brandSub.textContent = 'Health & Human Performance Knowledge Hub';
+        backBtn.textContent = '← Back to All Articles';
+        backBtn.href = '../index.html?lang=en';
+        document.documentElement.lang = 'en';
+      } else {
+        enContainer.classList.add('hidden');
+        viContainer.classList.remove('hidden');
+        btnEn.classList.remove('active');
+        btnVi.classList.add('active');
+        brandSub.textContent = 'Cẩm Nang Khoa Học Sức Khỏe & Thiết Bị Đeo';
+        backBtn.textContent = '← Quay lại Danh sách';
+        backBtn.href = '../index.html?lang=vi';
+        document.documentElement.lang = 'vi';
+      }
+    }
+
+    (function initLang() {
+      const params = new URLSearchParams(window.location.search);
+      const qLang = params.get('lang');
+      const saved = qLang || localStorage.getItem('pv_lang') || 'vi';
+      switchPostLang(saved === 'en' ? 'en' : 'vi');
+    })();
+
     window.addEventListener('scroll', () => {
       const winScroll = document.body.scrollTop || document.documentElement.scrollTop;
       const height = document.documentElement.scrollHeight - document.documentElement.clientHeight;
-      if (height > 0) {
-        const scrolled = (winScroll / height) * 100;
-        document.getElementById('reading-progress').style.width = scrolled + '%';
+      const bar = document.getElementById('reading-progress');
+      if (height > 0 && bar) {
+        bar.style.width = ((winScroll / height) * 100) + '%';
       }
     });
   </script>

@@ -1,50 +1,272 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="vi">
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>The 5.5-Second Coherence Breathing Protocol: Voluntarily Elevating Your HRV Baseline — Pulse & Vitality Blog</title>
+  <title>Giao Thức Thở Cộng Hưởng 5.5 Giây: Cách Kích Hoạt Dây Thần Kinh Phế Vị & Tăng Chỉ Số HRV Tự Nhiên | The 5.5-Second Resonance Breathing Protocol: How to Stimulate Your Vagus Nerve & Boost HRV</title>
   <link rel="stylesheet" href="../styles.css">
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
   <link href="https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:wght@400;500;600;700;800&family=Lora:ital,wght@0,400;0,500;0,600;1,400&display=swap" rel="stylesheet">
 </head>
 <body class="blog-post-page">
-  <!-- Reading Progress Bar -->
   <div class="reading-progress-container">
     <div id="reading-progress" class="reading-progress-bar"></div>
   </div>
 
-  <!-- Sticky Top Navigation -->
+  <!-- Sticky Top Navigation with Bilingual Switcher -->
   <header class="navbar post-navbar">
     <div class="nav-container">
       <a href="../index.html" class="brand" style="text-decoration: none;">
         <div class="brand-logo">⚡</div>
         <div class="brand-text">
           <span class="brand-title">PULSE & VITALITY</span>
-          <span class="brand-subtitle">Health & Human Performance Knowledge Hub</span>
+          <span class="brand-subtitle" id="post-brand-subtitle">Cẩm Nang Khoa Học Sức Khỏe & Thiết Bị Đeo</span>
         </div>
       </a>
       <div class="nav-actions">
-        <a href="../index.html" class="btn-back-hub">
-          ← Back to All Articles
+        <div class="lang-switch-group" role="group" aria-label="Language Switcher">
+          <button id="post-lang-vi" class="lang-btn active" onclick="switchPostLang('vi')">🇻🇳 Tiếng Việt</button>
+          <button id="post-lang-en" class="lang-btn" onclick="switchPostLang('en')">🇬🇧 English</button>
+        </div>
+        <a href="../index.html" class="btn-back-hub" id="post-back-btn">
+          ← Quay lại Danh sách
         </a>
       </div>
     </div>
   </header>
 
-  <!-- Main Article Layout -->
-  <main class="article-page-container">
-    <!-- Breadcrumb -->
+  <!-- ========================================================= -->
+  <!-- VIETNAMESE ARTICLE CONTAINER                              -->
+  <!-- ========================================================= -->
+  <main id="post-container-vi" class="article-page-container">
     <nav class="article-breadcrumb">
-      <a href="../index.html">Knowledge Hub</a>
+      <a href="../index.html?lang=vi">Trang chủ</a>
       <span class="sep">/</span>
-      <a href="../index.html?cat=Recovery">Recovery</a>
+      <a href="../index.html?lang=vi">Phục hồi</a>
       <span class="sep">/</span>
       <span class="current">Breathing for HRV</span>
     </nav>
 
-    <!-- Article Hero Header -->
+    <header class="article-page-header">
+      <div class="article-badges-row">
+        <span class="badge" style="background: #ECFDF5; color: #059669; font-weight: 700;">
+          🔋 Phục hồi
+        </span>
+        <span class="badge badge-sub">Breathing for HRV</span>
+        <span class="badge badge-type">Discover more</span>
+        <span class="article-read-time">⏱ 8 phút đọc</span>
+      </div>
+
+      <h1 class="article-main-title">Giao Thức Thở Cộng Hưởng 5.5 Giây: Cách Kích Hoạt Dây Thần Kinh Phế Vị & Tăng Chỉ Số HRV Tự Nhiên</h1>
+      <p class="article-sapo-lead">Nhịp thở là chiếc điều khiển từ xa duy nhất giúp bạn trực tiếp điều hướng Hệ thần kinh Tự chủ theo thời gian thực. Khám phá cơ chế thần kinh - tim mạch đằng sau hiện tượng Loạn nhịp xoang hô hấp (RSA), tần số cộng hưởng 0.1 Hz, và cách 10 phút thở nhịp 5.5 giây giúp nâng cao mức nền HRV.</p>
+
+      <figure class="article-featured-hero">
+        <img src="../images/DM_RC_01_hero.jpg" alt="Giao Thức Thở Cộng Hưởng 5.5 Giây: Cách Kích Hoạt Dây Thần Kinh Phế Vị & Tăng Chỉ Số HRV Tự Nhiên">
+        <figcaption>Giao Thức Thở Cộng Hưởng 5.5 Giây: Cách Kích Hoạt Dây Thần Kinh Phế Vị & Tăng Chỉ Số HRV Tự Nhiên • <a href="https://images.unsplash.com/photo-1518241353330-0f7941c2d9b5?auto=format&fit=crop&w=1200&q=85" target="_blank" rel="noopener noreferrer" class="img-source-badge">Link ảnh gốc xác thực (Unsplash) ↗</a></figcaption>
+      </figure>
+
+      <div class="article-metadata-card">
+        <div class="meta-avatar">PV</div>
+        <div class="meta-content">
+          <div class="meta-author">Hội Đồng Biên Tập Y Khoa Pulse & Vitality</div>
+          <div class="meta-details">
+            <span>Nguồn nghiên cứu & Thiết bị: <strong>Frontiers in Public Health (Steffen et al., 2017) & Cell Reports Medicine (Balban et al., 2023)</strong></span>
+            <span class="meta-dot">•</span>
+            <span>Màn hình App: <strong>Recovery Screen</strong></span>
+            <span class="meta-dot">•</span>
+            <span>Chỉ số: <strong>HRV Biohacking</strong></span>
+          </div>
+        </div>
+      </div>
+    </header>
+
+    <section class="takeaway-banner-large">
+      <div class="takeaway-banner-header">
+        <span class="takeaway-icon-lg">💡</span>
+        <span>Điểm Cốt Lõi & Hành Động Thực Tế</span>
+      </div>
+      <p>Thở êm dịu qua mũi theo nhịp hít vào 5.5 giây và thở ra 5.5 giây (~5.5 nhịp thở mỗi phút, tương đương tần số 0.1 Hz) giúp đồng bộ hóa dao động nhịp tim với các thụ thể áp suất mạch máu—kích thích tối đa dây thần kinh phế vị và nâng cao chỉ số HRV lúc nghỉ.</p>
+    </section>
+
+    <article class="article-rich-body">
+      <h2>Hơi Thở Chính Là Chiếc Điều Khiển Từ Xa Của Nhịp Tim</h2>
+<p>Hầu hết các chức năng thuộc <strong>Hệ thần kinh Tự chủ (Autonomic Nervous System - ANS)</strong>—như tiêu hóa, co giãn đồng tử, bài tiết mồ hôi hay co thắt mạch máu—đều diễn ra hoàn toàn tự động bên ngoài ý thức của bạn. Tuy nhiên, tạo hóa đã ban tặng cho con người một "công tắc điều khiển thủ công" trực tiếp duy nhất: <strong>Hô hấp</strong>.</p>
+<p>Mỗi khi bạn hít vào và thở ra, bạn kích hoạt một phản xạ cơ học và thần kinh tức thời bên trong lồng ngực gọi là <strong>Loạn nhịp xoang hô hấp (Respiratory Sinus Arrhythmia - RSA)</strong>. Đừng để cái tên y khoa nghe có vẻ nghiêm trọng đánh lừa: RSA không phải là bệnh lý tim mạch—ngược lại, đó là dấu ấn sinh học đặc trưng của một hệ tim mạch khỏe mạnh, trẻ trung và có dây thần kinh phế vị nhạy bén!</p>
+<ul>
+<li><strong>Khi Bạn Hít Vào (Tăng Tốc Giao Cảm):</strong> Cơ hoành co lại và hạ xuống dưới, làm giảm áp suất bên trong khoang ngực. Máu tĩnh mạch ùa vào tâm nhĩ phải của tim, đồng thời các thụ thể căng ở phổi tạm thời <strong>nhả chiếc phanh Dây thần kinh Phế vị</strong>. Kết quả là nhịp tim của bạn lập tức tăng nhanh (<code>khoảng cách R-R thu hẹp lại</code>).</li>
+<li><strong>Khi Bạn Thở Ra (Hãm Phanh Phó Giao Cảm Phế Vị):</strong> Cơ hoành thư giãn và nâng vòm lên trên, làm tăng áp suất khoang ngực. Huyết áp động mạch tăng nhẹ, kích hoạt các <strong>thụ thể áp suất (baroreceptors)</strong> ở cung động mạch chủ và xoang cảnh truyền tín hiệu qua <strong>Dây thần kinh Phế vị (Vagus Nerve)</strong>. Dây phế vị tiết ra chất dẫn truyền <strong>acetylcholine</strong> lên nút tạo nhịp của tim, lập tức làm nhịp tim chậm lại (<code>khoảng cách R-R giãn rộng ra</code>).</li>
+</ul>
+<figure class="article-inline-diagram">
+  <img src="../images/DM_RC_01_figure.jpg" alt="Bản ghi Điện tâm đồ ECG lâm sàng thể hiện hiện tượng Loạn nhịp xoang hô hấp RSA" loading="lazy">
+  <figcaption>📊 <strong>Loạn Nhịp Xoang Hô Hấp (RSA) Trên Điện Tâm Đồ Lâm Sàng:</strong> Hãy quan sát cách các đỉnh sóng R xếp sát nhau hơn trong pha hít vào (nhịp mạch nhanh hơn) và giãn cách rộng ra trong pha thở ra (nhịp mạch chậm lại nhờ Dây thần kinh Phế vị). Độ giãn nở từng nhịp này chính là chỉ số HRV cao mà đồng hồ thông minh của bạn ghi nhận! <a href="https://commons.wikimedia.org/wiki/File:Respiratory_sinus_arrhythmia_with_RBBB_(male,_21).jpg" target="_blank" rel="noopener">Nguồn Ảnh Gốc: Wikimedia Commons ↗</a></figcaption>
+</figure>
+
+<hr />
+<h2>Điều Kỳ Diệu Của Tần Số 0.1 Hz: Tại Sao 5.5 Nhịp Thở Mỗi Phút Là Tần Số Cộng Hưởng?</h2>
+<p>Trong một ngày làm việc bận rộn, hầu hết người trưởng thành thở từ <strong>14 đến 18 nhịp mỗi phút</strong> (khoảng 3.5 đến 4 giây cho một chu kỳ thở), thường là thở nông bằng ngực trên. Ở tốc độ thở nhanh đó, sóng nhịp tim và sóng huyết áp bị lệch pha nhau, khiến biên độ HRV bị nén thấp.</p>
+<p>Tuy nhiên, các nhà khoa học phản hồi sinh học tim mạch (<strong>Lehrer &amp; Gevirtz, 2014</strong>; <strong>Steffen et al., 2017</strong>) đã khám phá ra rằng hệ thống tim mạch của con người có một tần số cộng hưởng điều hòa tự nhiên ở mức <strong>0.1 Hertz (Hz)</strong>—tương đương với <strong>1 chu kỳ thở mỗi 10 đến 11 giây</strong>, hay khoảng <strong>5.5 đến 6 nhịp thở mỗi phút</strong>.</p>
+<p>Khi bạn làm chậm nhịp thở về mức <strong>5.5 giây hít vào + 5.5 giây thở ra</strong>:
+1. <strong>Đồng Bộ Hóa Hô Hấp Và Phản Xạ Áp Thụ Quan (Baroreflex):</strong> Sóng hô hấp của bạn khớp pha hoàn hảo với chu kỳ dao động huyết áp tự nhiên dài 10 giây của cơ thể (<strong>sóng Mayer</strong>).
+2. <strong>Biên Độ Dao Động HRV Đạt Cực Đại:</strong> Thay vì nhịp tim chỉ chênh lệch <code>3–4 bpm</code> giữa lúc hít vào và thở ra, biên độ dao động nhịp tim của bạn mở rộng lên tới <strong><code>15–25+ bpm</code></strong> giữa đỉnh pha hít vào và đáy pha thở ra!
+3. <strong>Rèn Luyện Độ Nhạy Thụ Thể Áp Suất:</strong> Giống như nâng tạ giúp tăng sức mạnh cơ xương, việc tập thở cộng hưởng hàng ngày giúp rèn luyện các thụ thể áp suất động mạch và dây thần kinh phế vị, nâng cao trương lực phó giao cảm nền và hỗ trợ hạ huyết áp ổn định (<strong>Steffen et al., 2017</strong>).</p>
+<hr />
+<h2>So Sánh 3 Giao Thức Hơi Thở Lâm Sàng Trên Thiết Bị Đeo</h2>
+<p>Trong một thử nghiệm lâm sàng ngẫu nhiên có đối chứng nổi tiếng tại <strong>Trường Y Đại học Stanford</strong> đăng trên tạp chí <em>Cell Reports Medicine</em> (<strong>Balban et al., 2023</strong>), Tiến sĩ Andrew Huberman và Tiến sĩ David Spiegel đã trang bị vòng đeo <strong>WHOOP</strong> cho người tham gia để so sánh các bài tập thở 5 phút mỗi ngày với phương pháp thiền chánh niệm. Kết quả chứng minh rằng các bài tập thở chủ động—đặc biệt là thở kéo dài pha thở ra—vượt trội hơn hẳn thiền định trong việc hạ tần số hô hấp, cải thiện tâm trạng và cân bằng thần kinh tự chủ:</p>
+<table>
+<thead>
+<tr>
+<th style="text-align: left;">Giao Thức Hơi Thở</th>
+<th style="text-align: left;">Tỷ Lệ Hít Vào : Nín Thở : Thở Ra</th>
+<th style="text-align: left;">Thời Điểm Áp Dụng Tốt Nhất</th>
+<th style="text-align: left;">Tác Động Lên Hệ Thần Kinh Tự Chủ &amp; Thiết Bị Đeo</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="text-align: left;"><strong>1. Thở Cộng Hưởng Điều Hòa (0.1 Hz)</strong></td>
+<td style="text-align: left;"><strong>5.5s Hít : 0s Nín : 5.5s Thở</strong> (~5.5 nhịp/phút)</td>
+<td style="text-align: left;">Sáng sớm sau khi dậy, trước khi ngủ hoặc tập luyện dây phế vị 10 phút/ngày</td>
+<td style="text-align: left;">Tối đa hóa biên độ sóng RMSSD (HRV) theo thời gian thực và đồng bộ hóa phản xạ huyết áp.</td>
+</tr>
+<tr>
+<td style="text-align: left;"><strong>2. Tiếng Thở Dài Sinh Lý (Physiological Sigh)</strong></td>
+<td style="text-align: left;"><strong>Hít Kép Qua Mũi (4s + 1s nhấp thêm) : Thở Ra Chậm 7s</strong></td>
+<td style="text-align: left;">Khi căng thẳng cấp tính, hạ nhịp tim nhanh sau tập hoặc lo âu giữa ngày</td>
+<td style="text-align: left;">Mở lại các phế nang bị xẹp (thải nhanh <code>CO₂</code>) và kích hoạt phanh phế vị làm giảm nhịp tim tức thì.</td>
+</tr>
+<tr>
+<td style="text-align: left;"><strong>3. Thở Hộp Chiến Thuật (Box Breathing)</strong></td>
+<td style="text-align: left;"><strong>4s Hít : 4s Nín : 4s Thở : 4s Nín</strong> (3.75 nhịp/phút)</td>
+<td style="text-align: left;">Trước buổi thuyết trình quan trọng, kỳ thi hoặc trước giờ thi đấu thể thao</td>
+<td style="text-align: left;">Tăng khả năng dung nạp CO₂, kết hợp sự tập trung tỉnh táo với nhịp tim bình tĩnh.</td>
+</tr>
+</tbody>
+</table>
+<hr />
+<h2>Hướng Dẫn Từng Bước: Giao Thức Thở Cộng Hưởng 5.5 Giây Trong 10 Phút</h2>
+<p>Bạn có thể kiểm chứng hiệu quả ngay hôm nay bằng cách mở màn hình <strong>Đo Căng Thẳng / Bài Tập Thở (Stress Monitor / Breathwork)</strong> trực tiếp trên đồng hồ <strong>Garmin</strong>, <strong>Oura</strong>, <strong>WHOOP</strong>, hoặc <strong>Apple Watch</strong>:</p>
+<ol>
+<li><strong>Thiết Lập Tư Thế:</strong> Ngồi thẳng lưng thoải mái trên ghế hoặc nằm ngửa thư giãn trên giường trước khi ngủ. Thả lỏng cơ hàm và hạ nhẹ hai vai. Đặt một bàn tay lên vùng bụng dưới/khung sườn.</li>
+<li><strong>Hít Vào Bằng Mũi Trong 5.5 Giây:</strong> Hít vào nhẹ nhàng, êm ái qua mũi trong <strong>5.5 giây</strong>, cảm nhận khung sườn dưới và bụng phồng ra tự nhiên (<code>giãn nở cơ hoành 360 độ</code>) mà không cần nhô cao ngực hay gồng cổ. Bạn sẽ thấy nhịp tim trên đồng hồ nhích nhẹ lên.</li>
+<li><strong>Chuyển Pha Mượt Mà (Không Nín Thở):</strong> Không gồng giữ hơi hay khóa cổ họng ở đỉnh pha hít vào. Hãy để hơi thở chuyển chiều mượt mà như một con sóng biển.</li>
+<li><strong>Thở Ra Chậm Trong 5.5 Giây:</strong> Thở ra êm dịu qua mũi (hoặc mím nhẹ môi) trong <strong>5.5 giây</strong>, để khung sườn và thành bụng xẹp xuống tự nhiên. Quan sát nhịp tim trên đồng hồ hạ xuống rõ rệt trong 3 giây cuối của nhịp thở ra.</li>
+<li><strong>Hoàn Thành 50–55 Chu Kỳ (10 Phút Mỗi Ngày):</strong> Thực hành nhịp điệu này trong <strong>10 phút trước khi đi ngủ</strong> giúp chuyển hệ thần kinh tự chủ ra khỏi trạng thái căng thẳng giao cảm ban ngày, tạo đà cho nhịp tim ban đêm hạ nhanh xuống "Đường cong hình chiếc võng" ngay từ chu kỳ ngủ đầu tiên.</li>
+</ol>
+<hr />
+<h2>Tài Liệu Tham Khảo &amp; Nguồn Y Khoa</h2>
+<ol>
+<li><strong>Steffen, P. R., Austin, T., DeBarros, A., &amp; Brown, T. (2017).</strong> <em>The Impact of Resonance Frequency Breathing on Measures of Heart Rate Variability, Blood Pressure, and Mood.</em> Frontiers in Public Health, 5, 222. <a href="https://pubmed.ncbi.nlm.nih.gov/28890890/">Xem trên PubMed / NIH ↗</a></li>
+<li><strong>Balban, M. Y., Neri, E., Kogon, M. M., Weed, L., Nouriani, B., Jo, B., ... &amp; Huberman, A. D. (2023).</strong> <em>Brief structured respiration practices enhance mood and reduce physiological arousal.</em> Cell Reports Medicine, 4(1), 100895. <a href="https://pubmed.ncbi.nlm.nih.gov/36630953/">Xem trên PubMed / NIH ↗</a></li>
+<li><strong>Lehrer, P. M., &amp; Gevirtz, R. (2014).</strong> <em>Heart rate variability biofeedback: how and why does it work?</em> Frontiers in Psychology, 5, 756. <a href="https://pubmed.ncbi.nlm.nih.gov/25101026/">Xem trên PubMed / NIH ↗</a></li>
+<li><strong>WHOOP The Locker.</strong> <em>How to Increase HRV: Breathwork &amp; Autonomic Nervous System Training.</em> <a href="https://www.whoop.com/us/en/thelocker/increase-hrv-heart-rate-variability/">Xem trên WHOOP ↗</a></li>
+</ol>
+    </article>
+
+    <section class="canonical-citation-card">
+      <div class="citation-icon">📚</div>
+      <div class="citation-body">
+        <h4>Nguồn Tham Khảo Y Khoa & Nghiên Cứu Gốc</h4>
+        <p>Bài viết này được tổng hợp và kiểm chứng từ các nghiên cứu y sinh học, hướng dẫn lâm sàng và tài liệu khoa học thiết bị đeo của <strong>Frontiers in Public Health (Steffen et al., 2017) & Cell Reports Medicine (Balban et al., 2023)</strong>.</p>
+        <div class="citation-actions">
+          <a href="https://pubmed.ncbi.nlm.nih.gov/28890890/" target="_blank" rel="noopener noreferrer" class="btn-canonical-study">
+            Xem Nghiên Cứu Gốc / Bài Báo Khoa Học ↗
+          </a>
+        </div>
+      </div>
+    </section>
+
+    <nav class="post-pagination-nav">
+      
+    <a href="LM_RC_02.html?lang=vi" class="post-nav-btn prev">
+      <span class="nav-direction">← Bài viết trước</span>
+      <span class="nav-title">Nhịp Tim Nghỉ Ban Đêm (Overnight RHR): Mạch Đập Khi Ngủ Tiết Lộ Gì Về Thể Lực Và Mức Độ Phục Hồi?</span>
+    </a>
+      
+    <a href="DM_RC_02.html?lang=vi" class="post-nav-btn next">
+      <span class="nav-direction">Bài tiếp theo →</span>
+      <span class="nav-title">Phục Hồi Chủ Động (Active Recovery) So Với Nghỉ Thụ Động: Tại Sao Vận Động Nhẹ Zone 1 Giúp Tan Mỏi Cơ Nhanh Hơn Nằm Yên?</span>
+    </a>
+    </nav>
+
+    <section class="related-articles-section">
+      <div class="related-section-header">
+        <h3>Bài viết liên quan thuộc chủ đề Phục hồi</h3>
+      </div>
+      <div class="related-posts-grid">
+        
+        <a href="LM_RC_01.html?lang=vi" class="related-post-card">
+          <div class="related-post-img" style="background-image: url('../images/LM_RC_01_hero.jpg');">
+            <span class="related-post-badge" style="background: #ECFDF5; color: #059669;">
+              🔋 Phục hồi
+            </span>
+          </div>
+          <div class="related-post-info">
+            <h4 class="related-post-title">Giải Mã Biến Thiên Nhịp Tim (HRV): Cách Đọc Chỉ Số Phục Hồi Vàng Trên Thiết Bị Đeo</h4>
+            <p class="related-post-desc">Biến thiên nhịp tim (HRV) là chỉ số chuẩn vàng đánh giá mức độ sẵn sàng trên WHOOP, Oura, ...</p>
+            <div class="related-post-meta">
+              <span>⏱ 10 phút đọc</span>
+              <span>•</span>
+              <span>Learn more</span>
+            </div>
+          </div>
+        </a>
+        
+        <a href="LM_RC_02.html?lang=vi" class="related-post-card">
+          <div class="related-post-img" style="background-image: url('../images/LM_RC_02_hero.jpg');">
+            <span class="related-post-badge" style="background: #ECFDF5; color: #059669;">
+              🔋 Phục hồi
+            </span>
+          </div>
+          <div class="related-post-info">
+            <h4 class="related-post-title">Nhịp Tim Nghỉ Ban Đêm (Overnight RHR): Mạch Đập Khi Ngủ Tiết Lộ Gì Về Thể Lực Và Mức Độ Phục Hồi?</h4>
+            <p class="related-post-desc">Nhịp tim nghỉ ban đêm (Overnight RHR) là một trong những thước đo rõ ràng nhất về sức bền ...</p>
+            <div class="related-post-meta">
+              <span>⏱ 8 phút đọc</span>
+              <span>•</span>
+              <span>Learn more</span>
+            </div>
+          </div>
+        </a>
+        
+        <a href="DM_RC_02.html?lang=vi" class="related-post-card">
+          <div class="related-post-img" style="background-image: url('../images/DM_RC_02_hero.jpg');">
+            <span class="related-post-badge" style="background: #ECFDF5; color: #059669;">
+              🔋 Phục hồi
+            </span>
+          </div>
+          <div class="related-post-info">
+            <h4 class="related-post-title">Phục Hồi Chủ Động (Active Recovery) So Với Nghỉ Thụ Động: Tại Sao Vận Động Nhẹ Zone 1 Giúp Tan Mỏi Cơ Nhanh Hơn Nằm Yên?</h4>
+            <p class="related-post-desc">Khi đôi chân nặng trĩu sau buổi tập nặng và đồng hồ báo điểm phục hồi màu vàng hoặc đỏ, vi...</p>
+            <div class="related-post-meta">
+              <span>⏱ 8 phút đọc</span>
+              <span>•</span>
+              <span>Discover more</span>
+            </div>
+          </div>
+        </a>
+        
+      </div>
+    </section>
+
+    <div class="return-hub-cta">
+      <a href="../index.html?lang=vi" class="btn-return-hub">← Quay lại Trang chủ & Tìm kiếm</a>
+      <button onclick="window.scrollTo({top: 0, behavior: 'smooth'})" class="btn-scroll-top">↑ Lên đầu trang</button>
+    </div>
+  </main>
+
+  <!-- ========================================================= -->
+  <!-- ENGLISH ARTICLE CONTAINER                                 -->
+  <!-- ========================================================= -->
+  <main id="post-container-en" class="article-page-container hidden">
+    <nav class="article-breadcrumb">
+      <a href="../index.html?lang=en">Knowledge Hub</a>
+      <span class="sep">/</span>
+      <a href="../index.html?lang=en">Recovery</a>
+      <span class="sep">/</span>
+      <span class="current">Breathing for HRV</span>
+    </nav>
+
     <header class="article-page-header">
       <div class="article-badges-row">
         <span class="badge" style="background: #ECFDF5; color: #059669; font-weight: 700;">
@@ -52,109 +274,147 @@
         </span>
         <span class="badge badge-sub">Breathing for HRV</span>
         <span class="badge badge-type">Discover more</span>
-        <span class="article-read-time">⏱ 5 min read</span>
+        <span class="article-read-time">⏱ 8 min read</span>
       </div>
 
-      <h1 class="article-main-title">The 5.5-Second Coherence Breathing Protocol: Voluntarily Elevating Your HRV Baseline</h1>
-      
-      <p class="article-sapo-lead">A neuro-cardiology protocol to synchronize respiratory sinus arrhythmia with heart rate oscillations, stimulating the vagus nerve and boosting resting HRV.</p>
+      <h1 class="article-main-title">The 5.5-Second Resonance Breathing Protocol: How to Stimulate Your Vagus Nerve & Boost HRV</h1>
+      <p class="article-sapo-lead">Your breathing rate is the only remote control that directly steers your Autonomic Nervous System in real time. Learn the clinical neuro-cardiology behind Respiratory Sinus Arrhythmia (RSA), the 0.1 Hz resonance frequency, and how 10 minutes of 5.5-second breathing elevates your HRV.</p>
 
-      <!-- Featured Cover Hero Image -->
       <figure class="article-featured-hero">
-        <img src="https://images.unsplash.com/photo-1506126613408-eca07ce68773?auto=format&fit=crop&w=1200&q=80" alt="The 5.5-Second Coherence Breathing Protocol: Voluntarily Elevating Your HRV Baseline">
-        <figcaption>The 5.5-Second Coherence Breathing Protocol: Voluntarily Elevating Your HRV Baseline — Clinical Editorial Feature</figcaption>
+        <img src="../images/DM_RC_01_hero.jpg" alt="The 5.5-Second Resonance Breathing Protocol: How to Stimulate Your Vagus Nerve & Boost HRV">
+        <figcaption>The 5.5-Second Resonance Breathing Protocol: How to Stimulate Your Vagus Nerve & Boost HRV • <a href="https://images.unsplash.com/photo-1518241353330-0f7941c2d9b5?auto=format&fit=crop&w=1200&q=85" target="_blank" rel="noopener noreferrer" class="img-source-badge">Verified Original Photo Source (Unsplash) ↗</a></figcaption>
       </figure>
 
-      <!-- Editorial & Clinical Metadata Card -->
       <div class="article-metadata-card">
         <div class="meta-avatar">PV</div>
         <div class="meta-content">
           <div class="meta-author">Pulse & Vitality Clinical Editorial Board</div>
           <div class="meta-details">
-            <span>Clinical Wearable Reference: <strong>WHOOP The Locker / Stanford Medicine</strong></span>
+            <span>Clinical & Wearable Source: <strong>Frontiers in Public Health (Steffen et al., 2017) & Cell Reports Medicine (Balban et al., 2023)</strong></span>
             <span class="meta-dot">•</span>
             <span>Mapped Screen: <strong>Recovery Screen</strong></span>
             <span class="meta-dot">•</span>
-            <span>Metric: <strong>HRV Biohacking</strong></span>
+            <span>Biometric: <strong>HRV Biohacking</strong></span>
           </div>
         </div>
       </div>
     </header>
 
-    <!-- Key Actionable Takeaway Banner -->
     <section class="takeaway-banner-large">
       <div class="takeaway-banner-header">
         <span class="takeaway-icon-lg">💡</span>
         <span>Key Actionable Takeaway</span>
       </div>
-      <p>Practicing smooth 5.5-second inhales and 5.5-second exhales for 10 minutes daily trains your vagus nerve to permanently elevate your baseline HRV.</p>
+      <p>Breathing smoothly through your nose at a pace of 5.5-second inhales and 5.5-second exhales (~5.5 breaths per minute, or 0.1 Hz) synchronizes your heart rate oscillations with your blood pressure baroreceptors—maximizing vagus nerve stimulation and raising resting HRV.</p>
     </section>
 
-    <!-- Full Article Markdown Content -->
     <article class="article-rich-body">
-      
-        <figure class="article-inline-diagram">
-          <img src="https://images.unsplash.com/photo-1518611012118-696072aa579a?auto=format&fit=crop&w=800&q=80" alt="5.5-second inhalation and exhalation rhythm synchronizing pulmonary stretch receptors and heart rate." loading="lazy">
-          <figcaption>📊 <strong>Clinical Biometric Visual:</strong> 5.5-second inhalation and exhalation rhythm synchronizing pulmonary stretch receptors and heart rate.</figcaption>
-        </figure>
-        <h3>1. The Neuro-Cardiology of Respiration and Cardiac Rhythm</h3>
-<p>The heart and lungs are physically and neurologically linked through <strong>Respiratory Sinus Arrhythmia (RSA)</strong>. When you inhale, the diaphragm descends, reducing intrathoracic pressure; blood rushes into the right atrium, and the brain temporarily inhibits vagal tone, causing heart rate to accelerate. When you exhale, the diaphragm ascends, intrathoracic pressure rises, and the vagus nerve fires, slowing your pulse.</p>
-<h3>2. The Resonance Frequency: 0.1 Hz (5.5 Breaths Per Minute)</h3>
-<p>In biomedical research, the cardiovascular system exhibits a natural harmonic resonance frequency at approximately 0.1 Hz (6 cycles per minute, or 1 breath every 10 to 11 seconds). When your respiratory rate matches this 0.1 Hz frequency:<br />
-- Vascular baroreceptors (which monitor blood pressure) synchronize with cardiac pulse waves.<br />
-- Vagal nerve stimulation reaches its maximal amplitude.<br />
-- Beat-to-beat HRV oscillations expand to their highest physiological peaks.</p>
-<h3>3. The 5.5-Second Coherence Protocol</h3>
+      <h2>Your Breath Is the Remote Control for Your Heart Rate</h2>
+<p>Most functions of your <strong>Autonomic Nervous System (ANS)</strong>—like digestion, pupil dilation, sweat gland activity, and blood vessel constriction—happen completely outside your conscious control. However, nature gave humans one direct manual override switch: <strong>Respiration</strong>.</p>
+<p>Every single time you inhale and exhale, you trigger an immediate mechanical and neurological reflex in your chest called <strong>Respiratory Sinus Arrhythmia (RSA)</strong>. Despite the intimidating medical name, RSA is not an abnormal heart condition—it is the hallmark signature of a healthy, youthful, vagally responsive cardiovascular system!</p>
+<ul>
+<li><strong>When You Inhale (Sympathetic Acceleration):</strong> Your diaphragm contracts and moves downward, decreasing pressure inside your chest cavity. Blood rushes into the right atrium of your heart, and stretch receptors in your lungs temporarily <strong>turn off the Vagus Nerve brake</strong>. As a result, your heart rate immediately speeds up (<code>R-R intervals get shorter</code>).</li>
+<li><strong>When You Exhale (Parasympathetic Vagal Braking):</strong> Your diaphragm relaxes and domes upward, increasing intrathoracic pressure. Arterial blood pressure rises slightly, triggering <strong>baroreceptors</strong> in your aorta and carotid arteries to fire signals through the <strong>Vagus Nerve</strong>. Your vagus nerve releases <strong>acetylcholine</strong> onto your heart's pacemaker, immediately slowing your heart rate down (<code>R-R intervals get longer</code>).</li>
+</ul>
+<figure class="article-inline-diagram">
+  <img src="../images/DM_RC_01_figure.jpg" alt="Clinical ECG Strip Showing Respiratory Sinus Arrhythmia Heart Rate Changes With Breathing" loading="lazy">
+  <figcaption>📊 <strong>Respiratory Sinus Arrhythmia (RSA) on a Clinical ECG:</strong> Notice how the vertical R-wave spikes cluster closer together during inhalation (faster pulse) and spread wider apart during exhalation (slower pulse driven by the Vagus Nerve). This beat-to-beat expansion is literally what your smartwatch measures as high HRV! <a href="https://commons.wikimedia.org/wiki/File:Respiratory_sinus_arrhythmia_with_RBBB_(male,_21).jpg" target="_blank" rel="noopener">Original Image Source: Wikimedia Commons ↗</a></figcaption>
+</figure>
+
+<hr />
+<h2>The Magic of 0.1 Hz: Why 5.5 Breaths Per Minute Is the Resonance Frequency</h2>
+<p>On a typical busy workday, most adults breathe between <strong>14 and 18 times per minute</strong> (1 breath every 3.5 to 4 seconds), often shallowly from the upper chest. At that rapid pace, your heart rate and blood pressure waves are out of sync, keeping your HRV amplitude compressed.</p>
+<p>However, cardiovascular biofeedback researchers (<strong>Lehrer &amp; Gevirtz, 2014</strong>; <strong>Steffen et al., 2017</strong>) discovered that the human cardiovascular system has a natural harmonic resonance frequency of <strong>0.1 Hertz (Hz)</strong>—which equals <strong>1 breath cycle every 10 to 11 seconds</strong>, or roughly <strong>5.5 to 6 breaths per minute</strong>.</p>
+<p>When you slow your breathing down to <strong>5.5 seconds inhale + 5.5 seconds exhale</strong>:
+1. <strong>Respiratory and Baroreflex Synchronization:</strong> Your breathing wave aligns in 180-degree phase resonance with your body's natural 10-second blood pressure oscillation loop (<strong>Mayer waves</strong>).
+2. <strong>Maximal HRV Amplitude:</strong> Instead of your heart rate fluctuating by just <code>3–4 bpm</code> between inhale and exhale, your beat-to-beat oscillation expands to <strong><code>15–25+ bpm</code></strong> between the peak of your inhale and the trough of your exhale!
+3. <strong>Baroreceptor Conditioning:</strong> Just like lifting weights strengthens skeletal muscle, practicing resonance breathing exercises your arterial baroreceptors and vagus nerve, improving your resting autonomic tone and lowering blood pressure (<strong>Steffen et al., 2017</strong>).</p>
+<hr />
+<h2>Comparing 3 Clinical Breathwork Protocols on Your Wearable</h2>
+<p>In a landmark randomized controlled trial at <strong>Stanford University School of Medicine</strong> published in <em>Cell Reports Medicine</em> (<strong>Balban et al., 2023</strong>), Dr. Andrew Huberman and Dr. David Spiegel monitored participants using <strong>WHOOP</strong> straps to compare daily 5-minute breathwork protocols against mindfulness meditation. They proved that intentional breathwork—especially slow exhalation-focused breathing—significantly outperformed meditation for lowering respiratory rate and improving daily mood and autonomic balance:</p>
+<table>
+<thead>
+<tr>
+<th style="text-align: left;">Breathwork Protocol</th>
+<th style="text-align: left;">Inhale : Hold : Exhale Ratio</th>
+<th style="text-align: left;">Best Time to Use</th>
+<th style="text-align: left;">Primary Autonomic &amp; Wearable Effect</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="text-align: left;"><strong>1. Resonance Coherence Breathing (0.1 Hz)</strong></td>
+<td style="text-align: left;"><strong>5.5s Inhale : 0s Hold : 5.5s Exhale</strong> (~5.5 breaths/min)</td>
+<td style="text-align: left;">Morning baseline check, pre-sleep wind-down, or daily 10-min vagal training</td>
+<td style="text-align: left;">Maximizes real-time RMSSD (HRV) wave amplitude and synchronizes baroreceptor reflex.</td>
+</tr>
+<tr>
+<td style="text-align: left;"><strong>2. Physiological Sigh (Cyclic Sighing)</strong></td>
+<td style="text-align: left;"><strong>Double Nasal Inhale (4s + 1s top-up) : Slow 7s Exhale</strong></td>
+<td style="text-align: left;">Acute high stress, post-workout heart rate recovery, or mid-day anxiety</td>
+<td style="text-align: left;">Re-inflates collapsed lung alveoli (<code>CO₂</code> offload) and triggers rapid vagal heart rate deceleration.</td>
+</tr>
+<tr>
+<td style="text-align: left;"><strong>3. Box Breathing (Tactical Calm)</strong></td>
+<td style="text-align: left;"><strong>4s Inhale : 4s Hold : 4s Exhale : 4s Hold</strong> (3.75 breaths/min)</td>
+<td style="text-align: left;">Before a high-stakes presentation, exam, or athletic competition</td>
+<td style="text-align: left;">Stabilizes CO₂ tolerance and balances sympathetic focus with parasympathetic calm.</td>
+</tr>
+</tbody>
+</table>
+<hr />
+<h2>Step-by-Step: The 10-Minute 5.5-Second Coherence Protocol</h2>
+<p>You can test this directly today using the real-time <strong>Stress Monitor / Breathwork</strong> screen on your <strong>Garmin</strong>, <strong>Oura</strong>, <strong>WHOOP</strong>, or <strong>Apple Watch</strong>:</p>
 <ol>
-<li><strong>Postural Alignment:</strong> Sit upright with your spine elongated and shoulders completely relaxed. Place one hand on your lower abdomen.</li>
-<li><strong>Nasal Inhalation (5.5 Seconds):</strong> Inhale smoothly through your nose for a count of 5.5 seconds, expanding your lower belly and ribs without lifting your chest or tensing your neck.</li>
-<li><strong>Smooth Transition:</strong> Without pausing or holding your breath, immediately transition to exhalation.</li>
-<li><strong>Nasal/Pursed-Lip Exhalation (5.5 Seconds):</strong> Exhale slowly, gently, and completely over 5.5 seconds, feeling your abdominal wall retract.</li>
-<li><strong>Session Duration:</strong> Maintain this unbroken rhythm for 10 consecutive minutes daily (ideally upon waking or 30 minutes before sleep).</li>
+<li><strong>Postural Setup:</strong> Sit comfortably upright or lie flat on your back before sleep. Relax your jaw and drop your shoulders away from your ears. Place one hand lightly on your lower ribs/abdomen.</li>
+<li><strong>5.5-Second Nasal Inhale:</strong> Inhale silently and smoothly through your nose for <strong>5.5 seconds</strong>, allowing your lower ribs and belly to expand outward (<code>360-degree diaphragmatic expansion</code>) without heaving your upper chest. Notice your heart rate gently rise on your watch.</li>
+<li><strong>Seamless Turnaround (No Breath Hold):</strong> Do not pause or clamp your throat at the top of the inhale. Let the breath turn around like a smooth ocean wave.</li>
+<li><strong>5.5-Second Slow Exhale:</strong> Exhale softly through your nose (or lightly pursed lips) for <strong>5.5 seconds</strong>, letting your ribs and belly settle inward naturally. Watch your heart rate drop steadily during the final 3 seconds of the exhale.</li>
+<li><strong>Complete 50–55 Cycles (10 Minutes Daily):</strong> Practicing this rhythm for <strong>10 minutes before sleep</strong> shifts your autonomic nervous system out of daytime sympathetic stress so your overnight heart rate drops into its restorative "Hammock Curve" during your very first sleep cycle.</li>
 </ol>
-<h3>4. Measurable Clinical Outcomes</h3>
-<p>Controlled clinical trials demonstrate that 10 minutes of daily coherence breathing over 4 weeks produces a sustained 15%–25% increase in baseline resting RMSSD (HRV), lowers resting systolic blood pressure by 4–8 mmHg, and dampens diurnal cortisol output.</p>
+<hr />
+<h2>References &amp; Clinical Sources</h2>
+<ol>
+<li><strong>Steffen, P. R., Austin, T., DeBarros, A., &amp; Brown, T. (2017).</strong> <em>The Impact of Resonance Frequency Breathing on Measures of Heart Rate Variability, Blood Pressure, and Mood.</em> Frontiers in Public Health, 5, 222. <a href="https://pubmed.ncbi.nlm.nih.gov/28890890/">Read on PubMed / NIH ↗</a></li>
+<li><strong>Balban, M. Y., Neri, E., Kogon, M. M., Weed, L., Nouriani, B., Jo, B., ... &amp; Huberman, A. D. (2023).</strong> <em>Brief structured respiration practices enhance mood and reduce physiological arousal.</em> Cell Reports Medicine, 4(1), 100895. <a href="https://pubmed.ncbi.nlm.nih.gov/36630953/">Read on PubMed / NIH ↗</a></li>
+<li><strong>Lehrer, P. M., &amp; Gevirtz, R. (2014).</strong> <em>Heart rate variability biofeedback: how and why does it work?</em> Frontiers in Psychology, 5, 756. <a href="https://pubmed.ncbi.nlm.nih.gov/25101026/">Read on PubMed / NIH ↗</a></li>
+<li><strong>WHOOP The Locker.</strong> <em>How to Increase HRV: Breathwork &amp; Autonomic Nervous System Training.</em> <a href="https://www.whoop.com/us/en/thelocker/increase-hrv-heart-rate-variability/">Read on WHOOP ↗</a></li>
+</ol>
     </article>
 
-    <!-- Canonical Source Reference Box -->
     <section class="canonical-citation-card">
       <div class="citation-icon">📚</div>
       <div class="citation-body">
         <h4>Clinical Reference & Scientific Backing</h4>
-        <p>This article is synthesized from peer-reviewed physiology, clinical guidelines, and wearable biometric methodologies developed by <strong>WHOOP The Locker / Stanford Medicine</strong>.</p>
+        <p>This article is synthesized from peer-reviewed medical literature, clinical guidelines, and wearable biometric validation studies from <strong>Frontiers in Public Health (Steffen et al., 2017) & Cell Reports Medicine (Balban et al., 2023)</strong>.</p>
         <div class="citation-actions">
-          <a href="https://www.whoop.com/us/en/thelocker/increase-hrv-heart-rate-variability/" target="_blank" rel="noopener noreferrer" class="btn-canonical-study">
-            Read Canonical Study / Original Article ↗
+          <a href="https://pubmed.ncbi.nlm.nih.gov/28890890/" target="_blank" rel="noopener noreferrer" class="btn-canonical-study">
+            Read Canonical Study / Original Source ↗
           </a>
         </div>
       </div>
     </section>
 
-    <!-- Next / Previous Article Navigation -->
     <nav class="post-pagination-nav">
       
-    <a href="LM_RC_02.html" class="post-nav-btn prev">
+    <a href="LM_RC_02.html?lang=en" class="post-nav-btn prev">
       <span class="nav-direction">← Previous Article</span>
-      <span class="nav-title">Overnight Resting Heart Rate (RHR): Your Window into Myocardial Efficiency</span>
+      <span class="nav-title">Overnight Resting Heart Rate (RHR): What Your Sleeping Pulse Reveals About Fitness and Recovery</span>
     </a>
-    
       
-    <a href="DM_RC_02.html" class="post-nav-btn next">
+    <a href="DM_RC_02.html?lang=en" class="post-nav-btn next">
       <span class="nav-direction">Next Article →</span>
-      <span class="nav-title">Active Recovery vs. Passive Rest: Accelerating Cellular Repair and Metabolic Clearance</span>
+      <span class="nav-title">Active Recovery vs. Passive Rest: Why Zone 1 Movement Clears Fatigue Faster Than the Couch</span>
     </a>
-    
     </nav>
 
-    <!-- Related Articles Section -->
     <section class="related-articles-section">
       <div class="related-section-header">
         <h3>Related Reads in Recovery</h3>
-        <a href="../index.html?cat=Recovery" class="view-all-link">View all Recovery articles →</a>
       </div>
       <div class="related-posts-grid">
         
-        <a href="LM_RC_01.html" class="related-post-card">
+        <a href="LM_RC_01.html?lang=en" class="related-post-card">
           <div class="related-post-img" style="background-image: url('../images/LM_RC_01_hero.jpg');">
             <span class="related-post-badge" style="background: #ECFDF5; color: #059669;">
               🔋 Recovery
@@ -171,34 +431,34 @@
           </div>
         </a>
         
-        <a href="LM_RC_02.html" class="related-post-card">
-          <div class="related-post-img" style="background-image: url('https://images.unsplash.com/photo-1510519138171-c70d76b640a2?auto=format&fit=crop&w=1200&q=80');">
+        <a href="LM_RC_02.html?lang=en" class="related-post-card">
+          <div class="related-post-img" style="background-image: url('../images/LM_RC_02_hero.jpg');">
             <span class="related-post-badge" style="background: #ECFDF5; color: #059669;">
               🔋 Recovery
             </span>
           </div>
           <div class="related-post-info">
-            <h4 class="related-post-title">Overnight Resting Heart Rate (RHR): Your Window into Myocardial Efficiency</h4>
-            <p class="related-post-desc">How nocturnal resting pulse reflects stroke volume, myocardial efficiency, and acute syste...</p>
+            <h4 class="related-post-title">Overnight Resting Heart Rate (RHR): What Your Sleeping Pulse Reveals About Fitness and Recovery</h4>
+            <p class="related-post-desc">Your overnight Resting Heart Rate (RHR) is one of the clearest indicators of cardiovascula...</p>
             <div class="related-post-meta">
-              <span>⏱ 3 min</span>
+              <span>⏱ 8 min</span>
               <span>•</span>
               <span>Learn more</span>
             </div>
           </div>
         </a>
         
-        <a href="DM_RC_02.html" class="related-post-card">
-          <div class="related-post-img" style="background-image: url('https://images.unsplash.com/photo-1544367567-0f2fcb009e0b?auto=format&fit=crop&w=1200&q=80');">
+        <a href="DM_RC_02.html?lang=en" class="related-post-card">
+          <div class="related-post-img" style="background-image: url('../images/DM_RC_02_hero.jpg');">
             <span class="related-post-badge" style="background: #ECFDF5; color: #059669;">
               🔋 Recovery
             </span>
           </div>
           <div class="related-post-info">
-            <h4 class="related-post-title">Active Recovery vs. Passive Rest: Accelerating Cellular Repair and Metabolic Clearance</h4>
-            <p class="related-post-desc">The biological mechanics of why low-intensity Zone 1 movement restores muscular and autono...</p>
+            <h4 class="related-post-title">Active Recovery vs. Passive Rest: Why Zone 1 Movement Clears Fatigue Faster Than the Couch</h4>
+            <p class="related-post-desc">When your legs feel heavy and your wearable shows a yellow or red recovery score, lying mo...</p>
             <div class="related-post-meta">
-              <span>⏱ 4 min</span>
+              <span>⏱ 8 min</span>
               <span>•</span>
               <span>Discover more</span>
             </div>
@@ -208,32 +468,62 @@
       </div>
     </section>
 
-    <!-- Return to Hub Footer CTA -->
     <div class="return-hub-cta">
-      <a href="../index.html" class="btn-return-hub">
-        ← Back to Knowledge Hub & Search
-      </a>
-      <button onclick="window.scrollTo({ top: 0, behavior: 'smooth' })" class="btn-scroll-top">
-        ↑ Back to Top
-      </button>
+      <a href="../index.html?lang=en" class="btn-return-hub">← Back to Knowledge Hub & Search</a>
+      <button onclick="window.scrollTo({top: 0, behavior: 'smooth'})" class="btn-scroll-top">↑ Back to Top</button>
     </div>
   </main>
 
-  <!-- Site Footer -->
   <footer class="site-footer">
     <div class="footer-container">
-      <p>© 2026 Pulse & Vitality Performance Engine • Built for iOS / Android Wearable Integration</p>
-      <p class="disclaimer">Clinical data curated from Flo Health, Clue, Natural Cycles, Fitbit Blog, WHOOP The Locker, Maven Clinic, and Dr. Kegel.</p>
+      <p>© 2026 Pulse & Vitality Performance Engine • Evidence-Based Wearable Health Hub (EN / VI)</p>
     </div>
   </footer>
 
   <script>
+    function switchPostLang(lang) {
+      localStorage.setItem('pv_lang', lang);
+      const viContainer = document.getElementById('post-container-vi');
+      const enContainer = document.getElementById('post-container-en');
+      const btnVi = document.getElementById('post-lang-vi');
+      const btnEn = document.getElementById('post-lang-en');
+      const brandSub = document.getElementById('post-brand-subtitle');
+      const backBtn = document.getElementById('post-back-btn');
+
+      if (lang === 'en') {
+        viContainer.classList.add('hidden');
+        enContainer.classList.remove('hidden');
+        btnVi.classList.remove('active');
+        btnEn.classList.add('active');
+        brandSub.textContent = 'Health & Human Performance Knowledge Hub';
+        backBtn.textContent = '← Back to All Articles';
+        backBtn.href = '../index.html?lang=en';
+        document.documentElement.lang = 'en';
+      } else {
+        enContainer.classList.add('hidden');
+        viContainer.classList.remove('hidden');
+        btnEn.classList.remove('active');
+        btnVi.classList.add('active');
+        brandSub.textContent = 'Cẩm Nang Khoa Học Sức Khỏe & Thiết Bị Đeo';
+        backBtn.textContent = '← Quay lại Danh sách';
+        backBtn.href = '../index.html?lang=vi';
+        document.documentElement.lang = 'vi';
+      }
+    }
+
+    (function initLang() {
+      const params = new URLSearchParams(window.location.search);
+      const qLang = params.get('lang');
+      const saved = qLang || localStorage.getItem('pv_lang') || 'vi';
+      switchPostLang(saved === 'en' ? 'en' : 'vi');
+    })();
+
     window.addEventListener('scroll', () => {
       const winScroll = document.body.scrollTop || document.documentElement.scrollTop;
       const height = document.documentElement.scrollHeight - document.documentElement.clientHeight;
-      if (height > 0) {
-        const scrolled = (winScroll / height) * 100;
-        document.getElementById('reading-progress').style.width = scrolled + '%';
+      const bar = document.getElementById('reading-progress');
+      if (height > 0 && bar) {
+        bar.style.width = ((winScroll / height) * 100) + '%';
       }
     });
   </script>

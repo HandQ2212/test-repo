@@ -14,6 +14,15 @@ category_icons = {
     "Men's Health": "💪"
 }
 
+category_vi = {
+    "Sleep": "Giấc ngủ",
+    "Recovery": "Phục hồi",
+    "Activity": "Vận động",
+    "Health & Wellness": "Sức khỏe toàn diện",
+    "Women's Health": "Sức khỏe Nữ giới",
+    "Men's Health": "Sức khỏe Nam giới"
+}
+
 category_colors = {
     "Sleep": ("#EDE9FE", "#6D28D9", "#8B5CF6"),
     "Recovery": ("#ECFDF5", "#059669", "#10B981"),
@@ -30,26 +39,17 @@ def resolve_post_img_path(path_str):
         return "../" + path_str
     return path_str
 
-os.makedirs("Health_Blog_Demo/posts", exist_ok=True)
-
-for i, art in enumerate(articles):
-    cat = art["category"]
-    icon = category_icons.get(cat, "📄")
-    bg_pill, text_pill, _ = category_colors.get(cat, ("#F1F5F9", "#334155", "#64748B"))
-    
-    # Pre-render markdown to HTML
+def render_article_markdown(md_text, inline_img_src, inline_caption, inline_source_url, lang="en"):
     body_html = markdown.markdown(
-        art["content"],
-        extensions=['extra', 'tables', 'nl2br', 'sane_lists']
+        md_text,
+        extensions=['extra', 'tables', 'sane_lists']
     )
-    
-    # Inject Inline Diagram only if not already embedded in the markdown content
-    if "article-inline-diagram" not in body_html and art.get("inline_image"):
-        inline_img_src = resolve_post_img_path(art["inline_image"])
+    if "article-inline-diagram" not in body_html and inline_img_src:
+        src_label = "Original Scientific Figure Source ↗" if lang == "en" else "Link sơ đồ y khoa gốc (Wikimedia Commons) ↗"
         inline_diagram_html = f"""
         <figure class="article-inline-diagram">
-          <img src="{inline_img_src}" alt="{art.get('inline_caption', '')}" loading="lazy">
-          <figcaption>📊 <strong>Clinical Biometric Visual:</strong> {art.get('inline_caption', '')}</figcaption>
+          <img src="{inline_img_src}" alt="{inline_caption}" loading="lazy">
+          <figcaption>📊 <strong>{inline_caption}</strong> <a href="{inline_source_url}" target="_blank" rel="noopener noreferrer" class="img-source-badge">({src_label})</a></figcaption>
         </figure>
         """
         if "</h2>" in body_html:
@@ -62,28 +62,56 @@ for i, art in enumerate(articles):
         else:
             body_html = inline_diagram_html + body_html
 
-    # Convert any embedded src="images/..." to src="../images/..." for standalone posts inside posts/
     body_html = body_html.replace('src="images/', 'src="../images/')
-    
+    return body_html
+
+os.makedirs("Health_Blog_Demo/posts", exist_ok=True)
+
+for i, art in enumerate(articles):
+    cat = art["category"]
+    cat_vi_name = category_vi.get(cat, cat)
+    icon = category_icons.get(cat, "📄")
+    bg_pill, text_pill, _ = category_colors.get(cat, ("#F1F5F9", "#334155", "#64748B"))
+
+    title_en = art["title"]
+    title_vi = art.get("title_vi", title_en)
+    desc_en = art["description"]
+    desc_vi = art.get("description_vi", desc_en)
+    takeaway_en = art["takeaway"]
+    takeaway_vi = art.get("takeaway_vi", takeaway_en)
+    readtime_en = art["reading_time"]
+    readtime_vi = art.get("reading_time_vi", readtime_en)
+    caption_en = art.get("inline_caption", "")
+    caption_vi = art.get("inline_caption_vi", caption_en)
+
     hero_img_src = resolve_post_img_path(art.get("hero_image", ""))
-    
-    # Previous and Next articles
+    hero_source_url = art.get("hero_image_source_url", hero_img_src)
+    inline_img_src = resolve_post_img_path(art.get("inline_image", ""))
+    inline_source_url = art.get("inline_image_source_url", inline_img_src)
+
+    body_html_en = render_article_markdown(art["content"], inline_img_src, caption_en, inline_source_url, "en")
+    body_html_vi = render_article_markdown(art.get("content_vi", art["content"]), inline_img_src, caption_vi, inline_source_url, "vi")
+
     prev_art = articles[i - 1] if i > 0 else None
     next_art = articles[i + 1] if i < len(articles) - 1 else None
-    
-    # Related articles
+
     related = [a for a in articles if a["category"] == cat and a["id"] != art["id"]][:3]
     if len(related) < 3:
         others = [a for a in articles if a["id"] != art["id"] and a not in related]
         related.extend(others[:3 - len(related)])
-        
-    related_html_cards = ""
+
+    related_cards_en = ""
+    related_cards_vi = ""
     for rel in related:
         rel_icon = category_icons.get(rel["category"], "📄")
         rel_bg, rel_text, _ = category_colors.get(rel["category"], ("#F1F5F9", "#334155", "#64748B"))
         rel_hero = resolve_post_img_path(rel.get("hero_image", ""))
-        related_html_cards += f"""
-        <a href="{rel['id']}.html" class="related-post-card">
+        rel_cat_vi = category_vi.get(rel["category"], rel["category"])
+        rel_title_vi = rel.get("title_vi", rel["title"])
+        rel_desc_vi = rel.get("description_vi", rel["description"])
+
+        related_cards_en += f"""
+        <a href="{rel['id']}.html?lang=en" class="related-post-card">
           <div class="related-post-img" style="background-image: url('{rel_hero}');">
             <span class="related-post-badge" style="background: {rel_bg}; color: {rel_text};">
               {rel_icon} {rel['category']}
@@ -100,68 +128,189 @@ for i, art in enumerate(articles):
           </div>
         </a>
         """
+        related_cards_vi += f"""
+        <a href="{rel['id']}.html?lang=vi" class="related-post-card">
+          <div class="related-post-img" style="background-image: url('{rel_hero}');">
+            <span class="related-post-badge" style="background: {rel_bg}; color: {rel_text};">
+              {rel_icon} {rel_cat_vi}
+            </span>
+          </div>
+          <div class="related-post-info">
+            <h4 class="related-post-title">{rel_title_vi}</h4>
+            <p class="related-post-desc">{rel_desc_vi[:90]}...</p>
+            <div class="related-post-meta">
+              <span>⏱ {rel.get('reading_time_vi', rel['reading_time'])}</span>
+              <span>•</span>
+              <span>{rel['type']}</span>
+            </div>
+          </div>
+        </a>
+        """
 
-    prev_button_html = f"""
-    <a href="{prev_art['id']}.html" class="post-nav-btn prev">
+    prev_en = f"""
+    <a href="{prev_art['id']}.html?lang=en" class="post-nav-btn prev">
       <span class="nav-direction">← Previous Article</span>
       <span class="nav-title">{prev_art['title']}</span>
-    </a>
-    """ if prev_art else '<div class="post-nav-placeholder"></div>'
+    </a>""" if prev_art else '<div class="post-nav-placeholder"></div>'
 
-    next_button_html = f"""
-    <a href="{next_art['id']}.html" class="post-nav-btn next">
+    next_en = f"""
+    <a href="{next_art['id']}.html?lang=en" class="post-nav-btn next">
       <span class="nav-direction">Next Article →</span>
       <span class="nav-title">{next_art['title']}</span>
-    </a>
-    """ if next_art else '<div class="post-nav-placeholder"></div>'
+    </a>""" if next_art else '<div class="post-nav-placeholder"></div>'
+
+    prev_vi = f"""
+    <a href="{prev_art['id']}.html?lang=vi" class="post-nav-btn prev">
+      <span class="nav-direction">← Bài viết trước</span>
+      <span class="nav-title">{prev_art.get('title_vi', prev_art['title'])}</span>
+    </a>""" if prev_art else '<div class="post-nav-placeholder"></div>'
+
+    next_vi = f"""
+    <a href="{next_art['id']}.html?lang=vi" class="post-nav-btn next">
+      <span class="nav-direction">Bài tiếp theo →</span>
+      <span class="nav-title">{next_art.get('title_vi', next_art['title'])}</span>
+    </a>""" if next_art else '<div class="post-nav-placeholder"></div>'
 
     html_page = f"""<!DOCTYPE html>
-<html lang="en">
+<html lang="vi">
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>{art['title']} — Pulse & Vitality Blog</title>
+  <title>{title_vi} | {title_en}</title>
   <link rel="stylesheet" href="../styles.css">
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
   <link href="https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:wght@400;500;600;700;800&family=Lora:ital,wght@0,400;0,500;0,600;1,400&display=swap" rel="stylesheet">
 </head>
 <body class="blog-post-page">
-  <!-- Reading Progress Bar -->
   <div class="reading-progress-container">
     <div id="reading-progress" class="reading-progress-bar"></div>
   </div>
 
-  <!-- Sticky Top Navigation -->
+  <!-- Sticky Top Navigation with Bilingual Switcher -->
   <header class="navbar post-navbar">
     <div class="nav-container">
       <a href="../index.html" class="brand" style="text-decoration: none;">
         <div class="brand-logo">⚡</div>
         <div class="brand-text">
           <span class="brand-title">PULSE & VITALITY</span>
-          <span class="brand-subtitle">Health & Human Performance Knowledge Hub</span>
+          <span class="brand-subtitle" id="post-brand-subtitle">Cẩm Nang Khoa Học Sức Khỏe & Thiết Bị Đeo</span>
         </div>
       </a>
       <div class="nav-actions">
-        <a href="../index.html" class="btn-back-hub">
-          ← Back to All Articles
+        <div class="lang-switch-group" role="group" aria-label="Language Switcher">
+          <button id="post-lang-vi" class="lang-btn active" onclick="switchPostLang('vi')">🇻🇳 Tiếng Việt</button>
+          <button id="post-lang-en" class="lang-btn" onclick="switchPostLang('en')">🇬🇧 English</button>
+        </div>
+        <a href="../index.html" class="btn-back-hub" id="post-back-btn">
+          ← Quay lại Danh sách
         </a>
       </div>
     </div>
   </header>
 
-  <!-- Main Article Layout -->
-  <main class="article-page-container">
-    <!-- Breadcrumb -->
+  <!-- ========================================================= -->
+  <!-- VIETNAMESE ARTICLE CONTAINER                              -->
+  <!-- ========================================================= -->
+  <main id="post-container-vi" class="article-page-container">
     <nav class="article-breadcrumb">
-      <a href="../index.html">Knowledge Hub</a>
+      <a href="../index.html?lang=vi">Trang chủ</a>
       <span class="sep">/</span>
-      <a href="../index.html?cat={cat}">{cat}</a>
+      <a href="../index.html?lang=vi">{cat_vi_name}</a>
       <span class="sep">/</span>
       <span class="current">{art['sub_topic']}</span>
     </nav>
 
-    <!-- Article Hero Header -->
+    <header class="article-page-header">
+      <div class="article-badges-row">
+        <span class="badge" style="background: {bg_pill}; color: {text_pill}; font-weight: 700;">
+          {icon} {cat_vi_name}
+        </span>
+        <span class="badge badge-sub">{art['sub_topic']}</span>
+        <span class="badge badge-type">{art['type']}</span>
+        <span class="article-read-time">⏱ {readtime_vi}</span>
+      </div>
+
+      <h1 class="article-main-title">{title_vi}</h1>
+      <p class="article-sapo-lead">{desc_vi}</p>
+
+      <figure class="article-featured-hero">
+        <img src="{hero_img_src}" alt="{title_vi}">
+        <figcaption>{title_vi} • <a href="{hero_source_url}" target="_blank" rel="noopener noreferrer" class="img-source-badge">Link ảnh gốc xác thực (Unsplash) ↗</a></figcaption>
+      </figure>
+
+      <div class="article-metadata-card">
+        <div class="meta-avatar">PV</div>
+        <div class="meta-content">
+          <div class="meta-author">Hội Đồng Biên Tập Y Khoa Pulse & Vitality</div>
+          <div class="meta-details">
+            <span>Nguồn nghiên cứu & Thiết bị: <strong>{art['source_name']}</strong></span>
+            <span class="meta-dot">•</span>
+            <span>Màn hình App: <strong>{art['screen']}</strong></span>
+            <span class="meta-dot">•</span>
+            <span>Chỉ số: <strong>{art['metric']}</strong></span>
+          </div>
+        </div>
+      </div>
+    </header>
+
+    <section class="takeaway-banner-large">
+      <div class="takeaway-banner-header">
+        <span class="takeaway-icon-lg">💡</span>
+        <span>Điểm Cốt Lõi & Hành Động Thực Tế</span>
+      </div>
+      <p>{takeaway_vi}</p>
+    </section>
+
+    <article class="article-rich-body">
+      {body_html_vi}
+    </article>
+
+    <section class="canonical-citation-card">
+      <div class="citation-icon">📚</div>
+      <div class="citation-body">
+        <h4>Nguồn Tham Khảo Y Khoa & Nghiên Cứu Gốc</h4>
+        <p>Bài viết này được tổng hợp và kiểm chứng từ các nghiên cứu y sinh học, hướng dẫn lâm sàng và tài liệu khoa học thiết bị đeo của <strong>{art['source_name']}</strong>.</p>
+        <div class="citation-actions">
+          <a href="{art['source_url']}" target="_blank" rel="noopener noreferrer" class="btn-canonical-study">
+            Xem Nghiên Cứu Gốc / Bài Báo Khoa Học ↗
+          </a>
+        </div>
+      </div>
+    </section>
+
+    <nav class="post-pagination-nav">
+      {prev_vi}
+      {next_vi}
+    </nav>
+
+    <section class="related-articles-section">
+      <div class="related-section-header">
+        <h3>Bài viết liên quan thuộc chủ đề {cat_vi_name}</h3>
+      </div>
+      <div class="related-posts-grid">
+        {related_cards_vi}
+      </div>
+    </section>
+
+    <div class="return-hub-cta">
+      <a href="../index.html?lang=vi" class="btn-return-hub">← Quay lại Trang chủ & Tìm kiếm</a>
+      <button onclick="window.scrollTo({{top: 0, behavior: 'smooth'}})" class="btn-scroll-top">↑ Lên đầu trang</button>
+    </div>
+  </main>
+
+  <!-- ========================================================= -->
+  <!-- ENGLISH ARTICLE CONTAINER                                 -->
+  <!-- ========================================================= -->
+  <main id="post-container-en" class="article-page-container hidden">
+    <nav class="article-breadcrumb">
+      <a href="../index.html?lang=en">Knowledge Hub</a>
+      <span class="sep">/</span>
+      <a href="../index.html?lang=en">{cat}</a>
+      <span class="sep">/</span>
+      <span class="current">{art['sub_topic']}</span>
+    </nav>
+
     <header class="article-page-header">
       <div class="article-badges-row">
         <span class="badge" style="background: {bg_pill}; color: {text_pill}; font-weight: 700;">
@@ -169,114 +318,134 @@ for i, art in enumerate(articles):
         </span>
         <span class="badge badge-sub">{art['sub_topic']}</span>
         <span class="badge badge-type">{art['type']}</span>
-        <span class="article-read-time">⏱ {art['reading_time']} read</span>
+        <span class="article-read-time">⏱ {readtime_en} read</span>
       </div>
 
-      <h1 class="article-main-title">{art['title']}</h1>
-      
-      <p class="article-sapo-lead">{art['description']}</p>
+      <h1 class="article-main-title">{title_en}</h1>
+      <p class="article-sapo-lead">{desc_en}</p>
 
-      <!-- Featured Cover Hero Image -->
       <figure class="article-featured-hero">
-        <img src="{hero_img_src}" alt="{art['title']}">
-        <figcaption>{art['title']} — Clinical Editorial Feature</figcaption>
+        <img src="{hero_img_src}" alt="{title_en}">
+        <figcaption>{title_en} • <a href="{hero_source_url}" target="_blank" rel="noopener noreferrer" class="img-source-badge">Verified Original Photo Source (Unsplash) ↗</a></figcaption>
       </figure>
 
-      <!-- Editorial & Clinical Metadata Card -->
       <div class="article-metadata-card">
         <div class="meta-avatar">PV</div>
         <div class="meta-content">
           <div class="meta-author">Pulse & Vitality Clinical Editorial Board</div>
           <div class="meta-details">
-            <span>Clinical Wearable Reference: <strong>{art['source_name']}</strong></span>
+            <span>Clinical & Wearable Source: <strong>{art['source_name']}</strong></span>
             <span class="meta-dot">•</span>
             <span>Mapped Screen: <strong>{art['screen']}</strong></span>
             <span class="meta-dot">•</span>
-            <span>Metric: <strong>{art['metric']}</strong></span>
+            <span>Biometric: <strong>{art['metric']}</strong></span>
           </div>
         </div>
       </div>
     </header>
 
-    <!-- Key Actionable Takeaway Banner -->
     <section class="takeaway-banner-large">
       <div class="takeaway-banner-header">
         <span class="takeaway-icon-lg">💡</span>
         <span>Key Actionable Takeaway</span>
       </div>
-      <p>{art['takeaway']}</p>
+      <p>{takeaway_en}</p>
     </section>
 
-    <!-- Full Article Markdown Content -->
     <article class="article-rich-body">
-      {body_html}
+      {body_html_en}
     </article>
 
-    <!-- Canonical Source Reference Box -->
     <section class="canonical-citation-card">
       <div class="citation-icon">📚</div>
       <div class="citation-body">
         <h4>Clinical Reference & Scientific Backing</h4>
-        <p>This article is synthesized from peer-reviewed physiology, clinical guidelines, and wearable biometric methodologies developed by <strong>{art['source_name']}</strong>.</p>
+        <p>This article is synthesized from peer-reviewed medical literature, clinical guidelines, and wearable biometric validation studies from <strong>{art['source_name']}</strong>.</p>
         <div class="citation-actions">
           <a href="{art['source_url']}" target="_blank" rel="noopener noreferrer" class="btn-canonical-study">
-            Read Canonical Study / Original Article ↗
+            Read Canonical Study / Original Source ↗
           </a>
         </div>
       </div>
     </section>
 
-    <!-- Next / Previous Article Navigation -->
     <nav class="post-pagination-nav">
-      {prev_button_html}
-      {next_button_html}
+      {prev_en}
+      {next_en}
     </nav>
 
-    <!-- Related Articles Section -->
     <section class="related-articles-section">
       <div class="related-section-header">
         <h3>Related Reads in {cat}</h3>
-        <a href="../index.html?cat={cat}" class="view-all-link">View all {cat} articles →</a>
       </div>
       <div class="related-posts-grid">
-        {related_html_cards}
+        {related_cards_en}
       </div>
     </section>
 
-    <!-- Return to Hub Footer CTA -->
     <div class="return-hub-cta">
-      <a href="../index.html" class="btn-return-hub">
-        ← Back to Knowledge Hub & Search
-      </a>
-      <button onclick="window.scrollTo({{ top: 0, behavior: 'smooth' }})" class="btn-scroll-top">
-        ↑ Back to Top
-      </button>
+      <a href="../index.html?lang=en" class="btn-return-hub">← Back to Knowledge Hub & Search</a>
+      <button onclick="window.scrollTo({{top: 0, behavior: 'smooth'}})" class="btn-scroll-top">↑ Back to Top</button>
     </div>
   </main>
 
-  <!-- Site Footer -->
   <footer class="site-footer">
     <div class="footer-container">
-      <p>© 2026 Pulse & Vitality Performance Engine • Built for iOS / Android Wearable Integration</p>
-      <p class="disclaimer">Clinical data curated from Flo Health, Clue, Natural Cycles, Fitbit Blog, WHOOP The Locker, Maven Clinic, and Dr. Kegel.</p>
+      <p>© 2026 Pulse & Vitality Performance Engine • Evidence-Based Wearable Health Hub (EN / VI)</p>
     </div>
   </footer>
 
   <script>
+    function switchPostLang(lang) {{
+      localStorage.setItem('pv_lang', lang);
+      const viContainer = document.getElementById('post-container-vi');
+      const enContainer = document.getElementById('post-container-en');
+      const btnVi = document.getElementById('post-lang-vi');
+      const btnEn = document.getElementById('post-lang-en');
+      const brandSub = document.getElementById('post-brand-subtitle');
+      const backBtn = document.getElementById('post-back-btn');
+
+      if (lang === 'en') {{
+        viContainer.classList.add('hidden');
+        enContainer.classList.remove('hidden');
+        btnVi.classList.remove('active');
+        btnEn.classList.add('active');
+        brandSub.textContent = 'Health & Human Performance Knowledge Hub';
+        backBtn.textContent = '← Back to All Articles';
+        backBtn.href = '../index.html?lang=en';
+        document.documentElement.lang = 'en';
+      }} else {{
+        enContainer.classList.add('hidden');
+        viContainer.classList.remove('hidden');
+        btnEn.classList.remove('active');
+        btnVi.classList.add('active');
+        brandSub.textContent = 'Cẩm Nang Khoa Học Sức Khỏe & Thiết Bị Đeo';
+        backBtn.textContent = '← Quay lại Danh sách';
+        backBtn.href = '../index.html?lang=vi';
+        document.documentElement.lang = 'vi';
+      }}
+    }}
+
+    (function initLang() {{
+      const params = new URLSearchParams(window.location.search);
+      const qLang = params.get('lang');
+      const saved = qLang || localStorage.getItem('pv_lang') || 'vi';
+      switchPostLang(saved === 'en' ? 'en' : 'vi');
+    }})();
+
     window.addEventListener('scroll', () => {{
       const winScroll = document.body.scrollTop || document.documentElement.scrollTop;
       const height = document.documentElement.scrollHeight - document.documentElement.clientHeight;
-      if (height > 0) {{
-        const scrolled = (winScroll / height) * 100;
-        document.getElementById('reading-progress').style.width = scrolled + '%';
+      const bar = document.getElementById('reading-progress');
+      if (height > 0 && bar) {{
+        bar.style.width = ((winScroll / height) * 100) + '%';
       }}
     }});
   </script>
 </body>
 </html>
 """
-    file_path = f"Health_Blog_Demo/posts/{art['id']}.html"
-    with open(file_path, "w", encoding="utf-8") as out:
-        out.write(html_page)
+    with open(f"Health_Blog_Demo/posts/{art['id']}.html", "w", encoding="utf-8") as pf:
+        pf.write(html_page)
 
-print(f"Successfully generated all {len(articles)} standalone blog post pages!")
+print("Successfully generated all 28 bilingual (EN + VI) standalone blog post pages!")

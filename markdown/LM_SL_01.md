@@ -1,19 +1,115 @@
-# Understanding Your Sleep Score: How Wearables Measure Overnight Recovery
+# 🇻🇳 Giải Mã Điểm Giấc Ngủ (Sleep Score): Thiết Bị Đeo Đo Lường Phục Hồi Ban Đêm Như Thế Nào?
+# 🇬🇧 Understanding Your Sleep Score: How Wearables Measure Overnight Recovery
 
 - **Article ID:** `LM_SL_01`
 - **Category:** Sleep — Sleep Score Algorithm
 - **Content Type:** Learn more
 - **Mapped App Screen & Metric:** `Sleep Screen` (`Sleep Score (0–100)`)
-- **Reading Time:** 8 min
-- **Hero Cover Image:** `images/LM_SL_01_hero.jpg`
-- **Inline Infographic:** `images/LM_SL_01_diagram.svg`
-- **Primary Reference:** [Oura Ring & Garmin Health Science / Sleep Journal (Beattie et al., 2017)](https://ouraring.com/blog/sleep-score/)
+- **Reading Time:** 8 phút đọc / 8 min
+- **Local Hero Photo:** `images/LM_SL_01_hero.jpg` ([Original Photo Source ↗](https://images.unsplash.com/photo-1541781774459-bb2af2f05b55?auto=format&fit=crop&w=1200&q=85))
+- **Local Medical Figure:** `images/LM_SL_01_figure.jpg` ([Original Wikimedia Commons Source ↗](https://commons.wikimedia.org/wiki/File:Polysomnography_model.jpg))
+- **Primary Clinical & Wearable Source:** [Oura Ring & Garmin Health Science / Sleep Journal (Beattie et al., 2017)](https://pubmed.ncbi.nlm.nih.gov/28960186/)
+
+---
+
+## 🇻🇳 BẢN TIẾNG VIỆT
+
+> **Tóm tắt:** Mỗi buổi sáng, đồng hồ thông minh hoặc nhẫn thông minh tổng hợp hàng giờ dữ liệu nhịp tim, HRV, chuyển động và nhịp thở thành một con số duy nhất từ 0 đến 100. Bài viết này giải thích cách Oura, Garmin và WHOOP tính toán Điểm Giấc Ngủ (Sleep Score) và cách đọc biểu đồ nhịp tim ban đêm chuẩn khoa học.
+
+> 💡 **Điểm Cốt Lõi & Hành Động Thực Tế:** Đừng chỉ nhìn vào tổng số giờ nằm trên giường. Điểm Giấc Ngủ phục hồi tối ưu (85+) phụ thuộc lớn vào Hiệu suất giấc ngủ (≥ 85%), thời điểm Nhịp tim nghỉ ban đêm chạm đáy (Nadir) sớm hay muộn, và việc duy trì giờ thức dậy ổn định trong khoảng ±30 phút mỗi ngày.
+
+## Tại Sao Nằm Trên Giường 8 Tiếng Không Đồng Nghĩa Với 8 Tiếng Ngủ Phục Hồi?
+
+Nếu bạn từng nằm trên giường đủ 8 tiếng nhưng vẫn thức dậy với cảm giác uể oải—và khi mở ứng dụng sức khỏe chỉ thấy **Điểm Giấc Ngủ (Sleep Score) đạt 68**—bạn đã trực tiếp trải nghiệm sự khác biệt cốt lõi giữa *Tổng thời gian nằm trên giường (Time in Bed)* và *Chất lượng giấc ngủ phục hồi thực sự (Restorative Sleep Quality)*.
+
+Các dòng đồng hồ và nhẫn thông minh hiện đại (như **Oura Ring**, **Garmin Firstbeat Analytics**, **WHOOP**, và **Fitbit**) không còn hoạt động như những chiếc đồng hồ bấm giờ đơn thuần. Trong suốt lúc bạn ngủ, thiết bị liên tục thu thập sóng mạch quang học, biến thiên nhịp tim từng nhịp (HRV), tần số hô hấp, vi chuyển động cổ tay và nhiệt độ da ngoại vi. Vào buổi sáng, thuật toán tổng hợp toàn bộ tín hiệu sinh trắc học này thành một **Điểm Giấc Ngủ từ 0 đến 100**, trả lời một câu hỏi thực tế: *Cơ thể và não bộ của bạn đã thực sự phục hồi tốt đến đâu vào đêm qua?*
+
+<figure class="article-inline-diagram">
+  <img src="images/LM_SL_01_figure.jpg" alt="Mô hình đo đa ký giấc ngủ Polysomnography lâm sàng so với thiết bị đeo thông minh" loading="lazy">
+  <figcaption>📊 <strong>Từ Phòng Thí Nghiệm Giấc Ngủ Đến Thiết Bị Đeo:</strong> Phép đo Đa ký giấc ngủ (Polysomnography - PSG) tại bệnh viện sử dụng điện não đồ (EEG), điện cơ (EMG), điện tâm đồ (ECG) và cảm biến hô hấp để phân loại giai đoạn ngủ. Thiết bị đeo hiện đại kết hợp sóng mạch PPG, HRV và gia tốc kế 3 trục để mô phỏng chính xác các chuyển đổi sinh lý này ngay tại nhà. <a href="https://commons.wikimedia.org/wiki/File:Polysomnography_model.jpg" target="_blank" rel="noopener">Nguồn Ảnh Gốc: Wikimedia Commons ↗</a></figcaption>
+</figure>
+
+---
+
+## 6 Yếu Tố Cốt Lõi Cấu Thành Điểm Giấc Ngủ Của Bạn
+
+Các nền tảng thiết bị đeo hàng đầu đánh giá giấc ngủ như một hệ thống đa chiều. Trên **Oura** và **Garmin**, Điểm Giấc Ngủ hàng ngày được tính trọng số từ 6 trụ cột sinh lý học:
+
+| Thành Phần Điểm Giấc Ngủ | Ngưỡng Lý Tưởng | Trọng Số | Thiết Bị Thực Sự Đo Lường Điều Gì? |
+| :--- | :--- | :--- | :--- |
+| **1. Tổng Thời Gian Ngủ (TST)** | **7 giờ 30p – 8 giờ 30p** | ~25% | Tổng thời gian thực tế trong Giấc ngủ Nông, Sâu và REM—đã trừ đi các khoảng thức giấc ngắn (micro-arousals) trong đêm. |
+| **2. Hiệu Suất Giấc Ngủ (Efficiency)** | **≥ 85% (Tối ưu ≥ 90%)** | ~20% | Tỷ lệ phần trăm thời gian nằm trên giường thực sự dành để ngủ: `Hiệu suất = (Tổng thời gian ngủ ÷ Thời gian trên giường) × 100`. |
+| **3. Độ Yên Giấc & Xáo Trộn** | **Ít trằn trọc & thức giấc** | ~15% | Tần suất các đợt xoay người được phát hiện bởi gia tốc kế 3 trục và các đợt tăng vọt nhịp tim ngắn do giấc ngủ bị phân mảnh. |
+| **4. Giấc Ngủ Sâu (Deep / SWS)** | **15% – 25% TST (~60–110 phút)** | ~15% | Phục hồi mô cơ, tiết hormone tăng trưởng (HGH) và củng cố hệ miễn dịch, diễn ra chủ yếu ở nửa đầu của đêm. |
+| **5. Giấc Ngủ REM (Mơ)** | **20% – 25% TST (~90–120 phút)** | ~15% | Phục hồi nhận thức, củng cố trí nhớ và xử lý cảm xúc, tập trung nhiều nhất vào 1/3 cuối của đêm. |
+| **6. Thời Điểm & Độ Trễ Ngủ (Latency)** | **10 – 20 phút để vào giấc** | ~10% | Độ khớp giữa điểm giữa giấc ngủ với nhịp sinh học tự nhiên, cùng thời gian chuyển từ lúc nằm xuống đến khi ngủ thực sự. |
+
+> **Mẹo Chuyên Gia Thiết Bị Đeo — Chú Ý Độ Trễ Vào Giấc (Sleep Latency):** Mất từ **10 đến 20 phút** để chìm vào giấc ngủ là khoảng thời gian lý tưởng về mặt lâm sàng. Nếu ứng dụng báo bạn ngủ thiếp đi trong **chưa đầy 5 phút** mỗi đêm, đó hiếm khi là dấu hiệu của "kỹ năng ngủ tốt"—y học giấc ngủ (cũng như dữ liệu từ WHOOP và Oura) chỉ ra rằng ngủ gục quá nhanh là dấu hiệu điển hình của tình trạng **Nợ Giấc Ngủ (Sleep Debt)** tích lũy.
+
+---
+
+## Đồng Hồ Biết Bạn Đang Ngủ Bằng Cách Nào? Bên Trong Các Cảm Biến
+
+Trước đây, việc đo cấu trúc giấc ngủ đòi hỏi xét nghiệm **Đa ký giấc ngủ (Polysomnography - PSG)** qua đêm tại bệnh viện với các điện cực gắn trên đầu. Ngày nay, thiết bị đeo thu hẹp khoảng cách này nhờ công nghệ **Hợp Nhất Dữ Liệu Đa Cảm Biến (Multi-Sensor Data Fusion)**:
+
+1. **Cảm Biến Nhịp Tim Quang Học (PPG) & Chuyển Đổi Thần Kinh Tự Chủ:** Đèn LED xanh lá và hồng ngoại ở mặt dưới thiết bị đo sự thay đổi vi mô của thể tích máu qua từng nhịp đập. Khi bạn chuyển từ trạng thái thức sang Ngủ Nông và Ngủ Sâu, hệ thần kinh phó giao cảm ("nghỉ ngơi và tiêu hóa") chiếm ưu thế—làm chậm nhịp tim và tăng **Biến thiên nhịp tim (HRV)**.
+2. **Gia Tốc Kế 3 Trục (Vi Chuyển Động - Actigraphy):** Cảm biến chuyển động tần số cao theo dõi độ tĩnh của cổ tay hoặc ngón tay đến từng phần nhỏ của đơn vị trọng trường (`g`), giúp phân biệt việc nằm yên đọc điện thoại với lúc thực sự bước vào giấc ngủ sinh lý.
+3. **Độ Ổn Định Nhịp Thở:** Dựa vào biến thiên sóng mạch theo chu kỳ hô hấp (Respiratory Sinus Arrhythmia), thiết bị tính toán số nhịp thở mỗi phút. Nhịp thở trở nên cực kỳ chậm và đều đặn trong Giấc ngủ Sâu, sau đó nhanh và biến thiên hơn khi bước vào Giấc ngủ REM.
+
+Trong nghiên cứu kiểm chứng mang tính bước ngoặt đăng trên tạp chí *Physiological Measurement* (**Beattie et al., 2017**), các nhà khoa học đã so sánh thiết bị đeo đa cảm biến (kết hợp PPG và gia tốc kế) với chuẩn vàng Đa ký giấc ngủ PSG tại bệnh viện. Kết quả chứng minh thiết bị đeo đa cảm biến đạt **độ nhạy >90% trong việc phát hiện trạng thái ngủ so với thức** và phân tách đáng tin cậy 4 giai đoạn giấc ngủ.
+
+---
+
+## Cách Đọc Biểu Đồ Nhịp Tim Ban Đêm: "Đường Cong Hình Võng" So Với "Đường Dốc Xuống"
+
+Một trong những phân tích giá trị nhất được **Oura Ring** và **WHOOP** phổ biến là quan sát **hình dạng** đường biểu diễn nhịp tim nghỉ ban đêm—đặc biệt là thời điểm nhịp tim chạm mức thấp nhất trong đêm (**RHR Nadir**):
+
+### 1. Đường Cong Phục Hồi "Hình Chiếc Võng" (Điểm 85–100)
+Khi bạn ăn tối sớm, thư giãn dưới ánh sáng dịu và đi ngủ trong trạng thái đủ nước, nhịp tim sẽ giảm xuống nhanh chóng ngay sau khi vào giấc. Nhịp tim chạm **mức thấp nhất (Nadir) vào khoảng giữa đêm**, sau đó tăng nhẹ trước khi bạn thức dậy để chuẩn bị năng lượng cho ngày mới. Nhìn trên biểu đồ, đường nhịp tim tạo thành **hình chữ U mượt mà như chiếc võng (Hammock Curve)**.
+
+### 2. Đường Cong Kiệt Sức "Dốc Xuống" (Điểm 60–74)
+Bạn đã bao giờ ngủ đủ 8 tiếng sau một bữa ăn tối muộn thịnh soạn, uống bia rượu hoặc tập nặng lúc 9 giờ tối, nhưng sáng hôm sau chỉ nhận được Điểm Giấc Ngủ trung bình? Hãy nhìn vào đường nhịp tim ban đêm:
+- Thay vì hạ xuống ngay, nhịp tim giữ ở mức cao (`65–75+ nhịp/phút`) suốt 3 đến 4 giờ đầu tiên khi cơ thể phải làm việc quá tải để tiêu hóa thức ăn, chuyển hóa cồn hoặc giải tỏa hormone căng thẳng.
+- Nhịp tim chỉ chạm mức thấp nhất **ngay sát lúc chuông báo thức kêu**—tạo thành một đường dốc đi xuống thay vì hình chiếc võng. Vì cơ thể mất cả nửa đầu đêm trong trạng thái chuyển hóa cao, **Giấc ngủ Sâu (Deep Sleep)** đầu đêm bị thu hẹp đáng kể.
+
+---
+
+## Bảng Phân Loại Điểm Giấc Ngủ & Hướng Dẫn Tập Luyện
+
+| Phân Hạng Điểm | Đánh Giá | Trạng Thái Cơ Thể & Khuyến Nghị Vận Động Trong Ngày |
+| :--- | :--- | :--- |
+| **85 – 100** | **Sẵn Sàng Tối Ưu (Optimal)** | Hệ thần kinh tự chủ được sạc đầy. Hiệu suất ngủ cao, nhịp tim chạm đáy sớm và hoàn thành trọn vẹn các chu kỳ Sâu/REM. **Đèn xanh cho các buổi tập cường độ cao (HIIT, tạ nặng) hoặc làm việc trí óc căng thẳng.** |
+| **70 – 84** | **Tốt / Nền Tảng (Good)** | Giấc ngủ duy trì ổn định. Có thể một yếu tố—như ngủ hơi thiếu giờ, trằn trọc nhẹ hoặc đi ngủ muộn—làm giảm điểm. **Duy trì sinh hoạt bình thường và tập luyện cường độ vừa phải.** |
+| **Dưới 70** | **Cần Chú Ý / Phục Hồi** | Giấc ngủ bị phân mảnh rõ rệt, nhịp tim ban đêm cao hoặc đang thiếu ngủ cấp tính. **Ưu tiên vận động phục hồi nhẹ (Zone 1–2), bù nước, đón nắng sáng sớm và đi ngủ sớm hơn vào tối nay.** |
+
+---
+
+## 4 Thói Quen Khoa Học Giúp Tăng Điểm Giấc Ngủ Ngay Tối Nay
+
+1. **Áp Dụng Quy Tắc Hạ Nhiệt Buổi Tối 3-2-1:**
+   - **3 Giờ Trước Khi Ngủ:** Kết thúc bữa ăn lớn cuối cùng và ngưng đồ uống có cồn để quá trình tiêu hóa và chuyển hóa tại gan không làm tăng nhịp tim đầu đêm.
+   - **2 Giờ Trước Khi Ngủ:** Khép lại công việc căng thẳng và các bài tập cardio cường độ cao để cortisol và thân nhiệt lõi hạ xuống tự nhiên.
+   - **1 Giờ Trước Khi Ngủ:** Giảm độ sáng đèn LED trần nhà và cất các thiết bị màn hình xanh để tuyến tùng tiết melatonin tự nhiên.
+2. **Cố Định Giờ Thức Dậy Trong Khoảng ±30 Phút:** Nhịp sinh học được neo giữ chủ yếu bởi thời điểm bạn thức dậy và tiếp xúc với ánh sáng ban mai. Duy trì giờ thức dậy ổn định (kể cả cuối tuần) giúp tối ưu hóa Hiệu suất giấc ngủ và chu kỳ REM.
+3. **Làm Mát Phòng Ngủ Ở Mức 18.3°C – 20°C (65°F – 68°F):** Thân nhiệt lõi cần giảm khoảng **1.0°C (1.8°F)** để khởi phát và duy trì Giấc ngủ Sâu sóng chậm. Phòng ngủ mát mẻ giúp ngăn chặn các vi thức giấc do nóng bức giữa đêm.
+4. **Theo Dõi Xu Hướng Trung Bình 7 Ngày Thay Vì Lo Lắng Vì Một Đêm Điểm Thấp:** Các chuyên gia khoa học thể thao tại Garmin và WHOOP luôn nhấn mạnh: một đêm đạt 65 điểm trước ngày thi đấu hay thuyết trình sẽ không làm giảm hiệu suất nếu trung bình 7 ngày của bạn vẫn trên 80. Hãy xem điểm số thấp là tín hiệu phản hồi hữu ích chứ không phải áp lực tâm lý.
+
+---
+
+## Tài Liệu Tham Khảo & Nguồn Y Khoa
+
+1. **Beattie, Z., Oyang, Y., Statan, A., Ghoreyshi, A., Pantelopoulos, A., Russell, A., & Heneghan, C. (2017).** *Estimation of sleep stages in a healthy adult population from optical plethysmography and accelerometer signals.* Physiological Measurement, 38(11), 1968–1979. [Xem trên PubMed / NIH ↗](https://pubmed.ncbi.nlm.nih.gov/28960186/)
+2. **de Zambotti, M., Cellini, N., Goldstone, A., Colrain, I. M., & Baker, F. C. (2019).** *Wearable Sleep Technology in Clinical and Research Settings.* Medicine & Science in Sports & Exercise, 51(7), 1538–1557. [Xem trên PubMed / NIH ↗](https://pubmed.ncbi.nlm.nih.gov/30789439/)
+3. **Oura Ring Pulse Blog.** *How Oura Measures Sleep & Calculates Your Sleep Score.* [Xem trên Oura Ring ↗](https://ouraring.com/blog/sleep-score/)
+4. **Garmin Health Science & Firstbeat Analytics.** *Sleep Tracking & Sleep Score Technology.* [Xem trên Garmin Health Science ↗](https://www.garmin.com/en-US/garmin-technology/health-science/sleep-tracking/)
+
+---
+
+## 🇬🇧 ENGLISH VERSION
 
 > **Executive Summary:** Every morning, your smartwatch distills hours of heart rate, HRV, movement, and breathing data into a single number from 0 to 100. Here is how leading wearables like Oura, Garmin, and WHOOP calculate your Sleep Score—and how to read your overnight graphs like a sleep scientist.
 
 > 💡 **Key Actionable Takeaway:** Stop fixating on total hours in bed alone. A high-recovery Sleep Score (85+) depends just as much on Sleep Efficiency (≥ 85%), how early your Overnight Resting Heart Rate reaches its lowest point (Nadir), and keeping your wake time within a consistent ±30-minute daily window.
-
----
 
 ## Why Eight Hours in Bed Doesn't Always Equal Eight Hours of Sleep
 
@@ -22,8 +118,8 @@ If you have ever stayed in bed for eight full hours only to wake up feeling grog
 Modern smartwatches and smart rings (including **Oura Ring**, **Garmin Firstbeat Analytics**, **WHOOP**, and **Fitbit**) no longer act as simple timers. While you sleep, your wearable continuously samples your pulse wave, beat-to-beat Heart Rate Variability (HRV), respiratory rate, wrist movement, and peripheral skin temperature. By morning, an algorithm synthesizes these signals into a single **0 to 100 Sleep Score** designed to answer one practical question: *How well did your body and brain actually recover last night?*
 
 <figure class="article-inline-diagram">
-  <img src="images/LM_SL_01_diagram.svg" alt="Sleep Score Architecture & Multi-Sensor Contributors" loading="lazy">
-  <figcaption>📊 <strong>Wearable Biometric Architecture:</strong> How optical PPG heart rate, HRV, movement (actigraphy), and sleep stage balance combine to build your daily 0–100 Sleep Score.</figcaption>
+  <img src="images/LM_SL_01_figure.jpg" alt="Clinical Polysomnography Sensor Model Compared to Wearable Sleep Tracking" loading="lazy">
+  <figcaption>📊 <strong>From Sleep Lab to Wrist & Finger:</strong> Hospital Polysomnography (PSG) uses multi-channel EEG, EOG, ECG, and respiratory leads to score sleep stages. Modern multi-sensor wearables combine optical PPG pulse waves, HRV, and micro-actigraphy to estimate these same physiological transitions at home. <a href="https://commons.wikimedia.org/wiki/File:Polysomnography_model.jpg" target="_blank" rel="noopener">Original Image Source: Wikimedia Commons ↗</a></figcaption>
 </figure>
 
 ---
@@ -53,18 +149,13 @@ Historically, measuring sleep required an overnight hospital **Polysomnography (
 2. **3-Axis Accelerometry (Micro-Actigraphy):** High-frequency motion sensors track wrist or finger stillness down to fractions of a gravity unit (`g`), separating quiet screen-reading in bed from true physiological sleep onset.
 3. **Respiratory Rate Stability:** Using variations in your pulse wave (Respiratory Sinus Arrhythmia), your watch tracks breaths per minute. Breathing becomes remarkably slow and rhythmic during Deep sleep, then turns faster and more irregular during vivid REM dreaming.
 
-In a landmark validation study published in the journal *Sleep* (**Beattie et al., 2017**), researchers compared multi-sensor consumer wearables combining optical PPG and accelerometry against gold-standard hospital Polysomnography. They demonstrated that multi-sensor wearables achieve **>90% sensitivity in detecting true sleep vs. wakefulness** and reliable 4-stage sleep tracking—a massive leap beyond older motion-only fitness bands.
-
-<figure class="article-inline-photo">
-  <img src="images/LM_SL_01_photo.jpg" alt="Reviewing overnight sleep score and heart rate curve on a smartwatch" loading="lazy">
-  <figcaption>📷 <strong>Morning Biometric Check-In:</strong> Reviewing your overnight heart rate curve (the "Hammock Curve") reveals far more about recovery quality than total hours alone.</figcaption>
-</figure>
+In a landmark validation study published in *Physiological Measurement* (**Beattie et al., 2017**), researchers compared multi-sensor consumer wearables combining optical PPG and accelerometry against gold-standard hospital Polysomnography. They demonstrated that multi-sensor wearables achieve **>90% sensitivity in detecting true sleep vs. wakefulness** and reliable 4-stage sleep tracking—a massive leap beyond older motion-only fitness bands.
 
 ---
 
 ## Reading Your Overnight Heart Rate Graph: The "Hammock Curve" vs. The "Downward Slope"
 
-One of the highest-value insights popularized by **Oura Ring** and **WHOOP** is examining the **shape** of your overnight resting heart rate curve— specifically when your heart rate reaches its lowest overnight point (**RHR Nadir**):
+One of the highest-value insights popularized by **Oura Ring** and **WHOOP** is examining the **shape** of your overnight resting heart rate curve—specifically when your heart rate reaches its lowest overnight point (**RHR Nadir**):
 
 ### 1. The Restorative "Hammock" Curve (Score 85–100)
 When you finish eating early, wind down in dim light, and go to bed well-hydrated, your heart rate drops rapidly shortly after sleep onset. It reaches its **lowest point (Nadir) near the middle of the night**, then gently rises just before you wake up to prepare your body for the day. Visually, the graph looks like a smooth **U-shape or hammock**.
@@ -100,7 +191,7 @@ Have you ever slept 8 hours after a heavy late dinner, evening drinks, or a 9:00
 
 ## References & Clinical Sources
 
-1. **Beattie, Z., Oyang, Y., Statan, A., Ghoreyshi, A., Pantelopoulos, A., Russell, A., & Heneghan, C. (2017).** *Estimation of sleep stages in a healthy adult population from optical plethysmography and accelerometer signals.* Physiological Measurement / Sleep, 38(11), 1968–1979. [Read on PubMed / NIH ↗](https://pubmed.ncbi.nlm.nih.gov/28960186/)
+1. **Beattie, Z., Oyang, Y., Statan, A., Ghoreyshi, A., Pantelopoulos, A., Russell, A., & Heneghan, C. (2017).** *Estimation of sleep stages in a healthy adult population from optical plethysmography and accelerometer signals.* Physiological Measurement, 38(11), 1968–1979. [Read on PubMed / NIH ↗](https://pubmed.ncbi.nlm.nih.gov/28960186/)
 2. **de Zambotti, M., Cellini, N., Goldstone, A., Colrain, I. M., & Baker, F. C. (2019).** *Wearable Sleep Technology in Clinical and Research Settings.* Medicine & Science in Sports & Exercise, 51(7), 1538–1557. [Read on PubMed / NIH ↗](https://pubmed.ncbi.nlm.nih.gov/30789439/)
 3. **Oura Ring Pulse Blog.** *How Oura Measures Sleep & Calculates Your Sleep Score.* [Read on Oura Ring ↗](https://ouraring.com/blog/sleep-score/)
 4. **Garmin Health Science & Firstbeat Analytics.** *Sleep Tracking & Sleep Score Technology.* [Read on Garmin Health Science ↗](https://www.garmin.com/en-US/garmin-technology/health-science/sleep-tracking/)
