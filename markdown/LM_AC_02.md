@@ -83,10 +83,10 @@ Biểu đồ Day Strain của bạn còn đóng vai trò như một radar cảnh
 
 ## Tài Liệu Tham Khảo & Nguồn Y Khoa
 
-1. **Borg, G. A. (1982).** *Psychophysical bases of perceived exertion.* Medicine & Science in Sports & Exercise, 14(5), 377–381. [Đọc trên PubMed / NIH ↗](https://pubmed.ncbi.nlm.nih.gov/7154893/)
-2. **Banister, E. W. (1991).** *Modeling elite athletic performance (TRIMP Training Impulse).* In Physiological Testing of Elite Athletes, Human Kinetics, 403–424. [Đọc trên PubMed / Nghiên cứu TRIMP ↗](https://pubmed.ncbi.nlm.nih.gov/8887211/)
-3. **WHOOP The Locker.** *How Does the WHOOP Strain Score Work? Understanding the 0–21 Scale.* [Đọc trên WHOOP ↗](https://www.whoop.com/us/en/thelocker/how-does-whoop-strain-work-101/)
-4. **Garmin Health Science.** *Training Load & Acute Load: Measuring the Combined Physiological Impact of Activity.* [Đọc trên Garmin Health Science ↗](https://www.garmin.com/en-US/garmin-technology/running-science/physiological-measurements/training-load/)
+1. **Borg, G. A. (1982).** *Psychophysical bases of perceived exertion.* Medicine & Science in Sports & Exercise, 14(5), 377–381. [https://pubmed.ncbi.nlm.nih.gov/7154893/](https://pubmed.ncbi.nlm.nih.gov/7154893/)
+2. **Banister, E. W. (1991).** *Modeling elite athletic performance (TRIMP Training Impulse).* In Physiological Testing of Elite Athletes, Human Kinetics, 403–424. [https://pubmed.ncbi.nlm.nih.gov/8887211/](https://pubmed.ncbi.nlm.nih.gov/8887211/)
+3. **WHOOP The Locker.** *How Does the WHOOP Strain Score Work? Understanding the 0–21 Scale.* [https://www.whoop.com/us/en/thelocker/how-does-whoop-strain-work-101/](https://www.whoop.com/us/en/thelocker/how-does-whoop-strain-work-101/)
+4. **Garmin Health Science.** *Training Load & Acute Load: Measuring the Combined Physiological Impact of Activity.* [https://www.garmin.com/en-US/garmin-technology/running-science/physiological-measurements/training-load/](https://www.garmin.com/en-US/garmin-technology/running-science/physiological-measurements/training-load/)
 
 ---
 
@@ -161,7 +161,7 @@ Your Day Strain graph is also an early-warning radar for **non-exercise stressor
 
 ## References & Clinical Sources
 
-1. **Borg, G. A. (1982).** *Psychophysical bases of perceived exertion.* Medicine & Science in Sports & Exercise, 14(5), 377–381. [Read on PubMed / NIH ↗](https://pubmed.ncbi.nlm.nih.gov/7154893/)
-2. **Banister, E. W. (1991).** *Modeling elite athletic performance (TRIMP Training Impulse).* In Physiological Testing of Elite Athletes, Human Kinetics, 403–424. [Read on PubMed / Related TRIMP Validation ↗](https://pubmed.ncbi.nlm.nih.gov/8887211/)
-3. **WHOOP The Locker.** *How Does the WHOOP Strain Score Work? Understanding the 0–21 Scale.* [Read on WHOOP ↗](https://www.whoop.com/us/en/thelocker/how-does-whoop-strain-work-101/)
-4. **Garmin Health Science.** *Training Load & Acute Load: Measuring the Combined Physiological Impact of Activity.* [Read on Garmin Health Science ↗](https://www.garmin.com/en-US/garmin-technology/running-science/physiological-measurements/training-load/)
+1. **Borg, G. A. (1982).** *Psychophysical bases of perceived exertion.* Medicine & Science in Sports & Exercise, 14(5), 377–381. [https://pubmed.ncbi.nlm.nih.gov/7154893/](https://pubmed.ncbi.nlm.nih.gov/7154893/)
+2. **Banister, E. W. (1991).** *Modeling elite athletic performance (TRIMP Training Impulse).* In Physiological Testing of Elite Athletes, Human Kinetics, 403–424. [https://pubmed.ncbi.nlm.nih.gov/8887211/](https://pubmed.ncbi.nlm.nih.gov/8887211/)
+3. **WHOOP The Locker.** *How Does the WHOOP Strain Score Work? Understanding the 0–21 Scale.* [https://www.whoop.com/us/en/thelocker/how-does-whoop-strain-work-101/](https://www.whoop.com/us/en/thelocker/how-does-whoop-strain-work-101/)
+4. **Garmin Health Science.** *Training Load & Acute Load: Measuring the Combined Physiological Impact of Activity.* [https://www.garmin.com/en-US/garmin-technology/running-science/physiological-measurements/training-load/](https://www.garmin.com/en-US/garmin-technology/running-science/physiological-measurements/training-load/)

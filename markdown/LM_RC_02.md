@@ -85,10 +85,10 @@ Trong khi xu hướng RHR trong 90 ngày phản ánh **nền tảng thể lực 
 
 ## Tài Liệu Tham Khảo & Nguồn Y Khoa
 
-1. **Quer, G., Gouda, P., Galarnyk, M., Topol, E. J., & Steinhubl, S. R. (2020).** *Inter- and intraindividual variability in daily resting heart rate and its associations with age, sex, sleep, BMI, and time of year: Retrospective, longitudinal cohort study of 92,457 adults.* PLOS ONE, 15(2), e0227709. [Xem trên PubMed / NIH ↗](https://pubmed.ncbi.nlm.nih.gov/32027692/)
-2. **Reimers, A. K., Knapp, G., & Reimers, C. D. (2018).** *Effects of Exercise on the Resting Heart Rate: A Systematic Review and Meta-Analysis of Interventional Studies.* Journal of Clinical Medicine, 7(12), 503. [Xem trên PubMed / NIH ↗](https://pubmed.ncbi.nlm.nih.gov/30513777/)
-3. **Oura Ring Pulse Blog.** *Resting Heart Rate: What Is a Normal RHR & How to Lower Yours.* [Xem trên Oura Ring ↗](https://ouraring.com/blog/resting-heart-rate/)
-4. **WHOOP The Locker.** *Resting Heart Rate: Normal Ranges, What It Means & How to Improve It.* [Xem trên WHOOP ↗](https://www.whoop.com/us/en/thelocker/normal-resting-heart-rate-improve-it/)
+1. **Quer, G., Gouda, P., Galarnyk, M., Topol, E. J., & Steinhubl, S. R. (2020).** *Inter- and intraindividual variability in daily resting heart rate and its associations with age, sex, sleep, BMI, and time of year: Retrospective, longitudinal cohort study of 92,457 adults.* PLOS ONE, 15(2), e0227709. [https://pubmed.ncbi.nlm.nih.gov/32027692/](https://pubmed.ncbi.nlm.nih.gov/32027692/)
+2. **Reimers, A. K., Knapp, G., & Reimers, C. D. (2018).** *Effects of Exercise on the Resting Heart Rate: A Systematic Review and Meta-Analysis of Interventional Studies.* Journal of Clinical Medicine, 7(12), 503. [https://pubmed.ncbi.nlm.nih.gov/30513777/](https://pubmed.ncbi.nlm.nih.gov/30513777/)
+3. **Oura Ring Pulse Blog.** *Resting Heart Rate: What Is a Normal RHR & How to Lower Yours.* [https://ouraring.com/blog/resting-heart-rate/](https://ouraring.com/blog/resting-heart-rate/)
+4. **WHOOP The Locker.** *Resting Heart Rate: Normal Ranges, What It Means & How to Improve It.* [https://www.whoop.com/us/en/thelocker/normal-resting-heart-rate-improve-it/](https://www.whoop.com/us/en/thelocker/normal-resting-heart-rate-improve-it/)
 
 ---
 
@@ -165,7 +165,7 @@ While your 90-day RHR trend reflects your **aerobic fitness**, a sudden single-n
 
 ## References & Clinical Sources
 
-1. **Quer, G., Gouda, P., Galarnyk, M., Topol, E. J., & Steinhubl, S. R. (2020).** *Inter- and intraindividual variability in daily resting heart rate and its associations with age, sex, sleep, BMI, and time of year: Retrospective, longitudinal cohort study of 92,457 adults.* PLOS ONE, 15(2), e0227709. [Read on PubMed / NIH ↗](https://pubmed.ncbi.nlm.nih.gov/32027692/)
-2. **Reimers, A. K., Knapp, G., & Reimers, C. D. (2018).** *Effects of Exercise on the Resting Heart Rate: A Systematic Review and Meta-Analysis of Interventional Studies.* Journal of Clinical Medicine, 7(12), 503. [Read on PubMed / NIH ↗](https://pubmed.ncbi.nlm.nih.gov/30513777/)
-3. **Oura Ring Pulse Blog.** *Resting Heart Rate: What Is a Normal RHR & How to Lower Yours.* [Read on Oura Ring ↗](https://ouraring.com/blog/resting-heart-rate/)
-4. **WHOOP The Locker.** *Resting Heart Rate: Normal Ranges, What It Means & How to Improve It.* [Read on WHOOP ↗](https://www.whoop.com/us/en/thelocker/normal-resting-heart-rate-improve-it/)
+1. **Quer, G., Gouda, P., Galarnyk, M., Topol, E. J., & Steinhubl, S. R. (2020).** *Inter- and intraindividual variability in daily resting heart rate and its associations with age, sex, sleep, BMI, and time of year: Retrospective, longitudinal cohort study of 92,457 adults.* PLOS ONE, 15(2), e0227709. [https://pubmed.ncbi.nlm.nih.gov/32027692/](https://pubmed.ncbi.nlm.nih.gov/32027692/)
+2. **Reimers, A. K., Knapp, G., & Reimers, C. D. (2018).** *Effects of Exercise on the Resting Heart Rate: A Systematic Review and Meta-Analysis of Interventional Studies.* Journal of Clinical Medicine, 7(12), 503. [https://pubmed.ncbi.nlm.nih.gov/30513777/](https://pubmed.ncbi.nlm.nih.gov/30513777/)
+3. **Oura Ring Pulse Blog.** *Resting Heart Rate: What Is a Normal RHR & How to Lower Yours.* [https://ouraring.com/blog/resting-heart-rate/](https://ouraring.com/blog/resting-heart-rate/)
+4. **WHOOP The Locker.** *Resting Heart Rate: Normal Ranges, What It Means & How to Improve It.* [https://www.whoop.com/us/en/thelocker/normal-resting-heart-rate-improve-it/](https://www.whoop.com/us/en/thelocker/normal-resting-heart-rate-improve-it/)

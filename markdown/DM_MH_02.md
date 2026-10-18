@@ -80,10 +80,10 @@ Hãy thực hiện chuỗi 4 bài tập giải phóng mạch máu này vào mỗ
 
 ## Tài Liệu Tham Khảo & Nguồn Y Khoa
 
-1. **Cohen, D., Gonzalez, J., & Goldstein, I. (2016).** *The Role of Pelvic Floor Muscles in Male Sexual Dysfunction and Pelvic Pain.* Sexual Medicine Reviews, 4(1), 53–62. [Xem trên PubMed / NIH ↗](https://pubmed.ncbi.nlm.nih.gov/27872005/)
-2. **Anderson, R. U., Wise, D., Sawyer, T., & Chan, C. (2005).** *Integration of myofascial trigger point release and paradoxical relaxation training treatment of chronic pelvic pain in men.* The Journal of Urology, 174(1), 155–160. [Xem trên PubMed / NIH ↗](https://pubmed.ncbi.nlm.nih.gov/15947608/)
-3. **Cho, S. T., & Kim, K. H. (2021).** *Pelvic floor muscle exercise and training for coping with urinary incontinence and male pelvic dysfunction.* Journal of Exercise Rehabilitation, 17(6), 379–387. [Xem trên PubMed / NIH ↗](https://pubmed.ncbi.nlm.nih.gov/35036386/)
-4. **Sommer, F., Goldstein, I., & Korda, J. B. (2010).** *Perineal compression, pudendal artery hemodynamics, and erectile dysfunction.* The Journal of Sexual Medicine, 7(7), 2346–2358. [Xem trên PubMed / NIH ↗](https://pubmed.ncbi.nlm.nih.gov/20584120/)
+1. **Cohen, D., Gonzalez, J., & Goldstein, I. (2016).** *The Role of Pelvic Floor Muscles in Male Sexual Dysfunction and Pelvic Pain.* Sexual Medicine Reviews, 4(1), 53–62. [https://pubmed.ncbi.nlm.nih.gov/27872005/](https://pubmed.ncbi.nlm.nih.gov/27872005/)
+2. **Anderson, R. U., Wise, D., Sawyer, T., & Chan, C. (2005).** *Integration of myofascial trigger point release and paradoxical relaxation training treatment of chronic pelvic pain in men.* The Journal of Urology, 174(1), 155–160. [https://pubmed.ncbi.nlm.nih.gov/15947608/](https://pubmed.ncbi.nlm.nih.gov/15947608/)
+3. **Cho, S. T., & Kim, K. H. (2021).** *Pelvic floor muscle exercise and training for coping with urinary incontinence and male pelvic dysfunction.* Journal of Exercise Rehabilitation, 17(6), 379–387. [https://pubmed.ncbi.nlm.nih.gov/35036386/](https://pubmed.ncbi.nlm.nih.gov/35036386/)
+4. **Sommer, F., Goldstein, I., & Korda, J. B. (2010).** *Perineal compression, pudendal artery hemodynamics, and erectile dysfunction.* The Journal of Sexual Medicine, 7(7), 2346–2358. [https://pubmed.ncbi.nlm.nih.gov/20584120/](https://pubmed.ncbi.nlm.nih.gov/20584120/)
 
 ---
 
@@ -155,7 +155,7 @@ Perform this 4-exercise vascular decompression sequence every afternoon or eveni
 
 ## References & Clinical Sources
 
-1. **Cohen, D., Gonzalez, J., & Goldstein, I. (2016).** *The Role of Pelvic Floor Muscles in Male Sexual Dysfunction and Pelvic Pain.* Sexual Medicine Reviews, 4(1), 53–62. [Read on PubMed / NIH ↗](https://pubmed.ncbi.nlm.nih.gov/27872005/)
-2. **Anderson, R. U., Wise, D., Sawyer, T., & Chan, C. (2005).** *Integration of myofascial trigger point release and paradoxical relaxation training treatment of chronic pelvic pain in men.* The Journal of Urology, 174(1), 155–160. [Read on PubMed / NIH ↗](https://pubmed.ncbi.nlm.nih.gov/15947608/)
-3. **Cho, S. T., & Kim, K. H. (2021).** *Pelvic floor muscle exercise and training for coping with urinary incontinence and male pelvic dysfunction.* Journal of Exercise Rehabilitation, 17(6), 379–387. [Read on PubMed / NIH ↗](https://pubmed.ncbi.nlm.nih.gov/35036386/)
-4. **Sommer, F., Goldstein, I., & Korda, J. B. (2010).** *Perineal compression, pudendal artery hemodynamics, and erectile dysfunction.* The Journal of Sexual Medicine, 7(7), 2346–2358. [Read on PubMed / NIH ↗](https://pubmed.ncbi.nlm.nih.gov/20584120/)
+1. **Cohen, D., Gonzalez, J., & Goldstein, I. (2016).** *The Role of Pelvic Floor Muscles in Male Sexual Dysfunction and Pelvic Pain.* Sexual Medicine Reviews, 4(1), 53–62. [https://pubmed.ncbi.nlm.nih.gov/27872005/](https://pubmed.ncbi.nlm.nih.gov/27872005/)
+2. **Anderson, R. U., Wise, D., Sawyer, T., & Chan, C. (2005).** *Integration of myofascial trigger point release and paradoxical relaxation training treatment of chronic pelvic pain in men.* The Journal of Urology, 174(1), 155–160. [https://pubmed.ncbi.nlm.nih.gov/15947608/](https://pubmed.ncbi.nlm.nih.gov/15947608/)
+3. **Cho, S. T., & Kim, K. H. (2021).** *Pelvic floor muscle exercise and training for coping with urinary incontinence and male pelvic dysfunction.* Journal of Exercise Rehabilitation, 17(6), 379–387. [https://pubmed.ncbi.nlm.nih.gov/35036386/](https://pubmed.ncbi.nlm.nih.gov/35036386/)
+4. **Sommer, F., Goldstein, I., & Korda, J. B. (2010).** *Perineal compression, pudendal artery hemodynamics, and erectile dysfunction.* The Journal of Sexual Medicine, 7(7), 2346–2358. [https://pubmed.ncbi.nlm.nih.gov/20584120/](https://pubmed.ncbi.nlm.nih.gov/20584120/)

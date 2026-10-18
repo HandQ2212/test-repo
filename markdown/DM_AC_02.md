@@ -35,7 +35,7 @@ Sự thích nghi sinh lý tích cực—được y học thể thao gọi là **
 
 Trong **Tuyên bố Đồng thuận Chung giữa Hội Khoa học Thể thao Châu Âu (ECSS) và Hiệp hội Y học Thể thao Hoa Kỳ (ACSM)** (**Meeusen et al., 2013**), các bác sĩ y học thể thao đã chỉ rõ sự mệt mỏi do tập luyện diễn tiến qua 3 cấp độ lâm sàng:
 
-| Cấp Độ Lâm Sàng | Thời Gian Phục Hồi Điển Hình | Trạng Thái Phong Độ & Tâm Tâm Lý | Dấu Hiệu Sinh Học Trên Thiết Bị Đeo (HRV, RHR, Giấc Ngủ) |
+| Cấp Độ Lâm Sàng | Thời Gian Phục Hồi Điển Hình | Trạng Thái Phong Độ & Tâm Lý | Dấu Hiệu Sinh Học Trên Thiết Bị Đeo (HRV, RHR, Giấc Ngủ) |
 | :--- | :--- | :--- | :--- |
 | **1. Quá Tải Chức Năng (Functional Overreaching)** | **3 – 7 Ngày** *(Chu kỳ tích lũy có chủ đích)* | Nặng chân tạm thời vài ngày, sau đó **bứt phá kỷ lục cá nhân (PR)** ngay sau tuần giảm tải (Deload). | HRV giảm nhẹ 2–3 ngày (`−5% đến −12%`) và RHR nhích nhẹ (`+2 đến +4 bpm`), sau đó bật tăng vượt mức nền khi nghỉ ngơi. |
 | **2. Quá Tải Phi Chức Năng (Non-Functional Overreaching)** | **2 – 6 Tuần** | Mức tạ và tốc độ chạy chững lại hoặc đi xuống, dễ cáu gắt, đau mỏi cơ dai dẳng và uể oải đầu óc dù vẫn cố tập nặng hơn. | **Trung bình trượt HRV 7 ngày tụt > 1.5 độ lệch chuẩn dưới mức nền**; RHR neo cao `+5 đến +8 bpm`; thức giấc lúc 3:00 sáng do đỉnh cortisol. |
@@ -83,10 +83,10 @@ Một **Tuần Giảm Tải (Deload Week)** hoàn toàn không phải là sự l
 
 ## Tài Liệu Tham Khảo & Nguồn Y Khoa
 
-1. **Meeusen, R., Duclos, M., Foster, C., Fry, A., Gleeson, M., Nieman, D., ... & Urhausen, A. (2013).** *Prevention, diagnosis, and treatment of the overtraining syndrome: joint consensus statement of the European College of Sport Science (ECSS) and the American College of Sports Medicine (ACSM).* Medicine & Science in Sports & Exercise, 45(1), 186–205. [Đọc trên PubMed / NIH ↗](https://pubmed.ncbi.nlm.nih.gov/23247672/)
-2. **Plews, D. J., Laursen, P. B., Stanley, J., Kilding, A. E., & Buchheit, M. (2013).** *Training adaptation and heart rate variability in elite endurance athletes: opening the door to effective monitoring.* Sports Medicine, 43(9), 773–781. [Đọc trên PubMed / NIH ↗](https://pubmed.ncbi.nlm.nih.gov/23852425/)
-3. **WHOOP The Locker.** *Overtraining Syndrome: Signs, Symptoms, Recovery & How to Prevent It With HRV.* [Đọc trên WHOOP ↗](https://www.whoop.com/us/en/thelocker/overtraining-signs-symptoms-prevention/)
-4. **Garmin Health Science.** *Training Status & Acute-to-Chronic Load Ratio: Balancing Strain and Recovery.* [Đọc trên Garmin Health Science ↗](https://www.garmin.com/en-US/garmin-technology/running-science/physiological-measurements/training-status/)
+1. **Meeusen, R., Duclos, M., Foster, C., Fry, A., Gleeson, M., Nieman, D., ... & Urhausen, A. (2013).** *Prevention, diagnosis, and treatment of the overtraining syndrome: joint consensus statement of the European College of Sport Science (ECSS) and the American College of Sports Medicine (ACSM).* Medicine & Science in Sports & Exercise, 45(1), 186–205. [https://pubmed.ncbi.nlm.nih.gov/23247672/](https://pubmed.ncbi.nlm.nih.gov/23247672/)
+2. **Plews, D. J., Laursen, P. B., Stanley, J., Kilding, A. E., & Buchheit, M. (2013).** *Training adaptation and heart rate variability in elite endurance athletes: opening the door to effective monitoring.* Sports Medicine, 43(9), 773–781. [https://pubmed.ncbi.nlm.nih.gov/23852425/](https://pubmed.ncbi.nlm.nih.gov/23852425/)
+3. **WHOOP The Locker.** *Overtraining Syndrome: Signs, Symptoms, Recovery & How to Prevent It With HRV.* [https://www.whoop.com/us/en/thelocker/overtraining-signs-symptoms-prevention/](https://www.whoop.com/us/en/thelocker/overtraining-signs-symptoms-prevention/)
+4. **Garmin Health Science.** *Training Status & Acute-to-Chronic Load Ratio: Balancing Strain and Recovery.* [https://www.garmin.com/en-US/garmin-technology/running-science/physiological-measurements/training-status/](https://www.garmin.com/en-US/garmin-technology/running-science/physiological-measurements/training-status/)
 
 ---
 
@@ -161,7 +161,7 @@ A **Deload Week** is not laziness—it is the biological catalyst that converts 
 
 ## References & Clinical Sources
 
-1. **Meeusen, R., Duclos, M., Foster, C., Fry, A., Gleeson, M., Nieman, D., ... & Urhausen, A. (2013).** *Prevention, diagnosis, and treatment of the overtraining syndrome: joint consensus statement of the European College of Sport Science (ECSS) and the American College of Sports Medicine (ACSM).* Medicine & Science in Sports & Exercise, 45(1), 186–205. [Read on PubMed / NIH ↗](https://pubmed.ncbi.nlm.nih.gov/23247672/)
-2. **Plews, D. J., Laursen, P. B., Stanley, J., Kilding, A. E., & Buchheit, M. (2013).** *Training adaptation and heart rate variability in elite endurance athletes: opening the door to effective monitoring.* Sports Medicine, 43(9), 773–781. [Read on PubMed / NIH ↗](https://pubmed.ncbi.nlm.nih.gov/23852425/)
-3. **WHOOP The Locker.** *Overtraining Syndrome: Signs, Symptoms, Recovery & How to Prevent It With HRV.* [Read on WHOOP ↗](https://www.whoop.com/us/en/thelocker/overtraining-signs-symptoms-prevention/)
-4. **Garmin Health Science.** *Training Status & Acute-to-Chronic Load Ratio: Balancing Strain and Recovery.* [Read on Garmin Health Science ↗](https://www.garmin.com/en-US/garmin-technology/running-science/physiological-measurements/training-status/)
+1. **Meeusen, R., Duclos, M., Foster, C., Fry, A., Gleeson, M., Nieman, D., ... & Urhausen, A. (2013).** *Prevention, diagnosis, and treatment of the overtraining syndrome: joint consensus statement of the European College of Sport Science (ECSS) and the American College of Sports Medicine (ACSM).* Medicine & Science in Sports & Exercise, 45(1), 186–205. [https://pubmed.ncbi.nlm.nih.gov/23247672/](https://pubmed.ncbi.nlm.nih.gov/23247672/)
+2. **Plews, D. J., Laursen, P. B., Stanley, J., Kilding, A. E., & Buchheit, M. (2013).** *Training adaptation and heart rate variability in elite endurance athletes: opening the door to effective monitoring.* Sports Medicine, 43(9), 773–781. [https://pubmed.ncbi.nlm.nih.gov/23852425/](https://pubmed.ncbi.nlm.nih.gov/23852425/)
+3. **WHOOP The Locker.** *Overtraining Syndrome: Signs, Symptoms, Recovery & How to Prevent It With HRV.* [https://www.whoop.com/us/en/thelocker/overtraining-signs-symptoms-prevention/](https://www.whoop.com/us/en/thelocker/overtraining-signs-symptoms-prevention/)
+4. **Garmin Health Science.** *Training Status & Acute-to-Chronic Load Ratio: Balancing Strain and Recovery.* [https://www.garmin.com/en-US/garmin-technology/running-science/physiological-measurements/training-status/](https://www.garmin.com/en-US/garmin-technology/running-science/physiological-measurements/training-status/)

@@ -86,10 +86,10 @@ Thay vì ngủ nướng quá đà vào sáng Chủ Nhật, các nhà khoa học 
 
 ## Tài Liệu Tham Khảo & Nguồn Y Khoa
 
-1. **Van Dongen, H. P., Maislin, G., Mullington, J. M., & Dinges, D. F. (2003).** *The cumulative cost of additional wakefulness: dose-response effects on neurobehavioral functions and sleep physiology from chronic sleep restriction and total sleep deprivation.* Sleep, 26(2), 117–126. [Xem trên PubMed / NIH ↗](https://pubmed.ncbi.nlm.nih.gov/12683469/)
-2. **Spiegel, K., Leproult, R., & Van Cauter, E. (1999).** *Impact of sleep debt on metabolic and endocrine function.* The Lancet, 354(9188), 1435–1439. [Xem trên PubMed / NIH ↗](https://pubmed.ncbi.nlm.nih.gov/10543671/)
-3. **Wittmann, M., Dinich, J., Merrow, M., & Roenneberg, T. (2006).** *Social jetlag: misalignment of biological and social time.* Chronobiology International, 23(1-2), 497–509. [Xem trên PubMed / NIH ↗](https://pubmed.ncbi.nlm.nih.gov/16687322/)
-4. **WHOOP The Locker.** *Sleep Consistency: Why Going to Bed & Waking Up at the Same Time Matters.* [Xem trên WHOOP ↗](https://www.whoop.com/us/en/thelocker/sleep-consistency/)
+1. **Van Dongen, H. P., Maislin, G., Mullington, J. M., & Dinges, D. F. (2003).** *The cumulative cost of additional wakefulness: dose-response effects on neurobehavioral functions and sleep physiology from chronic sleep restriction and total sleep deprivation.* Sleep, 26(2), 117–126. [https://pubmed.ncbi.nlm.nih.gov/12683469/](https://pubmed.ncbi.nlm.nih.gov/12683469/)
+2. **Spiegel, K., Leproult, R., & Van Cauter, E. (1999).** *Impact of sleep debt on metabolic and endocrine function.* The Lancet, 354(9188), 1435–1439. [https://pubmed.ncbi.nlm.nih.gov/10543671/](https://pubmed.ncbi.nlm.nih.gov/10543671/)
+3. **Wittmann, M., Dinich, J., Merrow, M., & Roenneberg, T. (2006).** *Social jetlag: misalignment of biological and social time.* Chronobiology International, 23(1-2), 497–509. [https://pubmed.ncbi.nlm.nih.gov/16687322/](https://pubmed.ncbi.nlm.nih.gov/16687322/)
+4. **WHOOP The Locker.** *Sleep Consistency: Why Going to Bed & Waking Up at the Same Time Matters.* [https://www.whoop.com/us/en/thelocker/sleep-consistency/](https://www.whoop.com/us/en/thelocker/sleep-consistency/)
 
 ---
 
@@ -167,7 +167,7 @@ Instead of binge-sleeping on Sunday morning, sports scientists at **WHOOP** and 
 
 ## References & Clinical Sources
 
-1. **Van Dongen, H. P., Maislin, G., Mullington, J. M., & Dinges, D. F. (2003).** *The cumulative cost of additional wakefulness: dose-response effects on neurobehavioral functions and sleep physiology from chronic sleep restriction and total sleep deprivation.* Sleep, 26(2), 117–126. [Read on PubMed / NIH ↗](https://pubmed.ncbi.nlm.nih.gov/12683469/)
-2. **Spiegel, K., Leproult, R., & Van Cauter, E. (1999).** *Impact of sleep debt on metabolic and endocrine function.* The Lancet, 354(9188), 1435–1439. [Read on PubMed / NIH ↗](https://pubmed.ncbi.nlm.nih.gov/10543671/)
-3. **Wittmann, M., Dinich, J., Merrow, M., & Roenneberg, T. (2006).** *Social jetlag: misalignment of biological and social time.* Chronobiology International, 23(1-2), 497–509. [Read on PubMed / NIH ↗](https://pubmed.ncbi.nlm.nih.gov/16687322/)
-4. **WHOOP The Locker.** *Sleep Consistency: Why Going to Bed & Waking Up at the Same Time Matters.* [Read on WHOOP ↗](https://www.whoop.com/us/en/thelocker/sleep-consistency/)
+1. **Van Dongen, H. P., Maislin, G., Mullington, J. M., & Dinges, D. F. (2003).** *The cumulative cost of additional wakefulness: dose-response effects on neurobehavioral functions and sleep physiology from chronic sleep restriction and total sleep deprivation.* Sleep, 26(2), 117–126. [https://pubmed.ncbi.nlm.nih.gov/12683469/](https://pubmed.ncbi.nlm.nih.gov/12683469/)
+2. **Spiegel, K., Leproult, R., & Van Cauter, E. (1999).** *Impact of sleep debt on metabolic and endocrine function.* The Lancet, 354(9188), 1435–1439. [https://pubmed.ncbi.nlm.nih.gov/10543671/](https://pubmed.ncbi.nlm.nih.gov/10543671/)
+3. **Wittmann, M., Dinich, J., Merrow, M., & Roenneberg, T. (2006).** *Social jetlag: misalignment of biological and social time.* Chronobiology International, 23(1-2), 497–509. [https://pubmed.ncbi.nlm.nih.gov/16687322/](https://pubmed.ncbi.nlm.nih.gov/16687322/)
+4. **WHOOP The Locker.** *Sleep Consistency: Why Going to Bed & Waking Up at the Same Time Matters.* [https://www.whoop.com/us/en/thelocker/sleep-consistency/](https://www.whoop.com/us/en/thelocker/sleep-consistency/)

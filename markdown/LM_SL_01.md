@@ -98,10 +98,10 @@ Bạn đã bao giờ ngủ đủ 8 tiếng sau một bữa ăn tối muộn th�
 
 ## Tài Liệu Tham Khảo & Nguồn Y Khoa
 
-1. **Beattie, Z., Oyang, Y., Statan, A., Ghoreyshi, A., Pantelopoulos, A., Russell, A., & Heneghan, C. (2017).** *Estimation of sleep stages in a healthy adult population from optical plethysmography and accelerometer signals.* Physiological Measurement, 38(11), 1968–1979. [Xem trên PubMed / NIH ↗](https://pubmed.ncbi.nlm.nih.gov/28960186/)
-2. **de Zambotti, M., Cellini, N., Goldstone, A., Colrain, I. M., & Baker, F. C. (2019).** *Wearable Sleep Technology in Clinical and Research Settings.* Medicine & Science in Sports & Exercise, 51(7), 1538–1557. [Xem trên PubMed / NIH ↗](https://pubmed.ncbi.nlm.nih.gov/30789439/)
-3. **Oura Ring Pulse Blog.** *How Oura Measures Sleep & Calculates Your Sleep Score.* [Xem trên Oura Ring ↗](https://ouraring.com/blog/sleep-score/)
-4. **Garmin Health Science & Firstbeat Analytics.** *Sleep Tracking & Sleep Score Technology.* [Xem trên Garmin Health Science ↗](https://www.garmin.com/en-US/garmin-technology/health-science/sleep-tracking/)
+1. **Beattie, Z., Oyang, Y., Statan, A., Ghoreyshi, A., Pantelopoulos, A., Russell, A., & Heneghan, C. (2017).** *Estimation of sleep stages in a healthy adult population from optical plethysmography and accelerometer signals.* Physiological Measurement, 38(11), 1968–1979. [https://pubmed.ncbi.nlm.nih.gov/28960186/](https://pubmed.ncbi.nlm.nih.gov/28960186/)
+2. **de Zambotti, M., Cellini, N., Goldstone, A., Colrain, I. M., & Baker, F. C. (2019).** *Wearable Sleep Technology in Clinical and Research Settings.* Medicine & Science in Sports & Exercise, 51(7), 1538–1557. [https://pubmed.ncbi.nlm.nih.gov/30789439/](https://pubmed.ncbi.nlm.nih.gov/30789439/)
+3. **Oura Ring Pulse Blog.** *How Oura Measures Sleep & Calculates Your Sleep Score.* [https://ouraring.com/blog/sleep-score/](https://ouraring.com/blog/sleep-score/)
+4. **Garmin Health Science & Firstbeat Analytics.** *Sleep Tracking & Sleep Score Technology.* [https://www.garmin.com/en-US/garmin-technology/health-science/sleep-tracking/](https://www.garmin.com/en-US/garmin-technology/health-science/sleep-tracking/)
 
 ---
 
@@ -191,7 +191,7 @@ Have you ever slept 8 hours after a heavy late dinner, evening drinks, or a 9:00
 
 ## References & Clinical Sources
 
-1. **Beattie, Z., Oyang, Y., Statan, A., Ghoreyshi, A., Pantelopoulos, A., Russell, A., & Heneghan, C. (2017).** *Estimation of sleep stages in a healthy adult population from optical plethysmography and accelerometer signals.* Physiological Measurement, 38(11), 1968–1979. [Read on PubMed / NIH ↗](https://pubmed.ncbi.nlm.nih.gov/28960186/)
-2. **de Zambotti, M., Cellini, N., Goldstone, A., Colrain, I. M., & Baker, F. C. (2019).** *Wearable Sleep Technology in Clinical and Research Settings.* Medicine & Science in Sports & Exercise, 51(7), 1538–1557. [Read on PubMed / NIH ↗](https://pubmed.ncbi.nlm.nih.gov/30789439/)
-3. **Oura Ring Pulse Blog.** *How Oura Measures Sleep & Calculates Your Sleep Score.* [Read on Oura Ring ↗](https://ouraring.com/blog/sleep-score/)
-4. **Garmin Health Science & Firstbeat Analytics.** *Sleep Tracking & Sleep Score Technology.* [Read on Garmin Health Science ↗](https://www.garmin.com/en-US/garmin-technology/health-science/sleep-tracking/)
+1. **Beattie, Z., Oyang, Y., Statan, A., Ghoreyshi, A., Pantelopoulos, A., Russell, A., & Heneghan, C. (2017).** *Estimation of sleep stages in a healthy adult population from optical plethysmography and accelerometer signals.* Physiological Measurement, 38(11), 1968–1979. [https://pubmed.ncbi.nlm.nih.gov/28960186/](https://pubmed.ncbi.nlm.nih.gov/28960186/)
+2. **de Zambotti, M., Cellini, N., Goldstone, A., Colrain, I. M., & Baker, F. C. (2019).** *Wearable Sleep Technology in Clinical and Research Settings.* Medicine & Science in Sports & Exercise, 51(7), 1538–1557. [https://pubmed.ncbi.nlm.nih.gov/30789439/](https://pubmed.ncbi.nlm.nih.gov/30789439/)
+3. **Oura Ring Pulse Blog.** *How Oura Measures Sleep & Calculates Your Sleep Score.* [https://ouraring.com/blog/sleep-score/](https://ouraring.com/blog/sleep-score/)
+4. **Garmin Health Science & Firstbeat Analytics.** *Sleep Tracking & Sleep Score Technology.* [https://www.garmin.com/en-US/garmin-technology/health-science/sleep-tracking/](https://www.garmin.com/en-US/garmin-technology/health-science/sleep-tracking/)

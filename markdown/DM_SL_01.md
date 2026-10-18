@@ -83,10 +83,10 @@ Khi người dùng WHOOP và Oura ghi nhật ký thói quen hàng ngày trên �
 
 ## Tài Liệu Tham Khảo & Nguồn Y Khoa
 
-1. **Van Cauter, E., Leproult, R., & Plat, L. (2000).** *Age-related changes in slow wave sleep and REM sleep and relationship with growth hormone and cortisol levels in healthy men.* JAMA, 284(7), 861–868. [Xem trên PubMed / NIH ↗](https://pubmed.ncbi.nlm.nih.gov/10938176/)
-2. **Haghayegh, S., Khoshnevis, S., Smolensky, M. H., Diller, K. R., & Castriotta, R. J. (2019).** *Before-bedtime passive body heating by warm shower or bath to improve sleep: A systematic review and meta-analysis.* Sleep Medicine Reviews, 46, 124–135. [Xem trên PubMed / NIH ↗](https://pubmed.ncbi.nlm.nih.gov/31102877/)
-3. **Drake, C., Roehrs, T., Shambroom, J., & Roth, T. (2013).** *Caffeine effects on sleep taken 0, 3, or 6 hours before going to bed.* Journal of Clinical Sleep Medicine, 9(11), 1195–1200. [Xem trên PubMed / NIH ↗](https://pubmed.ncbi.nlm.nih.gov/24235903/)
-4. **WHOOP The Locker.** *Deep Sleep: What It Is, Why You Need It & How to Get More.* [Xem trên WHOOP ↗](https://www.whoop.com/us/en/thelocker/what-is-deep-sleep/)
+1. **Van Cauter, E., Leproult, R., & Plat, L. (2000).** *Age-related changes in slow wave sleep and REM sleep and relationship with growth hormone and cortisol levels in healthy men.* JAMA, 284(7), 861–868. [https://pubmed.ncbi.nlm.nih.gov/10938176/](https://pubmed.ncbi.nlm.nih.gov/10938176/)
+2. **Haghayegh, S., Khoshnevis, S., Smolensky, M. H., Diller, K. R., & Castriotta, R. J. (2019).** *Before-bedtime passive body heating by warm shower or bath to improve sleep: A systematic review and meta-analysis.* Sleep Medicine Reviews, 46, 124–135. [https://pubmed.ncbi.nlm.nih.gov/31102877/](https://pubmed.ncbi.nlm.nih.gov/31102877/)
+3. **Drake, C., Roehrs, T., Shambroom, J., & Roth, T. (2013).** *Caffeine effects on sleep taken 0, 3, or 6 hours before going to bed.* Journal of Clinical Sleep Medicine, 9(11), 1195–1200. [https://pubmed.ncbi.nlm.nih.gov/24235903/](https://pubmed.ncbi.nlm.nih.gov/24235903/)
+4. **WHOOP The Locker.** *Deep Sleep: What It Is, Why You Need It & How to Get More.* [https://www.whoop.com/us/en/thelocker/what-is-deep-sleep/](https://www.whoop.com/us/en/thelocker/what-is-deep-sleep/)
 
 ---
 
@@ -161,7 +161,7 @@ When WHOOP and Oura members log daily habits in their app journals, four culprit
 
 ## References & Clinical Sources
 
-1. **Van Cauter, E., Leproult, R., & Plat, L. (2000).** *Age-related changes in slow wave sleep and REM sleep and relationship with growth hormone and cortisol levels in healthy men.* JAMA, 284(7), 861–868. [Read on PubMed / NIH ↗](https://pubmed.ncbi.nlm.nih.gov/10938176/)
-2. **Haghayegh, S., Khoshnevis, S., Smolensky, M. H., Diller, K. R., & Castriotta, R. J. (2019).** *Before-bedtime passive body heating by warm shower or bath to improve sleep: A systematic review and meta-analysis.* Sleep Medicine Reviews, 46, 124–135. [Read on PubMed / NIH ↗](https://pubmed.ncbi.nlm.nih.gov/31102877/)
-3. **Drake, C., Roehrs, T., Shambroom, J., & Roth, T. (2013).** *Caffeine effects on sleep taken 0, 3, or 6 hours before going to bed.* Journal of Clinical Sleep Medicine, 9(11), 1195–1200. [Read on PubMed / NIH ↗](https://pubmed.ncbi.nlm.nih.gov/24235903/)
-4. **WHOOP The Locker.** *Deep Sleep: What It Is, Why You Need It & How to Get More.* [Read on WHOOP ↗](https://www.whoop.com/us/en/thelocker/what-is-deep-sleep/)
+1. **Van Cauter, E., Leproult, R., & Plat, L. (2000).** *Age-related changes in slow wave sleep and REM sleep and relationship with growth hormone and cortisol levels in healthy men.* JAMA, 284(7), 861–868. [https://pubmed.ncbi.nlm.nih.gov/10938176/](https://pubmed.ncbi.nlm.nih.gov/10938176/)
+2. **Haghayegh, S., Khoshnevis, S., Smolensky, M. H., Diller, K. R., & Castriotta, R. J. (2019).** *Before-bedtime passive body heating by warm shower or bath to improve sleep: A systematic review and meta-analysis.* Sleep Medicine Reviews, 46, 124–135. [https://pubmed.ncbi.nlm.nih.gov/31102877/](https://pubmed.ncbi.nlm.nih.gov/31102877/)
+3. **Drake, C., Roehrs, T., Shambroom, J., & Roth, T. (2013).** *Caffeine effects on sleep taken 0, 3, or 6 hours before going to bed.* Journal of Clinical Sleep Medicine, 9(11), 1195–1200. [https://pubmed.ncbi.nlm.nih.gov/24235903/](https://pubmed.ncbi.nlm.nih.gov/24235903/)
+4. **WHOOP The Locker.** *Deep Sleep: What It Is, Why You Need It & How to Get More.* [https://www.whoop.com/us/en/thelocker/what-is-deep-sleep/](https://www.whoop.com/us/en/thelocker/what-is-deep-sleep/)

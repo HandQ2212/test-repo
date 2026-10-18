@@ -80,10 +80,10 @@ Khi bạn ghi nhật ký xông hơi và ngâm lạnh trên **WHOOP Journal** ho�
 
 ## Tài Liệu Tham Khảo & Nguồn Y Khoa
 
-1. **Laukkanen, T., Khan, H., Zaccardi, F., & Laukkanen, J. A. (2015).** *Association between sauna bathing and fatal cardiovascular and all-cause mortality events.* JAMA Internal Medicine, 175(4), 542–548. [Đọc trên PubMed / NIH ↗](https://pubmed.ncbi.nlm.nih.gov/25705824/)
-2. **Søberg, S., Löfgren, J., Philipsen, F. E., Jensen, M., Hansen, A. E., Ahrens, E., ... & Scheele, C. (2021).** *Altered brown fat thermoregulation and enhanced cold-induced thermogenesis in young, healthy, winter-swimming men.* Cell Reports Medicine, 2(10), 100408. [Đọc trên PubMed / NIH ↗](https://pubmed.ncbi.nlm.nih.gov/34755128/)
-3. **Roberts, L. A., Raastad, T., Markworth, J. F., Figueiredo, V. C., Egner, I. M., Shield, A., ... & Peake, J. M. (2015).** *Post-exercise cold water immersion attenuates acute anabolic signalling and long-term adaptations in muscle to strength training.* The Journal of Physiology, 593(18), 4285–4301. [Đọc trên PubMed / NIH ↗](https://pubmed.ncbi.nlm.nih.gov/26174323/)
-4. **WHOOP The Locker.** *Sauna & Cold Plunge Benefits: How Thermal Therapy Impacts HRV, RHR & Recovery.* [Đọc trên WHOOP ↗](https://www.whoop.com/us/en/thelocker/sauna-cold-plunge-benefits/)
+1. **Laukkanen, T., Khan, H., Zaccardi, F., & Laukkanen, J. A. (2015).** *Association between sauna bathing and fatal cardiovascular and all-cause mortality events.* JAMA Internal Medicine, 175(4), 542–548. [https://pubmed.ncbi.nlm.nih.gov/25705824/](https://pubmed.ncbi.nlm.nih.gov/25705824/)
+2. **Søberg, S., Löfgren, J., Philipsen, F. E., Jensen, M., Hansen, A. E., Ahrens, E., ... & Scheele, C. (2021).** *Altered brown fat thermoregulation and enhanced cold-induced thermogenesis in young, healthy, winter-swimming men.* Cell Reports Medicine, 2(10), 100408. [https://pubmed.ncbi.nlm.nih.gov/34755128/](https://pubmed.ncbi.nlm.nih.gov/34755128/)
+3. **Roberts, L. A., Raastad, T., Markworth, J. F., Figueiredo, V. C., Egner, I. M., Shield, A., ... & Peake, J. M. (2015).** *Post-exercise cold water immersion attenuates acute anabolic signalling and long-term adaptations in muscle to strength training.* The Journal of Physiology, 593(18), 4285–4301. [https://pubmed.ncbi.nlm.nih.gov/26174323/](https://pubmed.ncbi.nlm.nih.gov/26174323/)
+4. **WHOOP The Locker.** *Sauna & Cold Plunge Benefits: How Thermal Therapy Impacts HRV, RHR & Recovery.* [https://www.whoop.com/us/en/thelocker/sauna-cold-plunge-benefits/](https://www.whoop.com/us/en/thelocker/sauna-cold-plunge-benefits/)
 
 ---
 
@@ -155,7 +155,7 @@ When you log sauna and cold plunge habits in **WHOOP Journal** or **Oura Tags**,
 
 ## References & Clinical Sources
 
-1. **Laukkanen, T., Khan, H., Zaccardi, F., & Laukkanen, J. A. (2015).** *Association between sauna bathing and fatal cardiovascular and all-cause mortality events.* JAMA Internal Medicine, 175(4), 542–548. [Read on PubMed / NIH ↗](https://pubmed.ncbi.nlm.nih.gov/25705824/)
-2. **Søberg, S., Löfgren, J., Philipsen, F. E., Jensen, M., Hansen, A. E., Ahrens, E., ... & Scheele, C. (2021).** *Altered brown fat thermoregulation and enhanced cold-induced thermogenesis in young, healthy, winter-swimming men.* Cell Reports Medicine, 2(10), 100408. [Read on PubMed / NIH ↗](https://pubmed.ncbi.nlm.nih.gov/34755128/)
-3. **Roberts, L. A., Raastad, T., Markworth, J. F., Figueiredo, V. C., Egner, I. M., Shield, A., ... & Peake, J. M. (2015).** *Post-exercise cold water immersion attenuates acute anabolic signalling and long-term adaptations in muscle to strength training.* The Journal of Physiology, 593(18), 4285–4301. [Read on PubMed / NIH ↗](https://pubmed.ncbi.nlm.nih.gov/26174323/)
-4. **WHOOP The Locker.** *Sauna & Cold Plunge Benefits: How Thermal Therapy Impacts HRV, RHR & Recovery.* [Read on WHOOP ↗](https://www.whoop.com/us/en/thelocker/sauna-cold-plunge-benefits/)
+1. **Laukkanen, T., Khan, H., Zaccardi, F., & Laukkanen, J. A. (2015).** *Association between sauna bathing and fatal cardiovascular and all-cause mortality events.* JAMA Internal Medicine, 175(4), 542–548. [https://pubmed.ncbi.nlm.nih.gov/25705824/](https://pubmed.ncbi.nlm.nih.gov/25705824/)
+2. **Søberg, S., Löfgren, J., Philipsen, F. E., Jensen, M., Hansen, A. E., Ahrens, E., ... & Scheele, C. (2021).** *Altered brown fat thermoregulation and enhanced cold-induced thermogenesis in young, healthy, winter-swimming men.* Cell Reports Medicine, 2(10), 100408. [https://pubmed.ncbi.nlm.nih.gov/34755128/](https://pubmed.ncbi.nlm.nih.gov/34755128/)
+3. **Roberts, L. A., Raastad, T., Markworth, J. F., Figueiredo, V. C., Egner, I. M., Shield, A., ... & Peake, J. M. (2015).** *Post-exercise cold water immersion attenuates acute anabolic signalling and long-term adaptations in muscle to strength training.* The Journal of Physiology, 593(18), 4285–4301. [https://pubmed.ncbi.nlm.nih.gov/26174323/](https://pubmed.ncbi.nlm.nih.gov/26174323/)
+4. **WHOOP The Locker.** *Sauna & Cold Plunge Benefits: How Thermal Therapy Impacts HRV, RHR & Recovery.* [https://www.whoop.com/us/en/thelocker/sauna-cold-plunge-benefits/](https://www.whoop.com/us/en/thelocker/sauna-cold-plunge-benefits/)

@@ -86,10 +86,10 @@ Hãy thực hiện buổi tập thần kinh – cơ 5 phút này mỗi ngày tro
 
 ## Tài Liệu Tham Khảo & Nguồn Y Khoa
 
-1. **Dorey, G. (2004).** *Pelvic floor exercises for erectile dysfunction (Clinical Protocol & Fiber Physiology).* Physiotherapy / BJU International, 96(4), 595–597. [Xem trên PubMed / NIH ↗](https://pubmed.ncbi.nlm.nih.gov/16011707/)
-2. **Hodges, P. W., Sapsford, R., & Pengel, L. H. (2007).** *Postural and respiratory functions of the pelvic floor muscles.* Neurourology and Urodynamics, 26(3), 362–371. [Xem trên PubMed / NIH ↗](https://pubmed.ncbi.nlm.nih.gov/17304528/)
-3. **Talasz, H., Kremser, C., Kofler, M., Kalchschmid, E., Lechleitner, M., & Rudisch, A. (2011).** *Phase-locked parallel movement of the diaphragm and pelvic floor during breathing and coughing—a dynamic MRI investigation in healthy females and males.* International Urogynecology Journal, 22(1), 61–68. [Xem trên PubMed / NIH ↗](https://pubmed.ncbi.nlm.nih.gov/20809211/)
-4. **Stafford, R. E., Ashton-Miller, J. A., Constantinou, C., Coughlin, G., Lutton, N. J., & Hodges, P. W. (2016).** *Pattern of activation of pelvic floor muscles in men differs with verbal instructions.* Neurourology and Urodynamics, 35(4), 457–463. [Xem trên PubMed / NIH ↗](https://pubmed.ncbi.nlm.nih.gov/25727781/)
+1. **Dorey, G. (2004).** *Pelvic floor exercises for erectile dysfunction (Clinical Protocol & Fiber Physiology).* Physiotherapy / BJU International, 96(4), 595–597. [https://pubmed.ncbi.nlm.nih.gov/16011707/](https://pubmed.ncbi.nlm.nih.gov/16011707/)
+2. **Hodges, P. W., Sapsford, R., & Pengel, L. H. (2007).** *Postural and respiratory functions of the pelvic floor muscles.* Neurourology and Urodynamics, 26(3), 362–371. [https://pubmed.ncbi.nlm.nih.gov/17304528/](https://pubmed.ncbi.nlm.nih.gov/17304528/)
+3. **Talasz, H., Kremser, C., Kofler, M., Kalchschmid, E., Lechleitner, M., & Rudisch, A. (2011).** *Phase-locked parallel movement of the diaphragm and pelvic floor during breathing and coughing—a dynamic MRI investigation in healthy females and males.* International Urogynecology Journal, 22(1), 61–68. [https://pubmed.ncbi.nlm.nih.gov/20809211/](https://pubmed.ncbi.nlm.nih.gov/20809211/)
+4. **Stafford, R. E., Ashton-Miller, J. A., Constantinou, C., Coughlin, G., Lutton, N. J., & Hodges, P. W. (2016).** *Pattern of activation of pelvic floor muscles in men differs with verbal instructions.* Neurourology and Urodynamics, 35(4), 457–463. [https://pubmed.ncbi.nlm.nih.gov/25727781/](https://pubmed.ncbi.nlm.nih.gov/25727781/)
 
 ---
 
@@ -167,7 +167,7 @@ Practice this 5-minute daily neuromuscular session in a quiet room while complet
 
 ## References & Clinical Sources
 
-1. **Dorey, G. (2004).** *Pelvic floor exercises for erectile dysfunction (Clinical Protocol & Fiber Physiology).* Physiotherapy / BJU International, 96(4), 595–597. [Read on PubMed / NIH ↗](https://pubmed.ncbi.nlm.nih.gov/16011707/)
-2. **Hodges, P. W., Sapsford, R., & Pengel, L. H. (2007).** *Postural and respiratory functions of the pelvic floor muscles.* Neurourology and Urodynamics, 26(3), 362–371. [Read on PubMed / NIH ↗](https://pubmed.ncbi.nlm.nih.gov/17304528/)
-3. **Talasz, H., Kremser, C., Kofler, M., Kalchschmid, E., Lechleitner, M., & Rudisch, A. (2011).** *Phase-locked parallel movement of the diaphragm and pelvic floor during breathing and coughing—a dynamic MRI investigation in healthy females and males.* International Urogynecology Journal, 22(1), 61–68. [Read on PubMed / NIH ↗](https://pubmed.ncbi.nlm.nih.gov/20809211/)
-4. **Stafford, R. E., Ashton-Miller, J. A., Constantinou, C., Coughlin, G., Lutton, N. J., & Hodges, P. W. (2016).** *Pattern of activation of pelvic floor muscles in men differs with verbal instructions.* Neurourology and Urodynamics, 35(4), 457–463. [Read on PubMed / NIH ↗](https://pubmed.ncbi.nlm.nih.gov/25727781/)
+1. **Dorey, G. (2004).** *Pelvic floor exercises for erectile dysfunction (Clinical Protocol & Fiber Physiology).* Physiotherapy / BJU International, 96(4), 595–597. [https://pubmed.ncbi.nlm.nih.gov/16011707/](https://pubmed.ncbi.nlm.nih.gov/16011707/)
+2. **Hodges, P. W., Sapsford, R., & Pengel, L. H. (2007).** *Postural and respiratory functions of the pelvic floor muscles.* Neurourology and Urodynamics, 26(3), 362–371. [https://pubmed.ncbi.nlm.nih.gov/17304528/](https://pubmed.ncbi.nlm.nih.gov/17304528/)
+3. **Talasz, H., Kremser, C., Kofler, M., Kalchschmid, E., Lechleitner, M., & Rudisch, A. (2011).** *Phase-locked parallel movement of the diaphragm and pelvic floor during breathing and coughing—a dynamic MRI investigation in healthy females and males.* International Urogynecology Journal, 22(1), 61–68. [https://pubmed.ncbi.nlm.nih.gov/20809211/](https://pubmed.ncbi.nlm.nih.gov/20809211/)
+4. **Stafford, R. E., Ashton-Miller, J. A., Constantinou, C., Coughlin, G., Lutton, N. J., & Hodges, P. W. (2016).** *Pattern of activation of pelvic floor muscles in men differs with verbal instructions.* Neurourology and Urodynamics, 35(4), 457–463. [https://pubmed.ncbi.nlm.nih.gov/25727781/](https://pubmed.ncbi.nlm.nih.gov/25727781/)

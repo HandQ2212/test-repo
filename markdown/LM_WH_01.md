@@ -87,10 +87,10 @@ Sau khi trứng rụng, vỏ nang trứng còn lại biến đổi thành một 
 
 ## Tài Liệu Tham Khảo & Nguồn Y Khoa
 
-1. **Baker, F. C., Siboza, F., & Fuller, A. (2020).** *Temperature regulation in women: Effects of the menstrual cycle.* Temperature, 7(3), 226–262. [Đọc trên PubMed / NIH ↗](https://pubmed.ncbi.nlm.nih.gov/32078800/)
-2. **Sims, S. T., Ware, L., & Capodilupo, E. R. (2021).** *Patterns of endogenous and exogenous ovarian hormone modulation on recovery metrics across the menstrual cycle.* BMJ Open Sport & Exercise Medicine / PLOS ONE, 7(3), e001047. [Đọc trên PubMed / NIH ↗](https://pubmed.ncbi.nlm.nih.gov/34367655/)
-3. **Oura Ring Pulse Blog.** *How Your Menstrual Cycle Affects Your Body, Sleep, and Biometrics (Oura Cycle Insights).* [Đọc trên Oura Ring ↗](https://ouraring.com/blog/menstrual-cycle-phases/)
-4. **Clue Reproductive Health Encyclopedia.** *The Menstrual Cycle: More Than Just Your Period.* [Đọc trên Clue ↗](https://helloclue.com/articles/cycle-a-z/the-menstrual-cycle-more-than-just-the-period)
+1. **Baker, F. C., Siboza, F., & Fuller, A. (2020).** *Temperature regulation in women: Effects of the menstrual cycle.* Temperature, 7(3), 226–262. [https://pubmed.ncbi.nlm.nih.gov/32078800/](https://pubmed.ncbi.nlm.nih.gov/32078800/)
+2. **Sims, S. T., Ware, L., & Capodilupo, E. R. (2021).** *Patterns of endogenous and exogenous ovarian hormone modulation on recovery metrics across the menstrual cycle.* BMJ Open Sport & Exercise Medicine / PLOS ONE, 7(3), e001047. [https://pubmed.ncbi.nlm.nih.gov/34367655/](https://pubmed.ncbi.nlm.nih.gov/34367655/)
+3. **Oura Ring Pulse Blog.** *How Your Menstrual Cycle Affects Your Body, Sleep, and Biometrics (Oura Cycle Insights).* [https://ouraring.com/blog/menstrual-cycle-phases/](https://ouraring.com/blog/menstrual-cycle-phases/)
+4. **Clue Reproductive Health Encyclopedia.** *The Menstrual Cycle: More Than Just Your Period.* [https://helloclue.com/articles/cycle-a-z/the-menstrual-cycle-more-than-just-the-period](https://helloclue.com/articles/cycle-a-z/the-menstrual-cycle-more-than-just-the-period)
 
 ---
 
@@ -170,7 +170,7 @@ How does your watch graph look if you use hormonal birth control?
 
 ## References & Clinical Sources
 
-1. **Baker, F. C., Siboza, F., & Fuller, A. (2020).** *Temperature regulation in women: Effects of the menstrual cycle.* Temperature, 7(3), 226–262. [Read on PubMed / NIH ↗](https://pubmed.ncbi.nlm.nih.gov/32078800/)
-2. **Sims, S. T., Ware, L., & Capodilupo, E. R. (2021).** *Patterns of endogenous and exogenous ovarian hormone modulation on recovery metrics across the menstrual cycle.*BMJ Open Sport & Exercise Medicine / PLOS ONE, 7(3), e001047. [Read on PubMed / NIH ↗](https://pubmed.ncbi.nlm.nih.gov/34367655/)
-3. **Oura Ring Pulse Blog.** *How Your Menstrual Cycle Affects Your Body, Sleep, and Biometrics (Oura Cycle Insights).* [Read on Oura Ring ↗](https://ouraring.com/blog/menstrual-cycle-phases/)
-4. **Clue Reproductive Health Encyclopedia.** *The Menstrual Cycle: More Than Just Your Period.* [Read on Clue ↗](https://helloclue.com/articles/cycle-a-z/the-menstrual-cycle-more-than-just-the-period)
+1. **Baker, F. C., Siboza, F., & Fuller, A. (2020).** *Temperature regulation in women: Effects of the menstrual cycle.* Temperature, 7(3), 226–262. [https://pubmed.ncbi.nlm.nih.gov/32078800/](https://pubmed.ncbi.nlm.nih.gov/32078800/)
+2. **Sims, S. T., Ware, L., & Capodilupo, E. R. (2021).** *Patterns of endogenous and exogenous ovarian hormone modulation on recovery metrics across the menstrual cycle.*BMJ Open Sport & Exercise Medicine / PLOS ONE, 7(3), e001047. [https://pubmed.ncbi.nlm.nih.gov/34367655/](https://pubmed.ncbi.nlm.nih.gov/34367655/)
+3. **Oura Ring Pulse Blog.** *How Your Menstrual Cycle Affects Your Body, Sleep, and Biometrics (Oura Cycle Insights).* [https://ouraring.com/blog/menstrual-cycle-phases/](https://ouraring.com/blog/menstrual-cycle-phases/)
+4. **Clue Reproductive Health Encyclopedia.** *The Menstrual Cycle: More Than Just Your Period.* [https://helloclue.com/articles/cycle-a-z/the-menstrual-cycle-more-than-just-the-period](https://helloclue.com/articles/cycle-a-z/the-menstrual-cycle-more-than-just-the-period)

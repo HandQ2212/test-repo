@@ -86,10 +86,10 @@ Bạn đã bao giờ chạy đúng cự ly 5 km với tốc độ quen thuộc v
 
 ## Tài Liệu Tham Khảo & Nguồn Y Khoa
 
-1. **Sung, E., Han, A., Hinrichs, T., Vorgerd, M., Manchado, C., & Platen, P. (2014).** *Effects of follicular versus luteal phase-based strength training in young women.* SpringerPlus, 3(1), 668. [Đọc trên PubMed / NIH ↗](https://pubmed.ncbi.nlm.nih.gov/25525569/)
-2. **McNulty, K. L., Elliott-Sale, K. J., Dolan, E., Swinton, P. A., Ansdell, P., Goodall, S., ... & Hicks, K. M. (2020).** *The Effects of Menstrual Cycle Phase on Exercise Performance in Eumenorrheic Women: A Systematic Review and Meta-Analysis.* Sports Medicine, 50(10), 1813–1827. [Đọc trên PubMed / NIH ↗](https://pubmed.ncbi.nlm.nih.gov/32661839/)
-3. **Herzberg, S. D., Motu'apuaka, M. L., Lambert, W., Fu, R., Brady, J., & Guise, J. M. (2017).** *The Effect of Menstrual Cycle and Contraceptives on ACL Injuries and Laxity: A Systematic Review and Meta-analysis.* Orthopaedic Journal of Sports Medicine, 5(7), 2325967117718781. [Đọc trên PubMed / NIH ↗](https://pubmed.ncbi.nlm.nih.gov/28795075/)
-4. **WHOOP The Locker (with Dr. Stacy Sims).** *Menstrual Cycle Coaching: Training & Recovery Across Your Cycle Phases.* [Đọc trên WHOOP ↗](https://www.whoop.com/us/en/thelocker/menstrual-cycle-coaching/)
+1. **Sung, E., Han, A., Hinrichs, T., Vorgerd, M., Manchado, C., & Platen, P. (2014).** *Effects of follicular versus luteal phase-based strength training in young women.* SpringerPlus, 3(1), 668. [https://pubmed.ncbi.nlm.nih.gov/25525569/](https://pubmed.ncbi.nlm.nih.gov/25525569/)
+2. **McNulty, K. L., Elliott-Sale, K. J., Dolan, E., Swinton, P. A., Ansdell, P., Goodall, S., ... & Hicks, K. M. (2020).** *The Effects of Menstrual Cycle Phase on Exercise Performance in Eumenorrheic Women: A Systematic Review and Meta-Analysis.* Sports Medicine, 50(10), 1813–1827. [https://pubmed.ncbi.nlm.nih.gov/32661839/](https://pubmed.ncbi.nlm.nih.gov/32661839/)
+3. **Herzberg, S. D., Motu'apuaka, M. L., Lambert, W., Fu, R., Brady, J., & Guise, J. M. (2017).** *The Effect of Menstrual Cycle and Contraceptives on ACL Injuries and Laxity: A Systematic Review and Meta-analysis.* Orthopaedic Journal of Sports Medicine, 5(7), 2325967117718781. [https://pubmed.ncbi.nlm.nih.gov/28795075/](https://pubmed.ncbi.nlm.nih.gov/28795075/)
+4. **WHOOP The Locker (with Dr. Stacy Sims).** *Menstrual Cycle Coaching: Training & Recovery Across Your Cycle Phases.* [https://www.whoop.com/us/en/thelocker/menstrual-cycle-coaching/](https://www.whoop.com/us/en/thelocker/menstrual-cycle-coaching/)
 
 ---
 
@@ -167,7 +167,7 @@ Here is what is happening inside your cardiovascular system:
 
 ## References & Clinical Sources
 
-1. **Sung, E., Han, A., Hinrichs, T., Vorgerd, M., Manchado, C., & Platen, P. (2014).** *Effects of follicular versus luteal phase-based strength training in young women.* SpringerPlus, 3(1), 668. [Read on PubMed / NIH ↗](https://pubmed.ncbi.nlm.nih.gov/25525569/)
-2. **McNulty, K. L., Elliott-Sale, K. J., Dolan, E., Swinton, P. A., Ansdell, P., Goodall, S., ... & Hicks, K. M. (2020).** *The Effects of Menstrual Cycle Phase on Exercise Performance in Eumenorrheic Women: A Systematic Review and Meta-Analysis.* Sports Medicine, 50(10), 1813–1827. [Read on PubMed / NIH ↗](https://pubmed.ncbi.nlm.nih.gov/32661839/)
-3. **Herzberg, S. D., Motu'apuaka, M. L., Lambert, W., Fu, R., Brady, J., & Guise, J. M. (2017).** *The Effect of Menstrual Cycle and Contraceptives on ACL Injuries and Laxity: A Systematic Review and Meta-analysis.* Orthopaedic Journal of Sports Medicine, 5(7), 2325967117718781. [Read on PubMed / NIH ↗](https://pubmed.ncbi.nlm.nih.gov/28795075/)
-4. **WHOOP The Locker (with Dr. Stacy Sims).** *Menstrual Cycle Coaching: Training & Recovery Across Your Cycle Phases.* [Read on WHOOP ↗](https://www.whoop.com/us/en/thelocker/menstrual-cycle-coaching/)
+1. **Sung, E., Han, A., Hinrichs, T., Vorgerd, M., Manchado, C., & Platen, P. (2014).** *Effects of follicular versus luteal phase-based strength training in young women.* SpringerPlus, 3(1), 668. [https://pubmed.ncbi.nlm.nih.gov/25525569/](https://pubmed.ncbi.nlm.nih.gov/25525569/)
+2. **McNulty, K. L., Elliott-Sale, K. J., Dolan, E., Swinton, P. A., Ansdell, P., Goodall, S., ... & Hicks, K. M. (2020).** *The Effects of Menstrual Cycle Phase on Exercise Performance in Eumenorrheic Women: A Systematic Review and Meta-Analysis.* Sports Medicine, 50(10), 1813–1827. [https://pubmed.ncbi.nlm.nih.gov/32661839/](https://pubmed.ncbi.nlm.nih.gov/32661839/)
+3. **Herzberg, S. D., Motu'apuaka, M. L., Lambert, W., Fu, R., Brady, J., & Guise, J. M. (2017).** *The Effect of Menstrual Cycle and Contraceptives on ACL Injuries and Laxity: A Systematic Review and Meta-analysis.* Orthopaedic Journal of Sports Medicine, 5(7), 2325967117718781. [https://pubmed.ncbi.nlm.nih.gov/28795075/](https://pubmed.ncbi.nlm.nih.gov/28795075/)
+4. **WHOOP The Locker (with Dr. Stacy Sims).** *Menstrual Cycle Coaching: Training & Recovery Across Your Cycle Phases.* [https://www.whoop.com/us/en/thelocker/menstrual-cycle-coaching/](https://www.whoop.com/us/en/thelocker/menstrual-cycle-coaching/)

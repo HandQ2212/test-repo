@@ -85,10 +85,10 @@ Khi theo dõi biểu đồ Active Zone Minutes ngày và tuần trên ứng dụ
 
 ## Tài Liệu Tham Khảo & Nguồn Y Khoa
 
-1. **Bull, F. C., Al-Ansari, S. S., Biddle, S., Borodulin, K., Buman, M. P., Cardon, G., ... & Willumsen, J. F. (2020).** *World Health Organization 2020 guidelines on physical activity and sedentary behaviour.* British Journal of Sports Medicine, 54(24), 1451–1462. [Đọc trên PubMed / NIH ↗](https://pubmed.ncbi.nlm.nih.gov/33239350/)
-2. **Karvonen, M. J., Kentala, E., & Mustala, O. (1957).** *The effects of training on heart rate; a longitudinal study.* Annales Medicinae Experimentalis et Biologiae Fenniae, 35(3), 307–315. [Đọc trên PubMed / NIH ↗](https://pubmed.ncbi.nlm.nih.gov/13470504/)
-3. **Fitbit Health Science.** *What Are Active Zone Minutes or Active Minutes on My Fitbit Device?* [Đọc trên Fitbit Help / Science ↗](https://support.google.com/fitbit/answer/14236513)
-4. **Garmin Health Science.** *Intensity Minutes: How Garmin Tracks Moderate and Vigorous Activity Based on WHO & AHA Standards.* [Đọc trên Garmin Health Science ↗](https://www.garmin.com/en-US/garmin-technology/health-science/intensity-minutes/)
+1. **Bull, F. C., Al-Ansari, S. S., Biddle, S., Borodulin, K., Buman, M. P., Cardon, G., ... & Willumsen, J. F. (2020).** *World Health Organization 2020 guidelines on physical activity and sedentary behaviour.* British Journal of Sports Medicine, 54(24), 1451–1462. [https://pubmed.ncbi.nlm.nih.gov/33239350/](https://pubmed.ncbi.nlm.nih.gov/33239350/)
+2. **Karvonen, M. J., Kentala, E., & Mustala, O. (1957).** *The effects of training on heart rate; a longitudinal study.* Annales Medicinae Experimentalis et Biologiae Fenniae, 35(3), 307–315. [https://pubmed.ncbi.nlm.nih.gov/13470504/](https://pubmed.ncbi.nlm.nih.gov/13470504/)
+3. **Fitbit Health Science.** *What Are Active Zone Minutes or Active Minutes on My Fitbit Device?* [https://support.google.com/fitbit/answer/14236513](https://support.google.com/fitbit/answer/14236513)
+4. **Garmin Health Science.** *Intensity Minutes: How Garmin Tracks Moderate and Vigorous Activity Based on WHO & AHA Standards.* [https://www.garmin.com/en-US/garmin-technology/health-science/intensity-minutes/](https://www.garmin.com/en-US/garmin-technology/health-science/intensity-minutes/)
 
 ---
 
@@ -165,7 +165,7 @@ When you review your daily and weekly Active Zone Minutes graph in your companio
 
 ## References & Clinical Sources
 
-1. **Bull, F. C., Al-Ansari, S. S., Biddle, S., Borodulin, K., Buman, M. P., Cardon, G., ... & Willumsen, J. F. (2020).** *World Health Organization 2020 guidelines on physical activity and sedentary behaviour.* British Journal of Sports Medicine, 54(24), 1451–1462. [Read on PubMed / NIH ↗](https://pubmed.ncbi.nlm.nih.gov/33239350/)
-2. **Karvonen, M. J., Kentala, E., & Mustala, O. (1957).** *The effects of training on heart rate; a longitudinal study.* Annales Medicinae Experimentalis et Biologiae Fenniae, 35(3), 307–315. [Read on PubMed / NIH ↗](https://pubmed.ncbi.nlm.nih.gov/13470504/)
-3. **Fitbit Health Science.** *What Are Active Zone Minutes or Active Minutes on My Fitbit Device?* [Read on Fitbit Help / Science ↗](https://support.google.com/fitbit/answer/14236513)
-4. **Garmin Health Science.** *Intensity Minutes: How Garmin Tracks Moderate and Vigorous Activity Based on WHO & AHA Standards.* [Read on Garmin Health Science ↗](https://www.garmin.com/en-US/garmin-technology/health-science/intensity-minutes/)
+1. **Bull, F. C., Al-Ansari, S. S., Biddle, S., Borodulin, K., Buman, M. P., Cardon, G., ... & Willumsen, J. F. (2020).** *World Health Organization 2020 guidelines on physical activity and sedentary behaviour.* British Journal of Sports Medicine, 54(24), 1451–1462. [https://pubmed.ncbi.nlm.nih.gov/33239350/](https://pubmed.ncbi.nlm.nih.gov/33239350/)
+2. **Karvonen, M. J., Kentala, E., & Mustala, O. (1957).** *The effects of training on heart rate; a longitudinal study.* Annales Medicinae Experimentalis et Biologiae Fenniae, 35(3), 307–315. [https://pubmed.ncbi.nlm.nih.gov/13470504/](https://pubmed.ncbi.nlm.nih.gov/13470504/)
+3. **Fitbit Health Science.** *What Are Active Zone Minutes or Active Minutes on My Fitbit Device?* [https://support.google.com/fitbit/answer/14236513](https://support.google.com/fitbit/answer/14236513)
+4. **Garmin Health Science.** *Intensity Minutes: How Garmin Tracks Moderate and Vigorous Activity Based on WHO & AHA Standards.* [https://www.garmin.com/en-US/garmin-technology/health-science/intensity-minutes/](https://www.garmin.com/en-US/garmin-technology/health-science/intensity-minutes/)

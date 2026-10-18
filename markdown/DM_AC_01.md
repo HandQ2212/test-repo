@@ -81,10 +81,10 @@ Trên **Garmin**, **WHOOP**, **Apple Watch** và **Oura**, bạn có thể kiể
 
 ## Tài Liệu Tham Khảo & Nguồn Y Khoa
 
-1. **San-Millán, I., & Brooks, G. A. (2018).** *Assessment of Metabolic Flexibility by Means of Measuring Blood Lactate, Fat, and Carbohydrate Oxidation Responses to Exercise in Professional Endurance Athletes and Less-Fit Individuals.* Sports Medicine, 48(2), 467–479. [Đọc trên PubMed / NIH ↗](https://pubmed.ncbi.nlm.nih.gov/28623613/)
-2. **Seiler, S. (2010).** *What is best practice for training intensity and duration distribution in endurance athletes?* International Journal of Sports Physiology and Performance, 5(3), 276–291. [Đọc trên PubMed / NIH ↗](https://pubmed.ncbi.nlm.nih.gov/20861519/)
-3. **WHOOP The Locker.** *Zone 2 Cardio: What It Is, Benefits & How to Do It Properly.* [Đọc trên WHOOP ↗](https://www.whoop.com/us/en/thelocker/zone-2-cardio/)
-4. **Garmin Health Science.** *Heart Rate Zones & Aerobic Training Effect: Building Your Endurance Foundation.* [Đọc trên Garmin Health Science ↗](https://www.garmin.com/en-US/garmin-technology/running-science/physiological-measurements/training-effect/)
+1. **San-Millán, I., & Brooks, G. A. (2018).** *Assessment of Metabolic Flexibility by Means of Measuring Blood Lactate, Fat, and Carbohydrate Oxidation Responses to Exercise in Professional Endurance Athletes and Less-Fit Individuals.* Sports Medicine, 48(2), 467–479. [https://pubmed.ncbi.nlm.nih.gov/28623613/](https://pubmed.ncbi.nlm.nih.gov/28623613/)
+2. **Seiler, S. (2010).** *What is best practice for training intensity and duration distribution in endurance athletes?* International Journal of Sports Physiology and Performance, 5(3), 276–291. [https://pubmed.ncbi.nlm.nih.gov/20861519/](https://pubmed.ncbi.nlm.nih.gov/20861519/)
+3. **WHOOP The Locker.** *Zone 2 Cardio: What It Is, Benefits & How to Do It Properly.* [https://www.whoop.com/us/en/thelocker/zone-2-cardio/](https://www.whoop.com/us/en/thelocker/zone-2-cardio/)
+4. **Garmin Health Science.** *Heart Rate Zones & Aerobic Training Effect: Building Your Endurance Foundation.* [https://www.garmin.com/en-US/garmin-technology/running-science/physiological-measurements/training-effect/](https://www.garmin.com/en-US/garmin-technology/running-science/physiological-measurements/training-effect/)
 
 ---
 
@@ -157,7 +157,7 @@ On **Garmin**, **WHOOP**, **Apple Watch (watchOS Workout Zones)**, and **Oura**,
 
 ## References & Clinical Sources
 
-1. **San-Millán, I., & Brooks, G. A. (2018).** *Assessment of Metabolic Flexibility by Means of Measuring Blood Lactate, Fat, and Carbohydrate Oxidation Responses to Exercise in Professional Endurance Athletes and Less-Fit Individuals.* Sports Medicine, 48(2), 467–479. [Read on PubMed / NIH ↗](https://pubmed.ncbi.nlm.nih.gov/28623613/)
-2. **Seiler, S. (2010).** *What is best practice for training intensity and duration distribution in endurance athletes?* International Journal of Sports Physiology and Performance, 5(3), 276–291. [Read on PubMed / NIH ↗](https://pubmed.ncbi.nlm.nih.gov/20861519/)
-3. **WHOOP The Locker.** *Zone 2 Cardio: What It Is, Benefits & How to Do It Properly.* [Read on WHOOP ↗](https://www.whoop.com/us/en/thelocker/zone-2-cardio/)
-4. **Garmin Health Science.** *Heart Rate Zones & Aerobic Training Effect: Building Your Endurance Foundation.* [Read on Garmin Health Science ↗](https://www.garmin.com/en-US/garmin-technology/running-science/physiological-measurements/training-effect/)
+1. **San-Millán, I., & Brooks, G. A. (2018).** *Assessment of Metabolic Flexibility by Means of Measuring Blood Lactate, Fat, and Carbohydrate Oxidation Responses to Exercise in Professional Endurance Athletes and Less-Fit Individuals.* Sports Medicine, 48(2), 467–479. [https://pubmed.ncbi.nlm.nih.gov/28623613/](https://pubmed.ncbi.nlm.nih.gov/28623613/)
+2. **Seiler, S. (2010).** *What is best practice for training intensity and duration distribution in endurance athletes?* International Journal of Sports Physiology and Performance, 5(3), 276–291. [https://pubmed.ncbi.nlm.nih.gov/20861519/](https://pubmed.ncbi.nlm.nih.gov/20861519/)
+3. **WHOOP The Locker.** *Zone 2 Cardio: What It Is, Benefits & How to Do It Properly.* [https://www.whoop.com/us/en/thelocker/zone-2-cardio/](https://www.whoop.com/us/en/thelocker/zone-2-cardio/)
+4. **Garmin Health Science.** *Heart Rate Zones & Aerobic Training Effect: Building Your Endurance Foundation.* [https://www.garmin.com/en-US/garmin-technology/running-science/physiological-measurements/training-effect/](https://www.garmin.com/en-US/garmin-technology/running-science/physiological-measurements/training-effect/)

@@ -20,7 +20,7 @@
 
 ## Vượt Ra Ngoài Định Kiến: Vì Sao Mọi Nam Giới Đều Cần Hiểu Rõ Sàn Chậu Của Mình
 
-Trong nhiều thập kỷ, việc tập luyện cơ sàn chậu thường chỉ được nhắc đến trong bối cảnh phục hồi sau sinh ở phụ nữ. Tuy nhiên, các nghiên cứu tiết niệu lâm sàng và cơ sinh học hiện đại đã chứng minh một thực tế rõ ràng: **sàn chậu nam giới chính là động cơ cơ học nền tảng quyết định độ cương cứng tối đa, bản lĩnh kiểm soát xuất tinh, khả năng tự chủ tiểu tiện và sự vững chắc của vùng lõi thắt lưng – chậu.**
+Trong nhiều thập kỷ, việc tập luyện cơ sàn chậu thường chỉ được nhắc đến trong bối cảnh phục hồi sau sinh ở phụ nữ. Tuy nhiên, các nghiên cứu tiết niệu lâm sàng và cơ sinh học hiện đại đã chứng minh một thực tế rõ ràng: **sàn chậu nam giới chính là cỗ máy cơ học nền tảng quyết định độ cương cứng tối đa, bản lĩnh kiểm soát xuất tinh, khả năng tự chủ tiểu tiện và sự vững chắc của vùng lõi thắt lưng – chậu.**
 
 Về mặt giải phẫu, sàn chậu nam giới là một mái vòm đa lớp gồm các cơ vân (những nhóm cơ bạn có thể chủ động điều khiển bằng ý thức) và các dải cân mạc bền chắc, căng như một chiếc võng nâng đỡ từ **khớp mu** ở phía trước, hai **ụ ngồi** ở hai bên, cho đến **xương cụt** ở phía sau. Khác với cơ trơn bên trong thành mạch máu—vốn hoạt động tự động ngoài ý muốn—các cơ sàn chậu được chi phối bởi **dây thần kinh Thẹn (Pudendal Nerve, rễ thần kinh cùng S2–S4)**. Điều này có nghĩa là chúng phản ứng trực tiếp với việc rèn luyện sức mạnh và sức bền thần kinh – cơ giống hệt như cơ bắp tay hay cơ đùi của bạn.
 
@@ -79,10 +79,10 @@ Hãy thực hiện bài tập lập bản đồ thần kinh – cơ nền tảng
 
 ## Tài Liệu Tham Khảo & Nguồn Y Khoa
 
-1. **Dorey, G., Speakman, M. J., Feneley, R. C., Swinkels, A., & Dunn, C. D. (2005).** *Pelvic floor exercises for erectile dysfunction.* BJU International, 96(4), 595–597. [Xem trên PubMed / NIH ↗](https://pubmed.ncbi.nlm.nih.gov/16011707/)
-2. **Lavoisier, P., Roy, P., Dantony, E., Watrelot, A., Ruggeri, J., & Dumoulin, S. (2014).** *Pelvic-floor muscle rehabilitation in erectile dysfunction and premature ejaculation.* Physical Therapy / Journal of Sexual Medicine, 94(12), 1731–1743. [Xem trên PubMed / NIH ↗](https://pubmed.ncbi.nlm.nih.gov/25060956/)
-3. **Shafik, A., Shafik, A. A., El Sibai, O., & Shafik, I. A. (2007).** *Physiologic role of ischiocavernosus and bulbocavernosus muscles in erection.* Urology / Archives of Andrology. [Xem trên PubMed / NIH ↗](https://pubmed.ncbi.nlm.nih.gov/16011707/)
-4. **Cohen, D., Gonzalez, J., & Goldstein, I. (2016).** *The Role of Pelvic Floor Muscles in Male Sexual Dysfunction and Pelvic Pain.* Sexual Medicine Reviews, 4(1), 53–62. [Xem trên PubMed / NIH ↗](https://pubmed.ncbi.nlm.nih.gov/27872005/)
+1. **Dorey, G., Speakman, M. J., Feneley, R. C., Swinkels, A., & Dunn, C. D. (2005).** *Pelvic floor exercises for erectile dysfunction.* BJU International, 96(4), 595–597. [https://pubmed.ncbi.nlm.nih.gov/16011707/](https://pubmed.ncbi.nlm.nih.gov/16011707/)
+2. **Lavoisier, P., Roy, P., Dantony, E., Watrelot, A., Ruggeri, J., & Dumoulin, S. (2014).** *Pelvic-floor muscle rehabilitation in erectile dysfunction and premature ejaculation.* Physical Therapy / Journal of Sexual Medicine, 94(12), 1731–1743. [https://pubmed.ncbi.nlm.nih.gov/25060956/](https://pubmed.ncbi.nlm.nih.gov/25060956/)
+3. **Shafik, A., Shafik, A. A., El Sibai, O., & Shafik, I. A. (2007).** *Physiologic role of ischiocavernosus and bulbocavernosus muscles in erection.* Urology / Archives of Andrology. [https://pubmed.ncbi.nlm.nih.gov/16011707/](https://pubmed.ncbi.nlm.nih.gov/16011707/)
+4. **Cohen, D., Gonzalez, J., & Goldstein, I. (2016).** *The Role of Pelvic Floor Muscles in Male Sexual Dysfunction and Pelvic Pain.* Sexual Medicine Reviews, 4(1), 53–62. [https://pubmed.ncbi.nlm.nih.gov/27872005/](https://pubmed.ncbi.nlm.nih.gov/27872005/)
 
 ---
 
@@ -153,7 +153,7 @@ Perform this foundational neuromuscular mapping drill once daily in a completely
 
 ## References & Clinical Sources
 
-1. **Dorey, G., Speakman, M. J., Feneley, R. C., Swinkels, A., & Dunn, C. D. (2005).** *Pelvic floor exercises for erectile dysfunction.* BJU International, 96(4), 595–597. [Read on PubMed / NIH ↗](https://pubmed.ncbi.nlm.nih.gov/16011707/)
-2. **Lavoisier, P., Roy, P., Dantony, E., Watrelot, A., Ruggeri, J., & Dumoulin, S. (2014).** *Pelvic-floor muscle rehabilitation in erectile dysfunction and premature ejaculation.* Physical Therapy / Journal of Sexual Medicine, 94(12), 1731–1743. [Read on PubMed / NIH ↗](https://pubmed.ncbi.nlm.nih.gov/25060956/)
-3. **Shafik, A., Shafik, A. A., El Sibai, O., & Shafik, I. A. (2007).** *Physiologic role of ischiocavernosus and bulbocavernosus muscles in erection.* Urology / Archives of Andrology. [Read on PubMed / NIH ↗](https://pubmed.ncbi.nlm.nih.gov/16011707/)
-4. **Cohen, D., Gonzalez, J., & Goldstein, I. (2016).** *The Role of Pelvic Floor Muscles in Male Sexual Dysfunction and Pelvic Pain.* Sexual Medicine Reviews, 4(1), 53–62. [Read on PubMed / NIH ↗](https://pubmed.ncbi.nlm.nih.gov/27872005/)
+1. **Dorey, G., Speakman, M. J., Feneley, R. C., Swinkels, A., & Dunn, C. D. (2005).** *Pelvic floor exercises for erectile dysfunction.* BJU International, 96(4), 595–597. [https://pubmed.ncbi.nlm.nih.gov/16011707/](https://pubmed.ncbi.nlm.nih.gov/16011707/)
+2. **Lavoisier, P., Roy, P., Dantony, E., Watrelot, A., Ruggeri, J., & Dumoulin, S. (2014).** *Pelvic-floor muscle rehabilitation in erectile dysfunction and premature ejaculation.* Physical Therapy / Journal of Sexual Medicine, 94(12), 1731–1743. [https://pubmed.ncbi.nlm.nih.gov/25060956/](https://pubmed.ncbi.nlm.nih.gov/25060956/)
+3. **Shafik, A., Shafik, A. A., El Sibai, O., & Shafik, I. A. (2007).** *Physiologic role of ischiocavernosus and bulbocavernosus muscles in erection.* Urology / Archives of Andrology. [https://pubmed.ncbi.nlm.nih.gov/16011707/](https://pubmed.ncbi.nlm.nih.gov/16011707/)
+4. **Cohen, D., Gonzalez, J., & Goldstein, I. (2016).** *The Role of Pelvic Floor Muscles in Male Sexual Dysfunction and Pelvic Pain.* Sexual Medicine Reviews, 4(1), 53–62. [https://pubmed.ncbi.nlm.nih.gov/27872005/](https://pubmed.ncbi.nlm.nih.gov/27872005/)

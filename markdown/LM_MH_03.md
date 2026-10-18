@@ -87,10 +87,10 @@ Dựa trên sự kết hợp phác đồ của **Dorey và cộng sự (2005)** 
 
 ## Tài Liệu Tham Khảo & Nguồn Y Khoa
 
-1. **Dorey, G., Speakman, M. J., Feneley, R. C., Swinkels, A., & Dunn, C. D. (2005).** *Pelvic floor exercises for erectile dysfunction.* BJU International, 96(4), 595–597. [Xem trên PubMed / NIH ↗](https://pubmed.ncbi.nlm.nih.gov/16011707/)
-2. **Pastore, A. L., Palleschi, G., Fuschi, A., Maggioni, C., Rago, R., Zucchi, A., Costantini, E., & Carbone, A. (2014).** *Pelvic floor muscle rehabilitation for patients with lifelong premature ejaculation: a novel therapeutic approach.* Therapeutic Advances in Urology, 6(3), 83–88. [Xem trên PubMed / NIH ↗](https://pubmed.ncbi.nlm.nih.gov/24716983/)
-3. **Lavoisier, P., Roy, P., Dantony, E., Watrelot, A., Ruggeri, J., & Dumoulin, S. (2014).** *Pelvic-floor muscle rehabilitation in erectile dysfunction and premature ejaculation.* Physical Therapy, 94(12), 1731–1743. [Xem trên PubMed / NIH ↗](https://pubmed.ncbi.nlm.nih.gov/25060956/)
-4. **Milios, J. E., Ackland, T. R., & Green, D. J. (2019).** *Pelvic floor muscle training in radical prostatectomy: a randomized controlled trial of the impacts on pelvic floor muscle function and urinary incontinence.* BMC Urology, 19(1), 116. [Xem trên PubMed / NIH ↗](https://pubmed.ncbi.nlm.nih.gov/31766990/)
+1. **Dorey, G., Speakman, M. J., Feneley, R. C., Swinkels, A., & Dunn, C. D. (2005).** *Pelvic floor exercises for erectile dysfunction.* BJU International, 96(4), 595–597. [https://pubmed.ncbi.nlm.nih.gov/16011707/](https://pubmed.ncbi.nlm.nih.gov/16011707/)
+2. **Pastore, A. L., Palleschi, G., Fuschi, A., Maggioni, C., Rago, R., Zucchi, A., Costantini, E., & Carbone, A. (2014).** *Pelvic floor muscle rehabilitation for patients with lifelong premature ejaculation: a novel therapeutic approach.* Therapeutic Advances in Urology, 6(3), 83–88. [https://pubmed.ncbi.nlm.nih.gov/24716983/](https://pubmed.ncbi.nlm.nih.gov/24716983/)
+3. **Lavoisier, P., Roy, P., Dantony, E., Watrelot, A., Ruggeri, J., & Dumoulin, S. (2014).** *Pelvic-floor muscle rehabilitation in erectile dysfunction and premature ejaculation.* Physical Therapy, 94(12), 1731–1743. [https://pubmed.ncbi.nlm.nih.gov/25060956/](https://pubmed.ncbi.nlm.nih.gov/25060956/)
+4. **Milios, J. E., Ackland, T. R., & Green, D. J. (2019).** *Pelvic floor muscle training in radical prostatectomy: a randomized controlled trial of the impacts on pelvic floor muscle function and urinary incontinence.* BMC Urology, 19(1), 116. [https://pubmed.ncbi.nlm.nih.gov/31766990/](https://pubmed.ncbi.nlm.nih.gov/31766990/)
 
 ---
 
@@ -169,7 +169,7 @@ Based on the combined protocols of **Dorey et al. (2005)** and **Pastore et al. 
 
 ## References & Clinical Sources
 
-1. **Dorey, G., Speakman, M. J., Feneley, R. C., Swinkels, A., & Dunn, C. D. (2005).** *Pelvic floor exercises for erectile dysfunction.* BJU International, 96(4), 595–597. [Read on PubMed / NIH ↗](https://pubmed.ncbi.nlm.nih.gov/16011707/)
-2. **Pastore, A. L., Palleschi, G., Fuschi, A., Maggioni, C., Rago, R., Zucchi, A., Costantini, E., & Carbone, A. (2014).** *Pelvic floor muscle rehabilitation for patients with lifelong premature ejaculation: a novel therapeutic approach.* Therapeutic Advances in Urology, 6(3), 83–88. [Read on PubMed / NIH ↗](https://pubmed.ncbi.nlm.nih.gov/24716983/)
-3. **Lavoisier, P., Roy, P., Dantony, E., Watrelot, A., Ruggeri, J., & Dumoulin, S. (2014).** *Pelvic-floor muscle rehabilitation in erectile dysfunction and premature ejaculation.* Physical Therapy, 94(12), 1731–1743. [Read on PubMed / NIH ↗](https://pubmed.ncbi.nlm.nih.gov/25060956/)
-4. **Milios, J. E., Ackland, T. R., & Green, D. J. (2019).** *Pelvic floor muscle training in radical prostatectomy: a randomized controlled trial of the impacts on pelvic floor muscle function and urinary incontinence.* BMC Urology, 19(1), 116. [Read on PubMed / NIH ↗](https://pubmed.ncbi.nlm.nih.gov/31766990/)
+1. **Dorey, G., Speakman, M. J., Feneley, R. C., Swinkels, A., & Dunn, C. D. (2005).** *Pelvic floor exercises for erectile dysfunction.* BJU International, 96(4), 595–597. [https://pubmed.ncbi.nlm.nih.gov/16011707/](https://pubmed.ncbi.nlm.nih.gov/16011707/)
+2. **Pastore, A. L., Palleschi, G., Fuschi, A., Maggioni, C., Rago, R., Zucchi, A., Costantini, E., & Carbone, A. (2014).** *Pelvic floor muscle rehabilitation for patients with lifelong premature ejaculation: a novel therapeutic approach.* Therapeutic Advances in Urology, 6(3), 83–88. [https://pubmed.ncbi.nlm.nih.gov/24716983/](https://pubmed.ncbi.nlm.nih.gov/24716983/)
+3. **Lavoisier, P., Roy, P., Dantony, E., Watrelot, A., Ruggeri, J., & Dumoulin, S. (2014).** *Pelvic-floor muscle rehabilitation in erectile dysfunction and premature ejaculation.* Physical Therapy, 94(12), 1731–1743. [https://pubmed.ncbi.nlm.nih.gov/25060956/](https://pubmed.ncbi.nlm.nih.gov/25060956/)
+4. **Milios, J. E., Ackland, T. R., & Green, D. J. (2019).** *Pelvic floor muscle training in radical prostatectomy: a randomized controlled trial of the impacts on pelvic floor muscle function and urinary incontinence.* BMC Urology, 19(1), 116. [https://pubmed.ncbi.nlm.nih.gov/31766990/](https://pubmed.ncbi.nlm.nih.gov/31766990/)

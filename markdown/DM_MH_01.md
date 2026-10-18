@@ -20,7 +20,7 @@
 
 ## Giải Mã Phản Xạ Xuất Tinh Tại Tủy Sống: Pha Tiết Tinh (Emission) vs. Pha Phóng Tinh (Expulsion)
 
-Trong sinh lý học y khoa, đáp ứng tình dục nam giới được tóm gọn bằng nguyên lý thần kinh kinh điển **"Point and Shoot" (Cương và Phóng)**—bởi vì sự cương cứng và sự xuất tinh được điều khiển bởi hai nhánh đối lập nhau của **Hệ Thần Kinh Tự Chủ** (**Giuliano & Clement, 2005**; **Alwaal và cộng sự, 2015**):
+Trong sinh lý học y khoa, đáp ứng tình dục nam giới được tóm gọn bằng nguyên tắc kinh điển của hệ thần kinh **"Point and Shoot" (Cương và Phóng)**—bởi vì sự cương cứng và sự xuất tinh được điều khiển bởi hai nhánh đối lập nhau của **Hệ Thần Kinh Tự Chủ** (**Giuliano & Clement, 2005**; **Alwaal và cộng sự, 2015**):
 - **Sự Cương Cứng ("Point") thuộc Hệ Phó Giao Cảm (`S2–S4`):** Đòi hỏi sự điềm tĩnh của dây thần kinh phế vị, nồng độ adrenaline thấp, hơi thở mũi chậm rãi và sự giãn mạch nhờ phân tử Oxit Nitric (NO).
 - **Sự Xuất Tinh ("Shoot") thuộc Hệ Giao Cảm & Thần Kinh Thân Thể (`T10–L2` & `S2–S4`):** Được kích hoạt khi sự hưng phấn của hệ thần kinh giao cảm leo thang chạm ngưỡng tới hạn, châm ngòi cho một **cung phản xạ tủy sống gồm 2 pha**:
   1. **Pha 1 — Tiết Tinh / Emission (Hệ Giao Cảm Ngực – Thắt Lưng `T10–L2`):** Các dây thần kinh giao cảm làm co cơ trơn ống dẫn tinh, túi tinh và tuyến tiền liệt, đẩy dịch tinh vào niệu đạo sau (niệu đạo tiền liệt tuyến) đồng thời đóng chặt cổ bàng quang. Ngay khoảnh khắc Pha Tiết Tinh hoàn tất, nam giới chạm tới **Điểm Không Thể Quay Đầu (Point of No Return — PONR)**—được cảm nhận chủ quan là cảm giác "chắc chắn phải xuất tinh".
@@ -77,10 +77,10 @@ Hãy luyện tập thuần thục chuỗi 5 bước này khi tập luyện cá n
 
 ## Tài Liệu Tham Khảo & Nguồn Y Khoa
 
-1. **Pastore, A. L., Palleschi, G., Fuschi, A., Maggioni, C., Rago, R., Zucchi, A., Costantini, E., & Carbone, A. (2014).** *Pelvic floor muscle rehabilitation for patients with lifelong premature ejaculation: a novel therapeutic approach.* Therapeutic Advances in Urology, 6(3), 83–88. [Xem trên PubMed / NIH ↗](https://pubmed.ncbi.nlm.nih.gov/24716983/)
-2. **Giuliano, F., & Clement, P. (2005).** *Physiology of ejaculation: emphasis on serotonergic control.* European Urology, 48(3), 408–417. [Xem trên PubMed / NIH ↗](https://pubmed.ncbi.nlm.nih.gov/15996810/)
-3. **Alwaal, A., Breyer, B. N., & Lue, T. F. (2015).** *Normal male sexual function: emphasis on orgasm and ejaculation.* Fertility and Sterility, 104(5), 1051–1060. [Xem trên PubMed / NIH ↗](https://pubmed.ncbi.nlm.nih.gov/26385403/)
-4. **La Pera, G. (2014).** *Awareness and timing of pelvic floor contraction to inhibit the ejaculatory reflex in premature ejaculation.* Journal of Sexual Medicine / Archivio Italiano di Urologia e Andrologia. [Xem trên PubMed / NIH ↗](https://pubmed.ncbi.nlm.nih.gov/25060956/)
+1. **Pastore, A. L., Palleschi, G., Fuschi, A., Maggioni, C., Rago, R., Zucchi, A., Costantini, E., & Carbone, A. (2014).** *Pelvic floor muscle rehabilitation for patients with lifelong premature ejaculation: a novel therapeutic approach.* Therapeutic Advances in Urology, 6(3), 83–88. [https://pubmed.ncbi.nlm.nih.gov/24716983/](https://pubmed.ncbi.nlm.nih.gov/24716983/)
+2. **Giuliano, F., & Clement, P. (2005).** *Physiology of ejaculation: emphasis on serotonergic control.* European Urology, 48(3), 408–417. [https://pubmed.ncbi.nlm.nih.gov/15996810/](https://pubmed.ncbi.nlm.nih.gov/15996810/)
+3. **Alwaal, A., Breyer, B. N., & Lue, T. F. (2015).** *Normal male sexual function: emphasis on orgasm and ejaculation.* Fertility and Sterility, 104(5), 1051–1060. [https://pubmed.ncbi.nlm.nih.gov/26385403/](https://pubmed.ncbi.nlm.nih.gov/26385403/)
+4. **La Pera, G. (2014).** *Awareness and timing of pelvic floor contraction to inhibit the ejaculatory reflex in premature ejaculation.* Journal of Sexual Medicine / Archivio Italiano di Urologia e Andrologia. [https://pubmed.ncbi.nlm.nih.gov/25060956/](https://pubmed.ncbi.nlm.nih.gov/25060956/)
 
 ---
 
@@ -149,7 +149,7 @@ Practice this sequence solo first during edging conditioning, then apply it seam
 
 ## References & Clinical Sources
 
-1. **Pastore, A. L., Palleschi, G., Fuschi, A., Maggioni, C., Rago, R., Zucchi, A., Costantini, E., & Carbone, A. (2014).** *Pelvic floor muscle rehabilitation for patients with lifelong premature ejaculation: a novel therapeutic approach.* Therapeutic Advances in Urology, 6(3), 83–88. [Read on PubMed / NIH ↗](https://pubmed.ncbi.nlm.nih.gov/24716983/)
-2. **Giuliano, F., & Clement, P. (2005).** *Physiology of ejaculation: emphasis on serotonergic control.* European Urology, 48(3), 408–417. [Read on PubMed / NIH ↗](https://pubmed.ncbi.nlm.nih.gov/15996810/)
-3. **Alwaal, A., Breyer, B. N., & Lue, T. F. (2015).** *Normal male sexual function: emphasis on orgasm and ejaculation.* Fertility and Sterility, 104(5), 1051–1060. [Read on PubMed / NIH ↗](https://pubmed.ncbi.nlm.nih.gov/26385403/)
-4. **La Pera, G. (2014).** *Awareness and timing of pelvic floor contraction to inhibit the ejaculatory reflex in premature ejaculation.* Journal of Sexual Medicine / Archivio Italiano di Urologia e Andrologia. [Read on PubMed / NIH ↗](https://pubmed.ncbi.nlm.nih.gov/25060956/)
+1. **Pastore, A. L., Palleschi, G., Fuschi, A., Maggioni, C., Rago, R., Zucchi, A., Costantini, E., & Carbone, A. (2014).** *Pelvic floor muscle rehabilitation for patients with lifelong premature ejaculation: a novel therapeutic approach.* Therapeutic Advances in Urology, 6(3), 83–88. [https://pubmed.ncbi.nlm.nih.gov/24716983/](https://pubmed.ncbi.nlm.nih.gov/24716983/)
+2. **Giuliano, F., & Clement, P. (2005).** *Physiology of ejaculation: emphasis on serotonergic control.* European Urology, 48(3), 408–417. [https://pubmed.ncbi.nlm.nih.gov/15996810/](https://pubmed.ncbi.nlm.nih.gov/15996810/)
+3. **Alwaal, A., Breyer, B. N., & Lue, T. F. (2015).** *Normal male sexual function: emphasis on orgasm and ejaculation.* Fertility and Sterility, 104(5), 1051–1060. [https://pubmed.ncbi.nlm.nih.gov/26385403/](https://pubmed.ncbi.nlm.nih.gov/26385403/)
+4. **La Pera, G. (2014).** *Awareness and timing of pelvic floor contraction to inhibit the ejaculatory reflex in premature ejaculation.* Journal of Sexual Medicine / Archivio Italiano di Urologia e Andrologia. [https://pubmed.ncbi.nlm.nih.gov/25060956/](https://pubmed.ncbi.nlm.nih.gov/25060956/)

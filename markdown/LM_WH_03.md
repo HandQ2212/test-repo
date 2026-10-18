@@ -82,10 +82,10 @@ Vì thiết bị đeo đo sự điều hòa nhiệt ngoại vi, các thuật to�
 
 ## Tài Liệu Tham Khảo & Nguồn Y Khoa
 
-1. **Maijala, A., Kinnunen, H., Koskimäki, H., Jämsä, T., & Kangas, M. (2019).** *Nocturnal finger skin temperature in menstrual cycle tracking: ambulatory pilot study using a wearable Oura ring.* BMC Women's Health / JMIR, 19(1), 150. [Đọc trên PubMed / NIH ↗](https://pubmed.ncbi.nlm.nih.gov/31783840/)
-2. **Bull, J. R., Rowland, S. P., Scherwitzl, E. B., Scherwitzl, R., Danielsson, K. G., & Harper, J. (2019).** *Real-world menstrual cycle characteristics of more than 600,000 menstrual cycles.* npj Digital Medicine (Nature), 2(1), 83. [Đọc trên PubMed / NIH ↗](https://pubmed.ncbi.nlm.nih.gov/31482137/)
-3. **Steward, K., & Raja, A. (2023).** *Physiology, Ovulation And Basal Body Temperature.* In StatPearls [Internet]. National Center for Biotechnology Information (NCBI). [Đọc trên NCBI Bookshelf ↗](https://www.ncbi.nlm.nih.gov/books/NBK546686/)
-4. **Natural Cycles° Medical Science.** *How Basal Body Temperature & Wearable Algorithms Detect Ovulation.* [Đọc trên Natural Cycles ↗](https://www.naturalcycles.com/the-science)
+1. **Maijala, A., Kinnunen, H., Koskimäki, H., Jämsä, T., & Kangas, M. (2019).** *Nocturnal finger skin temperature in menstrual cycle tracking: ambulatory pilot study using a wearable Oura ring.* BMC Women's Health / JMIR, 19(1), 150. [https://pubmed.ncbi.nlm.nih.gov/31783840/](https://pubmed.ncbi.nlm.nih.gov/31783840/)
+2. **Bull, J. R., Rowland, S. P., Scherwitzl, E. B., Scherwitzl, R., Danielsson, K. G., & Harper, J. (2019).** *Real-world menstrual cycle characteristics of more than 600,000 menstrual cycles.* npj Digital Medicine (Nature), 2(1), 83. [https://pubmed.ncbi.nlm.nih.gov/31482137/](https://pubmed.ncbi.nlm.nih.gov/31482137/)
+3. **Steward, K., & Raja, A. (2023).** *Physiology, Ovulation And Basal Body Temperature.* In StatPearls [Internet]. National Center for Biotechnology Information (NCBI). [https://www.ncbi.nlm.nih.gov/books/NBK546686/](https://www.ncbi.nlm.nih.gov/books/NBK546686/)
+4. **Natural Cycles° Medical Science.** *How Basal Body Temperature & Wearable Algorithms Detect Ovulation.* [https://www.naturalcycles.com/the-science](https://www.naturalcycles.com/the-science)
 
 ---
 
@@ -159,7 +159,7 @@ Because your wearable measures peripheral thermoregulation, smart algorithms (li
 
 ## References & Clinical Sources
 
-1. **Maijala, A., Kinnunen, H., Koskimäki, H., Jämsä, T., & Kangas, M. (2019).** *Nocturnal finger skin temperature in menstrual cycle tracking: ambulatory pilot study using a wearable Oura ring.* BMC Women's Health / JMIR, 19(1), 150. [Read on PubMed / NIH ↗](https://pubmed.ncbi.nlm.nih.gov/31783840/)
-2. **Bull, J. R., Rowland, S. P., Scherwitzl, E. B., Scherwitzl, R., Danielsson, K. G., & Harper, J. (2019).** *Real-world menstrual cycle characteristics of more than 600,000 menstrual cycles.* npj Digital Medicine (Nature), 2(1), 83. [Read on PubMed / NIH ↗](https://pubmed.ncbi.nlm.nih.gov/31482137/)
-3. **Steward, K., & Raja, A. (2023).** *Physiology, Ovulation And Basal Body Temperature.* In StatPearls [Internet]. National Center for Biotechnology Information (NCBI). [Read on NCBI Bookshelf ↗](https://www.ncbi.nlm.nih.gov/books/NBK546686/)
-4. **Natural Cycles° Medical Science.** *How Basal Body Temperature & Wearable Algorithms Detect Ovulation.* [Read on Natural Cycles ↗](https://www.naturalcycles.com/the-science)
+1. **Maijala, A., Kinnunen, H., Koskimäki, H., Jämsä, T., & Kangas, M. (2019).** *Nocturnal finger skin temperature in menstrual cycle tracking: ambulatory pilot study using a wearable Oura ring.* BMC Women's Health / JMIR, 19(1), 150. [https://pubmed.ncbi.nlm.nih.gov/31783840/](https://pubmed.ncbi.nlm.nih.gov/31783840/)
+2. **Bull, J. R., Rowland, S. P., Scherwitzl, E. B., Scherwitzl, R., Danielsson, K. G., & Harper, J. (2019).** *Real-world menstrual cycle characteristics of more than 600,000 menstrual cycles.* npj Digital Medicine (Nature), 2(1), 83. [https://pubmed.ncbi.nlm.nih.gov/31482137/](https://pubmed.ncbi.nlm.nih.gov/31482137/)
+3. **Steward, K., & Raja, A. (2023).** *Physiology, Ovulation And Basal Body Temperature.* In StatPearls [Internet]. National Center for Biotechnology Information (NCBI). [https://www.ncbi.nlm.nih.gov/books/NBK546686/](https://www.ncbi.nlm.nih.gov/books/NBK546686/)
+4. **Natural Cycles° Medical Science.** *How Basal Body Temperature & Wearable Algorithms Detect Ovulation.* [https://www.naturalcycles.com/the-science](https://www.naturalcycles.com/the-science)

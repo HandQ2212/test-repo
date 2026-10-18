@@ -2,7 +2,8 @@ import json
 import os
 import markdown
 
-with open("Health_Blog_Demo/articles.json", "r", encoding="utf-8") as f:
+BASE_DIR = os.path.dirname(os.path.abspath(__file__))
+with open(os.path.join(BASE_DIR, "articles.json"), "r", encoding="utf-8") as f:
     articles = json.load(f)
 
 category_icons = {
@@ -65,7 +66,8 @@ def render_article_markdown(md_text, inline_img_src, inline_caption, inline_sour
     body_html = body_html.replace('src="images/', 'src="../images/')
     return body_html
 
-os.makedirs("Health_Blog_Demo/posts", exist_ok=True)
+posts_dir = os.path.join(BASE_DIR, "posts")
+os.makedirs(posts_dir, exist_ok=True)
 
 for i, art in enumerate(articles):
     cat = art["category"]
@@ -445,7 +447,7 @@ for i, art in enumerate(articles):
 </body>
 </html>
 """
-    with open(f"Health_Blog_Demo/posts/{art['id']}.html", "w", encoding="utf-8") as pf:
+    with open(os.path.join(posts_dir, f"{art['id']}.html"), "w", encoding="utf-8") as pf:
         pf.write(html_page)
 
 print("Successfully generated all 28 bilingual (EN + VI) standalone blog post pages!")

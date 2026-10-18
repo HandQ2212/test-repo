@@ -28,7 +28,7 @@ Mỗi khi bạn hít vào và thở ra, bạn kích hoạt một phản xạ cơ
 - **Khi Bạn Thở Ra (Hãm Phanh Phó Giao Cảm Phế Vị):** Cơ hoành thư giãn và nâng vòm lên trên, làm tăng áp suất khoang ngực. Huyết áp động mạch tăng nhẹ, kích hoạt các **thụ thể áp suất (baroreceptors)** ở cung động mạch chủ và xoang cảnh truyền tín hiệu qua **Dây thần kinh Phế vị (Vagus Nerve)**. Dây phế vị tiết ra chất dẫn truyền **acetylcholine** lên nút tạo nhịp của tim, lập tức làm nhịp tim chậm lại (`khoảng cách R-R giãn rộng ra`).
 
 <figure class="article-inline-diagram">
-  <img src="images/DM_RC_01_figure.jpg" alt="Bản ghi Điện tâm đồ ECG lâm sàng thể hiện hiện tượng Loạn nhịp xoang hô hấp RSA" loading="lazy">
+  <img src="images/DM_RC_01_figure.jpg" alt="Bản ghi Điện tâm đồ ECG lâm sàng ghi nhận hiện tượng Loạn nhịp xoang hô hấp RSA" loading="lazy">
   <figcaption>📊 <strong>Loạn Nhịp Xoang Hô Hấp (RSA) Trên Điện Tâm Đồ Lâm Sàng:</strong> Hãy quan sát cách các đỉnh sóng R xếp sát nhau hơn trong pha hít vào (nhịp mạch nhanh hơn) và giãn cách rộng ra trong pha thở ra (nhịp mạch chậm lại nhờ Dây thần kinh Phế vị). Độ giãn nở từng nhịp này chính là chỉ số HRV cao mà đồng hồ thông minh của bạn ghi nhận! <a href="https://commons.wikimedia.org/wiki/File:Respiratory_sinus_arrhythmia_with_RBBB_(male,_21).jpg" target="_blank" rel="noopener">Nguồn Ảnh Gốc: Wikimedia Commons ↗</a></figcaption>
 </figure>
 
@@ -73,10 +73,10 @@ Bạn có thể kiểm chứng hiệu quả ngay hôm nay bằng cách mở màn
 
 ## Tài Liệu Tham Khảo & Nguồn Y Khoa
 
-1. **Steffen, P. R., Austin, T., DeBarros, A., & Brown, T. (2017).** *The Impact of Resonance Frequency Breathing on Measures of Heart Rate Variability, Blood Pressure, and Mood.* Frontiers in Public Health, 5, 222. [Xem trên PubMed / NIH ↗](https://pubmed.ncbi.nlm.nih.gov/28890890/)
-2. **Balban, M. Y., Neri, E., Kogon, M. M., Weed, L., Nouriani, B., Jo, B., ... & Huberman, A. D. (2023).** *Brief structured respiration practices enhance mood and reduce physiological arousal.* Cell Reports Medicine, 4(1), 100895. [Xem trên PubMed / NIH ↗](https://pubmed.ncbi.nlm.nih.gov/36630953/)
-3. **Lehrer, P. M., & Gevirtz, R. (2014).** *Heart rate variability biofeedback: how and why does it work?* Frontiers in Psychology, 5, 756. [Xem trên PubMed / NIH ↗](https://pubmed.ncbi.nlm.nih.gov/25101026/)
-4. **WHOOP The Locker.** *How to Increase HRV: Breathwork & Autonomic Nervous System Training.* [Xem trên WHOOP ↗](https://www.whoop.com/us/en/thelocker/increase-hrv-heart-rate-variability/)
+1. **Steffen, P. R., Austin, T., DeBarros, A., & Brown, T. (2017).** *The Impact of Resonance Frequency Breathing on Measures of Heart Rate Variability, Blood Pressure, and Mood.* Frontiers in Public Health, 5, 222. [https://pubmed.ncbi.nlm.nih.gov/28890890/](https://pubmed.ncbi.nlm.nih.gov/28890890/)
+2. **Balban, M. Y., Neri, E., Kogon, M. M., Weed, L., Nouriani, B., Jo, B., ... & Huberman, A. D. (2023).** *Brief structured respiration practices enhance mood and reduce physiological arousal.* Cell Reports Medicine, 4(1), 100895. [https://pubmed.ncbi.nlm.nih.gov/36630953/](https://pubmed.ncbi.nlm.nih.gov/36630953/)
+3. **Lehrer, P. M., & Gevirtz, R. (2014).** *Heart rate variability biofeedback: how and why does it work?* Frontiers in Psychology, 5, 756. [https://pubmed.ncbi.nlm.nih.gov/25101026/](https://pubmed.ncbi.nlm.nih.gov/25101026/)
+4. **WHOOP The Locker.** *How to Increase HRV: Breathwork & Autonomic Nervous System Training.* [https://www.whoop.com/us/en/thelocker/increase-hrv-heart-rate-variability/](https://www.whoop.com/us/en/thelocker/increase-hrv-heart-rate-variability/)
 
 ---
 
@@ -141,7 +141,7 @@ You can test this directly today using the real-time **Stress Monitor / Breathwo
 
 ## References & Clinical Sources
 
-1. **Steffen, P. R., Austin, T., DeBarros, A., & Brown, T. (2017).** *The Impact of Resonance Frequency Breathing on Measures of Heart Rate Variability, Blood Pressure, and Mood.* Frontiers in Public Health, 5, 222. [Read on PubMed / NIH ↗](https://pubmed.ncbi.nlm.nih.gov/28890890/)
-2. **Balban, M. Y., Neri, E., Kogon, M. M., Weed, L., Nouriani, B., Jo, B., ... & Huberman, A. D. (2023).** *Brief structured respiration practices enhance mood and reduce physiological arousal.* Cell Reports Medicine, 4(1), 100895. [Read on PubMed / NIH ↗](https://pubmed.ncbi.nlm.nih.gov/36630953/)
-3. **Lehrer, P. M., & Gevirtz, R. (2014).** *Heart rate variability biofeedback: how and why does it work?* Frontiers in Psychology, 5, 756. [Read on PubMed / NIH ↗](https://pubmed.ncbi.nlm.nih.gov/25101026/)
-4. **WHOOP The Locker.** *How to Increase HRV: Breathwork & Autonomic Nervous System Training.* [Read on WHOOP ↗](https://www.whoop.com/us/en/thelocker/increase-hrv-heart-rate-variability/)
+1. **Steffen, P. R., Austin, T., DeBarros, A., & Brown, T. (2017).** *The Impact of Resonance Frequency Breathing on Measures of Heart Rate Variability, Blood Pressure, and Mood.* Frontiers in Public Health, 5, 222. [https://pubmed.ncbi.nlm.nih.gov/28890890/](https://pubmed.ncbi.nlm.nih.gov/28890890/)
+2. **Balban, M. Y., Neri, E., Kogon, M. M., Weed, L., Nouriani, B., Jo, B., ... & Huberman, A. D. (2023).** *Brief structured respiration practices enhance mood and reduce physiological arousal.* Cell Reports Medicine, 4(1), 100895. [https://pubmed.ncbi.nlm.nih.gov/36630953/](https://pubmed.ncbi.nlm.nih.gov/36630953/)
+3. **Lehrer, P. M., & Gevirtz, R. (2014).** *Heart rate variability biofeedback: how and why does it work?* Frontiers in Psychology, 5, 756. [https://pubmed.ncbi.nlm.nih.gov/25101026/](https://pubmed.ncbi.nlm.nih.gov/25101026/)
+4. **WHOOP The Locker.** *How to Increase HRV: Breathwork & Autonomic Nervous System Training.* [https://www.whoop.com/us/en/thelocker/increase-hrv-heart-rate-variability/](https://www.whoop.com/us/en/thelocker/increase-hrv-heart-rate-variability/)

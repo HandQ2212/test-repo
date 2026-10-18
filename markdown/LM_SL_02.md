@@ -91,10 +91,10 @@ Bởi vì **Giấc Ngủ Sâu** tập trung ở nửa đầu của đêm (khoả
 
 ## Tài Liệu Tham Khảo & Nguồn Y Khoa
 
-1. **Xie, L., Kang, H., Xu, Q., Chen, M. J., Liao, Y., Thiyagarajan, M., ... & Nedergaard, M. (2013).** *Sleep drives metabolite clearance from the adult brain.* Science, 342(6156), 373–377. [Xem trên PubMed / NIH ↗](https://pubmed.ncbi.nlm.nih.gov/24136970/)
-2. **Patel, A. K., Reddy, V., Shumway, K. R., & Araujo, J. F. (2024).** *Physiology, Sleep Stages.* In StatPearls [Internet]. National Center for Biotechnology Information (NCBI). [Xem trên NCBI Bookshelf ↗](https://www.ncbi.nlm.nih.gov/books/NBK526132/)
-3. **WHOOP The Locker.** *What Are the Stages of Sleep? How to Track and Improve Light, Deep & REM Sleep.* [Xem trên WHOOP ↗](https://www.whoop.com/us/en/thelocker/stages-of-sleep/)
-4. **Oura Ring Pulse Blog.** *The 4 Stages of Sleep: What Happens in Each Stage.* [Xem trên Oura Ring ↗](https://ouraring.com/blog/sleep-stages/)
+1. **Xie, L., Kang, H., Xu, Q., Chen, M. J., Liao, Y., Thiyagarajan, M., ... & Nedergaard, M. (2013).** *Sleep drives metabolite clearance from the adult brain.* Science, 342(6156), 373–377. [https://pubmed.ncbi.nlm.nih.gov/24136970/](https://pubmed.ncbi.nlm.nih.gov/24136970/)
+2. **Patel, A. K., Reddy, V., Shumway, K. R., & Araujo, J. F. (2024).** *Physiology, Sleep Stages.* In StatPearls [Internet]. National Center for Biotechnology Information (NCBI). [https://www.ncbi.nlm.nih.gov/books/NBK526132/](https://www.ncbi.nlm.nih.gov/books/NBK526132/)
+3. **WHOOP The Locker.** *What Are the Stages of Sleep? How to Track and Improve Light, Deep & REM Sleep.* [https://www.whoop.com/us/en/thelocker/stages-of-sleep/](https://www.whoop.com/us/en/thelocker/stages-of-sleep/)
+4. **Oura Ring Pulse Blog.** *The 4 Stages of Sleep: What Happens in Each Stage.* [https://ouraring.com/blog/sleep-stages/](https://ouraring.com/blog/sleep-stages/)
 
 ---
 
@@ -177,7 +177,7 @@ Because **Deep Sleep** is front-loaded in the first half of the night (roughly 1
 
 ## References & Clinical Sources
 
-1. **Xie, L., Kang, H., Xu, Q., Chen, M. J., Liao, Y., Thiyagarajan, M., ... & Nedergaard, M. (2013).** *Sleep drives metabolite clearance from the adult brain.* Science, 342(6156), 373–377. [Read on PubMed / NIH ↗](https://pubmed.ncbi.nlm.nih.gov/24136970/)
-2. **Patel, A. K., Reddy, V., Shumway, K. R., & Araujo, J. F. (2024).** *Physiology, Sleep Stages.* In StatPearls [Internet]. National Center for Biotechnology Information (NCBI). [Read on NCBI Bookshelf ↗](https://www.ncbi.nlm.nih.gov/books/NBK526132/)
-3. **WHOOP The Locker.** *What Are the Stages of Sleep? How to Track and Improve Light, Deep & REM Sleep.* [Read on WHOOP ↗](https://www.whoop.com/us/en/thelocker/stages-of-sleep/)
-4. **Oura Ring Pulse Blog.** *The 4 Stages of Sleep: What Happens in Each Stage.* [Read on Oura Ring ↗](https://ouraring.com/blog/sleep-stages/)
+1. **Xie, L., Kang, H., Xu, Q., Chen, M. J., Liao, Y., Thiyagarajan, M., ... & Nedergaard, M. (2013).** *Sleep drives metabolite clearance from the adult brain.* Science, 342(6156), 373–377. [https://pubmed.ncbi.nlm.nih.gov/24136970/](https://pubmed.ncbi.nlm.nih.gov/24136970/)
+2. **Patel, A. K., Reddy, V., Shumway, K. R., & Araujo, J. F. (2024).** *Physiology, Sleep Stages.* In StatPearls [Internet]. National Center for Biotechnology Information (NCBI). [https://www.ncbi.nlm.nih.gov/books/NBK526132/](https://www.ncbi.nlm.nih.gov/books/NBK526132/)
+3. **WHOOP The Locker.** *What Are the Stages of Sleep? How to Track and Improve Light, Deep & REM Sleep.* [https://www.whoop.com/us/en/thelocker/stages-of-sleep/](https://www.whoop.com/us/en/thelocker/stages-of-sleep/)
+4. **Oura Ring Pulse Blog.** *The 4 Stages of Sleep: What Happens in Each Stage.* [https://ouraring.com/blog/sleep-stages/](https://ouraring.com/blog/sleep-stages/)

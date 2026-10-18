@@ -82,10 +82,10 @@ Sau khi đồng hồ hoặc nhẫn thông minh ghi nhận **3 đêm liên tiếp
 
 ## Tài Liệu Tham Khảo & Nguồn Y Khoa
 
-1. **Wilcox, A. J., Weinberg, C. R., & Baird, D. D. (1995).** *Timing of sexual intercourse in relation to ovulation—effects on the probability of conception, survival of the pregnancy, and sex of the baby.* New England Journal of Medicine (NEJM), 333(23), 1517–1521. [Đọc trên PubMed / NIH ↗](https://pubmed.ncbi.nlm.nih.gov/7477165/)
-2. **Practice Committee of the American Society for Reproductive Medicine (ASRM). (2022).** *Optimizing natural fertility: a committee opinion.* Fertility and Sterility, 117(1), 53–63. [Đọc trên PubMed / NIH ↗](https://pubmed.ncbi.nlm.nih.gov/34815068/)
-3. **Pearson, J. T., et al. (2021).** *Evaluation of the performance of the Natural Cycles algorithm using Oura Ring nocturnal skin temperature.* European Journal of Contraception & Reproductive Health Care, 26(2), 105–110. [Đọc trên PubMed / NIH ↗](https://pubmed.ncbi.nlm.nih.gov/33356660/)
-4. **Natural Cycles° Fertility Guide.** *Understanding the 6-Day Fertile Window & Ovulation Timing.* [Đọc trên Natural Cycles ↗](https://www.naturalcycles.com/plan-pregnancy)
+1. **Wilcox, A. J., Weinberg, C. R., & Baird, D. D. (1995).** *Timing of sexual intercourse in relation to ovulation—effects on the probability of conception, survival of the pregnancy, and sex of the baby.* New England Journal of Medicine (NEJM), 333(23), 1517–1521. [https://pubmed.ncbi.nlm.nih.gov/7477165/](https://pubmed.ncbi.nlm.nih.gov/7477165/)
+2. **Practice Committee of the American Society for Reproductive Medicine (ASRM). (2022).** *Optimizing natural fertility: a committee opinion.* Fertility and Sterility, 117(1), 53–63. [https://pubmed.ncbi.nlm.nih.gov/34815068/](https://pubmed.ncbi.nlm.nih.gov/34815068/)
+3. **Pearson, J. T., et al. (2021).** *Evaluation of the performance of the Natural Cycles algorithm using Oura Ring nocturnal skin temperature.* European Journal of Contraception & Reproductive Health Care, 26(2), 105–110. [https://pubmed.ncbi.nlm.nih.gov/33356660/](https://pubmed.ncbi.nlm.nih.gov/33356660/)
+4. **Natural Cycles° Fertility Guide.** *Understanding the 6-Day Fertile Window & Ovulation Timing.* [https://www.naturalcycles.com/plan-pregnancy](https://www.naturalcycles.com/plan-pregnancy)
 
 ---
 
@@ -159,7 +159,7 @@ Once your smartwatch or smart ring records **3 consecutive nights of elevated sk
 
 ## References & Clinical Sources
 
-1. **Wilcox, A. J., Weinberg, C. R., & Baird, D. D. (1995).** *Timing of sexual intercourse in relation to ovulation—effects on the probability of conception, survival of the pregnancy, and sex of the baby.* New England Journal of Medicine (NEJM), 333(23), 1517–1521. [Read on PubMed / NIH ↗](https://pubmed.ncbi.nlm.nih.gov/7477165/)
-2. **Practice Committee of the American Society for Reproductive Medicine (ASRM). (2022).** *Optimizing natural fertility: a committee opinion.* Fertility and Sterility, 117(1), 53–63. [Read on PubMed / NIH ↗](https://pubmed.ncbi.nlm.nih.gov/34815068/)
-3. **Pearson, J. T., et al. (2021).** *Evaluation of the performance of the Natural Cycles algorithm using Oura Ring nocturnal skin temperature.* Contraception / European Journal of Contraception & Reproductive Health Care, 26(2), 105–110. [Read on PubMed / NIH ↗](https://pubmed.ncbi.nlm.nih.gov/33356660/)
-4. **Natural Cycles° Fertility Guide.** *Understanding the 6-Day Fertile Window & Ovulation Timing.* [Read on Natural Cycles ↗](https://www.naturalcycles.com/plan-pregnancy)
+1. **Wilcox, A. J., Weinberg, C. R., & Baird, D. D. (1995).** *Timing of sexual intercourse in relation to ovulation—effects on the probability of conception, survival of the pregnancy, and sex of the baby.* New England Journal of Medicine (NEJM), 333(23), 1517–1521. [https://pubmed.ncbi.nlm.nih.gov/7477165/](https://pubmed.ncbi.nlm.nih.gov/7477165/)
+2. **Practice Committee of the American Society for Reproductive Medicine (ASRM). (2022).** *Optimizing natural fertility: a committee opinion.* Fertility and Sterility, 117(1), 53–63. [https://pubmed.ncbi.nlm.nih.gov/34815068/](https://pubmed.ncbi.nlm.nih.gov/34815068/)
+3. **Pearson, J. T., et al. (2021).** *Evaluation of the performance of the Natural Cycles algorithm using Oura Ring nocturnal skin temperature.* Contraception / European Journal of Contraception & Reproductive Health Care, 26(2), 105–110. [https://pubmed.ncbi.nlm.nih.gov/33356660/](https://pubmed.ncbi.nlm.nih.gov/33356660/)
+4. **Natural Cycles° Fertility Guide.** *Understanding the 6-Day Fertile Window & Ovulation Timing.* [https://www.naturalcycles.com/plan-pregnancy](https://www.naturalcycles.com/plan-pregnancy)

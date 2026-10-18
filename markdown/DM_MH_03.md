@@ -83,10 +83,10 @@ Ngay sau khi xóa bản ghi chú Mind Cleaner, hãy chuyển hệ thần kinh ng
 
 ## Tài Liệu Tham Khảo & Nguồn Y Khoa
 
-1. **Dean, R. C., & Lue, T. F. (2005).** *Physiology of penile erection and pathophysiology of erectile dysfunction.* Urologic Clinics of North America, 32(4), 379–395. [Xem trên PubMed / NIH ↗](https://pubmed.ncbi.nlm.nih.gov/16226685/)
-2. **Balban, M. Y., Neri, E., Kogon, M. M., Weed, L., Nouriani, B., Jo, B., ... & Huberman, A. D. (2023).** *Brief structured respiration practices enhance mood and reduce physiological arousal.* Cell Reports Medicine, 4(1), 100895. [Xem trên PubMed / NIH ↗](https://pubmed.ncbi.nlm.nih.gov/36630953/)
-3. **Ramirez, G., & Beilock, S. L. (2011).** *Writing about testing worries boosts exam performance in the classroom.* Science, 331(6014), 211–213. [Xem trên PubMed / NIH ↗](https://pubmed.ncbi.nlm.nih.gov/21233387/)
-4. **Baikie, K. A., & Wilhelm, K. (2005).** *Emotional and physical health benefits of expressive writing.* Advances in Psychiatric Treatment, 11(5), 338–346. [Xem trên PubMed / NIH ↗](https://pubmed.ncbi.nlm.nih.gov/18509580/)
+1. **Dean, R. C., & Lue, T. F. (2005).** *Physiology of penile erection and pathophysiology of erectile dysfunction.* Urologic Clinics of North America, 32(4), 379–395. [https://pubmed.ncbi.nlm.nih.gov/16226685/](https://pubmed.ncbi.nlm.nih.gov/16226685/)
+2. **Balban, M. Y., Neri, E., Kogon, M. M., Weed, L., Nouriani, B., Jo, B., ... & Huberman, A. D. (2023).** *Brief structured respiration practices enhance mood and reduce physiological arousal.* Cell Reports Medicine, 4(1), 100895. [https://pubmed.ncbi.nlm.nih.gov/36630953/](https://pubmed.ncbi.nlm.nih.gov/36630953/)
+3. **Ramirez, G., & Beilock, S. L. (2011).** *Writing about testing worries boosts exam performance in the classroom.* Science, 331(6014), 211–213. [https://pubmed.ncbi.nlm.nih.gov/21233387/](https://pubmed.ncbi.nlm.nih.gov/21233387/)
+4. **Baikie, K. A., & Wilhelm, K. (2005).** *Emotional and physical health benefits of expressive writing.* Advances in Psychiatric Treatment, 11(5), 338–346. [https://pubmed.ncbi.nlm.nih.gov/18509580/](https://pubmed.ncbi.nlm.nih.gov/18509580/)
 
 ---
 
@@ -161,7 +161,7 @@ Immediately after deleting your Mind Cleaner note, flip your peripheral nervous 
 
 ## References & Clinical Sources
 
-1. **Dean, R. C., & Lue, T. F. (2005).** *Physiology of penile erection and pathophysiology of erectile dysfunction.* Urologic Clinics of North America, 32(4), 379–395. [Read on PubMed / NIH ↗](https://pubmed.ncbi.nlm.nih.gov/16226685/)
-2. **Balban, M. Y., Neri, E., Kogon, M. M., Weed, L., Nouriani, B., Jo, B., ... & Huberman, A. D. (2023).** *Brief structured respiration practices enhance mood and reduce physiological arousal.* Cell Reports Medicine, 4(1), 100895. [Read on PubMed / NIH ↗](https://pubmed.ncbi.nlm.nih.gov/36630953/)
-3. **Ramirez, G., & Beilock, S. L. (2011).** *Writing about testing worries boosts exam performance in the classroom.* Science, 331(6014), 211–213. [Read on PubMed / NIH ↗](https://pubmed.ncbi.nlm.nih.gov/21233387/)
-4. **Baikie, K. A., & Wilhelm, K. (2005).** *Emotional and physical health benefits of expressive writing.* Advances in Psychiatric Treatment, 11(5), 338–346. [Read on PubMed / NIH ↗](https://pubmed.ncbi.nlm.nih.gov/18509580/)
+1. **Dean, R. C., & Lue, T. F. (2005).** *Physiology of penile erection and pathophysiology of erectile dysfunction.* Urologic Clinics of North America, 32(4), 379–395. [https://pubmed.ncbi.nlm.nih.gov/16226685/](https://pubmed.ncbi.nlm.nih.gov/16226685/)
+2. **Balban, M. Y., Neri, E., Kogon, M. M., Weed, L., Nouriani, B., Jo, B., ... & Huberman, A. D. (2023).** *Brief structured respiration practices enhance mood and reduce physiological arousal.* Cell Reports Medicine, 4(1), 100895. [https://pubmed.ncbi.nlm.nih.gov/36630953/](https://pubmed.ncbi.nlm.nih.gov/36630953/)
+3. **Ramirez, G., & Beilock, S. L. (2011).** *Writing about testing worries boosts exam performance in the classroom.* Science, 331(6014), 211–213. [https://pubmed.ncbi.nlm.nih.gov/21233387/](https://pubmed.ncbi.nlm.nih.gov/21233387/)
+4. **Baikie, K. A., & Wilhelm, K. (2005).** *Emotional and physical health benefits of expressive writing.* Advances in Psychiatric Treatment, 11(5), 338–346. [https://pubmed.ncbi.nlm.nih.gov/18509580/](https://pubmed.ncbi.nlm.nih.gov/18509580/)

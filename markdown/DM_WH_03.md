@@ -82,10 +82,10 @@ Thay vì đợi đến Ngày 1 đau quặn mới uống thuốc giảm đau, cá
 
 ## Tài Liệu Tham Khảo & Nguồn Y Khoa
 
-1. **Thys-Jacobs, S., Starkey, P., Bernstein, D., & Tian, J. (1998).** *Calcium carbonate and the premenstrual syndrome: effects on premenstrual and menstrual symptoms.* American Journal of Obstetrics and Gynecology (AJOG), 179(2), 444–452. [Đọc trên PubMed / NIH ↗](https://pubmed.ncbi.nlm.nih.gov/9731851/)
-2. **Fathizadeh, N., Ebrahimi, E., Valiani, M., Tavakoli, N., & Yar, M. H. (2010).** *Evaluating the effect of supplementation with magnesium and vitamin B6 on premenstrual syndrome.* Iranian Journal of Nursing and Midwifery Research (NIH PMC), 15(Suppl 1), 401–405. [Đọc trên PubMed / NIH ↗](https://pubmed.ncbi.nlm.nih.gov/22069417/)
-3. **Daily, J. W., Zhang, X., Kim, D. S., & Park, S. (2015).** *Efficacy of Ginger for Alleviating the Symptoms of Primary Dysmenorrhea: A Systematic Review and Meta-analysis of Randomized Clinical Trials.* Pain Medicine, 16(12), 2243–2255. [Đọc trên PubMed / NIH ↗](https://pubmed.ncbi.nlm.nih.gov/26177393/)
-4. **American College of Obstetricians and Gynecologists (ACOG).** *Clinical Management of Premenstrual Syndrome (PMS) and Dysmenorrhea.* [Đọc trên ACOG ↗](https://www.acog.org/womens-health/faqs/premenstrual-syndrome)
+1. **Thys-Jacobs, S., Starkey, P., Bernstein, D., & Tian, J. (1998).** *Calcium carbonate and the premenstrual syndrome: effects on premenstrual and menstrual symptoms.* American Journal of Obstetrics and Gynecology (AJOG), 179(2), 444–452. [https://pubmed.ncbi.nlm.nih.gov/9731851/](https://pubmed.ncbi.nlm.nih.gov/9731851/)
+2. **Fathizadeh, N., Ebrahimi, E., Valiani, M., Tavakoli, N., & Yar, M. H. (2010).** *Evaluating the effect of supplementation with magnesium and vitamin B6 on premenstrual syndrome.* Iranian Journal of Nursing and Midwifery Research (NIH PMC), 15(Suppl 1), 401–405. [https://pubmed.ncbi.nlm.nih.gov/22069417/](https://pubmed.ncbi.nlm.nih.gov/22069417/)
+3. **Daily, J. W., Zhang, X., Kim, D. S., & Park, S. (2015).** *Efficacy of Ginger for Alleviating the Symptoms of Primary Dysmenorrhea: A Systematic Review and Meta-analysis of Randomized Clinical Trials.* Pain Medicine, 16(12), 2243–2255. [https://pubmed.ncbi.nlm.nih.gov/26177393/](https://pubmed.ncbi.nlm.nih.gov/26177393/)
+4. **American College of Obstetricians and Gynecologists (ACOG).** *Clinical Management of Premenstrual Syndrome (PMS) and Dysmenorrhea.* [https://www.acog.org/womens-health/faqs/premenstrual-syndrome](https://www.acog.org/womens-health/faqs/premenstrual-syndrome)
 
 ---
 
@@ -159,7 +159,7 @@ Your smartwatch or smart ring can act as an early-warning radar for luteal strai
 
 ## References & Clinical Sources
 
-1. **Thys-Jacobs, S., Starkey, P., Bernstein, D., & Tian, J. (1998).** *Calcium carbonate and the premenstrual syndrome: effects on premenstrual and menstrual symptoms.* American Journal of Obstetrics and Gynecology (AJOG), 179(2), 444–452. [Read on PubMed / NIH ↗](https://pubmed.ncbi.nlm.nih.gov/9731851/)
-2. **Fathizadeh, N., Ebrahimi, E., Valiani, M., Tavakoli, N., & Yar, M. H. (2010).** *Evaluating the effect of supplementation with magnesium and vitamin B6 on premenstrual syndrome.* Iranian Journal of Nursing and Midwifery Research (NIH PMC), 15(Suppl 1), 401–405. [Read on PubMed / NIH ↗](https://pubmed.ncbi.nlm.nih.gov/22069417/)
-3. **Daily, J. W., Zhang, X., Kim, D. S., & Park, S. (2015).** *Efficacy of Ginger for Alleviating the Symptoms of Primary Dysmenorrhea: A Systematic Review and Meta-analysis of Randomized Clinical Trials.* Pain Medicine, 16(12), 2243–2255. [Read on PubMed / NIH ↗](https://pubmed.ncbi.nlm.nih.gov/26177393/)
-4. **American College of Obstetricians and Gynecologists (ACOG).** *Clinical Management of Premenstrual Syndrome (PMS) and Dysmenorrhea.* [Read on ACOG ↗](https://www.acog.org/womens-health/faqs/premenstrual-syndrome)
+1. **Thys-Jacobs, S., Starkey, P., Bernstein, D., & Tian, J. (1998).** *Calcium carbonate and the premenstrual syndrome: effects on premenstrual and menstrual symptoms.* American Journal of Obstetrics and Gynecology (AJOG), 179(2), 444–452. [https://pubmed.ncbi.nlm.nih.gov/9731851/](https://pubmed.ncbi.nlm.nih.gov/9731851/)
+2. **Fathizadeh, N., Ebrahimi, E., Valiani, M., Tavakoli, N., & Yar, M. H. (2010).** *Evaluating the effect of supplementation with magnesium and vitamin B6 on premenstrual syndrome.* Iranian Journal of Nursing and Midwifery Research (NIH PMC), 15(Suppl 1), 401–405. [https://pubmed.ncbi.nlm.nih.gov/22069417/](https://pubmed.ncbi.nlm.nih.gov/22069417/)
+3. **Daily, J. W., Zhang, X., Kim, D. S., & Park, S. (2015).** *Efficacy of Ginger for Alleviating the Symptoms of Primary Dysmenorrhea: A Systematic Review and Meta-analysis of Randomized Clinical Trials.* Pain Medicine, 16(12), 2243–2255. [https://pubmed.ncbi.nlm.nih.gov/26177393/](https://pubmed.ncbi.nlm.nih.gov/26177393/)
+4. **American College of Obstetricians and Gynecologists (ACOG).** *Clinical Management of Premenstrual Syndrome (PMS) and Dysmenorrhea.* [https://www.acog.org/womens-health/faqs/premenstrual-syndrome](https://www.acog.org/womens-health/faqs/premenstrual-syndrome)

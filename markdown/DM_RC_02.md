@@ -77,10 +77,10 @@ Sai lầm lớn nhất mà người tập thể thao thường mắc phải vào
 
 ## Tài Liệu Tham Khảo & Nguồn Y Khoa
 
-1. **Menzies, P., Menzies, C., McIntyre, L., Paterson, P., Wilson, J., & Kemi, O. J. (2010).** *Blood lactate clearance during active recovery after an intense running bout depends on the intensity of the active recovery.* Journal of Sports Sciences, 28(9), 975–982. [Xem trên PubMed / NIH ↗](https://pubmed.ncbi.nlm.nih.gov/20544484/)
-2. **Dupuy, O., Douzi, W., Theurot, D., Bosquet, L., & Dugué, B. (2018).** *An Evidence-Based Approach for Choosing Post-exercise Recovery Techniques to Reduce Markers of Muscle Damage, Soreness, Fatigue, and Inflammation: A Systematic Review With Meta-Analysis.* Frontiers in Physiology, 9, 403. [Xem trên PubMed / NIH ↗](https://pubmed.ncbi.nlm.nih.gov/29755363/)
-3. **WHOOP The Locker.** *Active Recovery Workouts: What They Are & Why They Work Better Than Total Rest.* [Xem trên WHOOP ↗](https://www.whoop.com/us/en/thelocker/active-recovery-workouts/)
-4. **Oura Ring Pulse Blog.** *Active Recovery vs. Rest Days: How to Listen to Your Readiness Score.* [Xem trên Oura Ring ↗](https://ouraring.com/blog/active-recovery/)
+1. **Menzies, P., Menzies, C., McIntyre, L., Paterson, P., Wilson, J., & Kemi, O. J. (2010).** *Blood lactate clearance during active recovery after an intense running bout depends on the intensity of the active recovery.* Journal of Sports Sciences, 28(9), 975–982. [https://pubmed.ncbi.nlm.nih.gov/20544484/](https://pubmed.ncbi.nlm.nih.gov/20544484/)
+2. **Dupuy, O., Douzi, W., Theurot, D., Bosquet, L., & Dugué, B. (2018).** *An Evidence-Based Approach for Choosing Post-exercise Recovery Techniques to Reduce Markers of Muscle Damage, Soreness, Fatigue, and Inflammation: A Systematic Review With Meta-Analysis.* Frontiers in Physiology, 9, 403. [https://pubmed.ncbi.nlm.nih.gov/29755363/](https://pubmed.ncbi.nlm.nih.gov/29755363/)
+3. **WHOOP The Locker.** *Active Recovery Workouts: What They Are & Why They Work Better Than Total Rest.* [https://www.whoop.com/us/en/thelocker/active-recovery-workouts/](https://www.whoop.com/us/en/thelocker/active-recovery-workouts/)
+4. **Oura Ring Pulse Blog.** *Active Recovery vs. Rest Days: How to Listen to Your Readiness Score.* [https://ouraring.com/blog/active-recovery/](https://ouraring.com/blog/active-recovery/)
 
 ---
 
@@ -149,7 +149,7 @@ The biggest mistake athletes make on an "Active Recovery Day" is letting their e
 
 ## References & Clinical Sources
 
-1. **Menzies, P., Menzies, C., McIntyre, L., Paterson, P., Wilson, J., & Kemi, O. J. (2010).** *Blood lactate clearance during active recovery after an intense running bout depends on the intensity of the active recovery.* Journal of Sports Sciences, 28(9), 975–982. [Read on PubMed / NIH ↗](https://pubmed.ncbi.nlm.nih.gov/20544484/)
-2. **Dupuy, O., Douzi, W., Theurot, D., Bosquet, L., & Dugué, B. (2018).** *An Evidence-Based Approach for Choosing Post-exercise Recovery Techniques to Reduce Markers of Muscle Damage, Soreness, Fatigue, and Inflammation: A Systematic Review With Meta-Analysis.* Frontiers in Physiology / Sports Medicine, 9, 403. [Read on PubMed / NIH ↗](https://pubmed.ncbi.nlm.nih.gov/29755363/)
-3. **WHOOP The Locker.** *Active Recovery Workouts: What They Are & Why They Work Better Than Total Rest.* [Read on WHOOP ↗](https://www.whoop.com/us/en/thelocker/active-recovery-workouts/)
-4. **Oura Ring Pulse Blog.** *Active Recovery vs. Rest Days: How to Listen to Your Readiness Score.* [Read on Oura Ring ↗](https://ouraring.com/blog/active-recovery/)
+1. **Menzies, P., Menzies, C., McIntyre, L., Paterson, P., Wilson, J., & Kemi, O. J. (2010).** *Blood lactate clearance during active recovery after an intense running bout depends on the intensity of the active recovery.* Journal of Sports Sciences, 28(9), 975–982. [https://pubmed.ncbi.nlm.nih.gov/20544484/](https://pubmed.ncbi.nlm.nih.gov/20544484/)
+2. **Dupuy, O., Douzi, W., Theurot, D., Bosquet, L., & Dugué, B. (2018).** *An Evidence-Based Approach for Choosing Post-exercise Recovery Techniques to Reduce Markers of Muscle Damage, Soreness, Fatigue, and Inflammation: A Systematic Review With Meta-Analysis.* Frontiers in Physiology / Sports Medicine, 9, 403. [https://pubmed.ncbi.nlm.nih.gov/29755363/](https://pubmed.ncbi.nlm.nih.gov/29755363/)
+3. **WHOOP The Locker.** *Active Recovery Workouts: What They Are & Why They Work Better Than Total Rest.* [https://www.whoop.com/us/en/thelocker/active-recovery-workouts/](https://www.whoop.com/us/en/thelocker/active-recovery-workouts/)
+4. **Oura Ring Pulse Blog.** *Active Recovery vs. Rest Days: How to Listen to Your Readiness Score.* [https://ouraring.com/blog/active-recovery/](https://ouraring.com/blog/active-recovery/)

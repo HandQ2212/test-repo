@@ -44,7 +44,7 @@ Thiết bị đeo hiện đại tách biệt **căng thẳng tâm lý/sinh lý**
 | :--- | :--- | :--- | :--- |
 | **1. Phản Ứng Thần Kinh Tự Chủ (HRV + EDA + RHR)** | **~40% Trọng số** | RMSSD ban đêm cao, ít dao động vi mồ hôi EDA ban ngày và nhịp tim hạ nhanh sau các cuộc họp. | Nhiều đỉnh kích thích EDA ban ngày, HRV bị nén thấp và nhịp tim khi ngồi yên tăng cao (`+8 đến +15 bpm`). |
 | **2. Cân Bằng Gắng Sức (Exertion Balance)** | **~30% Trọng số** | Số Phút Vận Động Tích Cực (AZM) cân đối, khớp với nền tảng thể lực mạn tính 30 ngày. | Ngồi bất động kéo dài hoặc tập quá sức đột ngột làm cạn kiệt kho dự trữ đệm thần kinh tự chủ. |
-| **3. Cấu Trúc & Nợ Giấc Ngủ (Sleep Architecture)** | **~30% Trọng số** | Chu kỳ Ngủ Sâu & REM liền mạch, nợ ngủ thấp (`< 2 giờ`), giúp vỏ não trước trán kiểm soát tốt hạch hạnh nhân. | Ngủ phân mảnh, thức khuya và nợ ngủ cao—làm tăng mức độ nhạy cảm cảm xúc của hạch hạnh nhân lên tới 60%. |
+| **3. Cấu Trúc & Nợ Giấc Ngủ (Sleep Architecture)** | **~30% Trọng số** | Chu kỳ Ngủ Sâu & REM liền mạch, nợ ngủ thấp (`< 2 giờ`), giúp vỏ não trước trán kiểm soát tốt hạch hạnh nhân. | Ngủ phân mảnh, thức khuya và nợ ngủ cao—làm tăng mức độ nhạy bén cảm xúc của hạch hạnh nhân lên tới 60%. |
 
 > **Lưu Ý Quan Trọng Về Chiều Hướng Điểm Số Giữa Các Hãng:**
 > - **Fitbit Stress Management Score (1–100):** **Điểm CÀNG CAO CÀNG TỐT** (`80–100` = Sức bền chống chịu căng thẳng cao; `< 60` = Cơ thể đang quá tải giao cảm).
@@ -72,10 +72,10 @@ Một trong những phát hiện thú vị nhất từ tính năng **Oura Daytim
 
 ## Tài Liệu Tham Khảo & Nguồn Y Khoa
 
-1. **Critchley, H. D. (2002).** *Electrodermal responses: what happens in the brain.* The Neuroscientist, 8(2), 132–142. [Đọc trên PubMed / NIH ↗](https://pubmed.ncbi.nlm.nih.gov/11954558/)
-2. **Shaffer, F., & Ginsberg, J. P. (2017).** *An Overview of Heart Rate Variability Metrics and Norms.* Frontiers in Public Health, 5, 258. [Đọc trên PubMed / NIH ↗](https://pubmed.ncbi.nlm.nih.gov/29034226/)
-3. **Oura Ring Pulse Blog.** *Daytime Stress: How Oura Measures Physiological Stress & Autonomic Recovery.* [Đọc trên Oura Ring ↗](https://ouraring.com/blog/daytime-stress-feature/)
-4. **Garmin Health Science.** *All-Day Stress Tracking Powered by Firstbeat Analytics.* [Đọc trên Garmin Health Science ↗](https://www.garmin.com/en-US/garmin-technology/health-science/stress-tracking/)
+1. **Critchley, H. D. (2002).** *Electrodermal responses: what happens in the brain.* The Neuroscientist, 8(2), 132–142. [https://pubmed.ncbi.nlm.nih.gov/11954558/](https://pubmed.ncbi.nlm.nih.gov/11954558/)
+2. **Shaffer, F., & Ginsberg, J. P. (2017).** *An Overview of Heart Rate Variability Metrics and Norms.* Frontiers in Public Health, 5, 258. [https://pubmed.ncbi.nlm.nih.gov/29034226/](https://pubmed.ncbi.nlm.nih.gov/29034226/)
+3. **Oura Ring Pulse Blog.** *Daytime Stress: How Oura Measures Physiological Stress & Autonomic Recovery.* [https://ouraring.com/blog/daytime-stress-feature/](https://ouraring.com/blog/daytime-stress-feature/)
+4. **Garmin Health Science.** *All-Day Stress Tracking Powered by Firstbeat Analytics.* [https://www.garmin.com/en-US/garmin-technology/health-science/stress-tracking/](https://www.garmin.com/en-US/garmin-technology/health-science/stress-tracking/)
 
 ---
 
@@ -139,7 +139,7 @@ One of the most valuable insights from **Oura Daytime Stress** and **WHOOP Stres
 
 ## References & Clinical Sources
 
-1. **Critchley, H. D. (2002).** *Electrodermal responses: what happens in the brain.* The Neuroscientist, 8(2), 132–142. [Read on PubMed / NIH ↗](https://pubmed.ncbi.nlm.nih.gov/11954558/)
-2. **Shaffer, F., & Ginsberg, J. P. (2017).** *An Overview of Heart Rate Variability Metrics and Norms.* Frontiers in Public Health, 5, 258. [Read on PubMed / NIH ↗](https://pubmed.ncbi.nlm.nih.gov/29034226/)
-3. **Oura Ring Pulse Blog.** *Daytime Stress: How Oura Measures Physiological Stress & Autonomic Recovery.* [Read on Oura Ring ↗](https://ouraring.com/blog/daytime-stress-feature/)
-4. **Garmin Health Science.** *All-Day Stress Tracking Powered by Firstbeat Analytics.* [Read on Garmin Health Science ↗](https://www.garmin.com/en-US/garmin-technology/health-science/stress-tracking/)
+1. **Critchley, H. D. (2002).** *Electrodermal responses: what happens in the brain.* The Neuroscientist, 8(2), 132–142. [https://pubmed.ncbi.nlm.nih.gov/11954558/](https://pubmed.ncbi.nlm.nih.gov/11954558/)
+2. **Shaffer, F., & Ginsberg, J. P. (2017).** *An Overview of Heart Rate Variability Metrics and Norms.* Frontiers in Public Health, 5, 258. [https://pubmed.ncbi.nlm.nih.gov/29034226/](https://pubmed.ncbi.nlm.nih.gov/29034226/)
+3. **Oura Ring Pulse Blog.** *Daytime Stress: How Oura Measures Physiological Stress & Autonomic Recovery.* [https://ouraring.com/blog/daytime-stress-feature/](https://ouraring.com/blog/daytime-stress-feature/)
+4. **Garmin Health Science.** *All-Day Stress Tracking Powered by Firstbeat Analytics.* [https://www.garmin.com/en-US/garmin-technology/health-science/stress-tracking/](https://www.garmin.com/en-US/garmin-technology/health-science/stress-tracking/)

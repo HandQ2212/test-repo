@@ -88,10 +88,10 @@ Bạn có thể kiểm chứng hiệu quả của Nhịp Thở Dài Sinh Lý nga
 
 ## Tài Liệu Tham Khảo & Nguồn Y Khoa
 
-1. **Balban, M. Y., Neri, E., Kogon, M. M., Weed, L., Nouriani, B., Jo, B., ... & Huberman, A. D. (2023).** *Brief structured respiration practices enhance mood and reduce physiological arousal.* Cell Reports Medicine, 4(1), 100895. [Đọc trên PubMed / NIH ↗](https://pubmed.ncbi.nlm.nih.gov/36630953/)
-2. **Zaccaro, A., Piarulli, A., Laurino, M., Garbella, E., Menicucci, D., Neri, B., & Gemignani, A. (2018).** *How Breath-Control Can Change Your Life: A Systematic Review on Psycho-Physiological Correlates of Slow Breathing.* Frontiers in Human Neuroscience, 12, 353. [Đọc trên PubMed / NIH ↗](https://pubmed.ncbi.nlm.nih.gov/30245619/)
-3. **WHOOP The Locker.** *Breathwork for Recovery: How Nasal & Cyclic Breathing Increases HRV.* [Đọc trên WHOOP ↗](https://www.whoop.com/us/en/thelocker/breathwork-for-recovery-and-hrv/)
-4. **Stanford Medicine News Center (2023).** *Cyclic sighing can help breathe away anxiety in just 5 minutes a day.* [Đọc trên Stanford Medicine ↗](https://med.stanford.edu/news/insights/2023/02/cyclic-sighing-can-help-breathe-away-anxiety.html)
+1. **Balban, M. Y., Neri, E., Kogon, M. M., Weed, L., Nouriani, B., Jo, B., ... & Huberman, A. D. (2023).** *Brief structured respiration practices enhance mood and reduce physiological arousal.* Cell Reports Medicine, 4(1), 100895. [https://pubmed.ncbi.nlm.nih.gov/36630953/](https://pubmed.ncbi.nlm.nih.gov/36630953/)
+2. **Zaccaro, A., Piarulli, A., Laurino, M., Garbella, E., Menicucci, D., Neri, B., & Gemignani, A. (2018).** *How Breath-Control Can Change Your Life: A Systematic Review on Psycho-Physiological Correlates of Slow Breathing.* Frontiers in Human Neuroscience, 12, 353. [https://pubmed.ncbi.nlm.nih.gov/30245619/](https://pubmed.ncbi.nlm.nih.gov/30245619/)
+3. **WHOOP The Locker.** *Breathwork for Recovery: How Nasal & Cyclic Breathing Increases HRV.* [https://www.whoop.com/us/en/thelocker/breathwork-for-recovery-and-hrv/](https://www.whoop.com/us/en/thelocker/breathwork-for-recovery-and-hrv/)
+4. **Stanford Medicine News Center (2023).** *Cyclic sighing can help breathe away anxiety in just 5 minutes a day.* [https://med.stanford.edu/news/insights/2023/02/cyclic-sighing-can-help-breathe-away-anxiety.html](https://med.stanford.edu/news/insights/2023/02/cyclic-sighing-can-help-breathe-away-anxiety.html)
 
 ---
 
@@ -171,7 +171,7 @@ You can test the Physiological Sigh right now using the live heart rate screen o
 
 ## References & Clinical Sources
 
-1. **Balban, M. Y., Neri, E., Kogon, M. M., Weed, L., Nouriani, B., Jo, B., ... & Huberman, A. D. (2023).** *Brief structured respiration practices enhance mood and reduce physiological arousal.* Cell Reports Medicine, 4(1), 100895. [Read on PubMed / NIH ↗](https://pubmed.ncbi.nlm.nih.gov/36630953/)
-2. **Zaccaro, A., Piarulli, A., Laurino, M., Garbella, E., Menicucci, D., Neri, B., & Gemignani, A. (2018).** *How Breath-Control Can Change Your Life: A Systematic Review on Psycho-Physiological Correlates of Slow Breathing.* Frontiers in Human Neuroscience, 12, 353. [Read on PubMed / NIH ↗](https://pubmed.ncbi.nlm.nih.gov/30245619/)
-3. **WHOOP The Locker.** *Breathwork for Recovery: How Nasal & Cyclic Breathing Increases HRV.* [Read on WHOOP ↗](https://www.whoop.com/us/en/thelocker/breathwork-for-recovery-and-hrv/)
-4. **Stanford Medicine News Center (2023).** *Cyclic sighing can help breathe away anxiety in just 5 minutes a day.* [Read on Stanford Medicine ↗](https://med.stanford.edu/news/insights/2023/02/cyclic-sighing-can-help-breathe-away-anxiety.html)
+1. **Balban, M. Y., Neri, E., Kogon, M. M., Weed, L., Nouriani, B., Jo, B., ... & Huberman, A. D. (2023).** *Brief structured respiration practices enhance mood and reduce physiological arousal.* Cell Reports Medicine, 4(1), 100895. [https://pubmed.ncbi.nlm.nih.gov/36630953/](https://pubmed.ncbi.nlm.nih.gov/36630953/)
+2. **Zaccaro, A., Piarulli, A., Laurino, M., Garbella, E., Menicucci, D., Neri, B., & Gemignani, A. (2018).** *How Breath-Control Can Change Your Life: A Systematic Review on Psycho-Physiological Correlates of Slow Breathing.* Frontiers in Human Neuroscience, 12, 353. [https://pubmed.ncbi.nlm.nih.gov/30245619/](https://pubmed.ncbi.nlm.nih.gov/30245619/)
+3. **WHOOP The Locker.** *Breathwork for Recovery: How Nasal & Cyclic Breathing Increases HRV.* [https://www.whoop.com/us/en/thelocker/breathwork-for-recovery-and-hrv/](https://www.whoop.com/us/en/thelocker/breathwork-for-recovery-and-hrv/)
+4. **Stanford Medicine News Center (2023).** *Cyclic sighing can help breathe away anxiety in just 5 minutes a day.* [https://med.stanford.edu/news/insights/2023/02/cyclic-sighing-can-help-breathe-away-anxiety.html](https://med.stanford.edu/news/insights/2023/02/cyclic-sighing-can-help-breathe-away-anxiety.html)

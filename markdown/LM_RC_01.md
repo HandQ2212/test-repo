@@ -37,7 +37,7 @@ Nghịch lý thú vị là trong khi bạn muốn có Nhịp tim nghỉ (RHR) **
 
 ## Thiết Bị Đeo Tính Toán HRV Như Thế Nào? Chỉ Số RMSSD Là Gì?
 
-Khi bạn nhìn vào con số HRV buổi sáng trên **WHOOP**, **Oura Ring**, **Garmin HRV Status**, hoặc **Fitbit** (đơn vị mili-giây, `ms`), bạn đang xem một chỉ số miền thời gian chuyên biệt được các nhà sinh lý học thể thao khuyến nghị (**Shaffer & Ginsberg, 2017**; **Plews et al., 2013**): **RMSSD** (*Căn bậc hai của trung bình bình phương các hiệu số liên tiếp*).
+Khi bạn nhìn vào con số HRV buổi sáng trên **WHOOP**, **Oura Ring**, **Garmin HRV Status**, hoặc **Fitbit** (đơn vị mili-giây, `ms`), bạn đang xem một chỉ số miền thời gian chuyên biệt được các nhà sinh lý học thể thao khuyến nghị (**Shaffer & Ginsberg, 2017**; **Plews et al., 2013**): **RMSSD** (*Căn bậc hai của trung bình các bình phương hiệu số liên tiếp*).
 
 Dưới đây là 3 bước đơn giản mà đồng hồ thực hiện để tính RMSSD khi bạn đang ngủ yên:
 1. **Đo Khoảng Thời Gian Giữa Các Nhịp Đập:** Cảm biến quang học đo chính xác thời gian bằng mili-giây (`ms`) giữa từng nhịp tim (`khoảng R-R`).
@@ -90,10 +90,10 @@ Trong nghiên cứu khoa học thể thao nổi tiếng trên các vận động
 
 ## Tài Liệu Tham Khảo & Nguồn Y Khoa
 
-1. **Shaffer, F., & Ginsberg, J. P. (2017).** *An Overview of Heart Rate Variability Metrics and Norms.* Frontiers in Public Health, 5, 258. [Xem trên PubMed / NIH ↗](https://pubmed.ncbi.nlm.nih.gov/29034226/)
-2. **Plews, D. J., Laursen, P. B., Stanley, J., Buchheit, M., & Kilding, A. E. (2013).** *Training adaptation and heart rate variability in elite endurance athletes: opening the door to effective monitoring.* Sports Medicine, 43(9), 773–781. [Xem trên PubMed / NIH ↗](https://pubmed.ncbi.nlm.nih.gov/23852425/)
-3. **Oura Ring Pulse Blog.** *What Is Heart Rate Variability (HRV)? The Definitive Guide.* [Xem trên Oura Ring ↗](https://ouraring.com/blog/what-is-heart-rate-variability/)
-4. **Garmin Health Science.** *Heart Rate Variability (HRV) Status & Autonomic Recovery.* [Xem trên Garmin Health Science ↗](https://www.garmin.com/en-US/garmin-technology/health-science/hrv-status/)
+1. **Shaffer, F., & Ginsberg, J. P. (2017).** *An Overview of Heart Rate Variability Metrics and Norms.* Frontiers in Public Health, 5, 258. [https://pubmed.ncbi.nlm.nih.gov/29034226/](https://pubmed.ncbi.nlm.nih.gov/29034226/)
+2. **Plews, D. J., Laursen, P. B., Stanley, J., Buchheit, M., & Kilding, A. E. (2013).** *Training adaptation and heart rate variability in elite endurance athletes: opening the door to effective monitoring.* Sports Medicine, 43(9), 773–781. [https://pubmed.ncbi.nlm.nih.gov/23852425/](https://pubmed.ncbi.nlm.nih.gov/23852425/)
+3. **Oura Ring Pulse Blog.** *What Is Heart Rate Variability (HRV)? The Definitive Guide.* [https://ouraring.com/blog/what-is-heart-rate-variability/](https://ouraring.com/blog/what-is-heart-rate-variability/)
+4. **Garmin Health Science.** *Heart Rate Variability (HRV) Status & Autonomic Recovery.* [https://www.garmin.com/en-US/garmin-technology/health-science/hrv-status/](https://www.garmin.com/en-US/garmin-technology/health-science/hrv-status/)
 
 ---
 
@@ -175,7 +175,7 @@ In a landmark sports science study of elite endurance athletes (**Plews et al., 
 
 ## References & Clinical Sources
 
-1. **Shaffer, F., & Ginsberg, J. P. (2017).** *An Overview of Heart Rate Variability Metrics and Norms.* Frontiers in Public Health, 5, 258. [Read on PubMed / NIH ↗](https://pubmed.ncbi.nlm.nih.gov/29034226/)
-2. **Plews, D. J., Laursen, P. B., Stanley, J., Buchheit, M., & Kilding, A. E. (2013).** *Training adaptation and heart rate variability in elite endurance athletes: opening the door to effective monitoring.* Sports Medicine, 43(9), 773–781. [Read on PubMed / NIH ↗](https://pubmed.ncbi.nlm.nih.gov/23852425/)
-3. **Oura Ring Pulse Blog.** *What Is Heart Rate Variability (HRV)? The Definitive Guide.* [Read on Oura Ring ↗](https://ouraring.com/blog/what-is-heart-rate-variability/)
-4. **Garmin Health Science.** *Heart Rate Variability (HRV) Status & Autonomic Recovery.* [Read on Garmin Health Science ↗](https://www.garmin.com/en-US/garmin-technology/health-science/hrv-status/)
+1. **Shaffer, F., & Ginsberg, J. P. (2017).** *An Overview of Heart Rate Variability Metrics and Norms.* Frontiers in Public Health, 5, 258. [https://pubmed.ncbi.nlm.nih.gov/29034226/](https://pubmed.ncbi.nlm.nih.gov/29034226/)
+2. **Plews, D. J., Laursen, P. B., Stanley, J., Buchheit, M., & Kilding, A. E. (2013).** *Training adaptation and heart rate variability in elite endurance athletes: opening the door to effective monitoring.* Sports Medicine, 43(9), 773–781. [https://pubmed.ncbi.nlm.nih.gov/23852425/](https://pubmed.ncbi.nlm.nih.gov/23852425/)
+3. **Oura Ring Pulse Blog.** *What Is Heart Rate Variability (HRV)? The Definitive Guide.* [https://ouraring.com/blog/what-is-heart-rate-variability/](https://ouraring.com/blog/what-is-heart-rate-variability/)
+4. **Garmin Health Science.** *Heart Rate Variability (HRV) Status & Autonomic Recovery.* [https://www.garmin.com/en-US/garmin-technology/health-science/hrv-status/](https://www.garmin.com/en-US/garmin-technology/health-science/hrv-status/)

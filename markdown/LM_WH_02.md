@@ -91,10 +91,10 @@ Khi ghi chép dữ liệu trên ứng dụng, hãy lưu ý 4 yếu tố sinh ho�
 
 ## Tài Liệu Tham Khảo & Nguồn Y Khoa
 
-1. **Bigelow, J. L., Dunson, D. B., Stanford, J. B., Ecochard, R., Gnoth, C., & Colombo, B. (2004).** *Mucus observations in the fertile window: a better predictor of conception than timing of intercourse.* Human Reproduction, 19(4), 889–892. [Đọc trên PubMed / NIH ↗](https://pubmed.ncbi.nlm.nih.gov/14998971/)
-2. **Scarpa, B., Dunson, D. B., & Colombo, B. (2006).** *Cervical mucus secretions on the day of intercourse: an accurate marker of highly fertile days.* European Journal of Obstetrics & Gynecology and Reproductive Biology, 125(1), 72–78. [Đọc trên PubMed / NIH ↗](https://pubmed.ncbi.nlm.nih.gov/16154254/)
-3. **Clue Reproductive Health Library.** *Wet, Sticky, Clear: What Your Cervical Fluid & Discharge Are Telling You.* [Đọc trên Clue ↗](https://helloclue.com/articles/cycle-a-z/wet-sticky-what-your-discharge-is-telling-you)
-4. **Oura Ring Pulse Blog.** *Understanding Cervical Mucus Changes Across Your Menstrual Cycle.* [Đọc trên Oura Ring ↗](https://ouraring.com/blog/cervical-mucus/)
+1. **Bigelow, J. L., Dunson, D. B., Stanford, J. B., Ecochard, R., Gnoth, C., & Colombo, B. (2004).** *Mucus observations in the fertile window: a better predictor of conception than timing of intercourse.* Human Reproduction, 19(4), 889–892. [https://pubmed.ncbi.nlm.nih.gov/14998971/](https://pubmed.ncbi.nlm.nih.gov/14998971/)
+2. **Scarpa, B., Dunson, D. B., & Colombo, B. (2006).** *Cervical mucus secretions on the day of intercourse: an accurate marker of highly fertile days.* European Journal of Obstetrics & Gynecology and Reproductive Biology, 125(1), 72–78. [https://pubmed.ncbi.nlm.nih.gov/16154254/](https://pubmed.ncbi.nlm.nih.gov/16154254/)
+3. **Clue Reproductive Health Library.** *Wet, Sticky, Clear: What Your Cervical Fluid & Discharge Are Telling You.* [https://helloclue.com/articles/cycle-a-z/wet-sticky-what-your-discharge-is-telling-you](https://helloclue.com/articles/cycle-a-z/wet-sticky-what-your-discharge-is-telling-you)
+4. **Oura Ring Pulse Blog.** *Understanding Cervical Mucus Changes Across Your Menstrual Cycle.* [https://ouraring.com/blog/cervical-mucus/](https://ouraring.com/blog/cervical-mucus/)
 
 ---
 
@@ -177,7 +177,7 @@ When checking your app logs, keep in mind four everyday factors that can tempora
 
 ## References & Clinical Sources
 
-1. **Bigelow, J. L., Dunson, D. B., Stanford, J. B., Ecochard, R., Gnoth, C., & Colombo, B. (2004).** *Mucus observations in the fertile window: a better predictor of conception than timing of intercourse.* Human Reproduction, 19(4), 889–892. [Read on PubMed / NIH ↗](https://pubmed.ncbi.nlm.nih.gov/14998971/)
-2. **Scarpa, B., Dunson, D. B., & Colombo, B. (2006).** *Cervical mucus secretions on the day of intercourse: anaccurate marker of highly fertile days.* European Journal of Obstetrics & Gynecology and Reproductive Biology, 125(1), 72–78. [Read on PubMed / NIH ↗](https://pubmed.ncbi.nlm.nih.gov/16154254/)
-3. **Clue Reproductive Health Library.** *Wet, Sticky, Clear: What Your Cervical Fluid & Discharge Are Telling You.* [Read on Clue ↗](https://helloclue.com/articles/cycle-a-z/wet-sticky-what-your-discharge-is-telling-you)
-4. **Oura Ring Pulse Blog.** *Understanding Cervical Mucus Changes Across Your Menstrual Cycle.* [Read on Oura Ring ↗](https://ouraring.com/blog/cervical-mucus/)
+1. **Bigelow, J. L., Dunson, D. B., Stanford, J. B., Ecochard, R., Gnoth, C., & Colombo, B. (2004).** *Mucus observations in the fertile window: a better predictor of conception than timing of intercourse.* Human Reproduction, 19(4), 889–892. [https://pubmed.ncbi.nlm.nih.gov/14998971/](https://pubmed.ncbi.nlm.nih.gov/14998971/)
+2. **Scarpa, B., Dunson, D. B., & Colombo, B. (2006).** *Cervical mucus secretions on the day of intercourse: anaccurate marker of highly fertile days.* European Journal of Obstetrics & Gynecology and Reproductive Biology, 125(1), 72–78. [https://pubmed.ncbi.nlm.nih.gov/16154254/](https://pubmed.ncbi.nlm.nih.gov/16154254/)
+3. **Clue Reproductive Health Library.** *Wet, Sticky, Clear: What Your Cervical Fluid & Discharge Are Telling You.* [https://helloclue.com/articles/cycle-a-z/wet-sticky-what-your-discharge-is-telling-you](https://helloclue.com/articles/cycle-a-z/wet-sticky-what-your-discharge-is-telling-you)
+4. **Oura Ring Pulse Blog.** *Understanding Cervical Mucus Changes Across Your Menstrual Cycle.* [https://ouraring.com/blog/cervical-mucus/](https://ouraring.com/blog/cervical-mucus/)
