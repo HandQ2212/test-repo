@@ -1373,9 +1373,37 @@ body {
 
 .article-inline-diagram img {
   width: 100%;
-  max-height: 420px;
-  object-fit: cover;
+  height: auto;
+  max-height: 520px;
+  object-fit: contain;
   display: block;
+  background: #0F172A;
+}
+
+.article-rich-body blockquote {
+  background: #F8FAFC;
+  border-left: 4px solid #3B82F6;
+  padding: 1.25rem 1.5rem;
+  border-radius: 0 12px 12px 0;
+  margin: 2rem 0;
+  font-style: normal;
+  color: #1E293B;
+  box-shadow: 0 2px 6px rgba(15, 23, 42, 0.04);
+}
+
+.article-rich-body blockquote p:last-child {
+  margin-bottom: 0;
+}
+
+.article-rich-body a {
+  color: #2563EB;
+  font-weight: 600;
+  text-decoration: underline;
+  text-underline-offset: 2px;
+}
+
+.article-rich-body a:hover {
+  color: #1D4ED8;
 }
 
 .article-inline-diagram figcaption {

@@ -299,9 +299,9 @@ function openFullArticleView(art, updateHash = true) {
   // Set Takeaway
   document.getElementById('art-view-takeaway').textContent = art.takeaway;
 
-  // Render Markdown Body with Injected Inline Diagram Image
+  // Render Markdown Body with Injected Inline Diagram Image (if not already embedded in markdown)
   let parsedHtml = marked.parse(art.content);
-  if (art.inline_image) {
+  if (art.inline_image && !parsedHtml.includes('article-inline-diagram')) {
     const inlineDiagramHtml = `
       <figure class="article-inline-diagram">
         <img src="${art.inline_image}" alt="${art.inline_caption}" loading="lazy">
@@ -309,13 +309,15 @@ function openFullArticleView(art, updateHash = true) {
       </figure>
     `;
 
-    if (parsedHtml.includes('</h2>')) {
-      const parts = parsedHtml.split('</h2>', 2);
-      if (parts[1].includes('</p>')) {
-        const pParts = parts[1].split('</p>', 2);
-        parsedHtml = parts[0] + '</h2>' + pParts[0] + '</p>' + inlineDiagramHtml + pParts[1];
+    const h2Idx = parsedHtml.indexOf('</h2>');
+    if (h2Idx !== -1) {
+      const afterH2 = h2Idx + 5;
+      const pIdx = parsedHtml.indexOf('</p>', afterH2);
+      if (pIdx !== -1) {
+        const insertPos = pIdx + 4;
+        parsedHtml = parsedHtml.slice(0, insertPos) + inlineDiagramHtml + parsedHtml.slice(insertPos);
       } else {
-        parsedHtml = parts[0] + '</h2>' + inlineDiagramHtml + parts[1];
+        parsedHtml = parsedHtml.slice(0, afterH2) + inlineDiagramHtml + parsedHtml.slice(afterH2);
       }
     } else {
       parsedHtml = inlineDiagramHtml + parsedHtml;

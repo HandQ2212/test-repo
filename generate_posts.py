@@ -23,15 +23,19 @@ category_colors = {
     "Men's Health": ("#E0E7FF", "#4338CA", "#6366F1")
 }
 
-def clean_cat_id(cat):
-    return ''.join(c for c in cat if c.isalnum())
+def resolve_post_img_path(path_str):
+    if not path_str:
+        return ""
+    if path_str.startswith("images/"):
+        return "../" + path_str
+    return path_str
 
 os.makedirs("Health_Blog_Demo/posts", exist_ok=True)
 
 for i, art in enumerate(articles):
     cat = art["category"]
     icon = category_icons.get(cat, "📄")
-    bg_pill, text_pill, accent_col = category_colors.get(cat, ("#F1F5F9", "#334155", "#64748B"))
+    bg_pill, text_pill, _ = category_colors.get(cat, ("#F1F5F9", "#334155", "#64748B"))
     
     # Pre-render markdown to HTML
     body_html = markdown.markdown(
@@ -39,14 +43,37 @@ for i, art in enumerate(articles):
         extensions=['extra', 'tables', 'nl2br', 'sane_lists']
     )
     
+    # Inject Inline Diagram only if not already embedded in the markdown content
+    if "article-inline-diagram" not in body_html and art.get("inline_image"):
+        inline_img_src = resolve_post_img_path(art["inline_image"])
+        inline_diagram_html = f"""
+        <figure class="article-inline-diagram">
+          <img src="{inline_img_src}" alt="{art.get('inline_caption', '')}" loading="lazy">
+          <figcaption>📊 <strong>Clinical Biometric Visual:</strong> {art.get('inline_caption', '')}</figcaption>
+        </figure>
+        """
+        if "</h2>" in body_html:
+            parts = body_html.split("</h2>", 1)
+            if "</p>" in parts[1]:
+                p_parts = parts[1].split("</p>", 1)
+                body_html = parts[0] + "</h2>" + p_parts[0] + "</p>" + inline_diagram_html + p_parts[1]
+            else:
+                body_html = parts[0] + "</h2>" + inline_diagram_html + parts[1]
+        else:
+            body_html = inline_diagram_html + body_html
+
+    # Convert any embedded src="images/..." to src="../images/..." for standalone posts inside posts/
+    body_html = body_html.replace('src="images/', 'src="../images/')
+    
+    hero_img_src = resolve_post_img_path(art.get("hero_image", ""))
+    
     # Previous and Next articles
     prev_art = articles[i - 1] if i > 0 else None
     next_art = articles[i + 1] if i < len(articles) - 1 else None
     
-    # Related articles (same category, different id)
+    # Related articles
     related = [a for a in articles if a["category"] == cat and a["id"] != art["id"]][:3]
     if len(related) < 3:
-        # fill with others if less than 3
         others = [a for a in articles if a["id"] != art["id"] and a not in related]
         related.extend(others[:3 - len(related)])
         
@@ -54,17 +81,22 @@ for i, art in enumerate(articles):
     for rel in related:
         rel_icon = category_icons.get(rel["category"], "📄")
         rel_bg, rel_text, _ = category_colors.get(rel["category"], ("#F1F5F9", "#334155", "#64748B"))
+        rel_hero = resolve_post_img_path(rel.get("hero_image", ""))
         related_html_cards += f"""
         <a href="{rel['id']}.html" class="related-post-card">
-          <div class="related-post-badge" style="background: {rel_bg}; color: {rel_text};">
-            {rel_icon} {rel['category']}
+          <div class="related-post-img" style="background-image: url('{rel_hero}');">
+            <span class="related-post-badge" style="background: {rel_bg}; color: {rel_text};">
+              {rel_icon} {rel['category']}
+            </span>
           </div>
-          <h4 class="related-post-title">{rel['title']}</h4>
-          <p class="related-post-desc">{rel['description'][:95]}...</p>
-          <div class="related-post-meta">
-            <span>⏱ {rel['reading_time']}</span>
-            <span>•</span>
-            <span>{rel['type']}</span>
+          <div class="related-post-info">
+            <h4 class="related-post-title">{rel['title']}</h4>
+            <p class="related-post-desc">{rel['description'][:90]}...</p>
+            <div class="related-post-meta">
+              <span>⏱ {rel['reading_time']}</span>
+              <span>•</span>
+              <span>{rel['type']}</span>
+            </div>
           </div>
         </a>
         """
@@ -129,7 +161,7 @@ for i, art in enumerate(articles):
       <span class="current">{art['sub_topic']}</span>
     </nav>
 
-    <!-- Article Hero -->
+    <!-- Article Hero Header -->
     <header class="article-page-header">
       <div class="article-badges-row">
         <span class="badge" style="background: {bg_pill}; color: {text_pill}; font-weight: 700;">
@@ -143,6 +175,12 @@ for i, art in enumerate(articles):
       <h1 class="article-main-title">{art['title']}</h1>
       
       <p class="article-sapo-lead">{art['description']}</p>
+
+      <!-- Featured Cover Hero Image -->
+      <figure class="article-featured-hero">
+        <img src="{hero_img_src}" alt="{art['title']}">
+        <figcaption>{art['title']} — Clinical Editorial Feature</figcaption>
+      </figure>
 
       <!-- Editorial & Clinical Metadata Card -->
       <div class="article-metadata-card">
@@ -225,12 +263,13 @@ for i, art in enumerate(articles):
   </footer>
 
   <script>
-    // Reading Progress Indicator
     window.addEventListener('scroll', () => {{
       const winScroll = document.body.scrollTop || document.documentElement.scrollTop;
       const height = document.documentElement.scrollHeight - document.documentElement.clientHeight;
-      const scrolled = (winScroll / height) * 100;
-      document.getElementById('reading-progress').style.width = scrolled + '%';
+      if (height > 0) {{
+        const scrolled = (winScroll / height) * 100;
+        document.getElementById('reading-progress').style.width = scrolled + '%';
+      }}
     }});
   </script>
 </body>
@@ -240,4 +279,4 @@ for i, art in enumerate(articles):
     with open(file_path, "w", encoding="utf-8") as out:
         out.write(html_page)
 
-print(f"Successfully generated {len(articles)} individual blog post pages in Health_Blog_Demo/posts/")
+print(f"Successfully generated all {len(articles)} standalone blog post pages!")
