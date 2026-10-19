@@ -25,8 +25,8 @@ Con người tiến hóa trong môi trường tự nhiên với những biến �
 Khi nhiệt độ da và nhiệt độ lõi cơ thể dịch chuyển khỏi điểm cân bằng `37.0°C`, các thụ thể nhiệt lập tức truyền tín hiệu khẩn cấp về **vùng trước thị của vùng dưới đồi (anterior hypothalamus)**, khởi phát một chuỗi phản ứng sinh lý toàn thân hiển thị ngay lập tức trên biểu đồ nhịp tim, HRV và nhiệt độ da của đồng hồ thông minh.
 
 <figure class="article-inline-diagram">
-  <img src="images/DM_HW_02_figure.png" alt="Sơ đồ vòng lặp phản hồi âm tính điều hòa thân nhiệt con người tại vùng dưới đồi" loading="lazy">
-  <figcaption>📊 <strong>Vòng Lặp Điều Hòa Thân Nhiệt Vùng Dưới Đồi:</strong> Cách tiếp xúc nhiệt nóng chủ động kích hoạt giãn mạch ngoại vi, tăng cung lượng tim và sinh tổng hợp Protein Sốc Nhiệt (HSP), trong khi tiếp xúc lạnh kích hoạt co mạch, phóng thích norepinephrine và sinh nhiệt tại mô mỡ nâu. <a href="https://commons.wikimedia.org/wiki/File:Negative_Feedback_Loop_Diagram_for_Human_Body_Temperature_Regulation.svg" target="_blank" rel="noopener">Nguồn hình ảnh gốc: Wikimedia Commons ↗</a></figcaption>
+ <img src="images/DM_HW_02_figure.png" alt="Sơ đồ vòng lặp phản hồi âm tính điều hòa thân nhiệt con người tại vùng dưới đồi" loading="lazy">
+ <figcaption>📊 <strong>Vòng Lặp Điều Hòa Thân Nhiệt Vùng Dưới Đồi:</strong> Cách tiếp xúc nhiệt nóng chủ động kích hoạt giãn mạch ngoại vi, tăng cung lượng tim và sinh tổng hợp Protein Sốc Nhiệt (HSP), trong khi tiếp xúc lạnh kích hoạt co mạch, phóng thích norepinephrine và sinh nhiệt tại mô mỡ nâu. <a href="https://commons.wikimedia.org/wiki/File:Negative_Feedback_Loop_Diagram_for_Human_Body_Temperature_Regulation.svg" target="_blank" rel="noopener">Nguồn hình ảnh gốc: Wikimedia Commons ↗</a></figcaption>
 </figure>
 
 ---
@@ -38,8 +38,8 @@ Ngồi trong phòng xông hơi khô kiểu Phần Lan ở nhiệt độ **80°C 
 1. **Mô Phỏng Cardio Zone 2 & "Thể Dục Mạch Máu":** Khi thân nhiệt tăng lên, vùng dưới đồi làm giãn rộng các mạch máu dưới da (**giãn mạch ngoại vi**) và tăng tiết mồ hôi (`0.5 đến 1.0 lít` dịch mỗi phiên). Để bơm máu ra bề mặt da làm mát cơ thể, **nhịp tim của bạn tăng lên mức `120–150 bpm`** và cung lượng tim tăng gần gấp đôi—tương đương với một buổi đi bộ nhanh ở vùng Zone 2 đồng thời làm giảm độ cứng thành động mạch!
 2. **Protein Sốc Nhiệt (Heat Shock Proteins – HSP70 & HSP90):** Áp lực nhiệt kích hoạt mạnh mẽ các **Protein Sốc Nhiệt**, những "người bảo vệ phân tử" bên trong tế bào giúp gấp cuộn lại các protein bị hư hỏng, ngăn chặn sự tích tụ mảng bám protein độc hại (liên quan đến bệnh suy giảm thần kinh) và làm chậm quá trình teo cơ khi bạn phải nghỉ tập do chấn thương.
 3. **Nghiên Cứu Tuổi Thọ Kuopio Kinh Điển Tại Phần Lan (Laukkanen et al., 2015 — *JAMA Internal Medicine*):** Các nhà khoa học đã theo dõi **2.315 nam giới Phần Lan** trong suốt hơn 20 năm:
-   - So với nhóm chỉ xông hơi 1 lần/tuần, những người xông hơi **2–3 lần/tuần** giảm được **27% nguy cơ tử vong do bệnh tim mạch**.
-   - Đặc biệt, nhóm xông hơi **4–7 lần/tuần (tối thiểu ≥ 19 phút mỗi lần)** ghi nhận mức **giảm 50% biến cố tử vong tim mạch**, **giảm 40% tử vong do mọi nguyên nhân**, và **giảm tới 65% nguy cơ mắc bệnh Alzheimer**!
+ - So với nhóm chỉ xông hơi 1 lần/tuần, những người xông hơi **2–3 lần/tuần** giảm được **27% nguy cơ tử vong do bệnh tim mạch**.
+ - Đặc biệt, nhóm xông hơi **4–7 lần/tuần (tối thiểu ≥ 19 phút mỗi lần)** ghi nhận mức **giảm 50% biến cố tử vong tim mạch**, **giảm 40% tử vong do mọi nguyên nhân**, và **giảm tới 65% nguy cơ mắc bệnh Alzheimer**!
 
 ---
 
@@ -100,8 +100,8 @@ Humans evolved in environments of fluctuating heat and cold, yet modern climate-
 When your skin and core temperature shift outside their `37.0°C (98.6°F)` setpoint, thermoreceptors send urgent signals to the **preoptic area of the anterior hypothalamus**, launching a full-body physiological cascade that shows up immediately on your smartwatch's heart rate, HRV, and skin temperature graphs.
 
 <figure class="article-inline-diagram">
-  <img src="images/DM_HW_02_figure.png" alt="Negative Feedback Loop Diagram for Human Body Temperature Regulation" loading="lazy">
-  <figcaption>📊 <strong>Hypothalamic Thermoregulation Loop:</strong> How deliberate heat exposure triggers peripheral vasodilation, cardiac output elevation, and Heat Shock Proteins, while deliberate cold exposure triggers vasoconstriction, norepinephrine release, and brown adipose thermogenesis. <a href="https://commons.wikimedia.org/wiki/File:Negative_Feedback_Loop_Diagram_for_Human_Body_Temperature_Regulation.svg" target="_blank" rel="noopener">Original Image Source: Wikimedia Commons ↗</a></figcaption>
+ <img src="images/DM_HW_02_figure.png" alt="Negative Feedback Loop Diagram for Human Body Temperature Regulation" loading="lazy">
+ <figcaption>📊 <strong>Hypothalamic Thermoregulation Loop:</strong> How deliberate heat exposure triggers peripheral vasodilation, cardiac output elevation, and Heat Shock Proteins, while deliberate cold exposure triggers vasoconstriction, norepinephrine release, and brown adipose thermogenesis. <a href="https://commons.wikimedia.org/wiki/File:Negative_Feedback_Loop_Diagram_for_Human_Body_Temperature_Regulation.svg" target="_blank" rel="noopener">Original Image Source: Wikimedia Commons ↗</a></figcaption>
 </figure>
 
 ---
@@ -113,8 +113,8 @@ Sitting inside a dry Finnish sauna at **80°C to 95°C (176°F–203°F)** for 1
 1. **Zone 2 Cardiac Mimicry & Vascular Gymnastics:** As core temperature rises, your hypothalamus dilates peripheral blood vessels (**vasodilation**) and increases sweat production (`0.5 to 1.0 kg` of fluid per session). To pump blood to the skin for cooling, your **heart rate climbs to `120–150 bpm`** and cardiac output nearly doubles—matching a moderate Zone 2 brisk walk while decreasing arterial stiffness!
 2. **Heat Shock Proteins (HSP70 & HSP90):** Thermal stress activates **Heat Shock Proteins**, molecular chaperones inside your cells that refold damaged proteins, prevent toxic protein aggregation (linked to neurodegenerative diseases), and slow muscular atrophy during injury layoffs.
 3. **The Landmark Kuopio Longevity Study (Laukkanen et al., 2015 — *JAMA Internal Medicine*):** Researchers followed **2,315 Finnish men** for over 20 years:
-   - Compared to men who used a sauna once a week, those who used the sauna **2–3 times per week** had a **27% lower risk of fatal cardiovascular disease**.
-   - Those who used the sauna **4–7 times per week (for ≥ 19 minutes per session)** experienced a **50% reduction in fatal cardiovascular events**, a **40% reduction in all-cause mortality**, and a **65% lower risk of developing Alzheimer's disease**!
+ - Compared to men who used a sauna once a week, those who used the sauna **2–3 times per week** had a **27% lower risk of fatal cardiovascular disease**.
+ - Those who used the sauna **4–7 times per week (for ≥ 19 minutes per session)** experienced a **50% reduction in fatal cardiovascular events**, a **40% reduction in all-cause mortality**, and a **65% lower risk of developing Alzheimer's disease**!
 
 ---
 

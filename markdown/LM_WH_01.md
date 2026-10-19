@@ -25,8 +25,8 @@ Nếu bạn đeo **Oura Ring**, **WHOOP**, **Apple Watch** hoặc **Garmin** m�
 Sức khỏe thể chất của bạn không hề đi xuống—và cảm biến trên đồng hồ cũng không hề bị lỗi. Trong khi sinh lý học con người vận hành theo **Nhịp sinh học ngày đêm 24 giờ (Circadian Rhythm)**, cơ thể nữ giới còn được điều phối đồng thời bởi chiếc đồng hồ sinh học thứ hai: **Nhịp sinh học chu kỳ (Infradian Rhythm — kéo dài khoảng 24 đến 35 ngày)**. Chu kỳ kinh nguyệt không chỉ diễn ra ở cơ quan sinh sản; đó là một bản giao hưởng nội tiết – thần kinh toàn thân, trực tiếp điều chỉnh thân nhiệt, nhịp tim, chuyển hóa đường huyết, cấu trúc giấc ngủ và sự cân bằng của hệ thần kinh tự chủ.
 
 <figure class="article-inline-diagram">
-  <img src="images/LM_WH_01_figure.png" alt="Sinh lý học toàn diện của 4 giai đoạn chu kỳ kinh nguyệt, đường cong hormone và sự dịch chuyển nhiệt độ cơ bản" loading="lazy">
-  <figcaption>📊 <strong>Sự Đồng Bộ Nội Tiết &amp; Thân Nhiệt Qua Các Giai Đoạn:</strong> Cách hormone tuyến yên (FSH và LH) điều khiển quá trình tiết Estradiol và Progesterone tại buồng trứng, tạo nên bước nhảy nhiệt độ +0.3°C đến +0.5°C sau rụng trứng và chu kỳ tái tạo niêm mạc tử cung. <a href="https://commons.wikimedia.org/wiki/File:MenstrualCycle2.png" target="_blank" rel="noopener noreferrer">Original Image Source: Wikimedia Commons ↗</a></figcaption>
+ <img src="images/LM_WH_01_figure.png" alt="Sinh lý học toàn diện của 4 giai đoạn chu kỳ kinh nguyệt, đường cong hormone và sự dịch chuyển nhiệt độ cơ bản" loading="lazy">
+ <figcaption>📊 <strong>Sự Đồng Bộ Nội Tiết &amp; Thân Nhiệt Qua Các Giai Đoạn:</strong> Cách hormone tuyến yên (FSH và LH) điều khiển quá trình tiết Estradiol và Progesterone tại buồng trứng, tạo nên bước nhảy nhiệt độ +0.3°C đến +0.5°C sau rụng trứng và chu kỳ tái tạo niêm mạc tử cung. <a href="https://commons.wikimedia.org/wiki/File:MenstrualCycle2.png" target="_blank" rel="noopener noreferrer">Original Image Source: Wikimedia Commons ↗</a></figcaption>
 </figure>
 
 ---
@@ -61,9 +61,9 @@ Khi nồng độ Estradiol vượt ngưỡng kích hoạt trong suốt 36 đến
 ### Giai đoạn 4: Giai đoạn Hoàng thể (Ngày 16–28) — Cuộc Đua Sức Bền Với Progesterone
 Sau khi trứng rụng, vỏ nang trứng còn lại biến đổi thành một tuyến nội tiết tạm thời gọi là **Hoàng thể (Corpus Luteum)**, tiết ra từ **20 đến 25 mg Progesterone mỗi ngày** để làm dày và giàu mạch máu cho lớp niêm mạc tử cung.
 - **Tín hiệu trên thiết bị đeo:** Progesterone tác động trực tiếp lên **vùng trước thị của dưới đồi (Hypothalamus)**—trung tâm điều nhiệt của não bộ—khiến nhiệt độ lõi và nhiệt độ da ngoại vi tăng thêm **+0.3°C đến +0.5°C (+0.5°F đến +0.9°F)**. Để duy trì trạng thái trao đổi chất và thân nhiệt cao này, hệ thần kinh giao cảm hoạt động mạnh hơn:
-  - **Nhịp tim lúc nghỉ (RHR) tăng thêm 3 đến 7 bpm** (thậm chí tăng tới 8 bpm ở những ngày sát kỳ kinh).
-  - **Nhịp thở ban đêm tăng thêm 0.5 đến 1.5 nhịp/phút.**
-  - **Chỉ số HRV giảm từ 5% đến 15%**, đồng thời các nghiên cứu giấc ngủ lâm sàng (**Baker & Driver, 2007**) cho thấy thời lượng giấc ngủ REM giảm nhẹ ở nửa cuối pha Hoàng thể.
+ - **Nhịp tim lúc nghỉ (RHR) tăng thêm 3 đến 7 bpm** (thậm chí tăng tới 8 bpm ở những ngày sát kỳ kinh).
+ - **Nhịp thở ban đêm tăng thêm 0.5 đến 1.5 nhịp/phút.**
+ - **Chỉ số HRV giảm từ 5% đến 15%**, đồng thời các nghiên cứu giấc ngủ lâm sàng (**Baker & Driver, 2007**) cho thấy thời lượng giấc ngủ REM giảm nhẹ ở nửa cuối pha Hoàng thể.
 
 > **Lưu Ý Quan Trọng Từ Chuyên Gia Thiết Bị Đeo:** Một trong những cải tiến lớn nhất của **Oura Ring** và **WHOOP** là giúp người dùng hiểu rằng: việc HRV giảm nhẹ và RHR tăng lên vào Ngày 23 của chu kỳ là **phản ứng sinh lý hoàn toàn khỏe mạnh của hormone Progesterone**—chứ không phải dấu hiệu bạn bị sụt giảm thể lực hay sắp ốm!
 
@@ -107,8 +107,8 @@ If you wear an **Oura Ring**, **WHOOP**, **Apple Watch**, or **Garmin** every ni
 Nothing is wrong with your fitness—and nothing is broken in your smartwatch sensors. While human physiology is governed by the well-known 24-hour **Circadian Rhythm**, female physiology is simultaneously orchestrated by a second biological clock: the **Infradian Rhythm** (from the Latin *infra*, meaning longer than a day). Lasting roughly **24 to 35 days** in healthy ovulatory adults, the menstrual cycle is a whole-body neuro-endocrine rhythm that influences thermoregulation, cardiovascular strain, glucose metabolism, sleep architecture, and autonomic nervous system balance.
 
 <figure class="article-inline-diagram">
-  <img src="images/LM_WH_01_figure.png" alt="Comprehensive physiology of the four menstrual cycle phases, hormone curves, and basal body temperature shift" loading="lazy">
-  <figcaption>📊 <strong>Endocrine &amp; Thermal Synchronization Across the Cycle:</strong> How pituitary hormones (FSH and LH) drive ovarian estradiol and progesterone secretion, triggering the characteristic post-ovulatory +0.3°C to +0.5°C temperature shift and endometrial remodeling. <a href="https://commons.wikimedia.org/wiki/File:MenstrualCycle2.png" target="_blank" rel="noopener noreferrer">Original Image Source: Wikimedia Commons ↗</a></figcaption>
+ <img src="images/LM_WH_01_figure.png" alt="Comprehensive physiology of the four menstrual cycle phases, hormone curves, and basal body temperature shift" loading="lazy">
+ <figcaption>📊 <strong>Endocrine &amp; Thermal Synchronization Across the Cycle:</strong> How pituitary hormones (FSH and LH) drive ovarian estradiol and progesterone secretion, triggering the characteristic post-ovulatory +0.3°C to +0.5°C temperature shift and endometrial remodeling. <a href="https://commons.wikimedia.org/wiki/File:MenstrualCycle2.png" target="_blank" rel="noopener noreferrer">Original Image Source: Wikimedia Commons ↗</a></figcaption>
 </figure>
 
 ---
@@ -143,9 +143,9 @@ When estradiol reaches a critical threshold for 36 to 48 hours, it flips a switc
 ### Phase 4: The Luteal Phase (Days 16–28) — The Progesterone Marathon
 Once the egg is released, the collapsed follicle transforms into a temporary endocrine gland called the **corpus luteum**, which produces up to **20–25 mg of progesterone per day** to prepare the uterus for a potential pregnancy.
 - **What You See on Your Wearable:** Progesterone acts directly on the **preoptic area of the hypothalamus** (your brain's thermostat), raising your core and peripheral skin temperature by **+0.3°C to +0.5°C (+0.5°F to +0.9°F)**. To support this higher metabolic and thermal state, your sympathetic nervous system increases its tone:
-  - **Resting Heart Rate rises by 3 to 7 bpm** (and up to 8 bpm in the late luteal phase).
-  - **Respiratory Rate increases by 0.5 to 1.5 breaths per minute.**
-  - **HRV drops by 5% to 15%**, and clinical sleep studies (**Baker & Driver, 2007**) show a mild reduction in REM sleep and slightly more sleep spindles during the mid-to-late luteal days.
+ - **Resting Heart Rate rises by 3 to 7 bpm** (and up to 8 bpm in the late luteal phase).
+ - **Respiratory Rate increases by 0.5 to 1.5 breaths per minute.**
+ - **HRV drops by 5% to 15%**, and clinical sleep studies (**Baker & Driver, 2007**) show a mild reduction in REM sleep and slightly more sleep spindles during the mid-to-late luteal days.
 
 > **Important Wearable Insight — Luteal Strain Is Not Poor Recovery:** One of the biggest breakthroughs in **Oura Ring** and **WHOOP** algorithms was teaching users that a lower HRV and higher RHR on Day 23 of your cycle is a **healthy, expected progesterone signature**—not a sign that you are losing fitness or getting sick!
 

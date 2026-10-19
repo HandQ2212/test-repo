@@ -17,15 +17,15 @@
 ## Cơn Ác Mộng Sinh Hóa: Tinh Hoàn Bị Tấn Công Bởi Acetaldehyde
 
 Nhiều người lầm tưởng rượu bia chỉ ảnh hưởng đến gan và dạ dày. Tuy nhiên, trên phương diện nội tiết nam giới, phân tử cồn (**Ethanol**) và chất chuyển hóa độc hại của nó là **Acetaldehyde** tấn công trực tiếp vào trục hormone theo 3 gọng kìm tàn khốc:
-1. **Độc Tính Trực Tiếp Lên Tế Bào Leydig:** Cồn thẩm thấu qua hàng rào máu - tinh hoàn, làm rối loạn enzyme $3\beta$-HSD và $17\beta$-HSD, khiến các tế bào Leydig tạm thời mất khả năng chuyển đổi cholesterol thành Testosterone.
+1. **Độc Tính Trực Tiếp Lên Tế Bào Leydig:** Cồn thẩm thấu qua hàng rào máu - tinh hoàn, làm rối loạn enzyme 3β-HSD và 17β-HSD, khiến các tế bào Leydig tạm thời mất khả năng chuyển đổi cholesterol thành Testosterone.
 2. **Kích Thích Tuyến Thượng Thận Tiết Cortisol:** Cồn kích hoạt phản ứng stress sinh học cấp tính, đẩy nồng độ Cortisol lên cao. Cortisol và Testosterone có tính đối nghịch: Cortisol cao sẽ khóa chặt các thụ thể androgen tại cơ bắp.
 3. **Ức Chế Tuyến Yên Tiết Hormone LH:** Cồn làm gián đoạn các xung giải phóng hormone tạo hoàng thể (LH) từ não bộ xuống cơ quan sinh dục.
 
 Nghiên cứu lâm sàng (**Vingren et al., Sports Medicine**) cho thấy việc tiêu thụ lượng cồn tương đương 1.5g/kg thể trọng (khoảng 4–5 ly bia) sau tập luyện làm **sụt giảm nồng độ Testosterone từ 20% đến 40%** kéo dài suốt 24 giờ tiếp theo.
 
 <figure class="article-inline-diagram">
-  <img src="images/LM_RC_01_figure.png" alt="Sơ đồ điện tâm đồ và biến thiên nhịp tim" loading="lazy">
-  <figcaption>📊 <strong>Sự Sụt Giảm Đột Ngột Của HRV Sau Khi Uống Rượu:</strong> Gan phải làm việc cật lực để oxy hóa cồn, giữ cơ thể ở trạng thái căng thẳng giao cảm; nhịp tim nghỉ ngơi ban đêm tăng vọt từ 8–15 bpm. <a href="https://commons.wikimedia.org/wiki/File:ECG_Principle_fast.svg" target="_blank" rel="noopener">Nguồn sơ đồ: Wikimedia Commons ↗</a></figcaption>
+ <img src="images/LM_RC_01_figure.png" alt="Sơ đồ điện tâm đồ và biến thiên nhịp tim" loading="lazy">
+ <figcaption>📊 <strong>Sự Sụt Giảm Đột Ngột Của HRV Sau Khi Uống Rượu:</strong> Gan phải làm việc cật lực để oxy hóa cồn, giữ cơ thể ở trạng thái căng thẳng giao cảm; nhịp tim nghỉ ngơi ban đêm tăng vọt từ 8–15 bpm. <a href="https://commons.wikimedia.org/wiki/File:ECG_Principle_fast.svg" target="_blank" rel="noopener">Nguồn sơ đồ: Wikimedia Commons ↗</a></figcaption>
 </figure>
 
 ---
@@ -53,7 +53,7 @@ Nhiều người viện cớ uống 1–2 ly rượu để "dễ ngủ". Đúng 
 ## Giao Thức 4 Bước Giảm Thiểu Tác Hại Của Rượu Bia
 
 1. **Quy Tắc "Cửa Sổ 4 Tiếng":** Kết thúc ly rượu cuối cùng tối thiểu **4 giờ trước khi lên giường**. Khoảng thời gian này cho phép gan xử lý phần lớn lượng ethanol trong máu trước khi các chu kỳ ngủ sâu bắt đầu.
-2. **Tỷ Lệ 1:1 Với Nước Lọc:** Cứ mỗi ly rượu hoặc bia nạp vào, hãy uống ngay một ly nước lọc $250\text{ml}$ để ngăn ngừa tình trạng mất nước nội bào và giữ thể tích huyết tương ổn định.
+2. **Tỷ Lệ 1:1 Với Nước Lọc:** Cứ mỗi ly rượu hoặc bia nạp vào, hãy uống ngay một ly nước lọc 250ml để ngăn ngừa tình trạng mất nước nội bào và giữ thể tích huyết tương ổn định.
 3. **Bổ Sung Chất Điện Giải & Vitamin Nhóm B:** Uống 1 gói điện giải (Natri, Kali, Magie) và 1 viên B-Complex trước khi ngủ. Rượu là chất lợi tiểu làm cạn kiệt vitamin B1 (Thiamine) và Magie—hai vi chất cần thiết cho chức năng thần kinh.
 4. **Không Tập Nặng Ngày Hôm Sau Khi HRV Vùng Đỏ:** Nếu thiết bị đeo báo điểm Recovery dưới 33% sau đêm uống rượu, hãy hủy buổi tập gym nặng hoặc chạy nước rút. Chuyển sang đi bộ nhẹ nhàng (Active Recovery) để tránh nguy cơ rách cơ và chấn thương gân khớp.
 
@@ -73,15 +73,15 @@ Nhiều người viện cớ uống 1–2 ly rượu để "dễ ngủ". Đúng 
 ## Biochemical Warfare: Testicular Attack by Acetaldehyde
 
 Alcohol is frequently mischaracterized as merely a liver and gastrointestinal burden. In male endocrinology, **ethanol** and its toxic metabolite **acetaldehyde** assault the gonadal axis across three brutal fronts:
-1. **Direct Leydig Cell Toxicity:** Ethanol freely crosses the blood-testis barrier, uncoupling $3\beta$-HSD and $17\beta$-HSD enzymes, temporarily paralyzing Leydig cells from converting cholesterol into testosterone.
+1. **Direct Leydig Cell Toxicity:** Ethanol freely crosses the blood-testis barrier, uncoupling 3β-HSD and 17β-HSD enzymes, temporarily paralyzing Leydig cells from converting cholesterol into testosterone.
 2. **Adrenocortical Cortisol Activation:** Alcohol triggers an acute biological stress response, spiking systemic cortisol. Cortisol and testosterone are competitive antagonists: elevated cortisol locks androgen receptors in skeletal muscle.
 3. **Pituitary LH Suppression:** Ethanol disrupts pulsatile luteinizing hormone (LH) discharge from anterior pituitary gonadotropes.
 
 Clinical trials (**Vingren et al., Sports Medicine**) show that consuming 1.5g alcohol/kg (~4–5 beers) post-workout **slashes serum testosterone by 20% to 40%** over the subsequent 24 hours.
 
 <figure class="article-inline-diagram">
-  <img src="images/LM_RC_01_figure.png" alt="ECG rhythm and autonomic HRV suppression diagram" loading="lazy">
-  <figcaption>📊 <strong>Catastrophic Post-Alcohol HRV Collapse:</strong> As the liver metabolizes ethanol overnight, sympathetic hyperarousal spikes resting heart rate by 8–15 bpm and crushes parasympathetic vagal tone. <a href="https://commons.wikimedia.org/wiki/File:ECG_Principle_fast.svg" target="_blank" rel="noopener">Diagram source: Wikimedia Commons ↗</a></figcaption>
+ <img src="images/LM_RC_01_figure.png" alt="ECG rhythm and autonomic HRV suppression diagram" loading="lazy">
+ <figcaption>📊 <strong>Catastrophic Post-Alcohol HRV Collapse:</strong> As the liver metabolizes ethanol overnight, sympathetic hyperarousal spikes resting heart rate by 8–15 bpm and crushes parasympathetic vagal tone. <a href="https://commons.wikimedia.org/wiki/File:ECG_Principle_fast.svg" target="_blank" rel="noopener">Diagram source: Wikimedia Commons ↗</a></figcaption>
 </figure>
 
 ---
@@ -109,7 +109,7 @@ Many justify alcohol as a "nightcap" to assist sleep onset. While ethanol potent
 ## 4-Step Harm Reduction Protocol for Alcohol Consumption
 
 1. **Enforce the 4-Hour Curfew:** Finish your final drink at least **4 hours prior to bedtime** to allow hepatic clearance before deep sleep cycles begin.
-2. **Execute 1:1 Hydration:** Match every alcoholic drink with an equal $250\text{ mL}$ glass of water to counter cellular dehydration and maintain plasma volume.
+2. **Execute 1:1 Hydration:** Match every alcoholic drink with an equal 250 mL glass of water to counter cellular dehydration and maintain plasma volume.
 3. **Supplement Electrolytes and B-Complex:** Take an electrolyte packet (Sodium, Potassium, Magnesium) and B-Complex pre-bed; alcohol depletes thiamine and magnesium critical for neural stability.
 4. **Reschedule Heavy Strain When in Red Recovery:** If your wearable displays a Red Recovery Score (<33%) following drinking, cancel heavy lifting or sprints. Shift to light Zone 1 active recovery to avoid soft tissue injury.
 

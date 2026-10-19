@@ -19,13 +19,13 @@
 Khi bạn tập luyện thể thao hoặc làm việc ngoài trời, cơ thể tiết mồ hôi để làm mát bề mặt da qua cơ chế bay hơi. Nguồn nước để tạo ra mồ hôi được rút trực tiếp từ lòng mạch máu—chính là **Thể Tích Huyết Tương (Plasma Volume)**:
 1. Khi thể tích huyết tương sụt giảm do mất nước: Máu bị cô đặc lại (tăng độ nhớt máu), làm giảm lượng máu tĩnh mạch đổ về tim vào cuối thì tâm trương.
 2. Thể tích máu tống ra trong mỗi nhát bóp của tim (**Stroke Volume**) bị sụt giảm từ **10% đến 15%**.
-3. Để duy trì đủ cung lượng máu ($Q = \text{Stroke Volume} \times \text{Heart Rate}$) nuôi não bộ và các nhóm cơ đang vận động, nút xoang nhĩ buộc phải phát xung nhanh hơn. Kết quả là **nhịp tim bị trôi dạt tăng vọt (Cardiac Drift) thêm 5 đến 10 nhịp/phút** dù tốc độ chạy hoặc mức tạ của bạn không hề tăng lên!
+3. Để duy trì đủ cung lượng máu (Q = Stroke Volume × Heart Rate) nuôi não bộ và các nhóm cơ đang vận động, nút xoang nhĩ buộc phải phát xung nhanh hơn. Kết quả là **nhịp tim bị trôi dạt tăng vọt (Cardiac Drift) thêm 5 đến 10 nhịp/phút** dù tốc độ chạy hoặc mức tạ của bạn không hề tăng lên!
 
 Trên ứng dụng thiết bị đeo (Apple Watch, WHOOP), bạn sẽ thấy mình nhanh chóng bị đẩy từ Zone 2 sang Zone 4 nguy hiểm, kèm theo điểm Day Strain tăng chóng mặt và cảm giác kiệt sức xuất hiện sớm hơn 30 phút.
 
 <figure class="article-inline-diagram">
-  <img src="images/LM_RC_02_figure.jpg" alt="Sơ đồ tuần hoàn tim mạch và huyết tương" loading="lazy">
-  <figcaption>📊 <strong>Động Học Mất Nước & Tuần Hoàn:</strong> Mất nước làm tim phải làm việc quá tải gấp đôi để chống lại độ nhớt của máu và điều hòa thân nhiệt nội tạng. <a href="https://commons.wikimedia.org/wiki/File:Cardiovascular_System_Circulation.svg" target="_blank" rel="noopener">Nguồn sơ đồ: Wikimedia Commons ↗</a></figcaption>
+ <img src="images/LM_RC_02_figure.jpg" alt="Sơ đồ tuần hoàn tim mạch và huyết tương" loading="lazy">
+ <figcaption>📊 <strong>Động Học Mất Nước & Tuần Hoàn:</strong> Mất nước làm tim phải làm việc quá tải gấp đôi để chống lại độ nhớt của máu và điều hòa thân nhiệt nội tạng. <a href="https://commons.wikimedia.org/wiki/File:Cardiovascular_System_Circulation.svg" target="_blank" rel="noopener">Nguồn sơ đồ: Wikimedia Commons ↗</a></figcaption>
 </figure>
 
 ---
@@ -36,7 +36,7 @@ Dữ liệu thực nghiệm từ **Hiệp hội Y học Thể thao Hoa Kỳ (Saw
 
 | % Trọng Lượng Cơ Thể Bị Mất | Tương Đương Lượng Nước Mất (Người 75kg) | Tác Động Sinh Lý Học Thần Kinh & Cơ Bắp | Biểu Hiện Trên Thiết Bị Đeo & Vận Động |
 | :--- | :--- | :--- | :--- |
-| **1% Mất Nước** | ~0.75 Lít nước | Bắt đầu kích hoạt cảm giác khát nhẹ; thân nhiệt cơ sở nhích tăng $0.2^\circ\text{C}$. | RHR nghỉ ngơi nhích nhẹ; không ảnh hưởng sức mạnh cơ. |
+| **1% Mất Nước** | ~0.75 Lít nước | Bắt đầu kích hoạt cảm giác khát nhẹ; thân nhiệt cơ sở nhích tăng 0.2°C. | RHR nghỉ ngơi nhích nhẹ; không ảnh hưởng sức mạnh cơ. |
 | **2% Mất Nước** | **~1.5 Lít nước** | Thể tích huyết tương giảm; **sức bền giảm 10%–15%**; giảm khả năng tập trung thùy trán. | Hiện tượng Cardiac Drift rõ rệt; nhịp tim tăng +5 bpm tại cùng pace chạy. |
 | **3% Mất Nước** | ~2.25 Lít nước | Giảm 20% sức mạnh bùng nổ 1RM; giảm lưu lượng máu đến da làm da nóng bừng. | Thời gian phục hồi cơ bắp kéo dài; HRV ban đêm sụt giảm sâu. |
 | **4% – 5% Mất Nước** | ~3.0 – 3.75 Lít nước | **Chuột rút cơ bắp dữ dội**; đau đầu; hoa mắt; nguy cơ kiệt sức vì nhiệt (Heat Exhaustion). | Thiết bị đeo cảnh báo nhịp tim bất thường; sụp đổ thể lực hoàn toàn. |
@@ -58,9 +58,9 @@ Một sai lầm nguy hiểm phổ biến là: Uống hàng lít nước tinh khi
 2. **Quy Tắc "Cân Trước & Sau Tập":** Cân trọng lượng cơ thể trước và ngay sau buổi tập nặng. Cứ mỗi **0.5kg trọng lượng giảm đi**, hãy bù lại **600–750ml nước** có chứa điện giải trong 2 giờ tiếp theo.
 3. **Thêm 500–800mg Natri Cho Các Buổi Tập > 60 Phút:** Bổ sung gói điện giải chứa Natri, Kali và Magie vào bình nước thể thao khi tập luyện trong thời tiết nóng ẩm hoặc các bài tập sức bền kéo dài.
 4. **Kiểm Tra Màu Sắc Nước Tiểu (Pee Chart):** Màu nước tiểu là chiếc gương đo độ hydrate hóa chính xác nhất:
-   - **Màu vàng rơm nhạt (Vùng an toàn):** Cơ thể đủ nước hoàn hảo.
-   - **Màu vàng sẫm hoặc màu nước trà (Báo động đỏ):** Mất nước nghiêm trọng, cần bù nước và điện giải ngay lập tức.
-   - **Màu trắng hoàn toàn trong suốt:** Đang uống quá nhiều nước lọc, thận đang phải làm việc quá tải để thải nước thừa.
+ - **Màu vàng rơm nhạt (Vùng an toàn):** Cơ thể đủ nước hoàn hảo.
+ - **Màu vàng sẫm hoặc màu nước trà (Báo động đỏ):** Mất nước nghiêm trọng, cần bù nước và điện giải ngay lập tức.
+ - **Màu trắng hoàn toàn trong suốt:** Đang uống quá nhiều nước lọc, thận đang phải làm việc quá tải để thải nước thừa.
 
 ---
 
@@ -80,13 +80,13 @@ Một sai lầm nguy hiểm phổ biến là: Uống hàng lít nước tinh khi
 During exercise, sweating cools the skin via evaporation. Sweat is drawn directly from the vascular compartment—specifically from **Intravascular Plasma Volume**:
 1. Dehydration shrinks plasma volume, concentrating blood and impairing venous return to the heart.
 2. The volume of blood ejected with each heartbeat (**Stroke Volume**) drops by **10% to 15%**.
-3. To maintain cardiac output ($Q = \text{Stroke Volume} \times \text{Heart Rate}$), the heart must pump faster. Consequently, **heart rate drifts upward by 5 to 10 bpm (Cardiac Drift)** even when running speed or wattage remains identical!
+3. To maintain cardiac output (Q = Stroke Volume × Heart Rate), the heart must pump faster. Consequently, **heart rate drifts upward by 5 to 10 bpm (Cardiac Drift)** even when running speed or wattage remains identical!
 
 On wearable devices, you are prematurely pushed from Zone 2 into Zone 4, Day Strain spikes erratically, and muscular exhaustion arrives 30 minutes earlier.
 
 <figure class="article-inline-diagram">
-  <img src="images/LM_RC_02_figure.jpg" alt="Circulatory hemodynamics and plasma volume diagram" loading="lazy">
-  <figcaption>📊 <strong>Dehydration Hemodynamics:</strong> Contracting blood volume forces the myocardium to work exponentially harder against blood viscosity to regulate core body temperature. <a href="https://commons.wikimedia.org/wiki/File:Cardiovascular_System_Circulation.svg" target="_blank" rel="noopener">Diagram source: Wikimedia Commons ↗</a></figcaption>
+ <img src="images/LM_RC_02_figure.jpg" alt="Circulatory hemodynamics and plasma volume diagram" loading="lazy">
+ <figcaption>📊 <strong>Dehydration Hemodynamics:</strong> Contracting blood volume forces the myocardium to work exponentially harder against blood viscosity to regulate core body temperature. <a href="https://commons.wikimedia.org/wiki/File:Cardiovascular_System_Circulation.svg" target="_blank" rel="noopener">Diagram source: Wikimedia Commons ↗</a></figcaption>
 </figure>
 
 ---
@@ -97,7 +97,7 @@ Empirical data from the **American College of Sports Medicine (Sawka et al., ACS
 
 | % Body Mass Deficit | Volume Lost (75kg Male) | Neuro-Muscular & Physiological Consequence | Sensor & Performance Signatures |
 | :--- | :--- | :--- | :--- |
-| **1% Deficit** | ~0.75 L water | Mild thirst triggered; core body temperature elevates $+0.2^\circ\text{C}$. | Resting heart rate ticks upward slightly; strength preserved. |
+| **1% Deficit** | ~0.75 L water | Mild thirst triggered; core body temperature elevates +0.2°C. | Resting heart rate ticks upward slightly; strength preserved. |
 | **2% Deficit** | **~1.5 L water** | Plasma volume contracts; **aerobic endurance drops 10%–15%**; cognitive focus dulls. | Cardiac Drift apparent; heart rate climbs +5 bpm at identical pace. |
 | **3% Deficit** | ~2.25 L water | Maximal 1RM strength declines by 20%; skin blood flow drops, causing skin flushing. | Muscle recovery protracted; overnight HRV drops sharply. |
 | **4% – 5% Deficit** | ~3.0 – 3.75 L water | **Severe muscle cramping**; headache, dizziness; acute heat exhaustion risk. | Wearable flags abnormal heart rate spike; total performance collapse. |
@@ -119,9 +119,9 @@ A hazardous mistake during heavy sweating is drinking gallons of pure distilled 
 2. **Weigh In Before and After Heavy Workouts:** For every **0.5kg lost during exercise**, consume **600–750mL of electrolyte-infused fluid** over the following 2 hours.
 3. **Add 500–800mg Sodium for Sessions Over 60 Minutes:** Mix electrolyte powder containing Sodium, Potassium, and Magnesium into your bottle for long endurance or hot gym sessions.
 4. **Monitor Urine Color Daily:**
-   - **Pale straw yellow (Safe Zone):** Optimal hydration.
-   - **Dark amber or iced-tea color (Red Alert):** Severe dehydration; replenish immediately.
-   - **Completely clear:** Overhydration; kidneys are overworked expelling excess fluids.
+ - **Pale straw yellow (Safe Zone):** Optimal hydration.
+ - **Dark amber or iced-tea color (Red Alert):** Severe dehydration; replenish immediately.
+ - **Completely clear:** Overhydration; kidneys are overworked expelling excess fluids.
 
 ---
 

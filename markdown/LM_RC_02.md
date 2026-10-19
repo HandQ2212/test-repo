@@ -30,8 +30,8 @@ Vào ban ngày, ngay cả những tác nhân rất nhỏ—như tiêu hóa bữa
 > 2. **Nhịp Tim Ngủ Trung Bình (Sleeping Average RHR):** Nhịp tim trung bình tính trên toàn bộ thời gian ngủ (thường cao hơn mức đáy từ `3 đến 6 bpm`).
 
 <figure class="article-inline-diagram">
-  <img src="images/LM_RC_02_figure.jpg" alt="Sơ đồ sinh lý học OpenStax về các yếu tố quyết định Cung lượng tim: Nhịp tim và Thể tích nhát bóp" loading="lazy">
-  <figcaption>📊 <strong>Sinh Lý Học Về Cung Lượng Tim (OpenStax):</strong> Vì `Cung lượng tim = Nhịp tim × Thể tích nhát bóp`, việc tăng Thể tích nhát bóp (Stroke Volume) thông qua tập luyện sức bền giúp trái tim bơm cùng một lượng máu giàu oxy đi nuôi cơ thể với số nhịp đập ít hơn hẳn mỗi phút. <a href="https://commons.wikimedia.org/wiki/File:2031_Factors_in_Cardiac_Output.jpg" target="_blank" rel="noopener">Nguồn Ảnh Gốc: Wikimedia Commons ↗</a></figcaption>
+ <img src="images/LM_RC_02_figure.jpg" alt="Sơ đồ sinh lý học OpenStax về các yếu tố quyết định Cung lượng tim: Nhịp tim và Thể tích nhát bóp" loading="lazy">
+ <figcaption>📊 <strong>Sinh Lý Học Về Cung Lượng Tim (OpenStax):</strong> Vì `Cung lượng tim = Nhịp tim × Thể tích nhát bóp`, việc tăng Thể tích nhát bóp (Stroke Volume) thông qua tập luyện sức bền giúp trái tim bơm cùng một lượng máu giàu oxy đi nuôi cơ thể với số nhịp đập ít hơn hẳn mỗi phút. <a href="https://commons.wikimedia.org/wiki/File:2031_Factors_in_Cardiac_Output.jpg" target="_blank" rel="noopener">Nguồn Ảnh Gốc: Wikimedia Commons ↗</a></figcaption>
 </figure>
 
 ---
@@ -110,8 +110,8 @@ During the day, even subtle variables—like digesting breakfast, thinking about
 > 2. **Sleeping Average RHR:** Your mean heart rate across the entire sleep duration (typically `3 to 6 bpm` higher than your lowest point).
 
 <figure class="article-inline-diagram">
-  <img src="images/LM_RC_02_figure.jpg" alt="OpenStax Physiological Diagram of Factors in Cardiac Output: Heart Rate and Stroke Volume" loading="lazy">
-  <figcaption>📊 <strong>The Physiology of Cardiac Output (OpenStax):</strong> Because `Cardiac Output = Heart Rate × Stroke Volume`, increasing your heart's Stroke Volume through aerobic training allows your heart to deliver the same amount of oxygen-rich blood with significantly fewer beats per minute. <a href="https://commons.wikimedia.org/wiki/File:2031_Factors_in_Cardiac_Output.jpg" target="_blank" rel="noopener">Original Image Source: Wikimedia Commons ↗</a></figcaption>
+ <img src="images/LM_RC_02_figure.jpg" alt="OpenStax Physiological Diagram of Factors in Cardiac Output: Heart Rate and Stroke Volume" loading="lazy">
+ <figcaption>📊 <strong>The Physiology of Cardiac Output (OpenStax):</strong> Because `Cardiac Output = Heart Rate × Stroke Volume`, increasing your heart's Stroke Volume through aerobic training allows your heart to deliver the same amount of oxygen-rich blood with significantly fewer beats per minute. <a href="https://commons.wikimedia.org/wiki/File:2031_Factors_in_Cardiac_Output.jpg" target="_blank" rel="noopener">Original Image Source: Wikimedia Commons ↗</a></figcaption>
 </figure>
 
 ---

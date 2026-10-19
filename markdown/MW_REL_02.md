@@ -23,8 +23,8 @@ Tình dục là một trong những hoạt động mang tính tổn thương (vu
 Hậu quả của sự im lặng là hiện tượng **"Đoán Ý Trong Bóng Tối" (Mind Reading)**: Cả hai người tự suy diễn những gì đối phương thích dựa trên phim ảnh hoặc các mối quan hệ cũ, dẫn đến sự lệch pha ngày càng sâu sắc. Nghiên cứu đăng trên **Journal of Sex Research (Byers et al.)** khẳng định: **Các cặp đôi giao tiếp tình dục cởi mở có mức độ hài lòng về mối quan hệ và tần suất đạt cực khoái cao gấp 2.5 lần so với nhóm giữ im lặng**.
 
 <figure class="article-inline-diagram">
-  <img src="images/DM_SL_02_photo.jpg" alt="Sơ đồ đối thoại và an toàn tâm lý" loading="lazy">
-  <figcaption>📊 <strong>Khoảng Trống Giao Tiếp Tình Dục:</strong> Đối thoại trung thực giúp giải phóng năng lượng ức chế ở thùy trán, đưa tâm trí trở về trạng thái đón nhận khoái cảm tự nhiên. <a href="https://commons.wikimedia.org/wiki/File:Empathy_interaction.svg" target="_blank" rel="noopener">Nguồn sơ đồ: Wikimedia Commons ↗</a></figcaption>
+ <img src="images/DM_SL_02_photo.jpg" alt="Sơ đồ đối thoại và an toàn tâm lý" loading="lazy">
+ <figcaption>📊 <strong>Khoảng Trống Giao Tiếp Tình Dục:</strong> Đối thoại trung thực giúp giải phóng năng lượng ức chế ở thùy trán, đưa tâm trí trở về trạng thái đón nhận khoái cảm tự nhiên. <a href="https://commons.wikimedia.org/wiki/File:Empathy_interaction.svg" target="_blank" rel="noopener">Nguồn sơ đồ: Wikimedia Commons ↗</a></figcaption>
 </figure>
 
 ---
@@ -53,8 +53,8 @@ Hậu quả của sự im lặng là hiện tượng **"Đoán Ý Trong Bóng T�
 1. **Gieo Hạt Giống Nhẹ Nhàng (Paving the Way):** Chọn một thời điểm thư giãn vào ban ngày và mở lời: *"Hôm nay anh đọc được một bài viết rất hay về sự gắn kết lứa đôi. Tối nay mình dành 15 phút chia sẻ xem có điều gì mới mẻ tụi mình muốn khám phá cùng nhau không em nhé?"*.
 2. **Khẳng Định Sự An Toàn & Yêu Thương:** Bắt đầu bằng việc trấn an: *"Anh yêu em và trân trọng sự hòa hợp của chúng mình. Anh muốn chia sẻ để tụi mình ngày càng gần gũi nhau hơn nữa"*.
 3. **Sử Dụng Trò Chơi Hỏi - Đáp Cởi Mở:** Đặt những câu hỏi mở thú vị:
-   - *"Khoảnh khắc nào bên anh khiến em cảm thấy được yêu thương và hưng phấn nhất?"*
-   - *"Có điều gì em luôn tò mò muốn thử nhưng chưa có dịp nói ra không?"*
+ - *"Khoảnh khắc nào bên anh khiến em cảm thấy được yêu thương và hưng phấn nhất?"*
+ - *"Có điều gì em luôn tò mò muốn thử nhưng chưa có dịp nói ra không?"*
 4. **Lắng Nghe Thuần Túy Mà Không Phản Bác:** Khi đối phương chia sẻ, hãy kìm nén phản xạ tự ái hoặc thanh minh. Chỉ cần mỉm cười và cảm ơn: *"Cảm ơn em đã chia sẻ thật lòng với anh. Anh rất vui vì biết được điều đó"*.
 
 ---
@@ -79,8 +79,8 @@ Sexuality is among the most vulnerable experiences in human life. Articulating a
 The tragic byproduct of silence is **"Erotic Mind Reading"**: Partners guess what the other wants based on pornography or past relationships, widening misattunement. Research in the **Journal of Sex Research (Byers et al.)** confirms: **Couples practicing open sexual communication experience 2.5 times higher relationship satisfaction and orgasm frequency than silent cohorts**.
 
 <figure class="article-inline-diagram">
-  <img src="images/DM_SL_02_photo.jpg" alt="Psychological safety and sexual dialogue diagram" loading="lazy">
-  <figcaption>📊 <strong>Bridging the Erotic Communication Gap:</strong> Vulnerable, honest dialogue decompresses prefrontal inhibition, allowing partners to enter intimacy free from performative dread. <a href="https://commons.wikimedia.org/wiki/File:Empathy_interaction.svg" target="_blank" rel="noopener">Diagram source: Wikimedia Commons ↗</a></figcaption>
+ <img src="images/DM_SL_02_photo.jpg" alt="Psychological safety and sexual dialogue diagram" loading="lazy">
+ <figcaption>📊 <strong>Bridging the Erotic Communication Gap:</strong> Vulnerable, honest dialogue decompresses prefrontal inhibition, allowing partners to enter intimacy free from performative dread. <a href="https://commons.wikimedia.org/wiki/File:Empathy_interaction.svg" target="_blank" rel="noopener">Diagram source: Wikimedia Commons ↗</a></figcaption>
 </figure>
 
 ---
@@ -109,8 +109,8 @@ Sexologist **Emily Nagoski (*Come as You Are*)** advocates traffic-light boundar
 1. **Seed the Conversation Gently:** Pick a relaxed daytime moment: *"I read a fascinating article on couples intimacy today. Could we set aside 15 minutes tonight to explore some new things we might enjoy together?"*
 2. **Establish Reassurance First:** Affirm: *"I love you and adore our connection. I want to talk because I want us to feel even closer and have more fun together."*
 3. **Use Open Erotic Inquiries:**
-   - *"What is a memory of us together that felt especially exciting for you?"*
-   - *"Is there something you have always wondered about trying that we haven't explored yet?"*
+ - *"What is a memory of us together that felt especially exciting for you?"*
+ - *"Is there something you have always wondered about trying that we haven't explored yet?"*
 4. **Listen Without Defensiveness:** When your partner speaks, silence the urge to justify or defend. Smile, breathe, and validate: *"Thank you for trusting me with that. I am so glad I know."*
 
 ---

@@ -23,8 +23,8 @@ Các nghiên cứu dịch tễ học tình dục quy mô lớn của **Viện Ki
 - Tất cả các mức tần suất trên đều hoàn toàn **bình thường và khỏe mạnh** về mặt y khoa, miễn là nó không gây đau khổ chủ quan cho bản thân người đó hoặc làm đổ vỡ mối quan hệ lứa đôi.
 
 <figure class="article-inline-diagram">
-  <img src="images/LM_HW_01_figure.png" alt="Sơ đồ mô hình kiểm soát kép SES và SIS" loading="lazy">
-  <figcaption>📊 <strong>Chân Ga (SES) & Chân Phanh (SIS):</strong> Ham muốn không chỉ phụ thuộc vào việc có bao nhiêu kích thích, mà phụ thuộc vào việc hệ ức chế của não bộ có đang ghì chặt chân phanh hay không. <a href="https://commons.wikimedia.org/wiki/File:Dual_control_model.svg" target="_blank" rel="noopener">Nguồn sơ đồ: Wikimedia Commons ↗</a></figcaption>
+ <img src="images/LM_HW_01_figure.png" alt="Sơ đồ mô hình kiểm soát kép SES và SIS" loading="lazy">
+ <figcaption>📊 <strong>Chân Ga (SES) & Chân Phanh (SIS):</strong> Ham muốn không chỉ phụ thuộc vào việc có bao nhiêu kích thích, mà phụ thuộc vào việc hệ ức chế của não bộ có đang ghì chặt chân phanh hay không. <a href="https://commons.wikimedia.org/wiki/File:Dual_control_model.svg" target="_blank" rel="noopener">Nguồn sơ đồ: Wikimedia Commons ↗</a></figcaption>
 </figure>
 
 ---
@@ -34,11 +34,11 @@ Các nghiên cứu dịch tễ học tình dục quy mô lớn của **Viện Ki
 Được phát triển bởi hai nhà nghiên cứu tiên phong **John Bancroft & Erick Janssen**, mô hình này ví phản ứng tình dục của con người giống hệt như việc lái một chiếc xe hơi có hai bàn đạp riêng biệt:
 
 1. **Hệ Thống Kích Thích Tình Dục (SES - Sexual Excitation System / Chân Ga):**
-   - Chịu trách nhiệm nhận diện các tín hiệu khêu gợi từ môi trường (hình ảnh quyến rũ, mùi hương, sự đụng chạm da thịt, ký ức lãng mạn).
-   - Khi SES được kích hoạt, não bộ tiết dopamine và gửi tín hiệu kích thích xuống tủy sống.
+ - Chịu trách nhiệm nhận diện các tín hiệu khêu gợi từ môi trường (hình ảnh quyến rũ, mùi hương, sự đụng chạm da thịt, ký ức lãng mạn).
+ - Khi SES được kích hoạt, não bộ tiết dopamine và gửi tín hiệu kích thích xuống tủy sống.
 2. **Hệ Thống Ức Chế Tình Dục (SIS - Sexual Inhibition System / Chân Phanh):**
-   - Chịu trách nhiệm nhận diện các rủi ro và mối đe dọa (sợ bị phát hiện, sợ có thai ngoài ý muốn, sợ lây bệnh, áp lực công việc, tự ti về cơ thể).
-   - Hệ thống này chia làm hai nhánh: **SIS1** (Ức chế do sợ thất bại về hiệu suất) và **SIS2** (Ức chế do sợ hậu quả tiêu cực).
+ - Chịu trách nhiệm nhận diện các rủi ro và mối đe dọa (sợ bị phát hiện, sợ có thai ngoài ý muốn, sợ lây bệnh, áp lực công việc, tự ti về cơ thể).
+ - Hệ thống này chia làm hai nhánh: **SIS1** (Ức chế do sợ thất bại về hiệu suất) và **SIS2** (Ức chế do sợ hậu quả tiêu cực).
 
 Khi chiếc xe tình dục không thể di chuyển, 90% nam giới lầm tưởng rằng chân ga của mình bị hỏng (nghĩ mình thiếu testosterone) và cố gắng "đạp ga" thêm bằng cách xem phim khiêu dâm nặng đô hơn hoặc uống thuốc kích dục. Nhưng trên thực tế, **chân phanh SIS đang bị đạp kịch sàn** bởi sự kiệt quệ thần kinh và nỗi lo âu!
 
@@ -85,8 +85,8 @@ Epidemiological research from the **Kinsey Institute** proves:
 - All points along this spectrum are physiologically healthy provided they cause no personal distress or relational fracture.
 
 <figure class="article-inline-diagram">
-  <img src="images/LM_HW_01_figure.png" alt="Dual control model of sexual excitation and inhibition diagram" loading="lazy">
-  <figcaption>📊 <strong>The Dual Control Model:</strong> Arousal is not just about pressing the gas pedal; it requires the brain to release inhibitory brakes. <a href="https://commons.wikimedia.org/wiki/File:Dual_control_model.svg" target="_blank" rel="noopener">Diagram source: Wikimedia Commons ↗</a></figcaption>
+ <img src="images/LM_HW_01_figure.png" alt="Dual control model of sexual excitation and inhibition diagram" loading="lazy">
+ <figcaption>📊 <strong>The Dual Control Model:</strong> Arousal is not just about pressing the gas pedal; it requires the brain to release inhibitory brakes. <a href="https://commons.wikimedia.org/wiki/File:Dual_control_model.svg" target="_blank" rel="noopener">Diagram source: Wikimedia Commons ↗</a></figcaption>
 </figure>
 
 ---

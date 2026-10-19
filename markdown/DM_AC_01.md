@@ -25,8 +25,8 @@ Trong văn hóa thể hình đại chúng, một "buổi tập chất lượng" 
 Các vận động viên đua thuyền, đạp xe, trượt tuyết băng đồng và chạy Marathon đỉnh cao đều tuân thủ **Mô hình Tập luyện Phân cực 80/20**: họ dành khoảng **80% tổng thời lượng tập luyện hàng tuần ở vùng Zone 2**—một nhịp độ hiếu khí nhẹ nhàng, hoàn toàn có thể trò chuyện thoải mái—và chỉ dành **20% ở các vùng cường độ cao Zone 4 và Zone 5**. Quan trọng hơn cả, các nghiên cứu chuyển hóa lâm sàng chỉ ra rằng **Zone 2 chính là kích thích vận động mạnh mẽ nhất giúp trẻ hóa ti thể, tăng độ nhạy insulin và tối ưu hóa khả năng đốt mỡ ở người trưởng thành**.
 
 <figure class="article-inline-diagram">
-  <img src="images/DM_AC_01_figure.png" alt="Sơ đồ các con đường hô hấp tế bào và tổng hợp ATP trong ti thể" loading="lazy">
-  <figcaption>📊 <strong>Bên Trong Nhà Máy Năng Lượng Ti Thể:</strong> Cách bài tập hiếu khí Zone 2 tối đa hóa quá trình tổng hợp ATP thông qua phosphoryl hóa oxy hóa bên trong ti thể sợi cơ bền trước khi quá trình tích tụ lactate kỵ khí bắt đầu. <a href="https://commons.wikimedia.org/wiki/File:Cellular_respiration_EN.svg" target="_blank" rel="noopener">Nguồn hình ảnh gốc: Wikimedia Commons ↗</a></figcaption>
+ <img src="images/DM_AC_01_figure.png" alt="Sơ đồ các con đường hô hấp tế bào và tổng hợp ATP trong ti thể" loading="lazy">
+ <figcaption>📊 <strong>Bên Trong Nhà Máy Năng Lượng Ti Thể:</strong> Cách bài tập hiếu khí Zone 2 tối đa hóa quá trình tổng hợp ATP thông qua phosphoryl hóa oxy hóa bên trong ti thể sợi cơ bền trước khi quá trình tích tụ lactate kỵ khí bắt đầu. <a href="https://commons.wikimedia.org/wiki/File:Cellular_respiration_EN.svg" target="_blank" rel="noopener">Nguồn hình ảnh gốc: Wikimedia Commons ↗</a></figcaption>
 </figure>
 
 ---
@@ -101,8 +101,8 @@ In commercial fitness culture, a "good workout" is often judged by how exhausted
 Elite rowers, cyclists, cross-country skiers, and marathoners follow an **80/20 Polarized Training Model**: they spend roughly **80% of their weekly training volume in Zone 2**—a remarkably comfortable, conversational aerobic pace—and only **20% in high-intensity Zones 4 and 5**. Even more importantly, clinical metabolic research reveals that **Zone 2 is the single most potent exercise stimulus for mitochondrial longevity, insulin sensitivity, and fat oxidation in everyday adults**.
 
 <figure class="article-inline-diagram">
-  <img src="images/DM_AC_01_figure.png" alt="Mitochondrial Cellular Respiration ATP Synthesis Pathways" loading="lazy">
-  <figcaption>📊 <strong>Inside the Mitochondrial Powerhouse:</strong> How Zone 2 aerobic exercise maximizes ATP generation via oxidative phosphorylation inside slow-twitch muscle mitochondria before glycolytic lactate accumulation begins. <a href="https://commons.wikimedia.org/wiki/File:Cellular_respiration_EN.svg" target="_blank" rel="noopener">Original Image Source: Wikimedia Commons ↗</a></figcaption>
+ <img src="images/DM_AC_01_figure.png" alt="Mitochondrial Cellular Respiration ATP Synthesis Pathways" loading="lazy">
+ <figcaption>📊 <strong>Inside the Mitochondrial Powerhouse:</strong> How Zone 2 aerobic exercise maximizes ATP generation via oxidative phosphorylation inside slow-twitch muscle mitochondria before glycolytic lactate accumulation begins. <a href="https://commons.wikimedia.org/wiki/File:Cellular_respiration_EN.svg" target="_blank" rel="noopener">Original Image Source: Wikimedia Commons ↗</a></figcaption>
 </figure>
 
 ---

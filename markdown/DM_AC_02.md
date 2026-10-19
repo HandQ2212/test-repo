@@ -25,8 +25,8 @@ Một trong những sự thật khó chấp nhận nhất đối với những n
 Sự thích nghi sinh lý tích cực—được y học thể thao gọi là **Siêu bù trừ (Supercompensation)**—chỉ diễn ra *sau khi* buổi tập kết thúc, với điều kiện cơ thể bạn được cung cấp đủ giấc ngủ sâu, dinh dưỡng và thời gian nghỉ ngơi đối giao cảm để tái thiết lập cấu trúc mới vượt cao hơn nền tảng ban đầu.
 
 <figure class="article-inline-diagram">
-  <img src="images/DM_AC_02_figure.png" alt="Đường cong sinh lý học Siêu bù trừ và quỹ đạo tập luyện quá sức" loading="lazy">
-  <figcaption>📊 <strong>Biểu Đồ Thời Gian Siêu Bù Trừ (Supercompensation):</strong> Cách một kích thích tập luyện làm giảm năng lực thể chất tạm thời (Pha 1), phục hồi về mức nền (Pha 2), bật tăng lên đỉnh Siêu bù trừ mới (Pha 3), hoặc trượt dài xuống suy kiệt nếu tiếp tục dồn tải nặng khi chưa kịp hồi phục. <a href="https://commons.wikimedia.org/wiki/File:Supercompensation.svg" target="_blank" rel="noopener">Nguồn hình ảnh gốc: Wikimedia Commons ↗</a></figcaption>
+ <img src="images/DM_AC_02_figure.png" alt="Đường cong sinh lý học Siêu bù trừ và quỹ đạo tập luyện quá sức" loading="lazy">
+ <figcaption>📊 <strong>Biểu Đồ Thời Gian Siêu Bù Trừ (Supercompensation):</strong> Cách một kích thích tập luyện làm giảm năng lực thể chất tạm thời (Pha 1), phục hồi về mức nền (Pha 2), bật tăng lên đỉnh Siêu bù trừ mới (Pha 3), hoặc trượt dài xuống suy kiệt nếu tiếp tục dồn tải nặng khi chưa kịp hồi phục. <a href="https://commons.wikimedia.org/wiki/File:Supercompensation.svg" target="_blank" rel="noopener">Nguồn hình ảnh gốc: Wikimedia Commons ↗</a></figcaption>
 </figure>
 
 ---
@@ -103,8 +103,8 @@ One of the hardest truths for dedicated athletes and high-achievers to accept is
 Positive physiological adaptation—known in sports science as **Supercompensation**—only occurs *after* the workout, provided your body is given sufficient sleep, nutrients, and parasympathetic downtime to rebuild above its previous baseline.
 
 <figure class="article-inline-diagram">
-  <img src="images/DM_AC_02_figure.png" alt="Physiological Supercompensation Curve and Overtraining Trajectory" loading="lazy">
-  <figcaption>📊 <strong>The Supercompensation Timeline:</strong> How an acute training stimulus temporarily lowers performance capacity (Phase 1), recovers to baseline (Phase 2), rebounds into a higher Supercompensation peak (Phase 3), or spirals downward if high strain is stacked without recovery. <a href="https://commons.wikimedia.org/wiki/File:Supercompensation.svg" target="_blank" rel="noopener">Original Image Source: Wikimedia Commons ↗</a></figcaption>
+ <img src="images/DM_AC_02_figure.png" alt="Physiological Supercompensation Curve and Overtraining Trajectory" loading="lazy">
+ <figcaption>📊 <strong>The Supercompensation Timeline:</strong> How an acute training stimulus temporarily lowers performance capacity (Phase 1), recovers to baseline (Phase 2), rebounds into a higher Supercompensation peak (Phase 3), or spirals downward if high strain is stacked without recovery. <a href="https://commons.wikimedia.org/wiki/File:Supercompensation.svg" target="_blank" rel="noopener">Original Image Source: Wikimedia Commons ↗</a></figcaption>
 </figure>
 
 ---

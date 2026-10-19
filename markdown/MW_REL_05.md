@@ -27,8 +27,8 @@ Trạng thái này được các nhà khoa học gọi là **Ngập Lụt Cảm 
 Mọi nỗ lực "giải quyết vấn đề bằng lý lẽ" trong lúc một trong hai người đang bị ngập lụt sinh lý **chắc chắn 100% sẽ thất bại** và chỉ làm tổn thương mối quan hệ sâu sắc hơn!
 
 <figure class="article-inline-diagram">
-  <img src="images/LM_HW_01_figure.png" alt="Sơ đồ phản ứng thần kinh giao cảm khi tranh cãi" loading="lazy">
-  <figcaption>📊 <strong>Sinh Lý Học Của Cơn Nóng Giận:</strong> Thiết bị đeo (Apple Watch/Garmin) sẽ phát cảnh báo nhịp tim tăng bất thường trong lúc cãi vã; đây là tín hiệu sinh học bắt buộc phải dừng cuộc đối thoại. <a href="https://commons.wikimedia.org/wiki/File:Autonomic_Nervous_System.svg" target="_blank" rel="noopener">Nguồn sơ đồ: Wikimedia Commons ↗</a></figcaption>
+ <img src="images/LM_HW_01_figure.png" alt="Sơ đồ phản ứng thần kinh giao cảm khi tranh cãi" loading="lazy">
+ <figcaption>📊 <strong>Sinh Lý Học Của Cơn Nóng Giận:</strong> Thiết bị đeo (Apple Watch/Garmin) sẽ phát cảnh báo nhịp tim tăng bất thường trong lúc cãi vã; đây là tín hiệu sinh học bắt buộc phải dừng cuộc đối thoại. <a href="https://commons.wikimedia.org/wiki/File:Autonomic_Nervous_System.svg" target="_blank" rel="noopener">Nguồn sơ đồ: Wikimedia Commons ↗</a></figcaption>
 </figure>
 
 ---
@@ -58,12 +58,12 @@ Theo Tiến sĩ John Gottman, sự khác biệt lớn nhất giữa những cặ
 ## Giao Thức 4 Bước Quản Trị Xung Đột Thông Minh Cho Cặp Đôi
 
 1. **Giao Kèo Một "Từ Khóa Khẩn Cấp" (Safe Word):** Thống nhất trước với nhau một từ khóa (ví dụ: *"Đèn Vàng"* hoặc *"Hạ Nhiệt"*). Khi một trong hai người hô từ khóa này trong lúc tranh cãi, cả hai **bắt buộc phải dừng nói ngay lập tức và tách nhau ra trong 20 phút**.
-2. **Thực Hành Hít Thở 4-7-8 Để Hạ Nhịp Tim:** Trong 20 phút nghỉ: Hít vào bằng mũi 4 giây $\rightarrow$ Giữ hơi 7 giây $\rightarrow$ Thở ra từ từ bằng miệng kéo dài 8 giây. Thực hiện 4 chu kỳ giúp kích hoạt dây thần kinh phế vị, đưa nhịp tim xuống dưới 75 bpm.
+2. **Thực Hành Hít Thở 4-7-8 Để Hạ Nhịp Tim:** Trong 20 phút nghỉ: Hít vào bằng mũi 4 giây → Giữ hơi 7 giây → Thở ra từ từ bằng miệng kéo dài 8 giây. Thực hiện 4 chu kỳ giúp kích hoạt dây thần kinh phế vị, đưa nhịp tim xuống dưới 75 bpm.
 3. **Quay Trở Lại Bằng Tư Thế "Ngồi Cạnh Nhau, Không Ngồi Đối Diện":** Khi ngồi đối diện nhìn chằm chằm vào mắt nhau, não bộ dễ coi đó là tư thế khiêu chiến. Hãy ngồi cạnh nhau trên sofa hoặc cùng đi dạo song song—tư thế này giúp cả hai cùng nhìn về một hướng để giải quyết vấn đề.
 4. **Áp Dụng Công Thức "Phàn Nàn Lành Mạnh":**
-   - *Bước 1:* Nêu cảm xúc: *"Anh/em cảm thấy lo lắng/quá tải..."*
-   - *Bước 2:* Nêu sự việc cụ thể (không dùng từ "luôn luôn" hoặc "chẳng bao giờ"): *"...khi việc này xảy ra..."*
-   - *Bước 3:* Nêu nhu cầu tích cực: *"...anh/em muốn tụi mình cùng nhau lên kế hoạch cụ thể hơn"*.
+ - *Bước 1:* Nêu cảm xúc: *"Anh/em cảm thấy lo lắng/quá tải..."*
+ - *Bước 2:* Nêu sự việc cụ thể (không dùng từ "luôn luôn" hoặc "chẳng bao giờ"): *"...khi việc này xảy ra..."*
+ - *Bước 3:* Nêu nhu cầu tích cực: *"...anh/em muốn tụi mình cùng nhau lên kế hoạch cụ thể hơn"*.
 
 ---
 
@@ -91,8 +91,8 @@ This state is clinically termed **Emotional Flooding**. When flooded, the prefro
 Attempting to resolve interpersonal problems logically during physiological flooding **fails 100% of the time** and inflicts severe relational scarring.
 
 <figure class="article-inline-diagram">
-  <img src="images/LM_HW_01_figure.png" alt="Sympathetic activation during argument diagram" loading="lazy">
-  <figcaption>📊 <strong>Physiological Flooding Dynamics:</strong> Wearable sensors alert to abnormal resting heart rate spikes during marital arguments, signaling an urgent mandatory time-out. <a href="https://commons.wikimedia.org/wiki/File:Autonomic_Nervous_System.svg" target="_blank" rel="noopener">Diagram source: Wikimedia Commons ↗</a></figcaption>
+ <img src="images/LM_HW_01_figure.png" alt="Sympathetic activation during argument diagram" loading="lazy">
+ <figcaption>📊 <strong>Physiological Flooding Dynamics:</strong> Wearable sensors alert to abnormal resting heart rate spikes during marital arguments, signaling an urgent mandatory time-out. <a href="https://commons.wikimedia.org/wiki/File:Autonomic_Nervous_System.svg" target="_blank" rel="noopener">Diagram source: Wikimedia Commons ↗</a></figcaption>
 </figure>
 
 ---
@@ -122,12 +122,12 @@ According to Dr. John Gottman, the hallmark of emotionally intelligent couples i
 ## 4-Step Practical Protocol for Constructive Conflict
 
 1. **Establish a Universal Safe Word:** Agree in advance on a cue (e.g., *"Yellow Light"* or *"Cool Down"*). When either partner calls it, both **must immediately stop speaking and separate for 20 minutes**.
-2. **Execute 4-7-8 Diaphragmatic Breathing:** Inhale through the nose for 4s $\rightarrow$ Hold 7s $\rightarrow$ Exhale through mouth for 8s. 4 cycles stimulate the vagus nerve, dropping heart rate below 75 bpm.
+2. **Execute 4-7-8 Diaphragmatic Breathing:** Inhale through the nose for 4s → Hold 7s → Exhale through mouth for 8s. 4 cycles stimulate the vagus nerve, dropping heart rate below 75 bpm.
 3. **Re-Engage Sitting Side-by-Side:** Facing each other directly across a table reads unconsciously as adversarial confrontation. Sit side-by-side on the sofa or walk together outdoors to align perspective.
 4. **Deploy the "Soft Complaint" Formula:**
-   - *Step 1:* State your emotion: *"I feel anxious/overwhelmed..."*
-   - *Step 2:* Describe the specific fact (never use "always" or "never"): *"...when the budget isn't reconciled on time..."*
-   - *Step 3:* Request a clear positive action: *"...could we sit down together for 15 minutes tomorrow morning to review it?"*
+ - *Step 1:* State your emotion: *"I feel anxious/overwhelmed..."*
+ - *Step 2:* Describe the specific fact (never use "always" or "never"): *"...when the budget isn't reconciled on time..."*
+ - *Step 3:* Request a clear positive action: *"...could we sit down together for 15 minutes tomorrow morning to review it?"*
 
 ---
 

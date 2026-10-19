@@ -25,8 +25,8 @@ Bạn đã bao giờ cố tự nhủ *"hãy bình tĩnh lại nào"* khi tim đa
 Như nhà thần kinh học **Tiến sĩ Andrew Huberman** và giáo sư tâm thần học **Tiến sĩ David Spiegel** tại Đại học Stanford giải thích, việc cố dùng suy nghĩ lý trí (từ trên xuống – top-down) để làm dịu trái tim đang đập loạn nhịp hiếm khi phát huy tác dụng ngay trong khoảnh khắc căng thẳng, bởi stress cấp tính làm suy yếu **vỏ não trước trán** đồng thời kích hoạt mạnh mẽ **hạch hạnh nhân (amygdala)** và các mạch thần kinh giao cảm ở thân não. Để bật công tắc bình tĩnh ngay tức thì, bạn cần một **đòn bẩy cơ học từ dưới lên (bottom-up)**—một cơ quan vật lý nằm dưới sự điều khiển chủ động của bạn nhưng lại kết nối trực tiếp vào nút tạo nhịp của trái tim. Đòn bẩy đó chính là **cơ hoành và Dây thần kinh Phế vị (Dây thần kinh sọ số X)**.
 
 <figure class="article-inline-diagram">
-  <img src="images/DM_HW_01_figure.jpg" alt="Sơ đồ giải phẫu dây thần kinh phế vị chi phối tim, phổi và cơ hoành" loading="lazy">
-  <figcaption>📊 <strong>Xa Lộ Dây Thần Kinh Phế Vị (Cranial Nerve X):</strong> Cách sự giãn nở cơ học của phổi và chuyển động nâng lên của cơ hoành trong pha thở ra kéo dài kích thích các sợi thần kinh đối giao cảm giải phóng acetylcholine trực tiếp lên nút xoang nhĩ của tim. <a href="https://commons.wikimedia.org/wiki/File:Anatomy_of_Anterior_Vagus_Nerve_Diagram.jpg" target="_blank" rel="noopener">Nguồn hình ảnh gốc: Wikimedia Commons ↗</a></figcaption>
+ <img src="images/DM_HW_01_figure.jpg" alt="Sơ đồ giải phẫu dây thần kinh phế vị chi phối tim, phổi và cơ hoành" loading="lazy">
+ <figcaption>📊 <strong>Xa Lộ Dây Thần Kinh Phế Vị (Cranial Nerve X):</strong> Cách sự giãn nở cơ học của phổi và chuyển động nâng lên của cơ hoành trong pha thở ra kéo dài kích thích các sợi thần kinh đối giao cảm giải phóng acetylcholine trực tiếp lên nút xoang nhĩ của tim. <a href="https://commons.wikimedia.org/wiki/File:Anatomy_of_Anterior_Vagus_Nerve_Diagram.jpg" target="_blank" rel="noopener">Nguồn hình ảnh gốc: Wikimedia Commons ↗</a></figcaption>
 </figure>
 
 ---
@@ -71,9 +71,9 @@ Trong một thử nghiệm lâm sàng ngẫu nhiên có đối chứng công b�
 Bạn có thể kiểm chứng hiệu quả của Nhịp Thở Dài Sinh Lý ngay lúc này bằng màn hình đo Nhịp tim hoặc Stress trực tiếp trên **Apple Watch**, **Garmin**, **WHOOP** hoặc **Fitbit**:
 1. Mở màn hình Nhịp tim trực tiếp khi đang ngồi tại bàn làm việc (`ví dụ: 78 bpm`).
 2. Thực hiện **3 chu kỳ Thở Dài Sinh Lý liên tiếp** (chỉ mất khoảng 35–45 giây):
-   - **Bước 1:** Hít vào sâu và êm qua mũi (`~3 giây`) cho đến khi lồng ngực giãn nở khoảng 85%.
-   - **Bước 2:** Không thở ra, lập tức nhấp thêm một hơi hít ngắn, dứt khoát bằng mũi (`~1 giây`) để nạp đầy 100% phổi và bung mở các phế nang.
-   - **Bước 3:** Thở ra thật chậm, đều và êm qua miệng chúm nhẹ (`~6 đến 8 giây`) như đang thổi qua một chiếc ống hút nhỏ cho đến khi phổi rỗng hoàn toàn.
+ - **Bước 1:** Hít vào sâu và êm qua mũi (`~3 giây`) cho đến khi lồng ngực giãn nở khoảng 85%.
+ - **Bước 2:** Không thở ra, lập tức nhấp thêm một hơi hít ngắn, dứt khoát bằng mũi (`~1 giây`) để nạp đầy 100% phổi và bung mở các phế nang.
+ - **Bước 3:** Thở ra thật chậm, đều và êm qua miệng chúm nhẹ (`~6 đến 8 giây`) như đang thổi qua một chiếc ống hút nhỏ cho đến khi phổi rỗng hoàn toàn.
 3. Quan sát cảm biến trên cổ tay: trong 2 nhịp hít vào, nhịp tim sẽ nhích nhẹ lên (`82–84 bpm`), và ngay từ nửa sau của hơi thở ra kéo dài 8 giây, bạn sẽ thấy nhịp tim trên màn hình **lao dốc từ `10 đến 18 bpm` (hạ xuống vùng `60 bpm`)** chỉ trong vòng 30 giây!
 
 ---
@@ -108,8 +108,8 @@ Have you ever tried to tell yourself *"just relax"* when your heart is pounding 
 As Stanford neuroscientist **Dr. Andrew Huberman** and psychiatrist **Dr. David Spiegel** explain, trying to use top-down cognitive thought to quiet a racing heart rarely works in the heat of the moment because acute stress deactivates your **prefrontal cortex** while hyper-activating your **amygdala** and brainstem sympathetic circuits. To flip the switch back to calm in real time, you need a **bottom-up mechanical lever**—a physical organ under your conscious control that is wired directly into your heart's pacemaker. That lever is your **diaphragm and Vagus Nerve (Cranial Nerve X)**.
 
 <figure class="article-inline-diagram">
-  <img src="images/DM_HW_01_figure.jpg" alt="Anatomy of Anterior Vagus Nerve Diagram Innervating Heart and Lungs" loading="lazy">
-  <figcaption>📊 <strong>The Vagus Nerve Highway (Cranial Nerve X):</strong> How mechanical expansion of the lungs and diaphragm during extended exhalations stimulates vagal parasympathetic fibers to release acetylcholine onto the heart's sinoatrial node. <a href="https://commons.wikimedia.org/wiki/File:Anatomy_of_Anterior_Vagus_Nerve_Diagram.jpg" target="_blank" rel="noopener">Original Image Source: Wikimedia Commons ↗</a></figcaption>
+ <img src="images/DM_HW_01_figure.jpg" alt="Anatomy of Anterior Vagus Nerve Diagram Innervating Heart and Lungs" loading="lazy">
+ <figcaption>📊 <strong>The Vagus Nerve Highway (Cranial Nerve X):</strong> How mechanical expansion of the lungs and diaphragm during extended exhalations stimulates vagal parasympathetic fibers to release acetylcholine onto the heart's sinoatrial node. <a href="https://commons.wikimedia.org/wiki/File:Anatomy_of_Anterior_Vagus_Nerve_Diagram.jpg" target="_blank" rel="noopener">Original Image Source: Wikimedia Commons ↗</a></figcaption>
 </figure>
 
 ---
@@ -154,9 +154,9 @@ In a landmark randomized controlled trial published in *Cell Reports Medicine* (
 You can test the Physiological Sigh right now using the live heart rate screen or stress monitor on your **Apple Watch**, **Garmin**, **WHOOP**, or **Fitbit**:
 1. Open your watch's live Heart Rate or Stress widget while seated at your desk (`e.g., 78 bpm`).
 2. Perform **3 consecutive Physiological Sighs** (taking roughly 35–45 seconds total):
-   - **Step 1:** Inhale deeply through your nose (`~3 seconds`) until your lungs feel comfortably full.
-   - **Step 2:** Without exhaling, take one more quick, sharp inhale through your nose (`~1 second`) to maximally expand your ribcage.
-   - **Step 3:** Exhale slowly, smoothly, and completely through pursed lips (`~6 to 8 seconds`) as if blowing through a thin straw until your lungs are empty.
+ - **Step 1:** Inhale deeply through your nose (`~3 seconds`) until your lungs feel comfortably full.
+ - **Step 2:** Without exhaling, take one more quick, sharp inhale through your nose (`~1 second`) to maximally expand your ribcage.
+ - **Step 3:** Exhale slowly, smoothly, and completely through pursed lips (`~6 to 8 seconds`) as if blowing through a thin straw until your lungs are empty.
 3. Watch your wrist sensor: during the two inhales, your heart rate will briefly tick up (`82–84 bpm`), and halfway through the long 8-second exhale, you will watch your heart rate plunge by **`10 to 18 bpm` (down into the `60s`)** within 30 seconds!
 
 ---

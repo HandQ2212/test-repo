@@ -25,8 +25,8 @@ Nếu bạn từng nằm trên giường đủ 8 tiếng nhưng vẫn thức d�
 Các dòng đồng hồ và nhẫn thông minh hiện đại (như **Oura Ring**, **Garmin Firstbeat Analytics**, **WHOOP**, và **Fitbit**) không còn hoạt động như những chiếc đồng hồ bấm giờ đơn thuần. Trong suốt lúc bạn ngủ, thiết bị liên tục thu thập sóng mạch quang học, biến thiên nhịp tim từng nhịp (HRV), tần số hô hấp, vi chuyển động cổ tay và nhiệt độ da ngoại vi. Vào buổi sáng, thuật toán tổng hợp toàn bộ tín hiệu sinh trắc học này thành một **Điểm Giấc Ngủ từ 0 đến 100**, trả lời một câu hỏi thực tế: *Cơ thể và não bộ của bạn đã thực sự phục hồi tốt đến đâu vào đêm qua?*
 
 <figure class="article-inline-diagram">
-  <img src="images/LM_SL_01_figure.jpg" alt="Mô hình đo đa ký giấc ngủ Polysomnography lâm sàng so với thiết bị đeo thông minh" loading="lazy">
-  <figcaption>📊 <strong>Từ Phòng Thí Nghiệm Giấc Ngủ Đến Thiết Bị Đeo:</strong> Phép đo Đa ký giấc ngủ (Polysomnography - PSG) tại bệnh viện sử dụng điện não đồ (EEG), điện cơ (EMG), điện tâm đồ (ECG) và cảm biến hô hấp để phân loại giai đoạn ngủ. Thiết bị đeo hiện đại kết hợp sóng mạch PPG, HRV và gia tốc kế 3 trục để mô phỏng chính xác các chuyển đổi sinh lý này ngay tại nhà. <a href="https://commons.wikimedia.org/wiki/File:Polysomnography_model.jpg" target="_blank" rel="noopener">Nguồn Ảnh Gốc: Wikimedia Commons ↗</a></figcaption>
+ <img src="images/LM_SL_01_figure.jpg" alt="Mô hình đo đa ký giấc ngủ Polysomnography lâm sàng so với thiết bị đeo thông minh" loading="lazy">
+ <figcaption>📊 <strong>Từ Phòng Thí Nghiệm Giấc Ngủ Đến Thiết Bị Đeo:</strong> Phép đo Đa ký giấc ngủ (Polysomnography - PSG) tại bệnh viện sử dụng điện não đồ (EEG), điện cơ (EMG), điện tâm đồ (ECG) và cảm biến hô hấp để phân loại giai đoạn ngủ. Thiết bị đeo hiện đại kết hợp sóng mạch PPG, HRV và gia tốc kế 3 trục để mô phỏng chính xác các chuyển đổi sinh lý này ngay tại nhà. <a href="https://commons.wikimedia.org/wiki/File:Polysomnography_model.jpg" target="_blank" rel="noopener">Nguồn Ảnh Gốc: Wikimedia Commons ↗</a></figcaption>
 </figure>
 
 ---
@@ -87,9 +87,9 @@ Bạn đã bao giờ ngủ đủ 8 tiếng sau một bữa ăn tối muộn th�
 ## 4 Thói Quen Khoa Học Giúp Tăng Điểm Giấc Ngủ Ngay Tối Nay
 
 1. **Áp Dụng Quy Tắc Hạ Nhiệt Buổi Tối 3-2-1:**
-   - **3 Giờ Trước Khi Ngủ:** Kết thúc bữa ăn lớn cuối cùng và ngưng đồ uống có cồn để quá trình tiêu hóa và chuyển hóa tại gan không làm tăng nhịp tim đầu đêm.
-   - **2 Giờ Trước Khi Ngủ:** Khép lại công việc căng thẳng và các bài tập cardio cường độ cao để cortisol và thân nhiệt lõi hạ xuống tự nhiên.
-   - **1 Giờ Trước Khi Ngủ:** Giảm độ sáng đèn LED trần nhà và cất các thiết bị màn hình xanh để tuyến tùng tiết melatonin tự nhiên.
+ - **3 Giờ Trước Khi Ngủ:** Kết thúc bữa ăn lớn cuối cùng và ngưng đồ uống có cồn để quá trình tiêu hóa và chuyển hóa tại gan không làm tăng nhịp tim đầu đêm.
+ - **2 Giờ Trước Khi Ngủ:** Khép lại công việc căng thẳng và các bài tập cardio cường độ cao để cortisol và thân nhiệt lõi hạ xuống tự nhiên.
+ - **1 Giờ Trước Khi Ngủ:** Giảm độ sáng đèn LED trần nhà và cất các thiết bị màn hình xanh để tuyến tùng tiết melatonin tự nhiên.
 2. **Cố Định Giờ Thức Dậy Trong Khoảng ±30 Phút:** Nhịp sinh học được neo giữ chủ yếu bởi thời điểm bạn thức dậy và tiếp xúc với ánh sáng ban mai. Duy trì giờ thức dậy ổn định (kể cả cuối tuần) giúp tối ưu hóa Hiệu suất giấc ngủ và chu kỳ REM.
 3. **Làm Mát Phòng Ngủ Ở Mức 18.3°C – 20°C (65°F – 68°F):** Thân nhiệt lõi cần giảm khoảng **1.0°C (1.8°F)** để khởi phát và duy trì Giấc ngủ Sâu sóng chậm. Phòng ngủ mát mẻ giúp ngăn chặn các vi thức giấc do nóng bức giữa đêm.
 4. **Theo Dõi Xu Hướng Trung Bình 7 Ngày Thay Vì Lo Lắng Vì Một Đêm Điểm Thấp:** Các chuyên gia khoa học thể thao tại Garmin và WHOOP luôn nhấn mạnh: một đêm đạt 65 điểm trước ngày thi đấu hay thuyết trình sẽ không làm giảm hiệu suất nếu trung bình 7 ngày của bạn vẫn trên 80. Hãy xem điểm số thấp là tín hiệu phản hồi hữu ích chứ không phải áp lực tâm lý.
@@ -118,8 +118,8 @@ If you have ever stayed in bed for eight full hours only to wake up feeling grog
 Modern smartwatches and smart rings (including **Oura Ring**, **Garmin Firstbeat Analytics**, **WHOOP**, and **Fitbit**) no longer act as simple timers. While you sleep, your wearable continuously samples your pulse wave, beat-to-beat Heart Rate Variability (HRV), respiratory rate, wrist movement, and peripheral skin temperature. By morning, an algorithm synthesizes these signals into a single **0 to 100 Sleep Score** designed to answer one practical question: *How well did your body and brain actually recover last night?*
 
 <figure class="article-inline-diagram">
-  <img src="images/LM_SL_01_figure.jpg" alt="Clinical Polysomnography Sensor Model Compared to Wearable Sleep Tracking" loading="lazy">
-  <figcaption>📊 <strong>From Sleep Lab to Wrist & Finger:</strong> Hospital Polysomnography (PSG) uses multi-channel EEG, EOG, ECG, and respiratory leads to score sleep stages. Modern multi-sensor wearables combine optical PPG pulse waves, HRV, and micro-actigraphy to estimate these same physiological transitions at home. <a href="https://commons.wikimedia.org/wiki/File:Polysomnography_model.jpg" target="_blank" rel="noopener">Original Image Source: Wikimedia Commons ↗</a></figcaption>
+ <img src="images/LM_SL_01_figure.jpg" alt="Clinical Polysomnography Sensor Model Compared to Wearable Sleep Tracking" loading="lazy">
+ <figcaption>📊 <strong>From Sleep Lab to Wrist & Finger:</strong> Hospital Polysomnography (PSG) uses multi-channel EEG, EOG, ECG, and respiratory leads to score sleep stages. Modern multi-sensor wearables combine optical PPG pulse waves, HRV, and micro-actigraphy to estimate these same physiological transitions at home. <a href="https://commons.wikimedia.org/wiki/File:Polysomnography_model.jpg" target="_blank" rel="noopener">Original Image Source: Wikimedia Commons ↗</a></figcaption>
 </figure>
 
 ---
@@ -180,9 +180,9 @@ Have you ever slept 8 hours after a heavy late dinner, evening drinks, or a 9:00
 ## 4 Proven Habits to Raise Your Sleep Score Tonight
 
 1. **Follow the 3-2-1 Evening Wind-Down Rule:**
-   - **3 Hours Before Bed:** Finish your last large meal and avoid alcohol so digestion and liver metabolism don't elevate your early-night heart rate.
-   - **2 Hours Before Bed:** Wrap up stressful work emails and intense cardio so cortisol and core temperature can drop naturally.
-   - **1 Hour Before Bed:** Dim overhead LED lights and put away bright screens to allow natural melatonin release.
+ - **3 Hours Before Bed:** Finish your last large meal and avoid alcohol so digestion and liver metabolism don't elevate your early-night heart rate.
+ - **2 Hours Before Bed:** Wrap up stressful work emails and intense cardio so cortisol and core temperature can drop naturally.
+ - **1 Hour Before Bed:** Dim overhead LED lights and put away bright screens to allow natural melatonin release.
 2. **Anchor Your Wake Time Within ±30 Minutes:** Your circadian rhythm is anchored primarily by when you wake up and view morning light—not just when you go to bed. Keeping your wake time consistent (even on weekends) stabilizes Sleep Efficiency and REM timing.
 3. **Cool Your Bedroom to 18.3°C (65°F):** Your core body temperature must drop by roughly **1.0°C (1.8°F)** to initiate and sustain Deep Slow-Wave Sleep. A cool room prevents mid-night thermal micro-arousals.
 4. **Track Your 7-Day Rolling Trend, Not Just One Bad Night:** As Garmin and WHOOP sports scientists emphasize, a single score of 65 before a big race or presentation won't ruin your performance if your 7-day rolling average is above 80. Use low scores as helpful feedback, never as a source of sleep anxiety.

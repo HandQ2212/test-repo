@@ -25,8 +25,8 @@ Không giống như các đồng hồ bấm giờ tập luyện truyền thống
 Ngay từ khoảnh khắc bạn thức dậy, cơ thể đã tiêu tốn năng lượng tim mạch và thần kinh-cơ không chỉ trong 60 phút tập gym, mà cả khi bạn vội vã chạy qua sảnh sân bay, xách đồ nặng leo cầu thang, hay đứng thuyết trình căng thẳng khiến hormone adrenaline đẩy nhịp tim tăng vọt. Day Strain đo lường **tổng chi phí sinh lý nội tại tích lũy suốt 24 giờ**—phản ánh cách cơ thể bạn *phản ứng* với áp lực chứ không chỉ đếm quãng đường hay mức tạ bên ngoài.
 
 <figure class="article-inline-diagram">
-  <img src="images/LM_AC_02_figure.png" alt="Các yếu tố sinh lý làm tăng cung lượng tim khi tải trọng vận động tăng cao" loading="lazy">
-  <figcaption>📊 <strong>Cung Lượng Tim & Kích Thích Thần Kinh Tự Chủ:</strong> Cách sự kích hoạt hệ thần kinh giao cảm, mức tăng thể tích nhát bóp và tần số tim phối hợp tạo nên tổng tải trọng tim mạch tích lũy. <a href="https://commons.wikimedia.org/wiki/File:CO_Incresing.png" target="_blank" rel="noopener">Nguồn hình ảnh gốc: Wikimedia Commons ↗</a></figcaption>
+ <img src="images/LM_AC_02_figure.png" alt="Các yếu tố sinh lý làm tăng cung lượng tim khi tải trọng vận động tăng cao" loading="lazy">
+ <figcaption>📊 <strong>Cung Lượng Tim & Kích Thích Thần Kinh Tự Chủ:</strong> Cách sự kích hoạt hệ thần kinh giao cảm, mức tăng thể tích nhát bóp và tần số tim phối hợp tạo nên tổng tải trọng tim mạch tích lũy. <a href="https://commons.wikimedia.org/wiki/File:CO_Incresing.png" target="_blank" rel="noopener">Nguồn hình ảnh gốc: Wikimedia Commons ↗</a></figcaption>
 </figure>
 
 ---
@@ -37,10 +37,10 @@ Người mới sử dụng thiết bị đeo thường thắc mắc tại sao th
 
 1. **Lấy Cảm Hứng Từ Thang Đo Cảm Nhận Gắng Sức Borg RPE (6–20):** Nhà sinh lý học người Thụy Điển, Tiến sĩ Gunnar Borg, đã thiết kế thang đo lâm sàng **Rating of Perceived Exertion (RPE)** từ 6 đến 20 để phản chiếu nhịp tim con người (`60 bpm` khi nghỉ ngơi đến `200 bpm` khi gắng sức tối đa). Các nhà khoa học thể thao đã chuyển hóa nguyên lý này thành **thang đo tải trọng sinh lý từ 0 đến 21**.
 2. **Đường Cong Logarit (Phi Tuyến Tính):** Tiêu hao năng lượng của con người và **Xung lượng Tập luyện (TRIMP, Banister 1991)** tích lũy theo cấp số nhân ở các vùng nhịp tim cao. Trên thang đo logarit, mỗi điểm số phía sau đều đòi hỏi nỗ lực khắc nghiệt hơn rất nhiều so với điểm ngay trước nó:
-   - Tăng từ **0.0 lên 10.0** chỉ cần các hoạt động trao đổi chất cơ bản và đi lại nhẹ nhàng hàng ngày.
-   - Tăng từ **10.0 lên 14.0** cần khoảng 30–45 phút vận động hiếu khí cường độ trung bình.
-   - Tăng từ **14.0 lên 18.0** đòi hỏi công suất tim mạch cường độ cao **lớn hơn gấp đôi** so với chặng từ 10 lên 14.
-   - Chạm ngưỡng **20.0+ gần như bất khả thi trong các buổi tập thông thường**, chỉ xuất hiện khi chạy Marathon, thi đấu Ironman 3 môn phối hợp hoặc giải đấu kéo dài nhiều giờ liên tục.
+ - Tăng từ **0.0 lên 10.0** chỉ cần các hoạt động trao đổi chất cơ bản và đi lại nhẹ nhàng hàng ngày.
+ - Tăng từ **10.0 lên 14.0** cần khoảng 30–45 phút vận động hiếu khí cường độ trung bình.
+ - Tăng từ **14.0 lên 18.0** đòi hỏi công suất tim mạch cường độ cao **lớn hơn gấp đôi** so với chặng từ 10 lên 14.
+ - Chạm ngưỡng **20.0+ gần như bất khả thi trong các buổi tập thông thường**, chỉ xuất hiện khi chạy Marathon, thi đấu Ironman 3 môn phối hợp hoặc giải đấu kéo dài nhiều giờ liên tục.
 
 | Phân Tầng Day Strain | Khoảng Điểm | Mức Tải Trọng Sinh Lý | Hoạt Động Thực Tế Tương Đương | Mức Phục Hồi (Recovery) Phù Hợp Buổi Sáng |
 | :--- | :--- | :--- | :--- | :--- |
@@ -103,8 +103,8 @@ Unlike traditional workout timers that only log exercise when you manually press
 From the moment you wake up, your body expends cardiovascular and neuromuscular energy not only during your 60-minute gym session, but also when you sprint through an airport terminal, carry heavy groceries up stairs, or stand during a high-stakes presentation where adrenaline elevates your heart rate. Day Strain captures this **cumulative 24-hour internal physiological cost**—measuring how your body *responded* to stress rather than just the external distance or weight you moved.
 
 <figure class="article-inline-diagram">
-  <img src="images/LM_AC_02_figure.png" alt="Physiological Factors Increasing Cardiac Output During Exercise Strain" loading="lazy">
-  <figcaption>📊 <strong>Cardiac Output & Autonomic Drive:</strong> How sympathetic nervous system activation, stroke volume expansion, and heart rate elevation combine to drive cumulative cardiovascular strain. <a href="https://commons.wikimedia.org/wiki/File:CO_Incresing.png" target="_blank" rel="noopener">Original Image Source: Wikimedia Commons ↗</a></figcaption>
+ <img src="images/LM_AC_02_figure.png" alt="Physiological Factors Increasing Cardiac Output During Exercise Strain" loading="lazy">
+ <figcaption>📊 <strong>Cardiac Output & Autonomic Drive:</strong> How sympathetic nervous system activation, stroke volume expansion, and heart rate elevation combine to drive cumulative cardiovascular strain. <a href="https://commons.wikimedia.org/wiki/File:CO_Incresing.png" target="_blank" rel="noopener">Original Image Source: Wikimedia Commons ↗</a></figcaption>
 </figure>
 
 ---
@@ -115,10 +115,10 @@ New users often wonder why the Strain scale stops at **21.0** instead of 100, an
 
 1. **Inspired by the Borg RPE Scale (6–20):** Swedish physiologist Dr. Gunnar Borg designed the clinical **Rating of Perceived Exertion (RPE)** scale from 6 to 20 to mirror human heart rate (`60 bpm` at rest to `200 bpm` at maximal exertion). Wearable sports scientists adapted this concept into a **0 to 21 physiological load scale**.
 2. **A Logarithmic (Non-Linear) Curve:** Human energy expenditure and **Training Impulse (TRIMP, Banister 1991)** accumulate exponentially at higher heart rate zones. On a logarithmic scale, every single point is significantly harder to earn than the point before it:
-   - Moving from **0.0 to 10.0** requires only light baseline living and normal daily movement.
-   - Moving from **10.0 to 14.0** requires roughly 30–45 minutes of moderate aerobic work.
-   - Moving from **14.0 to 18.0** requires **more than double** the high-intensity cardiovascular output of moving from 10 to 14.
-   - Reaching **20.0+ is virtually impossible in normal training**, reserved for marathons, Ironman triathlons, or multi-hour competitive tournaments.
+ - Moving from **0.0 to 10.0** requires only light baseline living and normal daily movement.
+ - Moving from **10.0 to 14.0** requires roughly 30–45 minutes of moderate aerobic work.
+ - Moving from **14.0 to 18.0** requires **more than double** the high-intensity cardiovascular output of moving from 10 to 14.
+ - Reaching **20.0+ is virtually impossible in normal training**, reserved for marathons, Ironman triathlons, or multi-hour competitive tournaments.
 
 | Day Strain Tier | Score Range | Physiological Load Level | Typical Real-World Activity Equivalent | Optimal Morning Recovery Pairing |
 | :--- | :--- | :--- | :--- | :--- |

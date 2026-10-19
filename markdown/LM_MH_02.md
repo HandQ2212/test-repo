@@ -29,8 +29,8 @@ Câu trả lời y khoa là **Tuyệt đối KHÔNG. Mọi buổi tập Kegel đ
 3. **Huy Động 100% Biên Độ Co Giãn Của Sợi Cơ (Sarcomere):** Ở trạng thái mềm, cơ Hành hang, cơ Ngồi hang và cơ Mu cụt nằm ở chiều dài nghỉ tự nhiên. Điều này cho phép bạn đưa các sợi cơ đi qua **100% biên độ co hướng tâm (nâng lên)** tiếp nối bằng **100% biên độ giãn tâm sai (hạ xuống hoàn toàn)** mà không bị cản trở bởi sự ứ máu.
 
 <figure class="article-inline-diagram">
-  <img src="images/LM_MH_02_figure.jpg" alt="Cơ học hô hấp bằng cơ hoành và áp lực khoang ngực chậu" loading="lazy">
-  <figcaption>📊 <strong>Hệ Thống Pít-tông Ngực – Chậu:</strong> Cách cơ hoành hô hấp và sàn chậu di chuyển đồng bộ nhịp nhàng trong pha hít vào và thở ra để điều hòa áp lực ổ bụng. <a href="https://commons.wikimedia.org/wiki/File:Breathing_at_rest.jpg" target="_blank" rel="noopener noreferrer">Original Image Source: Wikimedia Commons ↗</a></figcaption>
+ <img src="images/LM_MH_02_figure.jpg" alt="Cơ học hô hấp bằng cơ hoành và áp lực khoang ngực chậu" loading="lazy">
+ <figcaption>📊 <strong>Hệ Thống Pít-tông Ngực – Chậu:</strong> Cách cơ hoành hô hấp và sàn chậu di chuyển đồng bộ nhịp nhàng trong pha hít vào và thở ra để điều hòa áp lực ổ bụng. <a href="https://commons.wikimedia.org/wiki/File:Breathing_at_rest.jpg" target="_blank" rel="noopener noreferrer">Original Image Source: Wikimedia Commons ↗</a></figcaption>
 </figure>
 
 ---
@@ -76,9 +76,9 @@ Hãy thực hiện buổi tập thần kinh – cơ 5 phút này mỗi ngày tro
 
 1. **Giai Đoạn 1 — Hiệu Chuẩn Không Trọng Lực Tư Thế Nằm Ngửa (Tuần 1–2):** Nằm ngửa thoải mái trên thảm, hai đầu gối gập nhẹ, kê gối dưới đầu. Tư thế nằm ngửa giúp loại bỏ hoàn toàn lực kéo của trọng lực và sức nặng của các tạng ổ bụng đè lên sàn chậu, giúp bạn **cảm nhận chuyển động nâng đáy chậu dễ gấp đôi** so với khi ngồi hay đứng.
 2. **Giai Đoạn 2 — Đồng Bộ Thở Ra & Nâng Giữ Chậm (10 Nhịp Chậm):**
-   - Hít vào chậm rãi qua mũi trong `4 giây`, cảm nhận lồng ngực dưới mở rộng và vùng đáy chậu mềm ra, hạ xuống hoàn toàn (`0% lực căng`).
-   - Bắt đầu thở ra nhẹ nhàng qua môi và **rút gốc dương vật cùng hai tinh hoàn vào trong, hướng lên trên (`70–80% sức tối đa`)**. Giữ nguyên vị trí nâng trong `5 giây` trong khi vẫn duy trì hơi thở êm.
-   - Hít vào và **chủ động thả rơi sàn chậu xuống mức thư giãn hoàn toàn** trong `5 đến 8 giây` trước khi bước sang nhịp tiếp theo.
+ - Hít vào chậm rãi qua mũi trong `4 giây`, cảm nhận lồng ngực dưới mở rộng và vùng đáy chậu mềm ra, hạ xuống hoàn toàn (`0% lực căng`).
+ - Bắt đầu thở ra nhẹ nhàng qua môi và **rút gốc dương vật cùng hai tinh hoàn vào trong, hướng lên trên (`70–80% sức tối đa`)**. Giữ nguyên vị trí nâng trong `5 giây` trong khi vẫn duy trì hơi thở êm.
+ - Hít vào và **chủ động thả rơi sàn chậu xuống mức thư giãn hoàn toàn** trong `5 đến 8 giây` trước khi bước sang nhịp tiếp theo.
 3. **Giai Đoạn 3 — Kích Hoạt Sợi Cơ Nhanh "Quick Flicks" (10 Nhịp Nhanh):** Sau khi nghỉ 30 giây, thực hiện **10 nhịp co nhanh dứt khoát 1 giây** (`co nhanh 1 giây → thả lỏng hoàn toàn 2 giây`). Hãy tập trung tối đa vào việc buông lỏng dứt khoát giữa từng nhịp nhấp.
 4. **Giai Đoạn 4 — Tiến Triển Tư Thế Chịu Trọng Lực (Từ Tuần 3 Trở Đi):** Khi bạn đã hoàn thành trọn vẹn 10 nhịp giữ chậm và 10 nhịp nhấp nhanh ở tư thế nằm mà không hề gồng bụng hay siết mông, hãy chuyển bài tập hàng ngày sang **tư thế ngồi thẳng lưng** (Tuần 3–4) và cuối cùng là **tư thế đứng thẳng** (Tuần 5+) để sàn chậu làm việc tự động chống lại trọng lực trong đời sống thực tế.
 
@@ -110,8 +110,8 @@ The clinical answer is an unequivocal **No. Routine Kegel workouts must always b
 3. **Full Range-of-Motion Sarcomere Recruitment:** In a flaccid state, the Bulbocavernosus, Ischiocavernosus, and Pubococcygeus muscles sit at their natural resting length. This allows you to take the muscle fibers through a **100% concentric contraction (lifting up)** followed by a **100% eccentric elongation (dropping down)** without vascular congestion getting in the way.
 
 <figure class="article-inline-diagram">
-  <img src="images/LM_MH_02_figure.jpg" alt="Diaphragmatic Breathing Mechanics and Thoraco-Pelvic Pressure" loading="lazy">
-  <figcaption>📊 <strong>The Thoraco-Pelvic Piston:</strong> How the respiratory diaphragm and the pelvic floor move in synchronized harmony during inhalation and exhalation to regulate intra-abdominal pressure. <a href="https://commons.wikimedia.org/wiki/File:Breathing_at_rest.jpg" target="_blank" rel="noopener noreferrer">Original Image Source: Wikimedia Commons ↗</a></figcaption>
+ <img src="images/LM_MH_02_figure.jpg" alt="Diaphragmatic Breathing Mechanics and Thoraco-Pelvic Pressure" loading="lazy">
+ <figcaption>📊 <strong>The Thoraco-Pelvic Piston:</strong> How the respiratory diaphragm and the pelvic floor move in synchronized harmony during inhalation and exhalation to regulate intra-abdominal pressure. <a href="https://commons.wikimedia.org/wiki/File:Breathing_at_rest.jpg" target="_blank" rel="noopener noreferrer">Original Image Source: Wikimedia Commons ↗</a></figcaption>
 </figure>
 
 ---
@@ -157,9 +157,9 @@ Practice this 5-minute daily neuromuscular session in a quiet room while complet
 
 1. **Phase 1 — Supine Gravity-Free Calibration (Weeks 1–2):** Lie flat on your back with knees bent and a pillow under your head. Lying down eliminates the downward pull of gravity and the weight of your abdominal organs, making it **twice as easy to feel pure perineal lift**.
 2. **Phase 2 — Diaphragmatic Exhale-Lift Synchronization (10 Slow Reps):**
-   - Inhale slowly through your nose for `4 seconds`, feeling your lower ribs expand and your perineum soften and drop completely (`0% tension`).
-   - Begin exhaling gently through pursed lips and **draw the base of your penis and testicles inward and upward (`70–80% effort`)**. Hold the lift for `5 seconds` while continuing to breathe softly.
-   - Inhale and **consciously drop the pelvic floor all the way down** to baseline for `5 to 8 seconds` before starting the next repetition.
+ - Inhale slowly through your nose for `4 seconds`, feeling your lower ribs expand and your perineum soften and drop completely (`0% tension`).
+ - Begin exhaling gently through pursed lips and **draw the base of your penis and testicles inward and upward (`70–80% effort`)**. Hold the lift for `5 seconds` while continuing to breathe softly.
+ - Inhale and **consciously drop the pelvic floor all the way down** to baseline for `5 to 8 seconds` before starting the next repetition.
 3. **Phase 3 — Fast-Twitch "Quick Flicks" (10 Dynamic Reps):** After resting for 30 seconds, perform **10 rapid 1-second contractions** (`squeeze sharply for 1 second → release completely for 2 seconds`). Focus on crisp relaxation between every single pulse.
 4. **Phase 4 — Postural Progression (Weeks 3+):** Once you can complete 10 slow holds and 10 fast pulses lying down with zero abdominal or gluteal tightening, transition your daily sets to **seated upright posture** (Weeks 3–4) and finally **standing posture** (Weeks 5+) so your pelvic floor works automatically against gravity in real life.
 

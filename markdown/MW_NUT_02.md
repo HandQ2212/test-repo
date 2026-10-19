@@ -22,8 +22,8 @@
 3. cGMP làm giảm dòng canxi nội bào, khiến các cơ trơn tiểu động mạch hang giãn nở tối đa. Lưu lượng máu đổ dồn vào thể hang tăng vọt từ **2–3 ml/phút lên đến 20–40 ml/phút**, tạo ra áp lực nén các tĩnh mạch dưới màng trắng và khóa dòng máu thoát ra ngoài.
 
 <figure class="article-inline-diagram">
-  <img src="images/DM_MH_02_figure.png" alt="Sơ đồ tuần hoàn vi mạch thể hang" loading="lazy">
-  <figcaption>📊 <strong>Động Học Tuần Hoàn Mạch Máu:</strong> Động mạch hang có kích thước siêu nhỏ (1–2 mm), do đó bất kỳ tổn thương nội mô hoặc mảng xơ vữa nào cũng sẽ biểu hiện thành rối loạn cương nhiều năm trước khi gây đau thắt ngực. <a href="https://commons.wikimedia.org/wiki/File:Cardiovascular_System_Circulation.svg" target="_blank" rel="noopener">Nguồn sơ đồ: Wikimedia Commons ↗</a></figcaption>
+ <img src="images/DM_MH_02_figure.png" alt="Sơ đồ tuần hoàn vi mạch thể hang" loading="lazy">
+ <figcaption>📊 <strong>Động Học Tuần Hoàn Mạch Máu:</strong> Động mạch hang có kích thước siêu nhỏ (1–2 mm), do đó bất kỳ tổn thương nội mô hoặc mảng xơ vữa nào cũng sẽ biểu hiện thành rối loạn cương nhiều năm trước khi gây đau thắt ngực. <a href="https://commons.wikimedia.org/wiki/File:Cardiovascular_System_Circulation.svg" target="_blank" rel="noopener">Nguồn sơ đồ: Wikimedia Commons ↗</a></figcaption>
 </figure>
 
 ---
@@ -44,7 +44,7 @@ Trong một thử nghiệm lâm sàng ngẫu nhiên kéo dài 2 năm trên 110 n
 | **Dầu Olive Siêu Nguyên Chất (EVOO)** | Polyphenol (Oleocanthal, Hydroxytyrosol) & Axit Oleic | Chống oxy hóa màng tế bào nội mô; bảo vệ phân tử NO không bị gốc tự do ROS phá hủy. | Dùng **30–50 ml (2–3 muỗng canh)** mỗi ngày rưới trực tiếp lên salad hoặc thức ăn nguội. |
 | **Các Loại Quả Hạch (Hạnh nhân, Óc chó, Hạt dẻ)** | **L-Arginine** tự nhiên & Magie | L-Arginine là cơ chất bắt buộc để enzyme eNOS tổng hợp Nitric Oxide; Magie hỗ trợ giãn cơ trơn. | Ăn một nắm nhỏ **30–40g** hạt óc chó và hạnh nhân sống làm bữa phụ buổi chiều. |
 | **Cá Biển Béo (Hải sản đánh bắt tự nhiên)** | Axit béo **Omega-3 (EPA & DHA)** | Tăng tính mềm dẻo của màng hồng cầu; hạ Triglyceride máu; ngăn ngừa huyết khối tiểu cầu. | Ăn cá hồi, cá thu, cá trích hoặc cá mòi ít nhất **2–3 bữa/tuần**. |
-| **Rau Xanh Đậm & Quả Mọng (Cải bó xôi, Củ dền)** | **Nitrat vô cơ (Nitrates)** & Anthocyanin | Vi khuẩn khoang miệng khử Nitrat thành Nitrit ($NO_2^-$), chuyển thành NO trong máu mà không cần phụ thuộc vào enzyme eNOS. | Uống 150ml nước ép củ dền hoặc ăn 1 đĩa lớn cải bó xôi/xà lách arugula trước khi vận động. |
+| **Rau Xanh Đậm & Quả Mọng (Cải bó xôi, Củ dền)** | **Nitrat vô cơ (Nitrates)** & Anthocyanin | Vi khuẩn khoang miệng khử Nitrat thành Nitrit (NO₂⁻), chuyển thành NO trong máu mà không cần phụ thuộc vào enzyme eNOS. | Uống 150ml nước ép củ dền hoặc ăn 1 đĩa lớn cải bó xôi/xà lách arugula trước khi vận động. |
 
 ---
 
@@ -76,8 +76,8 @@ To achieve rigid erection, the male body must coordinate a delicate, high-pressu
 3. cGMP reduces intracellular calcium flux, prompting profound trabecular smooth muscle relaxation. Inflow into cavernosal sinusoids skyrockets from **2–3 mL/min up to 20–40 mL/min**, generating massive intracavernosal pressure that compresses subtunical venules against the rigid tunica albuginea, hydraulically trapping blood within the corpora.
 
 <figure class="article-inline-diagram">
-  <img src="images/DM_MH_02_figure.png" alt="Microvascular cavernosal hemodynamics diagram" loading="lazy">
-  <figcaption>📊 <strong>Vascular Hemodynamics of Erection:</strong> Because cavernosal arteries are microvessels (1–2 mm), endothelial injury or early atheroma formation compromises erectile hydraulics years before angina manifests. <a href="https://commons.wikimedia.org/wiki/File:Cardiovascular_System_Circulation.svg" target="_blank" rel="noopener">Diagram source: Wikimedia Commons ↗</a></figcaption>
+ <img src="images/DM_MH_02_figure.png" alt="Microvascular cavernosal hemodynamics diagram" loading="lazy">
+ <figcaption>📊 <strong>Vascular Hemodynamics of Erection:</strong> Because cavernosal arteries are microvessels (1–2 mm), endothelial injury or early atheroma formation compromises erectile hydraulics years before angina manifests. <a href="https://commons.wikimedia.org/wiki/File:Cardiovascular_System_Circulation.svg" target="_blank" rel="noopener">Diagram source: Wikimedia Commons ↗</a></figcaption>
 </figure>
 
 ---
@@ -98,7 +98,7 @@ In a landmark 2-year randomized clinical trial involving 110 obese men with meta
 | **Extra Virgin Olive Oil (EVOO)** | Oleocanthal, Hydroxytyrosol & Oleic Acid | Protects endothelial membranes against lipid peroxidation; shields NO from reactive oxygen species degradation. | Consume **30–50 mL (2–3 tbsp)** raw daily drizzled over meals. |
 | **Raw Tree Nuts (Walnuts, Almonds)** | L-Arginine & Magnesium | L-Arginine serves as the obligatory substrate for eNOS; magnesium facilitates smooth muscle relaxation. | Snack on **30–40g** raw walnuts and almonds daily as an afternoon bridge. |
 | **Cold-Water Fatty Fish** | Omega-3 PUFAs (EPA & DHA) | Enhances erythrocyte deformability, suppresses thromboxane A2, and curbs microvascular thrombosis. | Consume wild salmon, mackerel, or sardines **2–3 times per week**. |
-| **Dark Leafy Greens & Beets** | Dietary Inorganic Nitrates | Oral microbiome converts nitrates to nitrites ($NO_2^-$), boosting systemic NO independent of eNOS enzymes. | Drink 150 mL fresh beet juice or consume generous arugula/spinach salads pre-workout. |
+| **Dark Leafy Greens & Beets** | Dietary Inorganic Nitrates | Oral microbiome converts nitrates to nitrites (NO₂⁻), boosting systemic NO independent of eNOS enzymes. | Drink 150 mL fresh beet juice or consume generous arugula/spinach salads pre-workout. |
 
 ---
 

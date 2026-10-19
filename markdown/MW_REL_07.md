@@ -19,14 +19,14 @@
 Trong cuốn sách khoa học kinh điển *The Science of Trust*, Tiến sĩ John Gottman đã kể lại một câu chuyện giản dị nhưng mang tính biểu tượng sâu sắc:
 - Vào một đêm muộn, ông đang mệt mỏi đọc một cuốn tiểu thuyết trinh thám gay cấn trên giường. Khi đi vào phòng tắm, ông thấy người vợ của mình đang ngồi chải tóc trước gương với khuôn mặt đượm buồn.
 - Lúc đó, ông đối mặt với một sự lựa chọn sinh tử của mối quan hệ mà ông gọi là **Khoảnh Khắc Cửa Trượt (Sliding Door Moment)**:
-  - *Lựa chọn 1:* Lờ đi, nhanh chóng quay lại giường đọc tiếp cuốn sách yêu thích để đi ngủ.
-  - *Lựa chọn 2:* Đặt cuốn sách xuống, bước đến bên cạnh, nhẹ nhàng cầm lấy chiếc lược chải tóc cho vợ và hỏi: *"Có chuyện gì làm em buồn tối nay phải không?"*.
+ - *Lựa chọn 1:* Lờ đi, nhanh chóng quay lại giường đọc tiếp cuốn sách yêu thích để đi ngủ.
+ - *Lựa chọn 2:* Đặt cuốn sách xuống, bước đến bên cạnh, nhẹ nhàng cầm lấy chiếc lược chải tóc cho vợ và hỏi: *"Có chuyện gì làm em buồn tối nay phải không?"*.
 
 Khoảnh khắc ông chọn **bước qua cánh cửa trượt để kết nối** chính là viên gạch xây nên lòng tin vững chắc. Ngược lại, mỗi lần ta quay lưng lờ đi một tín hiệu buồn bã của đối phương, một hạt cát xói mòn lòng tin sẽ rơi xuống, lâu dần tạo thành hố sâu ngăn cách.
 
 <figure class="article-inline-diagram">
-  <img src="images/DM_HW_01_figure.jpg" alt="Sơ đồ 4 phong cách gắn bó tâm lý học" loading="lazy">
-  <figcaption>📊 <strong>Khoa Học Về Sự Gắn Bó (Attachment Theory):</strong> Những phản hồi nhất quán và ấm áp giúp hệ thần kinh của đối tác giải phóng Oxytocin, xây dựng phong cách gắn bó an toàn (Secure Attachment). <a href="https://commons.wikimedia.org/wiki/File:Attachment_styles_model.svg" target="_blank" rel="noopener">Nguồn sơ đồ: Wikimedia Commons ↗</a></figcaption>
+ <img src="images/DM_HW_01_figure.jpg" alt="Sơ đồ 4 phong cách gắn bó tâm lý học" loading="lazy">
+ <figcaption>📊 <strong>Khoa Học Về Sự Gắn Bó (Attachment Theory):</strong> Những phản hồi nhất quán và ấm áp giúp hệ thần kinh của đối tác giải phóng Oxytocin, xây dựng phong cách gắn bó an toàn (Secure Attachment). <a href="https://commons.wikimedia.org/wiki/File:Attachment_styles_model.svg" target="_blank" rel="noopener">Nguồn sơ đồ: Wikimedia Commons ↗</a></figcaption>
 </figure>
 
 ---
@@ -79,14 +79,14 @@ Theo nghiên cứu tiên phong của **Hazan & Shaver (JPSP)**, người trưở
 In *The Science of Trust*, Dr. John Gottman recounts a quiet personal story:
 - Late one night, reading an engaging novel in bed, he noticed his wife brushing her hair in the bathroom with an expression of quiet sadness.
 - He faced a critical evolutionary juncture he termed a **Sliding Door Moment**:
-  - *Option 1:* Look away, turn back to his exciting book, and fall asleep.
-  - *Option 2:* Put the book down, walk into the bathroom, take the hairbrush, and ask: *"What's troubling you tonight, darling?"*
+ - *Option 1:* Look away, turn back to his exciting book, and fall asleep.
+ - *Option 2:* Put the book down, walk into the bathroom, take the hairbrush, and ask: *"What's troubling you tonight, darling?"*
 
 Stepping through that sliding door to connect constructed a durable brick of neurobiological trust. Every time partners turn away from vulnerability, relational erosion deepens.
 
 <figure class="article-inline-diagram">
-  <img src="images/DM_HW_01_figure.jpg" alt="Adult attachment styles and psychological safety diagram" loading="lazy">
-  <figcaption>📊 <strong>Adult Attachment Theory:</strong> Warm, reliable, consistent attunement triggers neuro-oxytocinergic bonding, shifting insecure styles into Earned Security. <a href="https://commons.wikimedia.org/wiki/File:Attachment_styles_model.svg" target="_blank" rel="noopener">Diagram source: Wikimedia Commons ↗</a></figcaption>
+ <img src="images/DM_HW_01_figure.jpg" alt="Adult attachment styles and psychological safety diagram" loading="lazy">
+ <figcaption>📊 <strong>Adult Attachment Theory:</strong> Warm, reliable, consistent attunement triggers neuro-oxytocinergic bonding, shifting insecure styles into Earned Security. <a href="https://commons.wikimedia.org/wiki/File:Attachment_styles_model.svg" target="_blank" rel="noopener">Diagram source: Wikimedia Commons ↗</a></figcaption>
 </figure>
 
 ---

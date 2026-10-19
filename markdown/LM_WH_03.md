@@ -27,8 +27,8 @@
 2. **Hiệu Ứng Sinh Nhiệt Ở Pha Hoàng Thể (Do Progesterone):** Trong vòng 24 giờ sau khi trứng trưởng thành phóng thích, vỏ nang trứng vỡ biến đổi thành **Hoàng thể (Corpus Luteum)** và bơm lượng lớn **Progesterone** vào máu. Progesterone tác động trực tiếp lên các nơ-ron nhạy cảm nhiệt tại vùng dưới đồi, đẩy "nhiệt kế trung tâm" của cơ thể tăng vọt thêm **+0.3°C đến +0.5°C (+0.5°F đến +0.9°F)** và duy trì suốt 11 đến 14 ngày tiếp theo.
 
 <figure class="article-inline-diagram">
-  <img src="images/LM_WH_03_figure.png" alt="Đường cong Nhiệt độ cơ bản (BBT) hai pha đồng bộ với đỉnh LH, Estradiol, Progesterone và thời điểm rụng trứng" loading="lazy">
-  <figcaption>📊 <strong>Dấu Ấn Nhiệt Độ Hai Pha Của Sự Rụng Trứng:</strong> Hãy chú ý cách Nhiệt độ cơ bản (BBT) hạ nhẹ ngay sát đỉnh Estradiol/LH, sau đó tăng vọt +0.3°C đến +0.5°C ngay sau khi rụng trứng khi Hoàng thể tiết ra Progesterone. <a href="https://commons.wikimedia.org/wiki/File:Menstrual_cycle.svg" target="_blank" rel="noopener noreferrer">Original Image Source: Wikimedia Commons ↗</a></figcaption>
+ <img src="images/LM_WH_03_figure.png" alt="Đường cong Nhiệt độ cơ bản (BBT) hai pha đồng bộ với đỉnh LH, Estradiol, Progesterone và thời điểm rụng trứng" loading="lazy">
+ <figcaption>📊 <strong>Dấu Ấn Nhiệt Độ Hai Pha Của Sự Rụng Trứng:</strong> Hãy chú ý cách Nhiệt độ cơ bản (BBT) hạ nhẹ ngay sát đỉnh Estradiol/LH, sau đó tăng vọt +0.3°C đến +0.5°C ngay sau khi rụng trứng khi Hoàng thể tiết ra Progesterone. <a href="https://commons.wikimedia.org/wiki/File:Menstrual_cycle.svg" target="_blank" rel="noopener noreferrer">Original Image Source: Wikimedia Commons ↗</a></figcaption>
 </figure>
 
 ---
@@ -58,8 +58,8 @@ Khi mở biểu đồ Nhiệt độ chu kỳ (Cycle Insights hoặc Wrist Temper
 2. **Đáy Hạ Nhiệt Trước Rụng Trứng (Tùy chu kỳ, Ngày 12–14):** Ngay khi Estradiol đạt đỉnh cực đại sát thời điểm rụng trứng, nhiều người dùng quan sát thấy nhiệt độ chạm đáy thấp nhất tháng (`−0.3°C đến −0.4°C`) trong 1 đêm trước khi bật tăng mạnh.
 3. **Quy Tắc Xác Nhận "3 Cao Hơn 6" (Ngày ~15–18):** Trong y học sinh sản và thuật toán Natural Cycles, rụng trứng được xác nhận chính thức khi **3 đêm liên tiếp có nhiệt độ cao hơn ít nhất +0.2°C đến +0.3°C so với mức cao nhất của 6 đêm pha Nang trứng liền trước đó**.
 4. **Tín Hiệu Cuối Chu Kỳ (Ngày 27–28 hoặc 14+ ngày sau rụng trứng):**
-   - **Nếu không mang thai:** Hoàng thể tự thoái hóa sau 12–14 ngày, Progesterone sụt giảm và nhiệt độ ban đêm rơi về đường `0.0°C` khoảng 1 đến 2 ngày trước khi kỳ kinh bắt đầu.
-   - **Nếu quá trình thụ thai thành công:** Hormone thai kỳ hCG sẽ duy trì hoạt động của hoàng thể, giữ Progesterone ở mức cao. Nhiệt độ trên thiết bị đeo sẽ tiếp tục duy trì ở mức cao (`+0.3°C đến +0.6°C`) suốt **16 đến 18+ ngày liên tiếp sau rụng trứng**—thường là dấu hiệu sinh trắc học báo tin vui sớm nhất!
+ - **Nếu không mang thai:** Hoàng thể tự thoái hóa sau 12–14 ngày, Progesterone sụt giảm và nhiệt độ ban đêm rơi về đường `0.0°C` khoảng 1 đến 2 ngày trước khi kỳ kinh bắt đầu.
+ - **Nếu quá trình thụ thai thành công:** Hormone thai kỳ hCG sẽ duy trì hoạt động của hoàng thể, giữ Progesterone ở mức cao. Nhiệt độ trên thiết bị đeo sẽ tiếp tục duy trì ở mức cao (`+0.3°C đến +0.6°C`) suốt **16 đến 18+ ngày liên tiếp sau rụng trứng**—thường là dấu hiệu sinh trắc học báo tin vui sớm nhất!
 
 ---
 
@@ -104,8 +104,8 @@ What drives this monthly temperature switch? A direct tug-of-war between your tw
 2. **The Luteal Thermogenic Surge (Progesterone):** Within 24 hours after a mature egg is released at ovulation, the ruptured follicle transforms into the **corpus luteum** and floods the bloodstream with **progesterone**. Progesterone stimulates warmth-sensitive neurons and inhibits cold-sensitive neurons in the hypothalamus, shifting your internal thermostat upward by **+0.3°C to +0.5°C (+0.5°F to +0.9°F)** for the next 11 to 14 days.
 
 <figure class="article-inline-diagram">
-  <img src="images/LM_WH_03_figure.png" alt="Biphasic Basal Body Temperature curve synchronized with LH surge, estradiol, progesterone, and ovulation" loading="lazy">
-  <figcaption>📊 <strong>The Biphasic Thermal Signature of Ovulation:</strong> Notice how Basal Body Temperature dips slightly around peak estradiol/LH surge, then climbs by +0.3°C to +0.5°C immediately after ovulation as progesterone rises from the corpus luteum. <a href="https://commons.wikimedia.org/wiki/File:Menstrual_cycle.svg" target="_blank" rel="noopener noreferrer">Original Image Source: Wikimedia Commons ↗</a></figcaption>
+ <img src="images/LM_WH_03_figure.png" alt="Biphasic Basal Body Temperature curve synchronized with LH surge, estradiol, progesterone, and ovulation" loading="lazy">
+ <figcaption>📊 <strong>The Biphasic Thermal Signature of Ovulation:</strong> Notice how Basal Body Temperature dips slightly around peak estradiol/LH surge, then climbs by +0.3°C to +0.5°C immediately after ovulation as progesterone rises from the corpus luteum. <a href="https://commons.wikimedia.org/wiki/File:Menstrual_cycle.svg" target="_blank" rel="noopener noreferrer">Original Image Source: Wikimedia Commons ↗</a></figcaption>
 </figure>
 
 ---
@@ -135,8 +135,8 @@ When you open your wearable's Cycle Insights or Wrist Temperature trend graph, l
 2. **The Pre-Ovulatory Dip (Optional, Day 12–14):** Right as estradiol reaches its absolute peak immediately before ovulation, many users see a brief 1-day temperature dip (`−0.3°C to −0.4°C`) before the sharp upward climb.
 3. **The 3-Over-6 Confirmation Rule (Days ~15–18):** In clinical fertility charting and Natural Cycles algorithms, ovulation is confirmed when **3 consecutive overnight temperatures rise at least +0.2°C to +0.3°C above the highest of the preceding 6 follicular temperatures**.
 4. **The End-of-Cycle Signal (Day 27–28 or 14+ Days Post-Ovulation):**
-   - **If you are not pregnant:** The corpus luteum breaks down after 12–14 days, progesterone falls, and your overnight temperature drops back toward or below your `0.0°C` baseline 1 to 2 days before your period begins.
-   - **If conception occurred:** Human Chorionic Gonadotropin (hCG) rescues the corpus luteum, keeping progesterone high. Your wearable temperature remains elevated (`+0.3°C to +0.6°C`) for **16 to 18+ consecutive days post-ovulation**—often providing the earliest biometric hint of pregnancy!
+ - **If you are not pregnant:** The corpus luteum breaks down after 12–14 days, progesterone falls, and your overnight temperature drops back toward or below your `0.0°C` baseline 1 to 2 days before your period begins.
+ - **If conception occurred:** Human Chorionic Gonadotropin (hCG) rescues the corpus luteum, keeping progesterone high. Your wearable temperature remains elevated (`+0.3°C to +0.6°C`) for **16 to 18+ consecutive days post-ovulation**—often providing the earliest biometric hint of pregnancy!
 
 ---
 

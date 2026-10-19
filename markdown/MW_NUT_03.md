@@ -21,8 +21,8 @@ Khuyến nghị dinh dưỡng tiêu chuẩn (**RDA - Recommended Dietary Allowan
 - Đối với nam giới có tập luyện kháng lực (gym), chơi thể thao hoặc đang trong giai đoạn giảm mỡ, mức nạp này dẫn đến **suy giảm khối cơ nạc (Lean Mass Catabolism)**, giảm tốc độ chuyển hóa cơ bản và làm giảm độ nhạy insulin.
 
 <figure class="article-inline-diagram">
-  <img src="images/DM_AC_01_figure.png" alt="Sơ đồ khối cơ nạc và tổng hợp protein" loading="lazy">
-  <figcaption>📊 <strong>Kích Hoạt Tín Hiệu mTORC1:</strong> Nạp đủ protein theo từng bữa giúp duy trì cân bằng nitơ dương tính, hỗ trợ tái tạo mô liên kết và nâng cao sức chịu tải Day Strain của cơ thể. <a href="https://commons.wikimedia.org/wiki/File:Muscles_anterior_labeled.png" target="_blank" rel="noopener">Nguồn sơ đồ: Wikimedia Commons ↗</a></figcaption>
+ <img src="images/DM_AC_01_figure.png" alt="Sơ đồ khối cơ nạc và tổng hợp protein" loading="lazy">
+ <figcaption>📊 <strong>Kích Hoạt Tín Hiệu mTORC1:</strong> Nạp đủ protein theo từng bữa giúp duy trì cân bằng nitơ dương tính, hỗ trợ tái tạo mô liên kết và nâng cao sức chịu tải Day Strain của cơ thể. <a href="https://commons.wikimedia.org/wiki/File:Muscles_anterior_labeled.png" target="_blank" rel="noopener">Nguồn sơ đồ: Wikimedia Commons ↗</a></figcaption>
 </figure>
 
 ---
@@ -62,8 +62,8 @@ Một trong những nỗi sợ phổ biến nhất là: "Ăn nhiều protein s�
 
 ## Giao Thức 4 Bước Tối Ưu Nạp Protein Mỗi Ngày
 
-1. **Tính Toán Mục Tiêu Cá Nhân:** Lấy cân nặng nhân với hệ số **1.8g**. (Ví dụ: bạn nặng 75kg $\rightarrow 75 \times 1.8 = 135\text{g protein/ngày}$).
-2. **Chia Đều 3–4 Bữa:** Phân bổ $135\text{g} \div 4 \approx 34\text{g protein/bữa}$ (Bữa sáng, trưa, xế sau tập, tối).
+1. **Tính Toán Mục Tiêu Cá Nhân:** Lấy cân nặng nhân với hệ số **1.8g**. (Ví dụ: bạn nặng 75kg → 75 × 1.8 = 135g protein/ngày).
+2. **Chia Đều 3–4 Bữa:** Phân bổ 135g ÷ 4 ≈ 34g protein/bữa (Bữa sáng, trưa, xế sau tập, tối).
 3. **Ưu Tiên Nguồn Đạm Hoàn Chỉnh:** Thịt bò nạc, cá, gia cầm, trứng, sữa chua Hy Lạp và whey protein để đảm bảo đủ toàn bộ 9 amino axit thiết yếu (EAAs).
 4. **Uống Đủ Nước Để Thải Nitơ:** Khi ăn lượng protein cao, cơ thể cần nhiều nước hơn để đào thải hợp chất urê qua nước tiểu. Đảm bảo uống tối thiểu **35–40 ml nước cho mỗi kg thể trọng** mỗi ngày.
 
@@ -87,8 +87,8 @@ Standard nutritional guidelines (**RDA - Recommended Dietary Allowance**) prescr
 - For active men engaged in resistance exercise or caloric deficits, this intake guarantees **lean mass catabolism**, depressed resting metabolic rate, and impaired tissue recovery.
 
 <figure class="article-inline-diagram">
-  <img src="images/DM_AC_01_figure.png" alt="Skeletal muscle architecture and MPS signaling" loading="lazy">
-  <figcaption>📊 <strong>Triggering the mTORC1 Switch:</strong> Protein pacing sustains positive nitrogen balance, supporting connective tissue repair and handling higher cardiovascular Day Strain loads. <a href="https://commons.wikimedia.org/wiki/File:Muscles_anterior_labeled.png" target="_blank" rel="noopener">Diagram source: Wikimedia Commons ↗</a></figcaption>
+ <img src="images/DM_AC_01_figure.png" alt="Skeletal muscle architecture and MPS signaling" loading="lazy">
+ <figcaption>📊 <strong>Triggering the mTORC1 Switch:</strong> Protein pacing sustains positive nitrogen balance, supporting connective tissue repair and handling higher cardiovascular Day Strain loads. <a href="https://commons.wikimedia.org/wiki/File:Muscles_anterior_labeled.png" target="_blank" rel="noopener">Diagram source: Wikimedia Commons ↗</a></figcaption>
 </figure>
 
 ---
@@ -128,8 +128,8 @@ One of medicine's most durable myths is that high protein damages renal function
 
 ## 4-Step Practical Protocol for Protein Optimization
 
-1. **Calculate Baseline Intake:** Multiply body mass in kg by **1.8g**. (e.g., 75kg male: $75 \times 1.8 = 135\text{g protein/day}$).
-2. **Distribute Across 4 Windows:** Allocate $135\text{g} \div 4 \approx 34\text{g protein per meal}$ (Breakfast, Lunch, Post-Workout, Dinner).
+1. **Calculate Baseline Intake:** Multiply body mass in kg by **1.8g**. (e.g., 75kg male: 75 × 1.8 = 135g protein/day).
+2. **Distribute Across 4 Windows:** Allocate 135g ÷ 4 ≈ 34g protein per meal (Breakfast, Lunch, Post-Workout, Dinner).
 3. **Anchor Around Complete Sources:** Lean beef, wild fish, poultry, eggs, Greek yogurt, and whey to guarantee all 9 essential amino acids (EAAs).
 4. **Hydrate for Nitrogen Excretion:** Higher protein turnover increases urea excretion; drink **35–40 mL water per kg body mass daily**.
 

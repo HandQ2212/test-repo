@@ -19,14 +19,14 @@
 Trong giải phẫu học cơ thể người, hầu hết các cơ quan nội tạng quan trọng nhất (tim, gan, thận, phổi, buồng trứng) đều được bảo vệ an toàn bên trong lồng ngực hoặc khoang chậu bằng các khung xương vững chắc. Riêng tinh hoàn nam giới lại bị đưa ra ngoài, treo lơ lửng trong một túi da mỏng gọi là **Bìu (Scrotum)**.
 
 Lý do tiến hóa duy nhất cho sự sắp đặt này là **Nhiệt Độ (Thermoregulation)**:
-- Quá trình giảm phân tạo tinh trùng (**Spermatogenesis**) cực kỳ nhạy cảm với nhiệt độ. Các enzyme sao chép DNA của tế bào mầm chỉ hoạt động tối ưu ở nhiệt độ từ **$33.5^\circ\text{C}$ đến $34.5^\circ\text{C}$**—tức là **thấp hơn thân nhiệt lõi cơ thể ($37^\circ\text{C}$) từ $2.5^\circ\text{C}$ đến $3.5^\circ\text{C}$**.
+- Quá trình giảm phân tạo tinh trùng (**Spermatogenesis**) cực kỳ nhạy cảm với nhiệt độ. Các enzyme sao chép DNA của tế bào mầm chỉ hoạt động tối ưu ở nhiệt độ từ **33.5°C đến 34.5°C**—tức là **thấp hơn thân nhiệt lõi cơ thể (37°C) từ 2.5°C đến 3.5°C**.
 - Để giữ nhiệt độ này ổn định: Hai khối cơ **Cremaster (Cơ bìu)** và **Dartos** liên tục co giãn tự động: Khi trời lạnh, chúng co lại kéo tinh hoàn sát vào cơ thể để sưởi ấm; khi trời nóng, chúng giãn ra hạ thấp tinh hoàn xuống để tỏa nhiệt.
 
-Nếu nhiệt độ tinh hoàn bị đẩy lên mức $37^\circ\text{C}$ kéo dài: Quá trình sinh tinh bị đình trệ ngay lập tức, các tế bào mầm rơi vào quá trình chết rụng theo chương trình (Apoptosis) và tỷ lệ tinh trùng dị dạng tăng vọt.
+Nếu nhiệt độ tinh hoàn bị đẩy lên mức 37°C kéo dài: Quá trình sinh tinh bị đình trệ ngay lập tức, các tế bào mầm rơi vào quá trình chết rụng theo chương trình (Apoptosis) và tỷ lệ tinh trùng dị dạng tăng vọt.
 
 <figure class="article-inline-diagram">
-  <img src="images/LM_MH_03_figure.jpg" alt="Sơ đồ giải phẫu điều hòa nhiệt độ tinh hoàn" loading="lazy">
-  <figcaption>📊 <strong>Hệ Thống Mạng Mạch Dây Leo (Pampiniform Plexus):</strong> Hệ thống tĩnh mạch cuộn xoắn quanh động mạch tinh hoàn hoạt động như một bộ tản nhiệt trao đổi nhiệt ngược dòng (Countercurrent heat exchanger) làm mát máu trước khi đi vào tinh hoàn. <a href="https://commons.wikimedia.org/wiki/File:Testis_anatomy.svg" target="_blank" rel="noopener">Nguồn sơ đồ: Wikimedia Commons ↗</a></figcaption>
+ <img src="images/LM_MH_03_figure.jpg" alt="Sơ đồ giải phẫu điều hòa nhiệt độ tinh hoàn" loading="lazy">
+ <figcaption>📊 <strong>Hệ Thống Mạng Mạch Dây Leo (Pampiniform Plexus):</strong> Hệ thống tĩnh mạch cuộn xoắn quanh động mạch tinh hoàn hoạt động như một bộ tản nhiệt trao đổi nhiệt ngược dòng (Countercurrent heat exchanger) làm mát máu trước khi đi vào tinh hoàn. <a href="https://commons.wikimedia.org/wiki/File:Testis_anatomy.svg" target="_blank" rel="noopener">Nguồn sơ đồ: Wikimedia Commons ↗</a></figcaption>
 </figure>
 
 ---
@@ -35,7 +35,7 @@ Nếu nhiệt độ tinh hoàn bị đẩy lên mức $37^\circ\text{C}$ kéo d�
 
 | Tác Nhân Nguy Hiểm | Cơ Chế Phá Hủy Tinh Trùng | Mức Độ Tổn Thương Thực Tế | Khuyến Nghị Phòng Ngừa |
 | :--- | :--- | :--- | :--- |
-| **Nhiệt Độ Cục Bộ (Laptop, Bồn Nước Nóng, Yên Xe)** | Đặt laptop trực tiếp lên đùi làm nhiệt độ bìu tăng thêm **$+2.8^\circ\text{C}$** chỉ sau 60 phút (**Shefi et al., Fertil Steril**). | Giảm 40% độ di động tinh trùng; tăng đứt gãy DNA tinh trùng. | Luôn đặt laptop trên bàn; tránh ngâm bồn tắm nước nóng và xông hơi sauna khi đang chuẩn bị sinh con. |
+| **Nhiệt Độ Cục Bộ (Laptop, Bồn Nước Nóng, Yên Xe)** | Đặt laptop trực tiếp lên đùi làm nhiệt độ bìu tăng thêm **+2.8°C** chỉ sau 60 phút (**Shefi et al., Fertil Steril**). | Giảm 40% độ di động tinh trùng; tăng đứt gãy DNA tinh trùng. | Luôn đặt laptop trên bàn; tránh ngâm bồn tắm nước nóng và xông hơi sauna khi đang chuẩn bị sinh con. |
 | **Chất Gây Rối Loạn Nội Tiết (EDCs - Phthalates & BPA)** | Hóa chất trong đồ nhựa dẻo và hóa mỹ phẩm thẩm thấu qua da, giả lập hormone estrogen và khóa thụ thể Androgen. | Gây teo ống sinh tinh; giảm mật độ tinh trùng và giảm hormone testosterone. | Tránh dùng hộp nhựa quay lò vi sóng; chuyển sang bình nước thủy tinh/inox; dùng mỹ phẩm không chứa hương liệu nhân tạo (Phthalate-free). |
 | **Sóng Điện Từ Điện Thoại (RF-EMR)** | Thói quen để điện thoại di động trong túi quần phía trước liên tục phát sóng vô tuyến và bức xạ nhiệt. | Nghiên cứu tổng hợp ghi nhận giảm 8% khả năng sống sót của tinh trùng. | Để điện thoại trong túi xách hoặc túi áo ngực; bật chế độ máy bay khi không sử dụng. |
 | **Giãn Tĩnh Mạch Thừng Tinh (Varicocele)** | Tĩnh mạch tinh hoàn bị ứ máu và giãn to (gặp ở 15% nam giới), làm sụp đổ hệ thống tản nhiệt Pampiniform. | Tinh hoàn bị ngâm trong nhiệt độ cao liên tục; nguyên nhân số 1 gây vô sinh nam thứ phát. | Đi khám chuyên khoa Nam học; phẫu thuật vi phẫu thắt tĩnh mạch giãn (Microscopic Varicocelectomy) giúp phục hồi sinh sản. |
@@ -75,14 +75,14 @@ Không chỉ có nhiệt độ và hóa chất, nghiên cứu từ **Đại họ
 In human anatomy, nearly every vital organ (heart, brain, liver, ovaries) is protected within bony skeletal cavities. The male testes are suspended externally in a thin cutaneous pouch: the **Scrotum**.
 
 The sole evolutionary driver is **Thermoregulation**:
-- Spermatogenesis is acutely thermosensitive. Germ cell meiotic enzymes function optimally between **$33.5^\circ\text{C}$ and $34.5^\circ\text{C}$**—**$2.5^\circ\text{C}$ to $3.5^\circ\text{C}$ below core body temperature ($37^\circ\text{C}$)**.
+- Spermatogenesis is acutely thermosensitive. Germ cell meiotic enzymes function optimally between **33.5°C and 34.5°C**—**2.5°C to 3.5°C below core body temperature (37°C)**.
 - The **Cremaster** and **Dartos** muscles contract when cold to warm the testes against the perineum, and relax when warm to facilitate convective heat loss.
 
-Sustained elevation to core temperature ($37^\circ\text{C}$) triggers germ cell apoptosis and spikes sperm DNA fragmentation.
+Sustained elevation to core temperature (37°C) triggers germ cell apoptosis and spikes sperm DNA fragmentation.
 
 <figure class="article-inline-diagram">
-  <img src="images/LM_MH_03_figure.jpg" alt="Pampiniform plexus testicular thermoregulation diagram" loading="lazy">
-  <figcaption>📊 <strong>Countercurrent Heat Exchange:</strong> The pampiniform venous plexus cools incoming testicular arterial blood before it reaches the seminiferous tubules. <a href="https://commons.wikimedia.org/wiki/File:Testis_anatomy.svg" target="_blank" rel="noopener">Diagram source: Wikimedia Commons ↗</a></figcaption>
+ <img src="images/LM_MH_03_figure.jpg" alt="Pampiniform plexus testicular thermoregulation diagram" loading="lazy">
+ <figcaption>📊 <strong>Countercurrent Heat Exchange:</strong> The pampiniform venous plexus cools incoming testicular arterial blood before it reaches the seminiferous tubules. <a href="https://commons.wikimedia.org/wiki/File:Testis_anatomy.svg" target="_blank" rel="noopener">Diagram source: Wikimedia Commons ↗</a></figcaption>
 </figure>
 
 ---
@@ -91,7 +91,7 @@ Sustained elevation to core temperature ($37^\circ\text{C}$) triggers germ cell 
 
 | Hazard | Cellular & Endocrine Mechanism | Clinical Impact on Fertility | Prevention |
 | :--- | :--- | :--- | :--- |
-| **Direct Scrotal Heat (Laptops, Saunas, Heated Seats)** | Laptops on the lap elevate scrotal temperature by **$+2.8^\circ\text{C}$** within 60 minutes (**Shefi et al., Fertil Steril**). | Reduces sperm motility by 40%; elevates DNA fragmentation. | Use desks; avoid hot tubs and heated car seats when planning conception. |
+| **Direct Scrotal Heat (Laptops, Saunas, Heated Seats)** | Laptops on the lap elevate scrotal temperature by **+2.8°C** within 60 minutes (**Shefi et al., Fertil Steril**). | Reduces sperm motility by 40%; elevates DNA fragmentation. | Use desks; avoid hot tubs and heated car seats when planning conception. |
 | **Endocrine Disrupting Chemicals (EDCs: BPA & Phthalates)** | Plasticizers mimic estrogen, binding and blocking androgen receptors. | Induces seminiferous tubule atrophy; lowers sperm count. | Never microwave plastics; use stainless steel bottles; choose phthalate-free cosmetics. |
 | **Radiofrequency Radiation (Cell Phones in Front Pocket)** | Continuous RF-EMR emissions and local thermal dissipation. | Meta-analyses report an 8% drop in viable sperm motility. | Keep phones in jacket pockets or bags; switch to airplane mode when feasible. |
 | **Varicocele (Scrotal Varicose Veins)** | Dilated pampiniform veins cause venous blood pooling, breaking the countercurrent cooling radiator. | Causes chronic testicular hyperthermia; leading cause of secondary male infertility. | Consult an andrologist; microscopic varicocelectomy restores fertility parameters. |

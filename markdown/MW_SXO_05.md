@@ -22,8 +22,8 @@ Trong thực tế y khoa, hai hiện tượng này hoàn toàn có thể xảy r
 - *Bằng chứng lâm sàng:* Những bệnh nhân bị tổn thương tủy sống hoặc sau phẫu thuật cắt bỏ tuyến tiền liệt vẫn có thể đạt được cảm giác cực khoái trọn vẹn trong não bộ dù **hoàn toàn không có một giọt tinh dịch nào được phóng ra (Cực khoái khô - Dry Orgasm)**. Ngược lại, một số phản xạ xuất tinh bệnh lý có thể xảy ra mà không hề đem lại bất kỳ khoái cảm nào.
 
 <figure class="article-inline-diagram">
-  <img src="images/DM_MH_01_figure.png" alt="Sơ đồ cơ sàn chậu và cơ chế xuất tinh" loading="lazy">
-  <figcaption>📊 <strong>Giải Phẫu Vận Động Của Sự Xuất Tinh:</strong> Các đợt co bóp nhịp nhàng của cơ hành hang (Bulbospongiosus) và cơ ngồi hang tạo ra áp lực thủy lực tống tinh dịch ra khỏi niệu đạo. <a href="https://commons.wikimedia.org/wiki/File:Pelvic_floor_male.svg" target="_blank" rel="noopener">Nguồn sơ đồ: Wikimedia Commons ↗</a></figcaption>
+ <img src="images/DM_MH_01_figure.png" alt="Sơ đồ cơ sàn chậu và cơ chế xuất tinh" loading="lazy">
+ <figcaption>📊 <strong>Giải Phẫu Vận Động Của Sự Xuất Tinh:</strong> Các đợt co bóp nhịp nhàng của cơ hành hang (Bulbospongiosus) và cơ ngồi hang tạo ra áp lực thủy lực tống tinh dịch ra khỏi niệu đạo. <a href="https://commons.wikimedia.org/wiki/File:Pelvic_floor_male.svg" target="_blank" rel="noopener">Nguồn sơ đồ: Wikimedia Commons ↗</a></figcaption>
 </figure>
 
 ---
@@ -33,12 +33,12 @@ Trong thực tế y khoa, hai hiện tượng này hoàn toàn có thể xảy r
 Khi ngưỡng kích thích tình dục vượt qua điểm giới hạn không thể đảo ngược (**Point of Inevitability**), quá trình xuất tinh diễn ra theo 2 bước tự động:
 
 1. **Giai Đoạn Tiết Tinh (Emission Phase - Thần Kinh Giao Cảm T10–L2):**
-   - Ống dẫn tinh, túi tinh và tuyến tiền liệt co bóp, dồn tinh trùng và dịch tinh tương vào niệu đạo sau.
-   - Cơ thắt cổ bàng quang (Internal Urethral Sphincter) đóng chặt lại để ngăn tinh dịch trào ngược vào bàng quang (ngăn hiện tượng xuất tinh ngược dòng).
-   - Ở khoảnh khắc này, người đàn ông nhận biết rõ rệt cảm giác *"đã đến điểm không thể dừng lại được nữa"*.
+ - Ống dẫn tinh, túi tinh và tuyến tiền liệt co bóp, dồn tinh trùng và dịch tinh tương vào niệu đạo sau.
+ - Cơ thắt cổ bàng quang (Internal Urethral Sphincter) đóng chặt lại để ngăn tinh dịch trào ngược vào bàng quang (ngăn hiện tượng xuất tinh ngược dòng).
+ - Ở khoảnh khắc này, người đàn ông nhận biết rõ rệt cảm giác *"đã đến điểm không thể dừng lại được nữa"*.
 2. **Giai Đoạn Tống Xuất (Expulsion Phase - Thần Kinh Thẹn S2–S4):**
-   - Các xung thần kinh kích hoạt chuỗi co thắt cơ học nhịp nhàng của các cơ sàn chậu, đặc biệt là **Cơ Hành Hang (Bulbospongiosus)**.
-   - Các cơ này co siết theo nhịp điệu sinh học chuẩn xác: **Cách nhau mỗi 0.8 giây trong 5–8 lần co bóp đầu tiên**, tạo ra áp lực tống xuất tinh dịch thành từng đợt ra khỏi lỗ sáo.
+ - Các xung thần kinh kích hoạt chuỗi co thắt cơ học nhịp nhàng của các cơ sàn chậu, đặc biệt là **Cơ Hành Hang (Bulbospongiosus)**.
+ - Các cơ này co siết theo nhịp điệu sinh học chuẩn xác: **Cách nhau mỗi 0.8 giây trong 5–8 lần co bóp đầu tiên**, tạo ra áp lực tống xuất tinh dịch thành từng đợt ra khỏi lỗ sáo.
 
 ---
 
@@ -80,8 +80,8 @@ In clinical medicine, orgasm and ejaculation are neurobiologically independent p
 - *Clinical Reality:* Patients with complete spinal cord injuries or following radical prostatectomy achieve full, ecstatic orgasmic sensation without expelling fluid (**Dry Orgasm**). Conversely, pathological spinal reflexes can trigger ejaculation without orgasmic pleasure.
 
 <figure class="article-inline-diagram">
-  <img src="images/DM_MH_01_figure.png" alt="Pelvic floor anatomy and ejaculatory reflex arc diagram" loading="lazy">
-  <figcaption>📊 <strong>Neuromuscular Ejaculatory Motor Arc:</strong> Rhythmic 0.8-second contractions of the bulbospongiosus and ischiocavernosus muscles generate hydraulic pressure to propel seminal fluid. <a href="https://commons.wikimedia.org/wiki/File:Pelvic_floor_male.svg" target="_blank" rel="noopener">Diagram source: Wikimedia Commons ↗</a></figcaption>
+ <img src="images/DM_MH_01_figure.png" alt="Pelvic floor anatomy and ejaculatory reflex arc diagram" loading="lazy">
+ <figcaption>📊 <strong>Neuromuscular Ejaculatory Motor Arc:</strong> Rhythmic 0.8-second contractions of the bulbospongiosus and ischiocavernosus muscles generate hydraulic pressure to propel seminal fluid. <a href="https://commons.wikimedia.org/wiki/File:Pelvic_floor_male.svg" target="_blank" rel="noopener">Diagram source: Wikimedia Commons ↗</a></figcaption>
 </figure>
 
 ---
@@ -91,12 +91,12 @@ In clinical medicine, orgasm and ejaculation are neurobiologically independent p
 Once erotic stimulation surpasses the **Point of Inevitability**, the spinal reflex fires automatically:
 
 1. **Emission Phase (Sympathetic T10–L2):**
-   - The vas deferens, seminal vesicles, and prostate contract, depositing sperm and seminal plasma into the posterior urethra.
-   - The internal urethral bladder neck sphincter closes tightly to prevent retrograde ejaculation into the bladder.
-   - At this precise instant, the male experiences the unmistakable sensation of ejaculatory inevitability.
+ - The vas deferens, seminal vesicles, and prostate contract, depositing sperm and seminal plasma into the posterior urethra.
+ - The internal urethral bladder neck sphincter closes tightly to prevent retrograde ejaculation into the bladder.
+ - At this precise instant, the male experiences the unmistakable sensation of ejaculatory inevitability.
 2. **Expulsion Phase (Pudendal Nerve S2–S4):**
-   - Motor efferents trigger rhythmic clonic contractions of the perineal striated musculature, specifically the **Bulbospongiosus**.
-   - These muscles fire with metronomic precision: **every 0.8 seconds across the first 5–8 contractions**, forcefully expelling semen.
+ - Motor efferents trigger rhythmic clonic contractions of the perineal striated musculature, specifically the **Bulbospongiosus**.
+ - These muscles fire with metronomic precision: **every 0.8 seconds across the first 5–8 contractions**, forcefully expelling semen.
 
 ---
 

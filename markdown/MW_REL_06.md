@@ -16,23 +16,23 @@
 
 ## Hai Kiểu Hình Ham Muốn: Tự Phát So Với Đáp Ứng
 
-Trong quan niệm truyền thống (theo mô hình của Masters & Johnson), tình dục được coi là một đường thẳng tuyến tính: **Ham muốn $\rightarrow$ Kích thích hưng phấn $\rightarrow$ Cực khoái $\rightarrow$ Thỏa mãn**.
+Trong quan niệm truyền thống (theo mô hình của Masters & Johnson), tình dục được coi là một đường thẳng tuyến tính: **Ham muốn → Kích thích hưng phấn → Cực khoái → Thỏa mãn**.
 Nếu bạn áp dụng mô hình này, bạn sẽ mặc định rằng: một người phải "thèm muốn trong đầu" trước thì mới bắt đầu quan hệ.
 
 Tuy nhiên, công trình đột phá của **Tiến sĩ Rosemary Basson (The Lancet, 2001)** đã chứng minh sự tồn tại của hai cơ chế kích hoạt ham muốn hoàn toàn khác nhau:
 
 1. **Ham Muốn Tự Phát (Spontaneous Desire):**
-   - Giống như cơn đói bụng bất chợt giữa buổi chiều: Bạn đang lái xe, làm việc và bỗng nhiên xuất hiện suy nghĩ khao khát tình dục trong đầu mà không cần tác nhân kích thích nào.
-   - Thường phổ biến hơn ở nam giới trẻ tuổi do nồng độ testosterone tự do và dopamine cao hơn.
+ - Giống như cơn đói bụng bất chợt giữa buổi chiều: Bạn đang lái xe, làm việc và bỗng nhiên xuất hiện suy nghĩ khao khát tình dục trong đầu mà không cần tác nhân kích thích nào.
+ - Thường phổ biến hơn ở nam giới trẻ tuổi do nồng độ testosterone tự do và dopamine cao hơn.
 2. **Ham Muốn Đáp Ứng (Responsive Desire):**
-   - Giống như việc bạn không hề cảm thấy đói bụng, nhưng khi bước vào một nhà hàng ấm cúng, ngửi thấy mùi thơm thức ăn và nếm thử một miếng khai vị ngon lành, bạn bỗng nhiên cảm thấy thèm ăn vô cùng!
-   - Người có ham muốn đáp ứng **không tự nhiên nghĩ đến tình dục trong lúc đang bận rộn với công việc, con cái hay việc nhà**. Nhưng nếu có một bối cảnh an toàn, một màn dạo đầu nhẹ nhàng không áp lực và những cái chạm âu yếm, cơ thể họ sẽ phản ứng và ham muốn thực sự sẽ bùng cháy **SAU KHI sự kích thích đã bắt đầu**!
+ - Giống như việc bạn không hề cảm thấy đói bụng, nhưng khi bước vào một nhà hàng ấm cúng, ngửi thấy mùi thơm thức ăn và nếm thử một miếng khai vị ngon lành, bạn bỗng nhiên cảm thấy thèm ăn vô cùng!
+ - Người có ham muốn đáp ứng **không tự nhiên nghĩ đến tình dục trong lúc đang bận rộn với công việc, con cái hay việc nhà**. Nhưng nếu có một bối cảnh an toàn, một màn dạo đầu nhẹ nhàng không áp lực và những cái chạm âu yếm, cơ thể họ sẽ phản ứng và ham muốn thực sự sẽ bùng cháy **SAU KHI sự kích thích đã bắt đầu**!
 
 Nghiên cứu từ **Tiến sĩ Emily Nagoski** cho thấy: Khoảng **15% nam giới và 30% phụ nữ** có ham muốn chủ yếu là Đáp Ứng; trong khi đa số mọi người là sự pha trộn linh hoạt của cả hai tùy theo độ tuổi và mức độ căng thẳng.
 
 <figure class="article-inline-diagram">
-  <img src="images/DM_SL_02_photo.jpg" alt="Sơ đồ mô hình phản ứng tình dục vòng tròn Basson" loading="lazy">
-  <figcaption>📊 <strong>Vòng Tròn Phản Ứng Tình Dục Basson:</strong> Điểm khởi đầu không phải là ham muốn tự phát, mà là sự cởi mở sẵn lòng (Willingness); từ sự gần gũi cảm xúc dẫn tới kích thích sinh lý, và lúc này ham muốn mới thực sự được đánh thức. <a href="https://commons.wikimedia.org/wiki/File:Basson_sexual_response_cycle.svg" target="_blank" rel="noopener">Nguồn sơ đồ: Wikimedia Commons ↗</a></figcaption>
+ <img src="images/DM_SL_02_photo.jpg" alt="Sơ đồ mô hình phản ứng tình dục vòng tròn Basson" loading="lazy">
+ <figcaption>📊 <strong>Vòng Tròn Phản Ứng Tình Dục Basson:</strong> Điểm khởi đầu không phải là ham muốn tự phát, mà là sự cởi mở sẵn lòng (Willingness); từ sự gần gũi cảm xúc dẫn tới kích thích sinh lý, và lúc này ham muốn mới thực sự được đánh thức. <a href="https://commons.wikimedia.org/wiki/File:Basson_sexual_response_cycle.svg" target="_blank" rel="noopener">Nguồn sơ đồ: Wikimedia Commons ↗</a></figcaption>
 </figure>
 
 ---
@@ -41,7 +41,7 @@ Nghiên cứu từ **Tiến sĩ Emily Nagoski** cho thấy: Khoảng **15% nam g
 
 Khi hai người không hiểu về hai kiểu ham muốn này, họ sẽ rơi vào cái bẫy tâm lý kinh điển làm đóng băng phòng the:
 1. **Người có ham muốn tự phát (thường là người chồng):** Bắt đầu cảm thấy bị bỏ rơi, nghi ngờ sự quyến rũ của mình và liên tục đòi hỏi, gạ gẫm hoặc phàn nàn.
-2. **Người có ham muốn đáp ứng (thường là người vợ):** Cảm thấy tình dục biến thành một "nghĩa vụ phải trả bài", cảm nhận áp lực ngột ngạt $\rightarrow$ Chân phanh thần kinh (SIS) bị đạp kịch sàn $\rightarrow$ Cô ấy né tránh mọi cử chỉ âu yếm nhỏ nhất vì sợ rằng *"nếu mình ôm anh ấy, anh ấy sẽ tưởng mình muốn làm chuyện đó"*.
+2. **Người có ham muốn đáp ứng (thường là người vợ):** Cảm thấy tình dục biến thành một "nghĩa vụ phải trả bài", cảm nhận áp lực ngột ngạt → Chân phanh thần kinh (SIS) bị đạp kịch sàn → Cô ấy né tránh mọi cử chỉ âu yếm nhỏ nhất vì sợ rằng *"nếu mình ôm anh ấy, anh ấy sẽ tưởng mình muốn làm chuyện đó"*.
 3. **Kết quả:** Sự đụng chạm thể xác hoàn toàn biến mất trong ngôi nhà; sự oán hận và cô đơn tích tụ theo năm tháng.
 
 ---
@@ -79,22 +79,22 @@ Khi hai người không hiểu về hai kiểu ham muốn này, họ sẽ rơi v
 
 ## Two Biological Modalities: Spontaneous vs. Responsive Desire
 
-In linear sexual models (Masters & Johnson), desire is framed as a rigid progression: **Desire $\rightarrow$ Arousal $\rightarrow$ Orgasm $\rightarrow$ Resolution**. Under this flawed view, you must crave sex in your mind before engaging physically.
+In linear sexual models (Masters & Johnson), desire is framed as a rigid progression: **Desire → Arousal → Orgasm → Resolution**. Under this flawed view, you must crave sex in your mind before engaging physically.
 
 Seminal research by **Dr. Rosemary Basson (The Lancet, 2001)** shattered this assumption by identifying two distinct biological arousal pathways:
 
 1. **Spontaneous Desire:**
-   - Functions like acute physical hunger: You are driving or working, and unprompted erotic craving strikes out of nowhere.
-   - More common in younger men due to elevated free testosterone and central dopamine tone.
+ - Functions like acute physical hunger: You are driving or working, and unprompted erotic craving strikes out of nowhere.
+ - More common in younger men due to elevated free testosterone and central dopamine tone.
 2. **Responsive Desire:**
-   - Functions like enjoying an exquisite meal when you weren't originally hungry: You enter a warm restaurant, smell gourmet dishes, take a small taste, and suddenly your appetite awakens!
-   - Individuals with responsive desire **rarely experience unprompted erotic thoughts while busy with daily logistics**. However, within a relaxed, emotionally safe context with affectionate touch, their body responds and desire blazes **AFTER sensory priming has already commenced**!
+ - Functions like enjoying an exquisite meal when you weren't originally hungry: You enter a warm restaurant, smell gourmet dishes, take a small taste, and suddenly your appetite awakens!
+ - Individuals with responsive desire **rarely experience unprompted erotic thoughts while busy with daily logistics**. However, within a relaxed, emotionally safe context with affectionate touch, their body responds and desire blazes **AFTER sensory priming has already commenced**!
 
 Data from **Dr. Emily Nagoski** shows that ~**15% of men and 30% of women** possess predominantly Responsive desire, while most exist along a flexible hybrid spectrum.
 
 <figure class="article-inline-diagram">
-  <img src="images/DM_SL_02_photo.jpg" alt="Basson circular model of sexual response diagram" loading="lazy">
-  <figcaption>📊 <strong>The Circular Basson Sexual Cycle:</strong> The starting point is emotional willingness (receptivity); emotional connection transitions into physiological arousal, which subsequently awakens genuine desire. <a href="https://commons.wikimedia.org/wiki/File:Basson_sexual_response_cycle.svg" target="_blank" rel="noopener">Diagram source: Wikimedia Commons ↗</a></figcaption>
+ <img src="images/DM_SL_02_photo.jpg" alt="Basson circular model of sexual response diagram" loading="lazy">
+ <figcaption>📊 <strong>The Circular Basson Sexual Cycle:</strong> The starting point is emotional willingness (receptivity); emotional connection transitions into physiological arousal, which subsequently awakens genuine desire. <a href="https://commons.wikimedia.org/wiki/File:Basson_sexual_response_cycle.svg" target="_blank" rel="noopener">Diagram source: Wikimedia Commons ↗</a></figcaption>
 </figure>
 
 ---
@@ -103,7 +103,7 @@ Data from **Dr. Emily Nagoski** shows that ~**15% of men and 30% of women** poss
 
 Failing to understand these two modalities creates bedroom gridlock:
 1. **The Spontaneous Partner (Often the husband):** Interprets lack of spontaneous initiation as personal rejection, becoming demanding and resentful.
-2. **The Responsive Partner (Often the wife):** Feels sex has devolved into an obligatory chore $\rightarrow$ Inhibitory brakes (SIS) lock down $\rightarrow$ She avoids affectionate hugs fearing that any touch will be interpreted as a sexual green light.
+2. **The Responsive Partner (Often the wife):** Feels sex has devolved into an obligatory chore → Inhibitory brakes (SIS) lock down → She avoids affectionate hugs fearing that any touch will be interpreted as a sexual green light.
 3. **The Result:** Affectionate touch disappears entirely; loneliness and bitter resentment accumulate.
 
 ---

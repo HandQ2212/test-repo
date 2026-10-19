@@ -25,8 +25,8 @@ Suốt nhiều thập kỷ, các giáo trình khoa học thể thao và chương
 Như Tiến sĩ sinh lý học thể thao **Stacy Sims** (cố vấn khoa học cho tính năng **WHOOP Menstrual Cycle Coaching**) từng khẳng định trong câu nói nổi tiếng: *"Phụ nữ không phải là những người đàn ông thu nhỏ."* Khi bạn ép cơ thể tập luyện với khối lượng nặng và cường độ cao ở Tuần 4 của chu kỳ giống hệt như Tuần 2—bất chấp cảnh báo từ chỉ số HRV, Nhịp tim lúc nghỉ (RHR) và nhiệt độ da trên đồng hồ—bạn đang làm tăng nguy cơ **quá tải thần kinh, tăng vọt hormone căng thẳng Cortisol, rối loạn giấc ngủ và Hội chứng thiếu hụt năng lượng tương đối trong thể thao (RED-S)**.
 
 <figure class="article-inline-diagram">
-  <img src="images/DM_WH_01_figure.png" alt="Đường cong định lượng hormone Estradiol, Progesterone, LH và FSH qua các giai đoạn chu kỳ kinh nguyệt" loading="lazy">
-  <figcaption>📊 <strong>Bản Thiết Kế Nội Tiết Cho Phân Kỳ Tập Luyện:</strong> Hãy quan sát cách Estradiol tăng mạnh trong Pha Nang trứng (Ngày 7–14) tạo ra cửa sổ đồng hóa cơ bắp lý tưởng, trong khi Progesterone thống trị Pha Hoàng thể (Ngày 16–26) làm tăng thân nhiệt và thúc đẩy quá trình dị hóa đạm. <a href="https://commons.wikimedia.org/wiki/File:Hormones_estradiol,_progesterone,_LH_and_FSH_during_menstrual_cycle.svg" target="_blank" rel="noopener noreferrer">Original Image Source: Wikimedia Commons ↗</a></figcaption>
+ <img src="images/DM_WH_01_figure.png" alt="Đường cong định lượng hormone Estradiol, Progesterone, LH và FSH qua các giai đoạn chu kỳ kinh nguyệt" loading="lazy">
+ <figcaption>📊 <strong>Bản Thiết Kế Nội Tiết Cho Phân Kỳ Tập Luyện:</strong> Hãy quan sát cách Estradiol tăng mạnh trong Pha Nang trứng (Ngày 7–14) tạo ra cửa sổ đồng hóa cơ bắp lý tưởng, trong khi Progesterone thống trị Pha Hoàng thể (Ngày 16–26) làm tăng thân nhiệt và thúc đẩy quá trình dị hóa đạm. <a href="https://commons.wikimedia.org/wiki/File:Hormones_estradiol,_progesterone,_LH_and_FSH_during_menstrual_cycle.svg" target="_blank" rel="noopener noreferrer">Original Image Source: Wikimedia Commons ↗</a></figcaption>
 </figure>
 
 ---
@@ -36,10 +36,10 @@ Như Tiến sĩ sinh lý học thể thao **Stacy Sims** (cố vấn khoa học 
 Liệu việc sắp xếp lịch tập tạ theo các pha của chu kỳ kinh nguyệt có thực sự giúp tăng cơ và sức mạnh vượt trội hơn? Hai công trình nghiên cứu lâm sàng trọng điểm đã chứng minh điều đó:
 
 1. **Lợi Thế Tăng Cơ Ở Pha Nang Trứng (*Sung et al., SpringerPlus 2014* & *Wikström-Frisén et al., 2017*):** Các nhà khoa học đã tiến hành thử nghiệm đối chứng, trong đó phụ nữ tập luyện một bên chân chủ yếu vào **Pha Nang trứng** (tập tần suất cao ở Tuần 1–2, giảm tải ở Tuần 3–4) và chân còn lại tập chủ yếu vào **Pha Hoàng thể** (tập nhẹ ở Tuần 1–2, tập nặng ở Tuần 3–4) suốt 3 chu kỳ liên tiếp.
-   - **Kết quả ấn tượng:** Nhóm tập sức mạnh tập trung vào Pha Nang trứng đạt **mức tăng lực co cơ tứ đầu đùi tối đa cao hơn vượt trội (+42% so với +17%)**, đường kính mặt cắt ngang sợi cơ lớn hơn và mật độ nhân tế bào cơ cao hơn hẳn so với tập nặng ở Pha Hoàng thể!
+ - **Kết quả ấn tượng:** Nhóm tập sức mạnh tập trung vào Pha Nang trứng đạt **mức tăng lực co cơ tứ đầu đùi tối đa cao hơn vượt trội (+42% so với +17%)**, đường kính mặt cắt ngang sợi cơ lớn hơn và mật độ nhân tế bào cơ cao hơn hẳn so với tập nặng ở Pha Hoàng thể!
 2. **Vì Sao Estrogen Có Tính Đồng Hóa (Xây Dựng) Còn Progesterone Có Tính Dị Hóa (Phân Giải)?**
-   - **Estradiol (Thống trị Pha Nang trứng):** Kích hoạt tế bào vệ tinh cơ xương, tăng độ nhạy Insulin, đẩy nhanh tốc độ nạp Glycogen vào cơ và hoạt động như một chất chống oxy hóa tự nhiên giúp giảm đau nhức cơ khởi phát muộn (DOMS) sau tập.
-   - **Progesterone (Thống trị Pha Hoàng thể):** Làm tăng **quá trình oxy hóa axit amin và dị hóa protein** (khiến cơ thể cần nhiều đạm hơn chỉ để giữ cơ), làm tăng nhiệt độ lõi thêm `+0.3°C đến +0.5°C`, đồng thời làm giảm khoảng ~8% thể tích huyết tương trong máu.
+ - **Estradiol (Thống trị Pha Nang trứng):** Kích hoạt tế bào vệ tinh cơ xương, tăng độ nhạy Insulin, đẩy nhanh tốc độ nạp Glycogen vào cơ và hoạt động như một chất chống oxy hóa tự nhiên giúp giảm đau nhức cơ khởi phát muộn (DOMS) sau tập.
+ - **Progesterone (Thống trị Pha Hoàng thể):** Làm tăng **quá trình oxy hóa axit amin và dị hóa protein** (khiến cơ thể cần nhiều đạm hơn chỉ để giữ cơ), làm tăng nhiệt độ lõi thêm `+0.3°C đến +0.5°C`, đồng thời làm giảm khoảng ~8% thể tích huyết tương trong máu.
 
 ---
 
@@ -106,8 +106,8 @@ For decades, exercise science textbooks and gym training programs were built aro
 As exercise physiologist **Dr. Stacy Sims** (scientific advisor to **WHOOP Menstrual Cycle Coaching**) famously put it: *"Women are not small men."* When you push through the exact same high-volume, high-heat workouts indiscriminately in Week 4 of your cycle as you do in Week 2—ignoring what your wearable's HRV, Resting Heart Rate, and skin temperature are telling you—you increase the risk of **overreaching, elevated cortisol, sleep disruption, and Relative Energy Deficiency in Sport (RED-S)**.
 
 <figure class="article-inline-diagram">
-  <img src="images/DM_WH_01_figure.png" alt="Quantitative hormone curves of Estradiol, Progesterone, LH, and FSH across the menstrual cycle" loading="lazy">
-  <figcaption>📊 <strong>The Endocrine Blueprint for Periodization:</strong> Notice how Estradiol climbs unchecked during the Follicular Phase (Days 7–14) to create a prime anabolic window, whereas Progesterone dominates the Luteal Phase (Days 16–26), raising core temperature and protein breakdown. <a href="https://commons.wikimedia.org/wiki/File:Hormones_estradiol,_progesterone,_LH_and_FSH_during_menstrual_cycle.svg" target="_blank" rel="noopener noreferrer">Original Image Source: Wikimedia Commons ↗</a></figcaption>
+ <img src="images/DM_WH_01_figure.png" alt="Quantitative hormone curves of Estradiol, Progesterone, LH, and FSH across the menstrual cycle" loading="lazy">
+ <figcaption>📊 <strong>The Endocrine Blueprint for Periodization:</strong> Notice how Estradiol climbs unchecked during the Follicular Phase (Days 7–14) to create a prime anabolic window, whereas Progesterone dominates the Luteal Phase (Days 16–26), raising core temperature and protein breakdown. <a href="https://commons.wikimedia.org/wiki/File:Hormones_estradiol,_progesterone,_LH_and_FSH_during_menstrual_cycle.svg" target="_blank" rel="noopener noreferrer">Original Image Source: Wikimedia Commons ↗</a></figcaption>
 </figure>
 
 ---
@@ -117,10 +117,10 @@ As exercise physiologist **Dr. Stacy Sims** (scientific advisor to **WHOOP Menst
 Does aligning your resistance training with your menstrual phases actually build more muscle and strength? Two pivotal bodies of clinical research say yes:
 
 1. **The Follicular Hypertrophy Advantage (*Sung et al., SpringerPlus 2014* & *Wikström-Frisén et al., 2017*):** Researchers conducted a controlled trial where women trained one leg predominantly during the **Follicular Phase** (high sessions in Weeks 1–2, low maintenance in Weeks 3–4) and the other leg predominantly during the **Luteal Phase** (low in Weeks 1–2, high in Weeks 3–4) over three menstrual cycles.
-   - **The Results:** Follicular-phase-dominated strength training produced **significantly greater increases in maximal isometric quadriceps force (+42% vs. +17%)**, larger muscle fiber cross-sectional diameter, and higher myonuclei-to-fiber ratios than luteal-dominated training!
+ - **The Results:** Follicular-phase-dominated strength training produced **significantly greater increases in maximal isometric quadriceps force (+42% vs. +17%)**, larger muscle fiber cross-sectional diameter, and higher myonuclei-to-fiber ratios than luteal-dominated training!
 2. **Why Estrogen Is Anabolic & Progesterone Is Catabolic:**
-   - **Estradiol (Follicular Dominant):** Stimulates skeletal muscle satellite cell activation, enhances insulin sensitivity, facilitates rapid glycogen storage, and acts as a natural antioxidant that reduces post-workout delayed-onset muscle soreness (DOMS).
-   - **Progesterone (Luteal Dominant):** Increases **amino acid oxidation and protein catabolism** (requiring more dietary protein just to maintain muscle tissue), blunts central nervous system motor drive under fatigue, raises core temperature by `+0.3°C to +0.5°C`, and reduces blood plasma volume by ~8%.
+ - **Estradiol (Follicular Dominant):** Stimulates skeletal muscle satellite cell activation, enhances insulin sensitivity, facilitates rapid glycogen storage, and acts as a natural antioxidant that reduces post-workout delayed-onset muscle soreness (DOMS).
+ - **Progesterone (Luteal Dominant):** Increases **amino acid oxidation and protein catabolism** (requiring more dietary protein just to maintain muscle tissue), blunts central nervous system motor drive under fatigue, raises core temperature by `+0.3°C to +0.5°C`, and reduces blood plasma volume by ~8%.
 
 ---
 

@@ -24,8 +24,8 @@ Công trình kinh điển của **Giáo sư Tom F. Lue (New England Journal of M
 4. **Giai Đoạn Khóa Tĩnh Mạch (Venocclusion - The Hydraulic Lock):** Khi các khoang thể hang căng đầy máu, chúng ép chặt các tiểu tĩnh mạch nằm sát dưới lớp màng bao xơ dày (**Tunica Albuginea - Màng trắng**). Hiện tượng này khóa chặt đường máu thoát về tim, duy trì áp lực nội thể hang lên tới **100–120 mmHg** (tương đương huyết áp tâm thu), tạo nên độ cứng hoàn hảo để quan hệ.
 
 <figure class="article-inline-diagram">
-  <img src="images/DM_MH_01_figure.png" alt="Sơ đồ giải phẫu thể hang và cơ chế khóa tĩnh mạch" loading="lazy">
-  <figcaption>📊 <strong>Giải Phẫu Học Thể Hang:</strong> Cơ chế khóa tĩnh mạch (Veno-occlusive mechanism) dựa vào độ đàn hồi của màng trắng; nếu cơ trơn không giãn đủ, van khóa sẽ rò rỉ máu khiến độ cương bị xìu nhanh chóng. <a href="https://commons.wikimedia.org/wiki/File:Erection_mechanism.svg" target="_blank" rel="noopener">Nguồn sơ đồ: Wikimedia Commons ↗</a></figcaption>
+ <img src="images/DM_MH_01_figure.png" alt="Sơ đồ giải phẫu thể hang và cơ chế khóa tĩnh mạch" loading="lazy">
+ <figcaption>📊 <strong>Giải Phẫu Học Thể Hang:</strong> Cơ chế khóa tĩnh mạch (Veno-occlusive mechanism) dựa vào độ đàn hồi của màng trắng; nếu cơ trơn không giãn đủ, van khóa sẽ rò rỉ máu khiến độ cương bị xìu nhanh chóng. <a href="https://commons.wikimedia.org/wiki/File:Erection_mechanism.svg" target="_blank" rel="noopener">Nguồn sơ đồ: Wikimedia Commons ↗</a></figcaption>
 </figure>
 
 ---
@@ -82,8 +82,8 @@ Seminal work by **Dr. Tom F. Lue (New England Journal of Medicine)** separated t
 4. **Venocclusion (The Hydraulic Lock):** Engorging sinusoids compress the subtunical venular plexus against the rigid outer collagen sleeve (**Tunica Albuginea**), trapping blood and elevating intracavernosal pressure to **100–120 mmHg** (matching systolic pressure).
 
 <figure class="article-inline-diagram">
-  <img src="images/DM_MH_01_figure.png" alt="Erection hemodynamics and veno-occlusion diagram" loading="lazy">
-  <figcaption>📊 <strong>Veno-Occlusive Anatomy:</strong> Rigidity depends on complete sinusoidal expansion compressing venules against the tunica; incomplete smooth muscle relaxation allows blood leakage, collapsing hardness. <a href="https://commons.wikimedia.org/wiki/File:Erection_mechanism.svg" target="_blank" rel="noopener">Diagram source: Wikimedia Commons ↗</a></figcaption>
+ <img src="images/DM_MH_01_figure.png" alt="Erection hemodynamics and veno-occlusion diagram" loading="lazy">
+ <figcaption>📊 <strong>Veno-Occlusive Anatomy:</strong> Rigidity depends on complete sinusoidal expansion compressing venules against the tunica; incomplete smooth muscle relaxation allows blood leakage, collapsing hardness. <a href="https://commons.wikimedia.org/wiki/File:Erection_mechanism.svg" target="_blank" rel="noopener">Diagram source: Wikimedia Commons ↗</a></figcaption>
 </figure>
 
 ---

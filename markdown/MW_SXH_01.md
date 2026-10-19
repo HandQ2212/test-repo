@@ -23,8 +23,8 @@ Testosterone ở nam giới không phải là một hằng số bất biến. C�
 Chính vì lý do này, hướng dẫn thực hành lâm sàng quốc tế (**Bhasin et al., JCEM**) quy định: **Mọi xét nghiệm chẩn đoán Testosterone đều phải được lấy mẫu máu vào buổi sáng (trước 10:00 AM) sau một giấc ngủ ngon tối thiểu 7 tiếng**. Đo testosterone vào buổi chiều sẽ dẫn đến kết luận chẩn đoán sai lệch về bệnh suy sinh dục!
 
 <figure class="article-inline-diagram">
-  <img src="images/DM_SL_02_figure.png" alt="Sơ đồ nhịp sinh học hormone 24 giờ" loading="lazy">
-  <figcaption>📊 <strong>Động Học Testosterone 24 Giờ:</strong> Đỉnh nội tiết buổi sáng là lý do sinh lý giải thích vì sao nam giới thường cảm thấy tràn đầy sinh lực và có hiện tượng cương cứng tự nhiên khi thức dậy. <a href="https://commons.wikimedia.org/wiki/File:Biological_clock_human.svg" target="_blank" rel="noopener">Nguồn sơ đồ: Wikimedia Commons ↗</a></figcaption>
+ <img src="images/DM_SL_02_figure.png" alt="Sơ đồ nhịp sinh học hormone 24 giờ" loading="lazy">
+ <figcaption>📊 <strong>Động Học Testosterone 24 Giờ:</strong> Đỉnh nội tiết buổi sáng là lý do sinh lý giải thích vì sao nam giới thường cảm thấy tràn đầy sinh lực và có hiện tượng cương cứng tự nhiên khi thức dậy. <a href="https://commons.wikimedia.org/wiki/File:Biological_clock_human.svg" target="_blank" rel="noopener">Nguồn sơ đồ: Wikimedia Commons ↗</a></figcaption>
 </figure>
 
 ---
@@ -36,7 +36,7 @@ Khi đi vào dòng máu, Testosterone không thể tự do di chuyển một mì
 2. **30% – 38% gắn lỏng lẻo với Albumin:** Dạng này có thể tách rời dễ dàng khi đến mô cơ quan (gọi chung với Free T là **Bioavailable Testosterone - Testosterone khả dụng sinh học**).
 3. **Chỉ 1% – 2% tồn tại ở dạng Testosterone Tự Do (Free Testosterone):** Đây là dạng hormone duy nhất hoàn toàn tự do, mang lại tác dụng kích thích ham muốn, phát triển cơ bắp, đốt mỡ và điều hòa tâm trạng.
 
-*Ví dụ điển hình:* Một người đàn ông có Total T rất cao ($750\text{ ng/dL}$) nhưng nếu nồng độ SHBG quá cao, chỉ số Free T chỉ còn $5\text{ pg/mL}$, anh ta vẫn sẽ gặp phải toàn bộ các triệu chứng của người bị suy giảm testosterone trầm trọng!
+*Ví dụ điển hình:* Một người đàn ông có Total T rất cao (750 ng/dL) nhưng nếu nồng độ SHBG quá cao, chỉ số Free T chỉ còn 5 pg/mL, anh ta vẫn sẽ gặp phải toàn bộ các triệu chứng của người bị suy giảm testosterone trầm trọng!
 
 ---
 
@@ -82,8 +82,8 @@ Male testosterone is not a static constant. The human body synthesizes androgens
 Consequently, international clinical guidelines (**Bhasin et al., JCEM**) mandate: **All diagnostic testosterone evaluations must be drawn early in the morning (strictly before 10:00 AM) after a minimum of 7 hours of restorative sleep**. An afternoon blood draw produces a falsely depressed value that can lead to misdiagnosed hypogonadism!
 
 <figure class="article-inline-diagram">
-  <img src="images/DM_SL_02_figure.png" alt="24-hour circadian hormone rhythm diagram" loading="lazy">
-  <figcaption>📊 <strong>Circadian Androgen Dynamics:</strong> The morning endocrine surge provides the biological explanation for peak morning alertness, vigor, and spontaneous nocturnal erections. <a href="https://commons.wikimedia.org/wiki/File:Biological_clock_human.svg" target="_blank" rel="noopener">Diagram source: Wikimedia Commons ↗</a></figcaption>
+ <img src="images/DM_SL_02_figure.png" alt="24-hour circadian hormone rhythm diagram" loading="lazy">
+ <figcaption>📊 <strong>Circadian Androgen Dynamics:</strong> The morning endocrine surge provides the biological explanation for peak morning alertness, vigor, and spontaneous nocturnal erections. <a href="https://commons.wikimedia.org/wiki/File:Biological_clock_human.svg" target="_blank" rel="noopener">Diagram source: Wikimedia Commons ↗</a></figcaption>
 </figure>
 
 ---
@@ -95,7 +95,7 @@ Once entering the bloodstream, testosterone cannot travel alone; it binds to car
 2. **30% – 38% Binds Loosely to Albumin:** Can easily dissociate at target tissues (combined with Free T, this fraction is termed **Bioavailable Testosterone**).
 3. **Only 1% – 2% Circulates as Unbound Free Testosterone:** This tiny unbound fraction is the sole biological driver of libido, muscle protein synthesis, lipolysis, and neural drive.
 
-*Clinical Example:* A man may possess a respectable Total T of $750\text{ ng/dL}$, but if elevated SHBG leaves him with an anemic Free T of $5\text{ pg/mL}$, he will suffer all the debilitating clinical symptoms of severe hypogonadism!
+*Clinical Example:* A man may possess a respectable Total T of 750 ng/dL, but if elevated SHBG leaves him with an anemic Free T of 5 pg/mL, he will suffer all the debilitating clinical symptoms of severe hypogonadism!
 
 ---
 

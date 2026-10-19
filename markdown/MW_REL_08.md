@@ -22,8 +22,8 @@ Trong một nghiên cứu tâm lý học - sinh học thần kinh được tríc
 - **Mất Khả Năng Thấu Cảm (Empathic Inaccuracy):** Người thiếu ngủ bị suy giảm nghiêm trọng khả năng đọc chính xác biểu cảm vi mô trên gương mặt của bạn đời. Khi đối phương thể hiện vẻ mặt mệt mỏi hoặc trầm tư, người thiếu ngủ thường diễn giải sai lệch thành: *"Cô ấy đang khinh thường mình"* hoặc *"Anh ta đang chống đối mình"*.
 
 <figure class="article-inline-diagram">
-  <img src="images/LM_SL_01_figure.jpg" alt="Sơ đồ mạch thần kinh thùy trán và hạch hạnh nhân khi thiếu ngủ" loading="lazy">
-  <figcaption>📊 <strong>Đứt Gãy Kết Nối Thần Kinh (Fronto-Amygdalar Decoupling):</strong> Khi thiếu ngủ, hạch hạnh nhân (trung tâm cảm xúc nguyên thủy) hoạt động quá mức 60%, trong khi vỏ não trước trán mất hoàn toàn khả năng phanh hãm lý trí. <a href="https://commons.wikimedia.org/wiki/File:Sleep_Hypnogram.svg" target="_blank" rel="noopener">Nguồn sơ đồ: Wikimedia Commons ↗</a></figcaption>
+ <img src="images/LM_SL_01_figure.jpg" alt="Sơ đồ mạch thần kinh thùy trán và hạch hạnh nhân khi thiếu ngủ" loading="lazy">
+ <figcaption>📊 <strong>Đứt Gãy Kết Nối Thần Kinh (Fronto-Amygdalar Decoupling):</strong> Khi thiếu ngủ, hạch hạnh nhân (trung tâm cảm xúc nguyên thủy) hoạt động quá mức 60%, trong khi vỏ não trước trán mất hoàn toàn khả năng phanh hãm lý trí. <a href="https://commons.wikimedia.org/wiki/File:Sleep_Hypnogram.svg" target="_blank" rel="noopener">Nguồn sơ đồ: Wikimedia Commons ↗</a></figcaption>
 </figure>
 
 ---
@@ -75,8 +75,8 @@ In an influential neuro-behavioral study by **Gordon & Chen (Social Psychologica
 - **Empathic Inaccuracy:** Sleep debt severely impairs facial micro-expression recognition. Sleep-deprived partners systematically misinterpret neutral facial expressions as hostile, condescending, or rebellious threats.
 
 <figure class="article-inline-diagram">
-  <img src="images/LM_SL_01_figure.png" alt="Fronto-amygdalar decoupling under sleep deprivation diagram" loading="lazy">
-  <figcaption>📊 <strong>Fronto-Amygdalar Disconnect:</strong> Sleep deprivation triggers a 60% hyper-reactivity surge in the primitive amygdala while severing inhibitory prefrontal emotional governance. <a href="https://commons.wikimedia.org/wiki/File:Sleep_Hypnogram.svg" target="_blank" rel="noopener">Diagram source: Wikimedia Commons ↗</a></figcaption>
+ <img src="images/LM_SL_01_figure.png" alt="Fronto-amygdalar decoupling under sleep deprivation diagram" loading="lazy">
+ <figcaption>📊 <strong>Fronto-Amygdalar Disconnect:</strong> Sleep deprivation triggers a 60% hyper-reactivity surge in the primitive amygdala while severing inhibitory prefrontal emotional governance. <a href="https://commons.wikimedia.org/wiki/File:Sleep_Hypnogram.svg" target="_blank" rel="noopener">Diagram source: Wikimedia Commons ↗</a></figcaption>
 </figure>
 
 ---

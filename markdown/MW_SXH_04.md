@@ -22,12 +22,12 @@ Trong sinh lý học thần kinh, hoạt động tình dục nam giới được
 
 Khi bạn bước vào phòng ngủ với tâm trạng căng thẳng, lo âu về công việc hoặc nỗi sợ "mình có làm đối tác thất vọng không?", hạch hạnh nhân (Amygdala) sẽ phát tín hiệu báo động đỏ, kích hoạt **cường giao cảm (Sympathetic Overdrive)**:
 - Hormone **Adrenaline và Noradrenaline** được bơm ồ ạt vào máu.
-- Các thụ thể $\alpha_1$-adrenergic tại tiểu động mạch thể hang bị kích hoạt mạnh mẽ, gây **co thắt mạch máu hang tức thì**. Dòng máu bị chặn lại, áp lực xìu xuống ngay lập tức.
+- Các thụ thể α₁-adrenergic tại tiểu động mạch thể hang bị kích hoạt mạnh mẽ, gây **co thắt mạch máu hang tức thì**. Dòng máu bị chặn lại, áp lực xìu xuống ngay lập tức.
 - Nếu không xìu hoàn toàn, cường giao cảm sẽ kích hoạt sớm trung tâm xuất tinh tại tủy sống L1–L2, dẫn đến hiện tượng **xuất tinh sớm do lo âu**.
 
 <figure class="article-inline-diagram">
-  <img src="images/LM_HW_01_figure.png" alt="Sơ đồ hệ thần kinh tự chủ giao cảm và phó giao cảm" loading="lazy">
-  <figcaption>📊 <strong>Sự Đối Nghịch Của Hệ Thần Kinh Tự Chủ:</strong> Adrenaline từ phản ứng stress phong tỏa trực tiếp các mạch máu nhỏ ở vùng hạ bộ, ưu tiên bơm máu lên các khối cơ lớn để chạy trốn mối nguy. <a href="https://commons.wikimedia.org/wiki/File:Autonomic_Nervous_System.svg" target="_blank" rel="noopener">Nguồn sơ đồ: Wikimedia Commons ↗</a></figcaption>
+ <img src="images/LM_HW_01_figure.png" alt="Sơ đồ hệ thần kinh tự chủ giao cảm và phó giao cảm" loading="lazy">
+ <figcaption>📊 <strong>Sự Đối Nghịch Của Hệ Thần Kinh Tự Chủ:</strong> Adrenaline từ phản ứng stress phong tỏa trực tiếp các mạch máu nhỏ ở vùng hạ bộ, ưu tiên bơm máu lên các khối cơ lớn để chạy trốn mối nguy. <a href="https://commons.wikimedia.org/wiki/File:Autonomic_Nervous_System.svg" target="_blank" rel="noopener">Nguồn sơ đồ: Wikimedia Commons ↗</a></figcaption>
 </figure>
 
 ---
@@ -58,7 +58,7 @@ Tâm lý lo âu hiệu suất thường vận hành theo một vòng xoắn bệ
 
 ## Giao Thức 4 Bước Hóa Giải Căng Thẳng Phòng The
 
-1. **Nhịp Thở Sinh Lý "Physiological Sigh" Trước Khi Quan Hệ:** Thực hiện 3–5 chu kỳ thở: **Hít vào sâu 2 lần liên tiếp bằng mũi (1 hít dài + 1 hít ngắn bổ sung) $\rightarrow$ Thở ra từ từ bằng miệng kéo dài 6–8 giây**. Đây là biện pháp nhanh nhất được chứng minh kích hoạt dây thần kinh phế vị, đưa nhịp tim hạ xuống và chuyển quyền điều khiển cho hệ phó giao cảm trong vòng 90 giây.
+1. **Nhịp Thở Sinh Lý "Physiological Sigh" Trước Khi Quan Hệ:** Thực hiện 3–5 chu kỳ thở: **Hít vào sâu 2 lần liên tiếp bằng mũi (1 hít dài + 1 hít ngắn bổ sung) → Thở ra từ từ bằng miệng kéo dài 6–8 giây**. Đây là biện pháp nhanh nhất được chứng minh kích hoạt dây thần kinh phế vị, đưa nhịp tim hạ xuống và chuyển quyền điều khiển cho hệ phó giao cảm trong vòng 90 giây.
 2. **Áp Dụng Kỹ Thuật "Tập Trung Cảm Giác" (Sensate Focus):** Thống nhất với bạn đời trong 1–2 tuần chỉ âu yếm, vuốt ve, massage da thịt mà **tuyệt đối không quan hệ xâm nhập**. Khi áp lực "phải cương cứng" được gỡ bỏ 100%, hệ giao cảm sẽ tự động lắng xuống và sự cương cứng tự nhiên sẽ quay trở lại.
 3. **Theo Dõi Chỉ Số Biến Thiên Nhịp Tim (HRV) Hàng Ngày:** Khi HRV ở mức thấp và điểm Stress Score trên thiết bị đeo ở mức cao, hãy ưu tiên nghỉ ngơi, đi bộ hòa mình vào thiên nhiên hoặc ngâm nước ấm thay vì cố gắng quan hệ gượng ép.
 4. **Bổ Sung 200–400mg L-Theanine & Ashwagandha:** L-Theanine kích thích sóng não alpha tạo trạng thái tỉnh táo thư giãn, trong khi Ashwagandha hỗ trợ làm dịu trục HPA và hạ thấp cortisol nền.
@@ -84,12 +84,12 @@ In neurophysiology, male sexual function is remembered by a classic mnemonic: **
 
 Entering intimacy under stress, career dread, or fear of failure activates **sympathetic overdrive**:
 - Catecholamines (**Adrenaline and Noradrenaline**) flood systemic circulation.
-- $\alpha_1$-adrenergic receptors in cavernosal arterioles forcefully contract, triggering **instant vasoconstriction**. Blood flow is choked off, collapsing rigidity immediately.
+- α₁-adrenergic receptors in cavernosal arterioles forcefully contract, triggering **instant vasoconstriction**. Blood flow is choked off, collapsing rigidity immediately.
 - If not completely flaccid, sympathetic hyperactivity prematurely triggers the spinal ejaculatory generator, causing **anxiety-induced premature ejaculation**.
 
 <figure class="article-inline-diagram">
-  <img src="images/LM_HW_01_figure.png" alt="Autonomic nervous system sympathetic and parasympathetic diagram" loading="lazy">
-  <figcaption>📊 <strong>Autonomic Antagonism:</strong> Stress-induced adrenaline directly constricts penile microvasculature, diverting cardiac output away from pelvic organs to skeletal muscles. <a href="https://commons.wikimedia.org/wiki/File:Autonomic_Nervous_System.svg" target="_blank" rel="noopener">Diagram source: Wikimedia Commons ↗</a></figcaption>
+ <img src="images/LM_HW_01_figure.png" alt="Autonomic nervous system sympathetic and parasympathetic diagram" loading="lazy">
+ <figcaption>📊 <strong>Autonomic Antagonism:</strong> Stress-induced adrenaline directly constricts penile microvasculature, diverting cardiac output away from pelvic organs to skeletal muscles. <a href="https://commons.wikimedia.org/wiki/File:Autonomic_Nervous_System.svg" target="_blank" rel="noopener">Diagram source: Wikimedia Commons ↗</a></figcaption>
 </figure>
 
 ---
@@ -114,7 +114,7 @@ Research by **Chrousos et al. (Nature Reviews Endocrinology)** demonstrated that
 
 ## 4-Step Practical Protocol for Deactivating Performance Anxiety
 
-1. **Deploy the Physiological Sigh:** Execute 3–5 cycles: **Double inhale through the nose (one long, one sharp top-up) $\rightarrow$ Slow 6–8s mouth exhale**. Activates the vagus nerve and shifts governance to the parasympathetic system in 90 seconds.
+1. **Deploy the Physiological Sigh:** Execute 3–5 cycles: **Double inhale through the nose (one long, one sharp top-up) → Slow 6–8s mouth exhale**. Activates the vagus nerve and shifts governance to the parasympathetic system in 90 seconds.
 2. **Implement Sensate Focus Therapy:** Agree with your partner to engage in sensual touch and massage for 1–2 weeks with **intercourse strictly off the table**. Removing performance pressure naturally restores spontaneous erection.
 3. **Check Daily HRV Trends:** When HRV is suppressed and Stress Scores flag continuous strain, prioritize restorative walks or warm baths rather than forcing intimacy.
 4. **Supplement L-Theanine and Ashwagandha:** L-Theanine stimulates alpha brain waves promoting relaxed alertness, while Ashwagandha buffers HPA reactivity and tempers baseline cortisol.

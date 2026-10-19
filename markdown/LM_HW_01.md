@@ -25,8 +25,8 @@ Khi người dùng lần đầu nhìn thấy **Điểm Quản Lý Căng Thẳng 
 Câu trả lời nằm ở giải phẫu thần kinh học: **bộ não của bạn không thể trải qua cảm giác căng thẳng tâm lý, lo âu vì tiến độ công việc hay sự phấn khích tột độ mà không phát đi một tín hiệu điện học và nội tiết tức thì thông qua Hệ Thần kinh Tự chủ (ANS)**. Chỉ vài giây sau khi nhận diện một áp lực—dù là một pha phanh gấp ngoài đường hay một tin nhắn khẩn từ cấp trên—vùng dưới đồi (hypothalamus) sẽ kích hoạt **trục Giao cảm – Tủy thượng thận (SAM)**, làm thay đổi nhịp đập trái tim, độ co mạch máu ngoại vi và tuyến mồ hôi từ rất lâu trước khi bạn kịp nhận ra hai vai mình đang gồng cứng.
 
 <figure class="article-inline-diagram">
-  <img src="images/LM_HW_01_figure.png" alt="Sơ đồ giải phẫu hệ thần kinh tự chủ giao cảm và đối giao cảm" loading="lazy">
-  <figcaption>📊 <strong>Mạng Lưới Thần Kinh Đằng Sau Cảm Biến Căng Thẳng:</strong> Cách các sợi thần kinh Giao cảm chi phối trực tiếp tim, tủy thượng thận và tuyến mồ hôi ngoại tiết (eccrine) trong khi dây thần kinh Phế vị (Đối giao cảm) mang lại sự thư giãn. <a href="https://commons.wikimedia.org/wiki/File:Autonomic_and_Somatic_Nervous_System.png" target="_blank" rel="noopener">Nguồn hình ảnh gốc: Wikimedia Commons ↗</a></figcaption>
+ <img src="images/LM_HW_01_figure.png" alt="Sơ đồ giải phẫu hệ thần kinh tự chủ giao cảm và đối giao cảm" loading="lazy">
+ <figcaption>📊 <strong>Mạng Lưới Thần Kinh Đằng Sau Cảm Biến Căng Thẳng:</strong> Cách các sợi thần kinh Giao cảm chi phối trực tiếp tim, tủy thượng thận và tuyến mồ hôi ngoại tiết (eccrine) trong khi dây thần kinh Phế vị (Đối giao cảm) mang lại sự thư giãn. <a href="https://commons.wikimedia.org/wiki/File:Autonomic_and_Somatic_Nervous_System.png" target="_blank" rel="noopener">Nguồn hình ảnh gốc: Wikimedia Commons ↗</a></figcaption>
 </figure>
 
 ---
@@ -92,8 +92,8 @@ When users first see a **Stress Management Score** (on **Fitbit**), **Daytime St
 The answer lies in neuroanatomy: **your brain cannot experience acute psychological stress, deadline anxiety, or excitement without broadcasting an immediate electrical and hormonal signal through your Autonomic Nervous System (ANS)**. Within seconds of perceiving a threat—whether a near-miss in traffic or a tense Slack message from your manager—your hypothalamus activates the **Sympathetic-Adreno-Medullary (SAM) axis**, altering your heartbeat, peripheral blood vessels, and sweat glands long before you consciously notice your shoulders tensing up.
 
 <figure class="article-inline-diagram">
-  <img src="images/LM_HW_01_figure.png" alt="Autonomic and Somatic Nervous System Anatomical Pathways" loading="lazy">
-  <figcaption>📊 <strong>The Autonomic Wiring Behind Wearable Stress Tracking:</strong> How Sympathetic nerve fibers innervate the heart, adrenal medulla, and eccrine sweat glands while Parasympathetic Vagus pathways restore calm. <a href="https://commons.wikimedia.org/wiki/File:Autonomic_and_Somatic_Nervous_System.png" target="_blank" rel="noopener">Original Image Source: Wikimedia Commons ↗</a></figcaption>
+ <img src="images/LM_HW_01_figure.png" alt="Autonomic and Somatic Nervous System Anatomical Pathways" loading="lazy">
+ <figcaption>📊 <strong>The Autonomic Wiring Behind Wearable Stress Tracking:</strong> How Sympathetic nerve fibers innervate the heart, adrenal medulla, and eccrine sweat glands while Parasympathetic Vagus pathways restore calm. <a href="https://commons.wikimedia.org/wiki/File:Autonomic_and_Somatic_Nervous_System.png" target="_blank" rel="noopener">Original Image Source: Wikimedia Commons ↗</a></figcaption>
 </figure>
 
 ---

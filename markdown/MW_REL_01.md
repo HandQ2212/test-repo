@@ -22,8 +22,8 @@ Tại Viện Nghiên cứu Gottman (Seattle), các nhà tâm lý học đã gắ
 - Ngược lại, ở những cặp đôi **tiến dần đến bờ vực tan vỡ**: Tỷ lệ này tụt xuống mức **0.8 : 1**—nghĩa là số lượng lời chỉ trích, miệt thị nhiều hơn cả những cử chỉ yêu thương.
 
 <figure class="article-inline-diagram">
-  <img src="images/LM_HW_01_figure.png" alt="Sơ đồ tương tác thần kinh giao cảm và gắn kết" loading="lazy">
-  <figcaption>📊 <strong>Hiện Tượng Ngập Lụt Cảm Xúc (Flooding):</strong> Khi nhịp tim vượt ngưỡng 100 bpm, vỏ não trước trán bị phong tỏa, nhường quyền kiểm soát cho phản ứng chiến đấu của hạch hạnh nhân. <a href="https://commons.wikimedia.org/wiki/File:Autonomic_Nervous_System.svg" target="_blank" rel="noopener">Nguồn sơ đồ: Wikimedia Commons ↗</a></figcaption>
+ <img src="images/LM_HW_01_figure.png" alt="Sơ đồ tương tác thần kinh giao cảm và gắn kết" loading="lazy">
+ <figcaption>📊 <strong>Hiện Tượng Ngập Lụt Cảm Xúc (Flooding):</strong> Khi nhịp tim vượt ngưỡng 100 bpm, vỏ não trước trán bị phong tỏa, nhường quyền kiểm soát cho phản ứng chiến đấu của hạch hạnh nhân. <a href="https://commons.wikimedia.org/wiki/File:Autonomic_Nervous_System.svg" target="_blank" rel="noopener">Nguồn sơ đồ: Wikimedia Commons ↗</a></figcaption>
 </figure>
 
 ---
@@ -77,8 +77,8 @@ At the Gottman Institute in Seattle, psychologists wired couples to heart monito
 - In **couples heading toward divorce**: The ratio drops to **0.8 : 1**—meaning critical, contemptuous exchanges actively outnumber moments of kindness.
 
 <figure class="article-inline-diagram">
-  <img src="images/LM_HW_01_figure.png" alt="Autonomic nervous system and social engagement diagram" loading="lazy">
-  <figcaption>📊 <strong>Physiological Flooding Mechanics:</strong> When heart rate surpasses 100 bpm during conflict, prefrontal empathy decouples, surrendering behavioral control to the primal amygdala. <a href="https://commons.wikimedia.org/wiki/File:Autonomic_Nervous_System.svg" target="_blank" rel="noopener">Diagram source: Wikimedia Commons ↗</a></figcaption>
+ <img src="images/LM_HW_01_figure.png" alt="Autonomic nervous system and social engagement diagram" loading="lazy">
+ <figcaption>📊 <strong>Physiological Flooding Mechanics:</strong> When heart rate surpasses 100 bpm during conflict, prefrontal empathy decouples, surrendering behavioral control to the primal amygdala. <a href="https://commons.wikimedia.org/wiki/File:Autonomic_Nervous_System.svg" target="_blank" rel="noopener">Diagram source: Wikimedia Commons ↗</a></figcaption>
 </figure>
 
 ---

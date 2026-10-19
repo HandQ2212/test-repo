@@ -29,8 +29,8 @@ Dưới đây là chuỗi phản ứng dây chuyền 3 bước về mặt cơ si
 3. **Hội Chứng Chèn Ép Ống Alcock (Bẫy Thần Kinh & Động Mạch Thẹn):** Toàn bộ lượng máu động mạch làm đầy dương vật đều phải đi qua **Động mạch thẹn trong (Internal Pudendal Artery)** song hành cùng **Dây thần kinh thẹn (Pudendal Nerve)** xuyên qua một đường hầm cân cơ hẹp nằm sát cơ bịt trong gọi là **Ống Alcock (Pudendal Canal)**. Áp lực ngồi đè trực tiếp lên đáy chậu cộng hưởng với cơ bịt trong căng cứng và nhóm cơ khép đùi co rút sẽ bóp nghẹt ống Alcock—làm giảm **Vận tốc dòng chảy tâm thu đỉnh (Peak Systolic Velocity — PSV)** đổ vào động mạch xoắn dương vật và làm tê giảm độ nhạy cảm giác sinh dục.
 
 <figure class="article-inline-diagram">
-  <img src="images/DM_MH_02_figure.png" alt="Giải phẫu cơ mặt trước khớp hông và đai chậu Iliopsoas và Adductors" loading="lazy">
-  <figcaption>📊 <strong>Ngã Tư Cân Cơ Vùng Hông – Chậu:</strong> Mối tương quan giải phẫu giữa phức hợp cơ Thắt lưng – Chậu (Psoas Major và Iliacus), cơ Lược (Pectineus) và nhóm cơ Khép đùi (Adductors) bắc qua eo chậu và mặt trước khớp hông. <a href="https://commons.wikimedia.org/wiki/File:Anterior_Hip_Muscles_2.PNG" target="_blank" rel="noopener noreferrer">Original Image Source: Wikimedia Commons ↗</a></figcaption>
+ <img src="images/DM_MH_02_figure.png" alt="Giải phẫu cơ mặt trước khớp hông và đai chậu Iliopsoas và Adductors" loading="lazy">
+ <figcaption>📊 <strong>Ngã Tư Cân Cơ Vùng Hông – Chậu:</strong> Mối tương quan giải phẫu giữa phức hợp cơ Thắt lưng – Chậu (Psoas Major và Iliacus), cơ Lược (Pectineus) và nhóm cơ Khép đùi (Adductors) bắc qua eo chậu và mặt trước khớp hông. <a href="https://commons.wikimedia.org/wiki/File:Anterior_Hip_Muscles_2.PNG" target="_blank" rel="noopener noreferrer">Original Image Source: Wikimedia Commons ↗</a></figcaption>
 </figure>
 
 ---
@@ -63,18 +63,18 @@ Khi một nhóm cơ đang bị khóa chặt ở trạng thái co rút ngắn do 
 Hãy thực hiện chuỗi 4 bài tập giải phóng mạch máu này vào mỗi buổi chiều tối ngay sau khi kết thúc giờ làm việc trên bàn giấy—và **trước khi** bước vào bài tập Kegel buổi tối của bạn:
 
 1. **Bài Tập 1 — Cầu Mông Động "Bơm Máu Động Mạch" (90 Giây / 15 Nhịp):**
-   - Nằm ngửa trên thảm, hai đầu gối gập, hai bàn chân đặt phẳng rộng bằng hông.
-   - Đạp lực qua hai gót chân để nâng hông lên cao cho đến khi đầu gối, hông và vai tạo thành một đường thẳng chéo.
-   - Siết chặt **cơ mông** trong `2 giây` ở vị trí cao nhất trong khi vẫn giữ sàn chậu thư giãn, sau đó hạ xuống chậm rãi. Bài tập này đánh thức các sợi cơ mông đang ngủ quên, mở mặt trước bao khớp hông và bơm dòng máu động mạch giàu oxy dồn vào động mạch chậu trong và động mạch thẹn.
+ - Nằm ngửa trên thảm, hai đầu gối gập, hai bàn chân đặt phẳng rộng bằng hông.
+ - Đạp lực qua hai gót chân để nâng hông lên cao cho đến khi đầu gối, hông và vai tạo thành một đường thẳng chéo.
+ - Siết chặt **cơ mông** trong `2 giây` ở vị trí cao nhất trong khi vẫn giữ sàn chậu thư giãn, sau đó hạ xuống chậm rãi. Bài tập này đánh thức các sợi cơ mông đang ngủ quên, mở mặt trước bao khớp hông và bơm dòng máu động mạch giàu oxy dồn vào động mạch chậu trong và động mạch thẹn.
 2. **Bài Tập 2 — Chùng Chân Quỳ Gối Giải Phóng Cơ Iliopsoas (60 Giây Mỗi Bên):**
-   - Quỳ một gối phải xuống thảm, bàn chân trái bước lên trước tạo góc 90 độ.
-   - Trước khi đẩy người ra trước, hãy **cuộn nhẹ xương cụt xuống dưới (`đổ chậu sau`)** bằng cách siết nhẹ cơ mông phải, sau đó mới dịch chuyển hông về phía trước `5 đến 7 cm` cho đến khi cảm nhận lực căng sâu, êm ái dọc mặt trước khớp hông và bẹn phải. Hít thở chậm trong `60 giây` rồi đổi bên.
+ - Quỳ một gối phải xuống thảm, bàn chân trái bước lên trước tạo góc 90 độ.
+ - Trước khi đẩy người ra trước, hãy **cuộn nhẹ xương cụt xuống dưới (`đổ chậu sau`)** bằng cách siết nhẹ cơ mông phải, sau đó mới dịch chuyển hông về phía trước `5 đến 7 cm` cho đến khi cảm nhận lực căng sâu, êm ái dọc mặt trước khớp hông và bẹn phải. Hít thở chậm trong `60 giây` rồi đổi bên.
 3. **Bài Tập 3 — Ngồi Xổm Sâu Mở Khớp Háng Yogi Squat (60 Giây):**
-   - Đứng hai chân rộng hơn vai một chút, mũi chân xoay chếch ra ngoài `30 đến 45 độ`.
-   - Hạ thấp hông xuống giữa hai cổ chân vào tư thế ngồi xổm sâu thư giãn (có thể vịn nhẹ vào khung cửa hoặc kê một chiếc khăn gấp dưới gót chân nếu cổ chân cứng). Dùng hai khuỷu tay đẩy nhẹ mặt trong hai đầu gối ra ngoài trong khi thực hiện **6 hơi thở bụng thật sâu**, cảm nhận cửa ra của khung chậu mở rộng tối đa.
+ - Đứng hai chân rộng hơn vai một chút, mũi chân xoay chếch ra ngoài `30 đến 45 độ`.
+ - Hạ thấp hông xuống giữa hai cổ chân vào tư thế ngồi xổm sâu thư giãn (có thể vịn nhẹ vào khung cửa hoặc kê một chiếc khăn gấp dưới gót chân nếu cổ chân cứng). Dùng hai khuỷu tay đẩy nhẹ mặt trong hai đầu gối ra ngoài trong khi thực hiện **6 hơi thở bụng thật sâu**, cảm nhận cửa ra của khung chậu mở rộng tối đa.
 4. **Bài Tập 4 — Nằm Ngửa Ôm Gối Ngực / Happy Baby Giãn Mở Đáy Chậu (90 Giây):**
-   - Nằm ngửa thoải mái, kéo hai đầu gối mở rộng hướng về phía hai bên nách, hai tay ôm lấy mặt sau đùi hoặc nắm lấy cạnh ngoài bàn chân.
-   - Hít sâu qua mũi xuống bụng dưới, chủ động cảm nhận xương cụt và vùng đáy chậu **giãn dài và mở mềm ra hoàn toàn (`Kegel Ngược`)**. Ngay sau khi hoàn tất 6 phút này, hệ thống mạch máu vùng chậu của bạn đã được giải phóng hoàn toàn và sẵn sàng cho sự phục hồi tối ưu.
+ - Nằm ngửa thoải mái, kéo hai đầu gối mở rộng hướng về phía hai bên nách, hai tay ôm lấy mặt sau đùi hoặc nắm lấy cạnh ngoài bàn chân.
+ - Hít sâu qua mũi xuống bụng dưới, chủ động cảm nhận xương cụt và vùng đáy chậu **giãn dài và mở mềm ra hoàn toàn (`Kegel Ngược`)**. Ngay sau khi hoàn tất 6 phút này, hệ thống mạch máu vùng chậu của bạn đã được giải phóng hoàn toàn và sẵn sàng cho sự phục hồi tối ưu.
 
 ---
 
@@ -104,8 +104,8 @@ Here is the three-part biomechanical chain reaction that occurs when your hips r
 3. **Alcock's Canal Compression (Pudendal Entrapment):** All arterial blood that fills the penis travels through the **Internal Pudendal Artery** alongside the **Pudendal Nerve** inside a narrow fascial tunnel along the obturator internus muscle called **Alcock's Canal (Pudendal Canal)**. Chronic sitting pressure combined with a tight obturator internus and shortened adductors squeezes Alcock's canal—reducing **Peak Systolic Velocity (PSV)** into the penile helicine arteries and dulling genital nerve sensitivity.
 
 <figure class="article-inline-diagram">
-  <img src="images/DM_MH_02_figure.png" alt="Anterior Hip and Pelvic Musculature Iliopsoas and Adductors" loading="lazy">
-  <figcaption>📊 <strong>The Hip-Pelvic Myofascial Crossroads:</strong> Anatomical relationship between the Iliopsoas (Psoas Major and Iliacus), Pectineus, and Adductor muscles spanning the pelvic brim and anterior hip joint. <a href="https://commons.wikimedia.org/wiki/File:Anterior_Hip_Muscles_2.PNG" target="_blank" rel="noopener noreferrer">Original Image Source: Wikimedia Commons ↗</a></figcaption>
+ <img src="images/DM_MH_02_figure.png" alt="Anterior Hip and Pelvic Musculature Iliopsoas and Adductors" loading="lazy">
+ <figcaption>📊 <strong>The Hip-Pelvic Myofascial Crossroads:</strong> Anatomical relationship between the Iliopsoas (Psoas Major and Iliacus), Pectineus, and Adductor muscles spanning the pelvic brim and anterior hip joint. <a href="https://commons.wikimedia.org/wiki/File:Anterior_Hip_Muscles_2.PNG" target="_blank" rel="noopener noreferrer">Original Image Source: Wikimedia Commons ↗</a></figcaption>
 </figure>
 
 ---
@@ -138,18 +138,18 @@ When a muscle is locked in a shortened, hypertonic contracture from sitting all 
 Perform this 4-exercise vascular decompression sequence every afternoon or evening right after finishing desk work—and **before** doing your evening Kegel routine:
 
 1. **Exercise 1 — Dynamic Glute Bridge "Arterial Blood Pump" (90 Seconds / 15 Reps):**
-   - Lie on your back with knees bent and feet flat on the floor, hip-width apart.
-   - Drive through your heels to lift your hips until your knees, hips, and shoulders form a straight diagonal line.
-   - Squeeze your **glutes** firmly for `2 seconds` at the top while keeping your pelvic floor relaxed, then lower slowly. This wakes up dormant gluteal fibers, opens the front of the hip capsule, and pumps fresh arterial blood into the internal iliac and pudendal arteries.
+ - Lie on your back with knees bent and feet flat on the floor, hip-width apart.
+ - Drive through your heels to lift your hips until your knees, hips, and shoulders form a straight diagonal line.
+ - Squeeze your **glutes** firmly for `2 seconds` at the top while keeping your pelvic floor relaxed, then lower slowly. This wakes up dormant gluteal fibers, opens the front of the hip capsule, and pumps fresh arterial blood into the internal iliac and pudendal arteries.
 2. **Exercise 2 — Half-Kneeling Iliopsoas Decompression Lunge (60 Seconds Per Side):**
-   - Kneel on your right knee with your left foot planted forward at 90 degrees.
-   - Before leaning forward, **tuck your tailbone slightly under (`posterior pelvic tilt`)** by squeezing your right glute, then shift your hips forward `2 to 3 inches` until you feel a deep, clean stretch down the front of your right hip and groin. Breathe slowly for `60 seconds`, then switch sides.
+ - Kneel on your right knee with your left foot planted forward at 90 degrees.
+ - Before leaning forward, **tuck your tailbone slightly under (`posterior pelvic tilt`)** by squeezing your right glute, then shift your hips forward `2 to 3 inches` until you feel a deep, clean stretch down the front of your right hip and groin. Breathe slowly for `60 seconds`, then switch sides.
 3. **Exercise 3 — Deep Yogi Squat / Horse Stance Groin Opener (60 Seconds):**
-   - Stand with feet slightly wider than shoulder-width, toes turned outward at `30 to 45 degrees`.
-   - Sink your hips down between your ankles into a deep resting squat (hold onto a doorframe or place a folded towel under your heels if your ankles are tight). Use your elbows to gently press your inner knees outward while taking **6 deep belly breaths**, feeling the pelvic outlet widen.
+ - Stand with feet slightly wider than shoulder-width, toes turned outward at `30 to 45 degrees`.
+ - Sink your hips down between your ankles into a deep resting squat (hold onto a doorframe or place a folded towel under your heels if your ankles are tight). Use your elbows to gently press your inner knees outward while taking **6 deep belly breaths**, feeling the pelvic outlet widen.
 4. **Exercise 4 — Supine Knee-to-Chest / Happy Baby Perineal Release (90 Seconds):**
-   - Lie flat on your back, draw both knees wide toward your armpits, and hold the backs of your thighs or the outsides of your feet.
-   - Inhale deeply through your nose into your lower belly, consciously feeling your tailbone and perineum **lengthen and melt open (`Reverse Kegel`)**. Once this 6-minute flow is complete, your pelvic blood vessels are decompressed and primed for peak recovery.
+ - Lie flat on your back, draw both knees wide toward your armpits, and hold the backs of your thighs or the outsides of your feet.
+ - Inhale deeply through your nose into your lower belly, consciously feeling your tailbone and perineum **lengthen and melt open (`Reverse Kegel`)**. Once this 6-minute flow is complete, your pelvic blood vessels are decompressed and primed for peak recovery.
 
 ---
 

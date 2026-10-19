@@ -25,8 +25,8 @@ Khi bạn mở mục **Cardio Fitness Score** trên **Fitbit**, **Apple Health**
 Về mặt y khoa lâm sàng, **VO₂ Max** (*Mức Hấp thụ Oxy Tối đa*) là thể tích oxy tối đa mà cơ thể bạn có thể hít vào qua phổi, được tâm thất trái bơm vào dòng máu, và được các ti thể trong cơ xương chiết xuất để tạo năng lượng trong lúc vận động hiếu khí hết sức. Năm 2016, **Hiệp hội Tim mạch Hoa Kỳ (AHA)** đã công bố tuyên bố khoa học chính thức công nhận thể lực tim phổi (`VO₂ Max`) là một **dấu hiệu sinh tồn lâm sàng (clinical vital sign)**—quan trọng không kém việc đo huyết áp hay xét nghiệm mỡ máu trong mỗi lần khám sức khỏe định kỳ.
 
 <figure class="article-inline-diagram">
-  <img src="images/LM_HW_02_figure.jpg" alt="Đo lường VO2 Max tiêu chuẩn vàng bằng phương pháp Ergospirometry trong phòng thí nghiệm" loading="lazy">
-  <figcaption>📊 <strong>Đo Hô Hấp Gắng Sức Tiêu Chuẩn Vàng (Ergospirometry / CPET):</strong> Cách hệ thống phân tích khí thở trong phòng thí nghiệm đo mức tiêu thụ oxy qua từng nhịp thở (VO₂ Max)—và cách đồng hồ thông minh tích hợp GPS + cảm biến quang học PPG tái hiện phép đo này với độ chính xác 92%–95% khi bạn đi bộ hoặc chạy bộ ngoài trời. <a href="https://commons.wikimedia.org/wiki/File:Ergospirometry_laboratory.jpg" target="_blank" rel="noopener">Nguồn hình ảnh gốc: Wikimedia Commons ↗</a></figcaption>
+ <img src="images/LM_HW_02_figure.jpg" alt="Đo lường VO2 Max tiêu chuẩn vàng bằng phương pháp Ergospirometry trong phòng thí nghiệm" loading="lazy">
+ <figcaption>📊 <strong>Đo Hô Hấp Gắng Sức Tiêu Chuẩn Vàng (Ergospirometry / CPET):</strong> Cách hệ thống phân tích khí thở trong phòng thí nghiệm đo mức tiêu thụ oxy qua từng nhịp thở (VO₂ Max)—và cách đồng hồ thông minh tích hợp GPS + cảm biến quang học PPG tái hiện phép đo này với độ chính xác 92%–95% khi bạn đi bộ hoặc chạy bộ ngoài trời. <a href="https://commons.wikimedia.org/wiki/File:Ergospirometry_laboratory.jpg" target="_blank" rel="noopener">Nguồn hình ảnh gốc: Wikimedia Commons ↗</a></figcaption>
 </figure>
 
 ---
@@ -82,10 +82,10 @@ Trong một thử nghiệm lâm sàng nổi tiếng công bố trên *Medicine &
 
 1. **Trụ Cột 1 — Mở Rộng Ti Thể Ngoại Vi Với 3 Buổi Zone 2 Mỗi Tuần (150–180 Phút):** Thực hiện 3 buổi tập kéo dài 45–60 phút ở nhịp độ trò chuyện Zone 2 (`60%–70% HRmax`) để mở rộng mạng lưới mao mạch và tăng khả năng rút oxy `(a − v)O₂` của ti thể.
 2. **Trụ Cột 2 — Tăng Thể Tích Nhát Bóp Của Tim Với 1 Buổi "Biến Tốc Na Uy 4×4" Mỗi Tuần:**
-   - **Khởi động (Warm-Up):** 10 phút chạy nhẹ, đạp xe hoặc chèo thuyền ở vùng Zone 2.
-   - **4 Hiệp Chạy Nhanh (Mỗi Hiệp 4 Phút ở 88%–95% HRmax):** Duy trì tốc độ nhanh, mạnh mẽ và ổn định—nơi bạn thở sâu, gấp và không thể nói trọn câu (ranh giới Zone 4/5) suốt **4 phút trọn vẹn**.
-   - **Phục Hồi Chủ Động Giữa Các Hiệp (3 Phút ở 60%–70% HRmax):** Giảm tốc độ xuống đi bộ nhanh hoặc đạp xe nhẹ nhàng trong **3 phút** để nhịp tim hạ về vùng Zone 2.
-   - **Lặp Lại Đủ 4 Tổ Liên Tiếp** (tổng cộng 28 phút biến tốc), sau đó thả lỏng 5 phút.
+ - **Khởi động (Warm-Up):** 10 phút chạy nhẹ, đạp xe hoặc chèo thuyền ở vùng Zone 2.
+ - **4 Hiệp Chạy Nhanh (Mỗi Hiệp 4 Phút ở 88%–95% HRmax):** Duy trì tốc độ nhanh, mạnh mẽ và ổn định—nơi bạn thở sâu, gấp và không thể nói trọn câu (ranh giới Zone 4/5) suốt **4 phút trọn vẹn**.
+ - **Phục Hồi Chủ Động Giữa Các Hiệp (3 Phút ở 60%–70% HRmax):** Giảm tốc độ xuống đi bộ nhanh hoặc đạp xe nhẹ nhàng trong **3 phút** để nhịp tim hạ về vùng Zone 2.
+ - **Lặp Lại Đủ 4 Tổ Liên Tiếp** (tổng cộng 28 phút biến tốc), sau đó thả lỏng 5 phút.
 3. **Tối Ưu Hóa Mẫu Số Cân Nặng (`kg` Mỡ Thừa):** Vì đơn vị của VO₂ Max được chia cho mỗi kilôgam trọng lượng cơ thể (`mL/kg/phút`), việc giảm `3 đến 5 kg` mỡ nội tạng dư thừa trong khi giữ vững khối lượng cơ nạc sẽ lập tức nâng điểm VO₂ Max thực tế của bạn lên thêm `2 đến 4 điểm`!
 
 ---
@@ -112,8 +112,8 @@ When you open the **Cardio Fitness Score** on **Fitbit**, **Apple Health**, **Ou
 Clinically, **VO₂ Max** (*Maximal Oxygen Uptake*) is the maximum volume of oxygen your body can inhale through the lungs, pump into the bloodstream via the left ventricle, and extract inside your skeletal muscle mitochondria during all-out aerobic exertion. In 2016, the **American Heart Association (AHA)** published an official scientific statement declaring cardiorespiratory fitness (`VO₂ Max`) a **clinical vital sign**—just as essential to check at every medical visit as blood pressure or cholesterol.
 
 <figure class="article-inline-diagram">
-  <img src="images/LM_HW_02_figure.jpg" alt="Clinical Ergospirometry Laboratory VO2 Max Testing" loading="lazy">
-  <figcaption>📊 <strong>Gold-Standard Ergospirometry (CPET):</strong> How laboratory metabolic carts measure breath-by-breath oxygen consumption (VO₂ Max)—and how modern GPS + optical PPG smartwatches replicate this assessment within 92%–95% accuracy during outdoor walks and runs. <a href="https://commons.wikimedia.org/wiki/File:Ergospirometry_laboratory.jpg" target="_blank" rel="noopener">Original Image Source: Wikimedia Commons ↗</a></figcaption>
+ <img src="images/LM_HW_02_figure.jpg" alt="Clinical Ergospirometry Laboratory VO2 Max Testing" loading="lazy">
+ <figcaption>📊 <strong>Gold-Standard Ergospirometry (CPET):</strong> How laboratory metabolic carts measure breath-by-breath oxygen consumption (VO₂ Max)—and how modern GPS + optical PPG smartwatches replicate this assessment within 92%–95% accuracy during outdoor walks and runs. <a href="https://commons.wikimedia.org/wiki/File:Ergospirometry_laboratory.jpg" target="_blank" rel="noopener">Original Image Source: Wikimedia Commons ↗</a></figcaption>
 </figure>
 
 ---
@@ -169,10 +169,10 @@ In a landmark clinical trial published in *Medicine & Science in Sports & Exerci
 
 1. **Pillar 1 — Build Peripheral Mitochondria with 3× Weekly Zone 2 (150–180 Mins):** Perform 3 sessions of 45–60 minutes at conversational Zone 2 (`60%–70% HRmax`) to expand capillary beds and mitochondrial `(a − v)O₂` oxygen extraction.
 2. **Pillar 2 — Expand Cardiac Stroke Volume with 1× Weekly "Norwegian 4×4 Intervals":**
-   - **Warm-Up:** 10 minutes of easy Zone 2 jogging, cycling, or rowing.
-   - **4 Work Intervals (4 Minutes Each at 88%–95% HRmax):** Push at a hard, sustainable pace where you are breathing heavily and cannot speak full sentences (Zone 4/5 border) for **4 full minutes**.
-   - **Active Recovery Between Intervals (3 Minutes at 60%–70% HRmax):** Slow down to an easy walk or light pedal for **3 minutes** so your heart rate drops back toward Zone 2.
-   - **Repeat for 4 Total Rounds** (28 minutes of interval work), then cool down for 5 minutes.
+ - **Warm-Up:** 10 minutes of easy Zone 2 jogging, cycling, or rowing.
+ - **4 Work Intervals (4 Minutes Each at 88%–95% HRmax):** Push at a hard, sustainable pace where you are breathing heavily and cannot speak full sentences (Zone 4/5 border) for **4 full minutes**.
+ - **Active Recovery Between Intervals (3 Minutes at 60%–70% HRmax):** Slow down to an easy walk or light pedal for **3 minutes** so your heart rate drops back toward Zone 2.
+ - **Repeat for 4 Total Rounds** (28 minutes of interval work), then cool down for 5 minutes.
 3. **Optimize the Denominator (`kg` Body Composition):** Because VO₂ Max is expressed *per kilogram of body weight* (`mL/kg/min`), losing `3 to 5 kg` of excess visceral fat while preserving lean muscle mass immediately elevates your functional VO₂ Max score by `2 to 4 points`!
 
 ---

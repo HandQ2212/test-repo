@@ -16,7 +16,7 @@
 
 ## Cuộc Khủng Hoảng Vô Sinh Nam Giới & Con Số 74 Ngày Kỷ Diệu
 
-Phân tích tổng hợp từ hơn **185 nghiên cứu trên 42.935 nam giới** của **Levine et al. (Human Reproduction Update, 2017)** đã gióng lên hồi chuông báo động: Mật độ tinh trùng trung bình của nam giới phương Tây đã giảm từ $99\text{ triệu/mL}$ (năm 1973) xuống chỉ còn **$47\text{ triệu/mL}$ (năm 2011)**—tốc độ sụt giảm $1.4\%/\text{năm}$.
+Phân tích tổng hợp từ hơn **185 nghiên cứu trên 42.935 nam giới** của **Levine et al. (Human Reproduction Update, 2017)** đã gióng lên hồi chuông báo động: Mật độ tinh trùng trung bình của nam giới phương Tây đã giảm từ 99 triệu/mL (năm 1973) xuống chỉ còn **47 triệu/mL (năm 2011)**—tốc độ sụt giảm 1.4%/năm.
 
 Tuy nhiên, có một tin vui tuyệt vời từ góc độ sinh học tế bào:
 - Toàn bộ quá trình tạo ra một thế hệ tinh trùng mới (**Spermatogenesis**) từ tế bào mầm tinh nguyên bào, trải qua quá trình giảm phân, đóng gói chromatin và mọc đuôi roi kéo dài trung bình **74 ngày**.
@@ -25,8 +25,8 @@ Tuy nhiên, có một tin vui tuyệt vời từ góc độ sinh học tế bào
 Điều này có nghĩa là: **Những gì bạn ăn, uống, hít thở và tập luyện trong 3 tháng hôm nay sẽ quyết định 100% chất lượng của những chú tinh binh chào đời sau 90 ngày nữa!**
 
 <figure class="article-inline-diagram">
-  <img src="images/LM_MH_03_figure.jpg" alt="Sơ đồ chu kỳ sinh tinh 74 ngày" loading="lazy">
-  <figcaption>📊 <strong>Tiến Trình Sinh Tinh Học:</strong> Màng tế bào tinh trùng chứa nồng độ axit béo không bão hòa đa (PUFA) cực cao, khiến chúng trở thành miếng mồi ngon cho stress oxy hóa nếu thiếu vi chất bảo vệ. <a href="https://commons.wikimedia.org/wiki/File:Spermatogenesis.svg" target="_blank" rel="noopener">Nguồn sơ đồ: Wikimedia Commons ↗</a></figcaption>
+ <img src="images/LM_MH_03_figure.jpg" alt="Sơ đồ chu kỳ sinh tinh 74 ngày" loading="lazy">
+ <figcaption>📊 <strong>Tiến Trình Sinh Tinh Học:</strong> Màng tế bào tinh trùng chứa nồng độ axit béo không bão hòa đa (PUFA) cực cao, khiến chúng trở thành miếng mồi ngon cho stress oxy hóa nếu thiếu vi chất bảo vệ. <a href="https://commons.wikimedia.org/wiki/File:Spermatogenesis.svg" target="_blank" rel="noopener">Nguồn sơ đồ: Wikimedia Commons ↗</a></figcaption>
 </figure>
 
 ---
@@ -37,11 +37,11 @@ Khi thực hiện xét nghiệm Tinh dịch đồ (Semen Analysis), các tiêu c
 
 | Chỉ Số Tinh Dịch | Mức Chuẩn Bình Thường Của WHO (Ngưỡng 5th Percentile) | Ý Nghĩa Chức Năng Sinh Học |
 | :--- | :--- | :--- |
-| **Thể tích tinh dịch (Volume)** | **$\ge 1.4\text{ mL}$** | Thể hiện chức năng tiết dịch của túi tinh và tuyến tiền liệt. |
-| **Mật độ tinh trùng (Concentration)** | **$\ge 16\text{ triệu tinh trùng/mL}$** (Tổng số $\ge 39$ triệu/lần xuất tinh) | Đảm bảo đủ số lượng vượt qua môi trường axit của âm đạo. |
-| **Độ di động tiến tới (Progressive Motility)** | **$\ge 30\%$** (Tổng di động PR + NP $\ge 42\%$) | Tinh trùng có khả năng bơi thẳng về phía trước để tiếp cận ống dẫn trứng. |
-| **Hình thái bình thường (Normal Morphology)** | **$\ge 4\%$** (Theo tiêu chuẩn nghiêm ngặt Kruger) | Tinh trùng có đầu hình oval hoàn hảo, thân thẳng và đuôi đơn để xuyên qua vỏ trứng. |
-| **Chỉ số đứt gãy DNA (DFI - DNA Fragmentation)** | **$< 15\%$** (Tối ưu) / Nguy cơ cao nếu $>25\%$ | Phản ánh tính toàn vẹn của bộ gen; DFI cao gây sảy thai liên tiếp hoặc thất bại IVF. |
+| **Thể tích tinh dịch (Volume)** | **≥ 1.4 mL** | Thể hiện chức năng tiết dịch của túi tinh và tuyến tiền liệt. |
+| **Mật độ tinh trùng (Concentration)** | **≥ 16 triệu tinh trùng/mL** (Tổng số ≥ 39 triệu/lần xuất tinh) | Đảm bảo đủ số lượng vượt qua môi trường axit của âm đạo. |
+| **Độ di động tiến tới (Progressive Motility)** | **≥ 30%** (Tổng di động PR + NP ≥ 42%) | Tinh trùng có khả năng bơi thẳng về phía trước để tiếp cận ống dẫn trứng. |
+| **Hình thái bình thường (Normal Morphology)** | **≥ 4%** (Theo tiêu chuẩn nghiêm ngặt Kruger) | Tinh trùng có đầu hình oval hoàn hảo, thân thẳng và đuôi đơn để xuyên qua vỏ trứng. |
+| **Chỉ số đứt gãy DNA (DFI - DNA Fragmentation)** | **< 15%** (Tối ưu) / Nguy cơ cao nếu >25% | Phản ánh tính toàn vẹn của bộ gen; DFI cao gây sảy thai liên tiếp hoặc thất bại IVF. |
 
 ---
 
@@ -57,7 +57,7 @@ Khi thực hiện xét nghiệm Tinh dịch đồ (Semen Analysis), các tiêu c
 ## Giao Thức 90 Ngày "Tái Sinh Tinh Trùng" Chuẩn Y Khoa
 
 1. **Tuân Thủ Liệu Trình Tối Thiểu 90 Ngày:** Tuyệt đối không nản lòng sau vài tuần. Hãy duy trì phác đồ bổ sung liên tục đủ 3 tháng để bao trọn một chu kỳ sinh tinh hoàn chỉnh.
-2. **Hạ Nhiệt Độ Vùng Kín (Scrotal Cooling):** Nhiệt độ bìu bắt buộc phải thấp hơn thân nhiệt **2°C đến 4°C** ($33.5^\circ\text{C} – 34.5^\circ\text{C}$). Tránh xa bồn tắm nước nóng, xông hơi sauna, không đặt laptop trực tiếp lên đùi và mặc quần lót cotton thoáng rộng.
+2. **Hạ Nhiệt Độ Vùng Kín (Scrotal Cooling):** Nhiệt độ bìu bắt buộc phải thấp hơn thân nhiệt **2°C đến 4°C** (33.5°C – 34.5°C). Tránh xa bồn tắm nước nóng, xông hơi sauna, không đặt laptop trực tiếp lên đùi và mặc quần lót cotton thoáng rộng.
 3. **Cắt Giảm Độc Tố Môi Trường:** Ngừng hút thuốc lá và vaping (nicotine và cadmium phá hủy cấu trúc tinh trùng); hạn chế uống rượu bia; chọn thực phẩm hữu cơ để tránh thuốc trừ sâu gốc clo hữu cơ.
 4. **Kiểm Tra Lại Tinh Dịch Đồ Sau 3 Tháng:** Làm lại xét nghiệm tại các trung tâm hỗ trợ sinh sản uy tín sau 3–5 ngày kiêng xuất tinh để đánh giá sự cải thiện về mật độ và độ dị động.
 
@@ -76,7 +76,7 @@ Khi thực hiện xét nghiệm Tinh dịch đồ (Semen Analysis), các tiêu c
 
 ## The Male Infertility Crisis & The 74-Day Spermatogenic Cycle
 
-A global meta-analysis of **185 studies across 42,935 men** by **Levine et al. (Human Reproduction Update, 2017)** revealed that average sperm counts plunged from $99\text{ million/mL}$ in 1973 to just **$47\text{ million/mL}$ in 2011**—a $1.4\%/\text{year}$ decline.
+A global meta-analysis of **185 studies across 42,935 men** by **Levine et al. (Human Reproduction Update, 2017)** revealed that average sperm counts plunged from 99 million/mL in 1973 to just **47 million/mL in 2011**—a 1.4%/year decline.
 
 However, cellular biology offers tremendous hope:
 - The entire process of generating new mature spermatozoa (**Spermatogenesis**) from spermatogonial stem cells through meiosis, chromatin compaction, and flagellar growth takes approximately **74 days**.
@@ -85,8 +85,8 @@ However, cellular biology offers tremendous hope:
 This biological reality means: **Your nutrition, hydration, sleep, and lifestyle choices over the past 3 months determine the viability of the sperm you produce today!**
 
 <figure class="article-inline-diagram">
-  <img src="images/LM_MH_03_figure.jpg" alt="Spermatogenesis 74-day timeline diagram" loading="lazy">
-  <figcaption>📊 <strong>Spermatogenic Maturation:</strong> High polyunsaturated fatty acid content renders sperm cell membranes uniquely vulnerable to oxidative reactive oxygen species without antioxidant cofactors. <a href="https://commons.wikimedia.org/wiki/File:Spermatogenesis.svg" target="_blank" rel="noopener">Diagram source: Wikimedia Commons ↗</a></figcaption>
+ <img src="images/LM_MH_03_figure.jpg" alt="Spermatogenesis 74-day timeline diagram" loading="lazy">
+ <figcaption>📊 <strong>Spermatogenic Maturation:</strong> High polyunsaturated fatty acid content renders sperm cell membranes uniquely vulnerable to oxidative reactive oxygen species without antioxidant cofactors. <a href="https://commons.wikimedia.org/wiki/File:Spermatogenesis.svg" target="_blank" rel="noopener">Diagram source: Wikimedia Commons ↗</a></figcaption>
 </figure>
 
 ---
@@ -95,11 +95,11 @@ This biological reality means: **Your nutrition, hydration, sleep, and lifestyle
 
 | Semen Parameter | WHO 6th Edition Reference Limit (5th Percentile) | Clinical & Functional Meaning |
 | :--- | :--- | :--- |
-| **Semen Volume** | **$\ge 1.4\text{ mL}$** | Reflects adequate seminal vesicle and prostate secretory function. |
-| **Sperm Concentration** | **$\ge 16\text{ million/mL}$** ($\ge 39$ million total count) | Ensures sufficient cell density to survive vaginal acidity and traverse the cervix. |
-| **Progressive Motility** | **$\ge 30\%$** (Total motility PR + NP $\ge 42\%$) | Capacity to swim forward against cervical mucus currents toward the fallopian tube. |
-| **Normal Morphology** | **$\ge 4\%$** (Kruger Strict Criteria) | Smooth oval heads, intact acrosomes, and single uncoiled tails to penetrate the zona pellucida. |
-| **DNA Fragmentation Index (DFI)** | **$< 15\%$** (Optimal) / High risk if $>25\%$ | Measures genomic integrity; elevated DFI causes recurrent pregnancy loss or IVF failure. |
+| **Semen Volume** | **≥ 1.4 mL** | Reflects adequate seminal vesicle and prostate secretory function. |
+| **Sperm Concentration** | **≥ 16 million/mL** (≥ 39 million total count) | Ensures sufficient cell density to survive vaginal acidity and traverse the cervix. |
+| **Progressive Motility** | **≥ 30%** (Total motility PR + NP ≥ 42%) | Capacity to swim forward against cervical mucus currents toward the fallopian tube. |
+| **Normal Morphology** | **≥ 4%** (Kruger Strict Criteria) | Smooth oval heads, intact acrosomes, and single uncoiled tails to penetrate the zona pellucida. |
+| **DNA Fragmentation Index (DFI)** | **< 15%** (Optimal) / High risk if >25% | Measures genomic integrity; elevated DFI causes recurrent pregnancy loss or IVF failure. |
 
 ---
 

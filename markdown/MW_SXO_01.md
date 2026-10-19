@@ -25,8 +25,8 @@ Trục ham muốn vận hành theo cơ chế hợp đồng sinh học giữa hai
 Không có Dopamine, testosterone cao đến mấy cũng không thể sinh ra ham muốn!
 
 <figure class="article-inline-diagram">
-  <img src="images/DM_SL_01_figure.jpg" alt="Sơ đồ con đường dẫn truyền thần kinh Dopamine" loading="lazy">
-  <figcaption>📊 <strong>Hệ Thống Khen Thưởng Trung Tâm (Mesolimbic Reward Circuit):</strong> Dopamine chi phối cảm giác mong đợi khoái cảm (Anticipation), là động lực sinh học hàng đầu thúc đẩy hành vi tiếp cận của phái mạnh. <a href="https://commons.wikimedia.org/wiki/File:Dopaminergic_pathways.svg" target="_blank" rel="noopener">Nguồn sơ đồ: Wikimedia Commons ↗</a></figcaption>
+ <img src="images/DM_SL_01_figure.jpg" alt="Sơ đồ con đường dẫn truyền thần kinh Dopamine" loading="lazy">
+ <figcaption>📊 <strong>Hệ Thống Khen Thưởng Trung Tâm (Mesolimbic Reward Circuit):</strong> Dopamine chi phối cảm giác mong đợi khoái cảm (Anticipation), là động lực sinh học hàng đầu thúc đẩy hành vi tiếp cận của phái mạnh. <a href="https://commons.wikimedia.org/wiki/File:Dopaminergic_pathways.svg" target="_blank" rel="noopener">Nguồn sơ đồ: Wikimedia Commons ↗</a></figcaption>
 </figure>
 
 ---
@@ -81,8 +81,8 @@ Desire operates as a biological partnership between two distinct forces:
 Without dopamine, even supranormal testosterone cannot ignite desire!
 
 <figure class="article-inline-diagram">
-  <img src="images/DM_SL_01_figure.jpg" alt="Mesolimbic dopamine reward pathway diagram" loading="lazy">
-  <figcaption>📊 <strong>The Central Reward Circuitry:</strong> Dopamine dictates anticipatory desire, acting as the primary neurochemical driver of male sexual pursuit. <a href="https://commons.wikimedia.org/wiki/File:Dopaminergic_pathways.svg" target="_blank" rel="noopener">Diagram source: Wikimedia Commons ↗</a></figcaption>
+ <img src="images/DM_SL_01_figure.jpg" alt="Mesolimbic dopamine reward pathway diagram" loading="lazy">
+ <figcaption>📊 <strong>The Central Reward Circuitry:</strong> Dopamine dictates anticipatory desire, acting as the primary neurochemical driver of male sexual pursuit. <a href="https://commons.wikimedia.org/wiki/File:Dopaminergic_pathways.svg" target="_blank" rel="noopener">Diagram source: Wikimedia Commons ↗</a></figcaption>
 </figure>
 
 ---

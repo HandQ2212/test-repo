@@ -25,8 +25,8 @@ Rất nhiều người bận rộn và người tập thể thao tự thuyết p
 Tuy nhiên, cả các thử nghiệm lâm sàng trong phòng thí nghiệm lẫn hàng triệu đêm dữ liệu sinh trắc học từ **WHOOP**, **Oura Ring**, và **Garmin** đều chỉ ra một sự thật hoàn toàn trái ngược: **cảm giác mệt mỏi chủ quan sẽ chững lại sau 3 ngày thiếu ngủ, nhưng hiệu suất nhận thức và sinh lý khách quan vẫn tiếp tục lao dốc không phanh.**
 
 <figure class="article-inline-diagram">
-  <img src="images/DM_SL_02_figure.png" alt="Sơ đồ đồng hồ sinh học 24 giờ của con người (Circadian Clock)" loading="lazy">
-  <figcaption>📊 <strong>Đồng Hồ Sinh Học Trung Tâm 24 Giờ:</strong> Nhân trên giao thoa thị giác (SCN) điều phối tiết melatonin lúc 21:00, giấc ngủ sâu nhất lúc 02:00, thân nhiệt lõi thấp nhất lúc 04:30 và kích hoạt huyết áp/cortisol buổi sáng sau 06:45. Việc dịch chuyển giờ ngủ cuối tuần trễ đi 3 tiếng sẽ làm toàn bộ chuỗi hormone này lệch pha. <a href="https://commons.wikimedia.org/wiki/File:Biological_clock_human.svg" target="_blank" rel="noopener">Nguồn Ảnh Gốc: Wikimedia Commons ↗</a></figcaption>
+ <img src="images/DM_SL_02_figure.png" alt="Sơ đồ đồng hồ sinh học 24 giờ của con người (Circadian Clock)" loading="lazy">
+ <figcaption>📊 <strong>Đồng Hồ Sinh Học Trung Tâm 24 Giờ:</strong> Nhân trên giao thoa thị giác (SCN) điều phối tiết melatonin lúc 21:00, giấc ngủ sâu nhất lúc 02:00, thân nhiệt lõi thấp nhất lúc 04:30 và kích hoạt huyết áp/cortisol buổi sáng sau 06:45. Việc dịch chuyển giờ ngủ cuối tuần trễ đi 3 tiếng sẽ làm toàn bộ chuỗi hormone này lệch pha. <a href="https://commons.wikimedia.org/wiki/File:Biological_clock_human.svg" target="_blank" rel="noopener">Nguồn Ảnh Gốc: Wikimedia Commons ↗</a></figcaption>
 </figure>
 
 ---
@@ -106,8 +106,8 @@ Many busy professionals and athletes convince themselves they operate fine on **
 However, both clinical laboratory studies and millions of nights of biometric data from **WHOOP**, **Oura Ring**, and **Garmin** tell a starkly different story: **subjective tiredness plateaus after three days of short sleep, while objective cognitive and physiological performance continues to plummet.**
 
 <figure class="article-inline-diagram">
-  <img src="images/DM_SL_02_figure.png" alt="24-Hour Human Biological Circadian Clock Diagram" loading="lazy">
-  <figcaption>📊 <strong>The Master 24-Hour Circadian Clock:</strong> Your Suprachiasmatic Nucleus (SCN) coordinates melatonin secretion begins at 21:00, deepest sleep at 02:00, lowest core temperature at 04:30, and morning blood pressure/cortisol activation after 06:45. Shifting your weekend sleep window by 3 hours throws this entire cascade out of phase. <a href="https://commons.wikimedia.org/wiki/File:Biological_clock_human.svg" target="_blank" rel="noopener">Original Image Source: Wikimedia Commons ↗</a></figcaption>
+ <img src="images/DM_SL_02_figure.png" alt="24-Hour Human Biological Circadian Clock Diagram" loading="lazy">
+ <figcaption>📊 <strong>The Master 24-Hour Circadian Clock:</strong> Your Suprachiasmatic Nucleus (SCN) coordinates melatonin secretion begins at 21:00, deepest sleep at 02:00, lowest core temperature at 04:30, and morning blood pressure/cortisol activation after 06:45. Shifting your weekend sleep window by 3 hours throws this entire cascade out of phase. <a href="https://commons.wikimedia.org/wiki/File:Biological_clock_human.svg" target="_blank" rel="noopener">Original Image Source: Wikimedia Commons ↗</a></figcaption>
 </figure>
 
 ---

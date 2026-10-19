@@ -24,8 +24,8 @@ Cơ chế sinh lý học thần kinh diễn ra như sau:
 3. **Kích Hoạt Phản Ứng Cáu Gắt Sai Mục Tiêu:** Một câu nói đùa vô hại hoặc một việc nhỏ nhặt của người bạn đời lập tức bị bộ não đang kiệt quệ diễn giải như một "cuộc tấn công cá nhân", kích hoạt cơn giận dữ bùng nổ vô lý.
 
 <figure class="article-inline-diagram">
-  <img src="images/LM_HW_01_figure.png" alt="Sơ đồ đường cong căng thẳng và dung sai cảm xúc" loading="lazy">
-  <figcaption>📊 <strong>Cửa Sổ Dung Sai Cảm Xúc (Window of Tolerance):</strong> Khi điểm Stress Score trên thiết bị đeo ở mức cao cả ngày, vùng dung sai bị thu hẹp lại; chỉ một kích thích nhỏ cũng đẩy bạn vào trạng thái kích động hoặc sụp đổ. <a href="https://commons.wikimedia.org/wiki/File:Stress_curve.svg" target="_blank" rel="noopener">Nguồn sơ đồ: Wikimedia Commons ↗</a></figcaption>
+ <img src="images/LM_HW_01_figure.png" alt="Sơ đồ đường cong căng thẳng và dung sai cảm xúc" loading="lazy">
+ <figcaption>📊 <strong>Cửa Sổ Dung Sai Cảm Xúc (Window of Tolerance):</strong> Khi điểm Stress Score trên thiết bị đeo ở mức cao cả ngày, vùng dung sai bị thu hẹp lại; chỉ một kích thích nhỏ cũng đẩy bạn vào trạng thái kích động hoặc sụp đổ. <a href="https://commons.wikimedia.org/wiki/File:Stress_curve.svg" target="_blank" rel="noopener">Nguồn sơ đồ: Wikimedia Commons ↗</a></figcaption>
 </figure>
 
 ---
@@ -79,8 +79,8 @@ The neurobiology is straightforward:
 3. **Misdirected Irritability:** An innocent, minor comment from your partner is misinterpreted by an exhausted brain as a hostile threat, triggering irrational snap reactions.
 
 <figure class="article-inline-diagram">
-  <img src="images/LM_HW_01_figure.png" alt="Stress curve and emotional window of tolerance diagram" loading="lazy">
-  <figcaption>📊 <strong>The Shrinking Window of Tolerance:</strong> When daily wearable Stress Scores remain in orange/red zones all day, biological capacity contracts; a minor household annoyance triggers explosive reactivity. <a href="https://commons.wikimedia.org/wiki/File:Stress_curve.svg" target="_blank" rel="noopener">Diagram source: Wikimedia Commons ↗</a></figcaption>
+ <img src="images/LM_HW_01_figure.png" alt="Stress curve and emotional window of tolerance diagram" loading="lazy">
+ <figcaption>📊 <strong>The Shrinking Window of Tolerance:</strong> When daily wearable Stress Scores remain in orange/red zones all day, biological capacity contracts; a minor household annoyance triggers explosive reactivity. <a href="https://commons.wikimedia.org/wiki/File:Stress_curve.svg" target="_blank" rel="noopener">Diagram source: Wikimedia Commons ↗</a></figcaption>
 </figure>
 
 ---

@@ -27,8 +27,8 @@ Tuy nhiên, các nghiên cứu sinh lý học thể thao chỉ ra rằng—trừ
 Tại sao lại như vậy? Bởi vì hệ thống bạch huyết và mạng lưới tĩnh mạch của bạn phụ thuộc rất lớn vào sự co bóp nhịp nhàng, nhẹ nhàng của cơ bắp để lưu thông dịch thể, dọn dẹp các sản phẩm phụ chuyển hóa và vận chuyển dưỡng chất tái tạo đến các sợi cơ bị vi tổn thương.
 
 <figure class="article-inline-diagram">
-  <img src="images/DM_RC_02_figure.png" alt="Sơ đồ sinh hóa Chu trình Cori vận chuyển Lactate từ cơ xương về gan để tái tạo Glucose" loading="lazy">
-  <figcaption>📊 <strong>Chu Trình Cori & Thanh Thải Chuyển Hóa:</strong> Lactate không phải là "chất thải độc hại"—đó là nguồn nhiên liệu sinh học quý giá. Tuần hoàn máu nhẹ nhàng ở Vùng nhịp tim Zone 1 giúp tăng tốc độ đưa lactate và ion hydro (`H⁺`) ra khỏi vùng cơ đang mỏi về gan (nơi Chu trình Cori tái tổng hợp lactate thành glucose) và đến các sợi cơ bền (`Type I`) để đốt cháy thành năng lượng sạch. <a href="https://commons.wikimedia.org/wiki/File:The_Cori_cycle.png" target="_blank" rel="noopener">Nguồn Ảnh Gốc: Wikimedia Commons ↗</a></figcaption>
+ <img src="images/DM_RC_02_figure.png" alt="Sơ đồ sinh hóa Chu trình Cori vận chuyển Lactate từ cơ xương về gan để tái tạo Glucose" loading="lazy">
+ <figcaption>📊 <strong>Chu Trình Cori & Thanh Thải Chuyển Hóa:</strong> Lactate không phải là "chất thải độc hại"—đó là nguồn nhiên liệu sinh học quý giá. Tuần hoàn máu nhẹ nhàng ở Vùng nhịp tim Zone 1 giúp tăng tốc độ đưa lactate và ion hydro (`H⁺`) ra khỏi vùng cơ đang mỏi về gan (nơi Chu trình Cori tái tổng hợp lactate thành glucose) và đến các sợi cơ bền (`Type I`) để đốt cháy thành năng lượng sạch. <a href="https://commons.wikimedia.org/wiki/File:The_Cori_cycle.png" target="_blank" rel="noopener">Nguồn Ảnh Gốc: Wikimedia Commons ↗</a></figcaption>
 </figure>
 
 ---
@@ -67,10 +67,10 @@ Sai lầm lớn nhất mà người tập thể thao thường mắc phải vào
 
 1. **Giữ Trần Nhịp Tim Nghiêm Ngặt (`< 60%–65% Nhịp Tim Tối Đa`):** Đối với đa số người trưởng thành, nhịp tim trong buổi phục hồi chủ động chỉ nên nằm trong khoảng **95 đến 120 bpm**. Bạn phải có khả năng hít thở 100% bằng mũi và trò chuyện trọn câu thoải mái mà không hề thấy nóng rát cơ bắp.
 2. **Chọn Chuyển Động Đồng Tâm, Không Va Đập (Zero-Impact):** Các pha co cơ lệch tâm (như chạy xuống dốc, nhảy plyometrics hoặc hạ tạ nặng) gây ra vi rách sợi cơ. Vào ngày phục hồi, hãy ưu tiên các chuyển động đồng tâm mượt mà:
-   - **Đạp xe tại chỗ hoặc đường bằng với kháng lực cực nhẹ** (guồng chân `75–85 vòng/phút` nhẹ nhàng)
-   - **Đi bộ đường bằng ngoài trời** dưới ánh nắng tự nhiên buổi sáng
-   - **Bơi thả lỏng hoặc đi bộ dưới nước** (áp suất thủy tĩnh của nước tự nhiên ép nhẹ lên đôi chân, hỗ trợ đẩy máu tĩnh mạch về tim cực kỳ hiệu quả!)
-   - **15–20 phút tập linh hoạt khớp (Mobility) & lăn ống bọt (Foam Rolling)** tập trung vào cột sống ngực, khớp hông, cơ đùi sau và bắp chân
+ - **Đạp xe tại chỗ hoặc đường bằng với kháng lực cực nhẹ** (guồng chân `75–85 vòng/phút` nhẹ nhàng)
+ - **Đi bộ đường bằng ngoài trời** dưới ánh nắng tự nhiên buổi sáng
+ - **Bơi thả lỏng hoặc đi bộ dưới nước** (áp suất thủy tĩnh của nước tự nhiên ép nhẹ lên đôi chân, hỗ trợ đẩy máu tĩnh mạch về tim cực kỳ hiệu quả!)
+ - **15–20 phút tập linh hoạt khớp (Mobility) & lăn ống bọt (Foam Rolling)** tập trung vào cột sống ngực, khớp hông, cơ đùi sau và bắp chân
 3. **Giới Hạn Thời Lượng Từ 20 Đến 40 Phút:** Một buổi phục hồi chủ động chuẩn khoa học phải giúp bạn cảm thấy **tràn đầy năng lượng hơn sau khi kết thúc so với lúc mới bắt đầu**. Dừng lại ở mốc 30–35 phút giúp kích hoạt tuần hoàn máu tối đa mà không làm cạn kiệt kho dự trữ glycogen tại gan và cơ.
 
 ---
@@ -99,8 +99,8 @@ However, sports physiology research shows that—unless you are dealing with a f
 Why? Because your lymphatic system and venous blood vessels rely heavily on gentle, rhythmic muscle contractions to circulate fluid, clear metabolic byproducts, and deliver repair nutrients to damaged muscle fibers.
 
 <figure class="article-inline-diagram">
-  <img src="images/DM_RC_02_figure.png" alt="Biochemical Diagram of the Cori Cycle: Lactate Transport from Muscle to Liver for Glucose Resynthesis" loading="lazy">
-  <figcaption>📊 <strong>The Cori Cycle & Metabolic Clearance:</strong> Lactate is not "toxic waste"—it is a valuable metabolic fuel. Gentle Zone 1 blood flow accelerates the transport of lactate and hydrogen ions (`H⁺`) out of fatigued muscles to the liver (where the Cori Cycle converts lactate back into glucose) and to slow-twitch oxidative muscle fibers for clean aerobic energy. <a href="https://commons.wikimedia.org/wiki/File:The_Cori_cycle.png" target="_blank" rel="noopener">Original Image Source: Wikimedia Commons ↗</a></figcaption>
+ <img src="images/DM_RC_02_figure.png" alt="Biochemical Diagram of the Cori Cycle: Lactate Transport from Muscle to Liver for Glucose Resynthesis" loading="lazy">
+ <figcaption>📊 <strong>The Cori Cycle & Metabolic Clearance:</strong> Lactate is not "toxic waste"—it is a valuable metabolic fuel. Gentle Zone 1 blood flow accelerates the transport of lactate and hydrogen ions (`H⁺`) out of fatigued muscles to the liver (where the Cori Cycle converts lactate back into glucose) and to slow-twitch oxidative muscle fibers for clean aerobic energy. <a href="https://commons.wikimedia.org/wiki/File:The_Cori_cycle.png" target="_blank" rel="noopener">Original Image Source: Wikimedia Commons ↗</a></figcaption>
 </figure>
 
 ---
@@ -139,10 +139,10 @@ The biggest mistake athletes make on an "Active Recovery Day" is letting their e
 
 1. **Strict Heart Rate Ceiling (`< 60%–65% Max HR`):** For most adults, your heart rate during active recovery should stay between **95 and 120 bpm**. You should be able to breathe 100% through your nose and speak in full, relaxed sentences without ever feeling a muscle burn.
 2. **Choose Concentric, Zero-Impact Modalities:** Eccentric muscle contractions (like downhill running, plyometric jumps, or heavy lowering of weights) cause microscopic muscle fiber tearing. On recovery days, choose smooth concentric movements:
-   - **Low-resistance stationary bike or flat cycling** (`75–85 RPM` cadence with almost zero pedal tension)
-   - **Flat outdoor walking** in natural morning sunlight
-   - **Easy pool swimming or water walking** (hydrostatic water pressure naturally compresses the legs and assists venous return!)
-   - **15–20 minutes of dynamic mobility & foam rolling** targeting the thoracic spine, hips, hamstrings, and calves
+ - **Low-resistance stationary bike or flat cycling** (`75–85 RPM` cadence with almost zero pedal tension)
+ - **Flat outdoor walking** in natural morning sunlight
+ - **Easy pool swimming or water walking** (hydrostatic water pressure naturally compresses the legs and assists venous return!)
+ - **15–20 minutes of dynamic mobility & foam rolling** targeting the thoracic spine, hips, hamstrings, and calves
 3. **Cap Duration at 20 to 40 Minutes:** An active recovery session should leave you feeling **more energized when you finish than when you started**. Stopping at 30–35 minutes stimulates blood flow without depleting liver or muscle glycogen reserves.
 
 ---

@@ -27,8 +27,8 @@ Nếu bạn muốn biết thời điểm rụng trứng đang đến gần **tr�
 Hoàn toàn không phải là chất tiết ngẫu nhiên, dịch nhầy cổ tử cung là một **hệ gel sinh học (Hydrogel)** tinh vi được điều khiển trực tiếp bởi hormone, tiết ra từ hàng trăm tuyến hốc siêu nhỏ nằm bên trong **kênh cổ tử cung** (cánh cổng hẹp nối giữa âm đạo và buồng tử cung).
 
 <figure class="article-inline-diagram">
-  <img src="images/LM_WH_02_figure.png" alt="Sơ đồ giải phẫu hệ sinh sản nữ làm nổi bật cổ tử cung, tử cung, ống dẫn trứng và buồng trứng" loading="lazy">
-  <figcaption>📊 <strong>Cánh Cổng Sinh Học Cổ Tử Cung:</strong> Nằm giữa môi trường axit của âm đạo và buồng tử cung phía trên, các tuyến hốc nhạy cảm với hormone bên trong cổ tử cung liên tục thay đổi cấu trúc gel tiết ra mỗi ngày theo nồng độ Estradiol và Progesterone. <a href="https://commons.wikimedia.org/wiki/File:Female_reproductive_system.svg" target="_blank" rel="noopener noreferrer">Original Image Source: Wikimedia Commons ↗</a></figcaption>
+ <img src="images/LM_WH_02_figure.png" alt="Sơ đồ giải phẫu hệ sinh sản nữ làm nổi bật cổ tử cung, tử cung, ống dẫn trứng và buồng trứng" loading="lazy">
+ <figcaption>📊 <strong>Cánh Cổng Sinh Học Cổ Tử Cung:</strong> Nằm giữa môi trường axit của âm đạo và buồng tử cung phía trên, các tuyến hốc nhạy cảm với hormone bên trong cổ tử cung liên tục thay đổi cấu trúc gel tiết ra mỗi ngày theo nồng độ Estradiol và Progesterone. <a href="https://commons.wikimedia.org/wiki/File:Female_reproductive_system.svg" target="_blank" rel="noopener noreferrer">Original Image Source: Wikimedia Commons ↗</a></figcaption>
 </figure>
 
 ---
@@ -73,8 +73,8 @@ Khi ghi chép dữ liệu trên ứng dụng, hãy lưu ý 4 yếu tố sinh ho�
 1. **Mức Độ Đủ Nước Của Cơ Thể:** Vì dịch nhầy lòng trắng trứng (EWCM) chứa tới **98% là nước**, tình trạng thiếu nước nhẹ có thể khiến dịch nhầy trông đặc hơn hoặc chỉ ở dạng kem. Uống đủ `2.0 đến 2.5 lít` nước kèm điện giải ở nửa cuối pha Nang trứng giúp tuyến cổ tử cung tiết gel trong suốt rõ rệt hơn.
 2. **Thuốc Kháng Histamine & Thuốc Cảm Nghẹt Mũi:** Các loại thuốc dị ứng hoặc thông mũi không kê đơn làm khô màng nhầy toàn thân—không chỉ ở xoang mũi mà cả ở cổ tử cung—làm giảm lượng dịch EWCM quan sát được dù Estrogen vẫn đang ở đỉnh.
 3. **Phân Biệt Dịch Cổ Tử Cung Với Dịch Hưng Phần Tình Dục:**
-   - **Dịch nhầy thụ thai (EWCM)** có cấu trúc dạng gel, kéo thành sợi dài giữa hai ngón tay mà không đứt và không thấm ngay vào giấy vệ sinh.
-   - **Dịch tiết khi hưng phấn** (từ tuyến Bartholin và thành âm đạo) mỏng, loãng như nước, phủ đều trên bề mặt da và thấm hoặc bay hơi rất nhanh trên giấy.
+ - **Dịch nhầy thụ thai (EWCM)** có cấu trúc dạng gel, kéo thành sợi dài giữa hai ngón tay mà không đứt và không thấm ngay vào giấy vệ sinh.
+ - **Dịch tiết khi hưng phấn** (từ tuyến Bartholin và thành âm đạo) mỏng, loãng như nước, phủ đều trên bề mặt da và thấm hoặc bay hơi rất nhanh trên giấy.
 4. **Nhận Biết Dịch Sinh Lý Khỏe Mạnh Và Dấu Hiệu Viêm Nhiễm:** Dịch cổ tử cung khỏe mạnh chuyển từ trong suốt sang trắng sữa hoặc vàng nhạt khi tiếp xúc không khí, không mùi hoặc có mùi hơi chua nhẹ tự nhiên (do lợi khuẩn *Lactobacillus* bảo vệ). Nếu dịch chuyển sang **vón cục như bã đậu kèm ngứa rát** (nấm Candida), **màu xám đục có mùi tanh** (viêm âm đạo do vi khuẩn), hoặc **màu vàng xanh kèm đau vùng chậu**, bạn nên thăm khám bác sĩ phụ khoa.
 
 ---
@@ -83,8 +83,8 @@ Khi ghi chép dữ liệu trên ứng dụng, hãy lưu ý 4 yếu tố sinh ho�
 
 1. **Kiểm Tra Vào Giữa Ngày Hoặc Chiều (Trước Hoặc Sau Khi Đi Tiểu):** Kiểm tra ngay khi mới ngủ dậy đôi khi chưa thấy rõ vì dịch cần thời gian di chuyển xuống ống âm đạo khi bạn đi lại.
 2. **Áp Dụng Quy Tắc "Cảm Giác + Giấy Vệ Sinh":**
-   - Trước khi lau, hãy lắng nghe **cảm giác tự nhiên ở vùng âm hộ** (*khô ráo, ẩm mịn hay trơn ướt rõ rệt*).
-   - Dùng giấy vệ sinh sạch lau từ trước ra sau, quan sát màu sắc và thử chạm hai mặt giấy (hoặc dùng ngón cái và ngón trỏ sạch) kéo nhẹ xem dịch thuộc nhóm **dính đặc, kem mịn hay trong suốt kéo sợi**.
+ - Trước khi lau, hãy lắng nghe **cảm giác tự nhiên ở vùng âm hộ** (*khô ráo, ẩm mịn hay trơn ướt rõ rệt*).
+ - Dùng giấy vệ sinh sạch lau từ trước ra sau, quan sát màu sắc và thử chạm hai mặt giấy (hoặc dùng ngón cái và ngón trỏ sạch) kéo nhẹ xem dịch thuộc nhóm **dính đặc, kem mịn hay trong suốt kéo sợi**.
 3. **Luôn Ghi Nhận Trạng Thái Màu Mỡ Nhất Trong Ngày:** Nếu buổi sáng bạn thấy dịch dạng kem nhưng lúc 4 giờ chiều lại thấy dịch trong kéo sợi như lòng trắng trứng, hãy chọn **Egg-White (Lòng trắng trứng)** trên ứng dụng cho ngày hôm đó. Sau đó, hãy theo dõi biểu đồ nhiệt độ ban đêm trên đồng hồ trong 48–72 giờ tiếp theo để thấy bước nhảy nhiệt độ của Progesterone xác nhận kỳ rụng trứng hoàn tất!
 
 ---
@@ -113,8 +113,8 @@ If you want to know that ovulation is approaching **3 to 5 days in advance**—w
 Far from being random vaginal discharge, cervical fluid is a sophisticated, hormone-controlled **biological hydrogel** secreted by hundreds of microscopic crypts inside your **cervical canal** (the narrow gateway connecting the vagina to the uterus).
 
 <figure class="article-inline-diagram">
-  <img src="images/LM_WH_02_figure.png" alt="Anatomical diagram of the female reproductive tract highlighting the cervix, uterus, fallopian tubes, and ovaries" loading="lazy">
-  <figcaption>📊 <strong>The Cervical Gateway:</strong> Positioned between the acidic vaginal environment and the upper uterine cavity, specialized crypt glands inside the cervix remodel their hydrogel secretions daily in response to ovarian estradiol and progesterone. <a href="https://commons.wikimedia.org/wiki/File:Female_reproductive_system.svg" target="_blank" rel="noopener noreferrer">Original Image Source: Wikimedia Commons ↗</a></figcaption>
+ <img src="images/LM_WH_02_figure.png" alt="Anatomical diagram of the female reproductive tract highlighting the cervix, uterus, fallopian tubes, and ovaries" loading="lazy">
+ <figcaption>📊 <strong>The Cervical Gateway:</strong> Positioned between the acidic vaginal environment and the upper uterine cavity, specialized crypt glands inside the cervix remodel their hydrogel secretions daily in response to ovarian estradiol and progesterone. <a href="https://commons.wikimedia.org/wiki/File:Female_reproductive_system.svg" target="_blank" rel="noopener noreferrer">Original Image Source: Wikimedia Commons ↗</a></figcaption>
 </figure>
 
 ---
@@ -159,8 +159,8 @@ When checking your app logs, keep in mind four everyday factors that can tempora
 1. **Systemic Hydration:** Because fertile Egg-White Cervical Mucus is **98% water**, mild dehydration can mask fertile fluid, making it look thicker or merely creamy. Drinking `2.0 to 2.5 liters` of water with electrolytes during your late follicular phase helps cervical crypts express clear hydrogel.
 2. **Antihistamines & Decongestants:** Over-the-counter allergy medications dry out mucous membranes not just in your nasal passages, but also in your cervix—temporarily reducing visible EWCM even when estrogen is peaking.
 3. **Distinguishing EWCM from Arousal Fluid or Semen:**
-   - **Fertile EWCM** is thick, gel-like, stretches several inches without snapping, and does not easily soak into toilet paper.
-   - **Sexual arousal fluid** (from the Bartholin's glands and vaginal transudate) is thin, watery, coats the skin evenly, and evaporates or absorbs into tissue within seconds.
+ - **Fertile EWCM** is thick, gel-like, stretches several inches without snapping, and does not easily soak into toilet paper.
+ - **Sexual arousal fluid** (from the Bartholin's glands and vaginal transudate) is thin, watery, coats the skin evenly, and evaporates or absorbs into tissue within seconds.
 4. **Recognizing Normal Variations vs. Infection:** Healthy cervical fluid shifts from clear to milky white or pale yellow when exposed to air and has a mild, neutral, or slightly tangy scent (from protective *Lactobacillus* bacteria). If discharge turns **cottage-cheese clumpy with itching** (yeast/Candida), **grayish with a fishy odor** (bacterial vaginosis), or **yellow-green with pelvic pain**, consult a healthcare provider.
 
 ---
@@ -169,8 +169,8 @@ When checking your app logs, keep in mind four everyday factors that can tempora
 
 1. **Check Before or After Urinating (Mid-Day Is Best):** Morning checks can sometimes miss fluid that hasn't traveled down the vaginal canal yet. The easiest time to observe cervical fluid is mid-day or afternoon after walking around.
 2. **Use the "Sensation + Tissue" Check:**
-   - Before wiping, notice the **sensation at your vulva** (*dry, damp, or distinctly slippery/lubricative*).
-   - Fold a clean piece of toilet paper, wipe front-to-back, and gently press and pull the paper apart (or test a small sample between clean thumb and index finger) to see if it is **sticky, creamy, or stretchy/clear**.
+ - Before wiping, notice the **sensation at your vulva** (*dry, damp, or distinctly slippery/lubricative*).
+ - Fold a clean piece of toilet paper, wipe front-to-back, and gently press and pull the paper apart (or test a small sample between clean thumb and index finger) to see if it is **sticky, creamy, or stretchy/clear**.
 3. **Always Log the Most Fertile Observation of the Day:** If you notice creamy fluid at 10:00 AM and clear, stretchy egg-white fluid at 4:00 PM, always log **Egg-White** in your wearable app for that day. Watch your wearable's overnight temperature graph over the next 48–72 hours to see the progesterone thermal shift lock in!
 
 ---

@@ -29,8 +29,8 @@ Trong tiết niệu học lâm sàng và thần kinh – nội tiết học (**D
 3. **Khóa Chặt Mạch Máu Qua Thụ Thể Alpha-Adrenergic:** Chỉ trong vài giây, các đầu dây thần kinh giao cảm giải phóng ồ ạt **Norepinephrine (Noradrenaline)** trực tiếp vào mô vật hang, đồng thời tuyến thượng thận bơm **Epinephrine (Adrenaline)** và **Cortisol** vào máu. Norepinephrine gắn chặt vào các **Thụ thể Alpha-1 và Alpha-2 Adrenergic** trên thành động mạch xoắn dương vật và cơ trơn vật hang—kích hoạt dòng ion canxi tràn vào tế bào và gây **co thắt động mạch tức thì** (**Dean & Lue, 2005**). Về mặt sinh hóa, hiện tượng này giống hệt như khi bạn nhảy xuống hồ nước đá lạnh buốt: máu lập tức bị rút khỏi vùng chậu để dồn về tim và cơ đùi lớn phục vụ phản xạ "chiến hay chạy".
 
 <figure class="article-inline-diagram">
-  <img src="images/DM_MH_03_figure.jpg" alt="Cơ chế căng thẳng mãn tính trục HPA và hệ thần kinh nội tiết" loading="lazy">
-  <figcaption>📊 <strong>Thác Phản Ứng Thần Kinh – Nội Tiết Khi Căng Thẳng:</strong> Cách nhận thức áp lực tâm lý kích hoạt trục Hạ đồi – Tuyến yên – Thượng thận (HPA) và giải phóng catecholamine giao cảm, ức chế trực tiếp quá trình giãn mạch phó giao cảm. <a href="https://commons.wikimedia.org/wiki/File:HPA_axis_chronic_stress.jpg" target="_blank" rel="noopener noreferrer">Original Image Source: Wikimedia Commons ↗</a></figcaption>
+ <img src="images/DM_MH_03_figure.jpg" alt="Cơ chế căng thẳng mãn tính trục HPA và hệ thần kinh nội tiết" loading="lazy">
+ <figcaption>📊 <strong>Thác Phản Ứng Thần Kinh – Nội Tiết Khi Căng Thẳng:</strong> Cách nhận thức áp lực tâm lý kích hoạt trục Hạ đồi – Tuyến yên – Thượng thận (HPA) và giải phóng catecholamine giao cảm, ức chế trực tiếp quá trình giãn mạch phó giao cảm. <a href="https://commons.wikimedia.org/wiki/File:HPA_axis_chronic_stress.jpg" target="_blank" rel="noopener noreferrer">Original Image Source: Wikimedia Commons ↗</a></figcaption>
 </figure>
 
 ---
@@ -107,8 +107,8 @@ In clinical urology and neuro-endocrinology (**Dean & Lue, 2005**), up to **60% 
 3. **Alpha-Adrenergic Receptor Clamping:** Within seconds, sympathetic nerve endings flood the cavernous tissue with **Norepinephrine (Noradrenaline)** while the adrenal glands release **Epinephrine** and **Cortisol**. Norepinephrine binds directly to **Alpha-1 and Alpha-2 Adrenergic Receptors** on the penile helicine arteries and trabecular smooth muscle—triggering immediate calcium influx and **powerful arterial vasoconstriction** (**Dean & Lue, 2005**). Chemically, it is identical to jumping into an ice-cold lake: blood is shunted away from the pelvis toward your heart and large leg muscles for "fight or flight."
 
 <figure class="article-inline-diagram">
-  <img src="images/DM_MH_03_figure.jpg" alt="HPA Axis Chronic Stress and Autonomic Neuroendocrine Cascade" loading="lazy">
-  <figcaption>📊 <strong>The Neuro-Endocrine Cascade of Stress:</strong> How psychological threat perception activates the Hypothalamic-Pituitary-Adrenal (HPA) axis and sympathetic catecholamine surge, suppressing parasympathetic vasodilation. <a href="https://commons.wikimedia.org/wiki/File:HPA_axis_chronic_stress.jpg" target="_blank" rel="noopener noreferrer">Original Image Source: Wikimedia Commons ↗</a></figcaption>
+ <img src="images/DM_MH_03_figure.jpg" alt="HPA Axis Chronic Stress and Autonomic Neuroendocrine Cascade" loading="lazy">
+ <figcaption>📊 <strong>The Neuro-Endocrine Cascade of Stress:</strong> How psychological threat perception activates the Hypothalamic-Pituitary-Adrenal (HPA) axis and sympathetic catecholamine surge, suppressing parasympathetic vasodilation. <a href="https://commons.wikimedia.org/wiki/File:HPA_axis_chronic_stress.jpg" target="_blank" rel="noopener noreferrer">Original Image Source: Wikimedia Commons ↗</a></figcaption>
 </figure>
 
 ---

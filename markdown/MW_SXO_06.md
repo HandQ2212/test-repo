@@ -6,9 +6,9 @@
 > **Lead (EN):** The online 'NoFap' movement has gained viral traction, promising men that abstaining from ejaculation will perpetually supercharge testosterone, accelerate muscle growth, and unlock cognitive dominance. What does rigorous endocrinological literature actually report? Explore the empirical biochemistry of post-ejaculatory hormone fluctuations, the reality of the Day-7 spike, and how regular ejaculation protects against prostate cancer.
 
 > [!TIP]
-> 💡 **Điểm Cốt Lõi (Key Takeaway):** Thủ dâm hay xuất tinh không làm suy giảm nồng độ testosterone nền tảng dài hạn của nam giới. Hiện tượng testosterone tăng vọt vào ngày thứ 7 kiêng cữ chỉ là một đỉnh điều hòa tạm thời trước khi tụt về mức bình thường. Ngược lại, xuất tinh đều đặn $\ge 21$ lần/tháng được chứng minh lâm sàng giúp giảm 31% nguy cơ ung thư tuyến tiền liệt.
+> 💡 **Điểm Cốt Lõi (Key Takeaway):** Thủ dâm hay xuất tinh không làm suy giảm nồng độ testosterone nền tảng dài hạn của nam giới. Hiện tượng testosterone tăng vọt vào ngày thứ 7 kiêng cữ chỉ là một đỉnh điều hòa tạm thời trước khi tụt về mức bình thường. Ngược lại, xuất tinh đều đặn ≥ 21 lần/tháng được chứng minh lâm sàng giúp giảm 31% nguy cơ ung thư tuyến tiền liệt.
 > 
-> 💡 **Takeaway (EN):** Masturbation and ejaculation do not deplete chronic resting testosterone reserves. The famous Day-7 abstinence spike represents a transient homeostatic peak that quickly normalizes. In contrast, longitudinal epidemiological data confirms that maintaining an ejaculation frequency of $\ge 21$ times monthly reduces prostate cancer risk by 31%.
+> 💡 **Takeaway (EN):** Masturbation and ejaculation do not deplete chronic resting testosterone reserves. The famous Day-7 abstinence spike represents a transient homeostatic peak that quickly normalizes. In contrast, longitudinal epidemiological data confirms that maintaining an ejaculation frequency of ≥ 21 times monthly reduces prostate cancer risk by 31%.
 
 ---
 
@@ -25,8 +25,8 @@ Tất cả các luận điểm của phong trào NoFap đều bắt nguồn từ
 Kết luận khoa học thực tế: Đỉnh tăng ở ngày thứ 7 chỉ là một phản xạ điều hòa nội môi tạm thời của trục HPTA, chứ **hoàn toàn không phải là một đường dốc đi lên vô tận**. Kiêng xuất tinh kéo dài hàng tháng trời không giúp bạn tích lũy thêm một giọt testosterone nào!
 
 <figure class="article-inline-diagram">
-  <img src="images/LM_MH_01_figure.jpg" alt="Sơ đồ chuyển hóa hormone và xuất tinh" loading="lazy">
-  <figcaption>📊 <strong>Động Học Nội Tiết Thực Nghiệm:</strong> Tinh dịch chứa protein, kẽm và fructose, nhưng quá trình tái tạo một lần xuất tinh chỉ tiêu tốn lượng vi chất tương đương 1/100 bữa ăn hàng ngày. <a href="https://commons.wikimedia.org/wiki/File:Steroidogenesis.svg" target="_blank" rel="noopener">Nguồn sơ đồ: Wikimedia Commons ↗</a></figcaption>
+ <img src="images/LM_MH_01_figure.jpg" alt="Sơ đồ chuyển hóa hormone và xuất tinh" loading="lazy">
+ <figcaption>📊 <strong>Động Học Nội Tiết Thực Nghiệm:</strong> Tinh dịch chứa protein, kẽm và fructose, nhưng quá trình tái tạo một lần xuất tinh chỉ tiêu tốn lượng vi chất tương đương 1/100 bữa ăn hàng ngày. <a href="https://commons.wikimedia.org/wiki/File:Steroidogenesis.svg" target="_blank" rel="noopener">Nguồn sơ đồ: Wikimedia Commons ↗</a></figcaption>
 </figure>
 
 ---
@@ -88,8 +88,8 @@ The foundational claim of the viral "NoFap" movement originates from a single st
 The scientific truth: The Day 7 spike is a brief homeostatic endocrine rebound of the HPTA axis, **not an ascending staircase**. Prolonged abstinence does not store additional androgens.
 
 <figure class="article-inline-diagram">
-  <img src="images/LM_MH_01_figure.jpg" alt="Androgen dynamics and ejaculation diagram" loading="lazy">
-  <figcaption>📊 <strong>Post-Ejaculatory Endocrine Kinetics:</strong> While seminal fluid contains trace zinc and fructose, synthesizing one ejaculation consumes the nutritional equivalent of a single bite of food. <a href="https://commons.wikimedia.org/wiki/File:Steroidogenesis.svg" target="_blank" rel="noopener">Diagram source: Wikimedia Commons ↗</a></figcaption>
+ <img src="images/LM_MH_01_figure.jpg" alt="Androgen dynamics and ejaculation diagram" loading="lazy">
+ <figcaption>📊 <strong>Post-Ejaculatory Endocrine Kinetics:</strong> While seminal fluid contains trace zinc and fructose, synthesizing one ejaculation consumes the nutritional equivalent of a single bite of food. <a href="https://commons.wikimedia.org/wiki/File:Steroidogenesis.svg" target="_blank" rel="noopener">Diagram source: Wikimedia Commons ↗</a></figcaption>
 </figure>
 
 ---
@@ -106,7 +106,7 @@ In a controlled investigation published in the **World Journal of Urology (Exton
 ## Regular Ejaculation Cuts Prostate Cancer Risk by 31%
 
 In direct contrast to chronic abstinence dogmas, the largest epidemiological investigation in urological history—conducted by **Harvard Medical School (Rider et al., European Urology, 2016)** across **31,925 men over 18 years**—unveiled:
-- Men with an ejaculation frequency of **$\ge 21$ times per month** had a **31% lower risk of developing Prostate Cancer** compared to men ejaculating 4–7 times monthly.
+- Men with an ejaculation frequency of **≥ 21 times per month** had a **31% lower risk of developing Prostate Cancer** compared to men ejaculating 4–7 times monthly.
 - Biological rationale: The prostate secretes metabolic fluids, secretions, and crystalloids. Regular ejaculation provides continuous **prostatic lumen clearance**, purging stagnant carcinogens and reducing chronic intraprostatic inflammation.
 
 ---

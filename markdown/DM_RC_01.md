@@ -28,8 +28,8 @@ Mỗi khi bạn hít vào và thở ra, bạn kích hoạt một phản xạ cơ
 - **Khi Bạn Thở Ra (Hãm Phanh Phó Giao Cảm Phế Vị):** Cơ hoành thư giãn và nâng vòm lên trên, làm tăng áp suất khoang ngực. Huyết áp động mạch tăng nhẹ, kích hoạt các **thụ thể áp suất (baroreceptors)** ở cung động mạch chủ và xoang cảnh truyền tín hiệu qua **Dây thần kinh Phế vị (Vagus Nerve)**. Dây phế vị tiết ra chất dẫn truyền **acetylcholine** lên nút tạo nhịp của tim, lập tức làm nhịp tim chậm lại (`khoảng cách R-R giãn rộng ra`).
 
 <figure class="article-inline-diagram">
-  <img src="images/DM_RC_01_figure.jpg" alt="Bản ghi Điện tâm đồ ECG lâm sàng ghi nhận hiện tượng Loạn nhịp xoang hô hấp RSA" loading="lazy">
-  <figcaption>📊 <strong>Loạn Nhịp Xoang Hô Hấp (RSA) Trên Điện Tâm Đồ Lâm Sàng:</strong> Hãy quan sát cách các đỉnh sóng R xếp sát nhau hơn trong pha hít vào (nhịp mạch nhanh hơn) và giãn cách rộng ra trong pha thở ra (nhịp mạch chậm lại nhờ Dây thần kinh Phế vị). Độ giãn nở từng nhịp này chính là chỉ số HRV cao mà đồng hồ thông minh của bạn ghi nhận! <a href="https://commons.wikimedia.org/wiki/File:Respiratory_sinus_arrhythmia_with_RBBB_(male,_21).jpg" target="_blank" rel="noopener">Nguồn Ảnh Gốc: Wikimedia Commons ↗</a></figcaption>
+ <img src="images/DM_RC_01_figure.jpg" alt="Bản ghi Điện tâm đồ ECG lâm sàng ghi nhận hiện tượng Loạn nhịp xoang hô hấp RSA" loading="lazy">
+ <figcaption>📊 <strong>Loạn Nhịp Xoang Hô Hấp (RSA) Trên Điện Tâm Đồ Lâm Sàng:</strong> Hãy quan sát cách các đỉnh sóng R xếp sát nhau hơn trong pha hít vào (nhịp mạch nhanh hơn) và giãn cách rộng ra trong pha thở ra (nhịp mạch chậm lại nhờ Dây thần kinh Phế vị). Độ giãn nở từng nhịp này chính là chỉ số HRV cao mà đồng hồ thông minh của bạn ghi nhận! <a href="https://commons.wikimedia.org/wiki/File:Respiratory_sinus_arrhythmia_with_RBBB_(male,_21).jpg" target="_blank" rel="noopener">Nguồn Ảnh Gốc: Wikimedia Commons ↗</a></figcaption>
 </figure>
 
 ---
@@ -96,8 +96,8 @@ Every single time you inhale and exhale, you trigger an immediate mechanical and
 - **When You Exhale (Parasympathetic Vagal Braking):** Your diaphragm relaxes and domes upward, increasing intrathoracic pressure. Arterial blood pressure rises slightly, triggering **baroreceptors** in your aorta and carotid arteries to fire signals through the **Vagus Nerve**. Your vagus nerve releases **acetylcholine** onto your heart's pacemaker, immediately slowing your heart rate down (`R-R intervals get longer`).
 
 <figure class="article-inline-diagram">
-  <img src="images/DM_RC_01_figure.jpg" alt="Clinical ECG Strip Showing Respiratory Sinus Arrhythmia Heart Rate Changes With Breathing" loading="lazy">
-  <figcaption>📊 <strong>Respiratory Sinus Arrhythmia (RSA) on a Clinical ECG:</strong> Notice how the vertical R-wave spikes cluster closer together during inhalation (faster pulse) and spread wider apart during exhalation (slower pulse driven by the Vagus Nerve). This beat-to-beat expansion is literally what your smartwatch measures as high HRV! <a href="https://commons.wikimedia.org/wiki/File:Respiratory_sinus_arrhythmia_with_RBBB_(male,_21).jpg" target="_blank" rel="noopener">Original Image Source: Wikimedia Commons ↗</a></figcaption>
+ <img src="images/DM_RC_01_figure.jpg" alt="Clinical ECG Strip Showing Respiratory Sinus Arrhythmia Heart Rate Changes With Breathing" loading="lazy">
+ <figcaption>📊 <strong>Respiratory Sinus Arrhythmia (RSA) on a Clinical ECG:</strong> Notice how the vertical R-wave spikes cluster closer together during inhalation (faster pulse) and spread wider apart during exhalation (slower pulse driven by the Vagus Nerve). This beat-to-beat expansion is literally what your smartwatch measures as high HRV! <a href="https://commons.wikimedia.org/wiki/File:Respiratory_sinus_arrhythmia_with_RBBB_(male,_21).jpg" target="_blank" rel="noopener">Original Image Source: Wikimedia Commons ↗</a></figcaption>
 </figure>
 
 ---

@@ -22,8 +22,8 @@ Dữ liệu dịch tễ học từ **Nghiên cứu Lão hóa Nam giới Massachu
 3. **Mô Thể Hang Dương Vật Bị Mất Tính Đàn Hồi:** Lớp cơ trơn thể hang giảm dần và bị thay thế một phần bởi các sợi collagen xơ cứng, khiến dòng máu đổ về cần nhiều thời gian hơn và áp lực khóa tĩnh mạch dễ bị rò rỉ hơn.
 
 <figure class="article-inline-diagram">
-  <img src="images/LM_MH_02_figure.jpg" alt="Sơ đồ đường cong hormone nam giới theo độ tuổi" loading="lazy">
-  <figcaption>📊 <strong>Động Học Lão Hóa Nội Tiết:</strong> Đường cong suy giảm testosterone ở nam giới là một đường dốc thoai thoải, hoàn toàn có thể được làm chậm lại nhờ duy trì khối cơ nạc và thể lực tim mạch. <a href="https://commons.wikimedia.org/wiki/File:Male_Aging_Hormone_Curve.svg" target="_blank" rel="noopener">Nguồn sơ đồ: Wikimedia Commons ↗</a></figcaption>
+ <img src="images/LM_MH_02_figure.jpg" alt="Sơ đồ đường cong hormone nam giới theo độ tuổi" loading="lazy">
+ <figcaption>📊 <strong>Động Học Lão Hóa Nội Tiết:</strong> Đường cong suy giảm testosterone ở nam giới là một đường dốc thoai thoải, hoàn toàn có thể được làm chậm lại nhờ duy trì khối cơ nạc và thể lực tim mạch. <a href="https://commons.wikimedia.org/wiki/File:Male_Aging_Hormone_Curve.svg" target="_blank" rel="noopener">Nguồn sơ đồ: Wikimedia Commons ↗</a></figcaption>
 </figure>
 
 ---
@@ -78,8 +78,8 @@ Data from the **Massachusetts Male Aging Study (Feldman et al., MMAS)** on 1,709
 3. **Cavernosal Trabecular Remodeling:** Trabecular smooth muscle fibers gradually diminish, replaced by stiffer collagenous connective tissue, slowing arterial filling times.
 
 <figure class="article-inline-diagram">
-  <img src="images/LM_MH_02_figure.jpg" alt="Male aging hormone curves and androgen decline diagram" loading="lazy">
-  <figcaption>📊 <strong>Andropause Kinetics:</strong> Male reproductive aging is a gradual slope, highly responsive to preservation of lean skeletal muscle and cardiorespiratory fitness. <a href="https://commons.wikimedia.org/wiki/File:Male_Aging_Hormone_Curve.svg" target="_blank" rel="noopener">Diagram source: Wikimedia Commons ↗</a></figcaption>
+ <img src="images/LM_MH_02_figure.jpg" alt="Male aging hormone curves and androgen decline diagram" loading="lazy">
+ <figcaption>📊 <strong>Andropause Kinetics:</strong> Male reproductive aging is a gradual slope, highly responsive to preservation of lean skeletal muscle and cardiorespiratory fitness. <a href="https://commons.wikimedia.org/wiki/File:Male_Aging_Hormone_Curve.svg" target="_blank" rel="noopener">Diagram source: Wikimedia Commons ↗</a></figcaption>
 </figure>
 
 ---

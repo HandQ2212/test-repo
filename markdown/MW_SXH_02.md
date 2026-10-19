@@ -22,13 +22,13 @@ Tại sao một tổn thương mạch máu toàn thân lại luôn biểu hiện
 - **Động mạch cảnh nuôi não (Carotid artery):** Có đường kính **5 đến 7 mm**.
 - **Động mạch đùi (Femoral artery):** Có đường kính **6 đến 8 mm**.
 
-Khi cơ thể bắt đầu xuất hiện tình trạng viêm nội mô mạn tính, đề kháng insulin hoặc tích tụ mảng xơ vữa mỡ máu: một mảng bám mỏng làm hẹp $0.5\text{ mm}$ lòng mạch sẽ lập tức bóp nghẹt **hơn 50% tiết diện của động mạch hang 1mm**, làm suy sụp áp lực thủy lực cần thiết để cương cứng. Trong khi đó, cùng một mảng bám ấy trên động mạch vành 4mm chỉ làm giảm một phần nhỏ lưu lượng máu, chưa hề gây đau thắt ngực.
+Khi cơ thể bắt đầu xuất hiện tình trạng viêm nội mô mạn tính, đề kháng insulin hoặc tích tụ mảng xơ vữa mỡ máu: một mảng bám mỏng làm hẹp 0.5 mm lòng mạch sẽ lập tức bóp nghẹt **hơn 50% tiết diện của động mạch hang 1mm**, làm suy sụp áp lực thủy lực cần thiết để cương cứng. Trong khi đó, cùng một mảng bám ấy trên động mạch vành 4mm chỉ làm giảm một phần nhỏ lưu lượng máu, chưa hề gây đau thắt ngực.
 
 Vì vậy, **Rối loạn cương do căn nguyên mạch máu chính là dấu hiệu cảnh báo bệnh mạch vành đi trước thời gian từ 24 đến 60 tháng!**
 
 <figure class="article-inline-diagram">
-  <img src="images/DM_MH_02_figure.png" alt="Sơ đồ xơ vữa động mạch và mạch máu hang" loading="lazy">
-  <figcaption>📊 <strong>Giả Thuyết Kích Thước Động Mạch:</strong> Mạch máu nhỏ tắc trước, mạch máu lớn tắc sau. Nhận diện sớm ED giúp người đàn ông kịp thời đảo ngược nguy cơ nhồi máu cơ tim. <a href="https://commons.wikimedia.org/wiki/File:Atherosclerosis.svg" target="_blank" rel="noopener">Nguồn sơ đồ: Wikimedia Commons ↗</a></figcaption>
+ <img src="images/DM_MH_02_figure.png" alt="Sơ đồ xơ vữa động mạch và mạch máu hang" loading="lazy">
+ <figcaption>📊 <strong>Giả Thuyết Kích Thước Động Mạch:</strong> Mạch máu nhỏ tắc trước, mạch máu lớn tắc sau. Nhận diện sớm ED giúp người đàn ông kịp thời đảo ngược nguy cơ nhồi máu cơ tim. <a href="https://commons.wikimedia.org/wiki/File:Atherosclerosis.svg" target="_blank" rel="noopener">Nguồn sơ đồ: Wikimedia Commons ↗</a></figcaption>
 </figure>
 
 ---
@@ -80,13 +80,13 @@ Why does systemic vascular disease manifest in the bedroom years before manifest
 - **Carotid Artery (Brain):** Measures **5 to 7 mm** in diameter.
 - **Femoral Artery (Leg):** Measures **6 to 8 mm** in diameter.
 
-When chronic endothelial inflammation or atheromatous plaque begins forming: an identical $0.5\text{ mm}$ plaque occludes **over 50% of the 1mm cavernosal lumen**, collapsing intracavernosal hydraulic pressure. Meanwhile, that same $0.5\text{ mm}$ plaque in a 4mm coronary artery reduces lumen area minimally, causing zero angina.
+When chronic endothelial inflammation or atheromatous plaque begins forming: an identical 0.5 mm plaque occludes **over 50% of the 1mm cavernosal lumen**, collapsing intracavernosal hydraulic pressure. Meanwhile, that same 0.5 mm plaque in a 4mm coronary artery reduces lumen area minimally, causing zero angina.
 
 Thus, **Vascular Erectile Dysfunction is the primary early warning sign of coronary artery disease, preceding major cardiovascular events by 24 to 60 months!**
 
 <figure class="article-inline-diagram">
-  <img src="images/DM_MH_02_figure.png" alt="Atherosclerosis and cavernosal artery cross-section diagram" loading="lazy">
-  <figcaption>📊 <strong>The Artery Size Hypothesis:</strong> Smaller arteries occlude first. Detecting ED early provides an invaluable clinical window to reverse heart attack and stroke risks. <a href="https://commons.wikimedia.org/wiki/File:Atherosclerosis.svg" target="_blank" rel="noopener">Diagram source: Wikimedia Commons ↗</a></figcaption>
+ <img src="images/DM_MH_02_figure.png" alt="Atherosclerosis and cavernosal artery cross-section diagram" loading="lazy">
+ <figcaption>📊 <strong>The Artery Size Hypothesis:</strong> Smaller arteries occlude first. Detecting ED early provides an invaluable clinical window to reverse heart attack and stroke risks. <a href="https://commons.wikimedia.org/wiki/File:Atherosclerosis.svg" target="_blank" rel="noopener">Diagram source: Wikimedia Commons ↗</a></figcaption>
 </figure>
 
 ---

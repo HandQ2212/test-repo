@@ -23,8 +23,8 @@ Trong một đêm ngủ bình thường kéo dài 7–8 tiếng:
 - "Cương buổi sáng" (Morning Wood) mà bạn thấy khi thức giấc thực chất chỉ là **đợt cương NPT của chu kỳ ngủ REM cuối cùng** trước khi chuông báo thức reo!
 
 <figure class="article-inline-diagram">
-  <img src="images/LM_SL_02_figure.png" alt="Sơ đồ chu kỳ giấc ngủ REM và cương ban đêm" loading="lazy">
-  <figcaption>📊 <strong>Sự Đồng Bộ Giữa Não Bộ & Thể Hang:</strong> Khi não bộ chuyển sang pha ngủ REM, trung tâm ức chế Noradrenaline tại nhân Locus Coeruleus tạm ngừng hoạt động, cho phép các tín hiệu phó giao cảm kích hoạt cương cứng tự nhiên. <a href="https://commons.wikimedia.org/wiki/File:Sleep_Hypnogram.svg" target="_blank" rel="noopener">Nguồn sơ đồ: Wikimedia Commons ↗</a></figcaption>
+ <img src="images/LM_SL_02_figure.png" alt="Sơ đồ chu kỳ giấc ngủ REM và cương ban đêm" loading="lazy">
+ <figcaption>📊 <strong>Sự Đồng Bộ Giữa Não Bộ & Thể Hang:</strong> Khi não bộ chuyển sang pha ngủ REM, trung tâm ức chế Noradrenaline tại nhân Locus Coeruleus tạm ngừng hoạt động, cho phép các tín hiệu phó giao cảm kích hoạt cương cứng tự nhiên. <a href="https://commons.wikimedia.org/wiki/File:Sleep_Hypnogram.svg" target="_blank" rel="noopener">Nguồn sơ đồ: Wikimedia Commons ↗</a></figcaption>
 </figure>
 
 ---
@@ -32,7 +32,7 @@ Trong một đêm ngủ bình thường kéo dài 7–8 tiếng:
 ## Cơ Chế Sinh Học: Tại Sao Cơ Thể Lại Làm Điều Này Khi Bạn Đang Ngủ?
 
 Tại sao tự nhiên lại lập trình cho cơ thể cương cứng khi ta hoàn toàn không có ý định quan hệ tình dục? Các nhà sinh lý học nam khoa (**Bancroft et al., Sleep Med Rev**) chỉ ra 2 chức năng sống còn:
-1. **Oxy Hóa Tái Tạo Mô Thể Hang (Cavernosal Oxygenation):** Ở trạng thái mềm nhũn ban ngày, nồng độ oxy trong các khoang xốp thể hang chỉ đạt khoảng $35\text{ mmHg}$ (tương đương máu tĩnh mạch). Nếu tình trạng này kéo dài liên tục, các tế bào cơ trơn sẽ bị thoái hóa và thay thế bởi các mô xơ cứng (Fibrosis). Khi NPT xảy ra, lưu lượng máu động mạch giàu oxy ùa vào lấp đầy thể hang, đẩy nồng độ oxy lên tới **$90–100\text{ mmHg}$**, nuôi dưỡng và duy trì độ đàn hồi của màng trắng.
+1. **Oxy Hóa Tái Tạo Mô Thể Hang (Cavernosal Oxygenation):** Ở trạng thái mềm nhũn ban ngày, nồng độ oxy trong các khoang xốp thể hang chỉ đạt khoảng 35 mmHg (tương đương máu tĩnh mạch). Nếu tình trạng này kéo dài liên tục, các tế bào cơ trơn sẽ bị thoái hóa và thay thế bởi các mô xơ cứng (Fibrosis). Khi NPT xảy ra, lưu lượng máu động mạch giàu oxy ùa vào lấp đầy thể hang, đẩy nồng độ oxy lên tới **90–100 mmHg**, nuôi dưỡng và duy trì độ đàn hồi của màng trắng.
 2. **Khử Hoạt Tính Trung Tâm Ức Chế (Locus Coeruleus Shut-Off):** Ban ngày, nhân Locus Coeruleus ở thân não liên tục giải phóng Noradrenaline để giữ cơ trơn thể hang co thắt (ngăn ngừa cương ngoài ý muốn). Khi bước vào pha ngủ REM, nhân này tạm thời bị tắt hoàn toàn, mở đường cho hệ phó giao cảm chiếm ưu thế tuyệt đối.
 
 ---
@@ -86,8 +86,8 @@ During an ordinary 7–8 hour night of sleep:
 - "Morning wood" upon waking is simply **the final NPT episode coinciding with the terminal REM cycle** before morning alarm arousal!
 
 <figure class="article-inline-diagram">
-  <img src="images/LM_SL_02_figure.png" alt="REM sleep hypnogram and nocturnal erections diagram" loading="lazy">
-  <figcaption>📊 <strong>Brain-Cavernosal REM Synchronization:</strong> As the brain transitions into REM sleep, noradrenergic tone in the locus coeruleus pauses, allowing parasympathetic outflow to trigger erection. <a href="https://commons.wikimedia.org/wiki/File:Sleep_Hypnogram.svg" target="_blank" rel="noopener">Diagram source: Wikimedia Commons ↗</a></figcaption>
+ <img src="images/LM_SL_02_figure.png" alt="REM sleep hypnogram and nocturnal erections diagram" loading="lazy">
+ <figcaption>📊 <strong>Brain-Cavernosal REM Synchronization:</strong> As the brain transitions into REM sleep, noradrenergic tone in the locus coeruleus pauses, allowing parasympathetic outflow to trigger erection. <a href="https://commons.wikimedia.org/wiki/File:Sleep_Hypnogram.svg" target="_blank" rel="noopener">Diagram source: Wikimedia Commons ↗</a></figcaption>
 </figure>
 
 ---
@@ -95,7 +95,7 @@ During an ordinary 7–8 hour night of sleep:
 ## Biological Purpose: Why Does the Body Do This During Sleep?
 
 Why did evolution design men to erect when sexual reproduction is impossible? Urologists (**Bancroft et al., Sleep Med Rev**) outline 2 essential functions:
-1. **Cavernosal Oxygenation & Fibrosis Prevention:** In the flaccid state, oxygen tension in cavernosal sinusoids hovers around $35\text{ mmHg}$ (venous levels). Prolonged hypoxia leads to smooth muscle atrophy and collagenous fibrosis. NPT flushes oxygen-rich arterial blood at **$90–100\text{ mmHg}$**, nourishing tissue elasticity.
+1. **Cavernosal Oxygenation & Fibrosis Prevention:** In the flaccid state, oxygen tension in cavernosal sinusoids hovers around 35 mmHg (venous levels). Prolonged hypoxia leads to smooth muscle atrophy and collagenous fibrosis. NPT flushes oxygen-rich arterial blood at **90–100 mmHg**, nourishing tissue elasticity.
 2. **Locus Coeruleus Disinhibition:** During wakefulness, the locus coeruleus in the pons continuously releases noradrenaline to keep cavernosal smooth muscle contracted. In REM sleep, this inhibitory center is deactivated, permitting uninhibited parasympathetic vasodilation.
 
 ---
@@ -122,7 +122,7 @@ NPT remains the gold standard in clinical urology to pinpoint root etiology:
 
 ## 4-Step Practical Protocol for Restoring Natural Morning Erections
 
-1. **Target $\ge 20\%$ REM Sleep Duration Nightly:** Check your Apple Watch/WHOOP sleep stages: ensure REM sleep spans **1.5 to 2 hours every night**.
+1. **Target ≥ 20% REM Sleep Duration Nightly:** Check your Apple Watch/WHOOP sleep stages: ensure REM sleep spans **1.5 to 2 hours every night**.
 2. **Screen for Snoring and Sleep Apnea:** If you snore heavily, wake with dry mouth, and lack morning erections, get a formal polysomnography study.
 3. **Avoid Heavy Meals Within 3 Hours of Sleep:** Overloaded digestion impairs nocturnal temperature drops and fragments slow-wave and REM sleep.
 4. **Engage in Daily Zone 2 Exercise:** 30 minutes of aerobic running or cycling upregulates eNOS nitric oxide output, supporting robust nocturnal cavernosal hemodynamics.

@@ -21,12 +21,12 @@ Trong một nghiên cứu lâm sàng mang tính cột mốc xuất bản trên t
 2. **Nhóm nam giới cao tuổi bị thiếu kẽm nhẹ:** Được bổ sung kẽm sulfat trong 6 tháng. Kết quả: Nồng độ testosterone của họ **tăng gần gấp đôi từ 8.3 nmol/L lên 16.0 nmol/L**.
 
 Tại sao kẽm lại có sức mạnh khủng khiếp như vậy?
-- **Enzyme 17β-HSD:** Đây là enzyme cuối cùng tại tế bào Leydig xúc tác chuyển hóa Androstenedione thành Testosterone. Enzyme này phụ thuộc hoàn toàn vào các ion Kẽm ($Zn^{2+}$) để hoạt động.
+- **Enzyme 17β-HSD:** Đây là enzyme cuối cùng tại tế bào Leydig xúc tác chuyển hóa Androstenedione thành Testosterone. Enzyme này phụ thuộc hoàn toàn vào các ion Kẽm (Zn²⁺) để hoạt động.
 - **Cấu Trúc Ngón Tay Kẽm (Zinc Finger Motifs):** Để phân tử Testosterone sau khi gắn vào thụ thể Androgen có thể đi vào nhân tế bào và kích hoạt gen phát triển cơ bắp, nó bắt buộc phải dựa vào cấu trúc gập protein đặc biệt được cố định bởi nguyên tử Kẽm. Thiếu kẽm, thụ thể androgen trở nên "mù điếc" trước tín hiệu hormone.
 
 <figure class="article-inline-diagram">
-  <img src="images/LM_MH_01_figure.jpg" alt="Sơ đồ cấu trúc ngón tay kẽm và thụ thể Androgen" loading="lazy">
-  <figcaption>📊 <strong>Cấu Trúc Ngón Tay Kẽm (Zinc Finger Motif):</strong> Không có đủ kẽm, các thụ thể androgen không thể bám vào chuỗi DNA để truyền tín hiệu đồng hóa cơ bắp và duy trì sinh lực. <a href="https://commons.wikimedia.org/wiki/File:Zinc_finger.png" target="_blank" rel="noopener">Nguồn sơ đồ: Wikimedia Commons ↗</a></figcaption>
+ <img src="images/LM_MH_01_figure.jpg" alt="Sơ đồ cấu trúc ngón tay kẽm và thụ thể Androgen" loading="lazy">
+ <figcaption>📊 <strong>Cấu Trúc Ngón Tay Kẽm (Zinc Finger Motif):</strong> Không có đủ kẽm, các thụ thể androgen không thể bám vào chuỗi DNA để truyền tín hiệu đồng hóa cơ bắp và duy trì sinh lực. <a href="https://commons.wikimedia.org/wiki/File:Zinc_finger.png" target="_blank" rel="noopener">Nguồn sơ đồ: Wikimedia Commons ↗</a></figcaption>
 </figure>
 
 ---
@@ -35,7 +35,7 @@ Tại sao kẽm lại có sức mạnh khủng khiếp như vậy?
 
 Về bản chất sinh học, **Vitamin D thực chất là một hormone secosteroid** có cấu trúc tương tự testosterone và cortisol.
 Nghiên cứu của **Đại học Y Graz (Pilz et al., Hormone and Metabolic Research 2011)** trên 165 nam giới tham gia thử nghiệm ngẫu nhiên có đối chứng mù đôi (RCT) đã chứng minh:
-- Nhóm nam giới bổ sung **3.332 IU Vitamin D3 mỗi ngày trong 1 năm** có mức tăng nồng độ Testosterone toàn phần từ $10.7\text{ nmol/L lên }13.4\text{ nmol/L}$ ($+25\%$) và tăng Free Testosterone đáng kể so với nhóm dùng giả dược (Placebo).
+- Nhóm nam giới bổ sung **3.332 IU Vitamin D3 mỗi ngày trong 1 năm** có mức tăng nồng độ Testosterone toàn phần từ 10.7 nmol/L lên 13.4 nmol/L (+25%) và tăng Free Testosterone đáng kể so với nhóm dùng giả dược (Placebo).
 - Các thụ thể Vitamin D (**VDR**) và enzyme chuyển hóa vitamin D biểu hiện với mật độ rất dày đặc tại các tế bào Leydig, tế bào mầm và ống sinh tinh ở tinh hoàn, chứng minh Vitamin D tham gia trực tiếp vào việc điều hòa quá trình sinh tinh và sản xuất androgen.
 
 ---
@@ -45,8 +45,8 @@ Nghiên cứu của **Đại học Y Graz (Pilz et al., Hormone and Metabolic Re
 | Vi Chất | Dạng Hấp Thu Tối Ưu (Bioavailable Form) | Dạng Kém Hấp Thu Cần Tránh | Liều Lượng Duy Trì Mỗi Ngày | Lưu Ý Lâm Sàng Tránh Tác Dụng Phụ |
 | :--- | :--- | :--- | :--- | :--- |
 | **Kẽm (Zinc)** | **Zinc Bisglycinate** hoặc Zinc Picolinate | Zinc Oxide (Độ hấp thu ruột cực thấp <5%, dễ gây đau dạ dày) | **15 – 30 mg nguyên tố** | Không uống lúc đói; nếu bổ sung >30mg dài hạn, cần kèm **1–2mg Đồng (Copper)** để tránh thiếu máu. |
-| **Vitamin D** | **Vitamin D3 (Cholecalciferol)** kèm **Vitamin K2 (MK-7)** | Vitamin D2 (Ergocalciferol - nguồn gốc thực vật kém hiệu quả hơn) | **2.000 – 4.000 IU** | Bắt buộc uống cùng bữa ăn có chất béo; xét nghiệm nồng độ $25(OH)D$ máu để giữ mức tối ưu 40–60 ng/mL. |
-| **Magie (Đồng Yếu Tố)** | **Magnesium Glycinate** hoặc Malate | Magnesium Oxide (Chỉ có tác dụng nhuận tràng, hấp thu <4%) | **300 – 400 mg** | Uống buổi tối trước khi ngủ; giúp chuyển hóa Vitamin D thành dạng hoạt tính $1,25(OH)_2D$. |
+| **Vitamin D** | **Vitamin D3 (Cholecalciferol)** kèm **Vitamin K2 (MK-7)** | Vitamin D2 (Ergocalciferol - nguồn gốc thực vật kém hiệu quả hơn) | **2.000 – 4.000 IU** | Bắt buộc uống cùng bữa ăn có chất béo; xét nghiệm nồng độ 25(OH)D máu để giữ mức tối ưu 40–60 ng/mL. |
+| **Magie (Đồng Yếu Tố)** | **Magnesium Glycinate** hoặc Malate | Magnesium Oxide (Chỉ có tác dụng nhuận tràng, hấp thu <4%) | **300 – 400 mg** | Uống buổi tối trước khi ngủ; giúp chuyển hóa Vitamin D thành dạng hoạt tính 1,25(OH)₂D. |
 
 ---
 
@@ -77,12 +77,12 @@ In a seminal clinical study published in **Nutrition (Prasad et al., 1996)**, re
 2. **Marginally Zinc-Deficient Elderly Men:** Provided zinc sulfate supplementation for 6 months. Results: Serum testosterone **nearly doubled from 8.3 nmol/L to 16.0 nmol/L**.
 
 Why is zinc so biochemically indispensable?
-- **17β-HSD Enzyme:** The final step converting androstenedione to testosterone in Leydig cells is catalyzed by zinc-dependent enzymes ($Zn^{2+}$).
+- **17β-HSD Enzyme:** The final step converting androstenedione to testosterone in Leydig cells is catalyzed by zinc-dependent enzymes (Zn²⁺).
 - **Zinc Finger Motifs:** For testosterone to bind and activate androgen receptors within the cell nucleus, the receptor must fold around structural zinc ions. Without zinc, androgen receptors become functionally deaf to circulating hormones.
 
 <figure class="article-inline-diagram">
-  <img src="images/LM_MH_01_figure.jpg" alt="Zinc finger motif and androgen receptor diagram" loading="lazy">
-  <figcaption>📊 <strong>The Zinc Finger Structural Motif:</strong> Zinc ions coordinate structural folding in androgen receptor DNA-binding domains; deficiency breaks nuclear gene transcription for muscle protein synthesis. <a href="https://commons.wikimedia.org/wiki/File:Zinc_finger.png" target="_blank" rel="noopener">Diagram source: Wikimedia Commons ↗</a></figcaption>
+ <img src="images/LM_MH_01_figure.jpg" alt="Zinc finger motif and androgen receptor diagram" loading="lazy">
+ <figcaption>📊 <strong>The Zinc Finger Structural Motif:</strong> Zinc ions coordinate structural folding in androgen receptor DNA-binding domains; deficiency breaks nuclear gene transcription for muscle protein synthesis. <a href="https://commons.wikimedia.org/wiki/File:Zinc_finger.png" target="_blank" rel="noopener">Diagram source: Wikimedia Commons ↗</a></figcaption>
 </figure>
 
 ---
@@ -91,7 +91,7 @@ Why is zinc so biochemically indispensable?
 
 Vitamin D is structurally a secosteroid hormone identical in backbone to testosterone and cortisol.
 A randomized, double-blind placebo-controlled trial from the **Medical University of Graz (Pilz et al., Hormone and Metabolic Research 2011)** in 165 men demonstrated:
-- Men supplementing **3,332 IU Vitamin D3 daily for 1 year** achieved a significant increase in total testosterone (from $10.7\text{ to }13.4\text{ nmol/L}$, $+25\%$) and free testosterone compared to placebo.
+- Men supplementing **3,332 IU Vitamin D3 daily for 1 year** achieved a significant increase in total testosterone (from 10.7 to 13.4 nmol/L, +25%) and free testosterone compared to placebo.
 - Vitamin D receptors (**VDR**) are densely expressed throughout human Leydig cells, germ cells, and mature spermatozoa, demonstrating direct gonadal involvement.
 
 ---
@@ -101,8 +101,8 @@ A randomized, double-blind placebo-controlled trial from the **Medical Universit
 | Micronutrient | Optimal Bioavailable Form | Inferior Form to Avoid | Daily Maintenance Dose | Clinical Precaution |
 | :--- | :--- | :--- | :--- | :--- |
 | **Zinc** | **Zinc Bisglycinate** or Picolinate | Zinc Oxide (GI irritation, <5% absorption) | **15 – 30 mg elemental** | Take with meals; add **1–2mg Copper** if supplementing >30mg long term. |
-| **Vitamin D** | **Vitamin D3 (Cholecalciferol)** + **K2 (MK-7)** | Vitamin D2 (Ergocalciferol) | **2,000 – 4,000 IU** | Ingest with dietary fats; test $25(OH)D$ blood levels aiming for 40–60 ng/mL. |
-| **Magnesium (Cofactor)** | **Magnesium Glycinate** or Malate | Magnesium Oxide (Poor absorption, laxative) | **300 – 400 mg** | Ingest before bed; required to convert Vitamin D into its active form $1,25(OH)_2D$. |
+| **Vitamin D** | **Vitamin D3 (Cholecalciferol)** + **K2 (MK-7)** | Vitamin D2 (Ergocalciferol) | **2,000 – 4,000 IU** | Ingest with dietary fats; test 25(OH)D blood levels aiming for 40–60 ng/mL. |
+| **Magnesium (Cofactor)** | **Magnesium Glycinate** or Malate | Magnesium Oxide (Poor absorption, laxative) | **300 – 400 mg** | Ingest before bed; required to convert Vitamin D into its active form 1,25(OH)₂D. |
 
 ---
 

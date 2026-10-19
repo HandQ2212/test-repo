@@ -25,8 +25,8 @@ Trong nhiều thập kỷ, việc tập luyện cơ sàn chậu thường chỉ 
 Về mặt giải phẫu, sàn chậu nam giới là một mái vòm đa lớp gồm các cơ vân (những nhóm cơ bạn có thể chủ động điều khiển bằng ý thức) và các dải cân mạc bền chắc, căng như một chiếc võng nâng đỡ từ **khớp mu** ở phía trước, hai **ụ ngồi** ở hai bên, cho đến **xương cụt** ở phía sau. Khác với cơ trơn bên trong thành mạch máu—vốn hoạt động tự động ngoài ý muốn—các cơ sàn chậu được chi phối bởi **dây thần kinh Thẹn (Pudendal Nerve, rễ thần kinh cùng S2–S4)**. Điều này có nghĩa là chúng phản ứng trực tiếp với việc rèn luyện sức mạnh và sức bền thần kinh – cơ giống hệt như cơ bắp tay hay cơ đùi của bạn.
 
 <figure class="article-inline-diagram">
-  <img src="images/LM_MH_01_figure.jpg" alt="Giải phẫu cơ sàn chậu nam và nữ từ OpenStax Anatomy" loading="lazy">
-  <figcaption>📊 <strong>Cấu Trúc Giải Phẫu Hệ Cơ Sàn Chậu:</strong> Hình chiếu từ trên xuống và từ dưới lên của hoành chậu hông (cơ mu cụt, cơ mu trực tràng và cơ chậu cụt) tạo thành chiếc võng cơ học nối giữa xương mu và xương cụt. <a href="https://commons.wikimedia.org/wiki/File:1115_Muscles_of_the_Pelvic_Floor.jpg" target="_blank" rel="noopener noreferrer">Original Image Source: Wikimedia Commons ↗</a></figcaption>
+ <img src="images/LM_MH_01_figure.jpg" alt="Giải phẫu cơ sàn chậu nam và nữ từ OpenStax Anatomy" loading="lazy">
+ <figcaption>📊 <strong>Cấu Trúc Giải Phẫu Hệ Cơ Sàn Chậu:</strong> Hình chiếu từ trên xuống và từ dưới lên của hoành chậu hông (cơ mu cụt, cơ mu trực tràng và cơ chậu cụt) tạo thành chiếc võng cơ học nối giữa xương mu và xương cụt. <a href="https://commons.wikimedia.org/wiki/File:1115_Muscles_of_the_Pelvic_Floor.jpg" target="_blank" rel="noopener noreferrer">Original Image Source: Wikimedia Commons ↗</a></figcaption>
 </figure>
 
 ---
@@ -99,8 +99,8 @@ For decades, pelvic floor muscle training was discussed almost exclusively in th
 Anatomically, the male pelvic floor is a multi-layered dome of striated (voluntary) skeletal muscle and dense fascia stretched like a structural hammock between the **pubic symphysis** in front, the **ischial tuberosities** (sit bones) on either side, and the **coccyx** (tailbone) at the back. Unlike smooth muscle inside blood vessels—which you cannot consciously contract—your pelvic floor muscles are innervated by the somatic **Pudendal Nerve (sacral roots S2–S4)**, meaning they respond directly to targeted neuromuscular strength and endurance training just like your biceps or quadriceps.
 
 <figure class="article-inline-diagram">
-  <img src="images/LM_MH_01_figure.jpg" alt="Muscles of the Pelvic Floor OpenStax Anatomy" loading="lazy">
-  <figcaption>📊 <strong>Anatomical Architecture of the Pelvic Floor:</strong> Superior and inferior clinical views of the pelvic diaphragm (pubococcygeus, puborectalis, and iliococcygeus) forming the muscular sling between the pubic bone and coccyx. <a href="https://commons.wikimedia.org/wiki/File:1115_Muscles_of_the_Pelvic_Floor.jpg" target="_blank" rel="noopener noreferrer">Original Image Source: Wikimedia Commons ↗</a></figcaption>
+ <img src="images/LM_MH_01_figure.jpg" alt="Muscles of the Pelvic Floor OpenStax Anatomy" loading="lazy">
+ <figcaption>📊 <strong>Anatomical Architecture of the Pelvic Floor:</strong> Superior and inferior clinical views of the pelvic diaphragm (pubococcygeus, puborectalis, and iliococcygeus) forming the muscular sling between the pubic bone and coccyx. <a href="https://commons.wikimedia.org/wiki/File:1115_Muscles_of_the_Pelvic_Floor.jpg" target="_blank" rel="noopener noreferrer">Original Image Source: Wikimedia Commons ↗</a></figcaption>
 </figure>
 
 ---

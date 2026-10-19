@@ -17,13 +17,13 @@
 ## Nghiên Cứu Sức Khỏe Cựu Sinh Viên Harvard (Harvard Alumni Study)
 
 Trong công trình theo dõi sức khỏe quy mô lớn trên **22.000 nam giới trong hơn 14 năm** của **Đại học Y Harvard (Feldman et al.)**, mối liên hệ giữa thể lực tim mạch và phong độ phòng the đã được chứng minh không thể chối cãi:
-- Nam giới duy trì thói quen tập luyện đốt cháy tối thiểu **$1.000\text{ kcal/tuần}$ (khoảng 30 phút đi bộ nhanh hoặc chạy bộ mỗi ngày)** có **tỷ lệ mắc rối loạn cương thấp hơn 50%** so với nhóm ngồi một chỗ ít vận động.
+- Nam giới duy trì thói quen tập luyện đốt cháy tối thiểu **1.000 kcal/tuần (khoảng 30 phút đi bộ nhanh hoặc chạy bộ mỗi ngày)** có **tỷ lệ mắc rối loạn cương thấp hơn 50%** so với nhóm ngồi một chỗ ít vận động.
 - Những người đàn ông bắt đầu tập thể dục đều đặn ở tuổi trung niên (sau 40–50 tuổi) vẫn giảm được tới **30% nguy cơ suy giảm chức năng cương** so với những người tiếp tục duy trì lối sống thụ động.
 - Mỗi sự cải thiện **1 MET (đơn vị chuyển hóa tương đương)** trong bài kiểm tra gắng sức tim mạch giúp giảm trực tiếp **15% nguy cơ suy giảm tình dục**.
 
 <figure class="article-inline-diagram">
-  <img src="images/LM_HW_02_figure.jpg" alt="Sơ đồ thể lực tim mạch VO2 Max" loading="lazy">
-  <figcaption>📊 <strong>Sức Bền Tim Mạch & Bản Lĩnh:</strong> Điểm Cardio Fitness (VO2 Max) trên Apple Watch tương quan nghịch trực tiếp với mức độ xơ vữa của động mạch hang dương vật. <a href="https://commons.wikimedia.org/wiki/File:VO2_max_aerobic_capacity.svg" target="_blank" rel="noopener">Nguồn sơ đồ: Wikimedia Commons ↗</a></figcaption>
+ <img src="images/LM_HW_02_figure.jpg" alt="Sơ đồ thể lực tim mạch VO2 Max" loading="lazy">
+ <figcaption>📊 <strong>Sức Bền Tim Mạch & Bản Lĩnh:</strong> Điểm Cardio Fitness (VO2 Max) trên Apple Watch tương quan nghịch trực tiếp với mức độ xơ vữa của động mạch hang dương vật. <a href="https://commons.wikimedia.org/wiki/File:VO2_max_aerobic_capacity.svg" target="_blank" rel="noopener">Nguồn sơ đồ: Wikimedia Commons ↗</a></figcaption>
 </figure>
 
 ---
@@ -53,7 +53,7 @@ Trong một thử nghiệm lâm sàng ngẫu nhiên chấn động công bố tr
 
 1. **Thứ 2, 4, 6: Tập Kháng Lực Tập Trung Thân Dưới & Hông:** Ưu tiên các bài tập Squat, Barbell Hip Thrust và Roman Chair Back Extension. Các động tác này kích hoạt lưu lượng máu dồi dào đổ dồn về toàn bộ vùng chậu và háng.
 2. **Thứ 3, 5, 7: 45 Phút Cardio Zone 2 Đều Đặn:** Chạy bộ ngoài trời hoặc đạp xe duy trì ở mức nhịp tim Zone 2 (vẫn có thể hít thở bằng mũi hoặc nói chuyện thành câu trọn vẹn).
-3. **Mỗi Ngày: 5 Phút Tập Kegel Nam Vào Buổi Sáng & Chiều:** Thực hiện bài tập siết cơ ngắt dòng nước tiểu (cơ sàn chậu) khi ngồi làm việc hoặc lái xe: **Siết chặt 5 giây $\rightarrow$ Thả lỏng hoàn toàn 10 giây $\rightarrow$ Lặp lại 10–12 lần**.
+3. **Mỗi Ngày: 5 Phút Tập Kegel Nam Vào Buổi Sáng & Chiều:** Thực hiện bài tập siết cơ ngắt dòng nước tiểu (cơ sàn chậu) khi ngồi làm việc hoặc lái xe: **Siết chặt 5 giây → Thả lỏng hoàn toàn 10 giây → Lặp lại 10–12 lần**.
 4. **Theo Dõi Chỉ Số Cardio Fitness Hàng Tháng:** Đặt mục tiêu nâng điểm VO2 Max trên Apple Watch/Garmin lên mức "Above Average" hoặc "High" so với lứa tuổi của bạn.
 
 ---
@@ -72,13 +72,13 @@ Trong một thử nghiệm lâm sàng ngẫu nhiên chấn động công bố tr
 ## The Harvard Alumni Health Study: Exercise as Vascular Medicine
 
 In a landmark longitudinal study tracking **22,000 men over 14 years** by **Harvard Medical School (Feldman et al.)**, the link between cardiovascular fitness and sexual vitality was conclusively proven:
-- Men burning at least **$1,000\text{ kcal/week}$ (~30 minutes of brisk walking or jogging daily)** had a **50% lower risk of developing erectile dysfunction** compared to sedentary counterparts.
+- Men burning at least **1,000 kcal/week (~30 minutes of brisk walking or jogging daily)** had a **50% lower risk of developing erectile dysfunction** compared to sedentary counterparts.
 - Men who initiated regular exercise in midlife (after age 40–50) still enjoyed a **30% reduction in ED risk** compared to those remaining sedentary.
 - Every **1-MET increase** in cardiorespiratory fitness produced a direct **15% reduction in sexual dysfunction risk**.
 
 <figure class="article-inline-diagram">
-  <img src="images/LM_HW_02_figure.jpg" alt="VO2 Max and cardiovascular fitness diagram" loading="lazy">
-  <figcaption>📊 <strong>Cardiorespiratory Fitness & Virility:</strong> Cardio Fitness (VO2 Max) on Apple Watch inversely correlates with cavernosal atherosclerotic plaque burden. <a href="https://commons.wikimedia.org/wiki/File:VO2_max_aerobic_capacity.svg" target="_blank" rel="noopener">Diagram source: Wikimedia Commons ↗</a></figcaption>
+ <img src="images/LM_HW_02_figure.jpg" alt="VO2 Max and cardiovascular fitness diagram" loading="lazy">
+ <figcaption>📊 <strong>Cardiorespiratory Fitness & Virility:</strong> Cardio Fitness (VO2 Max) on Apple Watch inversely correlates with cavernosal atherosclerotic plaque burden. <a href="https://commons.wikimedia.org/wiki/File:VO2_max_aerobic_capacity.svg" target="_blank" rel="noopener">Diagram source: Wikimedia Commons ↗</a></figcaption>
 </figure>
 
 ---
@@ -106,7 +106,7 @@ In a randomized controlled trial published in the **British Journal of General P
 
 1. **Monday, Wednesday, Friday: Lower Body & Hip Training:** Prioritize Barbell Squats, Hip Thrusts, and Romanian Deadlifts to drive rich pelvic circulation.
 2. **Tuesday, Thursday, Saturday: 45 Minutes of Zone 2 Cardio:** Run, row, or cycle maintaining a steady Zone 2 heart rate (able to converse in complete sentences).
-3. **Daily: 5 Minutes of Male Kegel Conditioning:** Perform pelvic floor contractions while seated at your desk: **Contract 5s $\rightarrow$ Fully relax 10s $\rightarrow$ Repeat 10–12 times**.
+3. **Daily: 5 Minutes of Male Kegel Conditioning:** Perform pelvic floor contractions while seated at your desk: **Contract 5s → Fully relax 10s → Repeat 10–12 times**.
 4. **Track Monthly Cardio Fitness (VO2 Max):** Aim to elevate VO2 Max into the "Above Average" or "High" tier on your Apple Watch or Garmin.
 
 ---

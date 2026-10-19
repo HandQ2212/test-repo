@@ -23,13 +23,13 @@ Trong một nghiên cứu ngẫu nhiên có đối chứng cực kỳ nghiêm ng
 Sau 8 tuần, kết quả cho thấy:
 - **Cả hai nhóm đều duy trì khối cơ nạc và tăng sức mạnh như nhau.**
 - Nhóm nhịn ăn 16/8 **giảm mỡ bụng tốt hơn đáng kể** và chỉ số đề kháng insulin HOMA-IR hạ thấp rõ rệt.
-- **TUY NHIÊN:** Ở nhóm nhịn ăn 16/8, các nhà nghiên cứu ghi nhận **nồng độ Testosterone toàn phần giảm trung bình từ $15.5\text{ ng/mL xuống }13.6\text{ ng/mL}$**, hormone tuyến giáp T3 tự do giảm nhẹ và hormone tăng trưởng IGF-1 giảm.
+- **TUY NHIÊN:** Ở nhóm nhịn ăn 16/8, các nhà nghiên cứu ghi nhận **nồng độ Testosterone toàn phần giảm trung bình từ 15.5 ng/mL xuống 13.6 ng/mL**, hormone tuyến giáp T3 tự do giảm nhẹ và hormone tăng trưởng IGF-1 giảm.
 
 Điều này chứng minh: Nhịn ăn gián đoạn không phải là một "phép màu" hoàn hảo không tì vết, mà là một sự đánh đổi sinh học tùy thuộc vào mục tiêu và lượng mỡ cơ thể hiện tại của bạn.
 
 <figure class="article-inline-diagram">
-  <img src="images/DM_AC_02_figure.png" alt="Sơ đồ chuyển hóa năng lượng và nhạy insulin" loading="lazy">
-  <figcaption>📊 <strong>Chuyển Hóa Năng Lượng Giữa Đường & Mỡ:</strong> Nhịn ăn 16 tiếng buộc cơ thể chuyển sang trạng thái đốt axit béo (Metabolic Flexibility), nhưng nếu kéo dài quá mức sẽ kích hoạt trục stress sinh tồn. <a href="https://commons.wikimedia.org/wiki/File:Insulin_glucose_metabolism.svg" target="_blank" rel="noopener">Nguồn sơ đồ: Wikimedia Commons ↗</a></figcaption>
+ <img src="images/DM_AC_02_figure.png" alt="Sơ đồ chuyển hóa năng lượng và nhạy insulin" loading="lazy">
+ <figcaption>📊 <strong>Chuyển Hóa Năng Lượng Giữa Đường & Mỡ:</strong> Nhịn ăn 16 tiếng buộc cơ thể chuyển sang trạng thái đốt axit béo (Metabolic Flexibility), nhưng nếu kéo dài quá mức sẽ kích hoạt trục stress sinh tồn. <a href="https://commons.wikimedia.org/wiki/File:Insulin_glucose_metabolism.svg" target="_blank" rel="noopener">Nguồn sơ đồ: Wikimedia Commons ↗</a></figcaption>
 </figure>
 
 ---
@@ -54,7 +54,7 @@ Một trong những lập luận phổ biến của người ủng hộ IF là: 
 
 ## Giao Thức 4 Bước Tối Ưu Nhịn Ăn Gián Đoạn Cho Phái Mạnh
 
-1. **Khởi Đầu Nhẹ Nhàng Bằng Khung Giờ 14/10:** Bắt đầu bằng 14 tiếng nhịn (ngừng ăn lúc 20:00 tối $\rightarrow$ ăn sáng lúc 10:00 sáng hôm sau). Đây là tỷ lệ an toàn giúp cải thiện tiêu hóa mà không làm xáo trộn nhịp tiết testosterone.
+1. **Khởi Đầu Nhẹ Nhàng Bằng Khung Giờ 14/10:** Bắt đầu bằng 14 tiếng nhịn (ngừng ăn lúc 20:00 tối → ăn sáng lúc 10:00 sáng hôm sau). Đây là tỷ lệ an toàn giúp cải thiện tiêu hóa mà không làm xáo trộn nhịp tiết testosterone.
 2. **Không Bao Giờ Tập Tạ Cường Độ Cao Khi Đang Đói Khát:** Tập kháng lực nặng trong trạng thái nhịn ăn kéo dài làm gia tăng đột biến hormone dị hóa Cortisol và tổn thương vi sợi cơ mà không có sẵn amino axit để sửa chữa. Nếu tập sáng, hãy bổ sung 10g EAAs hoặc 1 muỗng Whey Protein.
 3. **Giữ Nguyên Tổng Lượng Calo & Protein Trong Cửa Sổ Ăn:** Đừng biến nhịn ăn gián đoạn thành một chế độ "bỏ đói cơ thể". Trong 8 tiếng ăn, bạn vẫn phải nạp đủ **1.8g protein/kg** và lượng chất béo lành mạnh để nuôi tế bào Leydig.
 4. **Theo Dõi Điểm Phục Hồi (Recovery Score) & Giấc Ngủ:** Nếu áp dụng IF khiến bạn trằn trọc khó ngủ vì đói hoặc điểm Recovery rơi vào vùng vàng/đỏ liên tục, cơ thể bạn đang báo động quá tải stress. Hãy nới rộng khung giờ ăn ngay lập tức.
@@ -81,13 +81,13 @@ In a rigorous randomized controlled trial published in the **Journal of Translat
 After 8 weeks:
 - **Both cohorts preserved fat-free mass and gained maximal strength equally.**
 - The 16/8 cohort **lost significantly more visceral fat** and showed improved HOMA-IR insulin sensitivity.
-- **HOWEVER:** In the 16/8 group, researchers observed that **serum total testosterone decreased significantly from $15.5\text{ to }13.6\text{ ng/mL}$**, free thyroid T3 declined, and IGF-1 contracted.
+- **HOWEVER:** In the 16/8 group, researchers observed that **serum total testosterone decreased significantly from 15.5 to 13.6 ng/mL**, free thyroid T3 declined, and IGF-1 contracted.
 
 Intermittent fasting is not a cost-free panacea; it represents a physiological trade-off dependent on your baseline body composition and athletic demands.
 
 <figure class="article-inline-diagram">
-  <img src="images/DM_AC_02_figure.png" alt="Insulin dynamics and metabolic flexibility diagram" loading="lazy">
-  <figcaption>📊 <strong>Fuel Switching Under Fasting:</strong> Fasting forces cellular adaptation toward free fatty acid oxidation, but prolonged fasting in lean individuals triggers energy-conservation stress responses. <a href="https://commons.wikimedia.org/wiki/File:Insulin_glucose_metabolism.svg" target="_blank" rel="noopener">Diagram source: Wikimedia Commons ↗</a></figcaption>
+ <img src="images/DM_AC_02_figure.png" alt="Insulin dynamics and metabolic flexibility diagram" loading="lazy">
+ <figcaption>📊 <strong>Fuel Switching Under Fasting:</strong> Fasting forces cellular adaptation toward free fatty acid oxidation, but prolonged fasting in lean individuals triggers energy-conservation stress responses. <a href="https://commons.wikimedia.org/wiki/File:Insulin_glucose_metabolism.svg" target="_blank" rel="noopener">Diagram source: Wikimedia Commons ↗</a></figcaption>
 </figure>
 
 ---
@@ -112,7 +112,7 @@ Proponents of IF celebrate that fasting increases growth hormone by up to 500% (
 
 ## 4-Step Practical Protocol for Fasting Without Endocrine Compromise
 
-1. **Start with a 14/10 Window:** Fast 14 hours (finish dinner at 20:00 $\rightarrow$ breakfast at 10:00). Improves digestion and insulin sensitivity without stressing the gonadal axis.
+1. **Start with a 14/10 Window:** Fast 14 hours (finish dinner at 20:00 → breakfast at 10:00). Improves digestion and insulin sensitivity without stressing the gonadal axis.
 2. **Never Lift Heavy in a Deeply Depleted State:** Performing maximal resistance workouts while fasted spikes cortisol and increases muscle breakdown without amino acids for repair. Ingest 10g EAAs or 1 scoop whey pre-workout if training early.
 3. **Hit Full Daily Calories & Protein:** Never conflate fasting with starvation. In your 8-hour feeding window, consume **1.8g protein/kg** and sufficient healthy fats for Leydig cells.
 4. **Monitor Recovery Score and Sleep Quality:** If fasting triggers insomnia or causes your Recovery Score to crater into yellow/red, your body is signaling excessive stress. Expand your eating window immediately.

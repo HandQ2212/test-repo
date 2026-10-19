@@ -25,8 +25,8 @@ Khi Tiến sĩ Arnold Kegel công bố công trình nghiên cứu tiên phong v�
 Tại sao việc làm khỏe hai nhóm cơ vân nhỏ bé ở đáy khung chậu lại mang đến kết quả lâm sàng tương đương với các thuốc giãn mạch kê đơn? Bởi vì độ cương cứng và khả năng kiểm soát xuất tinh của nam giới được chi phối trực tiếp bởi **các quy luật vật lý huyết động học và thần kinh phản xạ tủy sống có thể đo lường chính xác**.
 
 <figure class="article-inline-diagram">
-  <img src="images/LM_MH_03_figure.jpg" alt="Giải phẫu mặt cắt dọc và ngang của hệ sinh dục nam và buồng vật hang" loading="lazy">
-  <figcaption>📊 <strong>Hệ Thống Buồng Mạch Vùng Chậu & Dương Vật Nam Giới:</strong> Giải phẫu mặt cắt ngang của cặp vật hang (corpora cavernosa), vật xốp (corpus spongiosum) và hệ thống tĩnh mạch lưng sâu chịu sự điều tiết bởi lực ép cơ học của cơ ngồi hang và cơ hành hang. <a href="https://commons.wikimedia.org/wiki/File:Figure_28_01_06.jpg" target="_blank" rel="noopener noreferrer">Original Image Source: Wikimedia Commons ↗</a></figcaption>
+ <img src="images/LM_MH_03_figure.jpg" alt="Giải phẫu mặt cắt dọc và ngang của hệ sinh dục nam và buồng vật hang" loading="lazy">
+ <figcaption>📊 <strong>Hệ Thống Buồng Mạch Vùng Chậu & Dương Vật Nam Giới:</strong> Giải phẫu mặt cắt ngang của cặp vật hang (corpora cavernosa), vật xốp (corpus spongiosum) và hệ thống tĩnh mạch lưng sâu chịu sự điều tiết bởi lực ép cơ học của cơ ngồi hang và cơ hành hang. <a href="https://commons.wikimedia.org/wiki/File:Figure_28_01_06.jpg" target="_blank" rel="noopener noreferrer">Original Image Source: Wikimedia Commons ↗</a></figcaption>
 </figure>
 
 ---
@@ -36,9 +36,9 @@ Tại sao việc làm khỏe hai nhóm cơ vân nhỏ bé ở đáy khung chậu
 Trong thử nghiệm lâm sàng đối chứng ngẫu nhiên (RCT) tiêu chuẩn vàng được thực hiện tại Bệnh viện Somerset Nuffield và công bố trên tạp chí danh tiếng **BJU International** (**Dorey và cộng sự, 2005, PMID: 16011707**), Giáo sư Grace Dorey cùng các cộng sự đã nghiên cứu **55 nam giới từ 20 đến 78 tuổi** (độ tuổi trung bình 59,2) bị Rối loạn cương dương (ED) mãn tính tối thiểu 6 tháng:
 - **Thiết kế nghiên cứu:** Nhóm 1 thực hiện **phác đồ tập cơ sàn chậu chuyên sâu kéo dài 6 tháng** có hướng dẫn phản hồi sinh học áp lực (biofeedback) kết hợp điều chỉnh lối sống, trong khi Nhóm 2 chỉ thay đổi lối sống trong 3 tháng đầu trước khi chuyển sang tập sàn chậu.
 - **Kết quả lâm sàng sau 6 tháng:**
-  - **40,0% nam giới khôi phục hoàn toàn chức năng cương dương bình thường** theo thang điểm chuẩn quốc tế `IIEF-5` và đánh giá lâm sàng mù đơn.
-  - **35,5% đạt mức cải thiện lâm sàng rõ rệt** về độ cứng cũng như khả năng duy trì khi giao hợp.
-  - Chỉ **24,5% không cải thiện** (chủ yếu là nhóm bệnh nhân có tổn thương xơ vữa động mạch nặng hoặc tổn thương dây thần kinh thực thể).
+ - **40,0% nam giới khôi phục hoàn toàn chức năng cương dương bình thường** theo thang điểm chuẩn quốc tế `IIEF-5` và đánh giá lâm sàng mù đơn.
+ - **35,5% đạt mức cải thiện lâm sàng rõ rệt** về độ cứng cũng như khả năng duy trì khi giao hợp.
+ - Chỉ **24,5% không cải thiện** (chủ yếu là nhóm bệnh nhân có tổn thương xơ vữa động mạch nặng hoặc tổn thương dây thần kinh thực thể).
 - **Cột mốc hiệu quả 75,5%:** Đáng chú ý, những bệnh nhân duy trì thói quen **co cơ hành hang sau khi đi tiểu** cùng các hiệp siết cơ hàng ngày đã bảo toàn trọn vẹn kết quả cương cứng ở các đợt tái khám dài hạn, đưa tập luyện sàn chậu trở thành phác đồ điều trị đầu tay trước khi—hoặc song hành cùng—nhóm thuốc ức chế PDE5.
 
 ---
@@ -49,9 +49,9 @@ Nếu nghiên cứu của Giáo sư Dorey chứng minh sức mạnh huyết đ�
 - **Đối tượng nghiên cứu:** 40 nam giới từ 19–46 tuổi bị xuất tinh sớm nguyên phát với **Thời gian tiềm tàng xuất tinh trong âm đạo (IELT) ban đầu ≤ 60 giây** (mức trung bình toàn nhóm chỉ đạt **31,7 giây**).
 - **Phác đồ phục hồi 12 tuần:** Bệnh nhân trải qua 12 tuần tập vận động trị liệu sàn chậu và phản hồi sinh học vùng đáy chậu nhằm học cách nhận diện và chủ động co cơ sàn chậu trước khi chạm ngưỡng phản xạ xuất tinh.
 - **Kết quả lâm sàng sau 12 tuần:**
-  - **82,5% bệnh nhân (33 trên 40 người) giành lại quyền kiểm soát chủ động đối với phản xạ xuất tinh.**
-  - Thời gian quan hệ trung bình (`IELT`) **tăng vọt hơn 4,6 lần**, từ mức **31,7 ± 14,8 giây ban đầu lên 146,4 ± 38,3 giây** (`p < 0,0001`).
-  - Ở nhóm bệnh nhân được theo dõi tiếp ở mốc 6 tháng, thời gian kiểm soát vẫn duy trì ổn định trên **129,6 giây** mà hoàn toàn không cần phụ thuộc vào thuốc xịt gây tê hay thuốc chống trầm cảm SSRI.
+ - **82,5% bệnh nhân (33 trên 40 người) giành lại quyền kiểm soát chủ động đối với phản xạ xuất tinh.**
+ - Thời gian quan hệ trung bình (`IELT`) **tăng vọt hơn 4,6 lần**, từ mức **31,7 ± 14,8 giây ban đầu lên 146,4 ± 38,3 giây** (`p < 0,0001`).
+ - Ở nhóm bệnh nhân được theo dõi tiếp ở mốc 6 tháng, thời gian kiểm soát vẫn duy trì ổn định trên **129,6 giây** mà hoàn toàn không cần phụ thuộc vào thuốc xịt gây tê hay thuốc chống trầm cảm SSRI.
 
 ---
 
@@ -107,8 +107,8 @@ When Dr. Arnold Kegel published his seminal research on pelvic floor muscle reha
 Why does strengthening two small striated muscles at the base of the pelvis produce outcomes comparable to prescription vasoactive medications? Because male erectile rigidity and ejaculatory control are governed by **measurable hemodynamic physics and spinal reflex neurology**.
 
 <figure class="article-inline-diagram">
-  <img src="images/LM_MH_03_figure.jpg" alt="Sagittal and Cross-Sectional Anatomy of the Male Reproductive System and Corpora Cavernosa" loading="lazy">
-  <figcaption>📊 <strong>Vascular Chambers of the Male Pelvis & Penis:</strong> Cross-sectional anatomy of the paired corpora cavernosa, corpus spongiosum, and deep dorsal venous drainage system regulated by ischiocavernosus and bulbocavernosus muscle compression. <a href="https://commons.wikimedia.org/wiki/File:Figure_28_01_06.jpg" target="_blank" rel="noopener noreferrer">Original Image Source: Wikimedia Commons ↗</a></figcaption>
+ <img src="images/LM_MH_03_figure.jpg" alt="Sagittal and Cross-Sectional Anatomy of the Male Reproductive System and Corpora Cavernosa" loading="lazy">
+ <figcaption>📊 <strong>Vascular Chambers of the Male Pelvis & Penis:</strong> Cross-sectional anatomy of the paired corpora cavernosa, corpus spongiosum, and deep dorsal venous drainage system regulated by ischiocavernosus and bulbocavernosus muscle compression. <a href="https://commons.wikimedia.org/wiki/File:Figure_28_01_06.jpg" target="_blank" rel="noopener noreferrer">Original Image Source: Wikimedia Commons ↗</a></figcaption>
 </figure>
 
 ---
@@ -118,9 +118,9 @@ Why does strengthening two small striated muscles at the base of the pelvis prod
 In the gold-standard randomized controlled trial conducted at Somerset Nuffield Hospital and published in **BJU International** (**Dorey et al., 2005, PMID: 16011707**), Professor Grace Dorey and colleagues recruited **55 men aged 20 to 78** (mean age 59.2 years) suffering from clinical Erectile Dysfunction (ED) for at least 6 months:
 - **Study Design:** Group 1 underwent **6 months of structured Pelvic Floor Muscle Exercises** taught with manometric anal pressure biofeedback plus lifestyle guidance, while Group 2 received lifestyle modifications alone for the first 3 months before crossing over to pelvic floor training.
 - **Clinical Outcomes at 6 Months:**
-  - **40.0% of participants regained completely normal erectile function** on the validated International Index of Erectile Function (`IIEF-5`) and blind clinical assessment.
-  - **35.5% achieved significant clinical improvement** in rigidity and penetration stamina.
-  - Only **24.5% failed to improve** (primarily men with severe underlying arterial disease or neurological nerve damage).
+ - **40.0% of participants regained completely normal erectile function** on the validated International Index of Erectile Function (`IIEF-5`) and blind clinical assessment.
+ - **35.5% achieved significant clinical improvement** in rigidity and penetration stamina.
+ - Only **24.5% failed to improve** (primarily men with severe underlying arterial disease or neurological nerve damage).
 - **The 75.5% Success Benchmark:** Crucially, men who practiced the **post-void bulbocavernosus squeeze** and daily maximal contractions maintained their erectile gains at long-term follow-up, leading the authors to recommend pelvic floor rehabilitation as a front-line therapy before—or alongside—PDE5 inhibitors.
 
 ---
@@ -131,9 +131,9 @@ While Dorey et al. proved the hemodynamic power of PFMT for erection hardness, D
 - **Patient Cohort:** 40 men aged 19–46 with lifelong PE defined by a baseline **Intra-vaginal Ejaculatory Latency Time (IELT) of ≤ 60 seconds** (group baseline mean: **31.7 seconds**).
 - **12-Week Rehabilitation Protocol:** Patients completed 12 weeks of physiokinesitherapy, electrostimulation, and active perineal biofeedback learning to recognize and contract their pelvic floor muscles before crossing the ejaculatory threshold.
 - **Clinical Outcomes at 12 Weeks:**
-  - **82.5% of patients (33 out of 40 men) gained full voluntary control over their ejaculatory reflex.**
-  - Mean ejaculatory latency time (`IELT`) **more than quadrupled**, rising from **31.7 ± 14.8 seconds at baseline to 146.4 ± 38.3 seconds** (`p < 0.0001`).
-  - Among follow-up patients tracked at 6 months, latency remained stably elevated above **129.6 seconds** without reliance on topical anesthetics or SSRI medications.
+ - **82.5% of patients (33 out of 40 men) gained full voluntary control over their ejaculatory reflex.**
+ - Mean ejaculatory latency time (`IELT`) **more than quadrupled**, rising from **31.7 ± 14.8 seconds at baseline to 146.4 ± 38.3 seconds** (`p < 0.0001`).
+ - Among follow-up patients tracked at 6 months, latency remained stably elevated above **129.6 seconds** without reliance on topical anesthetics or SSRI medications.
 
 ---
 

@@ -23,8 +23,8 @@ Não bộ loài người được lập trình với hai hệ thống hóa học
 Nếu một cặp đôi chỉ dựa vào sức hút ngoại hình mà không bồi đắp sự thân mật cảm xúc, họ sẽ nhanh chóng rơi vào cảm giác "hết yêu" khi dopamine cạn kiệt.
 
 <figure class="article-inline-diagram">
-  <img src="images/DM_HW_01_figure.jpg" alt="Sơ đồ phân tử hormone gắn kết Oxytocin" loading="lazy">
-  <figcaption>📊 <strong>Kiến Trúc Sư Của Lòng Tin:</strong> Oxytocin trực tiếp làm dịu phản ứng báo động của hạch hạnh nhân (Amygdala), cho phép con người cảm thấy an toàn tuyệt đối khi ở cạnh người bạn đời. <a href="https://commons.wikimedia.org/wiki/File:Oxytocin_structure.svg" target="_blank" rel="noopener">Nguồn sơ đồ: Wikimedia Commons ↗</a></figcaption>
+ <img src="images/DM_HW_01_figure.jpg" alt="Sơ đồ phân tử hormone gắn kết Oxytocin" loading="lazy">
+ <figcaption>📊 <strong>Kiến Trúc Sư Của Lòng Tin:</strong> Oxytocin trực tiếp làm dịu phản ứng báo động của hạch hạnh nhân (Amygdala), cho phép con người cảm thấy an toàn tuyệt đối khi ở cạnh người bạn đời. <a href="https://commons.wikimedia.org/wiki/File:Oxytocin_structure.svg" target="_blank" rel="noopener">Nguồn sơ đồ: Wikimedia Commons ↗</a></figcaption>
 </figure>
 
 ---
@@ -46,9 +46,9 @@ Tại sao một cái bắt tay hay chạm nhẹ thoáng qua lại không đủ t
 Nghiên cứu của **Đại học North Carolina (Grewen et al., Psychoneuroendocrinology)** đã đo lường nồng độ hormone và áp lực máu ở các cặp đôi trước và sau các tương tác thể chất:
 - Những cái chạm nhẹ dưới 5 giây hầu như không tạo ra biến đổi sinh hóa đáng kể.
 - Nhưng khi hai người thực hiện một **cái ôm trọn vẹn kéo dài từ 20 giây trở lên**:
-  - Nồng độ **Oxytocin trong huyết tương tăng vọt**.
-  - Nồng độ hormone căng thẳng **Cortisol giảm rõ rệt**.
-  - Huyết áp và nhịp tim của cả hai cùng đồng bộ hạ xuống, đưa hệ thần kinh vào trạng thái thư thái sâu sắc.
+ - Nồng độ **Oxytocin trong huyết tương tăng vọt**.
+ - Nồng độ hormone căng thẳng **Cortisol giảm rõ rệt**.
+ - Huyết áp và nhịp tim của cả hai cùng đồng bộ hạ xuống, đưa hệ thần kinh vào trạng thái thư thái sâu sắc.
 
 ---
 
@@ -81,8 +81,8 @@ Human neural architecture utilizes two distinct biochemical systems to secure re
 Couples who rely solely on physical infatuation without nurturing emotional intimacy inevitably hit an existential crisis when early dopamine habituates.
 
 <figure class="article-inline-diagram">
-  <img src="images/DM_HW_01_figure.jpg" alt="Oxytocin neuropeptide molecular structure diagram" loading="lazy">
-  <figcaption>📊 <strong>The Neurochemistry of Trust:</strong> Oxytocin directly suppresses amygdalar fear circuits, generating visceral psychological safety between partners. <a href="https://commons.wikimedia.org/wiki/File:Oxytocin_structure.svg" target="_blank" rel="noopener">Diagram source: Wikimedia Commons ↗</a></figcaption>
+ <img src="images/DM_HW_01_figure.jpg" alt="Oxytocin neuropeptide molecular structure diagram" loading="lazy">
+ <figcaption>📊 <strong>The Neurochemistry of Trust:</strong> Oxytocin directly suppresses amygdalar fear circuits, generating visceral psychological safety between partners. <a href="https://commons.wikimedia.org/wiki/File:Oxytocin_structure.svg" target="_blank" rel="noopener">Diagram source: Wikimedia Commons ↗</a></figcaption>
 </figure>
 
 ---
@@ -104,9 +104,9 @@ Why does a brief half-hearted pat on the back fail to generate relational connec
 Research from the **University of North Carolina (Grewen et al., Psychoneuroendocrinology)** examined endocrine and hemodynamic markers across couples:
 - Physical contact lasting under 5 seconds produced zero measurable neuroendocrine shifts.
 - But when partners engaged in a **sustained, chest-to-chest embrace lasting 20 seconds or longer**:
-  - **Plasma oxytocin surged dramatically**.
-  - Systemic **cortisol plummeted**.
-  - Blood pressure and heart rate synchronized and decreased, shifting both individuals into calm parasympathetic balance.
+ - **Plasma oxytocin surged dramatically**.
+ - Systemic **cortisol plummeted**.
+ - Blood pressure and heart rate synchronized and decreased, shifting both individuals into calm parasympathetic balance.
 
 ---
 

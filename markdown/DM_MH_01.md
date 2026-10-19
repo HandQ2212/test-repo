@@ -23,14 +23,14 @@
 Trong sinh lý học y khoa, đáp ứng tình dục nam giới được tóm gọn bằng nguyên tắc kinh điển của hệ thần kinh **"Point and Shoot" (Cương và Phóng)**—bởi vì sự cương cứng và sự xuất tinh được điều khiển bởi hai nhánh đối lập nhau của **Hệ Thần Kinh Tự Chủ** (**Giuliano & Clement, 2005**; **Alwaal và cộng sự, 2015**):
 - **Sự Cương Cứng ("Point") thuộc Hệ Phó Giao Cảm (`S2–S4`):** Đòi hỏi sự điềm tĩnh của dây thần kinh phế vị, nồng độ adrenaline thấp, hơi thở mũi chậm rãi và sự giãn mạch nhờ phân tử Oxit Nitric (NO).
 - **Sự Xuất Tinh ("Shoot") thuộc Hệ Giao Cảm & Thần Kinh Thân Thể (`T10–L2` & `S2–S4`):** Được kích hoạt khi sự hưng phấn của hệ thần kinh giao cảm leo thang chạm ngưỡng tới hạn, châm ngòi cho một **cung phản xạ tủy sống gồm 2 pha**:
-  1. **Pha 1 — Tiết Tinh / Emission (Hệ Giao Cảm Ngực – Thắt Lưng `T10–L2`):** Các dây thần kinh giao cảm làm co cơ trơn ống dẫn tinh, túi tinh và tuyến tiền liệt, đẩy dịch tinh vào niệu đạo sau (niệu đạo tiền liệt tuyến) đồng thời đóng chặt cổ bàng quang. Ngay khoảnh khắc Pha Tiết Tinh hoàn tất, nam giới chạm tới **Điểm Không Thể Quay Đầu (Point of No Return — PONR)**—được cảm nhận chủ quan là cảm giác "chắc chắn phải xuất tinh".
-  2. **Pha 2 — Phóng Tinh / Expulsion (Thần Kinh Thẹn Thân Thể `S2–S4`):** Áp lực căng tại niệu đạo tiền liệt tuyến kích hoạt trung tâm phát nhịp xuất tinh tại tủy sống (**tế bào LSt**), phát lệnh cho nhóm cơ vân **Hành hang (BC)** và **Mu cụt (PC)** co thắt nhịp nhàng ngoài ý muốn mỗi **0,8 giây/lần**.
+ 1. **Pha 1 — Tiết Tinh / Emission (Hệ Giao Cảm Ngực – Thắt Lưng `T10–L2`):** Các dây thần kinh giao cảm làm co cơ trơn ống dẫn tinh, túi tinh và tuyến tiền liệt, đẩy dịch tinh vào niệu đạo sau (niệu đạo tiền liệt tuyến) đồng thời đóng chặt cổ bàng quang. Ngay khoảnh khắc Pha Tiết Tinh hoàn tất, nam giới chạm tới **Điểm Không Thể Quay Đầu (Point of No Return — PONR)**—được cảm nhận chủ quan là cảm giác "chắc chắn phải xuất tinh".
+ 2. **Pha 2 — Phóng Tinh / Expulsion (Thần Kinh Thẹn Thân Thể `S2–S4`):** Áp lực căng tại niệu đạo tiền liệt tuyến kích hoạt trung tâm phát nhịp xuất tinh tại tủy sống (**tế bào LSt**), phát lệnh cho nhóm cơ vân **Hành hang (BC)** và **Mu cụt (PC)** co thắt nhịp nhàng ngoài ý muốn mỗi **0,8 giây/lần**.
 
 Vì sao nam giới lại bị xuất tinh sớm? Bởi vì trương lực giao cảm quá cao (lo âu, thở nông vùng ngực, và đặc biệt là **thói quen vô thức gồng co cơ hành hang liên tục trong lúc chuyển động**) đã đẩy tủy sống lao thẳng vào Pha 1 Tiết Tinh trước cả khi não bộ kịp nhận ra mức hưng phấn đã vượt qua Mức 7!
 
 <figure class="article-inline-diagram">
-  <img src="images/DM_MH_01_figure.png" alt="Giải phẫu các cơ vùng đáy chậu nam giới từ OpenStax Anatomy" loading="lazy">
-  <figcaption>📊 <strong>Trung Tâm Điều Khiển Thần Kinh – Cơ Vùng Đáy Chậu Nam Giới:</strong> Giải phẫu chi tiết cơ Hành xốp (Bulbocavernosus) bao quanh hành niệu đạo và cặp cơ Ngồi hang (Ischiocavernosus) dọc theo nhánh xương chậu (OpenStax Hình 11.16). <a href="https://commons.wikimedia.org/wiki/File:1116_Muscle_of_the_Male_Perineum.png" target="_blank" rel="noopener noreferrer">Original Image Source: Wikimedia Commons ↗</a></figcaption>
+ <img src="images/DM_MH_01_figure.png" alt="Giải phẫu các cơ vùng đáy chậu nam giới từ OpenStax Anatomy" loading="lazy">
+ <figcaption>📊 <strong>Trung Tâm Điều Khiển Thần Kinh – Cơ Vùng Đáy Chậu Nam Giới:</strong> Giải phẫu chi tiết cơ Hành xốp (Bulbocavernosus) bao quanh hành niệu đạo và cặp cơ Ngồi hang (Ischiocavernosus) dọc theo nhánh xương chậu (OpenStax Hình 11.16). <a href="https://commons.wikimedia.org/wiki/File:1116_Muscle_of_the_Male_Perineum.png" target="_blank" rel="noopener noreferrer">Original Image Source: Wikimedia Commons ↗</a></figcaption>
 </figure>
 
 ---
@@ -95,14 +95,14 @@ Hãy luyện tập thuần thục chuỗi 5 bước này khi tập luyện cá n
 In medical physiology, male sexual response is famously summarized by the neurological mnemonic **"Point and Shoot"**—because erection and ejaculation are governed by opposing branches of your **Autonomic Nervous System** (**Giuliano & Clement, 2005**; **Alwaal et al., 2015**):
 - **Erection ("Point") is Parasympathetic (`S2–S4`):** Requires vagal calmness, low adrenaline, slow nasal breathing, and nitric oxide vasodilation.
 - **Ejaculation ("Shoot") is Sympathetic & Somatic (`T10–L2` & `S2–S4`):** Triggered when sympathetic nervous system excitation climbs to a critical threshold, firing a **two-phase spinal reflex**:
-  1. **Phase 1 — Emission (Sympathetic Thoracolumbar `T10–L2`):** Sympathetic nerves contract the smooth muscle of the vas deferens, seminal vesicles, and prostate gland, squeezing seminal fluid into the posterior (prostatic) urethra while closing the bladder neck. The moment emission completes, a man reaches the clinical **Point of No Return (PONR)**—experienced subjectively as the sensation of "inevitability."
-  2. **Phase 2 — Expulsion (Somatic Pudendal Nerve `S2–S4`):** Sensory pressure inside the prostatic urethra triggers the spinal ejaculatory generator (**lumbar spinothalamic / LSt cells**), which commands the striated **Bulbocavernosus (BC)** and **Pubococcygeus (PC)** muscles to fire involuntary, rhythmic contractions every **0.8 seconds**.
+ 1. **Phase 1 — Emission (Sympathetic Thoracolumbar `T10–L2`):** Sympathetic nerves contract the smooth muscle of the vas deferens, seminal vesicles, and prostate gland, squeezing seminal fluid into the posterior (prostatic) urethra while closing the bladder neck. The moment emission completes, a man reaches the clinical **Point of No Return (PONR)**—experienced subjectively as the sensation of "inevitability."
+ 2. **Phase 2 — Expulsion (Somatic Pudendal Nerve `S2–S4`):** Sensory pressure inside the prostatic urethra triggers the spinal ejaculatory generator (**lumbar spinothalamic / LSt cells**), which commands the striated **Bulbocavernosus (BC)** and **Pubococcygeus (PC)** muscles to fire involuntary, rhythmic contractions every **0.8 seconds**.
 
 Why do men experience rapid or premature ejaculation? Because high sympathetic tone (anxiety, shallow chest breathing, and **unconscious involuntary clenching of the bulbocavernosus muscle during thrusting**) accelerates the spinal cord straight into Phase 1 Emission before the brain even realizes arousal has climbed past Level 7!
 
 <figure class="article-inline-diagram">
-  <img src="images/DM_MH_01_figure.png" alt="Muscles of the Male Perineum OpenStax Anatomy" loading="lazy">
-  <figcaption>📊 <strong>Neuromuscular Control Center of the Male Perineum:</strong> Anatomical view of the Bulbospongiosus (Bulbocavernosus) encircling the urethral bulb and the paired Ischiocavernosus muscles along the pelvic rami (OpenStax Figure 11.16). <a href="https://commons.wikimedia.org/wiki/File:1116_Muscle_of_the_Male_Perineum.png" target="_blank" rel="noopener noreferrer">Original Image Source: Wikimedia Commons ↗</a></figcaption>
+ <img src="images/DM_MH_01_figure.png" alt="Muscles of the Male Perineum OpenStax Anatomy" loading="lazy">
+ <figcaption>📊 <strong>Neuromuscular Control Center of the Male Perineum:</strong> Anatomical view of the Bulbospongiosus (Bulbocavernosus) encircling the urethral bulb and the paired Ischiocavernosus muscles along the pelvic rami (OpenStax Figure 11.16). <a href="https://commons.wikimedia.org/wiki/File:1116_Muscle_of_the_Male_Perineum.png" target="_blank" rel="noopener noreferrer">Original Image Source: Wikimedia Commons ↗</a></figcaption>
 </figure>
 
 ---

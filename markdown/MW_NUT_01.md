@@ -23,8 +23,8 @@ Khi nam giới áp dụng chế độ ăn kiêng quá nghiêm ngặt với hàm 
 - Nồng độ protein mang **SHBG (Sex Hormone-Binding Globulin)** biến động bất thường, làm giảm lượng **Free Testosterone**—dạng hormone tự do duy nhất có khả năng gắn vào thụ thể Androgen tại mô cơ và não bộ.
 
 <figure class="article-inline-diagram">
-  <img src="images/LM_MH_01_figure.jpg" alt="Sơ đồ chuyển hóa sinh tổng hợp steroid" loading="lazy">
-  <figcaption>📊 <strong>Chuỗi Chuyển Hóa Steroidogenesis:</strong> Không có đủ chất béo bão hòa đơn và bão hòa lành mạnh, tế bào Leydig thiếu hụt cơ chất cholesterol để duy trì tốc độ sinh tổng hợp testosterone tối ưu. <a href="https://commons.wikimedia.org/wiki/File:Steroidogenesis.svg" target="_blank" rel="noopener">Nguồn sơ đồ: Wikimedia Commons ↗</a></figcaption>
+ <img src="images/LM_MH_01_figure.jpg" alt="Sơ đồ chuyển hóa sinh tổng hợp steroid" loading="lazy">
+ <figcaption>📊 <strong>Chuỗi Chuyển Hóa Steroidogenesis:</strong> Không có đủ chất béo bão hòa đơn và bão hòa lành mạnh, tế bào Leydig thiếu hụt cơ chất cholesterol để duy trì tốc độ sinh tổng hợp testosterone tối ưu. <a href="https://commons.wikimedia.org/wiki/File:Steroidogenesis.svg" target="_blank" rel="noopener">Nguồn sơ đồ: Wikimedia Commons ↗</a></figcaption>
 </figure>
 
 ---
@@ -35,7 +35,7 @@ Dựa trên dữ liệu từ các thử nghiệm can thiệp dinh dưỡng đố
 
 | Thói Quen Ăn Uống | Cơ Chế Tác Động Nội Tiết | Hậu Quả Lâm Sàng Trên Chỉ Số Sinh Học | Khuyến Nghị Điều Chỉnh Khoa Học |
 | :--- | :--- | :--- | :--- |
-| **Cắt giảm chất béo cực đoan (<15% calo)** | Giảm nguồn cung cholesterol nội bào; giảm hoạt tính của enzyme $17\beta$-HSD tại tinh hoàn. | Testosterone tự do giảm 12%–18%; giảm ham muốn, mệt mỏi buổi sáng. | Duy trì **25% – 35% tổng calo từ chất béo** (ưu tiên MUFA từ dầu olive, bơ, quả hạch và mỡ cá). |
+| **Cắt giảm chất béo cực đoan (<15% calo)** | Giảm nguồn cung cholesterol nội bào; giảm hoạt tính của enzyme 17β-HSD tại tinh hoàn. | Testosterone tự do giảm 12%–18%; giảm ham muốn, mệt mỏi buổi sáng. | Duy trì **25% – 35% tổng calo từ chất béo** (ưu tiên MUFA từ dầu olive, bơ, quả hạch và mỡ cá). |
 | **Thâm hụt calo kéo dài (>25% TDEE)** | Trục Hạ đồi - Tuyến yên - Tinh hoàn (HPTA) chuyển sang chế độ sinh tồn; Leptin sụt giảm ức chế GnRH. | Nhịp tim nghỉ RHR giảm giả tạo; điểm phục hồi Recovery sụt giảm; nồng độ Cortisol tăng cao. | Khi giảm mỡ (cutting), duy trì thâm hụt vừa phải **15% – 20%**; áp dụng các ngày Diet Break hoặc Refeed carbohydrate. |
 | **Chế độ ăn quá nhiều đường tinh luyện & Ultra-Processed Foods** | Gây ra các đợt tăng vọt Insulin cấp tính; gây gan nhiễm mỡ làm tăng chuyển hóa thơm (Aromatization). | Enzyme Aromatase chuyển hóa Testosterone thành Estradiol; tăng tích mỡ vùng ngực và nội tạng. | Giữ chỉ số đường huyết ổn định bằng cách nạp carbohydrate phức hợp giàu chất xơ (khoai lang, yến mạch, các loại đậu). |
 
@@ -52,11 +52,11 @@ Thị trường thực phẩm bổ sung tràn ngập các sản phẩm gắn má
 
 ## Phác Đồ 4 Bước Thiết Kế Dinh Dưỡng Tối Ưu Nội Tiết Nam Giới
 
-1. **Xác Định Mức Năng Lượng Tối Thiểu Cho Hormone:** Tuyệt đối không để năng lượng sẵn có (Energy Availability) rơi xuống dưới **30 kcal/kg khối lượng nạc (FFM)/ngày**. Nếu bạn nặng 75kg với 60kg nạc, mức calo sàn cho quá trình chuyển hóa cơ bản và hormone là $1.800\text{ kcal}$.
+1. **Xác Định Mức Năng Lượng Tối Thiểu Cho Hormone:** Tuyệt đối không để năng lượng sẵn có (Energy Availability) rơi xuống dưới **30 kcal/kg khối lượng nạc (FFM)/ngày**. Nếu bạn nặng 75kg với 60kg nạc, mức calo sàn cho quá trình chuyển hóa cơ bản và hormone là 1.800 kcal.
 2. **Cân Bằng Bộ Ba Dinh Dưỡng Đa Lượng (Macronutrients):**
-   - **Protein:** 1.6 – 2.0g/kg thể trọng (đủ để xây dựng cơ bắp mà không làm cạn kiệt nguồn calo cho carb và fat).
-   - **Chất béo:** 0.8 – 1.2g/kg thể trọng (khoảng 30% tổng calo, cân bằng giữa mỡ bão hòa và không bão hòa đơn).
-   - **Carbohydrate:** Chiếm phần calo còn lại (tối thiểu 3–4g/kg) để cung cấp glycogen cho não và ức chế cortisol sau tập luyện.
+ - **Protein:** 1.6 – 2.0g/kg thể trọng (đủ để xây dựng cơ bắp mà không làm cạn kiệt nguồn calo cho carb và fat).
+ - **Chất béo:** 0.8 – 1.2g/kg thể trọng (khoảng 30% tổng calo, cân bằng giữa mỡ bão hòa và không bão hòa đơn).
+ - **Carbohydrate:** Chiếm phần calo còn lại (tối thiểu 3–4g/kg) để cung cấp glycogen cho não và ức chế cortisol sau tập luyện.
 3. **Bổ Sung Vi Chất Hỗ Trợ Tinh Hoàn:** Đảm bảo nạp đủ 15mg Kẽm nguyên tố (Zinc Bisglycinate), 400mg Magie Glycinate vào buổi tối và 2.000–4.000 IU Vitamin D3 kèm K2 mỗi ngày.
 4. **Hạn Chế Tuyệt Đối Chất Béo Chuyển Hóa (Trans Fats):** Trans fats làm cứng màng tế bào, cản trở thụ thể tế bào Leydig tiếp nhận hormone kích thích LH.
 
@@ -82,8 +82,8 @@ When men adopt an overly restrictive diet slashing dietary fat below 15% of tota
 - Sex Hormone-Binding Globulin (**SHBG**) shifts unfavorably, curtailing **Free Testosterone**—the biologically active fraction responsible for activating androgen receptors in skeletal muscle and neuroendocrine pathways.
 
 <figure class="article-inline-diagram">
-  <img src="images/LM_MH_01_figure.jpg" alt="Steroidogenesis cascade diagram" loading="lazy">
-  <figcaption>📊 <strong>The Steroidogenesis Pathway:</strong> Without adequate mono- and polyunsaturated fatty acids and dietary cholesterol, testicular Leydig cells face substrate starvation, dampening peak daily androgen production. <a href="https://commons.wikimedia.org/wiki/File:Steroidogenesis.svg" target="_blank" rel="noopener">Diagram source: Wikimedia Commons ↗</a></figcaption>
+ <img src="images/LM_MH_01_figure.jpg" alt="Steroidogenesis cascade diagram" loading="lazy">
+ <figcaption>📊 <strong>The Steroidogenesis Pathway:</strong> Without adequate mono- and polyunsaturated fatty acids and dietary cholesterol, testicular Leydig cells face substrate starvation, dampening peak daily androgen production. <a href="https://commons.wikimedia.org/wiki/File:Steroidogenesis.svg" target="_blank" rel="noopener">Diagram source: Wikimedia Commons ↗</a></figcaption>
 </figure>
 
 ---
@@ -92,7 +92,7 @@ When men adopt an overly restrictive diet slashing dietary fat below 15% of tota
 
 | Dietary Pattern | Endocrine Mechanism | Clinical Biometric Consequence | Evidence-Based Intervention |
 | :--- | :--- | :--- | :--- |
-| **Extreme Fat Restriction (<15% calories)** | Deprives Leydig cells of cholesterol substrates; impairs $17\beta$-HSD enzymatic efficiency. | Free testosterone declines by 12%–18%; blunted morning vigor and libido. | Maintain **25% to 35% of daily calories from healthy fats** (extra virgin olive oil, avocados, eggs, fatty fish). |
+| **Extreme Fat Restriction (<15% calories)** | Deprives Leydig cells of cholesterol substrates; impairs 17β-HSD enzymatic efficiency. | Free testosterone declines by 12%–18%; blunted morning vigor and libido. | Maintain **25% to 35% of daily calories from healthy fats** (extra virgin olive oil, avocados, eggs, fatty fish). |
 | **Chronic Severe Caloric Deficit (>25% TDEE)** | Hypothalamic-pituitary-gonadal (HPGA) axis switches to energy conservation; leptin crash suppresses GnRH. | Suppressed resting heart rate variability (HRV); prolonged elevated cortisol levels. | Keep fat-loss deficits moderate at **15% to 20%**; incorporate structured refeed days or diet breaks. |
 | **Excessive Refined Sugar & Ultra-Processed Foods** | Triggers sharp hyperinsulinemic spikes; exacerbates visceral adiposity and hepatic steatosis. | Upregulated Aromatase enzyme converts testosterone into estradiol; elevated waist circumference. | Prioritize low-glycemic, fiber-rich complex carbohydrates (tubers, whole oats, legumes). |
 
@@ -108,11 +108,11 @@ When men adopt an overly restrictive diet slashing dietary fat below 15% of tota
 
 ## 4-Step Practical Protocol for Hormonal Nutrition
 
-1. **Establish Minimum Energy Availability:** Never permit energy availability to dip below **30 kcal/kg of Fat-Free Mass (FFM)/day**. For an 80kg male with 65kg of lean mass, minimum daily baseline energy for endocrine integrity is $1,950\text{ kcal}$.
+1. **Establish Minimum Energy Availability:** Never permit energy availability to dip below **30 kcal/kg of Fat-Free Mass (FFM)/day**. For an 80kg male with 65kg of lean mass, minimum daily baseline energy for endocrine integrity is 1,950 kcal.
 2. **Structure the Macronutrient Split:**
-   - **Protein:** 1.6–2.0 g/kg total body weight to support muscle protein synthesis without crowding out carbohydrates.
-   - **Fat:** 0.8–1.2 g/kg body weight (~30% of total caloric intake), emphasizing monounsaturated fats.
-   - **Carbohydrates:** Fill remaining calories (3–5 g/kg) to sustain liver glycogen, thyroid output, and blunt training-induced cortisol spikes.
+ - **Protein:** 1.6–2.0 g/kg total body weight to support muscle protein synthesis without crowding out carbohydrates.
+ - **Fat:** 0.8–1.2 g/kg body weight (~30% of total caloric intake), emphasizing monounsaturated fats.
+ - **Carbohydrates:** Fill remaining calories (3–5 g/kg) to sustain liver glycogen, thyroid output, and blunt training-induced cortisol spikes.
 3. **Target Crucial Micronutrients:** Ensure daily intake of 15mg bioavailable Zinc Bisglycinate, 400mg Magnesium Glycinate, and 2,000–4,000 IU of Vitamin D3 combined with K2.
 4. **Eliminate Industrial Trans Fatty Acids:** Trans fats stiffen cellular phospholipid bilayers, hindering LH receptor sensitivity on Leydig cell surfaces.
 

@@ -18,15 +18,15 @@
 
 Không phải ai cảm thấy mệt mỏi sau một tuần thức khuya làm việc cũng cần đi xét nghiệm hormone. Theo **Hướng dẫn Thực hành Lâm sàng của Hiệp hội Nội tiết Hoa Kỳ (Bhasin et al., JCEM)**, việc chỉ định xét nghiệm máu kiểm tra testosterone chỉ được khuyến nghị khi người bệnh xuất hiện **đồng thời từ hai triệu chứng đặc hiệu** sau đây:
 - **Các Triệu Chứng Đặc Hiệu Hàng Đầu:**
-  1. Ham muốn tình dục sụt giảm rõ rệt và kéo dài (Low Libido).
-  2. Rối loạn cương dương thường xuyên, đặc biệt là **sự biến mất hoàn toàn của hiện tượng cương buổi sáng (NPT)**.
-  3. Teo nhỏ thể tích tinh hoàn hoặc cảm giác đau tức vùng bìu.
-  4. Mất khối lượng cơ bắp và rụng lông nách, lông mu bất thường.
+ 1. Ham muốn tình dục sụt giảm rõ rệt và kéo dài (Low Libido).
+ 2. Rối loạn cương dương thường xuyên, đặc biệt là **sự biến mất hoàn toàn của hiện tượng cương buổi sáng (NPT)**.
+ 3. Teo nhỏ thể tích tinh hoàn hoặc cảm giác đau tức vùng bìu.
+ 4. Mất khối lượng cơ bắp và rụng lông nách, lông mu bất thường.
 - **Các Triệu Chứng Không Đặc Hiệu Kèm Theo:** Mệt mỏi mãn tính dù ngủ đủ giấc, suy giảm khả năng tập trung (sương mù não), tâm trạng trầm cảm cáu bẳn và tăng tích tụ mỡ bụng dưới.
 
 <figure class="article-inline-diagram">
-  <img src="images/LM_MH_01_figure.jpg" alt="Sơ đồ trục Hạ đồi - Tuyến yên - Tinh hoàn" loading="lazy">
-  <figcaption>📊 <strong>Sơ Đồ Trục HPTA:</strong> Đánh giá toàn diện nồng độ hormone tuyến yên LH/FSH là chìa khóa vàng để tìm ra gốc rễ vấn đề nằm ở não bộ hay tại tinh hoàn. <a href="https://commons.wikimedia.org/wiki/File:Hypothalamic%E2%80%93pituitary%E2%80%93gonadal_axis.svg" target="_blank" rel="noopener">Nguồn sơ đồ: Wikimedia Commons ↗</a></figcaption>
+ <img src="images/LM_MH_01_figure.jpg" alt="Sơ đồ trục Hạ đồi - Tuyến yên - Tinh hoàn" loading="lazy">
+ <figcaption>📊 <strong>Sơ Đồ Trục HPTA:</strong> Đánh giá toàn diện nồng độ hormone tuyến yên LH/FSH là chìa khóa vàng để tìm ra gốc rễ vấn đề nằm ở não bộ hay tại tinh hoàn. <a href="https://commons.wikimedia.org/wiki/File:Hypothalamic%E2%80%93pituitary%E2%80%93gonadal_axis.svg" target="_blank" rel="noopener">Nguồn sơ đồ: Wikimedia Commons ↗</a></figcaption>
 </figure>
 
 ---
@@ -80,15 +80,15 @@ Khi nhận bảng kết quả xét nghiệm từ bệnh viện, hãy đối chi�
 
 Transient fatigue after a demanding workweek is not an indication for hormone panels. According to the **Endocrine Society Clinical Practice Guidelines (Bhasin et al., JCEM)**, testing is warranted only in the presence of **multiple persistent specific symptoms**:
 - **Primary Specific Symptoms:**
-  1. Clinically significant loss of sexual desire (Low Libido).
-  2. Persistent erectile dysfunction, notably the **complete absence of nocturnal and morning erections (NPT)**.
-  3. Palpable testicular atrophy or discomfort.
-  4. Loss of axillary/pubic hair and accelerated sarcopenia.
+ 1. Clinically significant loss of sexual desire (Low Libido).
+ 2. Persistent erectile dysfunction, notably the **complete absence of nocturnal and morning erections (NPT)**.
+ 3. Palpable testicular atrophy or discomfort.
+ 4. Loss of axillary/pubic hair and accelerated sarcopenia.
 - **Secondary Corroborating Clues:** Chronic refractory fatigue, brain fog, depressive irritability, and expanding visceral waist circumference.
 
 <figure class="article-inline-diagram">
-  <img src="images/LM_MH_01_figure.jpg" alt="Hypothalamic-Pituitary-Gonadal axis diagram" loading="lazy">
-  <figcaption>📊 <strong>The HPGA Diagnostic Axis:</strong> Evaluating LH and FSH alongside androgens determines whether dysfunction originates within the pituitary gland or the testes. <a href="https://commons.wikimedia.org/wiki/File:Hypothalamic%E2%80%93pituitary%E2%80%93gonadal_axis.svg" target="_blank" rel="noopener">Diagram source: Wikimedia Commons ↗</a></figcaption>
+ <img src="images/LM_MH_01_figure.jpg" alt="Hypothalamic-Pituitary-Gonadal axis diagram" loading="lazy">
+ <figcaption>📊 <strong>The HPGA Diagnostic Axis:</strong> Evaluating LH and FSH alongside androgens determines whether dysfunction originates within the pituitary gland or the testes. <a href="https://commons.wikimedia.org/wiki/File:Hypothalamic%E2%80%93pituitary%E2%80%93gonadal_axis.svg" target="_blank" rel="noopener">Diagram source: Wikimedia Commons ↗</a></figcaption>
 </figure>
 
 ---
