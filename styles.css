@@ -1436,6 +1436,26 @@ body {
   color: #1E3A8A;
 }
 
+/* Interactive Mermaid Diagram Container */
+.mermaid {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background: #F8FAFC;
+  border: 1px solid #E2E8F0;
+  border-radius: 14px;
+  padding: 1.5rem 1.25rem;
+  margin: 2.25rem 0;
+  overflow-x: auto;
+  box-shadow: 0 4px 15px rgba(0, 0, 0, 0.04);
+}
+
+.mermaid svg {
+  max-width: 100% !important;
+  height: auto !important;
+  font-family: "Plus Jakarta Sans", sans-serif !important;
+}
+
 /* Bilingual Language Switcher (EN / VI) */
 .nav-actions {
   display: flex;

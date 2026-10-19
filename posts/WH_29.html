@@ -8,6 +8,7 @@
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
   <link href="https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:wght@400;500;600;700;800&family=Lora:ital,wght@0,400;0,500;0,600;1,400&display=swap" rel="stylesheet">
+  <script src="https://cdn.jsdelivr.net/npm/mermaid@10/dist/mermaid.min.js"></script>
 </head>
 <body class="blog-post-page">
   <div class="reading-progress-container">
@@ -162,11 +163,14 @@
 - <strong>Thân Nhiệt &amp; Nhịp Tim Nghỉ Ngơi Tăng Cao:</strong> Nhịp tim ban đêm RHR có thể tăng thêm 5–10 bpm phản ánh phản ứng viêm toàn thân của các cytokine gây viêm (<strong>IL-1β, TNF-α, IL-6</strong>) tràn ngập trong dịch ổ bụng.</p>
 <hr />
 <h2>Giao Thức 4 Bước Chẩn Đoán &amp; Kiểm Soát Chuẩn Mực</h2>
-<pre><code class="language-mermaid">flowchart LR
- A[&quot;Bước 1: Ghi Chép Nhật Ký Cơn Đau &amp; Tần Suất Trên Ứng Dụng&quot;] --&gt; B[&quot;Bước 2: Siêu Âm Đầu Dò Chuyên Sâu Tầm Soát Lạc Nội Mạc (DEEP Ultrasound)&quot;]
- B --&gt; C[&quot;Bước 3: Liệu Pháp Điều Trị Nội Khoa Ức Chế Estrogen&quot;]
- C --&gt; D[&quot;Bước 4: Phẫu Thuật Nội Soi Bóc Tách Tổn Thương (Laparoscopic Excision)&quot;]
-</code></pre>
+
+<div class="mermaid">
+flowchart LR
+ A["Bước 1: Ghi Chép Nhật Ký Cơn Đau & Tần Suất Trên Ứng Dụng"] --> B["Bước 2: Siêu Âm Đầu Dò Chuyên Sâu Tầm Soát Lạc Nội Mạc (DEEP Ultrasound)"]
+ B --> C["Bước 3: Liệu Pháp Điều Trị Nội Khoa Ức Chế Estrogen"]
+ C --> D["Bước 4: Phẫu Thuật Nội Soi Bóc Tách Tổn Thương (Laparoscopic Excision)"]
+</div>
+
 <ol>
 <li><strong>Số Hóa Dữ Liệu Cơn Đau:</strong> Sử dụng tính năng ghi log triệu chứng (Symptom Log) trên app để ghi lại chính xác: ngày xuất hiện cơn đau, vị trí đau (bụng, lưng, khi đi vệ sinh), mức độ điểm đau (1–10) và loại thuốc giảm đau đã dùng. Đây là bằng chứng vô giá khi gặp bác sĩ.</li>
 <li><strong>Tìm Kiếm Chuyên Gia Chẩn Đoán Hình Ảnh Chuyên Sâu:</strong> Siêu âm bụng thông thường thường bỏ sót 80% các tổn thương lạc nội mạc sâu. Hãy tìm đến các trung tâm phụ sản có chuyên gia thực hiện <strong>Siêu âm đầu dò âm đạo chuyên biệt tầm soát lạc nội mạc sâu (Deep Infiltrating Endometriosis - DIE Ultrasound)</strong> hoặc chụp cộng hưởng từ <strong>MRI vùng chậu có chuẩn bị ruột</strong>.</li>
@@ -401,11 +405,14 @@
 - <strong>Elevated Nocturnal RHR &amp; Skin Temperature:</strong> Resting heart rate elevates 5 to 10 bpm, driven by systemic pro-inflammatory cytokines (<strong>TNF-α, IL-1β, IL-6</strong>) flooding peritoneal fluid.</p>
 <hr />
 <h2>4-Step Clinical Evaluation &amp; Excision Pathway</h2>
-<pre><code class="language-mermaid">flowchart LR
- A[&quot;Step 1: Quantify Pain Cycles &amp; Symptoms via Digital App&quot;] --&gt; B[&quot;Step 2: Obtain Specialized Deep Endometriosis Ultrasound (DIE)&quot;]
- B --&gt; C[&quot;Step 3: Initiate Hormonal Down-Regulation Therapy&quot;]
- C --&gt; D[&quot;Step 4: Consult a Minimally Invasive Excision Specialist&quot;]
-</code></pre>
+
+<div class="mermaid">
+flowchart LR
+ A["Step 1: Quantify Pain Cycles & Symptoms via Digital App"] --> B["Step 2: Obtain Specialized Deep Endometriosis Ultrasound (DIE)"]
+ B --> C["Step 3: Initiate Hormonal Down-Regulation Therapy"]
+ C --> D["Step 4: Consult a Minimally Invasive Excision Specialist"]
+</div>
+
 <ol>
 <li><strong>Maintain a Granular Symptom Dossier:</strong> Utilize your wearable symptom logger to capture pain timing, precise anatomical locations, functional impairment scores, and pharmaceutical responses. This quantitative record cuts through clinical dismissal.</li>
 <li><strong>Seek Specialized Deep Imaging:</strong> Conventional transabdominal pelvic ultrasounds miss over 80% of deep infiltrating lesions. Seek centers offering <strong>Deep Infiltrating Endometriosis (DIE) high-resolution transvaginal ultrasound</strong> performed by trained sonologists, or pelvic MRI with bowel preparation.</li>
@@ -521,6 +528,36 @@
   </footer>
 
   <script>
+    if (window.mermaid) {
+      mermaid.initialize({
+        startOnLoad: false,
+        theme: 'neutral',
+        fontFamily: 'Plus Jakarta Sans, sans-serif',
+        securityLevel: 'loose',
+        flowchart: {
+          useMaxWidth: true,
+          htmlLabels: true,
+          curve: 'basis'
+        }
+      });
+    }
+
+    async function renderActiveMermaid() {
+      if (window.mermaid) {
+        try {
+          const activeContainer = document.querySelector('.article-page-container:not(.hidden)');
+          if (activeContainer) {
+            const nodes = activeContainer.querySelectorAll('.mermaid:not([data-processed="true"])');
+            if (nodes.length > 0) {
+              await mermaid.run({ nodes: nodes });
+            }
+          }
+        } catch (err) {
+          console.warn('Mermaid render warning:', err);
+        }
+      }
+    }
+
     function switchPostLang(lang) {
       localStorage.setItem('pv_lang', lang);
       const viContainer = document.getElementById('post-container-vi');
@@ -549,6 +586,7 @@
         backBtn.href = '../index.html?lang=vi';
         document.documentElement.lang = 'vi';
       }
+      setTimeout(renderActiveMermaid, 50);
     }
 
     (function initLang() {
@@ -556,6 +594,7 @@
       const qLang = params.get('lang');
       const saved = qLang || localStorage.getItem('pv_lang') || 'vi';
       switchPostLang(saved === 'en' ? 'en' : 'vi');
+      setTimeout(renderActiveMermaid, 100);
     })();
 
     window.addEventListener('scroll', () => {

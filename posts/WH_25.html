@@ -8,6 +8,7 @@
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
   <link href="https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:wght@400;500;600;700;800&family=Lora:ital,wght@0,400;0,500;0,600;1,400&display=swap" rel="stylesheet">
+  <script src="https://cdn.jsdelivr.net/npm/mermaid@10/dist/mermaid.min.js"></script>
 </head>
 <body class="blog-post-page">
   <div class="reading-progress-container">
@@ -186,11 +187,14 @@
 </ol>
 <hr />
 <h2>Giao Thức 4 Bước Chăm Sóc Huyết Động Học Thai Kỳ</h2>
-<pre><code class="language-mermaid">flowchart LR
- A[&quot;Bước 1: Nằm Ngủ Nghiêng Trái Để Giải Phóng Tuần Hoàn&quot;] --&gt; B[&quot;Bước 2: Uống 2.5 - 3.0 Lít Nước Kèm Điện Giải Mỗi Ngày&quot;]
- B --&gt; C[&quot;Bước 3: Điều Chỉnh Kỳ Vọng Điểm Recovery Trên Wearable&quot;]
- C --&gt; D[&quot;Bước 4: Bổ Sung Đầy Đủ Sắt Hữu Cơ &amp; Axit Folic / Folate&quot;]
-</code></pre>
+
+<div class="mermaid">
+flowchart LR
+ A["Bước 1: Nằm Ngủ Nghiêng Trái Để Giải Phóng Tuần Hoàn"] --> B["Bước 2: Uống 2.5 - 3.0 Lít Nước Kèm Điện Giải Mỗi Ngày"]
+ B --> C["Bước 3: Điều Chỉnh Kỳ Vọng Điểm Recovery Trên Wearable"]
+ C --> D["Bước 4: Bổ Sung Đầy Đủ Sắt Hữu Cơ & Axit Folic / Folate"]
+</div>
+
 <ol>
 <li><strong>Ưu Tiên Tư Thế Nằm Nghiêng Trái (Left Lateral Decubitus):</strong> Sử dụng gối ôm chữ U để cố định tư thế nghiêng sang trái khi ngủ. Tư thế này giúp giải phóng hoàn toàn áp lực lên tĩnh mạch chủ dưới và động mạch chủ, tối đa hóa lưu lượng máu giàu dưỡng chất đến bánh nhau.</li>
 <li><strong>Cung Cấp Đủ Nước Cho Sự Tăng Thể Tích Máu:</strong> Uống từ 2.5 đến 3.0 lít nước mỗi ngày; bổ sung nước khoáng giàu kali và magie để hỗ trợ tim bơm lượng dịch khổng lồ và ngăn ngừa chuột rút bắp chân ban đêm.</li>
@@ -449,11 +453,14 @@
 </ol>
 <hr />
 <h2>4-Step Maternal Hemodynamic Support Protocol</h2>
-<pre><code class="language-mermaid">flowchart LR
- A[&quot;Step 1: Sleep in the Left-Lateral Decubitus Position&quot;] --&gt; B[&quot;Step 2: Hydrate with 2.5 - 3.0 Liters of Fluid Daily&quot;]
- B --&gt; C[&quot;Step 3: Recalibrate Wearable Recovery Expectations&quot;]
- C --&gt; D[&quot;Step 4: Support Blood Volume via Methylated Folate &amp; Iron&quot;]
-</code></pre>
+
+<div class="mermaid">
+flowchart LR
+ A["Step 1: Sleep in the Left-Lateral Decubitus Position"] --> B["Step 2: Hydrate with 2.5 - 3.0 Liters of Fluid Daily"]
+ B --> C["Step 3: Recalibrate Wearable Recovery Expectations"]
+ C --> D["Step 4: Support Blood Volume via Methylated Folate & Iron"]
+</div>
+
 <ol>
 <li><strong>Adopt the Left-Lateral Decubitus Sleep Posture:</strong> Utilize a supportive pregnancy pillow to maintain a left-side sleeping posture. This unweights the inferior vena cava and descending aorta, maximizing uteroplacental blood flow.</li>
 <li><strong>Hydrate to Support Massive Plasma Volume:</strong> Ingest 2.5 to 3.0 liters of fluids daily, fortifying with natural potassium and magnesium to manage vascular expansion and prevent nocturnal leg cramps.</li>
@@ -569,6 +576,36 @@
   </footer>
 
   <script>
+    if (window.mermaid) {
+      mermaid.initialize({
+        startOnLoad: false,
+        theme: 'neutral',
+        fontFamily: 'Plus Jakarta Sans, sans-serif',
+        securityLevel: 'loose',
+        flowchart: {
+          useMaxWidth: true,
+          htmlLabels: true,
+          curve: 'basis'
+        }
+      });
+    }
+
+    async function renderActiveMermaid() {
+      if (window.mermaid) {
+        try {
+          const activeContainer = document.querySelector('.article-page-container:not(.hidden)');
+          if (activeContainer) {
+            const nodes = activeContainer.querySelectorAll('.mermaid:not([data-processed="true"])');
+            if (nodes.length > 0) {
+              await mermaid.run({ nodes: nodes });
+            }
+          }
+        } catch (err) {
+          console.warn('Mermaid render warning:', err);
+        }
+      }
+    }
+
     function switchPostLang(lang) {
       localStorage.setItem('pv_lang', lang);
       const viContainer = document.getElementById('post-container-vi');
@@ -597,6 +634,7 @@
         backBtn.href = '../index.html?lang=vi';
         document.documentElement.lang = 'vi';
       }
+      setTimeout(renderActiveMermaid, 50);
     }
 
     (function initLang() {
@@ -604,6 +642,7 @@
       const qLang = params.get('lang');
       const saved = qLang || localStorage.getItem('pv_lang') || 'vi';
       switchPostLang(saved === 'en' ? 'en' : 'vi');
+      setTimeout(renderActiveMermaid, 100);
     })();
 
     window.addEventListener('scroll', () => {

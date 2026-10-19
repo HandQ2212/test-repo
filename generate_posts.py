@@ -1,5 +1,7 @@
 import json
 import os
+import re
+import html
 import markdown
 
 BASE_DIR = os.path.dirname(os.path.abspath(__file__))
@@ -45,6 +47,13 @@ def render_article_markdown(md_text, inline_img_src, inline_caption, inline_sour
         md_text,
         extensions=['extra', 'tables', 'sane_lists']
     )
+    # Convert mermaid code blocks into <div class="mermaid"> with decoded HTML entities
+    def repl_mermaid(m):
+        raw_code = html.unescape(m.group(1)).strip()
+        return f'\n<div class="mermaid">\n{raw_code}\n</div>\n'
+
+    body_html = re.sub(r'<pre><code class="(?:language-)?mermaid">([\s\S]*?)</code></pre>', repl_mermaid, body_html)
+
     if "article-inline-diagram" not in body_html and inline_img_src:
         src_label = "Original Scientific Figure Source ↗" if lang == "en" else "Link sơ đồ y khoa gốc (Wikimedia Commons) ↗"
         inline_diagram_html = f"""
@@ -183,6 +192,7 @@ for i, art in enumerate(articles):
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
   <link href="https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:wght@400;500;600;700;800&family=Lora:ital,wght@0,400;0,500;0,600;1,400&display=swap" rel="stylesheet">
+  <script src="https://cdn.jsdelivr.net/npm/mermaid@10/dist/mermaid.min.js"></script>
 </head>
 <body class="blog-post-page">
   <div class="reading-progress-container">
@@ -398,6 +408,36 @@ for i, art in enumerate(articles):
   </footer>
 
   <script>
+    if (window.mermaid) {{
+      mermaid.initialize({{
+        startOnLoad: false,
+        theme: 'neutral',
+        fontFamily: 'Plus Jakarta Sans, sans-serif',
+        securityLevel: 'loose',
+        flowchart: {{
+          useMaxWidth: true,
+          htmlLabels: true,
+          curve: 'basis'
+        }}
+      }});
+    }}
+
+    async function renderActiveMermaid() {{
+      if (window.mermaid) {{
+        try {{
+          const activeContainer = document.querySelector('.article-page-container:not(.hidden)');
+          if (activeContainer) {{
+            const nodes = activeContainer.querySelectorAll('.mermaid:not([data-processed="true"])');
+            if (nodes.length > 0) {{
+              await mermaid.run({{ nodes: nodes }});
+            }}
+          }}
+        }} catch (err) {{
+          console.warn('Mermaid render warning:', err);
+        }}
+      }}
+    }}
+
     function switchPostLang(lang) {{
       localStorage.setItem('pv_lang', lang);
       const viContainer = document.getElementById('post-container-vi');
@@ -426,6 +466,7 @@ for i, art in enumerate(articles):
         backBtn.href = '../index.html?lang=vi';
         document.documentElement.lang = 'vi';
       }}
+      setTimeout(renderActiveMermaid, 50);
     }}
 
     (function initLang() {{
@@ -433,6 +474,7 @@ for i, art in enumerate(articles):
       const qLang = params.get('lang');
       const saved = qLang || localStorage.getItem('pv_lang') || 'vi';
       switchPostLang(saved === 'en' ? 'en' : 'vi');
+      setTimeout(renderActiveMermaid, 100);
     }})();
 
     window.addEventListener('scroll', () => {{

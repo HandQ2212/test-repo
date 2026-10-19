@@ -562,7 +562,11 @@ function openFullArticleView(art, updateHash = true) {
       parsedHtml = inlineDiagramHtml + parsedHtml;
     }
   }
+
+  // Convert mermaid code blocks to <div class="mermaid"> with decoded entities
+  parsedHtml = processMermaidDiagrams(parsedHtml);
   document.getElementById('art-view-body').innerHTML = parsedHtml;
+  renderMermaidNodes('#art-view-body');
 
   // Set Canonical Citation
   document.getElementById('art-view-citation-desc').innerHTML = t.citationDesc(art.source_name);
@@ -658,13 +662,43 @@ function closeArticleView(clearHash = true) {
 }
 
 // -------------------------------------------------------------
+// MERMAID DIAGRAM HELPERS
+// -------------------------------------------------------------
+function processMermaidDiagrams(htmlString) {
+  if (!htmlString) return htmlString;
+  return htmlString.replace(/<pre><code class="(?:language-)?mermaid">([\s\S]*?)<\/code><\/pre>/gi, function(match, code) {
+    const txt = document.createElement('textarea');
+    txt.innerHTML = code;
+    return '<div class="mermaid">' + txt.value.trim() + '</div>';
+  });
+}
+
+function renderMermaidNodes(selector) {
+  if (window.mermaid) {
+    setTimeout(async () => {
+      try {
+        const nodes = document.querySelectorAll(selector + ' .mermaid:not([data-processed="true"])');
+        if (nodes.length > 0) {
+          await mermaid.run({ nodes: nodes });
+        }
+      } catch (e) {
+        console.warn('Mermaid render warning:', e);
+      }
+    }, 60);
+  }
+}
+
+// -------------------------------------------------------------
 // 2. IN-APP MOBILE SIMULATOR MODAL
 // -------------------------------------------------------------
 function openInAppModal(art) {
   inappMetric.textContent = art.metric;
   inappTitle.textContent = getTitle(art);
   inappTakeaway.textContent = getTakeaway(art);
-  inappContentBody.innerHTML = marked.parse(getContent(art));
+  let parsed = marked.parse(getContent(art));
+  parsed = processMermaidDiagrams(parsed);
+  inappContentBody.innerHTML = parsed;
+  renderMermaidNodes('#inapp-content-body');
   inappSource.textContent = `Source: ${art.source_name}`;
   inappModal.classList.remove('hidden');
 }

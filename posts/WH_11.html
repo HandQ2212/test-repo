@@ -8,6 +8,7 @@
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
   <link href="https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:wght@400;500;600;700;800&family=Lora:ital,wght@0,400;0,500;0,600;1,400&display=swap" rel="stylesheet">
+  <script src="https://cdn.jsdelivr.net/npm/mermaid@10/dist/mermaid.min.js"></script>
 </head>
 <body class="blog-post-page">
   <div class="reading-progress-container">
@@ -184,11 +185,14 @@
 </ol>
 <hr />
 <h2>Giao Thức 4 Bước Chăm Sóc Vùng Kín Chuẩn Y Khoa</h2>
-<pre><code class="language-mermaid">flowchart LR
- A[&quot;Bước 1: Rửa Ngoài Bằng Nước Ấm Hoặc Gel pH 3.8-4.5&quot;] --&gt; B[&quot;Bước 2: Ưu Tiên Quần Lót Cotton 100% Thoáng Khí&quot;]
- B --&gt; C[&quot;Bước 3: Bổ Sung Probiotic L. crispatus Khi Cần&quot;]
- C --&gt; D[&quot;Bước 4: Theo Dõi &amp; Ghi Chép Triệu Chứng Trên App&quot;]
-</code></pre>
+
+<div class="mermaid">
+flowchart LR
+ A["Bước 1: Rửa Ngoài Bằng Nước Ấm Hoặc Gel pH 3.8-4.5"] --> B["Bước 2: Ưu Tiên Quần Lót Cotton 100% Thoáng Khí"]
+ B --> C["Bước 3: Bổ Sung Probiotic L. crispatus Khi Cần"]
+ C --> D["Bước 4: Theo Dõi & Ghi Chép Triệu Chứng Trên App"]
+</div>
+
 <ol>
 <li><strong>Vệ Sinh Bên Ngoài Đúng Cách:</strong> Chỉ làm sạch nhẹ nhàng vùng môi lớn, môi bé bên ngoài bằng nước ấm hoặc dung dịch vệ sinh có pH cân bằng (3.8–4.5) không chứa hương liệu nhân tạo; lau khô từ trước ra sau để tránh lây nhiễm vi khuẩn <em>E. coli</em> từ hậu môn.</li>
 <li><strong>Chọn Trang Phục Vận Động Thông Minh:</strong> Thay quần tập ngay sau khi hoàn thành buổi tập gym hoặc chạy bộ; ưu tiên quần lót đáy cotton 100% và ngủ thả lỏng không quần lót khi ở nhà để vùng kín được thông thoáng tự nhiên.</li>
@@ -445,11 +449,14 @@
 </ol>
 <hr />
 <h2>4-Step Clinical Hygiene &amp; Flora Protection Protocol</h2>
-<pre><code class="language-mermaid">flowchart LR
- A[&quot;Step 1: Gentle External Cleansing with pH 3.8–4.5&quot;] --&gt; B[&quot;Step 2: Wear 100% Breathable Cotton Linings&quot;]
- B --&gt; C[&quot;Step 3: Support Microbiome with Targeted Probiotics&quot;]
- C --&gt; D[&quot;Step 4: Correlate Changes with Cycle Phase in App&quot;]
-</code></pre>
+
+<div class="mermaid">
+flowchart LR
+ A["Step 1: Gentle External Cleansing with pH 3.8–4.5"] --> B["Step 2: Wear 100% Breathable Cotton Linings"]
+ B --> C["Step 3: Support Microbiome with Targeted Probiotics"]
+ C --> D["Step 4: Correlate Changes with Cycle Phase in App"]
+</div>
+
 <ol>
 <li><strong>Cleanse External Vulva Only:</strong> Wash external labia using warm water or an unfragranced, pH-balanced (3.8–4.5) feminine wash. Never spray pressurized water into the vaginal canal.</li>
 <li><strong>Switch to Breathable Apparel:</strong> Discard damp workout clothes immediately post-exercise. Opt for organic cotton underwear and consider sleeping pantless to encourage natural ventilation.</li>
@@ -565,6 +572,36 @@
   </footer>
 
   <script>
+    if (window.mermaid) {
+      mermaid.initialize({
+        startOnLoad: false,
+        theme: 'neutral',
+        fontFamily: 'Plus Jakarta Sans, sans-serif',
+        securityLevel: 'loose',
+        flowchart: {
+          useMaxWidth: true,
+          htmlLabels: true,
+          curve: 'basis'
+        }
+      });
+    }
+
+    async function renderActiveMermaid() {
+      if (window.mermaid) {
+        try {
+          const activeContainer = document.querySelector('.article-page-container:not(.hidden)');
+          if (activeContainer) {
+            const nodes = activeContainer.querySelectorAll('.mermaid:not([data-processed="true"])');
+            if (nodes.length > 0) {
+              await mermaid.run({ nodes: nodes });
+            }
+          }
+        } catch (err) {
+          console.warn('Mermaid render warning:', err);
+        }
+      }
+    }
+
     function switchPostLang(lang) {
       localStorage.setItem('pv_lang', lang);
       const viContainer = document.getElementById('post-container-vi');
@@ -593,6 +630,7 @@
         backBtn.href = '../index.html?lang=vi';
         document.documentElement.lang = 'vi';
       }
+      setTimeout(renderActiveMermaid, 50);
     }
 
     (function initLang() {
@@ -600,6 +638,7 @@
       const qLang = params.get('lang');
       const saved = qLang || localStorage.getItem('pv_lang') || 'vi';
       switchPostLang(saved === 'en' ? 'en' : 'vi');
+      setTimeout(renderActiveMermaid, 100);
     })();
 
     window.addEventListener('scroll', () => {

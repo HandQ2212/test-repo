@@ -8,6 +8,7 @@
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
   <link href="https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:wght@400;500;600;700;800&family=Lora:ital,wght@0,400;0,500;0,600;1,400&display=swap" rel="stylesheet">
+  <script src="https://cdn.jsdelivr.net/npm/mermaid@10/dist/mermaid.min.js"></script>
 </head>
 <body class="blog-post-page">
   <div class="reading-progress-container">
@@ -172,11 +173,14 @@
 </ol>
 <hr />
 <h2>Giao Thức 4 Bước Làm Chủ Kỷ Nguyên Tiền Mãn Kinh Rạng Rỡ</h2>
-<pre><code class="language-mermaid">flowchart LR
- A[&quot;Bước 1: Tập Kháng Lực Nặng Đa Khớp 3 Buổi/Tuần Chống Loãng Xương&quot;] --&gt; B[&quot;Bước 2: Nạp 1.6 - 2.0g Protein/kg Thể Trọng &amp; Bổ Sung Vitamin D3/K2&quot;]
- B --&gt; C[&quot;Bước 3: Tối Ưu Nhiệt Độ Phòng Ngủ Xuống 18°C Chống Bốc Hỏa&quot;]
- C --&gt; D[&quot;Bước 4: Tham Vấn Bác Sĩ Về Liệu Pháp Hormone Sinh Học (MHT)&quot;]
-</code></pre>
+
+<div class="mermaid">
+flowchart LR
+ A["Bước 1: Tập Kháng Lực Nặng Đa Khớp 3 Buổi/Tuần Chống Loãng Xương"] --> B["Bước 2: Nạp 1.6 - 2.0g Protein/kg Thể Trọng & Bổ Sung Vitamin D3/K2"]
+ B --> C["Bước 3: Tối Ưu Nhiệt Độ Phòng Ngủ Xuống 18°C Chống Bốc Hỏa"]
+ C --> D["Bước 4: Tham Vấn Bác Sĩ Về Liệu Pháp Hormone Sinh Học (MHT)"]
+</div>
+
 <ol>
 <li><strong>Xây Dựng Khung Xương Thép Bằng Tập Tạ Nặng:</strong> Tập các bài tập tạ nén dọc trục cơ thể (Squat, Deadlift, Overhead Press) ở mức tải 75%–85% 1RM ít nhất 3 buổi mỗi tuần để kích hoạt cơ chế Mechanostat tạo xương, bảo tồn khối cơ nạc và chống tích mỡ nội tạng.</li>
 <li><strong>Dinh Dưỡng Bảo Vệ Cơ Bắp &amp; Mạch Máu:</strong> Tăng lượng protein lên <strong>1.6 đến 2.0 g/kg cân nặng</strong> mỗi ngày để bù đắp tình trạng kháng đồng hóa tuổi tác; bổ sung 2000–4000 IU Vitamin D3 kết hợp 100 mcg Vitamin K2 (MK-7) để dẫn canxi vào xương.</li>
@@ -421,11 +425,14 @@
 </ol>
 <hr />
 <h2>4-Step Clinical Action Protocol for Perimenopausal Vitality</h2>
-<pre><code class="language-mermaid">flowchart LR
- A[&quot;Step 1: Execute Heavy Multi-Joint Lifting 3x/Week Against Bone Loss&quot;] --&gt; B[&quot;Step 2: Ingest 1.6 - 2.0g Protein/kg &amp; Optimize Vitamin D3/K2&quot;]
- B --&gt; C[&quot;Step 3: Cool Bedroom Sleep Sanctuary to 18°C to Suppress Flushes&quot;]
- C --&gt; D[&quot;Step 4: Consult a Specialist Regarding Bioidentical MHT&quot;]
-</code></pre>
+
+<div class="mermaid">
+flowchart LR
+ A["Step 1: Execute Heavy Multi-Joint Lifting 3x/Week Against Bone Loss"] --> B["Step 2: Ingest 1.6 - 2.0g Protein/kg & Optimize Vitamin D3/K2"]
+ B --> C["Step 3: Cool Bedroom Sleep Sanctuary to 18°C to Suppress Flushes"]
+ C --> D["Step 4: Consult a Specialist Regarding Bioidentical MHT"]
+</div>
+
 <ol>
 <li><strong>Prescribe Heavy Axial Resistance Training:</strong> Execute multi-joint barbell movements (Squats, Deadlifts, Presses) at 75%–85% 1RM at least 3 times weekly. This generates the piezoelectric strain required to stimulate osteoblastic bone formation, preserve muscle mass, and reverse visceral adiposity.</li>
 <li><strong>Support Connective &amp; Muscular Remodeling:</strong> Elevate dietary protein to <strong>1.6 to 2.0 g/kg body weight daily</strong> to counter age-related anabolic resistance. Pair with 2,000–4,000 IU of Vitamin D3 and 100 mcg of Vitamin K2 (MK-7) to direct calcium into the skeletal matrix.</li>
@@ -541,6 +548,36 @@
   </footer>
 
   <script>
+    if (window.mermaid) {
+      mermaid.initialize({
+        startOnLoad: false,
+        theme: 'neutral',
+        fontFamily: 'Plus Jakarta Sans, sans-serif',
+        securityLevel: 'loose',
+        flowchart: {
+          useMaxWidth: true,
+          htmlLabels: true,
+          curve: 'basis'
+        }
+      });
+    }
+
+    async function renderActiveMermaid() {
+      if (window.mermaid) {
+        try {
+          const activeContainer = document.querySelector('.article-page-container:not(.hidden)');
+          if (activeContainer) {
+            const nodes = activeContainer.querySelectorAll('.mermaid:not([data-processed="true"])');
+            if (nodes.length > 0) {
+              await mermaid.run({ nodes: nodes });
+            }
+          }
+        } catch (err) {
+          console.warn('Mermaid render warning:', err);
+        }
+      }
+    }
+
     function switchPostLang(lang) {
       localStorage.setItem('pv_lang', lang);
       const viContainer = document.getElementById('post-container-vi');
@@ -569,6 +606,7 @@
         backBtn.href = '../index.html?lang=vi';
         document.documentElement.lang = 'vi';
       }
+      setTimeout(renderActiveMermaid, 50);
     }
 
     (function initLang() {
@@ -576,6 +614,7 @@
       const qLang = params.get('lang');
       const saved = qLang || localStorage.getItem('pv_lang') || 'vi';
       switchPostLang(saved === 'en' ? 'en' : 'vi');
+      setTimeout(renderActiveMermaid, 100);
     })();
 
     window.addEventListener('scroll', () => {

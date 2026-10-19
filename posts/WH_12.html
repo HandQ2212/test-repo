@@ -8,6 +8,7 @@
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
   <link href="https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:wght@400;500;600;700;800&family=Lora:ital,wght@0,400;0,500;0,600;1,400&display=swap" rel="stylesheet">
+  <script src="https://cdn.jsdelivr.net/npm/mermaid@10/dist/mermaid.min.js"></script>
 </head>
 <body class="blog-post-page">
   <div class="reading-progress-container">
@@ -165,11 +166,14 @@
 </table>
 <hr />
 <h2>Giao Thức 4 Bước Phục Hồi &amp; Tìm Lại Sự Thoải Mái</h2>
-<pre><code class="language-mermaid">flowchart LR
- A[&quot;Bước 1: Ngưng Ngay Hành Động 'Cắn Răng Chịu Đựng'&quot;] --&gt; B[&quot;Bước 2: Luyện Tập Thả Lỏng &amp; Hạ Trương Lực Cơ (Down-training)&quot;]
- B --&gt; C[&quot;Bước 3: Sử Dụng Chất Bôi Trơn Đẳng Trương &amp; Gối Hỗ Trợ Góc&quot;]
- C --&gt; D[&quot;Bước 4: Thăm Khám Chuyên Khoa Phụ Sản &amp; Trị Liệu Sàn Chậu&quot;]
-</code></pre>
+
+<div class="mermaid">
+flowchart LR
+ A["Bước 1: Ngưng Ngay Hành Động 'Cắn Răng Chịu Đựng'"] --> B["Bước 2: Luyện Tập Thả Lỏng & Hạ Trương Lực Cơ (Down-training)"]
+ B --> C["Bước 3: Sử Dụng Chất Bôi Trơn Đẳng Trương & Gối Hỗ Trợ Góc"]
+ C --> D["Bước 4: Thăm Khám Chuyên Khoa Phụ Sản & Trị Liệu Sàn Chậu"]
+</div>
+
 <ol>
 <li><strong>Phá Vỡ Phản Xạ Đau - Co Thắt Của Não Bộ:</strong> Nguyên tắc vàng số một: <strong>Tuyệt đối không tiếp tục quan hệ khi đang bị đau.</strong> Khi bạn cố chịu đựng, não bộ sẽ hình thành cung phản xạ có điều kiện: gán ghép tình dục với sự nguy hiểm, kích hoạt hệ thần kinh giao cảm co thắt cơ dữ dội hơn trong những lần sau.</li>
 <li><strong>Thực Hiện Các Bài Tập Hạ Trương Lực Sàn Chậu (Down-training):</strong>
@@ -412,11 +416,14 @@
 </table>
 <hr />
 <h2>4-Step Action Protocol for Recovery &amp; Healing</h2>
-<pre><code class="language-mermaid">flowchart LR
- A[&quot;Step 1: Cease 'Pushing Through' Intercourse&quot;] --&gt; B[&quot;Step 2: Adopt Pelvic Floor Down-Training Drills&quot;]
- B --&gt; C[&quot;Step 3: Implement Osmolality-Balanced Lubricants &amp; Buffering&quot;]
- C --&gt; D[&quot;Step 4: Engage Specialized Pelvic Floor Physical Therapy&quot;]
-</code></pre>
+
+<div class="mermaid">
+flowchart LR
+ A["Step 1: Cease 'Pushing Through' Intercourse"] --> B["Step 2: Adopt Pelvic Floor Down-Training Drills"]
+ B --> C["Step 3: Implement Osmolality-Balanced Lubricants & Buffering"]
+ C --> D["Step 4: Engage Specialized Pelvic Floor Physical Therapy"]
+</div>
+
 <ol>
 <li><strong>Break the Neural Pain Reflex:</strong> The foundational rule of sexual medicine: <strong>Never force or endure painful intercourse.</strong> Pushing through trauma hardwires the central nervous system to associate intimacy with danger, magnifying autonomic guarding reflexes.</li>
 <li><strong>Practice Pelvic Floor Down-Training:</strong>
@@ -537,6 +544,36 @@
   </footer>
 
   <script>
+    if (window.mermaid) {
+      mermaid.initialize({
+        startOnLoad: false,
+        theme: 'neutral',
+        fontFamily: 'Plus Jakarta Sans, sans-serif',
+        securityLevel: 'loose',
+        flowchart: {
+          useMaxWidth: true,
+          htmlLabels: true,
+          curve: 'basis'
+        }
+      });
+    }
+
+    async function renderActiveMermaid() {
+      if (window.mermaid) {
+        try {
+          const activeContainer = document.querySelector('.article-page-container:not(.hidden)');
+          if (activeContainer) {
+            const nodes = activeContainer.querySelectorAll('.mermaid:not([data-processed="true"])');
+            if (nodes.length > 0) {
+              await mermaid.run({ nodes: nodes });
+            }
+          }
+        } catch (err) {
+          console.warn('Mermaid render warning:', err);
+        }
+      }
+    }
+
     function switchPostLang(lang) {
       localStorage.setItem('pv_lang', lang);
       const viContainer = document.getElementById('post-container-vi');
@@ -565,6 +602,7 @@
         backBtn.href = '../index.html?lang=vi';
         document.documentElement.lang = 'vi';
       }
+      setTimeout(renderActiveMermaid, 50);
     }
 
     (function initLang() {
@@ -572,6 +610,7 @@
       const qLang = params.get('lang');
       const saved = qLang || localStorage.getItem('pv_lang') || 'vi';
       switchPostLang(saved === 'en' ? 'en' : 'vi');
+      setTimeout(renderActiveMermaid, 100);
     })();
 
     window.addEventListener('scroll', () => {

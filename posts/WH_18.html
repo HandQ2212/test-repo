@@ -8,6 +8,7 @@
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
   <link href="https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:wght@400;500;600;700;800&family=Lora:ital,wght@0,400;0,500;0,600;1,400&display=swap" rel="stylesheet">
+  <script src="https://cdn.jsdelivr.net/npm/mermaid@10/dist/mermaid.min.js"></script>
 </head>
 <body class="blog-post-page">
   <div class="reading-progress-container">
@@ -166,11 +167,14 @@ Con số 22.7 nằm sâu trong <strong>Vùng Nguy Hiểm</strong>, chắc chắn
 </ol>
 <hr />
 <h2>Giao Thức 4 Bước Phục Hồi Năng Lượng &amp; Đánh Thức Buồng Trứng</h2>
-<pre><code class="language-mermaid">flowchart LR
- A[&quot;Bước 1: Nâng Ngay Lượng Năng Lượng Nạp Vào Thêm 300-500 kcal&quot;] --&gt; B[&quot;Bước 2: Bổ Sung Tinh Bột Phức Hợp Quanh Giờ Tập Luyện&quot;]
- B --&gt; C[&quot;Bước 3: Hạ Cắt Giảm 30-50% Tải Trọng Tập Luyện (Strain)&quot;]
- C --&gt; D[&quot;Bước 4: Theo Dõi Sự Trở Lại Của Đỉnh Thân Nhiệt Da BBT&quot;]
-</code></pre>
+
+<div class="mermaid">
+flowchart LR
+ A["Bước 1: Nâng Ngay Lượng Năng Lượng Nạp Vào Thêm 300-500 kcal"] --> B["Bước 2: Bổ Sung Tinh Bột Phức Hợp Quanh Giờ Tập Luyện"]
+ B --> C["Bước 3: Hạ Cắt Giảm 30-50% Tải Trọng Tập Luyện (Strain)"]
+ C --> D["Bước 4: Theo Dõi Sự Trở Lại Của Đỉnh Thân Nhiệt Da BBT"]
+</div>
+
 <ol>
 <li><strong>Nâng Năng Lượng Sẵn Có Ngay Lập Tức:</strong> Tăng khẩu phần ăn thêm 300 đến 500 kcal mỗi ngày, đặc biệt tập trung vào các chất béo lành mạnh (quả bơ, các loại hạt hạnh nhân/óc chó, dầu ô liu) để cung cấp cholesterol làm nguyên liệu tổng hợp hormone sinh dục.</li>
 <li><strong>Cứu Vớt Tuyến Giáp Bằng Tinh Bột (Carbohydrate Re-feeding):</strong> Não bộ và vùng hạ đồi cần glucose để cảm nhận sự an toàn năng lượng. Tuyệt đối chấm dứt chế độ ăn kiêng Low-carb hay Ketogenic; hãy nạp tinh bột phức hợp (khoai lang, yến mạch, cơm gạo lứt) ngay trước và sau buổi tập.</li>
@@ -409,11 +413,14 @@ An EA of 22.7 falls deep within the <strong>Severe Crash Zone</strong>, accelera
 </ol>
 <hr />
 <h2>4-Step RED-S Recovery &amp; Hypothalamic Resuscitation Protocol</h2>
-<pre><code class="language-mermaid">flowchart LR
- A[&quot;Step 1: Elevate Daily Caloric Ingestion by 300-500 kcal&quot;] --&gt; B[&quot;Step 2: Re-feed Complex Carbohydrates Around Sessions&quot;]
- B --&gt; C[&quot;Step 3: Cut Overall Training Strain by 30-50%&quot;]
- C --&gt; D[&quot;Step 4: Track the Re-emergence of Biphasic BBT Shifting&quot;]
-</code></pre>
+
+<div class="mermaid">
+flowchart LR
+ A["Step 1: Elevate Daily Caloric Ingestion by 300-500 kcal"] --> B["Step 2: Re-feed Complex Carbohydrates Around Sessions"]
+ B --> C["Step 3: Cut Overall Training Strain by 30-50%"]
+ C --> D["Step 4: Track the Re-emergence of Biphasic BBT Shifting"]
+</div>
+
 <ol>
 <li><strong>Immediate Energy Surplus Intervention:</strong> Increase daily caloric intake by 300 to 500 kcal immediately, targeting nutrient-dense healthy fats (avocados, raw nuts, olive oil) to provide cholesterol substrates for steroidogenesis.</li>
 <li><strong>Carbohydrate Re-Feeding for Hypothalamic Signalling:</strong> The hypothalamus requires continuous glucose availability to perceive metabolic safety. Terminate ketogenic or aggressive low-carb regimens; ingest complex carbohydrates (sweet potatoes, oats, whole grains) around training windows.</li>
@@ -529,6 +536,36 @@ An EA of 22.7 falls deep within the <strong>Severe Crash Zone</strong>, accelera
   </footer>
 
   <script>
+    if (window.mermaid) {
+      mermaid.initialize({
+        startOnLoad: false,
+        theme: 'neutral',
+        fontFamily: 'Plus Jakarta Sans, sans-serif',
+        securityLevel: 'loose',
+        flowchart: {
+          useMaxWidth: true,
+          htmlLabels: true,
+          curve: 'basis'
+        }
+      });
+    }
+
+    async function renderActiveMermaid() {
+      if (window.mermaid) {
+        try {
+          const activeContainer = document.querySelector('.article-page-container:not(.hidden)');
+          if (activeContainer) {
+            const nodes = activeContainer.querySelectorAll('.mermaid:not([data-processed="true"])');
+            if (nodes.length > 0) {
+              await mermaid.run({ nodes: nodes });
+            }
+          }
+        } catch (err) {
+          console.warn('Mermaid render warning:', err);
+        }
+      }
+    }
+
     function switchPostLang(lang) {
       localStorage.setItem('pv_lang', lang);
       const viContainer = document.getElementById('post-container-vi');
@@ -557,6 +594,7 @@ An EA of 22.7 falls deep within the <strong>Severe Crash Zone</strong>, accelera
         backBtn.href = '../index.html?lang=vi';
         document.documentElement.lang = 'vi';
       }
+      setTimeout(renderActiveMermaid, 50);
     }
 
     (function initLang() {
@@ -564,6 +602,7 @@ An EA of 22.7 falls deep within the <strong>Severe Crash Zone</strong>, accelera
       const qLang = params.get('lang');
       const saved = qLang || localStorage.getItem('pv_lang') || 'vi';
       switchPostLang(saved === 'en' ? 'en' : 'vi');
+      setTimeout(renderActiveMermaid, 100);
     })();
 
     window.addEventListener('scroll', () => {

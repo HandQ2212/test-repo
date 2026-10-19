@@ -8,6 +8,7 @@
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
   <link href="https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:wght@400;500;600;700;800&family=Lora:ital,wght@0,400;0,500;0,600;1,400&display=swap" rel="stylesheet">
+  <script src="https://cdn.jsdelivr.net/npm/mermaid@10/dist/mermaid.min.js"></script>
 </head>
 <body class="blog-post-page">
   <div class="reading-progress-container">
@@ -154,11 +155,14 @@
 </ol>
 <hr />
 <h2>Giao Thức 4 Bước Tập Luyện Phục Hồi Chuẩn Khoa Học</h2>
-<pre><code class="language-mermaid">flowchart LR
- A[&quot;Bước 1: Kiểm Tra Điểm Recovery &amp; Nhịp Tim Sáng Sớm&quot;] --&gt; B[&quot;Bước 2: Khởi Động 10 Phút Giãn Mạc Hông &amp; Sàn Chậu&quot;]
- B --&gt; C[&quot;Bước 3: Chọn Bài Tập Nhịp Điệu Cố Định RPE 5-6&quot;]
- C --&gt; D[&quot;Bước 4: Bổ Sung Nước Điện Giải &amp; Protein Dễ Tiêu&quot;]
-</code></pre>
+
+<div class="mermaid">
+flowchart LR
+ A["Bước 1: Kiểm Tra Điểm Recovery & Nhịp Tim Sáng Sớm"] --> B["Bước 2: Khởi Động 10 Phút Giãn Mạc Hông & Sàn Chậu"]
+ B --> C["Bước 3: Chọn Bài Tập Nhịp Điệu Cố Định RPE 5-6"]
+ C --> D["Bước 4: Bổ Sung Nước Điện Giải & Protein Dễ Tiêu"]
+</div>
+
 <ol>
 <li><strong>Khảo Sát Chỉ Số Sinh Học Sáng Sớm:</strong> Mở ứng dụng thiết bị đeo kiểm tra điểm Phục hồi. Nếu điểm ở vùng Đỏ kèm đau bụng quặn, hãy chuyển lịch tập sang đi bộ thư giãn ngoài trời 20 phút thay vì cố gắng đến phòng gym.</li>
 <li><strong>Khởi Động Tập Trung Vào Khớp Háng:</strong> Dành 10 phút thực hiện các chuỗi chuyển động giải phóng áp lực vùng chậu: <em>Cat-Cow (Mèo - Bò)</em>, <em>Child's Pose (Tư thế em bé)</em> kết hợp hít thở sâu vào đáy bụng để xoa bóp nội tạng.</li>
@@ -385,11 +389,14 @@
 </ol>
 <hr />
 <h2>4-Step Period Movement &amp; Recovery Protocol</h2>
-<pre><code class="language-mermaid">flowchart LR
- A[&quot;Step 1: Audit Morning Recovery &amp; Resting Vitals&quot;] --&gt; B[&quot;Step 2: Complete 10-Min Hip &amp; Pelvic Mobilization&quot;]
- B --&gt; C[&quot;Step 3: Execute Steady-State Zone 2 Cardio (RPE 5-6)&quot;]
- C --&gt; D[&quot;Step 4: Replenish with Electrolytes &amp; Anti-Inflammatory Fuel&quot;]
-</code></pre>
+
+<div class="mermaid">
+flowchart LR
+ A["Step 1: Audit Morning Recovery & Resting Vitals"] --> B["Step 2: Complete 10-Min Hip & Pelvic Mobilization"]
+ B --> C["Step 3: Execute Steady-State Zone 2 Cardio (RPE 5-6)"]
+ C --> D["Step 4: Replenish with Electrolytes & Anti-Inflammatory Fuel"]
+</div>
+
 <ol>
 <li><strong>Audit Morning Biometrics:</strong> Check your wearable Recovery Score. If flagged in the Red with acute cramping, pivot your training to a 20-minute restorative walk in nature rather than grinding through the gym.</li>
 <li><strong>Execute Pelvic Mobilization:</strong> Dedicate 10 minutes to pelvic decompression sequences: <em>Cat-Cow</em>, <em>Child's Pose</em>, and <em>Supine Figure Four</em>, coordinating deep breaths into the lower abdomen to gently massage visceral organs.</li>
@@ -505,6 +512,36 @@
   </footer>
 
   <script>
+    if (window.mermaid) {
+      mermaid.initialize({
+        startOnLoad: false,
+        theme: 'neutral',
+        fontFamily: 'Plus Jakarta Sans, sans-serif',
+        securityLevel: 'loose',
+        flowchart: {
+          useMaxWidth: true,
+          htmlLabels: true,
+          curve: 'basis'
+        }
+      });
+    }
+
+    async function renderActiveMermaid() {
+      if (window.mermaid) {
+        try {
+          const activeContainer = document.querySelector('.article-page-container:not(.hidden)');
+          if (activeContainer) {
+            const nodes = activeContainer.querySelectorAll('.mermaid:not([data-processed="true"])');
+            if (nodes.length > 0) {
+              await mermaid.run({ nodes: nodes });
+            }
+          }
+        } catch (err) {
+          console.warn('Mermaid render warning:', err);
+        }
+      }
+    }
+
     function switchPostLang(lang) {
       localStorage.setItem('pv_lang', lang);
       const viContainer = document.getElementById('post-container-vi');
@@ -533,6 +570,7 @@
         backBtn.href = '../index.html?lang=vi';
         document.documentElement.lang = 'vi';
       }
+      setTimeout(renderActiveMermaid, 50);
     }
 
     (function initLang() {
@@ -540,6 +578,7 @@
       const qLang = params.get('lang');
       const saved = qLang || localStorage.getItem('pv_lang') || 'vi';
       switchPostLang(saved === 'en' ? 'en' : 'vi');
+      setTimeout(renderActiveMermaid, 100);
     })();
 
     window.addEventListener('scroll', () => {

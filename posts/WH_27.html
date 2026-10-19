@@ -8,6 +8,7 @@
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
   <link href="https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:wght@400;500;600;700;800&family=Lora:ital,wght@0,400;0,500;0,600;1,400&display=swap" rel="stylesheet">
+  <script src="https://cdn.jsdelivr.net/npm/mermaid@10/dist/mermaid.min.js"></script>
 </head>
 <body class="blog-post-page">
   <div class="reading-progress-container">
@@ -174,11 +175,14 @@
 </ol>
 <hr />
 <h2>Giao Thức 4 Bước Phục Hồi Thể Lực Hậu Sản Toàn Diện</h2>
-<pre><code class="language-mermaid">flowchart LR
- A[&quot;Bước 1: Tập Thở Cơ Hoành Kết Nối Sàn Chậu (Tuần 1-2)&quot;] --&gt; B[&quot;Bước 2: Kích Hoạt Cơ Bụng Sâu Transversus Abdominis (Tuần 3-6)&quot;]
- B --&gt; C[&quot;Bước 3: Tái Huấn Luyện Khớp Háng &amp; Cột Sống (Tuần 6-8)&quot;]
- C --&gt; D[&quot;Bước 4: Kiểm Tra Tách Cơ Trước Khi Trở Lại Tập Tạ Nặng&quot;]
-</code></pre>
+
+<div class="mermaid">
+flowchart LR
+ A["Bước 1: Tập Thở Cơ Hoành Kết Nối Sàn Chậu (Tuần 1-2)"] --> B["Bước 2: Kích Hoạt Cơ Bụng Sâu Transversus Abdominis (Tuần 3-6)"]
+ B --> C["Bước 3: Tái Huấn Luyện Khớp Háng & Cột Sống (Tuần 6-8)"]
+ C --> D["Bước 4: Kiểm Tra Tách Cơ Trước Khi Trở Lại Tập Tạ Nặng"]
+</div>
+
 <ol>
 <li><strong>Tuần 1–2 (Hồi Phục Tĩnh):</strong> Nằm ngửa co chân, đặt tay lên bụng. Hít vào mở rộng khung sườn 360 độ; thở ra chậm rãi và tưởng tượng như đang kéo nhẹ khóa quần jean từ xương mu lên rốn. Thực hiện 10 nhịp thở mỗi sáng và tối.</li>
 <li><strong>Tuần 3–6 (Kích Hoạt Nhẹ Nhàng):</strong> Bổ sung các bài tập: <em>Heel Slides (Trượt gót chân trên sàn)</em>, <em>Bird-Dog (Quỳ bốn điểm duỗi tay chân)</em> và <em>Glute Bridge (Nâng mông)</em>. Chú ý luôn thở ra ngay trước khi chuyển động để khóa cơ lõi sâu.</li>
@@ -425,11 +429,14 @@
 </ol>
 <hr />
 <h2>4-Step Progressive Postpartum Rehabilitation Protocol</h2>
-<pre><code class="language-mermaid">flowchart LR
- A[&quot;Step 1: Master Diaphragmatic Pelvic Floor Coupling (Weeks 1-2)&quot;] --&gt; B[&quot;Step 2: Isolate Deep Transversus Abdominis Tension (Weeks 3-6)&quot;]
- B --&gt; C[&quot;Step 3: Obtain Formal 6-Week Obstetric Clearance&quot;]
- C --&gt; D[&quot;Step 4: Consult a Pelvic Floor PT Prior to Heavy Loading&quot;]
-</code></pre>
+
+<div class="mermaid">
+flowchart LR
+ A["Step 1: Master Diaphragmatic Pelvic Floor Coupling (Weeks 1-2)"] --> B["Step 2: Isolate Deep Transversus Abdominis Tension (Weeks 3-6)"]
+ B --> C["Step 3: Obtain Formal 6-Week Obstetric Clearance"]
+ C --> D["Step 4: Consult a Pelvic Floor PT Prior to Heavy Loading"]
+</div>
+
 <ol>
 <li><strong>Weeks 1–2 (Gentle Neuro-Muscular Priming):</strong> Lie supine with knees bent. Inhale into your lower ribs; exhale gently through parted lips, imagining zipping up a tight pair of jeans from the pubic bone to the navel. Execute 10 controlled breath cycles twice daily.</li>
 <li><strong>Weeks 3–6 (Progressive Core Integration):</strong> Advance into <em>Heel Slides</em>, <em>Bird-Dogs</em>, and <em>Glute Bridges</em>, maintaining continuous awareness of abdominal tension. Ensure the midline does not peak or dome into a ridge during movement.</li>
@@ -545,6 +552,36 @@
   </footer>
 
   <script>
+    if (window.mermaid) {
+      mermaid.initialize({
+        startOnLoad: false,
+        theme: 'neutral',
+        fontFamily: 'Plus Jakarta Sans, sans-serif',
+        securityLevel: 'loose',
+        flowchart: {
+          useMaxWidth: true,
+          htmlLabels: true,
+          curve: 'basis'
+        }
+      });
+    }
+
+    async function renderActiveMermaid() {
+      if (window.mermaid) {
+        try {
+          const activeContainer = document.querySelector('.article-page-container:not(.hidden)');
+          if (activeContainer) {
+            const nodes = activeContainer.querySelectorAll('.mermaid:not([data-processed="true"])');
+            if (nodes.length > 0) {
+              await mermaid.run({ nodes: nodes });
+            }
+          }
+        } catch (err) {
+          console.warn('Mermaid render warning:', err);
+        }
+      }
+    }
+
     function switchPostLang(lang) {
       localStorage.setItem('pv_lang', lang);
       const viContainer = document.getElementById('post-container-vi');
@@ -573,6 +610,7 @@
         backBtn.href = '../index.html?lang=vi';
         document.documentElement.lang = 'vi';
       }
+      setTimeout(renderActiveMermaid, 50);
     }
 
     (function initLang() {
@@ -580,6 +618,7 @@
       const qLang = params.get('lang');
       const saved = qLang || localStorage.getItem('pv_lang') || 'vi';
       switchPostLang(saved === 'en' ? 'en' : 'vi');
+      setTimeout(renderActiveMermaid, 100);
     })();
 
     window.addEventListener('scroll', () => {

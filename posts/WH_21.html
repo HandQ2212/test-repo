@@ -8,6 +8,7 @@
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
   <link href="https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:wght@400;500;600;700;800&family=Lora:ital,wght@0,400;0,500;0,600;1,400&display=swap" rel="stylesheet">
+  <script src="https://cdn.jsdelivr.net/npm/mermaid@10/dist/mermaid.min.js"></script>
 </head>
 <body class="blog-post-page">
   <div class="reading-progress-container">
@@ -175,11 +176,14 @@
 </ol>
 <hr />
 <h2>Giao Thức 4 Bước Làm Chủ Dinh Dưỡng Đồng Bộ Chu Kỳ</h2>
-<pre><code class="language-mermaid">flowchart LR
- A[&quot;Bước 1: Nạp Tinh Bột Phức Hợp Vào Các Ngày Tập Nặng Pha Nang Trứng&quot;] --&gt; B[&quot;Bước 2: Tăng Khẩu Phần Protein Lên 1.8g/kg Ở Pha Hoàng Thể&quot;]
- B --&gt; C[&quot;Bước 3: Bổ Sung 150-200 kcal Từ Chất Béo Lành Mạnh Trước Kỳ Kinh&quot;]
- C --&gt; D[&quot;Bước 4: Sử Dụng Sô-cô-la Đen 85% &amp; Magie Để Dập Tắt Cơn Thèm&quot;]
-</code></pre>
+
+<div class="mermaid">
+flowchart LR
+ A["Bước 1: Nạp Tinh Bột Phức Hợp Vào Các Ngày Tập Nặng Pha Nang Trứng"] --> B["Bước 2: Tăng Khẩu Phần Protein Lên 1.8g/kg Ở Pha Hoàng Thể"]
+ B --> C["Bước 3: Bổ Sung 150-200 kcal Từ Chất Béo Lành Mạnh Trước Kỳ Kinh"]
+ C --> D["Bước 4: Sử Dụng Sô-cô-la Đen 85% & Magie Để Dập Tắt Cơn Thèm"]
+</div>
+
 <ol>
 <li><strong>Chiến Lược Tinh Bột Thông Minh (Carb Cycling):</strong> Hãy nạp phần lớn lượng tinh bột trong ngày vào bữa ăn ngay trước và sau buổi tập gym ở pha nang trứng để bơm đầy các kho dự trữ glycogen cơ bắp.</li>
 <li><strong>Khóa Chặt Dị Hóa Cơ Bắp Bằng Protein:</strong> Khi bước vào pha hoàng thể (sau rụng trứng), hãy đảm bảo mỗi bữa ăn chính đều có ít nhất 25–30g protein chất lượng cao (thịt nạc, cá, trứng, đậu hũ) để cung cấp đủ leucine bảo vệ khối nạc.</li>
@@ -427,11 +431,14 @@
 </ol>
 <hr />
 <h2>4-Step Action Protocol for Hormonally Aligned Nutrition</h2>
-<pre><code class="language-mermaid">flowchart LR
- A[&quot;Step 1: Cycle Complex Carbohydrates Around Follicular Workouts&quot;] --&gt; B[&quot;Step 2: Elevate Protein Ingestion to 1.8g/kg Post-Ovulation&quot;]
- B --&gt; C[&quot;Step 3: Accommodate +150-200 kcal via Clean Healthy Fats&quot;]
- C --&gt; D[&quot;Step 4: Subdue Cravings with 85% Dark Chocolate &amp; Magnesium&quot;]
-</code></pre>
+
+<div class="mermaid">
+flowchart LR
+ A["Step 1: Cycle Complex Carbohydrates Around Follicular Workouts"] --> B["Step 2: Elevate Protein Ingestion to 1.8g/kg Post-Ovulation"]
+ B --> C["Step 3: Accommodate +150-200 kcal via Clean Healthy Fats"]
+ C --> D["Step 4: Subdue Cravings with 85% Dark Chocolate & Magnesium"]
+</div>
+
 <ol>
 <li><strong>Implement Strategic Carbohydrate Cycling:</strong> Concentrate the bulk of your daily carbohydrates in pre- and post-workout windows during the follicular phase to completely saturate muscle glycogen stores.</li>
 <li><strong>Safeguard Lean Mass with Target Protein Ingestion:</strong> Upon entering the luteal phase (post-ovulation), ensure every primary meal provides at least 25–30 grams of high-leucine protein (lean poultry, eggs, wild fish, tofu) to halt protein catabolism.</li>
@@ -547,6 +554,36 @@
   </footer>
 
   <script>
+    if (window.mermaid) {
+      mermaid.initialize({
+        startOnLoad: false,
+        theme: 'neutral',
+        fontFamily: 'Plus Jakarta Sans, sans-serif',
+        securityLevel: 'loose',
+        flowchart: {
+          useMaxWidth: true,
+          htmlLabels: true,
+          curve: 'basis'
+        }
+      });
+    }
+
+    async function renderActiveMermaid() {
+      if (window.mermaid) {
+        try {
+          const activeContainer = document.querySelector('.article-page-container:not(.hidden)');
+          if (activeContainer) {
+            const nodes = activeContainer.querySelectorAll('.mermaid:not([data-processed="true"])');
+            if (nodes.length > 0) {
+              await mermaid.run({ nodes: nodes });
+            }
+          }
+        } catch (err) {
+          console.warn('Mermaid render warning:', err);
+        }
+      }
+    }
+
     function switchPostLang(lang) {
       localStorage.setItem('pv_lang', lang);
       const viContainer = document.getElementById('post-container-vi');
@@ -575,6 +612,7 @@
         backBtn.href = '../index.html?lang=vi';
         document.documentElement.lang = 'vi';
       }
+      setTimeout(renderActiveMermaid, 50);
     }
 
     (function initLang() {
@@ -582,6 +620,7 @@
       const qLang = params.get('lang');
       const saved = qLang || localStorage.getItem('pv_lang') || 'vi';
       switchPostLang(saved === 'en' ? 'en' : 'vi');
+      setTimeout(renderActiveMermaid, 100);
     })();
 
     window.addEventListener('scroll', () => {

@@ -8,6 +8,7 @@
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
   <link href="https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:wght@400;500;600;700;800&family=Lora:ital,wght@0,400;0,500;0,600;1,400&display=swap" rel="stylesheet">
+  <script src="https://cdn.jsdelivr.net/npm/mermaid@10/dist/mermaid.min.js"></script>
 </head>
 <body class="blog-post-page">
   <div class="reading-progress-container">
@@ -156,11 +157,14 @@
 </table>
 <hr />
 <h2>Giao Thức 4 Bước Tập Kháng Lực An Toàn &amp; Chuẩn Khoa Học</h2>
-<pre><code class="language-mermaid">flowchart LR
- A[&quot;Bước 1: Thành Thục Kỹ Thuật Đa Khớp Không Tạ&quot;] --&gt; B[&quot;Bước 2: Tiến Lên Mức Tạ 70-80% 1RM Với Tần Suất 2-3 Buổi/Tuần&quot;]
- B --&gt; C[&quot;Bước 3: Nạp 1.6 - 2.0g Protein/kg Thể Trọng Mỗi Ngày&quot;]
- C --&gt; D[&quot;Bước 4: Đồng Bộ Ngày Tập Nặng Với Pha Nang Trứng&quot;]
-</code></pre>
+
+<div class="mermaid">
+flowchart LR
+ A["Bước 1: Thành Thục Kỹ Thuật Đa Khớp Không Tạ"] --> B["Bước 2: Tiến Lên Mức Tạ 70-80% 1RM Với Tần Suất 2-3 Buổi/Tuần"]
+ B --> C["Bước 3: Nạp 1.6 - 2.0g Protein/kg Thể Trọng Mỗi Ngày"]
+ C --> D["Bước 4: Đồng Bộ Ngày Tập Nặng Với Pha Nang Trứng"]
+</div>
+
 <ol>
 <li><strong>Làm Chủ Chuyển Động Nguyên Bản (Movement Patterns):</strong> Bắt đầu bằng việc thuần thục 4 chuyển động nền tảng với trọng lượng cơ thể: Squat (Ngồi xổm), Hinge (Gập hông/Deadlift), Push (Đẩy ngực/Chống đẩy) và Pull (Kéo lưng). Chú ý kỹ thuật thở cơ hoành để bảo vệ sàn chậu.</li>
 <li><strong>Nguyên Tắc Quá Tải Lũy Tiến (Progressive Overload):</strong> Khi đã nắm vững kỹ thuật, hãy tăng dần mức tạ đến ngưỡng thử thách (tập ở mức tạ mà bạn chỉ thực hiện được 6–10 lần lặp chuẩn form, tương đương 70%–80% 1RM). Duy trì 2 đến 3 buổi tập kháng lực toàn thân mỗi tuần.</li>
@@ -389,11 +393,14 @@
 </table>
 <hr />
 <h2>4-Step Progressive Resistance Training Protocol</h2>
-<pre><code class="language-mermaid">flowchart LR
- A[&quot;Step 1: Master Multi-Joint Biomechanics Unloaded&quot;] --&gt; B[&quot;Step 2: Progress to 70-80% 1RM Across 2-3 Weekly Sessions&quot;]
- B --&gt; C[&quot;Step 3: Ingest 1.6 - 2.0g Protein per kg Bodyweight Daily&quot;]
- C --&gt; D[&quot;Step 4: Synchronize Max Effort Lifts with Follicular Window&quot;]
-</code></pre>
+
+<div class="mermaid">
+flowchart LR
+ A["Step 1: Master Multi-Joint Biomechanics Unloaded"] --> B["Step 2: Progress to 70-80% 1RM Across 2-3 Weekly Sessions"]
+ B --> C["Step 3: Ingest 1.6 - 2.0g Protein per kg Bodyweight Daily"]
+ C --> D["Step 4: Synchronize Max Effort Lifts with Follicular Window"]
+</div>
+
 <ol>
 <li><strong>Master Foundational Movement Patterns:</strong> Perfect the 4 elemental human movements unloaded: Squat, Hip Hinge (Deadlift), Upper Body Push (Overhead Press/Push-Up), and Pull (Row/Chin-Up). Couple these movements with diaphragmatic piston breathing to safeguard the pelvic floor.</li>
 <li><strong>Apply Progressive Overload:</strong> Once mechanical execution is solid, steadily advance loads into demanding thresholds (6 to 10 repetitions per set with pristine form, corresponding to 70%–80% 1RM). Execute 2 to 3 full-body sessions weekly.</li>
@@ -509,6 +516,36 @@
   </footer>
 
   <script>
+    if (window.mermaid) {
+      mermaid.initialize({
+        startOnLoad: false,
+        theme: 'neutral',
+        fontFamily: 'Plus Jakarta Sans, sans-serif',
+        securityLevel: 'loose',
+        flowchart: {
+          useMaxWidth: true,
+          htmlLabels: true,
+          curve: 'basis'
+        }
+      });
+    }
+
+    async function renderActiveMermaid() {
+      if (window.mermaid) {
+        try {
+          const activeContainer = document.querySelector('.article-page-container:not(.hidden)');
+          if (activeContainer) {
+            const nodes = activeContainer.querySelectorAll('.mermaid:not([data-processed="true"])');
+            if (nodes.length > 0) {
+              await mermaid.run({ nodes: nodes });
+            }
+          }
+        } catch (err) {
+          console.warn('Mermaid render warning:', err);
+        }
+      }
+    }
+
     function switchPostLang(lang) {
       localStorage.setItem('pv_lang', lang);
       const viContainer = document.getElementById('post-container-vi');
@@ -537,6 +574,7 @@
         backBtn.href = '../index.html?lang=vi';
         document.documentElement.lang = 'vi';
       }
+      setTimeout(renderActiveMermaid, 50);
     }
 
     (function initLang() {
@@ -544,6 +582,7 @@
       const qLang = params.get('lang');
       const saved = qLang || localStorage.getItem('pv_lang') || 'vi';
       switchPostLang(saved === 'en' ? 'en' : 'vi');
+      setTimeout(renderActiveMermaid, 100);
     })();
 
     window.addEventListener('scroll', () => {

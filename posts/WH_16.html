@@ -8,6 +8,7 @@
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
   <link href="https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:wght@400;500;600;700;800&family=Lora:ital,wght@0,400;0,500;0,600;1,400&display=swap" rel="stylesheet">
+  <script src="https://cdn.jsdelivr.net/npm/mermaid@10/dist/mermaid.min.js"></script>
 </head>
 <body class="blog-post-page">
   <div class="reading-progress-container">
@@ -178,11 +179,14 @@
 </ol>
 <hr />
 <h2>Giao Thức 4 Bước Ứng Dụng HRV Vào Tập Luyện Thông Minh</h2>
-<pre><code class="language-mermaid">flowchart LR
- A[&quot;Bước 1: Thiết Lập 2 Đường Baseline Riêng Cho 2 Pha&quot;] --&gt; B[&quot;Bước 2: Tập Nặng Bứt Phá Khi HRV Ở Đỉnh Nang Trứng&quot;]
- B --&gt; C[&quot;Bước 3: Hạ Nhiệt Độ Phòng Ngủ Ở Pha Hoàng Thể&quot;]
- C --&gt; D[&quot;Bước 4: Theo Dõi 'Độ Lệch Bất Thường' So Với Mức Nền&quot;]
-</code></pre>
+
+<div class="mermaid">
+flowchart LR
+ A["Bước 1: Thiết Lập 2 Đường Baseline Riêng Cho 2 Pha"] --> B["Bước 2: Tập Nặng Bứt Phá Khi HRV Ở Đỉnh Nang Trứng"]
+ B --> C["Bước 3: Hạ Nhiệt Độ Phòng Ngủ Ở Pha Hoàng Thể"]
+ C --> D["Bước 4: Theo Dõi 'Độ Lệch Bất Thường' So Với Mức Nền"]
+</div>
+
 <ol>
 <li><strong>Thiết Lập 2 Đường Baseline Cá Nhân Hóa:</strong> Thay vì dùng một con số trung bình chung cho cả tháng, hãy tự tính:
  - <em>Baseline Pha Nang Trứng:</em> Trung bình HRV từ Ngày 1 đến Ngày 13.
@@ -435,11 +439,14 @@
 </ol>
 <hr />
 <h2>4-Step Cycle-Aware HRV Training Protocol</h2>
-<pre><code class="language-mermaid">flowchart LR
- A[&quot;Step 1: Calibrate Dual Phase Baselines (Follicular vs Luteal)&quot;] --&gt; B[&quot;Step 2: Capitalize on High-HRV Follicular Windows&quot;]
- B --&gt; C[&quot;Step 3: Cool Sleeping Environments to Support Luteal Vagal Tone&quot;]
- C --&gt; D[&quot;Step 4: Distinguish Pathological Drops from Hormonal Dips&quot;]
-</code></pre>
+
+<div class="mermaid">
+flowchart LR
+ A["Step 1: Calibrate Dual Phase Baselines (Follicular vs Luteal)"] --> B["Step 2: Capitalize on High-HRV Follicular Windows"]
+ B --> C["Step 3: Cool Sleeping Environments to Support Luteal Vagal Tone"]
+ C --> D["Step 4: Distinguish Pathological Drops from Hormonal Dips"]
+</div>
+
 <ol>
 <li><strong>Establish Dual Baseline Norms:</strong> Rather than evaluating your metrics against an undifferentiated monthly mean:
  - <em>Follicular Baseline:</em> Mean HRV from Day 1 to Day 13.
@@ -557,6 +564,36 @@
   </footer>
 
   <script>
+    if (window.mermaid) {
+      mermaid.initialize({
+        startOnLoad: false,
+        theme: 'neutral',
+        fontFamily: 'Plus Jakarta Sans, sans-serif',
+        securityLevel: 'loose',
+        flowchart: {
+          useMaxWidth: true,
+          htmlLabels: true,
+          curve: 'basis'
+        }
+      });
+    }
+
+    async function renderActiveMermaid() {
+      if (window.mermaid) {
+        try {
+          const activeContainer = document.querySelector('.article-page-container:not(.hidden)');
+          if (activeContainer) {
+            const nodes = activeContainer.querySelectorAll('.mermaid:not([data-processed="true"])');
+            if (nodes.length > 0) {
+              await mermaid.run({ nodes: nodes });
+            }
+          }
+        } catch (err) {
+          console.warn('Mermaid render warning:', err);
+        }
+      }
+    }
+
     function switchPostLang(lang) {
       localStorage.setItem('pv_lang', lang);
       const viContainer = document.getElementById('post-container-vi');
@@ -585,6 +622,7 @@
         backBtn.href = '../index.html?lang=vi';
         document.documentElement.lang = 'vi';
       }
+      setTimeout(renderActiveMermaid, 50);
     }
 
     (function initLang() {
@@ -592,6 +630,7 @@
       const qLang = params.get('lang');
       const saved = qLang || localStorage.getItem('pv_lang') || 'vi';
       switchPostLang(saved === 'en' ? 'en' : 'vi');
+      setTimeout(renderActiveMermaid, 100);
     })();
 
     window.addEventListener('scroll', () => {
