@@ -450,4 +450,4 @@ for i, art in enumerate(articles):
     with open(os.path.join(posts_dir, f"{art['id']}.html"), "w", encoding="utf-8") as pf:
         pf.write(html_page)
 
-print("Successfully generated all 28 bilingual (EN + VI) standalone blog post pages!")
+print(f"Successfully generated all {len(articles)} bilingual (EN + VI) standalone blog post pages!")
