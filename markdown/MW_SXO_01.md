@@ -3,7 +3,7 @@
 **Screen:** Sexology & Neuroendocrine Screen 
 **Metric:** Mesolimbic Dopamine Circuit, Hypothalamic MPOA & Androgen Priming 
 **Reading Time:** 8 phút đọc / 8 min 
-**Hero Image:** ![Các con đường dẫn truyền dopamine trong não bộ: Trục trung não - viền từ VTA đến nhân accumbens chỉ huy động lực tìm kiếm phần thưởng và ham muốn tình dục.](images/MW_SXO_01_hero.jpg) *(Source: [https://images.unsplash.com/photo-1500648767791-00dcc994a43e?auto=format&fit=crop&w=1200&q=85](https://images.unsplash.com/photo-1500648767791-00dcc994a43e?auto=format&fit=crop&w=1200&q=85))* 
+**Hero Image:** ![Khoa Học Ham Muốn Nam Giới: Trục Thần Kinh - Nội Tiết, Dopamine & Động Lực Sinh Học](images/MW_SXO_01_hero.jpg) *(Source: [https://images.unsplash.com/photo-1500648767791-00dcc994a43e?auto=format&fit=crop&w=1200&q=85](https://images.unsplash.com/photo-1500648767791-00dcc994a43e?auto=format&fit=crop&w=1200&q=85))* 
 **Inline Figure:** ![Các con đường dẫn truyền dopamine trong não bộ: Trục trung não - viền từ VTA đến nhân accumbens chỉ huy động lực tìm kiếm phần thưởng và ham muốn tình dục.](images/MW_SXO_01_figure.png) *(Source: [https://commons.wikimedia.org/wiki/File:Dopaminergic_pathways.svg](https://commons.wikimedia.org/wiki/File:Dopaminergic_pathways.svg))* 
 **Clinical Source:** [Behavioral Brain Research & Annual Review of Sex Research](https://pubmed.ncbi.nlm.nih.gov/17397950/) 
 

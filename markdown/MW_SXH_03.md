@@ -3,8 +3,8 @@
 **Screen:** Sleep Analysis & Endocrine Screen 
 **Metric:** Deep Sleep Duration, REM Fragmentation & Sleep Debt 
 **Reading Time:** 8 phút đọc / 8 min 
-**Hero Image:** ![Biểu đồ kiến trúc chu kỳ giấc ngủ (Hypnogram): Các xung giải phóng testosterone ban đêm phụ thuộc vào các pha ngủ sâu sóng chậm và giấc ngủ REM không bị đứt gãy.](images/MW_SXH_03_hero.jpg) *(Source: [https://images.unsplash.com/photo-1517849845537-4d257902454a?auto=format&fit=crop&w=1200&q=85](https://images.unsplash.com/photo-1517849845537-4d257902454a?auto=format&fit=crop&w=1200&q=85))* 
-**Inline Figure:** ![Biểu đồ kiến trúc chu kỳ giấc ngủ (Hypnogram): Các xung giải phóng testosterone ban đêm phụ thuộc vào các pha ngủ sâu sóng chậm và giấc ngủ REM không bị đứt gãy.](images/MW_SXH_03_figure.png) *(Source: [https://commons.wikimedia.org/wiki/File:Sleep_Hypnogram.svg](https://commons.wikimedia.org/wiki/File:Sleep_Hypnogram.svg))* 
+**Hero Image:** ![Giấc Ngủ & Hormone Nam: Vì Sao Mất 1 Tuần Ngủ Thiếu Khiến Testosterone Tụt Dốc Như Già Đi 10 Tuổi?](images/MW_SXH_03_hero.jpg) *(Source: [https://images.unsplash.com/photo-1415604934674-561df9abf539?auto=format&fit=crop&w=1200&q=85](https://images.unsplash.com/photo-1415604934674-561df9abf539?auto=format&fit=crop&w=1200&q=85))* 
+**Inline Figure:** ![So Sánh Pha Ngủ Sóng Chậm NREM & Giấc Ngủ REM: Giai đoạn sóng chậm (Deep NREM) là thời điểm xung LH kích hoạt tế bào Leydig sản xuất testosterone mạnh nhất, trong khi pha REM phục hồi dẫn truyền thần kinh.](images/MW_SXH_03_figure.png) *(Source: [https://commons.wikimedia.org/wiki/File:Rem_vs_NREM_sleep.png](https://commons.wikimedia.org/wiki/File:Rem_vs_NREM_sleep.png))* 
 **Clinical Source:** [Journal of the American Medical Association (JAMA) & Sleep Medicine Reviews](https://pubmed.ncbi.nlm.nih.gov/21632481/) 
 
 ---

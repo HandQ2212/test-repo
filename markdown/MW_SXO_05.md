@@ -3,8 +3,8 @@
 **Screen:** Sexology & Autonomic Reflex Screen 
 **Metric:** Spinal Ejaculatory Generator, Prolactin Surge & Refractory Period 
 **Reading Time:** 8 phút đọc / 8 min 
-**Hero Image:** ![Các cơ nông đáy chậu nam giới (OpenStax): Sự co bóp nhịp nhàng của cơ hành hang (Bulbospongiosus) và cơ ngồi hang tống xuất tinh dịch trong cực khoái.](images/MW_SXO_05_hero.jpg) *(Source: [https://images.unsplash.com/photo-1530549387789-4c1017266635?auto=format&fit=crop&w=1200&q=85](https://images.unsplash.com/photo-1530549387789-4c1017266635?auto=format&fit=crop&w=1200&q=85))* 
-**Inline Figure:** ![Các cơ nông đáy chậu nam giới (OpenStax): Sự co bóp nhịp nhàng của cơ hành hang (Bulbospongiosus) và cơ ngồi hang tống xuất tinh dịch trong cực khoái.](images/MW_SXO_05_figure.png) *(Source: [https://commons.wikimedia.org/wiki/File:1116_Muscle_of_the_Male_Perineum.png](https://commons.wikimedia.org/wiki/File:1116_Muscle_of_the_Male_Perineum.png))* 
+**Hero Image:** ![Khoa Học Cực Khoái & Xuất Tinh: Hai Cơ Chế Thần Kinh Riêng Biệt & Thời Kỳ Trơ Sinh Lý](images/MW_SXO_05_hero.jpg) *(Source: [https://images.unsplash.com/photo-1530549387789-4c1017266635?auto=format&fit=crop&w=1200&q=85](https://images.unsplash.com/photo-1530549387789-4c1017266635?auto=format&fit=crop&w=1200&q=85))* 
+**Inline Figure:** ![Giải Phẫu Lớp Sâu Đáy Chậu Nam Giới & Cơ Thắt Niệu Đạo (Gray's Anatomy 407): Cơ thắt niệu đạo màng và các tuyến hành niệu đạo chịu trách nhiệm cho các cơn co thắt nhịp nhàng tống xuất tinh dịch trong pha cực khoái.](images/MW_SXO_05_figure.png) *(Source: [https://commons.wikimedia.org/wiki/File:Gray407.png](https://commons.wikimedia.org/wiki/File:Gray407.png))* 
 **Clinical Source:** [Neuroscience & Biobehavioral Reviews & World Journal of Urology](https://pubmed.ncbi.nlm.nih.gov/12470685/) 
 
 ---

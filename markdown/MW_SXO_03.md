@@ -3,7 +3,7 @@
 **Screen:** Endocrine & Neuropsychology Screen 
 **Metric:** Androgen Threshold Model, Receptor Sensitivity & Central Dopamine 
 **Reading Time:** 8 phút đọc / 8 min 
-**Hero Image:** ![Cấu trúc không gian thụ thể Androgen (AR): Testosterone tự do và DHT liên kết vùng gắn ligand để điều hòa phiên mã mạng lưới thần kinh chi phối ham muốn.](images/MW_SXO_03_hero.jpg) *(Source: [https://images.unsplash.com/photo-1483721310020-03333e577078?auto=format&fit=crop&w=1200&q=85](https://images.unsplash.com/photo-1483721310020-03333e577078?auto=format&fit=crop&w=1200&q=85))* 
+**Hero Image:** ![Ham Muốn Tình Dục & Testosterone: Điểm Khác Biệt Giữa Nhiên Liệu Sinh Học & Tâm Lý Học](images/MW_SXO_03_hero.jpg) *(Source: [https://images.unsplash.com/photo-1483721310020-03333e577078?auto=format&fit=crop&w=1200&q=85](https://images.unsplash.com/photo-1483721310020-03333e577078?auto=format&fit=crop&w=1200&q=85))* 
 **Inline Figure:** ![Cấu trúc không gian thụ thể Androgen (AR): Testosterone tự do và DHT liên kết vùng gắn ligand để điều hòa phiên mã mạng lưới thần kinh chi phối ham muốn.](images/MW_SXO_03_figure.png) *(Source: [https://commons.wikimedia.org/wiki/File:Androgen_receptor.png](https://commons.wikimedia.org/wiki/File:Androgen_receptor.png))* 
 **Clinical Source:** [New England Journal of Medicine (NEJM) & European Urology](https://pubmed.ncbi.nlm.nih.gov/24024838/) 
 

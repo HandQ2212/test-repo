@@ -3,8 +3,8 @@
 **Screen:** Men's Health Screen 
 **Metric:** Clinical Evidence 
 **Reading Time:** 9 phút đọc / 9 min 
-**Hero Image:** ![Bằng Chứng Lâm Sàng Về Tập Luyện Sàn Chậu Nam Giới: Các Thử Nghiệm Trên BJU International, PubMed và Chỉ Số Sinh Học](images/LM_MH_03_hero.jpg) *(Source: [https://images.unsplash.com/photo-1579684385127-1ef15d508118?auto=format&fit=crop&w=1200&q=85](https://images.unsplash.com/photo-1579684385127-1ef15d508118?auto=format&fit=crop&w=1200&q=85))* 
-**Inline Figure:** ![Giải phẫu lâm sàng mặt cắt dọc và mặt cắt ngang hệ sinh dục và các buồng mạch dương vật nam giới (OpenStax Hình 28.01.06), thể hiện hai vật hang, vật xốp, tĩnh mạch lưng sâu và bao trắng tunica albuginea chịu sự tác động của cơ chế khóa tĩnh mạch sàn chậu.](images/LM_MH_03_figure.jpg) *(Source: [https://commons.wikimedia.org/wiki/File:Figure_28_01_06.jpg](https://commons.wikimedia.org/wiki/File:Figure_28_01_06.jpg))* 
+**Hero Image:** ![Bằng Chứng Lâm Sàng Về Tập Luyện Sàn Chậu Nam Giới: Các Thử Nghiệm Trên BJU International, PubMed và Chỉ Số Sinh Học](images/LM_MH_03_hero.jpg) *(Source: [https://images.unsplash.com/photo-1415226581130-91cb7f52f078?auto=format&fit=crop&w=1200&q=85](https://images.unsplash.com/photo-1415226581130-91cb7f52f078?auto=format&fit=crop&w=1200&q=85))* 
+**Inline Figure:** ![Giải Phẫu Nhánh Nông Thần Kinh Thẹn Nam Giới (Gray's Anatomy 844): Mạng lưới phân nhánh thần kinh thẹn (pudendal nerve) chi phối cảm giác và vận động cho các cơ đáy chậu, thể hang và cơ thắt niệu đạo ngoài.](images/LM_MH_03_figure.jpg) *(Source: [https://commons.wikimedia.org/wiki/File:Gray844.png](https://commons.wikimedia.org/wiki/File:Gray844.png))* 
 **Clinical Source:** [BJU International (Dorey et al., 2005) & Therapeutic Advances in Urology (Pastore et al., 2014)](https://pubmed.ncbi.nlm.nih.gov/24716983/) 
 
 ---

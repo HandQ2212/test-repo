@@ -3,7 +3,7 @@
 **Screen:** Hydration Dynamics & Cardiovascular Strain Screen 
 **Metric:** Plasma Volume Deficit, Cardiac Drift (+3-5 bpm) & Core Thermoregulation 
 **Reading Time:** 8 phút đọc / 8 min 
-**Hero Image:** ![Hệ thống Renin-Angiotensin-Aldosterone (RAAS): Bù nước đúng cách ngăn ngừa co thắt mạch máu thận, duy trì thể tích tống máu tim và sức bền vận động.](images/MW_NUT_08_hero.jpg) *(Source: [https://images.unsplash.com/photo-1523362628745-0c100150b504?auto=format&fit=crop&w=1200&q=85](https://images.unsplash.com/photo-1523362628745-0c100150b504?auto=format&fit=crop&w=1200&q=85))* 
+**Hero Image:** ![Bù Nước & Hiệu Suất Thể Lực: Ảnh Hưởng Của Mất Nước 2% Lên Thể Tích Huyết Tương & Nhịp Tim](images/MW_NUT_08_hero.jpg) *(Source: [https://images.unsplash.com/photo-1523362628745-0c100150b504?auto=format&fit=crop&w=1200&q=85](https://images.unsplash.com/photo-1523362628745-0c100150b504?auto=format&fit=crop&w=1200&q=85))* 
 **Inline Figure:** ![Hệ thống Renin-Angiotensin-Aldosterone (RAAS): Bù nước đúng cách ngăn ngừa co thắt mạch máu thận, duy trì thể tích tống máu tim và sức bền vận động.](images/MW_NUT_08_figure.png) *(Source: [https://commons.wikimedia.org/wiki/File:Renin-angiotensin-aldosterone_system.svg](https://commons.wikimedia.org/wiki/File:Renin-angiotensin-aldosterone_system.svg))* 
 **Clinical Source:** [Medicine & Science in Sports & Exercise (ACSM Position Stand) & Sports Medicine](https://pubmed.ncbi.nlm.nih.gov/17277604/) 
 

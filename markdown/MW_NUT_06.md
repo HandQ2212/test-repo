@@ -3,7 +3,7 @@
 **Screen:** Reproductive Health & Sperm Analysis Screen 
 **Metric:** Spermatogenic Cycle (74 Days), DNA Fragmentation & Semen Parameters 
 **Reading Time:** 8 phút đọc / 8 min 
-**Hero Image:** ![Sơ đồ giải phẫu hoàn chỉnh tinh trùng người: Các vi chất chống oxy hóa bảo vệ màng lipid cực đầu và DNA ty thể khỏi tổn thương gốc tự do.](images/MW_NUT_06_hero.jpg) *(Source: [https://images.unsplash.com/photo-1509358271058-acd22cc93898?auto=format&fit=crop&w=1200&q=85](https://images.unsplash.com/photo-1509358271058-acd22cc93898?auto=format&fit=crop&w=1200&q=85))* 
+**Hero Image:** ![Dinh Dưỡng Nâng Cao Chất Lượng Tinh Trùng: Bảo Vệ DNA & Tăng Khả Năng Vận Động](images/MW_NUT_06_hero.jpg) *(Source: [https://images.unsplash.com/photo-1509358271058-acd22cc93898?auto=format&fit=crop&w=1200&q=85](https://images.unsplash.com/photo-1509358271058-acd22cc93898?auto=format&fit=crop&w=1200&q=85))* 
 **Inline Figure:** ![Sơ đồ giải phẫu hoàn chỉnh tinh trùng người: Các vi chất chống oxy hóa bảo vệ màng lipid cực đầu và DNA ty thể khỏi tổn thương gốc tự do.](images/MW_NUT_06_figure.png) *(Source: [https://commons.wikimedia.org/wiki/File:Complete_diagram_of_a_human_spermatozoa_en.svg](https://commons.wikimedia.org/wiki/File:Complete_diagram_of_a_human_spermatozoa_en.svg))* 
 **Clinical Source:** [Human Reproduction Update & World Health Organization (WHO Semen Manual 6th Ed)](https://pubmed.ncbi.nlm.nih.gov/28333357/) 
 

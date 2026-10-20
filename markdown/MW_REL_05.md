@@ -3,7 +3,7 @@
 **Screen:** Relationship Dynamics & Stress Recovery Screen 
 **Metric:** Autonomic Flooding (>100 bpm), Physiological Timeout & Repair Attempts 
 **Reading Time:** 8 phút đọc / 8 min 
-**Hero Image:** ![Hệ viền não bộ và hạch hạnh nhân (Blausen Medical): Phản ứng tràn ngập cảm xúc khi nhịp tim vượt 100 bpm khóa chặt vỏ não logic, cần tối thiểu 20 phút hạ hỏa thần kinh.](images/MW_REL_05_hero.jpg) *(Source: [https://images.unsplash.com/photo-1573496359142-b8d87734a5a2?auto=format&fit=crop&w=1200&q=85](https://images.unsplash.com/photo-1573496359142-b8d87734a5a2?auto=format&fit=crop&w=1200&q=85))* 
+**Hero Image:** ![Xung Đột Lành Mạnh: Chuyển Hóa Tranh Cãi Thành Sự Thấu Hiểu Bằng Kỹ Thuật Tự Hạ Hỏa Thần Kinh](images/MW_REL_05_hero.jpg) *(Source: [https://images.unsplash.com/photo-1471940393269-df205607fb2a?auto=format&fit=crop&w=1200&q=85](https://images.unsplash.com/photo-1471940393269-df205607fb2a?auto=format&fit=crop&w=1200&q=85))* 
 **Inline Figure:** ![Hệ viền não bộ và hạch hạnh nhân (Blausen Medical): Phản ứng tràn ngập cảm xúc khi nhịp tim vượt 100 bpm khóa chặt vỏ não logic, cần tối thiểu 20 phút hạ hỏa thần kinh.](images/MW_REL_05_figure.png) *(Source: [https://commons.wikimedia.org/wiki/File:Blausen_0614_LimbicSystem.png](https://commons.wikimedia.org/wiki/File:Blausen_0614_LimbicSystem.png))* 
 **Clinical Source:** [Journal of Marriage and Family (Gottman Institute) & Psychophysiology](https://pubmed.ncbi.nlm.nih.gov/6620126/) 
 

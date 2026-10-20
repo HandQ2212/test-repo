@@ -4,7 +4,7 @@
 **Metric:** Cervical Mucus 
 **Reading Time:** 8 phút đọc / 8 min 
 **Hero Image:** ![Dịch Nhầy Cổ Tử Cung 101: Chiếc Gương Phản Chiếu Estrogen Và Dự Báo Sớm Cửa Sổ Thụ Thai](images/LM_WH_02_hero.jpg) *(Source: [https://images.unsplash.com/photo-1522337360788-8b13dee7a37e?auto=format&fit=crop&w=1200&q=85](https://images.unsplash.com/photo-1522337360788-8b13dee7a37e?auto=format&fit=crop&w=1200&q=85))* 
-**Inline Figure:** ![Sơ đồ giải phẫu hệ sinh dục nữ minh họa ống âm đạo, kênh cổ tử cung (nơi các tuyến hốc nhạy cảm với hormone tiết ra dịch nhầy cổ tử cung), buồng tử cung, ống dẫn trứng và buồng trứng.](images/LM_WH_02_figure.png) *(Source: [https://commons.wikimedia.org/wiki/File:Female_reproductive_system.svg](https://commons.wikimedia.org/wiki/File:Female_reproductive_system.svg))* 
+**Inline Figure:** ![Sơ đồ giải phẫu hệ sinh sản nữ thể hiện ống âm đạo, cổ tử cung (nơi tiết dịch nhầy theo hormone), tử cung, vòi trứng và buồng trứng.](images/LM_WH_02_figure.png) *(Source: [https://commons.wikimedia.org/wiki/File:Scheme_female_reproductive_system-en.svg](https://commons.wikimedia.org/wiki/File:Scheme_female_reproductive_system-en.svg))* 
 **Clinical Source:** [Clue Reproductive Science & PubMed / Odeblad & Bigelow et al. (Human Reproduction, 2004)](https://pubmed.ncbi.nlm.nih.gov/14998971/) 
 
 ---
@@ -26,8 +26,8 @@ Nếu bạn muốn biết thời điểm rụng trứng đang đến gần **tr�
 Hoàn toàn không phải là chất tiết ngẫu nhiên, dịch nhầy cổ tử cung là một **hệ gel sinh học (Hydrogel)** tinh vi được điều khiển trực tiếp bởi hormone, tiết ra từ hàng trăm tuyến hốc siêu nhỏ nằm bên trong **kênh cổ tử cung** (cánh cổng hẹp nối giữa âm đạo và buồng tử cung).
 
 <figure class="article-inline-diagram">
- <img src="images/LM_WH_02_figure.png" alt="Sơ đồ giải phẫu hệ sinh dục nữ minh họa ống âm đạo, kênh cổ tử cung (nơi các tuyến hốc nhạy cảm với hormone tiết ra dịch nhầy cổ tử cung), buồng tử cung, ống dẫn trứng và buồng trứng." loading="lazy">
- <figcaption>📊 <strong>Sơ đồ giải phẫu hệ sinh dục nữ minh họa ống âm đạo, kênh cổ tử cung (nơi các tuyến hốc nhạy cảm với hormone tiết ra dịch nhầy cổ tử cung), buồng tử cung, ống dẫn trứng và buồng trứng.</strong> <a href="https://commons.wikimedia.org/wiki/File:Female_reproductive_system.svg" target="_blank" rel="noopener">Link sơ đồ y khoa gốc (Wikimedia Commons) ↗</a></figcaption>
+ <img src="images/LM_WH_02_figure.png" alt="Sơ đồ giải phẫu hệ sinh sản nữ thể hiện ống âm đạo, cổ tử cung (nơi tiết dịch nhầy theo hormone), tử cung, vòi trứng và buồng trứng." loading="lazy">
+ <figcaption>📊 <strong>Sơ đồ giải phẫu hệ sinh sản nữ thể hiện ống âm đạo, cổ tử cung (nơi tiết dịch nhầy theo hormone), tử cung, vòi trứng và buồng trứng.</strong> <a href="https://commons.wikimedia.org/wiki/File:Scheme_female_reproductive_system-en.svg" target="_blank" rel="noopener">Link sơ đồ y khoa gốc (Wikimedia Commons) ↗</a></figcaption>
 </figure>
 
 ---
@@ -114,8 +114,8 @@ If you want to know that ovulation is approaching **3 to 5 days in advance**—w
 Far from being random vaginal discharge, cervical fluid is a sophisticated, hormone-controlled **biological hydrogel** secreted by hundreds of microscopic crypts inside your **cervical canal** (the narrow gateway connecting the vagina to the uterus).
 
 <figure class="article-inline-diagram">
- <img src="images/LM_WH_02_figure.png" alt="Anatomical diagram of the human female reproductive system illustrating the vaginal canal, cervical canal (where hormone-sensitive crypt glands secrete cervical mucus), uterine cavity, fallopian tubes, and ovaries." loading="lazy">
- <figcaption>📊 <strong>Anatomical diagram of the human female reproductive system illustrating the vaginal canal, cervical canal (where hormone-sensitive crypt glands secrete cervical mucus), uterine cavity, fallopian tubes, and ovaries.</strong> <a href="https://commons.wikimedia.org/wiki/File:Female_reproductive_system.svg" target="_blank" rel="noopener">Original Image Source: Wikimedia Commons ↗</a></figcaption>
+ <img src="images/LM_WH_02_figure.png" alt="Schematic diagram of the human female reproductive system illustrating the vaginal canal, cervix, uterine cavity, fallopian tubes, and ovaries." loading="lazy">
+ <figcaption>📊 <strong>Schematic diagram of the human female reproductive system illustrating the vaginal canal, cervix, uterine cavity, fallopian tubes, and ovaries.</strong> <a href="https://commons.wikimedia.org/wiki/File:Scheme_female_reproductive_system-en.svg" target="_blank" rel="noopener">Original Image Source: Wikimedia Commons ↗</a></figcaption>
 </figure>
 
 ---

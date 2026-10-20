@@ -4,7 +4,7 @@
 **Metric:** Sleep Debt 
 **Reading Time:** 9 phút đọc / 9 min 
 **Hero Image:** ![Nợ Giấc Ngủ (Sleep Debt) & Lệch Múi Giờ Xã Hội: Tại Sao Ngủ Bù Cuối Tuần Không Thể Cứu Vãn Sức Khỏe?](images/DM_SL_02_hero.jpg) *(Source: [https://images.unsplash.com/photo-1506126613408-eca07ce68773?auto=format&fit=crop&w=1200&q=85](https://images.unsplash.com/photo-1506126613408-eca07ce68773?auto=format&fit=crop&w=1200&q=85))* 
-**Inline Figure:** ![Đồng hồ sinh học 24 giờ của con người (Circadian Rhythm) thể hiện các khung giờ sinh lý và nội tiết được lập trình chính xác—bao gồm thời điểm bắt đầu tiết melatonin buổi tối (21:00), giấc ngủ sâu nhất (02:00), thân nhiệt thấp nhất (04:30) và phản ứng đánh thức cortisol buổi sáng.](images/DM_SL_02_figure.png) *(Source: [https://commons.wikimedia.org/wiki/File:Biological_clock_human.svg](https://commons.wikimedia.org/wiki/File:Biological_clock_human.svg))* 
+**Inline Figure:** ![Cấu Trúc Phân Tử & Cơ Chế Tiết Melatonin: Hormone do tuyến tùng tiết ra dưới sự điều khiển của nhân trên chéo (SCN), đóng vai trò then chốt điều hòa nhịp thức ngủ tự nhiên.](images/DM_SL_02_figure.png) *(Source: [https://commons.wikimedia.org/wiki/File:Melatonin2.svg](https://commons.wikimedia.org/wiki/File:Melatonin2.svg))* 
 **Clinical Source:** [Sleep (Van Dongen et al., 2003) & The Lancet (Spiegel et al., 1999)](https://pubmed.ncbi.nlm.nih.gov/12683469/) 
 
 ---

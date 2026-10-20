@@ -3,7 +3,7 @@
 **Screen:** Men's Health Screen 
 **Metric:** Kegel Execution Form 
 **Reading Time:** 8 phút đọc / 8 min 
-**Hero Image:** ![Kỹ Thuật Tập Kegel Chuẩn Y Khoa: Tập Khi Mềm, Phối Hợp Hơi Thở Cơ Hoành và Cô Lập Cơ Đích](images/LM_MH_02_hero.jpg) *(Source: [https://images.unsplash.com/photo-1571019613454-1cb2f99b2d8b?auto=format&fit=crop&w=1200&q=85](https://images.unsplash.com/photo-1571019613454-1cb2f99b2d8b?auto=format&fit=crop&w=1200&q=85))* 
+**Hero Image:** ![Kỹ Thuật Tập Kegel Chuẩn Y Khoa: Tập Khi Mềm, Phối Hợp Hơi Thở Cơ Hoành và Cô Lập Cơ Đích](images/LM_MH_02_hero.jpg) *(Source: [https://images.unsplash.com/photo-1437935690510-49ce2c715aee?auto=format&fit=crop&w=1200&q=85](https://images.unsplash.com/photo-1437935690510-49ce2c715aee?auto=format&fit=crop&w=1200&q=85))* 
 **Inline Figure:** ![Cơ học hô hấp bằng cơ hoành lúc nghỉ ngơi và khi vận động, cho thấy sự di chuyển xuống dưới của cơ hoành khi hít vào và nâng lên khi thở ra phối hợp đồng bộ với áp lực ổ bụng và biên độ co giãn của sàn chậu.](images/LM_MH_02_figure.jpg) *(Source: [https://commons.wikimedia.org/wiki/File:Breathing_at_rest.jpg](https://commons.wikimedia.org/wiki/File:Breathing_at_rest.jpg))* 
 **Clinical Source:** [Physiotherapy (Dorey et al., 2004) & Neurourology and Urodynamics (Hodges et al., 2007)](https://pubmed.ncbi.nlm.nih.gov/17600370/) 
 

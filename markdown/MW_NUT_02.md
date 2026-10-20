@@ -3,7 +3,7 @@
 **Screen:** Nutrition & Cardiovascular Health Screen 
 **Metric:** Vascular Endothelial Function, Nitric Oxide Synthesis & RHR 
 **Reading Time:** 8 phút đọc / 8 min 
-**Hero Image:** ![Diễn tiến xơ vữa động mạch và rối loạn chức năng nội mô: Polyphenol Địa Trung Hải bảo vệ lớp lót nội mô, ngăn ngừa xơ cứng mạch máu hang sớm.](images/MW_NUT_02_hero.jpg) *(Source: [https://images.unsplash.com/photo-1543339308-43e59d6b73a6?auto=format&fit=crop&w=1200&q=85](https://images.unsplash.com/photo-1543339308-43e59d6b73a6?auto=format&fit=crop&w=1200&q=85))* 
+**Hero Image:** ![Chế Độ Ăn Địa Trung Hải: Tấm Lá Chắn Nội Mô Cho Chức Năng Cương & Tim Mạch Nam Giới](images/MW_NUT_02_hero.jpg) *(Source: [https://images.unsplash.com/photo-1543339308-43e59d6b73a6?auto=format&fit=crop&w=1200&q=85](https://images.unsplash.com/photo-1543339308-43e59d6b73a6?auto=format&fit=crop&w=1200&q=85))* 
 **Inline Figure:** ![Diễn tiến xơ vữa động mạch và rối loạn chức năng nội mô: Polyphenol Địa Trung Hải bảo vệ lớp lót nội mô, ngăn ngừa xơ cứng mạch máu hang sớm.](images/MW_NUT_02_figure.png) *(Source: [https://commons.wikimedia.org/wiki/File:Atherosclerosis_timeline_-_endothelial_dysfunction.svg](https://commons.wikimedia.org/wiki/File:Atherosclerosis_timeline_-_endothelial_dysfunction.svg))* 
 **Clinical Source:** [Journal of the American Medical Association (JAMA) & European Urology](https://pubmed.ncbi.nlm.nih.gov/15213207/) 
 

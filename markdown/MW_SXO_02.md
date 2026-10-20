@@ -3,7 +3,7 @@
 **Screen:** Erectile Function & Hemodynamics Screen 
 **Metric:** Pelvic Splanchnic Nerve Discharge, NO/cGMP Cascade & Venous Occlusion 
 **Reading Time:** 8 phút đọc / 8 min 
-**Hero Image:** ![Dòng thác phân tử giãn mạch qua cGMP: Nitric oxide kích hoạt enzyme guanylyl cyclase chuyển GTP thành cGMP gây giãn cơ trơn mạch máu thể hang để tạo cương cứng.](images/MW_SXO_02_hero.jpg) *(Source: [https://images.unsplash.com/photo-1517931524326-bdd55a541177?auto=format&fit=crop&w=1200&q=85](https://images.unsplash.com/photo-1517931524326-bdd55a541177?auto=format&fit=crop&w=1200&q=85))* 
+**Hero Image:** ![Sinh Lý Học Của Sự Hưng Phấn: Dòng Thác Thần Kinh - Mạch Máu Từ Não Bộ Đến Thể Hang](images/MW_SXO_02_hero.jpg) *(Source: [https://images.unsplash.com/photo-1517931524326-bdd55a541177?auto=format&fit=crop&w=1200&q=85](https://images.unsplash.com/photo-1517931524326-bdd55a541177?auto=format&fit=crop&w=1200&q=85))* 
 **Inline Figure:** ![Dòng thác phân tử giãn mạch qua cGMP: Nitric oxide kích hoạt enzyme guanylyl cyclase chuyển GTP thành cGMP gây giãn cơ trơn mạch máu thể hang để tạo cương cứng.](images/MW_SXO_02_figure.png) *(Source: [https://commons.wikimedia.org/wiki/File:Molecular_pathway_of_vasodilation_mediated_by_cGMP.jpg](https://commons.wikimedia.org/wiki/File:Molecular_pathway_of_vasodilation_mediated_by_cGMP.jpg))* 
 **Clinical Source:** [New England Journal of Medicine (NEJM) & Pharmacological Reviews](https://pubmed.ncbi.nlm.nih.gov/10853004/) 
 

@@ -3,8 +3,8 @@
 **Screen:** Men's Health Screen 
 **Metric:** Pelvic Floor Muscle (PFM) 
 **Reading Time:** 8 phút đọc / 8 min 
-**Hero Image:** ![Giải Phẫu Sàn Chậu Nam Giới: Động Cơ Cơ Học Quyết Định Độ Cương Cứng, Kiểm Soát Tiểu Tiện và Sự Ổn Định Vùng Lõi](images/LM_MH_01_hero.jpg) *(Source: [https://images.unsplash.com/photo-1534438327276-14e5300c3a48?auto=format&fit=crop&w=1200&q=85](https://images.unsplash.com/photo-1534438327276-14e5300c3a48?auto=format&fit=crop&w=1200&q=85))* 
-**Inline Figure:** ![Giải phẫu nhìn từ trên và dưới của hệ cơ sàn chậu (OpenStax Anatomy & Physiology), minh họa phức hợp cơ nâng hậu môn (cơ mu cụt, cơ mu trực tràng, cơ chậu cụt) và dải cơ đáy chậu nông nâng đỡ hệ mạch máu vùng chậu và chức năng kiểm soát tiểu tiện.](images/LM_MH_01_figure.jpg) *(Source: [https://commons.wikimedia.org/wiki/File:1115_Muscles_of_the_Pelvic_Floor.jpg](https://commons.wikimedia.org/wiki/File:1115_Muscles_of_the_Pelvic_Floor.jpg))* 
+**Hero Image:** ![Giải Phẫu Sàn Chậu Nam Giới: Động Cơ Cơ Học Quyết Định Độ Cương Cứng, Kiểm Soát Tiểu Tiện và Sự Ổn Định Vùng Lõi](images/LM_MH_01_hero.jpg) *(Source: [https://images.unsplash.com/photo-1480264104733-84fb0b925be3?auto=format&fit=crop&w=1200&q=85](https://images.unsplash.com/photo-1480264104733-84fb0b925be3?auto=format&fit=crop&w=1200&q=85))* 
+**Inline Figure:** ![Giải Phẫu Các Cơ Đáy Chậu Nam Giới (Gray's Anatomy 406): Mạng lưới nhóm cơ đáy chậu nông và sâu gồm cơ hành xốp (bulbospongiosus), cơ ngồi hang (ischiocavernosus) và cơ ngang đáy chậu nâng đỡ niệu đạo và thể hang.](images/LM_MH_01_figure.jpg) *(Source: [https://commons.wikimedia.org/wiki/File:Muscles_of_the_male_perineum-Gray406.png](https://commons.wikimedia.org/wiki/File:Muscles_of_the_male_perineum-Gray406.png))* 
 **Clinical Source:** [BJU International (Dorey et al., 2005) & Journal of Sexual Medicine (Lavoisier et al., 2014)](https://pubmed.ncbi.nlm.nih.gov/16011707/) 
 
 ---

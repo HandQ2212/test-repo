@@ -3,7 +3,7 @@
 **Screen:** Hormone & Endocrine Profile Screen 
 **Metric:** Circadian Diurnal Testosterone Curve, Free vs Total T & SHBG 
 **Reading Time:** 8 phút đọc / 8 min 
-**Hero Image:** ![Đồng hồ sinh học 24 giờ ở người: Nồng độ testosterone huyết thanh biến thiên theo nhịp sinh học ngày đêm, đạt nồng độ đỉnh vào 7:00 - 9:00 sáng.](images/MW_SXH_01_hero.jpg) *(Source: [https://images.unsplash.com/photo-1495344517868-8ebaf0a2044a?auto=format&fit=crop&w=1200&q=85](https://images.unsplash.com/photo-1495344517868-8ebaf0a2044a?auto=format&fit=crop&w=1200&q=85))* 
+**Hero Image:** ![Nồng Độ Testosterone Chuẩn Là Bao Nhiêu? Hiểu Về Dao Động Sinh Học 24 Giờ & Chỉ Số Free T](images/MW_SXH_01_hero.jpg) *(Source: [https://images.unsplash.com/photo-1495344517868-8ebaf0a2044a?auto=format&fit=crop&w=1200&q=85](https://images.unsplash.com/photo-1495344517868-8ebaf0a2044a?auto=format&fit=crop&w=1200&q=85))* 
 **Inline Figure:** ![Đồng hồ sinh học 24 giờ ở người: Nồng độ testosterone huyết thanh biến thiên theo nhịp sinh học ngày đêm, đạt nồng độ đỉnh vào 7:00 - 9:00 sáng.](images/MW_SXH_01_figure.png) *(Source: [https://commons.wikimedia.org/wiki/File:Biological_clock_human.svg](https://commons.wikimedia.org/wiki/File:Biological_clock_human.svg))* 
 **Clinical Source:** [Journal of Clinical Endocrinology & Metabolism (JCEM / Endocrine Society)](https://pubmed.ncbi.nlm.nih.gov/29562364/) 
 

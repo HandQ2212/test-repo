@@ -3,7 +3,7 @@
 **Screen:** Sexology & Psychosexual Assessment Screen 
 **Metric:** Dual Control Model (SIS/SES), Contextual Arousal & Libido Diversity 
 **Reading Time:** 8 phút đọc / 8 min 
-**Hero Image:** ![Mô hình hai cơ chế kiểm soát (Dual Control Model): Sự cân bằng tương hỗ giữa Hệ Kích thích tình dục (chân ga) và Hệ Ức chế tình dục (chân phanh).](images/MW_SXO_04_hero.jpg) *(Source: [https://images.unsplash.com/photo-1447752875215-b2761acb3c5d?auto=format&fit=crop&w=1200&q=85](https://images.unsplash.com/photo-1447752875215-b2761acb3c5d?auto=format&fit=crop&w=1200&q=85))* 
+**Hero Image:** ![Có Mức Ham Muốn Chuẩn Không? Mô Hình Hai Cơ Chế Kiểm Soát (Dual Control) & Tính Đa Dạng](images/MW_SXO_04_hero.jpg) *(Source: [https://images.unsplash.com/photo-1447752875215-b2761acb3c5d?auto=format&fit=crop&w=1200&q=85](https://images.unsplash.com/photo-1447752875215-b2761acb3c5d?auto=format&fit=crop&w=1200&q=85))* 
 **Inline Figure:** ![Mô hình hai cơ chế kiểm soát (Dual Control Model): Sự cân bằng tương hỗ giữa Hệ Kích thích tình dục (chân ga) và Hệ Ức chế tình dục (chân phanh).](images/MW_SXO_04_figure.png) *(Source: [https://commons.wikimedia.org/wiki/File:Dual_control_model_of_sexual_response.svg](https://commons.wikimedia.org/wiki/File:Dual_control_model_of_sexual_response.svg))* 
 **Clinical Source:** [Kinsey Institute & Journal of Sex Research](https://pubmed.ncbi.nlm.nih.gov/10704733/) 
 

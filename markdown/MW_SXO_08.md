@@ -3,7 +3,7 @@
 **Screen:** Aging Dynamics & Andropause Screen 
 **Metric:** Age-Related Androgen Decline (-1%/year), SHBG Elevation & Redefining Intimacy 
 **Reading Time:** 8 phút đọc / 8 min 
-**Hero Image:** ![Hệ sinh sản nam giới qua các giai đoạn cuộc đời (OpenStax): Sự suy giảm testosterone tự nhiên và biến đổi tuyến tiền liệt theo tuổi tác cần thích ứng lối sống khoa học.](images/MW_SXO_08_hero.jpg) *(Source: [https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?auto=format&fit=crop&w=1200&q=85](https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?auto=format&fit=crop&w=1200&q=85))* 
+**Hero Image:** ![Ham Muốn & Tuổi Tác: Thích Ứng Với Sự Giảm Testosterone Tự Nhiên & Nâng Tầm Chất Lượng](images/MW_SXO_08_hero.jpg) *(Source: [https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?auto=format&fit=crop&w=1200&q=85](https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?auto=format&fit=crop&w=1200&q=85))* 
 **Inline Figure:** ![Hệ sinh sản nam giới qua các giai đoạn cuộc đời (OpenStax): Sự suy giảm testosterone tự nhiên và biến đổi tuyến tiền liệt theo tuổi tác cần thích ứng lối sống khoa học.](images/MW_SXO_08_figure.png) *(Source: [https://commons.wikimedia.org/wiki/File:Figure_28_01_01.jpg](https://commons.wikimedia.org/wiki/File:Figure_28_01_01.jpg))* 
 **Clinical Source:** [New England Journal of Medicine (NEJM) & Massachusetts Male Aging Study (MMAS)](https://pubmed.ncbi.nlm.nih.gov/11836290/) 
 

@@ -3,7 +3,7 @@
 **Screen:** Sleep Architecture & Urological Screen 
 **Metric:** REM Sleep Episodes, Sympathetic Inhibition & Morning Erections (NPT) 
 **Reading Time:** 8 phút đọc / 8 min 
-**Hero Image:** ![Giải phẫu cắt ngang dương vật (OpenStax): Sự cương tụ máu giàu oxy tại hai thể hang trong các pha ngủ REM giúp duy trì độ đàn hồi và nuôi dưỡng vi mạch hang (hiện tượng NPT).](images/MW_SXH_05_hero.jpg) *(Source: [https://images.unsplash.com/photo-1507652313519-d4e9174996dd?auto=format&fit=crop&w=1200&q=85](https://images.unsplash.com/photo-1507652313519-d4e9174996dd?auto=format&fit=crop&w=1200&q=85))* 
+**Hero Image:** ![Hiện Tượng Cương Buổi Sáng (NPT): Dấu Ấn Sinh Học Của Chu Kỳ Giấc Ngủ REM & Sức Khỏe Mạch Máu](images/MW_SXH_05_hero.jpg) *(Source: [https://images.unsplash.com/photo-1507652313519-d4e9174996dd?auto=format&fit=crop&w=1200&q=85](https://images.unsplash.com/photo-1507652313519-d4e9174996dd?auto=format&fit=crop&w=1200&q=85))* 
 **Inline Figure:** ![Giải phẫu cắt ngang dương vật (OpenStax): Sự cương tụ máu giàu oxy tại hai thể hang trong các pha ngủ REM giúp duy trì độ đàn hồi và nuôi dưỡng vi mạch hang (hiện tượng NPT).](images/MW_SXH_05_figure.png) *(Source: [https://commons.wikimedia.org/wiki/File:Figure_28_01_06.jpg](https://commons.wikimedia.org/wiki/File:Figure_28_01_06.jpg))* 
 **Clinical Source:** [Sleep Medicine Reviews & The Journal of Urology](https://pubmed.ncbi.nlm.nih.gov/12495694/) 
 

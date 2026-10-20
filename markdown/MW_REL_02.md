@@ -3,8 +3,8 @@
 **Screen:** Communication & Sexual Wellness Screen 
 **Metric:** Vulnerability, Psychological Safety & Sexual Attunement 
 **Reading Time:** 8 phút đọc / 8 min 
-**Hero Image:** ![Không gian an toàn và cởi mở giúp cặp đôi chia sẻ mong muốn phòng the](images/MW_REL_02_hero.jpg) *(Source: [https://images.unsplash.com/photo-1488117382278-329ccc22eecb?auto=format&fit=crop&w=1200&q=85](https://images.unsplash.com/photo-1488117382278-329ccc22eecb?auto=format&fit=crop&w=1200&q=85))* 
-**Inline Figure:** ![Mạng Lưới Thần Kinh Thấu Cảm & Xử Lý Xã Hội (Social Processing)](images/MW_REL_02_figure.png) *(Source: [https://commons.wikimedia.org/wiki/File:Brain_areas_that_participate_in_social_processing.jpg](https://commons.wikimedia.org/wiki/File:Brain_areas_that_participate_in_social_processing.jpg))* 
+**Hero Image:** ![Cách Mở Lời Về Chuyện Tình Dục: Xây Dựng Không Gian An Toàn Cho Mong Muốn & Ranh Giới](images/MW_REL_02_hero.jpg) *(Source: [https://images.unsplash.com/photo-1488117382278-329ccc22eecb?auto=format&fit=crop&w=1200&q=85](https://images.unsplash.com/photo-1488117382278-329ccc22eecb?auto=format&fit=crop&w=1200&q=85))* 
+**Inline Figure:** ![Mạng Lưới Thần Kinh Thấu Cảm & Xử Lý Xã Hội (Social Processing): Các vùng não bộ giải mã cảm xúc (thùy đảo trước, hạch hạnh nhân, vỏ não đai trước) và thấu cảm nhận thức (mPFC, TPJ), tạo nền tảng an toàn sinh học khi trò chuyện phòng the.](images/MW_REL_02_figure.png) *(Source: [https://commons.wikimedia.org/wiki/File:Brain_areas_that_participate_in_social_processing.jpg](https://commons.wikimedia.org/wiki/File:Brain_areas_that_participate_in_social_processing.jpg))* 
 **Clinical Source:** [Journal of Sex Research & Annual Review of Sex Research](https://pmc.ncbi.nlm.nih.gov/articles/PMC6699928/) 
 
 ---

@@ -3,7 +3,7 @@
 **Screen:** Micronutrients & Endocrine Health Screen 
 **Metric:** Leydig Cell Steroidogenesis, VDR Nuclear Receptors & Zinc Homeostasis 
 **Reading Time:** 8 phút đọc / 8 min 
-**Hero Image:** ![Mô hình không gian ngón tay kẽm (Zinc Finger): Ion kẽm điều phối cấu trúc không gian giúp thụ thể androgen liên kết DNA và khởi động phiên mã gen.](images/MW_NUT_05_hero.jpg) *(Source: [https://images.unsplash.com/photo-1507525428034-b723cf961d3e?auto=format&fit=crop&w=1200&q=85](https://images.unsplash.com/photo-1507525428034-b723cf961d3e?auto=format&fit=crop&w=1200&q=85))* 
+**Hero Image:** ![Kẽm & Vitamin D: Vi Chất Tối Cần Thiết Cho Tế Bào Leydig & Thụ Thể Androgen](images/MW_NUT_05_hero.jpg) *(Source: [https://images.unsplash.com/photo-1507525428034-b723cf961d3e?auto=format&fit=crop&w=1200&q=85](https://images.unsplash.com/photo-1507525428034-b723cf961d3e?auto=format&fit=crop&w=1200&q=85))* 
 **Inline Figure:** ![Mô hình không gian ngón tay kẽm (Zinc Finger): Ion kẽm điều phối cấu trúc không gian giúp thụ thể androgen liên kết DNA và khởi động phiên mã gen.](images/MW_NUT_05_figure.png) *(Source: [https://commons.wikimedia.org/wiki/File:Zinc_finger_rendered.png](https://commons.wikimedia.org/wiki/File:Zinc_finger_rendered.png))* 
 **Clinical Source:** [Nutrition & Hormone and Metabolic Research](https://pubmed.ncbi.nlm.nih.gov/8875519/) 
 

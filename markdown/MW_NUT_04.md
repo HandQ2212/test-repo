@@ -3,7 +3,7 @@
 **Screen:** Sleep & Recovery Analytics Screen 
 **Metric:** Overnight RHR, Sleep Architecture (REM Suppression) & Recovery Score 
 **Reading Time:** 8 phút đọc / 8 min 
-**Hero Image:** ![Con đường chuyển hóa Ethanol qua gan: Quá trình phân giải rượu sinh ra các gốc oxy hóa gây ức chế cấp tính tế bào Leydig sản xuất testosterone.](images/MW_NUT_04_hero.jpg) *(Source: [https://images.unsplash.com/photo-1551024709-8f23befc6f87?auto=format&fit=crop&w=1200&q=85](https://images.unsplash.com/photo-1551024709-8f23befc6f87?auto=format&fit=crop&w=1200&q=85))* 
+**Hero Image:** ![Rượu Bia Tàn Phá Phục Hồi Thế Nào? Cơ Chế Ức Chế Hormone T & Đứt Gãy Giấc Ngủ REM](images/MW_NUT_04_hero.jpg) *(Source: [https://images.unsplash.com/photo-1551024709-8f23befc6f87?auto=format&fit=crop&w=1200&q=85](https://images.unsplash.com/photo-1551024709-8f23befc6f87?auto=format&fit=crop&w=1200&q=85))* 
 **Inline Figure:** ![Con đường chuyển hóa Ethanol qua gan: Quá trình phân giải rượu sinh ra các gốc oxy hóa gây ức chế cấp tính tế bào Leydig sản xuất testosterone.](images/MW_NUT_04_figure.png) *(Source: [https://commons.wikimedia.org/wiki/File:Ethanol_metabolism.png](https://commons.wikimedia.org/wiki/File:Ethanol_metabolism.png))* 
 **Clinical Source:** [Alcoholism: Clinical and Experimental Research & Sports Medicine](https://pubmed.ncbi.nlm.nih.gov/24533518/) 
 

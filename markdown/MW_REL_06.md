@@ -3,7 +3,7 @@
 **Screen:** Sexual Desire Dynamics & Intimacy Screen 
 **Metric:** Spontaneous vs Responsive Desire, Basson Model & Erotic Context 
 **Reading Time:** 8 phút đọc / 8 min 
-**Hero Image:** ![Chu kỳ phản ứng tình dục ở người: Nhận biết sự khác biệt giữa ham muốn tự phát (spontaneous) và ham muốn đáp ứng (responsive) giúp hòa hợp lệch pha ham muốn lứa đôi.](images/MW_REL_06_hero.jpg) *(Source: [https://images.unsplash.com/photo-1529333166437-7750a6dd5a70?auto=format&fit=crop&w=1200&q=85](https://images.unsplash.com/photo-1529333166437-7750a6dd5a70?auto=format&fit=crop&w=1200&q=85))* 
+**Hero Image:** ![Hóa Giải Sự Lệch Pha Ham Muốn: Hiểu Về Ham Muốn Tự Phát (Spontaneous) So Với Đáp Ứng (Responsive)](images/MW_REL_06_hero.jpg) *(Source: [https://images.unsplash.com/photo-1483125005565-2a4d9e844c46?auto=format&fit=crop&w=1200&q=85](https://images.unsplash.com/photo-1483125005565-2a4d9e844c46?auto=format&fit=crop&w=1200&q=85))* 
 **Inline Figure:** ![Chu kỳ phản ứng tình dục ở người: Nhận biết sự khác biệt giữa ham muốn tự phát (spontaneous) và ham muốn đáp ứng (responsive) giúp hòa hợp lệch pha ham muốn lứa đôi.](images/MW_REL_06_figure.png) *(Source: [https://commons.wikimedia.org/wiki/File:Sexual-response-cycle.svg](https://commons.wikimedia.org/wiki/File:Sexual-response-cycle.svg))* 
 **Clinical Source:** [The Lancet & Journal of Sex & Marital Therapy](https://pubmed.ncbi.nlm.nih.gov/11454441/) 
 

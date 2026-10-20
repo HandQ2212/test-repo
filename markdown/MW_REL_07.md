@@ -3,7 +3,7 @@
 **Screen:** Relational Attachment & Neurobiology Screen 
 **Metric:** Adult Attachment Stability, Neurobiological Safety & Micro-Attunements 
 **Reading Time:** 8 phút đọc / 8 min 
-**Hero Image:** ![Lưới 4 phong cách gắn bó người trưởng thành: Sự đồng điệu và đáng tin cậy trong các tương tác nhỏ hàng ngày giúp củng cố phong cách gắn bó an toàn dài hạn.](images/MW_REL_07_hero.jpg) *(Source: [https://images.unsplash.com/photo-1518199266791-5375a83190b7?auto=format&fit=crop&w=1200&q=85](https://images.unsplash.com/photo-1518199266791-5375a83190b7?auto=format&fit=crop&w=1200&q=85))* 
+**Hero Image:** ![Khoa Học Về Lòng Tin: Tính Nhất Quán Nhỏ Hàng Ngày Tạo Nên Sự Vững Chãi Tâm Lý Dài Hạn](images/MW_REL_07_hero.jpg) *(Source: [https://images.unsplash.com/photo-1518199266791-5375a83190b7?auto=format&fit=crop&w=1200&q=85](https://images.unsplash.com/photo-1518199266791-5375a83190b7?auto=format&fit=crop&w=1200&q=85))* 
 **Inline Figure:** ![Lưới 4 phong cách gắn bó người trưởng thành: Sự đồng điệu và đáng tin cậy trong các tương tác nhỏ hàng ngày giúp củng cố phong cách gắn bó an toàn dài hạn.](images/MW_REL_07_figure.png) *(Source: [https://commons.wikimedia.org/wiki/File:Adult_attachment_patterns.svg](https://commons.wikimedia.org/wiki/File:Adult_attachment_patterns.svg))* 
 **Clinical Source:** [Current Directions in Psychological Science & Journal of Personality and Social Psychology](https://pubmed.ncbi.nlm.nih.gov/18652807/) 
 

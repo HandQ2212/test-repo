@@ -3,7 +3,7 @@
 **Screen:** Cardiovascular Health & Recovery Screen 
 **Metric:** Endothelial Health, Arterial Compliance & Resting Heart Rate 
 **Reading Time:** 8 phút đọc / 8 min 
-**Hero Image:** ![Quá trình hẹp lòng động mạch do mảng vữa xơ: Do động mạch hang có đường kính chỉ 1–2 mm, rối loạn cương dương thường là dấu hiệu cảnh báo sớm trước biến cố mạch vành 3–5 năm.](images/MW_SXH_02_hero.jpg) *(Source: [https://images.unsplash.com/photo-1584515979956-d9f6e5d09982?auto=format&fit=crop&w=1200&q=85](https://images.unsplash.com/photo-1584515979956-d9f6e5d09982?auto=format&fit=crop&w=1200&q=85))* 
+**Hero Image:** ![Rối Loạn Cương Dương (ED): Tín Hiệu Báo Động Sớm Của Hệ Tuần Hoàn & Sức Khỏe Chuyển Hóa](images/MW_SXH_02_hero.jpg) *(Source: [https://images.unsplash.com/photo-1482029255085-35a4a48b7084?auto=format&fit=crop&w=1200&q=85](https://images.unsplash.com/photo-1482029255085-35a4a48b7084?auto=format&fit=crop&w=1200&q=85))* 
 **Inline Figure:** ![Quá trình hẹp lòng động mạch do mảng vữa xơ: Do động mạch hang có đường kính chỉ 1–2 mm, rối loạn cương dương thường là dấu hiệu cảnh báo sớm trước biến cố mạch vành 3–5 năm.](images/MW_SXH_02_figure.png) *(Source: [https://commons.wikimedia.org/wiki/File:Carotid_artery_stenosis_by_hariadhi.svg](https://commons.wikimedia.org/wiki/File:Carotid_artery_stenosis_by_hariadhi.svg))* 
 **Clinical Source:** [European Urology & American Heart Association (Circulation)](https://pubmed.ncbi.nlm.nih.gov/16530932/) 
 

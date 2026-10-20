@@ -3,7 +3,7 @@
 **Screen:** Sleep Screen 
 **Metric:** Sleep Score (0–100) 
 **Reading Time:** 8 phút đọc / 8 min 
-**Hero Image:** ![Giải Mã Điểm Giấc Ngủ (Sleep Score): Thiết Bị Đeo Đo Lường Phục Hồi Ban Đêm Như Thế Nào?](images/LM_SL_01_hero.jpg) *(Source: [https://images.unsplash.com/photo-1541781774459-bb2af2f05b55?auto=format&fit=crop&w=1200&q=85](https://images.unsplash.com/photo-1541781774459-bb2af2f05b55?auto=format&fit=crop&w=1200&q=85))* 
+**Hero Image:** ![Giải Mã Điểm Giấc Ngủ (Sleep Score): Thiết Bị Đeo Đo Lường Phục Hồi Ban Đêm Như Thế Nào?](images/LM_SL_01_hero.jpg) *(Source: [https://images.unsplash.com/photo-1447154705288-7175737fb73c?auto=format&fit=crop&w=1200&q=85](https://images.unsplash.com/photo-1447154705288-7175737fb73c?auto=format&fit=crop&w=1200&q=85))* 
 **Inline Figure:** ![Mô hình đo đa ký giấc ngủ (Polysomnography - PSG) lâm sàng ghi nhận sóng não (EEG), chuyển động mắt (EOG), điện tâm đồ (ECG), luồng thở và SpO2—nền tảng chuẩn vàng mà các thiết bị đeo hiện đại mô phỏng thông qua cảm biến quang học PPG, gia tốc kế 3 trục và nhiệt độ da.](images/LM_SL_01_figure.jpg) *(Source: [https://commons.wikimedia.org/wiki/File:Polysomnography_model.jpg](https://commons.wikimedia.org/wiki/File:Polysomnography_model.jpg))* 
 **Clinical Source:** [Oura Ring & Garmin Health Science / Sleep Journal (Beattie et al., 2017)](https://pubmed.ncbi.nlm.nih.gov/28960186/) 
 

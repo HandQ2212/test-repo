@@ -3,7 +3,7 @@
 **Screen:** Fertility Blueprint & Environmental Health Screen 
 **Metric:** Scrotal Thermoregulation, Endocrine Disruptors (EDCs) & Oxidative Stress 
 **Reading Time:** 8 phút đọc / 8 min 
-**Hero Image:** ![Giải phẫu tinh hoàn và ống sinh tinh (OpenStax): Hệ cơ bìu và đám rối tĩnh mạch hình dây leo điều hòa nhiệt độ tinh hoàn luôn thấp hơn thân nhiệt 2°C–4°C để nuôi dưỡng tinh trùng.](images/MW_SXH_07_hero.jpg) *(Source: [https://images.unsplash.com/photo-1574680096145-d05b474e2155?auto=format&fit=crop&w=1200&q=85](https://images.unsplash.com/photo-1574680096145-d05b474e2155?auto=format&fit=crop&w=1200&q=85))* 
+**Hero Image:** ![Bản Đồ Sinh Sản Nam Giới: Nhiệt Độ Bìu, Ô Nhiễm Môi Trường, Vi Chất & Chu Kỳ Sinh Tinh](images/MW_SXH_07_hero.jpg) *(Source: [https://images.unsplash.com/photo-1415509038608-afca35072cff?auto=format&fit=crop&w=1200&q=85](https://images.unsplash.com/photo-1415509038608-afca35072cff?auto=format&fit=crop&w=1200&q=85))* 
 **Inline Figure:** ![Giải phẫu tinh hoàn và ống sinh tinh (OpenStax): Hệ cơ bìu và đám rối tĩnh mạch hình dây leo điều hòa nhiệt độ tinh hoàn luôn thấp hơn thân nhiệt 2°C–4°C để nuôi dưỡng tinh trùng.](images/MW_SXH_07_figure.png) *(Source: [https://commons.wikimedia.org/wiki/File:Figure_28_01_03.jpg](https://commons.wikimedia.org/wiki/File:Figure_28_01_03.jpg))* 
 **Clinical Source:** [Philosophical Transactions of the Royal Society B & Human Reproduction Update](https://pubmed.ncbi.nlm.nih.gov/20308044/) 
 

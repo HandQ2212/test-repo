@@ -4,7 +4,7 @@
 **Metric:** Zone 2 Cardio 
 **Reading Time:** 9 phút đọc / 9 min 
 **Hero Image:** ![Cẩm Nang Tập Luyện Cardio Zone 2: Xây Dựng Mật Độ Ti Thể Và Sự Linh Hoạt Chuyển Hóa Ở Nhịp Độ Trò Chuyện](images/DM_AC_01_hero.jpg) *(Source: [https://images.unsplash.com/photo-1461896836934-ffe607ba8211?auto=format&fit=crop&w=1200&q=85](https://images.unsplash.com/photo-1461896836934-ffe607ba8211?auto=format&fit=crop&w=1200&q=85))* 
-**Inline Figure:** ![Sơ đồ các con đường hô hấp tế bào bên trong ti thể—minh họa cách đường phân hiếu khí, quá trình beta-oxy hóa axit béo, Chu trình Krebs và Chuỗi chuyền điện tử tổng hợp năng lượng ATP trong suốt bài tập sức bền Zone 2.](images/DM_AC_01_figure.png) *(Source: [https://commons.wikimedia.org/wiki/File:Cellular_respiration_EN.svg](https://commons.wikimedia.org/wiki/File:Cellular_respiration_EN.svg))* 
+**Inline Figure:** ![Sơ đồ con đường hô hấp tế bào: Đường phân, chu trình Krebs và chuỗi chuyền electron ty thể cung cấp ATP tối đa trong vùng tập hiếu khí Zone 2.](images/DM_AC_01_figure.png) *(Source: [https://commons.wikimedia.org/wiki/File:Cellular_Respiration_Simple.png](https://commons.wikimedia.org/wiki/File:Cellular_Respiration_Simple.png))* 
 **Clinical Source:** [Sports Medicine (San-Millán & Brooks, 2018) & Seiler (IJSPP, 2010)](https://pubmed.ncbi.nlm.nih.gov/28623613/) 
 
 ---
@@ -24,8 +24,8 @@ Trong văn hóa thể hình đại chúng, một "buổi tập chất lượng" 
 Các vận động viên đua thuyền, đạp xe, trượt tuyết băng đồng và chạy Marathon đỉnh cao đều tuân thủ **Mô hình Tập luyện Phân cực 80/20**: họ dành khoảng **80% tổng thời lượng tập luyện hàng tuần ở vùng Zone 2**—một nhịp độ hiếu khí nhẹ nhàng, hoàn toàn có thể trò chuyện thoải mái—và chỉ dành **20% ở các vùng cường độ cao Zone 4 và Zone 5**. Quan trọng hơn cả, các nghiên cứu chuyển hóa lâm sàng chỉ ra rằng **Zone 2 chính là kích thích vận động mạnh mẽ nhất giúp trẻ hóa ti thể, tăng độ nhạy insulin và tối ưu hóa khả năng đốt mỡ ở người trưởng thành**.
 
 <figure class="article-inline-diagram">
- <img src="images/DM_AC_01_figure.png" alt="Sơ đồ các con đường hô hấp tế bào bên trong ti thể—minh họa cách đường phân hiếu khí, quá trình beta-oxy hóa axit béo, Chu trình Krebs và Chuỗi chuyền điện tử tổng hợp năng lượng ATP trong suốt bài tập sức bền Zone 2." loading="lazy">
- <figcaption>📊 <strong>Sơ đồ các con đường hô hấp tế bào bên trong ti thể—minh họa cách đường phân hiếu khí, quá trình beta-oxy hóa axit béo, Chu trình Krebs và Chuỗi chuyền điện tử tổng hợp năng lượng ATP trong suốt bài tập sức bền Zone 2.</strong> <a href="https://commons.wikimedia.org/wiki/File:Cellular_respiration_EN.svg" target="_blank" rel="noopener">Link sơ đồ y khoa gốc (Wikimedia Commons) ↗</a></figcaption>
+ <img src="images/DM_AC_01_figure.png" alt="Sơ đồ con đường hô hấp tế bào: Đường phân, chu trình Krebs và chuỗi chuyền electron ty thể cung cấp ATP tối đa trong vùng tập hiếu khí Zone 2." loading="lazy">
+ <figcaption>📊 <strong>Sơ đồ con đường hô hấp tế bào: Đường phân, chu trình Krebs và chuỗi chuyền electron ty thể cung cấp ATP tối đa trong vùng tập hiếu khí Zone 2.</strong> <a href="https://commons.wikimedia.org/wiki/File:Cellular_Respiration_Simple.png" target="_blank" rel="noopener">Link sơ đồ y khoa gốc (Wikimedia Commons) ↗</a></figcaption>
 </figure>
 
 ---
@@ -102,8 +102,8 @@ In commercial fitness culture, a "good workout" is often judged by how exhausted
 Elite rowers, cyclists, cross-country skiers, and marathoners follow an **80/20 Polarized Training Model**: they spend roughly **80% of their weekly training volume in Zone 2**—a remarkably comfortable, conversational aerobic pace—and only **20% in high-intensity Zones 4 and 5**. Even more importantly, clinical metabolic research reveals that **Zone 2 is the single most potent exercise stimulus for mitochondrial longevity, insulin sensitivity, and fat oxidation in everyday adults**.
 
 <figure class="article-inline-diagram">
- <img src="images/DM_AC_01_figure.png" alt="Cellular respiration pathways inside the mitochondrion—showing how aerobic glycolysis, fatty acid beta-oxidation, the Krebs (Citric Acid) Cycle, and the Electron Transport Chain synthesize ATP during Zone 2 endurance exercise." loading="lazy">
- <figcaption>📊 <strong>Cellular respiration pathways inside the mitochondrion—showing how aerobic glycolysis, fatty acid beta-oxidation, the Krebs (Citric Acid) Cycle, and the Electron Transport Chain synthesize ATP during Zone 2 endurance exercise.</strong> <a href="https://commons.wikimedia.org/wiki/File:Cellular_respiration_EN.svg" target="_blank" rel="noopener">Original Image Source: Wikimedia Commons ↗</a></figcaption>
+ <img src="images/DM_AC_01_figure.png" alt="Cellular respiration simplified pathway: Glycolysis, Krebs cycle, and oxidative phosphorylation inside mitochondria fueling Zone 2 aerobic performance." loading="lazy">
+ <figcaption>📊 <strong>Cellular respiration simplified pathway: Glycolysis, Krebs cycle, and oxidative phosphorylation inside mitochondria fueling Zone 2 aerobic performance.</strong> <a href="https://commons.wikimedia.org/wiki/File:Cellular_Respiration_Simple.png" target="_blank" rel="noopener">Original Image Source: Wikimedia Commons ↗</a></figcaption>
 </figure>
 
 ---

@@ -3,7 +3,7 @@
 **Screen:** Metabolic Health & Endocrine Fasting Screen 
 **Metric:** Insulin Sensitivity, Growth Hormone Pulsatility & LH/Testosterone 
 **Reading Time:** 8 phút đọc / 8 min 
-**Hero Image:** ![Dòng thác tín hiệu Insulin và điều hòa glucose: Nhịn ăn gián đoạn hợp lý tối ưu hóa độ nhạy insulin mà vẫn bảo tồn năng lượng cho trục nội tiết nam.](images/MW_NUT_07_hero.jpg) *(Source: [https://images.unsplash.com/photo-1498837167922-ddd27525d352?auto=format&fit=crop&w=1200&q=85](https://images.unsplash.com/photo-1498837167922-ddd27525d352?auto=format&fit=crop&w=1200&q=85))* 
+**Hero Image:** ![Nhịn Ăn Gián Đoạn (IF) & Nội Tiết Tố Nam: Lợi Ích Nhạy Insulin So Với Rủi Ro Tụt Testosterone](images/MW_NUT_07_hero.jpg) *(Source: [https://images.unsplash.com/photo-1498837167922-ddd27525d352?auto=format&fit=crop&w=1200&q=85](https://images.unsplash.com/photo-1498837167922-ddd27525d352?auto=format&fit=crop&w=1200&q=85))* 
 **Inline Figure:** ![Dòng thác tín hiệu Insulin và điều hòa glucose: Nhịn ăn gián đoạn hợp lý tối ưu hóa độ nhạy insulin mà vẫn bảo tồn năng lượng cho trục nội tiết nam.](images/MW_NUT_07_figure.png) *(Source: [https://commons.wikimedia.org/wiki/File:Insulin_glucose_metabolism_ZP.svg](https://commons.wikimedia.org/wiki/File:Insulin_glucose_metabolism_ZP.svg))* 
 **Clinical Source:** [Journal of Translational Medicine & The Journal of Clinical Endocrinology & Metabolism](https://pubmed.ncbi.nlm.nih.gov/27737674/) 
 

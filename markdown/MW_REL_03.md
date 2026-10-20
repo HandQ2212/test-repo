@@ -3,7 +3,7 @@
 **Screen:** Emotional Health & Hormonal Bonding Screen 
 **Metric:** Oxytocin Signaling, Ventral Striatum Activation & Vagal Attunement 
 **Reading Time:** 8 phút đọc / 8 min 
-**Hero Image:** ![Cấu trúc hóa học phân tử Oxytocin: Peptide 9 axit amin được tổng hợp tại vùng dưới đồi, đóng vai trò nền tảng tạo sự gắn kết tình cảm, niềm tin và sự thư giãn lứa đôi.](images/MW_REL_03_hero.jpg) *(Source: [https://images.unsplash.com/photo-1494774157365-9e04c6720e47?auto=format&fit=crop&w=1200&q=85](https://images.unsplash.com/photo-1494774157365-9e04c6720e47?auto=format&fit=crop&w=1200&q=85))* 
+**Hero Image:** ![Sự Thân Mật Cảm Xúc: Nền Móng Oxytocin Vượt Ra Ngoài Sự Cuốn Hút Thể Xác Thuần Túy](images/MW_REL_03_hero.jpg) *(Source: [https://images.unsplash.com/photo-1494774157365-9e04c6720e47?auto=format&fit=crop&w=1200&q=85](https://images.unsplash.com/photo-1494774157365-9e04c6720e47?auto=format&fit=crop&w=1200&q=85))* 
 **Inline Figure:** ![Cấu trúc hóa học phân tử Oxytocin: Peptide 9 axit amin được tổng hợp tại vùng dưới đồi, đóng vai trò nền tảng tạo sự gắn kết tình cảm, niềm tin và sự thư giãn lứa đôi.](images/MW_REL_03_figure.png) *(Source: [https://commons.wikimedia.org/wiki/File:Oxytocin_color.svg](https://commons.wikimedia.org/wiki/File:Oxytocin_color.svg))* 
 **Clinical Source:** [Psychoneuroendocrinology & Nature Reviews Neuroscience](https://pubmed.ncbi.nlm.nih.gov/18652807/) 
 

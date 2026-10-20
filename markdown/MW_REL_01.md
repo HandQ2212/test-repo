@@ -3,8 +3,8 @@
 **Screen:** Relationship & Stress Screen 
 **Metric:** Autonomic Safety, Polyvagal Tone & Gottman 5:1 Ratio 
 **Reading Time:** 8 phút đọc / 8 min 
-**Hero Image:** ![Hệ thần kinh tự chủ ở người: Giao tiếp tôn trọng và giọng điệu êm dịu kích hoạt nhánh phó giao cảm dây thần kinh X, mang lại trạng thái an toàn sinh học giữa hai người.](images/MW_REL_01_hero.jpg) *(Source: [https://images.unsplash.com/photo-1522071820081-009f0129c71c?auto=format&fit=crop&w=1200&q=85](https://images.unsplash.com/photo-1522071820081-009f0129c71c?auto=format&fit=crop&w=1200&q=85))* 
-**Inline Figure:** ![Hệ thần kinh tự chủ ở người: Giao tiếp tôn trọng và giọng điệu êm dịu kích hoạt nhánh phó giao cảm dây thần kinh X, mang lại trạng thái an toàn sinh học giữa hai người.](images/MW_REL_01_figure.png) *(Source: [https://commons.wikimedia.org/wiki/File:The_Autonomic_Nervous_System.png](https://commons.wikimedia.org/wiki/File:The_Autonomic_Nervous_System.png))* 
+**Hero Image:** ![Nghệ Thuật Giao Tiếp Cặp Đôi: Giải Mã Tỷ Lệ Vàng 5:1 & Cơ Chế An Toàn Sinh Học Thần Kinh](images/MW_REL_01_hero.jpg) *(Source: [https://images.unsplash.com/photo-1444839368740-f0d3572f8067?auto=format&fit=crop&w=1200&q=85](https://images.unsplash.com/photo-1444839368740-f0d3572f8067?auto=format&fit=crop&w=1200&q=85))* 
+**Inline Figure:** ![Mạng lưới Thần kinh Phó Giao cảm (OpenStax Hình 15.3): Dây thần kinh phế vị (CN X) và các nhánh phó giao cảm giúp hạ nhịp tim, xoa dịu cảm xúc và tái lập kết nối gắn kết theo tỷ lệ 5:1 Gottman.](images/MW_REL_01_figure.png) *(Source: [https://commons.wikimedia.org/wiki/File:1503_Connections_of_the_Parasympathetic_Nervous_System.jpg](https://commons.wikimedia.org/wiki/File:1503_Connections_of_the_Parasympathetic_Nervous_System.jpg))* 
 **Clinical Source:** [Journal of Marriage and Family (Gottman Institute) & Frontiers in Psychology](https://pmc.ncbi.nlm.nih.gov/articles/PMC9153093/) 
 
 ---
@@ -25,8 +25,8 @@ Tại Viện Nghiên cứu Gottman (Seattle), các nhà tâm lý học đã gắ
 - Ngược lại, ở những cặp đôi **tiến dần đến bờ vực tan vỡ**: Tỷ lệ này tụt xuống mức **0.8 : 1**—nghĩa là số lượng lời chỉ trích, miệt thị nhiều hơn cả những cử chỉ yêu thương.
 
 <figure class="article-inline-diagram">
- <img src="images/MW_REL_01_figure.png" alt="Hệ thần kinh tự chủ ở người: Giao tiếp tôn trọng và giọng điệu êm dịu kích hoạt nhánh phó giao cảm dây thần kinh X, mang lại trạng thái an toàn sinh học giữa hai người." loading="lazy">
- <figcaption>📊 <strong>Hệ thần kinh tự chủ ở người: Giao tiếp tôn trọng và giọng điệu êm dịu kích hoạt nhánh phó giao cảm dây thần kinh X, mang lại trạng thái an toàn sinh học giữa hai người.</strong> <a href="https://commons.wikimedia.org/wiki/File:The_Autonomic_Nervous_System.png" target="_blank" rel="noopener">Link sơ đồ y khoa gốc (Wikimedia Commons) ↗</a></figcaption>
+ <img src="images/MW_REL_01_figure.png" alt="Mạng lưới Thần kinh Phó Giao cảm (OpenStax Hình 15.3): Dây thần kinh phế vị (CN X) và các nhánh phó giao cảm giúp hạ nhịp tim, xoa dịu cảm xúc và tái lập kết nối gắn kết theo tỷ lệ 5:1 Gottman." loading="lazy">
+ <figcaption>📊 <strong>Mạng lưới Thần kinh Phó Giao cảm (OpenStax Hình 15.3): Dây thần kinh phế vị (CN X) và các nhánh phó giao cảm giúp hạ nhịp tim, xoa dịu cảm xúc và tái lập kết nối gắn kết theo tỷ lệ 5:1 Gottman.</strong> <a href="https://commons.wikimedia.org/wiki/File:1503_Connections_of_the_Parasympathetic_Nervous_System.jpg" target="_blank" rel="noopener">Link sơ đồ y khoa gốc (Wikimedia Commons) ↗</a></figcaption>
 </figure>
 
 ---
@@ -86,8 +86,8 @@ At the Gottman Institute in Seattle, psychologists wired couples to heart monito
 - In **couples heading toward divorce**: The ratio drops to **0.8 : 1**—meaning critical, contemptuous exchanges actively outnumber moments of kindness.
 
 <figure class="article-inline-diagram">
- <img src="images/MW_REL_01_figure.png" alt="The human Autonomic Nervous System: Calming communication cues activate parasympathetic vagal pathways, establishing physiological safety during partner interactions." loading="lazy">
- <figcaption>📊 <strong>The human Autonomic Nervous System: Calming communication cues activate parasympathetic vagal pathways, establishing physiological safety during partner interactions.</strong> <a href="https://commons.wikimedia.org/wiki/File:The_Autonomic_Nervous_System.png" target="_blank" rel="noopener">Original Image Source: Wikimedia Commons ↗</a></figcaption>
+ <img src="images/MW_REL_01_figure.png" alt="Connections of the Parasympathetic Nervous System (OpenStax Figure 15.3): Cranial nerve X (Vagus nerve) and sacral outflows driving cardiac deceleration, emotional calming, and social engagement during conflict de-escalation." loading="lazy">
+ <figcaption>📊 <strong>Connections of the Parasympathetic Nervous System (OpenStax Figure 15.3): Cranial nerve X (Vagus nerve) and sacral outflows driving cardiac deceleration, emotional calming, and social engagement during conflict de-escalation.</strong> <a href="https://commons.wikimedia.org/wiki/File:1503_Connections_of_the_Parasympathetic_Nervous_System.jpg" target="_blank" rel="noopener">Original Image Source: Wikimedia Commons ↗</a></figcaption>
 </figure>
 
 ---

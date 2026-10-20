@@ -3,7 +3,7 @@
 **Screen:** Body Composition & Activity Strain Screen 
 **Metric:** Muscle Protein Synthesis, Leucine Threshold & Day Strain 
 **Reading Time:** 8 phút đọc / 8 min 
-**Hero Image:** ![Cấu trúc vi sợi cơ Sarcomere: Các axit amin thiết yếu (đặc biệt là Leucine) kích hoạt cơ chế tổng hợp protein cơ và tái tạo cầu nối actin-myosin.](images/MW_NUT_03_hero.jpg) *(Source: [https://images.unsplash.com/photo-1532550907401-a500c9a57435?auto=format&fit=crop&w=1200&q=85](https://images.unsplash.com/photo-1532550907401-a500c9a57435?auto=format&fit=crop&w=1200&q=85))* 
+**Hero Image:** ![Nam Giới Cần Bao Nhiêu Protein? Tối Ưu Tổng Hợp Cơ Bắp, Thận & Cân Bằng Nội Tiết](images/MW_NUT_03_hero.jpg) *(Source: [https://images.unsplash.com/photo-1532550907401-a500c9a57435?auto=format&fit=crop&w=1200&q=85](https://images.unsplash.com/photo-1532550907401-a500c9a57435?auto=format&fit=crop&w=1200&q=85))* 
 **Inline Figure:** ![Cấu trúc vi sợi cơ Sarcomere: Các axit amin thiết yếu (đặc biệt là Leucine) kích hoạt cơ chế tổng hợp protein cơ và tái tạo cầu nối actin-myosin.](images/MW_NUT_03_figure.png) *(Source: [https://commons.wikimedia.org/wiki/File:Sarcomere.svg](https://commons.wikimedia.org/wiki/File:Sarcomere.svg))* 
 **Clinical Source:** [British Journal of Sports Medicine (BJSM) & American Journal of Clinical Nutrition](https://pubmed.ncbi.nlm.nih.gov/28698222/) 
 

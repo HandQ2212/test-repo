@@ -3,7 +3,7 @@
 **Screen:** Stress Recovery & Heart Rate Variability Screen 
 **Metric:** Stress Spillover, Window of Tolerance & Autonomic Burnout 
 **Reading Time:** 8 phút đọc / 8 min 
-**Hero Image:** ![Đường cong kích hoạt Yerkes-Dodson: Căng thẳng công việc kéo dài đẩy hệ thần kinh vượt ngưỡng hưng phấn tối ưu sang vùng kiệt sức, làm cạn kiệt khả năng bao dung giữa hai người.](images/MW_REL_04_hero.jpg) *(Source: [https://images.unsplash.com/photo-1469571486292-0ba58a3f068b?auto=format&fit=crop&w=1200&q=85](https://images.unsplash.com/photo-1469571486292-0ba58a3f068b?auto=format&fit=crop&w=1200&q=85))* 
+**Hero Image:** ![Hiệu Ứng Lây Lan Căng Thẳng: Bảo Vệ Mối Quan Hệ Khỏi Sự Cạn Kiệt Năng Lượng Thần Kinh](images/MW_REL_04_hero.jpg) *(Source: [https://images.unsplash.com/photo-1475720927035-c23a9bc5cac3?auto=format&fit=crop&w=1200&q=85](https://images.unsplash.com/photo-1475720927035-c23a9bc5cac3?auto=format&fit=crop&w=1200&q=85))* 
 **Inline Figure:** ![Đường cong kích hoạt Yerkes-Dodson: Căng thẳng công việc kéo dài đẩy hệ thần kinh vượt ngưỡng hưng phấn tối ưu sang vùng kiệt sức, làm cạn kiệt khả năng bao dung giữa hai người.](images/MW_REL_04_figure.png) *(Source: [https://commons.wikimedia.org/wiki/File:HebbianYerkesDodson.svg](https://commons.wikimedia.org/wiki/File:HebbianYerkesDodson.svg))* 
 **Clinical Source:** [Clinical Psychology Review & Journal of Personality and Social Psychology](https://pubmed.ncbi.nlm.nih.gov/17588698/) 
 

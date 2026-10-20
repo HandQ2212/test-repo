@@ -3,7 +3,7 @@
 **Screen:** Menstrual Cycle Screen 
 **Metric:** Basal Body Temperature (BBT) 
 **Reading Time:** 8 phút đọc / 8 min 
-**Hero Image:** ![Nhiệt Độ Cơ Bản (BBT) & Nhiệt Độ Da Ban Đêm: Cách Thiết Bị Đeo Xác Nhận Rụng Trứng](images/LM_WH_03_hero.jpg) *(Source: [https://images.unsplash.com/photo-1516585427167-9f4af9627e6c?auto=format&fit=crop&w=1200&q=85](https://images.unsplash.com/photo-1516585427167-9f4af9627e6c?auto=format&fit=crop&w=1200&q=85))* 
+**Hero Image:** ![Nhiệt Độ Cơ Bản (BBT) & Nhiệt Độ Da Ban Đêm: Cách Thiết Bị Đeo Xác Nhận Rụng Trứng](images/LM_WH_03_hero.jpg) *(Source: [https://images.unsplash.com/photo-1486591038957-19e7c73bdc41?auto=format&fit=crop&w=1200&q=85](https://images.unsplash.com/photo-1486591038957-19e7c73bdc41?auto=format&fit=crop&w=1200&q=85))* 
 **Inline Figure:** ![Biểu đồ lâm sàng chu kỳ kinh nguyệt làm nổi bật đường cong Nhiệt độ cơ bản (BBT) hai pha: nền nhiệt thấp ổn định dưới tác động của Estradiol ở pha Nang trứng, tiếp nối bởi cao nguyên nhiệt độ tăng +0.3°C đến +0.5°C do Progesterone thúc đẩy suốt pha Hoàng thể.](images/LM_WH_03_figure.png) *(Source: [https://commons.wikimedia.org/wiki/File:Menstrual_cycle.svg](https://commons.wikimedia.org/wiki/File:Menstrual_cycle.svg))* 
 **Clinical Source:** [Natural Cycles FDA De Novo Science & Oura University of California San Diego Study (Maijala et al., 2019)](https://pubmed.ncbi.nlm.nih.gov/30709005/) 
 

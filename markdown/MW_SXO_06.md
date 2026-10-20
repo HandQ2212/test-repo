@@ -3,7 +3,7 @@
 **Screen:** Endocrine Facts & Scientific Evidence Screen 
 **Metric:** Acute vs Chronic Endocrine Adaptation, Ejaculatory Frequency & Leydig Integrity 
 **Reading Time:** 8 phút đọc / 8 min 
-**Hero Image:** ![Hệ nội tiết nam giới (Blausen Medical): Sự tăng prolactin và oxytocin sau xuất tinh chỉ diễn ra thoáng qua và không làm suy giảm dự trữ testosterone toàn thân.](images/MW_SXO_06_hero.jpg) *(Source: [https://images.unsplash.com/photo-1499750310107-5fef28a66643?auto=format&fit=crop&w=1200&q=85](https://images.unsplash.com/photo-1499750310107-5fef28a66643?auto=format&fit=crop&w=1200&q=85))* 
+**Hero Image:** ![Thủ Dâm & Nồng Độ Testosterone: Giải Mã Các Lời Đồn Dân Gian Bằng Bằng Chứng Thực Nghiệm](images/MW_SXO_06_hero.jpg) *(Source: [https://images.unsplash.com/photo-1499750310107-5fef28a66643?auto=format&fit=crop&w=1200&q=85](https://images.unsplash.com/photo-1499750310107-5fef28a66643?auto=format&fit=crop&w=1200&q=85))* 
 **Inline Figure:** ![Hệ nội tiết nam giới (Blausen Medical): Sự tăng prolactin và oxytocin sau xuất tinh chỉ diễn ra thoáng qua và không làm suy giảm dự trữ testosterone toàn thân.](images/MW_SXO_06_figure.png) *(Source: [https://commons.wikimedia.org/wiki/File:Blausen_0346_EndocrineSystem_Male2.png](https://commons.wikimedia.org/wiki/File:Blausen_0346_EndocrineSystem_Male2.png))* 
 **Clinical Source:** [World Journal of Urology & Journal of Zhejiang University Science](https://pubmed.ncbi.nlm.nih.gov/11760788/) 
 

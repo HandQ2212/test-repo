@@ -3,8 +3,8 @@
 **Screen:** Cardiorespiratory Fitness & Sexual Function Screen 
 **Metric:** Cardio Fitness (VO2 Max), Endothelial eNOS & Pelvic Floor Strength 
 **Reading Time:** 8 phút đọc / 8 min 
-**Hero Image:** ![Các vùng nhịp tim tập luyện tim mạch: Tập cardio Zone 2 kích hoạt lực trượt thành mạch (shear stress), thúc đẩy men eNOS sản sinh Nitric Oxide tăng độ đàn hồi lòng mạch.](images/MW_SXH_06_hero.jpg) *(Source: [https://images.unsplash.com/photo-1452626212852-811d58933cae?auto=format&fit=crop&w=1200&q=85](https://images.unsplash.com/photo-1452626212852-811d58933cae?auto=format&fit=crop&w=1200&q=85))* 
-**Inline Figure:** ![Các vùng nhịp tim tập luyện tim mạch: Tập cardio Zone 2 kích hoạt lực trượt thành mạch (shear stress), thúc đẩy men eNOS sản sinh Nitric Oxide tăng độ đàn hồi lòng mạch.](images/MW_SXH_06_figure.png) *(Source: [https://commons.wikimedia.org/wiki/File:Exercise_zones_Fox_and_Haskell.svg](https://commons.wikimedia.org/wiki/File:Exercise_zones_Fox_and_Haskell.svg))* 
+**Hero Image:** ![Vận Động Thể Thao Tăng Cường Bản Lĩnh: Cardio Zone 2, Sức Mạnh Khung Chậu & Lưu Lượng Máu](images/MW_SXH_06_hero.jpg) *(Source: [https://images.unsplash.com/photo-1457449205106-d0aad138e99b?auto=format&fit=crop&w=1200&q=85](https://images.unsplash.com/photo-1457449205106-d0aad138e99b?auto=format&fit=crop&w=1200&q=85))* 
+**Inline Figure:** ![Cấu Trúc Vi Tuần Hoàn Mao Mạch & Lưu Lượng Máu (Capillary Microcirculation): Tập cardio Zone 2 kích thích sản sinh Nitric Oxide (NO) tại tế bào nội mô và phát triển mạng lưới vi mạch cấp máu cho vùng chậu và thể hang.](images/MW_SXH_06_figure.png) *(Source: [https://commons.wikimedia.org/wiki/File:Capillary_microcirculation.svg](https://commons.wikimedia.org/wiki/File:Capillary_microcirculation.svg))* 
 **Clinical Source:** [The Journal of Sexual Medicine & Harvard Men's Health Watch](https://pubmed.ncbi.nlm.nih.gov/21883955/) 
 
 ---

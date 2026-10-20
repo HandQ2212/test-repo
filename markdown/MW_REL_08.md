@@ -3,7 +3,7 @@
 **Screen:** Sleep Analytics & Interpersonal Dynamics Screen 
 **Metric:** Sleep Debt Spillover, Empathy Circuitry & Conflict Escalation 
 **Reading Time:** 8 phút đọc / 8 min 
-**Hero Image:** ![Giải phẫu chức năng não bộ: Thiếu ngủ làm mất kết nối ức chế giữa thùy trán và hạch hạnh nhân, khiến phản xạ tự vệ bùng phát và nhân đôi nguy cơ xung đột vợ chồng.](images/MW_REL_08_hero.jpg) *(Source: [https://images.unsplash.com/photo-1505691938895-1758d7feb511?auto=format&fit=crop&w=1200&q=85](https://images.unsplash.com/photo-1505691938895-1758d7feb511?auto=format&fit=crop&w=1200&q=85))* 
+**Hero Image:** ![Giấc Ngủ & Hạnh Phúc Lứa Đôi: Thiếu Ngủ Làm Giảm Sự Thấu Cảm & Tăng Xung Đột Thế Nào?](images/MW_REL_08_hero.jpg) *(Source: [https://images.unsplash.com/photo-1505691938895-1758d7feb511?auto=format&fit=crop&w=1200&q=85](https://images.unsplash.com/photo-1505691938895-1758d7feb511?auto=format&fit=crop&w=1200&q=85))* 
 **Inline Figure:** ![Giải phẫu chức năng não bộ: Thiếu ngủ làm mất kết nối ức chế giữa thùy trán và hạch hạnh nhân, khiến phản xạ tự vệ bùng phát và nhân đôi nguy cơ xung đột vợ chồng.](images/MW_REL_08_figure.png) *(Source: [https://commons.wikimedia.org/wiki/File:Brain_anatomy.svg](https://commons.wikimedia.org/wiki/File:Brain_anatomy.svg))* 
 **Clinical Source:** [Social Psychological and Personality Science & Sleep Medicine Reviews](https://pubmed.ncbi.nlm.nih.gov/24838689/) 
 

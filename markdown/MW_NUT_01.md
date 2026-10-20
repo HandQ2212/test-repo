@@ -3,7 +3,7 @@
 **Screen:** Nutrition & Metabolic Health Screen 
 **Metric:** Daily Caloric Balance, Macronutrient Split & Androgen Profile 
 **Reading Time:** 8 phút đọc / 8 min 
-**Hero Image:** ![Sơ đồ sinh tổng hợp steroid (Steroidogenesis): Cholesterol được vận chuyển vào ty thể tế bào Leydig dưới tác động của enzyme StAR để tổng hợp nên Testosterone.](images/MW_NUT_01_hero.jpg) *(Source: [https://images.unsplash.com/photo-1540420773420-3366772f4999?auto=format&fit=crop&w=1200&q=85](https://images.unsplash.com/photo-1540420773420-3366772f4999?auto=format&fit=crop&w=1200&q=85))* 
+**Hero Image:** ![Chế Độ Ăn & Testosterone: Khoa Học Về Chất Béo, Calo & Sự Thần Thoại Hóa Thực Phẩm](images/MW_NUT_01_hero.jpg) *(Source: [https://images.unsplash.com/photo-1540420773420-3366772f4999?auto=format&fit=crop&w=1200&q=85](https://images.unsplash.com/photo-1540420773420-3366772f4999?auto=format&fit=crop&w=1200&q=85))* 
 **Inline Figure:** ![Sơ đồ sinh tổng hợp steroid (Steroidogenesis): Cholesterol được vận chuyển vào ty thể tế bào Leydig dưới tác động của enzyme StAR để tổng hợp nên Testosterone.](images/MW_NUT_01_figure.png) *(Source: [https://commons.wikimedia.org/wiki/File:Steroidogenesis.svg](https://commons.wikimedia.org/wiki/File:Steroidogenesis.svg))* 
 **Clinical Source:** [Journal of Clinical Endocrinology & Metabolism (Endocrine Society) & Sports Medicine](https://pubmed.ncbi.nlm.nih.gov/29562364/) 
 

@@ -3,8 +3,8 @@
 **Screen:** Menstrual Cycle Screen 
 **Metric:** Cycle-Synced Training 
 **Reading Time:** 9 phút đọc / 9 min 
-**Hero Image:** ![Tập Luyện Đồng Bộ Chu Kỳ (Cycle-Synced Training): Cách Phân Kỳ Sức Mạnh, HIIT Và Phục Hồi Theo Nội Tiết Tố](images/DM_WH_01_hero.jpg) *(Source: [https://images.unsplash.com/photo-1571019614242-c5c5dee9f50b?auto=format&fit=crop&w=1200&q=85](https://images.unsplash.com/photo-1571019614242-c5c5dee9f50b?auto=format&fit=crop&w=1200&q=85))* 
-**Inline Figure:** ![Đường cong định lượng nội tiết qua chu kỳ 28 ngày thể hiện nồng độ tham chiếu của Estradiol (pmol/L), Progesterone (nmol/L), LH và FSH—minh họa cửa sổ đồng hóa giàu Estrogen từ Ngày 7–14 đối lập với giai đoạn dị hóa cao Progesterone từ Ngày 18–26.](images/DM_WH_01_figure.png) *(Source: [https://commons.wikimedia.org/wiki/File:Hormones_estradiol,_progesterone,_LH_and_FSH_during_menstrual_cycle.svg](https://commons.wikimedia.org/wiki/File:Hormones_estradiol,_progesterone,_LH_and_FSH_during_menstrual_cycle.svg))* 
+**Hero Image:** ![Tập Luyện Đồng Bộ Chu Kỳ (Cycle-Synced Training): Cách Phân Kỳ Sức Mạnh, HIIT Và Phục Hồi Theo Nội Tiết Tố](images/DM_WH_01_hero.jpg) *(Source: [https://images.unsplash.com/photo-1475701240414-7842311479e7?auto=format&fit=crop&w=1200&q=85](https://images.unsplash.com/photo-1475701240414-7842311479e7?auto=format&fit=crop&w=1200&q=85))* 
+**Inline Figure:** ![Sơ Đồ Chu Kỳ Kinh Nguyệt & Các Pha Huấn Luyện: Minh họa 4 giai đoạn sinh lý (Kinh nguyệt, Nang trứng, Phóng noãn, Hoàng thể) làm kim chỉ nam điều chỉnh cường độ tập luyện và dinh dưỡng phục hồi.](images/DM_WH_01_figure.png) *(Source: [https://commons.wikimedia.org/wiki/File:Menstrual_Cycle_Diagram.svg](https://commons.wikimedia.org/wiki/File:Menstrual_Cycle_Diagram.svg))* 
 **Clinical Source:** [WHOOP Menstrual Cycle Coaching & Dr. Stacy Sims / PubMed (Sung et al., SpringerPlus 2014; McNulty et al., Sports Medicine 2020)](https://pubmed.ncbi.nlm.nih.gov/25525569/) 
 
 ---

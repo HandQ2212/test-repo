@@ -3,7 +3,7 @@
 **Screen:** Endocrine Diagnostic & Laboratory Screen 
 **Metric:** Diurnal Blood Sampling, Total/Free T, SHBG, LH & Prolactin Differential 
 **Reading Time:** 8 phút đọc / 8 min 
-**Hero Image:** ![Trục nội tiết Hạ đồi - Tuyến yên - Tinh hoàn: Vòng phản hồi sinh học của GnRH, LH, FSH và Testosterone phục vụ chẩn đoán phân biệt suy sinh dục nguyên phát hay thứ phát.](images/MW_SXH_08_hero.jpg) *(Source: [https://images.unsplash.com/photo-1532187863486-abf9dbad1b69?auto=format&fit=crop&w=1200&q=85](https://images.unsplash.com/photo-1532187863486-abf9dbad1b69?auto=format&fit=crop&w=1200&q=85))* 
+**Hero Image:** ![Khi Nào Nam Giới Cần Kiểm Tra Hormone? Hướng Dẫn Đọc Bảng Xét Nghiệm Chuẩn Y Khoa](images/MW_SXH_08_hero.jpg) *(Source: [https://images.unsplash.com/photo-1532187863486-abf9dbad1b69?auto=format&fit=crop&w=1200&q=85](https://images.unsplash.com/photo-1532187863486-abf9dbad1b69?auto=format&fit=crop&w=1200&q=85))* 
 **Inline Figure:** ![Trục nội tiết Hạ đồi - Tuyến yên - Tinh hoàn: Vòng phản hồi sinh học của GnRH, LH, FSH và Testosterone phục vụ chẩn đoán phân biệt suy sinh dục nguyên phát hay thứ phát.](images/MW_SXH_08_figure.png) *(Source: [https://commons.wikimedia.org/wiki/File:Hypothalamus-Hypophysis-Testicle-Hormone-Axis_(engl.).svg](https://commons.wikimedia.org/wiki/File:Hypothalamus-Hypophysis-Testicle-Hormone-Axis_(engl.).svg))* 
 **Clinical Source:** [The Journal of Clinical Endocrinology & Metabolism & European Association of Urology (EAU Guidelines)](https://pubmed.ncbi.nlm.nih.gov/29562364/) 
 

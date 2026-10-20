@@ -3,7 +3,7 @@
 **Screen:** Stress Management & Autonomic Screen 
 **Metric:** Stress Score, Sympathetic Overdrive & Cortisol/Testosterone Ratio 
 **Reading Time:** 8 phút đọc / 8 min 
-**Hero Image:** ![Trục Hạ đồi - Tuyến yên - Thượng thận (HPA): Cortisol tăng vọt trong căng thẳng mạn tính làm ức chế xung GnRH vùng dưới đồi và co thắt mạch máu hang.](images/MW_SXH_04_hero.jpg) *(Source: [https://images.unsplash.com/photo-1506784983877-45594efa4cbe?auto=format&fit=crop&w=1200&q=85](https://images.unsplash.com/photo-1506784983877-45594efa4cbe?auto=format&fit=crop&w=1200&q=85))* 
+**Hero Image:** ![Stress & Phong Độ Phòng The: Trục HPA, Độc Tính Cortisol & Phản Ứng Ức Chế Thần Kinh](images/MW_SXH_04_hero.jpg) *(Source: [https://images.unsplash.com/photo-1506784983877-45594efa4cbe?auto=format&fit=crop&w=1200&q=85](https://images.unsplash.com/photo-1506784983877-45594efa4cbe?auto=format&fit=crop&w=1200&q=85))* 
 **Inline Figure:** ![Trục Hạ đồi - Tuyến yên - Thượng thận (HPA): Cortisol tăng vọt trong căng thẳng mạn tính làm ức chế xung GnRH vùng dưới đồi và co thắt mạch máu hang.](images/MW_SXH_04_figure.png) *(Source: [https://commons.wikimedia.org/wiki/File:HPA_Axis_Diagram_(Brian_M_Sweis_2012).svg](https://commons.wikimedia.org/wiki/File:HPA_Axis_Diagram_(Brian_M_Sweis_2012).svg))* 
 **Clinical Source:** [Nature Reviews Endocrinology & Journal of Sexual Medicine](https://pubmed.ncbi.nlm.nih.gov/20358897/) 
 
