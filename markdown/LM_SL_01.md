@@ -24,8 +24,8 @@ Nếu bạn từng nằm trên giường đủ 8 tiếng nhưng vẫn thức d�
 Các dòng đồng hồ và nhẫn thông minh hiện đại (như **Oura Ring**, **Garmin Firstbeat Analytics**, **WHOOP**, và **Fitbit**) không còn hoạt động như những chiếc đồng hồ bấm giờ đơn thuần. Trong suốt lúc bạn ngủ, thiết bị liên tục thu thập sóng mạch quang học, biến thiên nhịp tim từng nhịp (HRV), tần số hô hấp, vi chuyển động cổ tay và nhiệt độ da ngoại vi. Vào buổi sáng, thuật toán tổng hợp toàn bộ tín hiệu sinh trắc học này thành một **Điểm Giấc Ngủ từ 0 đến 100**, trả lời một câu hỏi thực tế: *Cơ thể và não bộ của bạn đã thực sự phục hồi tốt đến đâu vào đêm qua?*
 
 <figure class="article-inline-diagram">
- <img src="images/LM_SL_01_figure.jpg" alt="Mô hình đo đa ký giấc ngủ Polysomnography lâm sàng so với thiết bị đeo thông minh" loading="lazy">
- <figcaption>📊 <strong>Từ Phòng Thí Nghiệm Giấc Ngủ Đến Thiết Bị Đeo:</strong> Phép đo Đa ký giấc ngủ (Polysomnography - PSG) tại bệnh viện sử dụng điện não đồ (EEG), điện cơ (EMG), điện tâm đồ (ECG) và cảm biến hô hấp để phân loại giai đoạn ngủ. Thiết bị đeo hiện đại kết hợp sóng mạch PPG, HRV và gia tốc kế 3 trục để mô phỏng chính xác các chuyển đổi sinh lý này ngay tại nhà. <a href="https://commons.wikimedia.org/wiki/File:Polysomnography_model.jpg" target="_blank" rel="noopener">Nguồn Ảnh Gốc: Wikimedia Commons ↗</a></figcaption>
+ <img src="images/LM_SL_01_figure.jpg" alt="Mô hình đo đa ký giấc ngủ (Polysomnography - PSG) lâm sàng ghi nhận sóng não (EEG), chuyển động mắt (EOG), điện tâm đồ (ECG), luồng thở và SpO2—nền tảng chuẩn vàng mà các thiết bị đeo hiện đại mô phỏng thông qua cảm biến quang học PPG, gia tốc kế 3 trục và nhiệt độ da." loading="lazy">
+ <figcaption>📊 <strong>Mô hình đo đa ký giấc ngủ (Polysomnography - PSG) lâm sàng ghi nhận sóng não (EEG), chuyển động mắt (EOG), điện tâm đồ (ECG), luồng thở và SpO2—nền tảng chuẩn vàng mà các thiết bị đeo hiện đại mô phỏng thông qua cảm biến quang học PPG, gia tốc kế 3 trục và nhiệt độ da.</strong> <a href="https://commons.wikimedia.org/wiki/File:Polysomnography_model.jpg" target="_blank" rel="noopener">Link sơ đồ y khoa gốc (Wikimedia Commons) ↗</a></figcaption>
 </figure>
 
 ---
@@ -119,8 +119,8 @@ If you have ever stayed in bed for eight full hours only to wake up feeling grog
 Modern smartwatches and smart rings (including **Oura Ring**, **Garmin Firstbeat Analytics**, **WHOOP**, and **Fitbit**) no longer act as simple timers. While you sleep, your wearable continuously samples your pulse wave, beat-to-beat Heart Rate Variability (HRV), respiratory rate, wrist movement, and peripheral skin temperature. By morning, an algorithm synthesizes these signals into a single **0 to 100 Sleep Score** designed to answer one practical question: *How well did your body and brain actually recover last night?*
 
 <figure class="article-inline-diagram">
- <img src="images/LM_SL_01_figure.jpg" alt="Clinical Polysomnography Sensor Model Compared to Wearable Sleep Tracking" loading="lazy">
- <figcaption>📊 <strong>From Sleep Lab to Wrist & Finger:</strong> Hospital Polysomnography (PSG) uses multi-channel EEG, EOG, ECG, and respiratory leads to score sleep stages. Modern multi-sensor wearables combine optical PPG pulse waves, HRV, and micro-actigraphy to estimate these same physiological transitions at home. <a href="https://commons.wikimedia.org/wiki/File:Polysomnography_model.jpg" target="_blank" rel="noopener">Original Image Source: Wikimedia Commons ↗</a></figcaption>
+ <img src="images/LM_SL_01_figure.jpg" alt="Clinical overnight Polysomnography (PSG) sensor architecture—tracking brainwaves (EEG), eye movement (EOG), cardiac rhythm (ECG), airflow, and blood oxygen—which modern multi-sensor wearables approximate using optical PPG, 3-axis accelerometry, and skin temperature." loading="lazy">
+ <figcaption>📊 <strong>Clinical overnight Polysomnography (PSG) sensor architecture—tracking brainwaves (EEG), eye movement (EOG), cardiac rhythm (ECG), airflow, and blood oxygen—which modern multi-sensor wearables approximate using optical PPG, 3-axis accelerometry, and skin temperature.</strong> <a href="https://commons.wikimedia.org/wiki/File:Polysomnography_model.jpg" target="_blank" rel="noopener">Original Image Source: Wikimedia Commons ↗</a></figcaption>
 </figure>
 
 ---

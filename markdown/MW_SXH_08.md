@@ -29,7 +29,7 @@ Không phải ai cảm thấy mệt mỏi sau một tuần thức khuya làm vi�
 
 <figure class="article-inline-diagram">
  <img src="images/MW_SXH_08_figure.png" alt="Trục nội tiết Hạ đồi - Tuyến yên - Tinh hoàn: Vòng phản hồi sinh học của GnRH, LH, FSH và Testosterone phục vụ chẩn đoán phân biệt suy sinh dục nguyên phát hay thứ phát." loading="lazy">
- <figcaption>📊 <strong>Sơ đồ y khoa:</strong> Trục nội tiết Hạ đồi - Tuyến yên - Tinh hoàn: Vòng phản hồi sinh học của GnRH, LH, FSH và Testosterone phục vụ chẩn đoán phân biệt suy sinh dục nguyên phát hay thứ phát. <a href="https://commons.wikimedia.org/wiki/File:Hypothalamus-Hypophysis-Testicle-Hormone-Axis_(engl.).svg" target="_blank" rel="noopener">Nguồn sơ đồ: Wikimedia Commons ↗</a></figcaption>
+ <figcaption>📊 <strong>Trục nội tiết Hạ đồi - Tuyến yên - Tinh hoàn: Vòng phản hồi sinh học của GnRH, LH, FSH và Testosterone phục vụ chẩn đoán phân biệt suy sinh dục nguyên phát hay thứ phát.</strong> <a href="https://commons.wikimedia.org/wiki/File:Hypothalamus-Hypophysis-Testicle-Hormone-Axis_(engl.).svg" target="_blank" rel="noopener">Link sơ đồ y khoa gốc (Wikimedia Commons) ↗</a></figcaption>
 </figure>
 
 ---
@@ -97,7 +97,7 @@ Transient fatigue after a demanding workweek is not an indication for hormone pa
 
 <figure class="article-inline-diagram">
  <img src="images/MW_SXH_08_figure.png" alt="Hypothalamus-Hypophysis-Testicle hormone axis: Endocrine feedback loop detailing GnRH, LH, FSH, Testosterone, and Inhibin for clinical hypogonadism diagnostics." loading="lazy">
- <figcaption>📊 <strong>Scientific Figure:</strong> Hypothalamus-Hypophysis-Testicle hormone axis: Endocrine feedback loop detailing GnRH, LH, FSH, Testosterone, and Inhibin for clinical hypogonadism diagnostics. <a href="https://commons.wikimedia.org/wiki/File:Hypothalamus-Hypophysis-Testicle-Hormone-Axis_(engl.).svg" target="_blank" rel="noopener">Diagram source: Wikimedia Commons ↗</a></figcaption>
+ <figcaption>📊 <strong>Hypothalamus-Hypophysis-Testicle hormone axis: Endocrine feedback loop detailing GnRH, LH, FSH, Testosterone, and Inhibin for clinical hypogonadism diagnostics.</strong> <a href="https://commons.wikimedia.org/wiki/File:Hypothalamus-Hypophysis-Testicle-Hormone-Axis_(engl.).svg" target="_blank" rel="noopener">Original Image Source: Wikimedia Commons ↗</a></figcaption>
 </figure>
 
 ---

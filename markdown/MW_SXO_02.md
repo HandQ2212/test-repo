@@ -28,7 +28,7 @@ Công trình kinh điển của **Giáo sư Tom F. Lue (New England Journal of M
 
 <figure class="article-inline-diagram">
  <img src="images/MW_SXO_02_figure.png" alt="Dòng thác phân tử giãn mạch qua cGMP: Nitric oxide kích hoạt enzyme guanylyl cyclase chuyển GTP thành cGMP gây giãn cơ trơn mạch máu thể hang để tạo cương cứng." loading="lazy">
- <figcaption>📊 <strong>Sơ đồ y khoa:</strong> Dòng thác phân tử giãn mạch qua cGMP: Nitric oxide kích hoạt enzyme guanylyl cyclase chuyển GTP thành cGMP gây giãn cơ trơn mạch máu thể hang để tạo cương cứng. <a href="https://commons.wikimedia.org/wiki/File:Molecular_pathway_of_vasodilation_mediated_by_cGMP.jpg" target="_blank" rel="noopener">Nguồn sơ đồ: Wikimedia Commons ↗</a></figcaption>
+ <figcaption>📊 <strong>Dòng thác phân tử giãn mạch qua cGMP: Nitric oxide kích hoạt enzyme guanylyl cyclase chuyển GTP thành cGMP gây giãn cơ trơn mạch máu thể hang để tạo cương cứng.</strong> <a href="https://commons.wikimedia.org/wiki/File:Molecular_pathway_of_vasodilation_mediated_by_cGMP.jpg" target="_blank" rel="noopener">Link sơ đồ y khoa gốc (Wikimedia Commons) ↗</a></figcaption>
 </figure>
 
 ---
@@ -92,7 +92,7 @@ Seminal work by **Dr. Tom F. Lue (New England Journal of Medicine)** separated t
 
 <figure class="article-inline-diagram">
  <img src="images/MW_SXO_02_figure.png" alt="Molecular pathway of vasodilation mediated by cGMP: Nitric oxide activates soluble guanylyl cyclase to produce cGMP, relaxing vascular smooth muscle." loading="lazy">
- <figcaption>📊 <strong>Scientific Figure:</strong> Molecular pathway of vasodilation mediated by cGMP: Nitric oxide activates soluble guanylyl cyclase to produce cGMP, relaxing vascular smooth muscle. <a href="https://commons.wikimedia.org/wiki/File:Molecular_pathway_of_vasodilation_mediated_by_cGMP.jpg" target="_blank" rel="noopener">Diagram source: Wikimedia Commons ↗</a></figcaption>
+ <figcaption>📊 <strong>Molecular pathway of vasodilation mediated by cGMP: Nitric oxide activates soluble guanylyl cyclase to produce cGMP, relaxing vascular smooth muscle.</strong> <a href="https://commons.wikimedia.org/wiki/File:Molecular_pathway_of_vasodilation_mediated_by_cGMP.jpg" target="_blank" rel="noopener">Original Image Source: Wikimedia Commons ↗</a></figcaption>
 </figure>
 
 ---

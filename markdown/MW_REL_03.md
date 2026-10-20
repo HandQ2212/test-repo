@@ -27,7 +27,7 @@ Nếu một cặp đôi chỉ dựa vào sức hút ngoại hình mà không b�
 
 <figure class="article-inline-diagram">
  <img src="images/MW_REL_03_figure.png" alt="Cấu trúc hóa học phân tử Oxytocin: Peptide 9 axit amin được tổng hợp tại vùng dưới đồi, đóng vai trò nền tảng tạo sự gắn kết tình cảm, niềm tin và sự thư giãn lứa đôi." loading="lazy">
- <figcaption>📊 <strong>Sơ đồ y khoa:</strong> Cấu trúc hóa học phân tử Oxytocin: Peptide 9 axit amin được tổng hợp tại vùng dưới đồi, đóng vai trò nền tảng tạo sự gắn kết tình cảm, niềm tin và sự thư giãn lứa đôi. <a href="https://commons.wikimedia.org/wiki/File:Oxytocin_color.svg" target="_blank" rel="noopener">Nguồn sơ đồ: Wikimedia Commons ↗</a></figcaption>
+ <figcaption>📊 <strong>Cấu trúc hóa học phân tử Oxytocin: Peptide 9 axit amin được tổng hợp tại vùng dưới đồi, đóng vai trò nền tảng tạo sự gắn kết tình cảm, niềm tin và sự thư giãn lứa đôi.</strong> <a href="https://commons.wikimedia.org/wiki/File:Oxytocin_color.svg" target="_blank" rel="noopener">Link sơ đồ y khoa gốc (Wikimedia Commons) ↗</a></figcaption>
 </figure>
 
 ---
@@ -91,7 +91,7 @@ Couples who rely solely on physical infatuation without nurturing emotional inti
 
 <figure class="article-inline-diagram">
  <img src="images/MW_REL_03_figure.png" alt="Color-coded molecular structure of Oxytocin: The nonapeptide synthesized in the hypothalamus fosters emotional bonding, trust, and reduction of social anxiety." loading="lazy">
- <figcaption>📊 <strong>Scientific Figure:</strong> Color-coded molecular structure of Oxytocin: The nonapeptide synthesized in the hypothalamus fosters emotional bonding, trust, and reduction of social anxiety. <a href="https://commons.wikimedia.org/wiki/File:Oxytocin_color.svg" target="_blank" rel="noopener">Diagram source: Wikimedia Commons ↗</a></figcaption>
+ <figcaption>📊 <strong>Color-coded molecular structure of Oxytocin: The nonapeptide synthesized in the hypothalamus fosters emotional bonding, trust, and reduction of social anxiety.</strong> <a href="https://commons.wikimedia.org/wiki/File:Oxytocin_color.svg" target="_blank" rel="noopener">Original Image Source: Wikimedia Commons ↗</a></figcaption>
 </figure>
 
 ---

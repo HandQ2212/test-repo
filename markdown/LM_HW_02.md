@@ -24,8 +24,8 @@ Khi bạn mở mục **Cardio Fitness Score** trên **Fitbit**, **Apple Health**
 Về mặt y khoa lâm sàng, **VO₂ Max** (*Mức Hấp thụ Oxy Tối đa*) là thể tích oxy tối đa mà cơ thể bạn có thể hít vào qua phổi, được tâm thất trái bơm vào dòng máu, và được các ti thể trong cơ xương chiết xuất để tạo năng lượng trong lúc vận động hiếu khí hết sức. Năm 2016, **Hiệp hội Tim mạch Hoa Kỳ (AHA)** đã công bố tuyên bố khoa học chính thức công nhận thể lực tim phổi (`VO₂ Max`) là một **dấu hiệu sinh tồn lâm sàng (clinical vital sign)**—quan trọng không kém việc đo huyết áp hay xét nghiệm mỡ máu trong mỗi lần khám sức khỏe định kỳ.
 
 <figure class="article-inline-diagram">
- <img src="images/LM_HW_02_figure.jpg" alt="Đo lường VO2 Max tiêu chuẩn vàng bằng phương pháp Ergospirometry trong phòng thí nghiệm" loading="lazy">
- <figcaption>📊 <strong>Đo Hô Hấp Gắng Sức Tiêu Chuẩn Vàng (Ergospirometry / CPET):</strong> Cách hệ thống phân tích khí thở trong phòng thí nghiệm đo mức tiêu thụ oxy qua từng nhịp thở (VO₂ Max)—và cách đồng hồ thông minh tích hợp GPS + cảm biến quang học PPG tái hiện phép đo này với độ chính xác 92%–95% khi bạn đi bộ hoặc chạy bộ ngoài trời. <a href="https://commons.wikimedia.org/wiki/File:Ergospirometry_laboratory.jpg" target="_blank" rel="noopener">Nguồn hình ảnh gốc: Wikimedia Commons ↗</a></figcaption>
+ <img src="images/LM_HW_02_figure.jpg" alt="Phương pháp Đo Hô hấp Gắng sức Tim Phổi tiêu chuẩn vàng trong phòng thí nghiệm (Ergospirometry / CPET), đo lường trực tiếp mức hấp thụ oxy tối đa (VO2 Max) và lượng khí CO₂ thở ra qua từng nhịp thở trên máy chạy bộ." loading="lazy">
+ <figcaption>📊 <strong>Phương pháp Đo Hô hấp Gắng sức Tim Phổi tiêu chuẩn vàng trong phòng thí nghiệm (Ergospirometry / CPET), đo lường trực tiếp mức hấp thụ oxy tối đa (VO2 Max) và lượng khí CO₂ thở ra qua từng nhịp thở trên máy chạy bộ.</strong> <a href="https://commons.wikimedia.org/wiki/File:Ergospirometry_laboratory.jpg" target="_blank" rel="noopener">Link sơ đồ y khoa gốc (Wikimedia Commons) ↗</a></figcaption>
 </figure>
 
 ---
@@ -113,8 +113,8 @@ When you open the **Cardio Fitness Score** on **Fitbit**, **Apple Health**, **Ou
 Clinically, **VO₂ Max** (*Maximal Oxygen Uptake*) is the maximum volume of oxygen your body can inhale through the lungs, pump into the bloodstream via the left ventricle, and extract inside your skeletal muscle mitochondria during all-out aerobic exertion. In 2016, the **American Heart Association (AHA)** published an official scientific statement declaring cardiorespiratory fitness (`VO₂ Max`) a **clinical vital sign**—just as essential to check at every medical visit as blood pressure or cholesterol.
 
 <figure class="article-inline-diagram">
- <img src="images/LM_HW_02_figure.jpg" alt="Clinical Ergospirometry Laboratory VO2 Max Testing" loading="lazy">
- <figcaption>📊 <strong>Gold-Standard Ergospirometry (CPET):</strong> How laboratory metabolic carts measure breath-by-breath oxygen consumption (VO₂ Max)—and how modern GPS + optical PPG smartwatches replicate this assessment within 92%–95% accuracy during outdoor walks and runs. <a href="https://commons.wikimedia.org/wiki/File:Ergospirometry_laboratory.jpg" target="_blank" rel="noopener">Original Image Source: Wikimedia Commons ↗</a></figcaption>
+ <img src="images/LM_HW_02_figure.jpg" alt="Gold-standard clinical Ergospirometry (Cardiopulmonary Exercise Testing — CPET) measuring maximal oxygen uptake (VO2 Max) and carbon dioxide expiration breath-by-breath during graded treadmill exertion." loading="lazy">
+ <figcaption>📊 <strong>Gold-standard clinical Ergospirometry (Cardiopulmonary Exercise Testing — CPET) measuring maximal oxygen uptake (VO2 Max) and carbon dioxide expiration breath-by-breath during graded treadmill exertion.</strong> <a href="https://commons.wikimedia.org/wiki/File:Ergospirometry_laboratory.jpg" target="_blank" rel="noopener">Original Image Source: Wikimedia Commons ↗</a></figcaption>
 </figure>
 
 ---

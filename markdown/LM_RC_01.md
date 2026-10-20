@@ -28,8 +28,8 @@ Nghịch lý thú vị là trong khi bạn muốn có Nhịp tim nghỉ (RHR) **
 - **HRV Cao (Nhịp đập linh hoạt, biến thiên lớn):** Cho thấy **Hệ thần kinh Phó giao cảm ("Nghỉ ngơi và Tiêu hóa")** đang hoạt động mạnh mẽ thông qua **Dây thần kinh Phế vị (Vagus Nerve)**, linh hoạt điều chỉnh nhịp tim theo từng hơi thở và báo hiệu cơ thể đã phục hồi hoàn toàn, sẵn sàng thích nghi với thử thách mới.
 
 <figure class="article-inline-diagram">
- <img src="images/LM_RC_01_figure.png" alt="Sóng Điện tâm đồ ECG minh họa khoảng cách R-R giữa các nhịp tim" loading="lazy">
- <figcaption>📊 <strong>Đo Lường Khoảng Cách R-R Giữa Từng Nhịp Đập:</strong> HRV không phải là số nhịp tim mỗi phút (bpm)—đó là độ biến thiên tính bằng mili-giây giữa các đỉnh sóng R liên tiếp (`R-R intervals`) trên điện tâm đồ hoặc sóng mạch quang học, phản ánh trực tiếp hoạt động điều hòa của Dây thần kinh Phế vị. <a href="https://commons.wikimedia.org/wiki/File:ECG-RRinterval.svg" target="_blank" rel="noopener">Nguồn Ảnh Gốc: Wikimedia Commons ↗</a></figcaption>
+ <img src="images/LM_RC_01_figure.png" alt="Sóng Điện tâm đồ (ECG) lâm sàng minh họa các đỉnh sóng R liên tiếp và khoảng cách giữa hai nhịp đập R-R (tính bằng mili-giây)—cơ sở dữ liệu để thiết bị đeo tính toán chỉ số Biến thiên nhịp tim RMSSD." loading="lazy">
+ <figcaption>📊 <strong>Sóng Điện tâm đồ (ECG) lâm sàng minh họa các đỉnh sóng R liên tiếp và khoảng cách giữa hai nhịp đập R-R (tính bằng mili-giây)—cơ sở dữ liệu để thiết bị đeo tính toán chỉ số Biến thiên nhịp tim RMSSD.</strong> <a href="https://commons.wikimedia.org/wiki/File:ECG-RRinterval.svg" target="_blank" rel="noopener">Link sơ đồ y khoa gốc (Wikimedia Commons) ↗</a></figcaption>
 </figure>
 
 ---
@@ -115,8 +115,8 @@ Paradoxically, while you want a **low** Resting Heart Rate, you want a **high** 
 - **High HRV (Flexible, variable beats):** Means your **Parasympathetic Nervous System ("Rest-and-Digest")** is thriving via the **Vagus Nerve**, dynamically adjusting your heart rate with every breath and signaling that your body is recovered and adaptable.
 
 <figure class="article-inline-diagram">
- <img src="images/LM_RC_01_figure.png" alt="Clinical ECG Waveform Showing R-R Intervals Between Heartbeats" loading="lazy">
- <figcaption>📊 <strong>Measuring Beat-to-Beat R-R Intervals:</strong> HRV is not your heart rate in bpm—it is the millisecond variation between consecutive R-wave peaks (`R-R intervals`) on an ECG or optical pulse wave, reflecting real-time Vagus Nerve regulation. <a href="https://commons.wikimedia.org/wiki/File:ECG-RRinterval.svg" target="_blank" rel="noopener">Original Image Source: Wikimedia Commons ↗</a></figcaption>
+ <img src="images/LM_RC_01_figure.png" alt="Clinical Electrocardiogram (ECG) waveform illustrating consecutive R-wave peaks and the beat-to-beat R-R intervals (measured in milliseconds) used by wearables to calculate RMSSD Heart Rate Variability." loading="lazy">
+ <figcaption>📊 <strong>Clinical Electrocardiogram (ECG) waveform illustrating consecutive R-wave peaks and the beat-to-beat R-R intervals (measured in milliseconds) used by wearables to calculate RMSSD Heart Rate Variability.</strong> <a href="https://commons.wikimedia.org/wiki/File:ECG-RRinterval.svg" target="_blank" rel="noopener">Original Image Source: Wikimedia Commons ↗</a></figcaption>
 </figure>
 
 ---

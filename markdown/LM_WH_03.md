@@ -26,8 +26,8 @@
 2. **Hiệu Ứng Sinh Nhiệt Ở Pha Hoàng Thể (Do Progesterone):** Trong vòng 24 giờ sau khi trứng trưởng thành phóng thích, vỏ nang trứng vỡ biến đổi thành **Hoàng thể (Corpus Luteum)** và bơm lượng lớn **Progesterone** vào máu. Progesterone tác động trực tiếp lên các nơ-ron nhạy cảm nhiệt tại vùng dưới đồi, đẩy "nhiệt kế trung tâm" của cơ thể tăng vọt thêm **+0.3°C đến +0.5°C (+0.5°F đến +0.9°F)** và duy trì suốt 11 đến 14 ngày tiếp theo.
 
 <figure class="article-inline-diagram">
- <img src="images/LM_WH_03_figure.png" alt="Đường cong Nhiệt độ cơ bản (BBT) hai pha đồng bộ với đỉnh LH, Estradiol, Progesterone và thời điểm rụng trứng" loading="lazy">
- <figcaption>📊 <strong>Dấu Ấn Nhiệt Độ Hai Pha Của Sự Rụng Trứng:</strong> Hãy chú ý cách Nhiệt độ cơ bản (BBT) hạ nhẹ ngay sát đỉnh Estradiol/LH, sau đó tăng vọt +0.3°C đến +0.5°C ngay sau khi rụng trứng khi Hoàng thể tiết ra Progesterone. <a href="https://commons.wikimedia.org/wiki/File:Menstrual_cycle.svg" target="_blank" rel="noopener noreferrer">Original Image Source: Wikimedia Commons ↗</a></figcaption>
+ <img src="images/LM_WH_03_figure.png" alt="Biểu đồ lâm sàng chu kỳ kinh nguyệt làm nổi bật đường cong Nhiệt độ cơ bản (BBT) hai pha: nền nhiệt thấp ổn định dưới tác động của Estradiol ở pha Nang trứng, tiếp nối bởi cao nguyên nhiệt độ tăng +0.3°C đến +0.5°C do Progesterone thúc đẩy suốt pha Hoàng thể." loading="lazy">
+ <figcaption>📊 <strong>Biểu đồ lâm sàng chu kỳ kinh nguyệt làm nổi bật đường cong Nhiệt độ cơ bản (BBT) hai pha: nền nhiệt thấp ổn định dưới tác động của Estradiol ở pha Nang trứng, tiếp nối bởi cao nguyên nhiệt độ tăng +0.3°C đến +0.5°C do Progesterone thúc đẩy suốt pha Hoàng thể.</strong> <a href="https://commons.wikimedia.org/wiki/File:Menstrual_cycle.svg" target="_blank" rel="noopener">Link sơ đồ y khoa gốc (Wikimedia Commons) ↗</a></figcaption>
 </figure>
 
 ---
@@ -105,8 +105,8 @@ What drives this monthly temperature switch? A direct tug-of-war between your tw
 2. **The Luteal Thermogenic Surge (Progesterone):** Within 24 hours after a mature egg is released at ovulation, the ruptured follicle transforms into the **corpus luteum** and floods the bloodstream with **progesterone**. Progesterone stimulates warmth-sensitive neurons and inhibits cold-sensitive neurons in the hypothalamus, shifting your internal thermostat upward by **+0.3°C to +0.5°C (+0.5°F to +0.9°F)** for the next 11 to 14 days.
 
 <figure class="article-inline-diagram">
- <img src="images/LM_WH_03_figure.png" alt="Biphasic Basal Body Temperature curve synchronized with LH surge, estradiol, progesterone, and ovulation" loading="lazy">
- <figcaption>📊 <strong>The Biphasic Thermal Signature of Ovulation:</strong> Notice how Basal Body Temperature dips slightly around peak estradiol/LH surge, then climbs by +0.3°C to +0.5°C immediately after ovulation as progesterone rises from the corpus luteum. <a href="https://commons.wikimedia.org/wiki/File:Menstrual_cycle.svg" target="_blank" rel="noopener noreferrer">Original Image Source: Wikimedia Commons ↗</a></figcaption>
+ <img src="images/LM_WH_03_figure.png" alt="Clinical diagram of the menstrual cycle highlighting the biphasic Basal Body Temperature (BBT) curve: cooler estradiol-dominated temperatures in the follicular phase followed by the progesterone-driven +0.3°C to +0.5°C thermal plateau across the luteal phase." loading="lazy">
+ <figcaption>📊 <strong>Clinical diagram of the menstrual cycle highlighting the biphasic Basal Body Temperature (BBT) curve: cooler estradiol-dominated temperatures in the follicular phase followed by the progesterone-driven +0.3°C to +0.5°C thermal plateau across the luteal phase.</strong> <a href="https://commons.wikimedia.org/wiki/File:Menstrual_cycle.svg" target="_blank" rel="noopener">Original Image Source: Wikimedia Commons ↗</a></figcaption>
 </figure>
 
 ---

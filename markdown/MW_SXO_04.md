@@ -27,7 +27,7 @@ Các nghiên cứu dịch tễ học tình dục quy mô lớn của **Viện Ki
 
 <figure class="article-inline-diagram">
  <img src="images/MW_SXO_04_figure.png" alt="Mô hình hai cơ chế kiểm soát (Dual Control Model): Sự cân bằng tương hỗ giữa Hệ Kích thích tình dục (chân ga) và Hệ Ức chế tình dục (chân phanh)." loading="lazy">
- <figcaption>📊 <strong>Sơ đồ y khoa:</strong> Mô hình hai cơ chế kiểm soát (Dual Control Model): Sự cân bằng tương hỗ giữa Hệ Kích thích tình dục (chân ga) và Hệ Ức chế tình dục (chân phanh). <a href="https://commons.wikimedia.org/wiki/File:Dual_control_model_of_sexual_response.svg" target="_blank" rel="noopener">Nguồn sơ đồ: Wikimedia Commons ↗</a></figcaption>
+ <figcaption>📊 <strong>Mô hình hai cơ chế kiểm soát (Dual Control Model): Sự cân bằng tương hỗ giữa Hệ Kích thích tình dục (chân ga) và Hệ Ức chế tình dục (chân phanh).</strong> <a href="https://commons.wikimedia.org/wiki/File:Dual_control_model_of_sexual_response.svg" target="_blank" rel="noopener">Link sơ đồ y khoa gốc (Wikimedia Commons) ↗</a></figcaption>
 </figure>
 
 ---
@@ -95,7 +95,7 @@ Epidemiological research from the **Kinsey Institute** proves:
 
 <figure class="article-inline-diagram">
  <img src="images/MW_SXO_04_figure.png" alt="Dual Control Model of sexual response: Balance between sexual excitation system (SES) and sexual inhibition system (SIS) determining individual arousal patterns." loading="lazy">
- <figcaption>📊 <strong>Scientific Figure:</strong> Dual Control Model of sexual response: Balance between sexual excitation system (SES) and sexual inhibition system (SIS) determining individual arousal patterns. <a href="https://commons.wikimedia.org/wiki/File:Dual_control_model_of_sexual_response.svg" target="_blank" rel="noopener">Diagram source: Wikimedia Commons ↗</a></figcaption>
+ <figcaption>📊 <strong>Dual Control Model of sexual response: Balance between sexual excitation system (SES) and sexual inhibition system (SIS) determining individual arousal patterns.</strong> <a href="https://commons.wikimedia.org/wiki/File:Dual_control_model_of_sexual_response.svg" target="_blank" rel="noopener">Original Image Source: Wikimedia Commons ↗</a></figcaption>
 </figure>
 
 ---

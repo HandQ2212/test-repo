@@ -26,7 +26,7 @@ Dữ liệu dịch tễ học từ **Nghiên cứu Lão hóa Nam giới Massachu
 
 <figure class="article-inline-diagram">
  <img src="images/MW_SXO_08_figure.png" alt="Hệ sinh sản nam giới qua các giai đoạn cuộc đời (OpenStax): Sự suy giảm testosterone tự nhiên và biến đổi tuyến tiền liệt theo tuổi tác cần thích ứng lối sống khoa học." loading="lazy">
- <figcaption>📊 <strong>Sơ đồ y khoa:</strong> Hệ sinh sản nam giới qua các giai đoạn cuộc đời (OpenStax): Sự suy giảm testosterone tự nhiên và biến đổi tuyến tiền liệt theo tuổi tác cần thích ứng lối sống khoa học. <a href="https://commons.wikimedia.org/wiki/File:Figure_28_01_01.jpg" target="_blank" rel="noopener">Nguồn sơ đồ: Wikimedia Commons ↗</a></figcaption>
+ <figcaption>📊 <strong>Hệ sinh sản nam giới qua các giai đoạn cuộc đời (OpenStax): Sự suy giảm testosterone tự nhiên và biến đổi tuyến tiền liệt theo tuổi tác cần thích ứng lối sống khoa học.</strong> <a href="https://commons.wikimedia.org/wiki/File:Figure_28_01_01.jpg" target="_blank" rel="noopener">Link sơ đồ y khoa gốc (Wikimedia Commons) ↗</a></figcaption>
 </figure>
 
 ---
@@ -88,7 +88,7 @@ Data from the **Massachusetts Male Aging Study (Feldman et al., MMAS)** on 1,709
 
 <figure class="article-inline-diagram">
  <img src="images/MW_SXO_08_figure.png" alt="The male reproductive system across lifespan (OpenStax): Normal age-related hormonal and prostate changes require proactive lifestyle adaptations." loading="lazy">
- <figcaption>📊 <strong>Scientific Figure:</strong> The male reproductive system across lifespan (OpenStax): Normal age-related hormonal and prostate changes require proactive lifestyle adaptations. <a href="https://commons.wikimedia.org/wiki/File:Figure_28_01_01.jpg" target="_blank" rel="noopener">Diagram source: Wikimedia Commons ↗</a></figcaption>
+ <figcaption>📊 <strong>The male reproductive system across lifespan (OpenStax): Normal age-related hormonal and prostate changes require proactive lifestyle adaptations.</strong> <a href="https://commons.wikimedia.org/wiki/File:Figure_28_01_01.jpg" target="_blank" rel="noopener">Original Image Source: Wikimedia Commons ↗</a></figcaption>
 </figure>
 
 ---

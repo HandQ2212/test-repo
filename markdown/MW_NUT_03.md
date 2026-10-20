@@ -25,7 +25,7 @@ Khuyến nghị dinh dưỡng tiêu chuẩn (**RDA - Recommended Dietary Allowan
 
 <figure class="article-inline-diagram">
  <img src="images/MW_NUT_03_figure.png" alt="Cấu trúc vi sợi cơ Sarcomere: Các axit amin thiết yếu (đặc biệt là Leucine) kích hoạt cơ chế tổng hợp protein cơ và tái tạo cầu nối actin-myosin." loading="lazy">
- <figcaption>📊 <strong>Sơ đồ y khoa:</strong> Cấu trúc vi sợi cơ Sarcomere: Các axit amin thiết yếu (đặc biệt là Leucine) kích hoạt cơ chế tổng hợp protein cơ và tái tạo cầu nối actin-myosin. <a href="https://commons.wikimedia.org/wiki/File:Sarcomere.svg" target="_blank" rel="noopener">Nguồn sơ đồ: Wikimedia Commons ↗</a></figcaption>
+ <figcaption>📊 <strong>Cấu trúc vi sợi cơ Sarcomere: Các axit amin thiết yếu (đặc biệt là Leucine) kích hoạt cơ chế tổng hợp protein cơ và tái tạo cầu nối actin-myosin.</strong> <a href="https://commons.wikimedia.org/wiki/File:Sarcomere.svg" target="_blank" rel="noopener">Link sơ đồ y khoa gốc (Wikimedia Commons) ↗</a></figcaption>
 </figure>
 
 ---
@@ -97,7 +97,7 @@ Standard nutritional guidelines (**RDA - Recommended Dietary Allowance**) prescr
 
 <figure class="article-inline-diagram">
  <img src="images/MW_NUT_03_figure.png" alt="Sarcomere functional diagram: Essential amino acids (particularly leucine) activate muscle protein synthesis and actin-myosin cross-bridge remodeling." loading="lazy">
- <figcaption>📊 <strong>Scientific Figure:</strong> Sarcomere functional diagram: Essential amino acids (particularly leucine) activate muscle protein synthesis and actin-myosin cross-bridge remodeling. <a href="https://commons.wikimedia.org/wiki/File:Sarcomere.svg" target="_blank" rel="noopener">Diagram source: Wikimedia Commons ↗</a></figcaption>
+ <figcaption>📊 <strong>Sarcomere functional diagram: Essential amino acids (particularly leucine) activate muscle protein synthesis and actin-myosin cross-bridge remodeling.</strong> <a href="https://commons.wikimedia.org/wiki/File:Sarcomere.svg" target="_blank" rel="noopener">Original Image Source: Wikimedia Commons ↗</a></figcaption>
 </figure>
 
 ---

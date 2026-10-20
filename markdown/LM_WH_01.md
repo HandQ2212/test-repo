@@ -24,8 +24,8 @@ Nếu bạn đeo **Oura Ring**, **WHOOP**, **Apple Watch** hoặc **Garmin** m�
 Sức khỏe thể chất của bạn không hề đi xuống—và cảm biến trên đồng hồ cũng không hề bị lỗi. Trong khi sinh lý học con người vận hành theo **Nhịp sinh học ngày đêm 24 giờ (Circadian Rhythm)**, cơ thể nữ giới còn được điều phối đồng thời bởi chiếc đồng hồ sinh học thứ hai: **Nhịp sinh học chu kỳ (Infradian Rhythm — kéo dài khoảng 24 đến 35 ngày)**. Chu kỳ kinh nguyệt không chỉ diễn ra ở cơ quan sinh sản; đó là một bản giao hưởng nội tiết – thần kinh toàn thân, trực tiếp điều chỉnh thân nhiệt, nhịp tim, chuyển hóa đường huyết, cấu trúc giấc ngủ và sự cân bằng của hệ thần kinh tự chủ.
 
 <figure class="article-inline-diagram">
- <img src="images/LM_WH_01_figure.png" alt="Sinh lý học toàn diện của 4 giai đoạn chu kỳ kinh nguyệt, đường cong hormone và sự dịch chuyển nhiệt độ cơ bản" loading="lazy">
- <figcaption>📊 <strong>Sự Đồng Bộ Nội Tiết &amp; Thân Nhiệt Qua Các Giai Đoạn:</strong> Cách hormone tuyến yên (FSH và LH) điều khiển quá trình tiết Estradiol và Progesterone tại buồng trứng, tạo nên bước nhảy nhiệt độ +0.3°C đến +0.5°C sau rụng trứng và chu kỳ tái tạo niêm mạc tử cung. <a href="https://commons.wikimedia.org/wiki/File:MenstrualCycle2.png" target="_blank" rel="noopener noreferrer">Original Image Source: Wikimedia Commons ↗</a></figcaption>
+ <img src="images/LM_WH_01_figure.png" alt="Biểu đồ đồng bộ chu kỳ kinh nguyệt ở người: thể hiện sự phối hợp giữa hormone tuyến yên (LH, FSH), sự phát triển nang trứng và hoàng thể tại buồng trứng, nồng độ Estrogen và Progesterone, sự dịch chuyển nhiệt độ cơ bản (BBT) và chu kỳ tái tạo niêm mạc tử cung." loading="lazy">
+ <figcaption>📊 <strong>Biểu đồ đồng bộ chu kỳ kinh nguyệt ở người: thể hiện sự phối hợp giữa hormone tuyến yên (LH, FSH), sự phát triển nang trứng và hoàng thể tại buồng trứng, nồng độ Estrogen và Progesterone, sự dịch chuyển nhiệt độ cơ bản (BBT) và chu kỳ tái tạo niêm mạc tử cung.</strong> <a href="https://commons.wikimedia.org/wiki/File:MenstrualCycle2.png" target="_blank" rel="noopener">Link sơ đồ y khoa gốc (Wikimedia Commons) ↗</a></figcaption>
 </figure>
 
 ---
@@ -108,8 +108,8 @@ If you wear an **Oura Ring**, **WHOOP**, **Apple Watch**, or **Garmin** every ni
 Nothing is wrong with your fitness—and nothing is broken in your smartwatch sensors. While human physiology is governed by the well-known 24-hour **Circadian Rhythm**, female physiology is simultaneously orchestrated by a second biological clock: the **Infradian Rhythm** (from the Latin *infra*, meaning longer than a day). Lasting roughly **24 to 35 days** in healthy ovulatory adults, the menstrual cycle is a whole-body neuro-endocrine rhythm that influences thermoregulation, cardiovascular strain, glucose metabolism, sleep architecture, and autonomic nervous system balance.
 
 <figure class="article-inline-diagram">
- <img src="images/LM_WH_01_figure.png" alt="Comprehensive physiology of the four menstrual cycle phases, hormone curves, and basal body temperature shift" loading="lazy">
- <figcaption>📊 <strong>Endocrine &amp; Thermal Synchronization Across the Cycle:</strong> How pituitary hormones (FSH and LH) drive ovarian estradiol and progesterone secretion, triggering the characteristic post-ovulatory +0.3°C to +0.5°C temperature shift and endometrial remodeling. <a href="https://commons.wikimedia.org/wiki/File:MenstrualCycle2.png" target="_blank" rel="noopener noreferrer">Original Image Source: Wikimedia Commons ↗</a></figcaption>
+ <img src="images/LM_WH_01_figure.png" alt="Synchronized view of the human menstrual cycle showing pituitary gonadotropins (LH and FSH), ovarian follicular maturation and corpus luteum formation, ovarian hormones (estradiol and progesterone), basal body temperature shift, and endometrial lining remodel." loading="lazy">
+ <figcaption>📊 <strong>Synchronized view of the human menstrual cycle showing pituitary gonadotropins (LH and FSH), ovarian follicular maturation and corpus luteum formation, ovarian hormones (estradiol and progesterone), basal body temperature shift, and endometrial lining remodel.</strong> <a href="https://commons.wikimedia.org/wiki/File:MenstrualCycle2.png" target="_blank" rel="noopener">Original Image Source: Wikimedia Commons ↗</a></figcaption>
 </figure>
 
 ---

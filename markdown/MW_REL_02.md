@@ -27,7 +27,7 @@ Hậu quả của sự im lặng là hiện tượng **"Đoán Ý Trong Bóng T�
 
 <figure class="article-inline-diagram">
  <img src="images/MW_REL_02_figure.png" alt="Cấu trúc thấu cảm cảm xúc và nhận thức: Không gian an toàn tâm lý giúp các cặp đôi cởi mở chia sẻ mong muốn và ranh giới mà không kích hoạt phản xạ phòng thủ thần kinh." loading="lazy">
- <figcaption>📊 <strong>Sơ đồ y khoa:</strong> Cấu trúc thấu cảm cảm xúc và nhận thức: Không gian an toàn tâm lý giúp các cặp đôi cởi mở chia sẻ mong muốn và ranh giới mà không kích hoạt phản xạ phòng thủ thần kinh. <a href="https://commons.wikimedia.org/wiki/File:Empathy.png" target="_blank" rel="noopener">Nguồn sơ đồ: Wikimedia Commons ↗</a></figcaption>
+ <figcaption>📊 <strong>Cấu trúc thấu cảm cảm xúc và nhận thức: Không gian an toàn tâm lý giúp các cặp đôi cởi mở chia sẻ mong muốn và ranh giới mà không kích hoạt phản xạ phòng thủ thần kinh.</strong> <a href="https://commons.wikimedia.org/wiki/File:Empathy.png" target="_blank" rel="noopener">Link sơ đồ y khoa gốc (Wikimedia Commons) ↗</a></figcaption>
 </figure>
 
 ---
@@ -89,7 +89,7 @@ The tragic byproduct of silence is **"Erotic Mind Reading"**: Partners guess wha
 
 <figure class="article-inline-diagram">
  <img src="images/MW_REL_02_figure.png" alt="Neural architecture of empathy: Emotional attunement allows partners to openly discuss intimate boundaries without activating defensive threat pathways." loading="lazy">
- <figcaption>📊 <strong>Scientific Figure:</strong> Neural architecture of empathy: Emotional attunement allows partners to openly discuss intimate boundaries without activating defensive threat pathways. <a href="https://commons.wikimedia.org/wiki/File:Empathy.png" target="_blank" rel="noopener">Diagram source: Wikimedia Commons ↗</a></figcaption>
+ <figcaption>📊 <strong>Neural architecture of empathy: Emotional attunement allows partners to openly discuss intimate boundaries without activating defensive threat pathways.</strong> <a href="https://commons.wikimedia.org/wiki/File:Empathy.png" target="_blank" rel="noopener">Original Image Source: Wikimedia Commons ↗</a></figcaption>
 </figure>
 
 ---

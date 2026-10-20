@@ -31,7 +31,7 @@ Giải thích sinh học: Các thụ thể Androgen (AR) tại vùng dưới đ�
 
 <figure class="article-inline-diagram">
  <img src="images/MW_SXO_03_figure.png" alt="Cấu trúc không gian thụ thể Androgen (AR): Testosterone tự do và DHT liên kết vùng gắn ligand để điều hòa phiên mã mạng lưới thần kinh chi phối ham muốn." loading="lazy">
- <figcaption>📊 <strong>Sơ đồ y khoa:</strong> Cấu trúc không gian thụ thể Androgen (AR): Testosterone tự do và DHT liên kết vùng gắn ligand để điều hòa phiên mã mạng lưới thần kinh chi phối ham muốn. <a href="https://commons.wikimedia.org/wiki/File:Androgen_receptor.png" target="_blank" rel="noopener">Nguồn sơ đồ: Wikimedia Commons ↗</a></figcaption>
+ <figcaption>📊 <strong>Cấu trúc không gian thụ thể Androgen (AR): Testosterone tự do và DHT liên kết vùng gắn ligand để điều hòa phiên mã mạng lưới thần kinh chi phối ham muốn.</strong> <a href="https://commons.wikimedia.org/wiki/File:Androgen_receptor.png" target="_blank" rel="noopener">Link sơ đồ y khoa gốc (Wikimedia Commons) ↗</a></figcaption>
 </figure>
 
 ---
@@ -92,7 +92,7 @@ Central androgen receptors (AR) in the hypothalamus reach near-total occupancy a
 
 <figure class="article-inline-diagram">
  <img src="images/MW_SXO_03_figure.png" alt="Androgen receptor (AR) molecular conformation: Androgens bind the ligand-binding domain to modulate transcription of neural target circuits." loading="lazy">
- <figcaption>📊 <strong>Scientific Figure:</strong> Androgen receptor (AR) molecular conformation: Androgens bind the ligand-binding domain to modulate transcription of neural target circuits. <a href="https://commons.wikimedia.org/wiki/File:Androgen_receptor.png" target="_blank" rel="noopener">Diagram source: Wikimedia Commons ↗</a></figcaption>
+ <figcaption>📊 <strong>Androgen receptor (AR) molecular conformation: Androgens bind the ligand-binding domain to modulate transcription of neural target circuits.</strong> <a href="https://commons.wikimedia.org/wiki/File:Androgen_receptor.png" target="_blank" rel="noopener">Original Image Source: Wikimedia Commons ↗</a></figcaption>
 </figure>
 
 ---

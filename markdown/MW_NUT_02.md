@@ -26,7 +26,7 @@
 
 <figure class="article-inline-diagram">
  <img src="images/MW_NUT_02_figure.png" alt="Diễn tiến xơ vữa động mạch và rối loạn chức năng nội mô: Polyphenol Địa Trung Hải bảo vệ lớp lót nội mô, ngăn ngừa xơ cứng mạch máu hang sớm." loading="lazy">
- <figcaption>📊 <strong>Sơ đồ y khoa:</strong> Diễn tiến xơ vữa động mạch và rối loạn chức năng nội mô: Polyphenol Địa Trung Hải bảo vệ lớp lót nội mô, ngăn ngừa xơ cứng mạch máu hang sớm. <a href="https://commons.wikimedia.org/wiki/File:Atherosclerosis_timeline_-_endothelial_dysfunction.svg" target="_blank" rel="noopener">Nguồn sơ đồ: Wikimedia Commons ↗</a></figcaption>
+ <figcaption>📊 <strong>Diễn tiến xơ vữa động mạch và rối loạn chức năng nội mô: Polyphenol Địa Trung Hải bảo vệ lớp lót nội mô, ngăn ngừa xơ cứng mạch máu hang sớm.</strong> <a href="https://commons.wikimedia.org/wiki/File:Atherosclerosis_timeline_-_endothelial_dysfunction.svg" target="_blank" rel="noopener">Link sơ đồ y khoa gốc (Wikimedia Commons) ↗</a></figcaption>
 </figure>
 
 ---
@@ -86,7 +86,7 @@ To achieve rigid erection, the male body must coordinate a delicate, high-pressu
 
 <figure class="article-inline-diagram">
  <img src="images/MW_NUT_02_figure.png" alt="Timeline of atherosclerosis and endothelial dysfunction: Mediterranean polyphenols protect vascular endothelial integrity, preventing early arterial stiffening." loading="lazy">
- <figcaption>📊 <strong>Scientific Figure:</strong> Timeline of atherosclerosis and endothelial dysfunction: Mediterranean polyphenols protect vascular endothelial integrity, preventing early arterial stiffening. <a href="https://commons.wikimedia.org/wiki/File:Atherosclerosis_timeline_-_endothelial_dysfunction.svg" target="_blank" rel="noopener">Diagram source: Wikimedia Commons ↗</a></figcaption>
+ <figcaption>📊 <strong>Timeline of atherosclerosis and endothelial dysfunction: Mediterranean polyphenols protect vascular endothelial integrity, preventing early arterial stiffening.</strong> <a href="https://commons.wikimedia.org/wiki/File:Atherosclerosis_timeline_-_endothelial_dysfunction.svg" target="_blank" rel="noopener">Original Image Source: Wikimedia Commons ↗</a></figcaption>
 </figure>
 
 ---

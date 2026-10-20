@@ -29,7 +29,7 @@ Không có Dopamine, testosterone cao đến mấy cũng không thể sinh ra ha
 
 <figure class="article-inline-diagram">
  <img src="images/MW_SXO_01_figure.png" alt="Các con đường dẫn truyền dopamine trong não bộ: Trục trung não - viền từ VTA đến nhân accumbens chỉ huy động lực tìm kiếm phần thưởng và ham muốn tình dục." loading="lazy">
- <figcaption>📊 <strong>Sơ đồ y khoa:</strong> Các con đường dẫn truyền dopamine trong não bộ: Trục trung não - viền từ VTA đến nhân accumbens chỉ huy động lực tìm kiếm phần thưởng và ham muốn tình dục. <a href="https://commons.wikimedia.org/wiki/File:Dopaminergic_pathways.svg" target="_blank" rel="noopener">Nguồn sơ đồ: Wikimedia Commons ↗</a></figcaption>
+ <figcaption>📊 <strong>Các con đường dẫn truyền dopamine trong não bộ: Trục trung não - viền từ VTA đến nhân accumbens chỉ huy động lực tìm kiếm phần thưởng và ham muốn tình dục.</strong> <a href="https://commons.wikimedia.org/wiki/File:Dopaminergic_pathways.svg" target="_blank" rel="noopener">Link sơ đồ y khoa gốc (Wikimedia Commons) ↗</a></figcaption>
 </figure>
 
 ---
@@ -91,7 +91,7 @@ Without dopamine, even supranormal testosterone cannot ignite desire!
 
 <figure class="article-inline-diagram">
  <img src="images/MW_SXO_01_figure.png" alt="Central dopaminergic pathways: Mesolimbic projection from the ventral tegmental area to the nucleus accumbens drives sexual motivation and anticipatory arousal." loading="lazy">
- <figcaption>📊 <strong>Scientific Figure:</strong> Central dopaminergic pathways: Mesolimbic projection from the ventral tegmental area to the nucleus accumbens drives sexual motivation and anticipatory arousal. <a href="https://commons.wikimedia.org/wiki/File:Dopaminergic_pathways.svg" target="_blank" rel="noopener">Diagram source: Wikimedia Commons ↗</a></figcaption>
+ <figcaption>📊 <strong>Central dopaminergic pathways: Mesolimbic projection from the ventral tegmental area to the nucleus accumbens drives sexual motivation and anticipatory arousal.</strong> <a href="https://commons.wikimedia.org/wiki/File:Dopaminergic_pathways.svg" target="_blank" rel="noopener">Original Image Source: Wikimedia Commons ↗</a></figcaption>
 </figure>
 
 ---

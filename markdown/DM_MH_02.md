@@ -28,8 +28,8 @@ Dưới đây là chuỗi phản ứng dây chuyền 3 bước về mặt cơ si
 3. **Hội Chứng Chèn Ép Ống Alcock (Bẫy Thần Kinh & Động Mạch Thẹn):** Toàn bộ lượng máu động mạch làm đầy dương vật đều phải đi qua **Động mạch thẹn trong (Internal Pudendal Artery)** song hành cùng **Dây thần kinh thẹn (Pudendal Nerve)** xuyên qua một đường hầm cân cơ hẹp nằm sát cơ bịt trong gọi là **Ống Alcock (Pudendal Canal)**. Áp lực ngồi đè trực tiếp lên đáy chậu cộng hưởng với cơ bịt trong căng cứng và nhóm cơ khép đùi co rút sẽ bóp nghẹt ống Alcock—làm giảm **Vận tốc dòng chảy tâm thu đỉnh (Peak Systolic Velocity — PSV)** đổ vào động mạch xoắn dương vật và làm tê giảm độ nhạy cảm giác sinh dục.
 
 <figure class="article-inline-diagram">
- <img src="images/DM_MH_02_figure.png" alt="Giải phẫu cơ mặt trước khớp hông và đai chậu Iliopsoas và Adductors" loading="lazy">
- <figcaption>📊 <strong>Ngã Tư Cân Cơ Vùng Hông – Chậu:</strong> Mối tương quan giải phẫu giữa phức hợp cơ Thắt lưng – Chậu (Psoas Major và Iliacus), cơ Lược (Pectineus) và nhóm cơ Khép đùi (Adductors) bắc qua eo chậu và mặt trước khớp hông. <a href="https://commons.wikimedia.org/wiki/File:Anterior_Hip_Muscles_2.PNG" target="_blank" rel="noopener noreferrer">Original Image Source: Wikimedia Commons ↗</a></figcaption>
+ <img src="images/DM_MH_02_figure.png" alt="Sơ đồ giải phẫu lâm sàng các nhóm cơ mặt trước khớp hông và đai chậu sâu (Wikimedia Commons), minh họa phức hợp cơ Thắt lưng – Chậu (Iliopsoas: Psoas Major và Iliacus), cơ Lược (Pectineus) và nhóm cơ Khép đùi (Adductors) chi phối độ nghiêng khung chậu và dòng máu chảy qua eo chậu." loading="lazy">
+ <figcaption>📊 <strong>Sơ đồ giải phẫu lâm sàng các nhóm cơ mặt trước khớp hông và đai chậu sâu (Wikimedia Commons), minh họa phức hợp cơ Thắt lưng – Chậu (Iliopsoas: Psoas Major và Iliacus), cơ Lược (Pectineus) và nhóm cơ Khép đùi (Adductors) chi phối độ nghiêng khung chậu và dòng máu chảy qua eo chậu.</strong> <a href="https://commons.wikimedia.org/wiki/File:Anterior_Hip_Muscles_2.PNG" target="_blank" rel="noopener">Link sơ đồ y khoa gốc (Wikimedia Commons) ↗</a></figcaption>
 </figure>
 
 ---
@@ -105,8 +105,8 @@ Here is the three-part biomechanical chain reaction that occurs when your hips r
 3. **Alcock's Canal Compression (Pudendal Entrapment):** All arterial blood that fills the penis travels through the **Internal Pudendal Artery** alongside the **Pudendal Nerve** inside a narrow fascial tunnel along the obturator internus muscle called **Alcock's Canal (Pudendal Canal)**. Chronic sitting pressure combined with a tight obturator internus and shortened adductors squeezes Alcock's canal—reducing **Peak Systolic Velocity (PSV)** into the penile helicine arteries and dulling genital nerve sensitivity.
 
 <figure class="article-inline-diagram">
- <img src="images/DM_MH_02_figure.png" alt="Anterior Hip and Pelvic Musculature Iliopsoas and Adductors" loading="lazy">
- <figcaption>📊 <strong>The Hip-Pelvic Myofascial Crossroads:</strong> Anatomical relationship between the Iliopsoas (Psoas Major and Iliacus), Pectineus, and Adductor muscles spanning the pelvic brim and anterior hip joint. <a href="https://commons.wikimedia.org/wiki/File:Anterior_Hip_Muscles_2.PNG" target="_blank" rel="noopener noreferrer">Original Image Source: Wikimedia Commons ↗</a></figcaption>
+ <img src="images/DM_MH_02_figure.png" alt="Clinical anatomical diagram of the anterior hip and deep pelvic girdle musculature (Wikimedia Commons), illustrating the Iliopsoas complex (Psoas Major and Iliacus), Pectineus, and Adductor group that govern pelvic tilt and vascular inflow across the pelvic brim." loading="lazy">
+ <figcaption>📊 <strong>Clinical anatomical diagram of the anterior hip and deep pelvic girdle musculature (Wikimedia Commons), illustrating the Iliopsoas complex (Psoas Major and Iliacus), Pectineus, and Adductor group that govern pelvic tilt and vascular inflow across the pelvic brim.</strong> <a href="https://commons.wikimedia.org/wiki/File:Anterior_Hip_Muscles_2.PNG" target="_blank" rel="noopener">Original Image Source: Wikimedia Commons ↗</a></figcaption>
 </figure>
 
 ---

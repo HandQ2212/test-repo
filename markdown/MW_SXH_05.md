@@ -27,7 +27,7 @@ Trong một đêm ngủ bình thường kéo dài 7–8 tiếng:
 
 <figure class="article-inline-diagram">
  <img src="images/MW_SXH_05_figure.png" alt="Giải phẫu cắt ngang dương vật (OpenStax): Sự cương tụ máu giàu oxy tại hai thể hang trong các pha ngủ REM giúp duy trì độ đàn hồi và nuôi dưỡng vi mạch hang (hiện tượng NPT)." loading="lazy">
- <figcaption>📊 <strong>Sơ đồ y khoa:</strong> Giải phẫu cắt ngang dương vật (OpenStax): Sự cương tụ máu giàu oxy tại hai thể hang trong các pha ngủ REM giúp duy trì độ đàn hồi và nuôi dưỡng vi mạch hang (hiện tượng NPT). <a href="https://commons.wikimedia.org/wiki/File:Figure_28_01_06.jpg" target="_blank" rel="noopener">Nguồn sơ đồ: Wikimedia Commons ↗</a></figcaption>
+ <figcaption>📊 <strong>Giải phẫu cắt ngang dương vật (OpenStax): Sự cương tụ máu giàu oxy tại hai thể hang trong các pha ngủ REM giúp duy trì độ đàn hồi và nuôi dưỡng vi mạch hang (hiện tượng NPT).</strong> <a href="https://commons.wikimedia.org/wiki/File:Figure_28_01_06.jpg" target="_blank" rel="noopener">Link sơ đồ y khoa gốc (Wikimedia Commons) ↗</a></figcaption>
 </figure>
 
 ---
@@ -96,7 +96,7 @@ During an ordinary 7–8 hour night of sleep:
 
 <figure class="article-inline-diagram">
  <img src="images/MW_SXH_05_figure.png" alt="Cross-sectional anatomy of the human penis (OpenStax): Corpora cavernosa engorgement during nocturnal REM sleep delivers oxygenated blood to maintain penile tissue elasticity." loading="lazy">
- <figcaption>📊 <strong>Scientific Figure:</strong> Cross-sectional anatomy of the human penis (OpenStax): Corpora cavernosa engorgement during nocturnal REM sleep delivers oxygenated blood to maintain penile tissue elasticity. <a href="https://commons.wikimedia.org/wiki/File:Figure_28_01_06.jpg" target="_blank" rel="noopener">Diagram source: Wikimedia Commons ↗</a></figcaption>
+ <figcaption>📊 <strong>Cross-sectional anatomy of the human penis (OpenStax): Corpora cavernosa engorgement during nocturnal REM sleep delivers oxygenated blood to maintain penile tissue elasticity.</strong> <a href="https://commons.wikimedia.org/wiki/File:Figure_28_01_06.jpg" target="_blank" rel="noopener">Original Image Source: Wikimedia Commons ↗</a></figcaption>
 </figure>
 
 ---

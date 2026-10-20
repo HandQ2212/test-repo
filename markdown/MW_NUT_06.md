@@ -29,7 +29,7 @@ Tuy nhiên, có một tin vui tuyệt vời từ góc độ sinh học tế bào
 
 <figure class="article-inline-diagram">
  <img src="images/MW_NUT_06_figure.png" alt="Sơ đồ giải phẫu hoàn chỉnh tinh trùng người: Các vi chất chống oxy hóa bảo vệ màng lipid cực đầu và DNA ty thể khỏi tổn thương gốc tự do." loading="lazy">
- <figcaption>📊 <strong>Sơ đồ y khoa:</strong> Sơ đồ giải phẫu hoàn chỉnh tinh trùng người: Các vi chất chống oxy hóa bảo vệ màng lipid cực đầu và DNA ty thể khỏi tổn thương gốc tự do. <a href="https://commons.wikimedia.org/wiki/File:Complete_diagram_of_a_human_spermatozoa_en.svg" target="_blank" rel="noopener">Nguồn sơ đồ: Wikimedia Commons ↗</a></figcaption>
+ <figcaption>📊 <strong>Sơ đồ giải phẫu hoàn chỉnh tinh trùng người: Các vi chất chống oxy hóa bảo vệ màng lipid cực đầu và DNA ty thể khỏi tổn thương gốc tự do.</strong> <a href="https://commons.wikimedia.org/wiki/File:Complete_diagram_of_a_human_spermatozoa_en.svg" target="_blank" rel="noopener">Link sơ đồ y khoa gốc (Wikimedia Commons) ↗</a></figcaption>
 </figure>
 
 ---
@@ -95,7 +95,7 @@ This biological reality means: **Your nutrition, hydration, sleep, and lifestyle
 
 <figure class="article-inline-diagram">
  <img src="images/MW_NUT_06_figure.png" alt="Anatomical schematic of a human spermatozoon: Antioxidants and micronutrients safeguard sperm membrane lipids and mitochondrial DNA integrity." loading="lazy">
- <figcaption>📊 <strong>Scientific Figure:</strong> Anatomical schematic of a human spermatozoon: Antioxidants and micronutrients safeguard sperm membrane lipids and mitochondrial DNA integrity. <a href="https://commons.wikimedia.org/wiki/File:Complete_diagram_of_a_human_spermatozoa_en.svg" target="_blank" rel="noopener">Diagram source: Wikimedia Commons ↗</a></figcaption>
+ <figcaption>📊 <strong>Anatomical schematic of a human spermatozoon: Antioxidants and micronutrients safeguard sperm membrane lipids and mitochondrial DNA integrity.</strong> <a href="https://commons.wikimedia.org/wiki/File:Complete_diagram_of_a_human_spermatozoa_en.svg" target="_blank" rel="noopener">Original Image Source: Wikimedia Commons ↗</a></figcaption>
 </figure>
 
 ---

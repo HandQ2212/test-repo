@@ -24,8 +24,8 @@ Có tới **75% đến 80% phụ nữ trong độ tuổi sinh sản** trải qua
 Suốt nhiều thập kỷ, những triệu chứng tiền kinh nguyệt này thường bị xem nhẹ hoặc quy chụp là do "tâm lý nhạy cảm". Ngày nay, nội tiết học lâm sàng cùng kho dữ liệu sinh trắc học khổng lồ từ **Oura Ring**, **WHOOP** và **Clue** đã chứng minh rằng **Hội chứng Tiền kinh nguyệt (PMS)** và **Thống kinh nguyên phát (Đau bụng kinh)** được thúc đẩy bởi 3 chuỗi phản ứng sinh hóa hoàn toàn có thể đo lường được diễn ra từ **Ngày 21 của chu kỳ đến Ngày 2 của kỳ kinh mới**.
 
 <figure class="article-inline-diagram">
- <img src="images/DM_WH_03_figure.jpg" alt="Hình minh họa y khoa về cơ chế co thắt cơ tử cung và phản ứng viêm Prostaglandin nội mạc trong kỳ kinh nguyệt" loading="lazy">
- <figcaption>📊 <strong>Sinh Lý Bệnh Của Cơn Đau Bụng Kinh (Thống Kinh Nguyên Phát):</strong> Khi nồng độ Progesterone sụt giảm đột ngột vào cuối pha Hoàng thể, các tế bào nội mạc tử cung giải phóng chất gây viêm Prostaglandin F2-alpha (PGF2α), kích hoạt các đợt co thắt cơ trơn tử cung (Myometrium) dữ dội và gây thiếu máu cục bộ tạm thời. <a href="https://commons.wikimedia.org/wiki/File:Period_pain_menstrual_cramps_uterus.jpg" target="_blank" rel="noopener noreferrer">Original Image Source: Wikimedia Commons ↗</a></figcaption>
+ <img src="images/DM_WH_03_figure.jpg" alt="Hình minh họa y khoa về thống kinh nguyên phát (đau bụng kinh), thể hiện sự phóng thích Prostaglandin (PGF2α) từ lớp nội mạc kích hoạt co thắt quá mức cơ trơn tử cung (Myometrium) và gây thiếu máu cục bộ tạm thời tại các động mạch xoắn." loading="lazy">
+ <figcaption>📊 <strong>Hình minh họa y khoa về thống kinh nguyên phát (đau bụng kinh), thể hiện sự phóng thích Prostaglandin (PGF2α) từ lớp nội mạc kích hoạt co thắt quá mức cơ trơn tử cung (Myometrium) và gây thiếu máu cục bộ tạm thời tại các động mạch xoắn.</strong> <a href="https://commons.wikimedia.org/wiki/File:Period_pain_menstrual_cramps_uterus.jpg" target="_blank" rel="noopener">Link sơ đồ y khoa gốc (Wikimedia Commons) ↗</a></figcaption>
 </figure>
 
 ---
@@ -103,8 +103,8 @@ Up to **75% to 80% of menstruating women** experience physical or emotional symp
 For decades, these premenstrual symptoms were dismissed as mysterious or purely psychological. Today, clinical endocrinology and wearable biometric datasets from **Oura Ring**, **WHOOP**, and **Clue** reveal that **Premenstrual Syndrome (PMS)** and **Primary Dysmenorrhea (menstrual cramps)** are driven by three measurable physiological cascades occurring between **Cycle Day 21 and Cycle Day 2**.
 
 <figure class="article-inline-diagram">
- <img src="images/DM_WH_03_figure.jpg" alt="Medical illustration of uterine cramping and endometrial prostaglandin inflammation during menstruation" loading="lazy">
- <figcaption>📊 <strong>The Pathophysiology of Menstrual Cramps (Primary Dysmenorrhea):</strong> When progesterone plunges at the end of the luteal phase, endometrial cells release inflammatory Prostaglandin F2-alpha (PGF2α), driving intense myometrial smooth-muscle contractions and temporary uterine ischemia. <a href="https://commons.wikimedia.org/wiki/File:Period_pain_menstrual_cramps_uterus.jpg" target="_blank" rel="noopener noreferrer">Original Image Source: Wikimedia Commons ↗</a></figcaption>
+ <img src="images/DM_WH_03_figure.jpg" alt="Medical illustration of primary dysmenorrhea (menstrual cramps), showing endometrial prostaglandin (PGF2α) release triggering hyper-contractility of the uterine myometrium and temporary vasoconstriction of spiral arteries." loading="lazy">
+ <figcaption>📊 <strong>Medical illustration of primary dysmenorrhea (menstrual cramps), showing endometrial prostaglandin (PGF2α) release triggering hyper-contractility of the uterine myometrium and temporary vasoconstriction of spiral arteries.</strong> <a href="https://commons.wikimedia.org/wiki/File:Period_pain_menstrual_cramps_uterus.jpg" target="_blank" rel="noopener">Original Image Source: Wikimedia Commons ↗</a></figcaption>
 </figure>
 
 ---

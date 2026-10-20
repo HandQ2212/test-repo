@@ -29,7 +29,7 @@ Nếu nhiệt độ tinh hoàn bị đẩy lên mức 37°C kéo dài: Quá trì
 
 <figure class="article-inline-diagram">
  <img src="images/MW_SXH_07_figure.png" alt="Giải phẫu tinh hoàn và ống sinh tinh (OpenStax): Hệ cơ bìu và đám rối tĩnh mạch hình dây leo điều hòa nhiệt độ tinh hoàn luôn thấp hơn thân nhiệt 2°C–4°C để nuôi dưỡng tinh trùng." loading="lazy">
- <figcaption>📊 <strong>Sơ đồ y khoa:</strong> Giải phẫu tinh hoàn và ống sinh tinh (OpenStax): Hệ cơ bìu và đám rối tĩnh mạch hình dây leo điều hòa nhiệt độ tinh hoàn luôn thấp hơn thân nhiệt 2°C–4°C để nuôi dưỡng tinh trùng. <a href="https://commons.wikimedia.org/wiki/File:Figure_28_01_03.jpg" target="_blank" rel="noopener">Nguồn sơ đồ: Wikimedia Commons ↗</a></figcaption>
+ <figcaption>📊 <strong>Giải phẫu tinh hoàn và ống sinh tinh (OpenStax): Hệ cơ bìu và đám rối tĩnh mạch hình dây leo điều hòa nhiệt độ tinh hoàn luôn thấp hơn thân nhiệt 2°C–4°C để nuôi dưỡng tinh trùng.</strong> <a href="https://commons.wikimedia.org/wiki/File:Figure_28_01_03.jpg" target="_blank" rel="noopener">Link sơ đồ y khoa gốc (Wikimedia Commons) ↗</a></figcaption>
 </figure>
 
 ---
@@ -91,7 +91,7 @@ Sustained elevation to core temperature (37°C) triggers germ cell apoptosis and
 
 <figure class="article-inline-diagram">
  <img src="images/MW_SXH_07_figure.png" alt="Structure of the human testis (OpenStax): Scrotal thermoregulation and seminiferous tubule microenvironment maintain testicular temperatures 2°C–4°C below core body temperature." loading="lazy">
- <figcaption>📊 <strong>Scientific Figure:</strong> Structure of the human testis (OpenStax): Scrotal thermoregulation and seminiferous tubule microenvironment maintain testicular temperatures 2°C–4°C below core body temperature. <a href="https://commons.wikimedia.org/wiki/File:Figure_28_01_03.jpg" target="_blank" rel="noopener">Diagram source: Wikimedia Commons ↗</a></figcaption>
+ <figcaption>📊 <strong>Structure of the human testis (OpenStax): Scrotal thermoregulation and seminiferous tubule microenvironment maintain testicular temperatures 2°C–4°C below core body temperature.</strong> <a href="https://commons.wikimedia.org/wiki/File:Figure_28_01_03.jpg" target="_blank" rel="noopener">Original Image Source: Wikimedia Commons ↗</a></figcaption>
 </figure>
 
 ---

@@ -28,8 +28,8 @@ Trong sinh lý học y khoa, đáp ứng tình dục nam giới được tóm g�
 Vì sao nam giới lại bị xuất tinh sớm? Bởi vì trương lực giao cảm quá cao (lo âu, thở nông vùng ngực, và đặc biệt là **thói quen vô thức gồng co cơ hành hang liên tục trong lúc chuyển động**) đã đẩy tủy sống lao thẳng vào Pha 1 Tiết Tinh trước cả khi não bộ kịp nhận ra mức hưng phấn đã vượt qua Mức 7!
 
 <figure class="article-inline-diagram">
- <img src="images/DM_MH_01_figure.png" alt="Giải phẫu các cơ vùng đáy chậu nam giới từ OpenStax Anatomy" loading="lazy">
- <figcaption>📊 <strong>Trung Tâm Điều Khiển Thần Kinh – Cơ Vùng Đáy Chậu Nam Giới:</strong> Giải phẫu chi tiết cơ Hành xốp (Bulbocavernosus) bao quanh hành niệu đạo và cặp cơ Ngồi hang (Ischiocavernosus) dọc theo nhánh xương chậu (OpenStax Hình 11.16). <a href="https://commons.wikimedia.org/wiki/File:1116_Muscle_of_the_Male_Perineum.png" target="_blank" rel="noopener noreferrer">Original Image Source: Wikimedia Commons ↗</a></figcaption>
+ <img src="images/DM_MH_01_figure.png" alt="Giải phẫu lâm sàng chi tiết các nhóm cơ vùng đáy chậu nam giới (OpenStax Hình 11.16), làm nổi bật cơ Hành xốp (Hành hang) ở trung tâm, cặp cơ Ngồi hang hai bên, cơ ngang đáy chậu nông và cơ nâng hậu môn—những cấu trúc trực tiếp thực hiện cả kỹ thuật giãn Kegel Ngược lẫn Khóa Kegel Tĩnh." loading="lazy">
+ <figcaption>📊 <strong>Giải phẫu lâm sàng chi tiết các nhóm cơ vùng đáy chậu nam giới (OpenStax Hình 11.16), làm nổi bật cơ Hành xốp (Hành hang) ở trung tâm, cặp cơ Ngồi hang hai bên, cơ ngang đáy chậu nông và cơ nâng hậu môn—những cấu trúc trực tiếp thực hiện cả kỹ thuật giãn Kegel Ngược lẫn Khóa Kegel Tĩnh.</strong> <a href="https://commons.wikimedia.org/wiki/File:1116_Muscle_of_the_Male_Perineum.png" target="_blank" rel="noopener">Link sơ đồ y khoa gốc (Wikimedia Commons) ↗</a></figcaption>
 </figure>
 
 ---
@@ -102,8 +102,8 @@ In medical physiology, male sexual response is famously summarized by the neurol
 Why do men experience rapid or premature ejaculation? Because high sympathetic tone (anxiety, shallow chest breathing, and **unconscious involuntary clenching of the bulbocavernosus muscle during thrusting**) accelerates the spinal cord straight into Phase 1 Emission before the brain even realizes arousal has climbed past Level 7!
 
 <figure class="article-inline-diagram">
- <img src="images/DM_MH_01_figure.png" alt="Muscles of the Male Perineum OpenStax Anatomy" loading="lazy">
- <figcaption>📊 <strong>Neuromuscular Control Center of the Male Perineum:</strong> Anatomical view of the Bulbospongiosus (Bulbocavernosus) encircling the urethral bulb and the paired Ischiocavernosus muscles along the pelvic rami (OpenStax Figure 11.16). <a href="https://commons.wikimedia.org/wiki/File:1116_Muscle_of_the_Male_Perineum.png" target="_blank" rel="noopener noreferrer">Original Image Source: Wikimedia Commons ↗</a></figcaption>
+ <img src="images/DM_MH_01_figure.png" alt="Detailed clinical anatomy of the muscles of the male perineum (OpenStax Figure 11.16), highlighting the central Bulbospongiosus (Bulbocavernosus), paired Ischiocavernosus, superficial transverse perineal muscles, and levator ani that execute both Reverse Kegel relaxation and the Isometric Kegel Lock." loading="lazy">
+ <figcaption>📊 <strong>Detailed clinical anatomy of the muscles of the male perineum (OpenStax Figure 11.16), highlighting the central Bulbospongiosus (Bulbocavernosus), paired Ischiocavernosus, superficial transverse perineal muscles, and levator ani that execute both Reverse Kegel relaxation and the Isometric Kegel Lock.</strong> <a href="https://commons.wikimedia.org/wiki/File:1116_Muscle_of_the_Male_Perineum.png" target="_blank" rel="noopener">Original Image Source: Wikimedia Commons ↗</a></figcaption>
 </figure>
 
 ---

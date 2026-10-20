@@ -27,7 +27,7 @@ Chính vì lý do này, hướng dẫn thực hành lâm sàng quốc tế (**Bh
 
 <figure class="article-inline-diagram">
  <img src="images/MW_SXH_01_figure.png" alt="Đồng hồ sinh học 24 giờ ở người: Nồng độ testosterone huyết thanh biến thiên theo nhịp sinh học ngày đêm, đạt nồng độ đỉnh vào 7:00 - 9:00 sáng." loading="lazy">
- <figcaption>📊 <strong>Sơ đồ y khoa:</strong> Đồng hồ sinh học 24 giờ ở người: Nồng độ testosterone huyết thanh biến thiên theo nhịp sinh học ngày đêm, đạt nồng độ đỉnh vào 7:00 - 9:00 sáng. <a href="https://commons.wikimedia.org/wiki/File:Biological_clock_human.svg" target="_blank" rel="noopener">Nguồn sơ đồ: Wikimedia Commons ↗</a></figcaption>
+ <figcaption>📊 <strong>Đồng hồ sinh học 24 giờ ở người: Nồng độ testosterone huyết thanh biến thiên theo nhịp sinh học ngày đêm, đạt nồng độ đỉnh vào 7:00 - 9:00 sáng.</strong> <a href="https://commons.wikimedia.org/wiki/File:Biological_clock_human.svg" target="_blank" rel="noopener">Link sơ đồ y khoa gốc (Wikimedia Commons) ↗</a></figcaption>
 </figure>
 
 ---
@@ -92,7 +92,7 @@ Consequently, international clinical guidelines (**Bhasin et al., JCEM**) mandat
 
 <figure class="article-inline-diagram">
  <img src="images/MW_SXH_01_figure.png" alt="Human circadian biological clock: Serum testosterone follows a circadian diurnal cycle, reaching physiological peak levels between 7:00 AM and 9:00 AM." loading="lazy">
- <figcaption>📊 <strong>Scientific Figure:</strong> Human circadian biological clock: Serum testosterone follows a circadian diurnal cycle, reaching physiological peak levels between 7:00 AM and 9:00 AM. <a href="https://commons.wikimedia.org/wiki/File:Biological_clock_human.svg" target="_blank" rel="noopener">Diagram source: Wikimedia Commons ↗</a></figcaption>
+ <figcaption>📊 <strong>Human circadian biological clock: Serum testosterone follows a circadian diurnal cycle, reaching physiological peak levels between 7:00 AM and 9:00 AM.</strong> <a href="https://commons.wikimedia.org/wiki/File:Biological_clock_human.svg" target="_blank" rel="noopener">Original Image Source: Wikimedia Commons ↗</a></figcaption>
 </figure>
 
 ---

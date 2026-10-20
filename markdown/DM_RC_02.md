@@ -26,8 +26,8 @@ Tuy nhiên, các nghiên cứu sinh lý học thể thao chỉ ra rằng—trừ
 Tại sao lại như vậy? Bởi vì hệ thống bạch huyết và mạng lưới tĩnh mạch của bạn phụ thuộc rất lớn vào sự co bóp nhịp nhàng, nhẹ nhàng của cơ bắp để lưu thông dịch thể, dọn dẹp các sản phẩm phụ chuyển hóa và vận chuyển dưỡng chất tái tạo đến các sợi cơ bị vi tổn thương.
 
 <figure class="article-inline-diagram">
- <img src="images/DM_RC_02_figure.png" alt="Sơ đồ sinh hóa Chu trình Cori vận chuyển Lactate từ cơ xương về gan để tái tạo Glucose" loading="lazy">
- <figcaption>📊 <strong>Chu Trình Cori & Thanh Thải Chuyển Hóa:</strong> Lactate không phải là "chất thải độc hại"—đó là nguồn nhiên liệu sinh học quý giá. Tuần hoàn máu nhẹ nhàng ở Vùng nhịp tim Zone 1 giúp tăng tốc độ đưa lactate và ion hydro (`H⁺`) ra khỏi vùng cơ đang mỏi về gan (nơi Chu trình Cori tái tổng hợp lactate thành glucose) và đến các sợi cơ bền (`Type I`) để đốt cháy thành năng lượng sạch. <a href="https://commons.wikimedia.org/wiki/File:The_Cori_cycle.png" target="_blank" rel="noopener">Nguồn Ảnh Gốc: Wikimedia Commons ↗</a></figcaption>
+ <img src="images/DM_RC_02_figure.png" alt="Sơ đồ sinh hóa của Chu trình Cori (Chu trình Acid Lactic) minh họa cách lactate sinh ra từ cơ xương khi vận động được vận chuyển qua dòng máu về gan, sau đó tái tổng hợp thành glucose (tân tạo đường) để quay lại nuôi dưỡng và phục hồi các sợi cơ." loading="lazy">
+ <figcaption>📊 <strong>Sơ đồ sinh hóa của Chu trình Cori (Chu trình Acid Lactic) minh họa cách lactate sinh ra từ cơ xương khi vận động được vận chuyển qua dòng máu về gan, sau đó tái tổng hợp thành glucose (tân tạo đường) để quay lại nuôi dưỡng và phục hồi các sợi cơ.</strong> <a href="https://commons.wikimedia.org/wiki/File:The_Cori_cycle.png" target="_blank" rel="noopener">Link sơ đồ y khoa gốc (Wikimedia Commons) ↗</a></figcaption>
 </figure>
 
 ---
@@ -100,8 +100,8 @@ However, sports physiology research shows that—unless you are dealing with a f
 Why? Because your lymphatic system and venous blood vessels rely heavily on gentle, rhythmic muscle contractions to circulate fluid, clear metabolic byproducts, and deliver repair nutrients to damaged muscle fibers.
 
 <figure class="article-inline-diagram">
- <img src="images/DM_RC_02_figure.png" alt="Biochemical Diagram of the Cori Cycle: Lactate Transport from Muscle to Liver for Glucose Resynthesis" loading="lazy">
- <figcaption>📊 <strong>The Cori Cycle & Metabolic Clearance:</strong> Lactate is not "toxic waste"—it is a valuable metabolic fuel. Gentle Zone 1 blood flow accelerates the transport of lactate and hydrogen ions (`H⁺`) out of fatigued muscles to the liver (where the Cori Cycle converts lactate back into glucose) and to slow-twitch oxidative muscle fibers for clean aerobic energy. <a href="https://commons.wikimedia.org/wiki/File:The_Cori_cycle.png" target="_blank" rel="noopener">Original Image Source: Wikimedia Commons ↗</a></figcaption>
+ <img src="images/DM_RC_02_figure.png" alt="Biochemical diagram of the Cori Cycle (Lactic Acid Cycle) illustrating how lactate generated in active skeletal muscle is transported via blood circulation to the liver and converted back into glucose via gluconeogenesis to refuel recovering muscle fibers." loading="lazy">
+ <figcaption>📊 <strong>Biochemical diagram of the Cori Cycle (Lactic Acid Cycle) illustrating how lactate generated in active skeletal muscle is transported via blood circulation to the liver and converted back into glucose via gluconeogenesis to refuel recovering muscle fibers.</strong> <a href="https://commons.wikimedia.org/wiki/File:The_Cori_cycle.png" target="_blank" rel="noopener">Original Image Source: Wikimedia Commons ↗</a></figcaption>
 </figure>
 
 ---

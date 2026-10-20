@@ -24,8 +24,8 @@ Con người tiến hóa trong môi trường tự nhiên với những biến �
 Khi nhiệt độ da và nhiệt độ lõi cơ thể dịch chuyển khỏi điểm cân bằng `37.0°C`, các thụ thể nhiệt lập tức truyền tín hiệu khẩn cấp về **vùng trước thị của vùng dưới đồi (anterior hypothalamus)**, khởi phát một chuỗi phản ứng sinh lý toàn thân hiển thị ngay lập tức trên biểu đồ nhịp tim, HRV và nhiệt độ da của đồng hồ thông minh.
 
 <figure class="article-inline-diagram">
- <img src="images/DM_HW_02_figure.png" alt="Sơ đồ vòng lặp phản hồi âm tính điều hòa thân nhiệt con người tại vùng dưới đồi" loading="lazy">
- <figcaption>📊 <strong>Vòng Lặp Điều Hòa Thân Nhiệt Vùng Dưới Đồi:</strong> Cách tiếp xúc nhiệt nóng chủ động kích hoạt giãn mạch ngoại vi, tăng cung lượng tim và sinh tổng hợp Protein Sốc Nhiệt (HSP), trong khi tiếp xúc lạnh kích hoạt co mạch, phóng thích norepinephrine và sinh nhiệt tại mô mỡ nâu. <a href="https://commons.wikimedia.org/wiki/File:Negative_Feedback_Loop_Diagram_for_Human_Body_Temperature_Regulation.svg" target="_blank" rel="noopener">Nguồn hình ảnh gốc: Wikimedia Commons ↗</a></figcaption>
+ <img src="images/DM_HW_02_figure.png" alt="Vòng lặp phản hồi âm tính tại vùng dưới đồi điều phối thân nhiệt con người—minh họa cách các thụ thể nhiệt ở da và lõi cơ thể kích hoạt giãn mạch và tiết mồ hôi khi xông hơi nóng (Sauna) đối lập với phản xạ co mạch và sinh nhiệt mỡ nâu khi ngâm nước lạnh." loading="lazy">
+ <figcaption>📊 <strong>Vòng lặp phản hồi âm tính tại vùng dưới đồi điều phối thân nhiệt con người—minh họa cách các thụ thể nhiệt ở da và lõi cơ thể kích hoạt giãn mạch và tiết mồ hôi khi xông hơi nóng (Sauna) đối lập với phản xạ co mạch và sinh nhiệt mỡ nâu khi ngâm nước lạnh.</strong> <a href="https://commons.wikimedia.org/wiki/File:Negative_Feedback_Loop_Diagram_for_Human_Body_Temperature_Regulation.svg" target="_blank" rel="noopener">Link sơ đồ y khoa gốc (Wikimedia Commons) ↗</a></figcaption>
 </figure>
 
 ---
@@ -101,8 +101,8 @@ Humans evolved in environments of fluctuating heat and cold, yet modern climate-
 When your skin and core temperature shift outside their `37.0°C (98.6°F)` setpoint, thermoreceptors send urgent signals to the **preoptic area of the anterior hypothalamus**, launching a full-body physiological cascade that shows up immediately on your smartwatch's heart rate, HRV, and skin temperature graphs.
 
 <figure class="article-inline-diagram">
- <img src="images/DM_HW_02_figure.png" alt="Negative Feedback Loop Diagram for Human Body Temperature Regulation" loading="lazy">
- <figcaption>📊 <strong>Hypothalamic Thermoregulation Loop:</strong> How deliberate heat exposure triggers peripheral vasodilation, cardiac output elevation, and Heat Shock Proteins, while deliberate cold exposure triggers vasoconstriction, norepinephrine release, and brown adipose thermogenesis. <a href="https://commons.wikimedia.org/wiki/File:Negative_Feedback_Loop_Diagram_for_Human_Body_Temperature_Regulation.svg" target="_blank" rel="noopener">Original Image Source: Wikimedia Commons ↗</a></figcaption>
+ <img src="images/DM_HW_02_figure.png" alt="Hypothalamic negative feedback loop governing human thermoregulation—showing how cutaneous and core thermoreceptors trigger vasodilation and sweating during hyperthermic sauna exposure vs. vasoconstriction and brown-fat thermogenesis during cold immersion." loading="lazy">
+ <figcaption>📊 <strong>Hypothalamic negative feedback loop governing human thermoregulation—showing how cutaneous and core thermoreceptors trigger vasodilation and sweating during hyperthermic sauna exposure vs. vasoconstriction and brown-fat thermogenesis during cold immersion.</strong> <a href="https://commons.wikimedia.org/wiki/File:Negative_Feedback_Loop_Diagram_for_Human_Body_Temperature_Regulation.svg" target="_blank" rel="noopener">Original Image Source: Wikimedia Commons ↗</a></figcaption>
 </figure>
 
 ---

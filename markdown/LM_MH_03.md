@@ -24,8 +24,8 @@ Khi Tiến sĩ Arnold Kegel công bố công trình nghiên cứu tiên phong v�
 Tại sao việc làm khỏe hai nhóm cơ vân nhỏ bé ở đáy khung chậu lại mang đến kết quả lâm sàng tương đương với các thuốc giãn mạch kê đơn? Bởi vì độ cương cứng và khả năng kiểm soát xuất tinh của nam giới được chi phối trực tiếp bởi **các quy luật vật lý huyết động học và thần kinh phản xạ tủy sống có thể đo lường chính xác**.
 
 <figure class="article-inline-diagram">
- <img src="images/LM_MH_03_figure.jpg" alt="Giải phẫu mặt cắt dọc và ngang của hệ sinh dục nam và buồng vật hang" loading="lazy">
- <figcaption>📊 <strong>Hệ Thống Buồng Mạch Vùng Chậu & Dương Vật Nam Giới:</strong> Giải phẫu mặt cắt ngang của cặp vật hang (corpora cavernosa), vật xốp (corpus spongiosum) và hệ thống tĩnh mạch lưng sâu chịu sự điều tiết bởi lực ép cơ học của cơ ngồi hang và cơ hành hang. <a href="https://commons.wikimedia.org/wiki/File:Figure_28_01_06.jpg" target="_blank" rel="noopener noreferrer">Original Image Source: Wikimedia Commons ↗</a></figcaption>
+ <img src="images/LM_MH_03_figure.jpg" alt="Giải Phẫu Nhánh Nông Thần Kinh Thẹn Nam Giới (Gray's Anatomy 844): Mạng lưới phân nhánh thần kinh thẹn (pudendal nerve) chi phối cảm giác và vận động cho các cơ đáy chậu, thể hang và cơ thắt niệu đạo ngoài." loading="lazy">
+ <figcaption>📊 <strong>Giải Phẫu Nhánh Nông Thần Kinh Thẹn Nam Giới (Gray's Anatomy 844): Mạng lưới phân nhánh thần kinh thẹn (pudendal nerve) chi phối cảm giác và vận động cho các cơ đáy chậu, thể hang và cơ thắt niệu đạo ngoài.</strong> <a href="https://commons.wikimedia.org/wiki/File:Gray844.png" target="_blank" rel="noopener">Link sơ đồ y khoa gốc (Wikimedia Commons) ↗</a></figcaption>
 </figure>
 
 ---
@@ -108,8 +108,8 @@ When Dr. Arnold Kegel published his seminal research on pelvic floor muscle reha
 Why does strengthening two small striated muscles at the base of the pelvis produce outcomes comparable to prescription vasoactive medications? Because male erectile rigidity and ejaculatory control are governed by **measurable hemodynamic physics and spinal reflex neurology**.
 
 <figure class="article-inline-diagram">
- <img src="images/LM_MH_03_figure.jpg" alt="Sagittal and Cross-Sectional Anatomy of the Male Reproductive System and Corpora Cavernosa" loading="lazy">
- <figcaption>📊 <strong>Vascular Chambers of the Male Pelvis & Penis:</strong> Cross-sectional anatomy of the paired corpora cavernosa, corpus spongiosum, and deep dorsal venous drainage system regulated by ischiocavernosus and bulbocavernosus muscle compression. <a href="https://commons.wikimedia.org/wiki/File:Figure_28_01_06.jpg" target="_blank" rel="noopener noreferrer">Original Image Source: Wikimedia Commons ↗</a></figcaption>
+ <img src="images/LM_MH_03_figure.jpg" alt="The Superficial Branches of the Internal Pudendal Nerve (Gray 844): Pudendal innervation pathways governing motor control of perineal sphincters and sensory feedback across male pelvic structures." loading="lazy">
+ <figcaption>📊 <strong>The Superficial Branches of the Internal Pudendal Nerve (Gray 844): Pudendal innervation pathways governing motor control of perineal sphincters and sensory feedback across male pelvic structures.</strong> <a href="https://commons.wikimedia.org/wiki/File:Gray844.png" target="_blank" rel="noopener">Original Image Source: Wikimedia Commons ↗</a></figcaption>
 </figure>
 
 ---

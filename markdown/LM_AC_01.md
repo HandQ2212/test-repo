@@ -24,8 +24,8 @@ Trong nhiều thập kỷ, thước đo vàng của các thiết bị theo dõi 
 Mười nghìn bước chân dạo phố thong thả rải rác suốt 12 tiếng đồng hồ không hề tạo ra áp lực đủ lớn để tăng thể tích nhát bóp của tim, mở rộng mạng lưới mao mạch hay kích thích sinh tổng hợp ti thể như 30 phút đi bộ nhanh lên dốc hoặc chạy bộ nhịp độ cao. Để thu hẹp khoảng cách giữa vận động thông thường và y học thể thao lâm sàng, các thiết bị đeo hiện đại—dẫn đầu bởi **Fitbit Active Zone Minutes (AZM)**, **Garmin Intensity Minutes** và **Apple Watch Exercise Minutes**—đã chuyển trọng tâm từ *bạn bước được bao nhiêu bước* sang *trái tim bạn đang làm việc tích cực đến mức nào so với nền tảng sinh lý cá nhân*.
 
 <figure class="article-inline-diagram">
- <img src="images/LM_AC_01_figure.png" alt="Biểu đồ phân vùng nhịp tim tập luyện theo độ tuổi của Fox và Haskell" loading="lazy">
- <figcaption>📊 <strong>Các Vùng Nhịp Tim Tập Luyện Theo Độ Tuổi (Mô hình Fox & Haskell):</strong> Cách các ngưỡng nhịp tim phân tách giữa vận động hiếu khí trung bình và rèn luyện tim phổi cường độ cao xuyên suốt các nhóm tuổi trưởng thành. <a href="https://commons.wikimedia.org/wiki/File:Exercise_zones_Fox_and_Haskell.svg" target="_blank" rel="noopener">Nguồn hình ảnh gốc: Wikimedia Commons ↗</a></figcaption>
+ <img src="images/LM_AC_01_figure.png" alt="Biểu đồ phân vùng nhịp tim tập luyện theo độ tuổi của Fox và Haskell, minh họa sự chuyển tiếp từ ngưỡng vận động hiếu khí trung bình (50%–70% HRmax) sang vùng rèn luyện tim phổi cường độ cao (70%–85%+ HRmax)." loading="lazy">
+ <figcaption>📊 <strong>Biểu đồ phân vùng nhịp tim tập luyện theo độ tuổi của Fox và Haskell, minh họa sự chuyển tiếp từ ngưỡng vận động hiếu khí trung bình (50%–70% HRmax) sang vùng rèn luyện tim phổi cường độ cao (70%–85%+ HRmax).</strong> <a href="https://commons.wikimedia.org/wiki/File:Exercise_zones_Fox_and_Haskell.svg" target="_blank" rel="noopener">Link sơ đồ y khoa gốc (Wikimedia Commons) ↗</a></figcaption>
 </figure>
 
 ---
@@ -106,8 +106,8 @@ For decades, the gold standard of consumer fitness tracking was **10,000 steps p
 Ten thousand slow window-shopping steps across twelve hours do not challenge your heart's stroke volume, expand capillary beds, or stimulate mitochondrial biogenesis the way a brisk 30-minute uphill hike or tempo run does. To bridge the gap between casual movement and clinical exercise science, modern wearables—led by **Fitbit Active Zone Minutes (AZM)**, **Garmin Intensity Minutes**, and **Apple Watch Exercise Minutes**—shift the focus from *how many steps you take* to *how hard your heart is working relative to your personal physiology*.
 
 <figure class="article-inline-diagram">
- <img src="images/LM_AC_01_figure.png" alt="Fox and Haskell Cardiovascular Exercise Heart Rate Zones" loading="lazy">
- <figcaption>📊 <strong>Cardiovascular Training Zones by Age (Fox & Haskell Model):</strong> How heart rate thresholds divide moderate aerobic work from vigorous cardiopulmonary conditioning across the adult lifespan. <a href="https://commons.wikimedia.org/wiki/File:Exercise_zones_Fox_and_Haskell.svg" target="_blank" rel="noopener">Original Image Source: Wikimedia Commons ↗</a></figcaption>
+ <img src="images/LM_AC_01_figure.png" alt="Standard age-adjusted Fox and Haskell cardiovascular exercise heart rate zones showing the progression from moderate aerobic effort (50%–70% HRmax) to vigorous cardiopulmonary conditioning (70%–85%+ HRmax)." loading="lazy">
+ <figcaption>📊 <strong>Standard age-adjusted Fox and Haskell cardiovascular exercise heart rate zones showing the progression from moderate aerobic effort (50%–70% HRmax) to vigorous cardiopulmonary conditioning (70%–85%+ HRmax).</strong> <a href="https://commons.wikimedia.org/wiki/File:Exercise_zones_Fox_and_Haskell.svg" target="_blank" rel="noopener">Original Image Source: Wikimedia Commons ↗</a></figcaption>
 </figure>
 
 ---

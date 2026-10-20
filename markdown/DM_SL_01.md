@@ -26,8 +26,8 @@ Trước khi lo lắng rằng giấc ngủ—hoặc chiếc đồng hồ của b
 2. **Giấc ngủ Sâu giảm dần một cách tự nhiên theo độ tuổi**, và các cảm biến đeo cổ tay thường chấm điểm Giai đoạn N3 (Ngủ Sâu sóng chậm) khá khắt khe.
 
 <figure class="article-inline-diagram">
- <img src="images/DM_SL_01_figure.jpg" alt="Bản ghi điện não đồ EEG lâm sàng của sóng Delta trong Giấc ngủ Sâu" loading="lazy">
- <figcaption>📊 <strong>Bên Trong Giấc Ngủ Sâu Sóng Chậm (EEG Stage N3/4):</strong> Đoạn ghi đa ký giấc ngủ lâm sàng dài 30 giây cho thấy các sóng não Delta biên độ cao, tần số chậm (0.5–4 Hz, tô màu đỏ) đặc trưng—động lực thúc đẩy tiết Hormone Tăng Trưởng và kích hoạt hệ thống rửa não Glymphatic. <a href="https://commons.wikimedia.org/wiki/File:Sleep_EEG_Stage_4.jpg" target="_blank" rel="noopener">Nguồn Ảnh Gốc: Wikimedia Commons ↗</a></figcaption>
+ <img src="images/DM_SL_01_figure.jpg" alt="Bản ghi Đa ký giấc ngủ (PSG) lâm sàng dài 30 giây của Giấc ngủ Sâu sóng chậm (Slow-Wave Sleep), thể hiện các sóng não Delta biên độ cao, tần số chậm (0.5–4 Hz) được tô đỏ cùng trương lực cơ (EMG) thư giãn hoàn toàn." loading="lazy">
+ <figcaption>📊 <strong>Bản ghi Đa ký giấc ngủ (PSG) lâm sàng dài 30 giây của Giấc ngủ Sâu sóng chậm (Slow-Wave Sleep), thể hiện các sóng não Delta biên độ cao, tần số chậm (0.5–4 Hz) được tô đỏ cùng trương lực cơ (EMG) thư giãn hoàn toàn.</strong> <a href="https://commons.wikimedia.org/wiki/File:Sleep_EEG_Stage_4.jpg" target="_blank" rel="noopener">Link sơ đồ y khoa gốc (Wikimedia Commons) ↗</a></figcaption>
 </figure>
 
 ---
@@ -106,8 +106,8 @@ Before assuming something is wrong with your sleep—or your watch—it helps to
 2. **Deep sleep declines significantly with age**, and consumer wrist sensors are intentionally conservative when scoring Stage N3 Slow-Wave Sleep.
 
 <figure class="article-inline-diagram">
- <img src="images/DM_SL_01_figure.jpg" alt="Clinical EEG Recording of Slow-Wave Deep Sleep Delta Waves" loading="lazy">
- <figcaption>📊 <strong>Inside Slow-Wave Deep Sleep (EEG Stage N3/4):</strong> A 30-second clinical polysomnogram showing the hallmark high-voltage, slow-frequency Delta brainwaves (0.5–4 Hz, highlighted in red) that drive Growth Hormone secretion and glymphatic brain clearance. <a href="https://commons.wikimedia.org/wiki/File:Sleep_EEG_Stage_4.jpg" target="_blank" rel="noopener">Original Image Source: Wikimedia Commons ↗</a></figcaption>
+ <img src="images/DM_SL_01_figure.jpg" alt="Clinical 30-second Polysomnography (PSG) epoch of Slow-Wave Deep Sleep showing high-amplitude, synchronized Delta brainwaves (0.5–4 Hz) highlighted in red alongside relaxed muscle tone (EMG)." loading="lazy">
+ <figcaption>📊 <strong>Clinical 30-second Polysomnography (PSG) epoch of Slow-Wave Deep Sleep showing high-amplitude, synchronized Delta brainwaves (0.5–4 Hz) highlighted in red alongside relaxed muscle tone (EMG).</strong> <a href="https://commons.wikimedia.org/wiki/File:Sleep_EEG_Stage_4.jpg" target="_blank" rel="noopener">Original Image Source: Wikimedia Commons ↗</a></figcaption>
 </figure>
 
 ---

@@ -32,7 +32,7 @@ Sau 8 tuần, kết quả cho thấy:
 
 <figure class="article-inline-diagram">
  <img src="images/MW_NUT_07_figure.png" alt="Dòng thác tín hiệu Insulin và điều hòa glucose: Nhịn ăn gián đoạn hợp lý tối ưu hóa độ nhạy insulin mà vẫn bảo tồn năng lượng cho trục nội tiết nam." loading="lazy">
- <figcaption>📊 <strong>Sơ đồ y khoa:</strong> Dòng thác tín hiệu Insulin và điều hòa glucose: Nhịn ăn gián đoạn hợp lý tối ưu hóa độ nhạy insulin mà vẫn bảo tồn năng lượng cho trục nội tiết nam. <a href="https://commons.wikimedia.org/wiki/File:Insulin_glucose_metabolism_ZP.svg" target="_blank" rel="noopener">Nguồn sơ đồ: Wikimedia Commons ↗</a></figcaption>
+ <figcaption>📊 <strong>Dòng thác tín hiệu Insulin và điều hòa glucose: Nhịn ăn gián đoạn hợp lý tối ưu hóa độ nhạy insulin mà vẫn bảo tồn năng lượng cho trục nội tiết nam.</strong> <a href="https://commons.wikimedia.org/wiki/File:Insulin_glucose_metabolism_ZP.svg" target="_blank" rel="noopener">Link sơ đồ y khoa gốc (Wikimedia Commons) ↗</a></figcaption>
 </figure>
 
 ---
@@ -96,7 +96,7 @@ Intermittent fasting is not a cost-free panacea; it represents a physiological t
 
 <figure class="article-inline-diagram">
  <img src="images/MW_NUT_07_figure.png" alt="Insulin signaling and cellular glucose homeostasis: Time-restricted feeding optimizes insulin sensitivity while preserving energy availability for endocrine axes." loading="lazy">
- <figcaption>📊 <strong>Scientific Figure:</strong> Insulin signaling and cellular glucose homeostasis: Time-restricted feeding optimizes insulin sensitivity while preserving energy availability for endocrine axes. <a href="https://commons.wikimedia.org/wiki/File:Insulin_glucose_metabolism_ZP.svg" target="_blank" rel="noopener">Diagram source: Wikimedia Commons ↗</a></figcaption>
+ <figcaption>📊 <strong>Insulin signaling and cellular glucose homeostasis: Time-restricted feeding optimizes insulin sensitivity while preserving energy availability for endocrine axes.</strong> <a href="https://commons.wikimedia.org/wiki/File:Insulin_glucose_metabolism_ZP.svg" target="_blank" rel="noopener">Original Image Source: Wikimedia Commons ↗</a></figcaption>
 </figure>
 
 ---

@@ -26,8 +26,8 @@ Nếu bạn muốn biết thời điểm rụng trứng đang đến gần **tr�
 Hoàn toàn không phải là chất tiết ngẫu nhiên, dịch nhầy cổ tử cung là một **hệ gel sinh học (Hydrogel)** tinh vi được điều khiển trực tiếp bởi hormone, tiết ra từ hàng trăm tuyến hốc siêu nhỏ nằm bên trong **kênh cổ tử cung** (cánh cổng hẹp nối giữa âm đạo và buồng tử cung).
 
 <figure class="article-inline-diagram">
- <img src="images/LM_WH_02_figure.png" alt="Sơ đồ giải phẫu hệ sinh sản nữ làm nổi bật cổ tử cung, tử cung, ống dẫn trứng và buồng trứng" loading="lazy">
- <figcaption>📊 <strong>Cánh Cổng Sinh Học Cổ Tử Cung:</strong> Nằm giữa môi trường axit của âm đạo và buồng tử cung phía trên, các tuyến hốc nhạy cảm với hormone bên trong cổ tử cung liên tục thay đổi cấu trúc gel tiết ra mỗi ngày theo nồng độ Estradiol và Progesterone. <a href="https://commons.wikimedia.org/wiki/File:Female_reproductive_system.svg" target="_blank" rel="noopener noreferrer">Original Image Source: Wikimedia Commons ↗</a></figcaption>
+ <img src="images/LM_WH_02_figure.png" alt="Sơ đồ giải phẫu hệ sinh dục nữ minh họa ống âm đạo, kênh cổ tử cung (nơi các tuyến hốc nhạy cảm với hormone tiết ra dịch nhầy cổ tử cung), buồng tử cung, ống dẫn trứng và buồng trứng." loading="lazy">
+ <figcaption>📊 <strong>Sơ đồ giải phẫu hệ sinh dục nữ minh họa ống âm đạo, kênh cổ tử cung (nơi các tuyến hốc nhạy cảm với hormone tiết ra dịch nhầy cổ tử cung), buồng tử cung, ống dẫn trứng và buồng trứng.</strong> <a href="https://commons.wikimedia.org/wiki/File:Female_reproductive_system.svg" target="_blank" rel="noopener">Link sơ đồ y khoa gốc (Wikimedia Commons) ↗</a></figcaption>
 </figure>
 
 ---
@@ -114,8 +114,8 @@ If you want to know that ovulation is approaching **3 to 5 days in advance**—w
 Far from being random vaginal discharge, cervical fluid is a sophisticated, hormone-controlled **biological hydrogel** secreted by hundreds of microscopic crypts inside your **cervical canal** (the narrow gateway connecting the vagina to the uterus).
 
 <figure class="article-inline-diagram">
- <img src="images/LM_WH_02_figure.png" alt="Anatomical diagram of the female reproductive tract highlighting the cervix, uterus, fallopian tubes, and ovaries" loading="lazy">
- <figcaption>📊 <strong>The Cervical Gateway:</strong> Positioned between the acidic vaginal environment and the upper uterine cavity, specialized crypt glands inside the cervix remodel their hydrogel secretions daily in response to ovarian estradiol and progesterone. <a href="https://commons.wikimedia.org/wiki/File:Female_reproductive_system.svg" target="_blank" rel="noopener noreferrer">Original Image Source: Wikimedia Commons ↗</a></figcaption>
+ <img src="images/LM_WH_02_figure.png" alt="Anatomical diagram of the human female reproductive system illustrating the vaginal canal, cervical canal (where hormone-sensitive crypt glands secrete cervical mucus), uterine cavity, fallopian tubes, and ovaries." loading="lazy">
+ <figcaption>📊 <strong>Anatomical diagram of the human female reproductive system illustrating the vaginal canal, cervical canal (where hormone-sensitive crypt glands secrete cervical mucus), uterine cavity, fallopian tubes, and ovaries.</strong> <a href="https://commons.wikimedia.org/wiki/File:Female_reproductive_system.svg" target="_blank" rel="noopener">Original Image Source: Wikimedia Commons ↗</a></figcaption>
 </figure>
 
 ---

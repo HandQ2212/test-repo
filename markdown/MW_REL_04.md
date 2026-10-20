@@ -28,7 +28,7 @@ Cơ chế sinh lý học thần kinh diễn ra như sau:
 
 <figure class="article-inline-diagram">
  <img src="images/MW_REL_04_figure.png" alt="Đường cong kích hoạt Yerkes-Dodson: Căng thẳng công việc kéo dài đẩy hệ thần kinh vượt ngưỡng hưng phấn tối ưu sang vùng kiệt sức, làm cạn kiệt khả năng bao dung giữa hai người." loading="lazy">
- <figcaption>📊 <strong>Sơ đồ y khoa:</strong> Đường cong kích hoạt Yerkes-Dodson: Căng thẳng công việc kéo dài đẩy hệ thần kinh vượt ngưỡng hưng phấn tối ưu sang vùng kiệt sức, làm cạn kiệt khả năng bao dung giữa hai người. <a href="https://commons.wikimedia.org/wiki/File:HebbianYerkesDodson.svg" target="_blank" rel="noopener">Nguồn sơ đồ: Wikimedia Commons ↗</a></figcaption>
+ <figcaption>📊 <strong>Đường cong kích hoạt Yerkes-Dodson: Căng thẳng công việc kéo dài đẩy hệ thần kinh vượt ngưỡng hưng phấn tối ưu sang vùng kiệt sức, làm cạn kiệt khả năng bao dung giữa hai người.</strong> <a href="https://commons.wikimedia.org/wiki/File:HebbianYerkesDodson.svg" target="_blank" rel="noopener">Link sơ đồ y khoa gốc (Wikimedia Commons) ↗</a></figcaption>
 </figure>
 
 ---
@@ -89,7 +89,7 @@ The neurobiology is straightforward:
 
 <figure class="article-inline-diagram">
  <img src="images/MW_REL_04_figure.png" alt="The Yerkes-Dodson arousal curve: Excessive external stress shifts partner physiological state beyond optimal engagement into defensive reactivity." loading="lazy">
- <figcaption>📊 <strong>Scientific Figure:</strong> The Yerkes-Dodson arousal curve: Excessive external stress shifts partner physiological state beyond optimal engagement into defensive reactivity. <a href="https://commons.wikimedia.org/wiki/File:HebbianYerkesDodson.svg" target="_blank" rel="noopener">Diagram source: Wikimedia Commons ↗</a></figcaption>
+ <figcaption>📊 <strong>The Yerkes-Dodson arousal curve: Excessive external stress shifts partner physiological state beyond optimal engagement into defensive reactivity.</strong> <a href="https://commons.wikimedia.org/wiki/File:HebbianYerkesDodson.svg" target="_blank" rel="noopener">Original Image Source: Wikimedia Commons ↗</a></figcaption>
 </figure>
 
 ---

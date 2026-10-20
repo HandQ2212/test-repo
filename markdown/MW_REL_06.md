@@ -35,7 +35,7 @@ Nghiên cứu từ **Tiến sĩ Emily Nagoski** cho thấy: Khoảng **15% nam g
 
 <figure class="article-inline-diagram">
  <img src="images/MW_REL_06_figure.png" alt="Chu kỳ phản ứng tình dục ở người: Nhận biết sự khác biệt giữa ham muốn tự phát (spontaneous) và ham muốn đáp ứng (responsive) giúp hòa hợp lệch pha ham muốn lứa đôi." loading="lazy">
- <figcaption>📊 <strong>Sơ đồ y khoa:</strong> Chu kỳ phản ứng tình dục ở người: Nhận biết sự khác biệt giữa ham muốn tự phát (spontaneous) và ham muốn đáp ứng (responsive) giúp hòa hợp lệch pha ham muốn lứa đôi. <a href="https://commons.wikimedia.org/wiki/File:Sexual-response-cycle.svg" target="_blank" rel="noopener">Nguồn sơ đồ: Wikimedia Commons ↗</a></figcaption>
+ <figcaption>📊 <strong>Chu kỳ phản ứng tình dục ở người: Nhận biết sự khác biệt giữa ham muốn tự phát (spontaneous) và ham muốn đáp ứng (responsive) giúp hòa hợp lệch pha ham muốn lứa đôi.</strong> <a href="https://commons.wikimedia.org/wiki/File:Sexual-response-cycle.svg" target="_blank" rel="noopener">Link sơ đồ y khoa gốc (Wikimedia Commons) ↗</a></figcaption>
 </figure>
 
 ---
@@ -103,7 +103,7 @@ Data from **Dr. Emily Nagoski** shows that ~**15% of men and 30% of women** poss
 
 <figure class="article-inline-diagram">
  <img src="images/MW_REL_06_figure.png" alt="Human sexual response cycle: Understanding spontaneous versus responsive desire reconciles partner libido pacing differences in established relationships." loading="lazy">
- <figcaption>📊 <strong>Scientific Figure:</strong> Human sexual response cycle: Understanding spontaneous versus responsive desire reconciles partner libido pacing differences in established relationships. <a href="https://commons.wikimedia.org/wiki/File:Sexual-response-cycle.svg" target="_blank" rel="noopener">Diagram source: Wikimedia Commons ↗</a></figcaption>
+ <figcaption>📊 <strong>Human sexual response cycle: Understanding spontaneous versus responsive desire reconciles partner libido pacing differences in established relationships.</strong> <a href="https://commons.wikimedia.org/wiki/File:Sexual-response-cycle.svg" target="_blank" rel="noopener">Original Image Source: Wikimedia Commons ↗</a></figcaption>
 </figure>
 
 ---

@@ -31,7 +31,7 @@ Mọi nỗ lực "giải quyết vấn đề bằng lý lẽ" trong lúc một t
 
 <figure class="article-inline-diagram">
  <img src="images/MW_REL_05_figure.png" alt="Hệ viền não bộ và hạch hạnh nhân (Blausen Medical): Phản ứng tràn ngập cảm xúc khi nhịp tim vượt 100 bpm khóa chặt vỏ não logic, cần tối thiểu 20 phút hạ hỏa thần kinh." loading="lazy">
- <figcaption>📊 <strong>Sơ đồ y khoa:</strong> Hệ viền não bộ và hạch hạnh nhân (Blausen Medical): Phản ứng tràn ngập cảm xúc khi nhịp tim vượt 100 bpm khóa chặt vỏ não logic, cần tối thiểu 20 phút hạ hỏa thần kinh. <a href="https://commons.wikimedia.org/wiki/File:Blausen_0614_LimbicSystem.png" target="_blank" rel="noopener">Nguồn sơ đồ: Wikimedia Commons ↗</a></figcaption>
+ <figcaption>📊 <strong>Hệ viền não bộ và hạch hạnh nhân (Blausen Medical): Phản ứng tràn ngập cảm xúc khi nhịp tim vượt 100 bpm khóa chặt vỏ não logic, cần tối thiểu 20 phút hạ hỏa thần kinh.</strong> <a href="https://commons.wikimedia.org/wiki/File:Blausen_0614_LimbicSystem.png" target="_blank" rel="noopener">Link sơ đồ y khoa gốc (Wikimedia Commons) ↗</a></figcaption>
 </figure>
 
 ---
@@ -101,7 +101,7 @@ Attempting to resolve interpersonal problems logically during physiological floo
 
 <figure class="article-inline-diagram">
  <img src="images/MW_REL_05_figure.png" alt="The limbic system and amygdala (Blausen Medical): Emotional flooding during arguments overrides prefrontal logic, necessitating physiological self-soothing breaks." loading="lazy">
- <figcaption>📊 <strong>Scientific Figure:</strong> The limbic system and amygdala (Blausen Medical): Emotional flooding during arguments overrides prefrontal logic, necessitating physiological self-soothing breaks. <a href="https://commons.wikimedia.org/wiki/File:Blausen_0614_LimbicSystem.png" target="_blank" rel="noopener">Diagram source: Wikimedia Commons ↗</a></figcaption>
+ <figcaption>📊 <strong>The limbic system and amygdala (Blausen Medical): Emotional flooding during arguments overrides prefrontal logic, necessitating physiological self-soothing breaks.</strong> <a href="https://commons.wikimedia.org/wiki/File:Blausen_0614_LimbicSystem.png" target="_blank" rel="noopener">Original Image Source: Wikimedia Commons ↗</a></figcaption>
 </figure>
 
 ---

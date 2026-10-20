@@ -31,7 +31,7 @@ Vì vậy, **Rối loạn cương do căn nguyên mạch máu chính là dấu h
 
 <figure class="article-inline-diagram">
  <img src="images/MW_SXH_02_figure.png" alt="Quá trình hẹp lòng động mạch do mảng vữa xơ: Do động mạch hang có đường kính chỉ 1–2 mm, rối loạn cương dương thường là dấu hiệu cảnh báo sớm trước biến cố mạch vành 3–5 năm." loading="lazy">
- <figcaption>📊 <strong>Sơ đồ y khoa:</strong> Quá trình hẹp lòng động mạch do mảng vữa xơ: Do động mạch hang có đường kính chỉ 1–2 mm, rối loạn cương dương thường là dấu hiệu cảnh báo sớm trước biến cố mạch vành 3–5 năm. <a href="https://commons.wikimedia.org/wiki/File:Carotid_artery_stenosis_by_hariadhi.svg" target="_blank" rel="noopener">Nguồn sơ đồ: Wikimedia Commons ↗</a></figcaption>
+ <figcaption>📊 <strong>Quá trình hẹp lòng động mạch do mảng vữa xơ: Do động mạch hang có đường kính chỉ 1–2 mm, rối loạn cương dương thường là dấu hiệu cảnh báo sớm trước biến cố mạch vành 3–5 năm.</strong> <a href="https://commons.wikimedia.org/wiki/File:Carotid_artery_stenosis_by_hariadhi.svg" target="_blank" rel="noopener">Link sơ đồ y khoa gốc (Wikimedia Commons) ↗</a></figcaption>
 </figure>
 
 ---
@@ -95,7 +95,7 @@ Thus, **Vascular Erectile Dysfunction is the primary early warning sign of coron
 
 <figure class="article-inline-diagram">
  <img src="images/MW_SXH_02_figure.png" alt="Arterial stenosis and atheromatous plaque progression: Because penile cavernosal arteries are 1–2 mm wide, vascular obstruction causes erectile symptoms years before larger vessels." loading="lazy">
- <figcaption>📊 <strong>Scientific Figure:</strong> Arterial stenosis and atheromatous plaque progression: Because penile cavernosal arteries are 1–2 mm wide, vascular obstruction causes erectile symptoms years before larger vessels. <a href="https://commons.wikimedia.org/wiki/File:Carotid_artery_stenosis_by_hariadhi.svg" target="_blank" rel="noopener">Diagram source: Wikimedia Commons ↗</a></figcaption>
+ <figcaption>📊 <strong>Arterial stenosis and atheromatous plaque progression: Because penile cavernosal arteries are 1–2 mm wide, vascular obstruction causes erectile symptoms years before larger vessels.</strong> <a href="https://commons.wikimedia.org/wiki/File:Carotid_artery_stenosis_by_hariadhi.svg" target="_blank" rel="noopener">Original Image Source: Wikimedia Commons ↗</a></figcaption>
 </figure>
 
 ---

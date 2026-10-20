@@ -25,8 +25,8 @@ Trong công trình theo dõi sức khỏe quy mô lớn trên **22.000 nam giớ
 - Mỗi sự cải thiện **1 MET (đơn vị chuyển hóa tương đương)** trong bài kiểm tra gắng sức tim mạch giúp giảm trực tiếp **15% nguy cơ suy giảm tình dục**.
 
 <figure class="article-inline-diagram">
- <img src="images/MW_SXH_06_figure.png" alt="Các vùng nhịp tim tập luyện tim mạch: Tập cardio Zone 2 kích hoạt lực trượt thành mạch (shear stress), thúc đẩy men eNOS sản sinh Nitric Oxide tăng độ đàn hồi lòng mạch." loading="lazy">
- <figcaption>📊 <strong>Sơ đồ y khoa:</strong> Các vùng nhịp tim tập luyện tim mạch: Tập cardio Zone 2 kích hoạt lực trượt thành mạch (shear stress), thúc đẩy men eNOS sản sinh Nitric Oxide tăng độ đàn hồi lòng mạch. <a href="https://commons.wikimedia.org/wiki/File:Exercise_zones_Fox_and_Haskell.svg" target="_blank" rel="noopener">Nguồn sơ đồ: Wikimedia Commons ↗</a></figcaption>
+ <img src="images/MW_SXH_06_figure.png" alt="Cấu Trúc Vi Tuần Hoàn Mao Mạch & Lưu Lượng Máu (Capillary Microcirculation): Tập cardio Zone 2 kích thích sản sinh Nitric Oxide (NO) tại tế bào nội mô và phát triển mạng lưới vi mạch cấp máu cho vùng chậu và thể hang." loading="lazy">
+ <figcaption>📊 <strong>Cấu Trúc Vi Tuần Hoàn Mao Mạch & Lưu Lượng Máu (Capillary Microcirculation): Tập cardio Zone 2 kích thích sản sinh Nitric Oxide (NO) tại tế bào nội mô và phát triển mạng lưới vi mạch cấp máu cho vùng chậu và thể hang.</strong> <a href="https://commons.wikimedia.org/wiki/File:Capillary_microcirculation.svg" target="_blank" rel="noopener">Link sơ đồ y khoa gốc (Wikimedia Commons) ↗</a></figcaption>
 </figure>
 
 ---
@@ -86,8 +86,8 @@ In a landmark longitudinal study tracking **22,000 men over 14 years** by **Harv
 - Every **1-MET increase** in cardiorespiratory fitness produced a direct **15% reduction in sexual dysfunction risk**.
 
 <figure class="article-inline-diagram">
- <img src="images/MW_SXH_06_figure.png" alt="Cardiovascular exercise intensity training zones: Zone 2 aerobic training induces laminar shear stress, stimulating eNOS expression and vascular elasticity." loading="lazy">
- <figcaption>📊 <strong>Scientific Figure:</strong> Cardiovascular exercise intensity training zones: Zone 2 aerobic training induces laminar shear stress, stimulating eNOS expression and vascular elasticity. <a href="https://commons.wikimedia.org/wiki/File:Exercise_zones_Fox_and_Haskell.svg" target="_blank" rel="noopener">Diagram source: Wikimedia Commons ↗</a></figcaption>
+ <img src="images/MW_SXH_06_figure.png" alt="Capillary Microcirculation & Endothelial Perfusion: Zone 2 aerobic training stimulating endothelial nitric oxide (eNOS) production and microvascular angiogenesis across pelvic tissues." loading="lazy">
+ <figcaption>📊 <strong>Capillary Microcirculation & Endothelial Perfusion: Zone 2 aerobic training stimulating endothelial nitric oxide (eNOS) production and microvascular angiogenesis across pelvic tissues.</strong> <a href="https://commons.wikimedia.org/wiki/File:Capillary_microcirculation.svg" target="_blank" rel="noopener">Original Image Source: Wikimedia Commons ↗</a></figcaption>
 </figure>
 
 ---

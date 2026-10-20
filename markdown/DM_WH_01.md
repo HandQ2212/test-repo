@@ -24,8 +24,8 @@ Suốt nhiều thập kỷ, các giáo trình khoa học thể thao và chương
 Như Tiến sĩ sinh lý học thể thao **Stacy Sims** (cố vấn khoa học cho tính năng **WHOOP Menstrual Cycle Coaching**) từng khẳng định trong câu nói nổi tiếng: *"Phụ nữ không phải là những người đàn ông thu nhỏ."* Khi bạn ép cơ thể tập luyện với khối lượng nặng và cường độ cao ở Tuần 4 của chu kỳ giống hệt như Tuần 2—bất chấp cảnh báo từ chỉ số HRV, Nhịp tim lúc nghỉ (RHR) và nhiệt độ da trên đồng hồ—bạn đang làm tăng nguy cơ **quá tải thần kinh, tăng vọt hormone căng thẳng Cortisol, rối loạn giấc ngủ và Hội chứng thiếu hụt năng lượng tương đối trong thể thao (RED-S)**.
 
 <figure class="article-inline-diagram">
- <img src="images/DM_WH_01_figure.png" alt="Đường cong định lượng hormone Estradiol, Progesterone, LH và FSH qua các giai đoạn chu kỳ kinh nguyệt" loading="lazy">
- <figcaption>📊 <strong>Bản Thiết Kế Nội Tiết Cho Phân Kỳ Tập Luyện:</strong> Hãy quan sát cách Estradiol tăng mạnh trong Pha Nang trứng (Ngày 7–14) tạo ra cửa sổ đồng hóa cơ bắp lý tưởng, trong khi Progesterone thống trị Pha Hoàng thể (Ngày 16–26) làm tăng thân nhiệt và thúc đẩy quá trình dị hóa đạm. <a href="https://commons.wikimedia.org/wiki/File:Hormones_estradiol,_progesterone,_LH_and_FSH_during_menstrual_cycle.svg" target="_blank" rel="noopener noreferrer">Original Image Source: Wikimedia Commons ↗</a></figcaption>
+ <img src="images/DM_WH_01_figure.png" alt="Sơ Đồ Chu Kỳ Kinh Nguyệt & Các Pha Huấn Luyện: Minh họa 4 giai đoạn sinh lý (Kinh nguyệt, Nang trứng, Phóng noãn, Hoàng thể) làm kim chỉ nam điều chỉnh cường độ tập luyện và dinh dưỡng phục hồi." loading="lazy">
+ <figcaption>📊 <strong>Sơ Đồ Chu Kỳ Kinh Nguyệt & Các Pha Huấn Luyện: Minh họa 4 giai đoạn sinh lý (Kinh nguyệt, Nang trứng, Phóng noãn, Hoàng thể) làm kim chỉ nam điều chỉnh cường độ tập luyện và dinh dưỡng phục hồi.</strong> <a href="https://commons.wikimedia.org/wiki/File:Menstrual_Cycle_Diagram.svg" target="_blank" rel="noopener">Link sơ đồ y khoa gốc (Wikimedia Commons) ↗</a></figcaption>
 </figure>
 
 ---
@@ -107,8 +107,8 @@ For decades, exercise science textbooks and gym training programs were built aro
 As exercise physiologist **Dr. Stacy Sims** (scientific advisor to **WHOOP Menstrual Cycle Coaching**) famously put it: *"Women are not small men."* When you push through the exact same high-volume, high-heat workouts indiscriminately in Week 4 of your cycle as you do in Week 2—ignoring what your wearable's HRV, Resting Heart Rate, and skin temperature are telling you—you increase the risk of **overreaching, elevated cortisol, sleep disruption, and Relative Energy Deficiency in Sport (RED-S)**.
 
 <figure class="article-inline-diagram">
- <img src="images/DM_WH_01_figure.png" alt="Quantitative hormone curves of Estradiol, Progesterone, LH, and FSH across the menstrual cycle" loading="lazy">
- <figcaption>📊 <strong>The Endocrine Blueprint for Periodization:</strong> Notice how Estradiol climbs unchecked during the Follicular Phase (Days 7–14) to create a prime anabolic window, whereas Progesterone dominates the Luteal Phase (Days 16–26), raising core temperature and protein breakdown. <a href="https://commons.wikimedia.org/wiki/File:Hormones_estradiol,_progesterone,_LH_and_FSH_during_menstrual_cycle.svg" target="_blank" rel="noopener noreferrer">Original Image Source: Wikimedia Commons ↗</a></figcaption>
+ <img src="images/DM_WH_01_figure.png" alt="Menstrual Cycle Phases & Training Synchronization: The four physiological phases (menstrual, follicular, ovulation, luteal) guiding progressive overload and substrate recovery." loading="lazy">
+ <figcaption>📊 <strong>Menstrual Cycle Phases & Training Synchronization: The four physiological phases (menstrual, follicular, ovulation, luteal) guiding progressive overload and substrate recovery.</strong> <a href="https://commons.wikimedia.org/wiki/File:Menstrual_Cycle_Diagram.svg" target="_blank" rel="noopener">Original Image Source: Wikimedia Commons ↗</a></figcaption>
 </figure>
 
 ---

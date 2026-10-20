@@ -29,7 +29,7 @@ Tại sao kẽm lại có sức mạnh khủng khiếp như vậy?
 
 <figure class="article-inline-diagram">
  <img src="images/MW_NUT_05_figure.png" alt="Mô hình không gian ngón tay kẽm (Zinc Finger): Ion kẽm điều phối cấu trúc không gian giúp thụ thể androgen liên kết DNA và khởi động phiên mã gen." loading="lazy">
- <figcaption>📊 <strong>Sơ đồ y khoa:</strong> Mô hình không gian ngón tay kẽm (Zinc Finger): Ion kẽm điều phối cấu trúc không gian giúp thụ thể androgen liên kết DNA và khởi động phiên mã gen. <a href="https://commons.wikimedia.org/wiki/File:Zinc_finger_rendered.png" target="_blank" rel="noopener">Nguồn sơ đồ: Wikimedia Commons ↗</a></figcaption>
+ <figcaption>📊 <strong>Mô hình không gian ngón tay kẽm (Zinc Finger): Ion kẽm điều phối cấu trúc không gian giúp thụ thể androgen liên kết DNA và khởi động phiên mã gen.</strong> <a href="https://commons.wikimedia.org/wiki/File:Zinc_finger_rendered.png" target="_blank" rel="noopener">Link sơ đồ y khoa gốc (Wikimedia Commons) ↗</a></figcaption>
 </figure>
 
 ---
@@ -91,7 +91,7 @@ Why is zinc so biochemically indispensable?
 
 <figure class="article-inline-diagram">
  <img src="images/MW_NUT_05_figure.png" alt="Rendered zinc finger protein domain: Zinc coordination enables androgen receptor DNA binding and target gene activation." loading="lazy">
- <figcaption>📊 <strong>Scientific Figure:</strong> Rendered zinc finger protein domain: Zinc coordination enables androgen receptor DNA binding and target gene activation. <a href="https://commons.wikimedia.org/wiki/File:Zinc_finger_rendered.png" target="_blank" rel="noopener">Diagram source: Wikimedia Commons ↗</a></figcaption>
+ <figcaption>📊 <strong>Rendered zinc finger protein domain: Zinc coordination enables androgen receptor DNA binding and target gene activation.</strong> <a href="https://commons.wikimedia.org/wiki/File:Zinc_finger_rendered.png" target="_blank" rel="noopener">Original Image Source: Wikimedia Commons ↗</a></figcaption>
 </figure>
 
 ---

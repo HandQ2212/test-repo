@@ -28,7 +28,7 @@ Nghiên cứu lâm sàng (**Vingren et al., Sports Medicine**) cho thấy việc
 
 <figure class="article-inline-diagram">
  <img src="images/MW_NUT_04_figure.png" alt="Con đường chuyển hóa Ethanol qua gan: Quá trình phân giải rượu sinh ra các gốc oxy hóa gây ức chế cấp tính tế bào Leydig sản xuất testosterone." loading="lazy">
- <figcaption>📊 <strong>Sơ đồ y khoa:</strong> Con đường chuyển hóa Ethanol qua gan: Quá trình phân giải rượu sinh ra các gốc oxy hóa gây ức chế cấp tính tế bào Leydig sản xuất testosterone. <a href="https://commons.wikimedia.org/wiki/File:Ethanol_metabolism.png" target="_blank" rel="noopener">Nguồn sơ đồ: Wikimedia Commons ↗</a></figcaption>
+ <figcaption>📊 <strong>Con đường chuyển hóa Ethanol qua gan: Quá trình phân giải rượu sinh ra các gốc oxy hóa gây ức chế cấp tính tế bào Leydig sản xuất testosterone.</strong> <a href="https://commons.wikimedia.org/wiki/File:Ethanol_metabolism.png" target="_blank" rel="noopener">Link sơ đồ y khoa gốc (Wikimedia Commons) ↗</a></figcaption>
 </figure>
 
 ---
@@ -90,7 +90,7 @@ Clinical trials (**Vingren et al., Sports Medicine**) show that consuming 1.5g a
 
 <figure class="article-inline-diagram">
  <img src="images/MW_NUT_04_figure.png" alt="Ethanol metabolic pathway: Alcohol breakdown by alcohol dehydrogenase creates metabolic byproducts that acutely suppress Leydig cell steroidogenesis." loading="lazy">
- <figcaption>📊 <strong>Scientific Figure:</strong> Ethanol metabolic pathway: Alcohol breakdown by alcohol dehydrogenase creates metabolic byproducts that acutely suppress Leydig cell steroidogenesis. <a href="https://commons.wikimedia.org/wiki/File:Ethanol_metabolism.png" target="_blank" rel="noopener">Diagram source: Wikimedia Commons ↗</a></figcaption>
+ <figcaption>📊 <strong>Ethanol metabolic pathway: Alcohol breakdown by alcohol dehydrogenase creates metabolic byproducts that acutely suppress Leydig cell steroidogenesis.</strong> <a href="https://commons.wikimedia.org/wiki/File:Ethanol_metabolism.png" target="_blank" rel="noopener">Original Image Source: Wikimedia Commons ↗</a></figcaption>
 </figure>
 
 ---

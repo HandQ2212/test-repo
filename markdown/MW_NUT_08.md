@@ -28,7 +28,7 @@ Trên ứng dụng thiết bị đeo (Apple Watch, WHOOP), bạn sẽ thấy mì
 
 <figure class="article-inline-diagram">
  <img src="images/MW_NUT_08_figure.png" alt="Hệ thống Renin-Angiotensin-Aldosterone (RAAS): Bù nước đúng cách ngăn ngừa co thắt mạch máu thận, duy trì thể tích tống máu tim và sức bền vận động." loading="lazy">
- <figcaption>📊 <strong>Sơ đồ y khoa:</strong> Hệ thống Renin-Angiotensin-Aldosterone (RAAS): Bù nước đúng cách ngăn ngừa co thắt mạch máu thận, duy trì thể tích tống máu tim và sức bền vận động. <a href="https://commons.wikimedia.org/wiki/File:Renin-angiotensin-aldosterone_system.svg" target="_blank" rel="noopener">Nguồn sơ đồ: Wikimedia Commons ↗</a></figcaption>
+ <figcaption>📊 <strong>Hệ thống Renin-Angiotensin-Aldosterone (RAAS): Bù nước đúng cách ngăn ngừa co thắt mạch máu thận, duy trì thể tích tống máu tim và sức bền vận động.</strong> <a href="https://commons.wikimedia.org/wiki/File:Renin-angiotensin-aldosterone_system.svg" target="_blank" rel="noopener">Link sơ đồ y khoa gốc (Wikimedia Commons) ↗</a></figcaption>
 </figure>
 
 ---
@@ -95,7 +95,7 @@ On wearable devices, you are prematurely pushed from Zone 2 into Zone 4, Day Str
 
 <figure class="article-inline-diagram">
  <img src="images/MW_NUT_08_figure.png" alt="Renin-Angiotensin-Aldosterone System (RAAS): Adequate fluid intake prevents renal vasoconstriction, maintaining stroke volume and exercise tolerance." loading="lazy">
- <figcaption>📊 <strong>Scientific Figure:</strong> Renin-Angiotensin-Aldosterone System (RAAS): Adequate fluid intake prevents renal vasoconstriction, maintaining stroke volume and exercise tolerance. <a href="https://commons.wikimedia.org/wiki/File:Renin-angiotensin-aldosterone_system.svg" target="_blank" rel="noopener">Diagram source: Wikimedia Commons ↗</a></figcaption>
+ <figcaption>📊 <strong>Renin-Angiotensin-Aldosterone System (RAAS): Adequate fluid intake prevents renal vasoconstriction, maintaining stroke volume and exercise tolerance.</strong> <a href="https://commons.wikimedia.org/wiki/File:Renin-angiotensin-aldosterone_system.svg" target="_blank" rel="noopener">Original Image Source: Wikimedia Commons ↗</a></figcaption>
 </figure>
 
 ---

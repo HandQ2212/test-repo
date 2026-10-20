@@ -29,7 +29,7 @@ Kết luận khoa học thực tế: Đỉnh tăng ở ngày thứ 7 chỉ là m
 
 <figure class="article-inline-diagram">
  <img src="images/MW_SXO_06_figure.png" alt="Hệ nội tiết nam giới (Blausen Medical): Sự tăng prolactin và oxytocin sau xuất tinh chỉ diễn ra thoáng qua và không làm suy giảm dự trữ testosterone toàn thân." loading="lazy">
- <figcaption>📊 <strong>Sơ đồ y khoa:</strong> Hệ nội tiết nam giới (Blausen Medical): Sự tăng prolactin và oxytocin sau xuất tinh chỉ diễn ra thoáng qua và không làm suy giảm dự trữ testosterone toàn thân. <a href="https://commons.wikimedia.org/wiki/File:Blausen_0346_EndocrineSystem_Male2.png" target="_blank" rel="noopener">Nguồn sơ đồ: Wikimedia Commons ↗</a></figcaption>
+ <figcaption>📊 <strong>Hệ nội tiết nam giới (Blausen Medical): Sự tăng prolactin và oxytocin sau xuất tinh chỉ diễn ra thoáng qua và không làm suy giảm dự trữ testosterone toàn thân.</strong> <a href="https://commons.wikimedia.org/wiki/File:Blausen_0346_EndocrineSystem_Male2.png" target="_blank" rel="noopener">Link sơ đồ y khoa gốc (Wikimedia Commons) ↗</a></figcaption>
 </figure>
 
 ---
@@ -98,7 +98,7 @@ The scientific truth: The Day 7 spike is a brief homeostatic endocrine rebound o
 
 <figure class="article-inline-diagram">
  <img src="images/MW_SXO_06_figure.png" alt="The male endocrine system (Blausen Medical): Post-ejaculatory hormone surges (prolactin, oxytocin) are transient and do not deplete systemic androgen reserves." loading="lazy">
- <figcaption>📊 <strong>Scientific Figure:</strong> The male endocrine system (Blausen Medical): Post-ejaculatory hormone surges (prolactin, oxytocin) are transient and do not deplete systemic androgen reserves. <a href="https://commons.wikimedia.org/wiki/File:Blausen_0346_EndocrineSystem_Male2.png" target="_blank" rel="noopener">Diagram source: Wikimedia Commons ↗</a></figcaption>
+ <figcaption>📊 <strong>The male endocrine system (Blausen Medical): Post-ejaculatory hormone surges (prolactin, oxytocin) are transient and do not deplete systemic androgen reserves.</strong> <a href="https://commons.wikimedia.org/wiki/File:Blausen_0346_EndocrineSystem_Male2.png" target="_blank" rel="noopener">Original Image Source: Wikimedia Commons ↗</a></figcaption>
 </figure>
 
 ---

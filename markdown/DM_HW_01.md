@@ -24,8 +24,8 @@ Bạn đã bao giờ cố tự nhủ *"hãy bình tĩnh lại nào"* khi tim đa
 Như nhà thần kinh học **Tiến sĩ Andrew Huberman** và giáo sư tâm thần học **Tiến sĩ David Spiegel** tại Đại học Stanford giải thích, việc cố dùng suy nghĩ lý trí (từ trên xuống – top-down) để làm dịu trái tim đang đập loạn nhịp hiếm khi phát huy tác dụng ngay trong khoảnh khắc căng thẳng, bởi stress cấp tính làm suy yếu **vỏ não trước trán** đồng thời kích hoạt mạnh mẽ **hạch hạnh nhân (amygdala)** và các mạch thần kinh giao cảm ở thân não. Để bật công tắc bình tĩnh ngay tức thì, bạn cần một **đòn bẩy cơ học từ dưới lên (bottom-up)**—một cơ quan vật lý nằm dưới sự điều khiển chủ động của bạn nhưng lại kết nối trực tiếp vào nút tạo nhịp của trái tim. Đòn bẩy đó chính là **cơ hoành và Dây thần kinh Phế vị (Dây thần kinh sọ số X)**.
 
 <figure class="article-inline-diagram">
- <img src="images/DM_HW_01_figure.jpg" alt="Sơ đồ giải phẫu dây thần kinh phế vị chi phối tim, phổi và cơ hoành" loading="lazy">
- <figcaption>📊 <strong>Xa Lộ Dây Thần Kinh Phế Vị (Cranial Nerve X):</strong> Cách sự giãn nở cơ học của phổi và chuyển động nâng lên của cơ hoành trong pha thở ra kéo dài kích thích các sợi thần kinh đối giao cảm giải phóng acetylcholine trực tiếp lên nút xoang nhĩ của tim. <a href="https://commons.wikimedia.org/wiki/File:Anatomy_of_Anterior_Vagus_Nerve_Diagram.jpg" target="_blank" rel="noopener">Nguồn hình ảnh gốc: Wikimedia Commons ↗</a></figcaption>
+ <img src="images/DM_HW_01_figure.jpg" alt="Sơ đồ giải phẫu Dây thần kinh Sọ số 10 (Dây thần kinh Phế vị / CN X) phân nhánh từ hành não đi xuống vùng cổ và lồng ngực để chi phối nút xoang nhĩ của tim, phổi và cơ hoành." loading="lazy">
+ <figcaption>📊 <strong>Sơ đồ giải phẫu Dây thần kinh Sọ số 10 (Dây thần kinh Phế vị / CN X) phân nhánh từ hành não đi xuống vùng cổ và lồng ngực để chi phối nút xoang nhĩ của tim, phổi và cơ hoành.</strong> <a href="https://commons.wikimedia.org/wiki/File:Anatomy_of_Anterior_Vagus_Nerve_Diagram.jpg" target="_blank" rel="noopener">Link sơ đồ y khoa gốc (Wikimedia Commons) ↗</a></figcaption>
 </figure>
 
 ---
@@ -109,8 +109,8 @@ Have you ever tried to tell yourself *"just relax"* when your heart is pounding 
 As Stanford neuroscientist **Dr. Andrew Huberman** and psychiatrist **Dr. David Spiegel** explain, trying to use top-down cognitive thought to quiet a racing heart rarely works in the heat of the moment because acute stress deactivates your **prefrontal cortex** while hyper-activating your **amygdala** and brainstem sympathetic circuits. To flip the switch back to calm in real time, you need a **bottom-up mechanical lever**—a physical organ under your conscious control that is wired directly into your heart's pacemaker. That lever is your **diaphragm and Vagus Nerve (Cranial Nerve X)**.
 
 <figure class="article-inline-diagram">
- <img src="images/DM_HW_01_figure.jpg" alt="Anatomy of Anterior Vagus Nerve Diagram Innervating Heart and Lungs" loading="lazy">
- <figcaption>📊 <strong>The Vagus Nerve Highway (Cranial Nerve X):</strong> How mechanical expansion of the lungs and diaphragm during extended exhalations stimulates vagal parasympathetic fibers to release acetylcholine onto the heart's sinoatrial node. <a href="https://commons.wikimedia.org/wiki/File:Anatomy_of_Anterior_Vagus_Nerve_Diagram.jpg" target="_blank" rel="noopener">Original Image Source: Wikimedia Commons ↗</a></figcaption>
+ <img src="images/DM_HW_01_figure.jpg" alt="Anatomical diagram of the 10th Cranial Nerve (Vagus Nerve / CN X) branching from the brainstem medulla oblongata down through the neck and thorax to innervate the sinoatrial node of the heart, lungs, and diaphragm." loading="lazy">
+ <figcaption>📊 <strong>Anatomical diagram of the 10th Cranial Nerve (Vagus Nerve / CN X) branching from the brainstem medulla oblongata down through the neck and thorax to innervate the sinoatrial node of the heart, lungs, and diaphragm.</strong> <a href="https://commons.wikimedia.org/wiki/File:Anatomy_of_Anterior_Vagus_Nerve_Diagram.jpg" target="_blank" rel="noopener">Original Image Source: Wikimedia Commons ↗</a></figcaption>
 </figure>
 
 ---

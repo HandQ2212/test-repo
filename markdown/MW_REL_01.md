@@ -26,7 +26,7 @@ Tại Viện Nghiên cứu Gottman (Seattle), các nhà tâm lý học đã gắ
 
 <figure class="article-inline-diagram">
  <img src="images/MW_REL_01_figure.png" alt="Hệ thần kinh tự chủ ở người: Giao tiếp tôn trọng và giọng điệu êm dịu kích hoạt nhánh phó giao cảm dây thần kinh X, mang lại trạng thái an toàn sinh học giữa hai người." loading="lazy">
- <figcaption>📊 <strong>Sơ đồ y khoa:</strong> Hệ thần kinh tự chủ ở người: Giao tiếp tôn trọng và giọng điệu êm dịu kích hoạt nhánh phó giao cảm dây thần kinh X, mang lại trạng thái an toàn sinh học giữa hai người. <a href="https://commons.wikimedia.org/wiki/File:The_Autonomic_Nervous_System.png" target="_blank" rel="noopener">Nguồn sơ đồ: Wikimedia Commons ↗</a></figcaption>
+ <figcaption>📊 <strong>Hệ thần kinh tự chủ ở người: Giao tiếp tôn trọng và giọng điệu êm dịu kích hoạt nhánh phó giao cảm dây thần kinh X, mang lại trạng thái an toàn sinh học giữa hai người.</strong> <a href="https://commons.wikimedia.org/wiki/File:The_Autonomic_Nervous_System.png" target="_blank" rel="noopener">Link sơ đồ y khoa gốc (Wikimedia Commons) ↗</a></figcaption>
 </figure>
 
 ---
@@ -87,7 +87,7 @@ At the Gottman Institute in Seattle, psychologists wired couples to heart monito
 
 <figure class="article-inline-diagram">
  <img src="images/MW_REL_01_figure.png" alt="The human Autonomic Nervous System: Calming communication cues activate parasympathetic vagal pathways, establishing physiological safety during partner interactions." loading="lazy">
- <figcaption>📊 <strong>Scientific Figure:</strong> The human Autonomic Nervous System: Calming communication cues activate parasympathetic vagal pathways, establishing physiological safety during partner interactions. <a href="https://commons.wikimedia.org/wiki/File:The_Autonomic_Nervous_System.png" target="_blank" rel="noopener">Diagram source: Wikimedia Commons ↗</a></figcaption>
+ <figcaption>📊 <strong>The human Autonomic Nervous System: Calming communication cues activate parasympathetic vagal pathways, establishing physiological safety during partner interactions.</strong> <a href="https://commons.wikimedia.org/wiki/File:The_Autonomic_Nervous_System.png" target="_blank" rel="noopener">Original Image Source: Wikimedia Commons ↗</a></figcaption>
 </figure>
 
 ---

@@ -30,7 +30,7 @@ Khi bạn bước vào phòng ngủ với tâm trạng căng thẳng, lo âu v�
 
 <figure class="article-inline-diagram">
  <img src="images/MW_SXH_04_figure.png" alt="Trục Hạ đồi - Tuyến yên - Thượng thận (HPA): Cortisol tăng vọt trong căng thẳng mạn tính làm ức chế xung GnRH vùng dưới đồi và co thắt mạch máu hang." loading="lazy">
- <figcaption>📊 <strong>Sơ đồ y khoa:</strong> Trục Hạ đồi - Tuyến yên - Thượng thận (HPA): Cortisol tăng vọt trong căng thẳng mạn tính làm ức chế xung GnRH vùng dưới đồi và co thắt mạch máu hang. <a href="https://commons.wikimedia.org/wiki/File:HPA_Axis_Diagram_(Brian_M_Sweis_2012).svg" target="_blank" rel="noopener">Nguồn sơ đồ: Wikimedia Commons ↗</a></figcaption>
+ <figcaption>📊 <strong>Trục Hạ đồi - Tuyến yên - Thượng thận (HPA): Cortisol tăng vọt trong căng thẳng mạn tính làm ức chế xung GnRH vùng dưới đồi và co thắt mạch máu hang.</strong> <a href="https://commons.wikimedia.org/wiki/File:HPA_Axis_Diagram_(Brian_M_Sweis_2012).svg" target="_blank" rel="noopener">Link sơ đồ y khoa gốc (Wikimedia Commons) ↗</a></figcaption>
 </figure>
 
 ---
@@ -98,7 +98,7 @@ Entering intimacy under stress, career dread, or fear of failure activates **sym
 
 <figure class="article-inline-diagram">
  <img src="images/MW_SXH_04_figure.png" alt="Hypothalamic-Pituitary-Adrenal (HPA) Axis feedback system: Cortisol elevations during severe stress suppress central GnRH pulsatility and sympathetic vascular control." loading="lazy">
- <figcaption>📊 <strong>Scientific Figure:</strong> Hypothalamic-Pituitary-Adrenal (HPA) Axis feedback system: Cortisol elevations during severe stress suppress central GnRH pulsatility and sympathetic vascular control. <a href="https://commons.wikimedia.org/wiki/File:HPA_Axis_Diagram_(Brian_M_Sweis_2012).svg" target="_blank" rel="noopener">Diagram source: Wikimedia Commons ↗</a></figcaption>
+ <figcaption>📊 <strong>Hypothalamic-Pituitary-Adrenal (HPA) Axis feedback system: Cortisol elevations during severe stress suppress central GnRH pulsatility and sympathetic vascular control.</strong> <a href="https://commons.wikimedia.org/wiki/File:HPA_Axis_Diagram_(Brian_M_Sweis_2012).svg" target="_blank" rel="noopener">Original Image Source: Wikimedia Commons ↗</a></figcaption>
 </figure>
 
 ---

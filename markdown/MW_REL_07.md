@@ -29,7 +29,7 @@ Khoảnh khắc ông chọn **bước qua cánh cửa trượt để kết nối
 
 <figure class="article-inline-diagram">
  <img src="images/MW_REL_07_figure.png" alt="Lưới 4 phong cách gắn bó người trưởng thành: Sự đồng điệu và đáng tin cậy trong các tương tác nhỏ hàng ngày giúp củng cố phong cách gắn bó an toàn dài hạn." loading="lazy">
- <figcaption>📊 <strong>Sơ đồ y khoa:</strong> Lưới 4 phong cách gắn bó người trưởng thành: Sự đồng điệu và đáng tin cậy trong các tương tác nhỏ hàng ngày giúp củng cố phong cách gắn bó an toàn dài hạn. <a href="https://commons.wikimedia.org/wiki/File:Adult_attachment_patterns.svg" target="_blank" rel="noopener">Nguồn sơ đồ: Wikimedia Commons ↗</a></figcaption>
+ <figcaption>📊 <strong>Lưới 4 phong cách gắn bó người trưởng thành: Sự đồng điệu và đáng tin cậy trong các tương tác nhỏ hàng ngày giúp củng cố phong cách gắn bó an toàn dài hạn.</strong> <a href="https://commons.wikimedia.org/wiki/File:Adult_attachment_patterns.svg" target="_blank" rel="noopener">Link sơ đồ y khoa gốc (Wikimedia Commons) ↗</a></figcaption>
 </figure>
 
 ---
@@ -95,7 +95,7 @@ Stepping through that sliding door to connect constructed a durable brick of neu
 
 <figure class="article-inline-diagram">
  <img src="images/MW_REL_07_figure.png" alt="Adult attachment patterns grid: Consistent micro-attunements and emotional reliability foster secure attachment bonds over time." loading="lazy">
- <figcaption>📊 <strong>Scientific Figure:</strong> Adult attachment patterns grid: Consistent micro-attunements and emotional reliability foster secure attachment bonds over time. <a href="https://commons.wikimedia.org/wiki/File:Adult_attachment_patterns.svg" target="_blank" rel="noopener">Diagram source: Wikimedia Commons ↗</a></figcaption>
+ <figcaption>📊 <strong>Adult attachment patterns grid: Consistent micro-attunements and emotional reliability foster secure attachment bonds over time.</strong> <a href="https://commons.wikimedia.org/wiki/File:Adult_attachment_patterns.svg" target="_blank" rel="noopener">Original Image Source: Wikimedia Commons ↗</a></figcaption>
 </figure>
 
 ---

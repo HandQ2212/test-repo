@@ -24,8 +24,8 @@ Không giống như các đồng hồ bấm giờ tập luyện truyền thống
 Ngay từ khoảnh khắc bạn thức dậy, cơ thể đã tiêu tốn năng lượng tim mạch và thần kinh-cơ không chỉ trong 60 phút tập gym, mà cả khi bạn vội vã chạy qua sảnh sân bay, xách đồ nặng leo cầu thang, hay đứng thuyết trình căng thẳng khiến hormone adrenaline đẩy nhịp tim tăng vọt. Day Strain đo lường **tổng chi phí sinh lý nội tại tích lũy suốt 24 giờ**—phản ánh cách cơ thể bạn *phản ứng* với áp lực chứ không chỉ đếm quãng đường hay mức tạ bên ngoài.
 
 <figure class="article-inline-diagram">
- <img src="images/LM_AC_02_figure.png" alt="Các yếu tố sinh lý làm tăng cung lượng tim khi tải trọng vận động tăng cao" loading="lazy">
- <figcaption>📊 <strong>Cung Lượng Tim & Kích Thích Thần Kinh Tự Chủ:</strong> Cách sự kích hoạt hệ thần kinh giao cảm, mức tăng thể tích nhát bóp và tần số tim phối hợp tạo nên tổng tải trọng tim mạch tích lũy. <a href="https://commons.wikimedia.org/wiki/File:CO_Incresing.png" target="_blank" rel="noopener">Nguồn hình ảnh gốc: Wikimedia Commons ↗</a></figcaption>
+ <img src="images/LM_AC_02_figure.png" alt="Các yếu tố sinh lý làm tăng Cung lượng tim (Thể tích nhát bóp × Tần số tim) thông qua kích thích hệ thần kinh giao cảm, giải phóng catecholamine và tăng hồi lưu tĩnh mạch khi tải trọng vận động leo thang." loading="lazy">
+ <figcaption>📊 <strong>Các yếu tố sinh lý làm tăng Cung lượng tim (Thể tích nhát bóp × Tần số tim) thông qua kích thích hệ thần kinh giao cảm, giải phóng catecholamine và tăng hồi lưu tĩnh mạch khi tải trọng vận động leo thang.</strong> <a href="https://commons.wikimedia.org/wiki/File:CO_Incresing.png" target="_blank" rel="noopener">Link sơ đồ y khoa gốc (Wikimedia Commons) ↗</a></figcaption>
 </figure>
 
 ---
@@ -104,8 +104,8 @@ Unlike traditional workout timers that only log exercise when you manually press
 From the moment you wake up, your body expends cardiovascular and neuromuscular energy not only during your 60-minute gym session, but also when you sprint through an airport terminal, carry heavy groceries up stairs, or stand during a high-stakes presentation where adrenaline elevates your heart rate. Day Strain captures this **cumulative 24-hour internal physiological cost**—measuring how your body *responded* to stress rather than just the external distance or weight you moved.
 
 <figure class="article-inline-diagram">
- <img src="images/LM_AC_02_figure.png" alt="Physiological Factors Increasing Cardiac Output During Exercise Strain" loading="lazy">
- <figcaption>📊 <strong>Cardiac Output & Autonomic Drive:</strong> How sympathetic nervous system activation, stroke volume expansion, and heart rate elevation combine to drive cumulative cardiovascular strain. <a href="https://commons.wikimedia.org/wiki/File:CO_Incresing.png" target="_blank" rel="noopener">Original Image Source: Wikimedia Commons ↗</a></figcaption>
+ <img src="images/LM_AC_02_figure.png" alt="Physiological factors increasing Cardiac Output (Stroke Volume × Heart Rate) through sympathetic nervous stimulation, catecholamine release, and increased venous return during escalating physical strain." loading="lazy">
+ <figcaption>📊 <strong>Physiological factors increasing Cardiac Output (Stroke Volume × Heart Rate) through sympathetic nervous stimulation, catecholamine release, and increased venous return during escalating physical strain.</strong> <a href="https://commons.wikimedia.org/wiki/File:CO_Incresing.png" target="_blank" rel="noopener">Original Image Source: Wikimedia Commons ↗</a></figcaption>
 </figure>
 
 ---

@@ -26,7 +26,7 @@ Trong một nghiên cứu tâm lý học - sinh học thần kinh được tríc
 
 <figure class="article-inline-diagram">
  <img src="images/MW_REL_08_figure.png" alt="Giải phẫu chức năng não bộ: Thiếu ngủ làm mất kết nối ức chế giữa thùy trán và hạch hạnh nhân, khiến phản xạ tự vệ bùng phát và nhân đôi nguy cơ xung đột vợ chồng." loading="lazy">
- <figcaption>📊 <strong>Sơ đồ y khoa:</strong> Giải phẫu chức năng não bộ: Thiếu ngủ làm mất kết nối ức chế giữa thùy trán và hạch hạnh nhân, khiến phản xạ tự vệ bùng phát và nhân đôi nguy cơ xung đột vợ chồng. <a href="https://commons.wikimedia.org/wiki/File:Brain_anatomy.svg" target="_blank" rel="noopener">Nguồn sơ đồ: Wikimedia Commons ↗</a></figcaption>
+ <figcaption>📊 <strong>Giải phẫu chức năng não bộ: Thiếu ngủ làm mất kết nối ức chế giữa thùy trán và hạch hạnh nhân, khiến phản xạ tự vệ bùng phát và nhân đôi nguy cơ xung đột vợ chồng.</strong> <a href="https://commons.wikimedia.org/wiki/File:Brain_anatomy.svg" target="_blank" rel="noopener">Link sơ đồ y khoa gốc (Wikimedia Commons) ↗</a></figcaption>
 </figure>
 
 ---
@@ -85,7 +85,7 @@ In an influential neuro-behavioral study by **Gordon & Chen (Social Psychologica
 
 <figure class="article-inline-diagram">
  <img src="images/MW_REL_08_figure.png" alt="Functional brain regions: Sleep deprivation uncouples top-down prefrontal inhibition of the amygdala, elevating perceived interpersonal threat and hostility." loading="lazy">
- <figcaption>📊 <strong>Scientific Figure:</strong> Functional brain regions: Sleep deprivation uncouples top-down prefrontal inhibition of the amygdala, elevating perceived interpersonal threat and hostility. <a href="https://commons.wikimedia.org/wiki/File:Brain_anatomy.svg" target="_blank" rel="noopener">Diagram source: Wikimedia Commons ↗</a></figcaption>
+ <figcaption>📊 <strong>Functional brain regions: Sleep deprivation uncouples top-down prefrontal inhibition of the amygdala, elevating perceived interpersonal threat and hostility.</strong> <a href="https://commons.wikimedia.org/wiki/File:Brain_anatomy.svg" target="_blank" rel="noopener">Original Image Source: Wikimedia Commons ↗</a></figcaption>
 </figure>
 
 ---

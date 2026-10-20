@@ -25,8 +25,8 @@ Trong thực tế y khoa, hai hiện tượng này hoàn toàn có thể xảy r
 - *Bằng chứng lâm sàng:* Những bệnh nhân bị tổn thương tủy sống hoặc sau phẫu thuật cắt bỏ tuyến tiền liệt vẫn có thể đạt được cảm giác cực khoái trọn vẹn trong não bộ dù **hoàn toàn không có một giọt tinh dịch nào được phóng ra (Cực khoái khô - Dry Orgasm)**. Ngược lại, một số phản xạ xuất tinh bệnh lý có thể xảy ra mà không hề đem lại bất kỳ khoái cảm nào.
 
 <figure class="article-inline-diagram">
- <img src="images/MW_SXO_05_figure.png" alt="Các cơ nông đáy chậu nam giới (OpenStax): Sự co bóp nhịp nhàng của cơ hành hang (Bulbospongiosus) và cơ ngồi hang tống xuất tinh dịch trong cực khoái." loading="lazy">
- <figcaption>📊 <strong>Sơ đồ y khoa:</strong> Các cơ nông đáy chậu nam giới (OpenStax): Sự co bóp nhịp nhàng của cơ hành hang (Bulbospongiosus) và cơ ngồi hang tống xuất tinh dịch trong cực khoái. <a href="https://commons.wikimedia.org/wiki/File:1116_Muscle_of_the_Male_Perineum.png" target="_blank" rel="noopener">Nguồn sơ đồ: Wikimedia Commons ↗</a></figcaption>
+ <img src="images/MW_SXO_05_figure.png" alt="Giải Phẫu Lớp Sâu Đáy Chậu Nam Giới & Cơ Thắt Niệu Đạo (Gray's Anatomy 407): Cơ thắt niệu đạo màng và các tuyến hành niệu đạo chịu trách nhiệm cho các cơn co thắt nhịp nhàng tống xuất tinh dịch trong pha cực khoái." loading="lazy">
+ <figcaption>📊 <strong>Giải Phẫu Lớp Sâu Đáy Chậu Nam Giới & Cơ Thắt Niệu Đạo (Gray's Anatomy 407): Cơ thắt niệu đạo màng và các tuyến hành niệu đạo chịu trách nhiệm cho các cơn co thắt nhịp nhàng tống xuất tinh dịch trong pha cực khoái.</strong> <a href="https://commons.wikimedia.org/wiki/File:Gray407.png" target="_blank" rel="noopener">Link sơ đồ y khoa gốc (Wikimedia Commons) ↗</a></figcaption>
 </figure>
 
 ---
@@ -89,8 +89,8 @@ In clinical medicine, orgasm and ejaculation are neurobiologically independent p
 - *Clinical Reality:* Patients with complete spinal cord injuries or following radical prostatectomy achieve full, ecstatic orgasmic sensation without expelling fluid (**Dry Orgasm**). Conversely, pathological spinal reflexes can trigger ejaculation without orgasmic pleasure.
 
 <figure class="article-inline-diagram">
- <img src="images/MW_SXO_05_figure.png" alt="Superficial muscles of the male perineum (OpenStax): Rhythmic contractions of bulbospongiosus and ischiocavernosus muscles drive forceful seminal expulsion." loading="lazy">
- <figcaption>📊 <strong>Scientific Figure:</strong> Superficial muscles of the male perineum (OpenStax): Rhythmic contractions of bulbospongiosus and ischiocavernosus muscles drive forceful seminal expulsion. <a href="https://commons.wikimedia.org/wiki/File:1116_Muscle_of_the_Male_Perineum.png" target="_blank" rel="noopener">Diagram source: Wikimedia Commons ↗</a></figcaption>
+ <img src="images/MW_SXO_05_figure.png" alt="Deep Musculature of the Male Perineum (Gray's Anatomy 407): The sphincter urethrae membranaceae and bulbourethral glands coordinating rhythmic contractions during the ejaculatory reflex." loading="lazy">
+ <figcaption>📊 <strong>Deep Musculature of the Male Perineum (Gray's Anatomy 407): The sphincter urethrae membranaceae and bulbourethral glands coordinating rhythmic contractions during the ejaculatory reflex.</strong> <a href="https://commons.wikimedia.org/wiki/File:Gray407.png" target="_blank" rel="noopener">Original Image Source: Wikimedia Commons ↗</a></figcaption>
 </figure>
 
 ---

@@ -27,7 +27,7 @@ Khi nam giới áp dụng chế độ ăn kiêng quá nghiêm ngặt với hàm 
 
 <figure class="article-inline-diagram">
  <img src="images/MW_NUT_01_figure.png" alt="Sơ đồ sinh tổng hợp steroid (Steroidogenesis): Cholesterol được vận chuyển vào ty thể tế bào Leydig dưới tác động của enzyme StAR để tổng hợp nên Testosterone." loading="lazy">
- <figcaption>📊 <strong>Sơ đồ y khoa:</strong> Sơ đồ sinh tổng hợp steroid (Steroidogenesis): Cholesterol được vận chuyển vào ty thể tế bào Leydig dưới tác động của enzyme StAR để tổng hợp nên Testosterone. <a href="https://commons.wikimedia.org/wiki/File:Steroidogenesis.svg" target="_blank" rel="noopener">Nguồn sơ đồ: Wikimedia Commons ↗</a></figcaption>
+ <figcaption>📊 <strong>Sơ đồ sinh tổng hợp steroid (Steroidogenesis): Cholesterol được vận chuyển vào ty thể tế bào Leydig dưới tác động của enzyme StAR để tổng hợp nên Testosterone.</strong> <a href="https://commons.wikimedia.org/wiki/File:Steroidogenesis.svg" target="_blank" rel="noopener">Link sơ đồ y khoa gốc (Wikimedia Commons) ↗</a></figcaption>
 </figure>
 
 ---
@@ -92,7 +92,7 @@ When men adopt an overly restrictive diet slashing dietary fat below 15% of tota
 
 <figure class="article-inline-diagram">
  <img src="images/MW_NUT_01_figure.png" alt="Steroidogenesis biochemical pathway: Cholesterol is cleaved by mitochondrial StAR and CYP enzymes in Leydig cells to synthesize testosterone." loading="lazy">
- <figcaption>📊 <strong>Scientific Figure:</strong> Steroidogenesis biochemical pathway: Cholesterol is cleaved by mitochondrial StAR and CYP enzymes in Leydig cells to synthesize testosterone. <a href="https://commons.wikimedia.org/wiki/File:Steroidogenesis.svg" target="_blank" rel="noopener">Diagram source: Wikimedia Commons ↗</a></figcaption>
+ <figcaption>📊 <strong>Steroidogenesis biochemical pathway: Cholesterol is cleaved by mitochondrial StAR and CYP enzymes in Leydig cells to synthesize testosterone.</strong> <a href="https://commons.wikimedia.org/wiki/File:Steroidogenesis.svg" target="_blank" rel="noopener">Original Image Source: Wikimedia Commons ↗</a></figcaption>
 </figure>
 
 ---

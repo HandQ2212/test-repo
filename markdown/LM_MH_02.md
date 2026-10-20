@@ -28,8 +28,8 @@ Câu trả lời y khoa là **Tuyệt đối KHÔNG. Mọi buổi tập Kegel đ
 3. **Huy Động 100% Biên Độ Co Giãn Của Sợi Cơ (Sarcomere):** Ở trạng thái mềm, cơ Hành hang, cơ Ngồi hang và cơ Mu cụt nằm ở chiều dài nghỉ tự nhiên. Điều này cho phép bạn đưa các sợi cơ đi qua **100% biên độ co hướng tâm (nâng lên)** tiếp nối bằng **100% biên độ giãn tâm sai (hạ xuống hoàn toàn)** mà không bị cản trở bởi sự ứ máu.
 
 <figure class="article-inline-diagram">
- <img src="images/LM_MH_02_figure.jpg" alt="Cơ học hô hấp bằng cơ hoành và áp lực khoang ngực chậu" loading="lazy">
- <figcaption>📊 <strong>Hệ Thống Pít-tông Ngực – Chậu:</strong> Cách cơ hoành hô hấp và sàn chậu di chuyển đồng bộ nhịp nhàng trong pha hít vào và thở ra để điều hòa áp lực ổ bụng. <a href="https://commons.wikimedia.org/wiki/File:Breathing_at_rest.jpg" target="_blank" rel="noopener noreferrer">Original Image Source: Wikimedia Commons ↗</a></figcaption>
+ <img src="images/LM_MH_02_figure.jpg" alt="Cơ học hô hấp bằng cơ hoành lúc nghỉ ngơi và khi vận động, cho thấy sự di chuyển xuống dưới của cơ hoành khi hít vào và nâng lên khi thở ra phối hợp đồng bộ với áp lực ổ bụng và biên độ co giãn của sàn chậu." loading="lazy">
+ <figcaption>📊 <strong>Cơ học hô hấp bằng cơ hoành lúc nghỉ ngơi và khi vận động, cho thấy sự di chuyển xuống dưới của cơ hoành khi hít vào và nâng lên khi thở ra phối hợp đồng bộ với áp lực ổ bụng và biên độ co giãn của sàn chậu.</strong> <a href="https://commons.wikimedia.org/wiki/File:Breathing_at_rest.jpg" target="_blank" rel="noopener">Link sơ đồ y khoa gốc (Wikimedia Commons) ↗</a></figcaption>
 </figure>
 
 ---
@@ -111,8 +111,8 @@ The clinical answer is an unequivocal **No. Routine Kegel workouts must always b
 3. **Full Range-of-Motion Sarcomere Recruitment:** In a flaccid state, the Bulbocavernosus, Ischiocavernosus, and Pubococcygeus muscles sit at their natural resting length. This allows you to take the muscle fibers through a **100% concentric contraction (lifting up)** followed by a **100% eccentric elongation (dropping down)** without vascular congestion getting in the way.
 
 <figure class="article-inline-diagram">
- <img src="images/LM_MH_02_figure.jpg" alt="Diaphragmatic Breathing Mechanics and Thoraco-Pelvic Pressure" loading="lazy">
- <figcaption>📊 <strong>The Thoraco-Pelvic Piston:</strong> How the respiratory diaphragm and the pelvic floor move in synchronized harmony during inhalation and exhalation to regulate intra-abdominal pressure. <a href="https://commons.wikimedia.org/wiki/File:Breathing_at_rest.jpg" target="_blank" rel="noopener noreferrer">Original Image Source: Wikimedia Commons ↗</a></figcaption>
+ <img src="images/LM_MH_02_figure.jpg" alt="Diaphragmatic breathing mechanics at rest and during exertion, showing how thoracic diaphragm descent on inhalation and ascent on exhalation coordinate directly with intra-abdominal pressure and pelvic floor excursion." loading="lazy">
+ <figcaption>📊 <strong>Diaphragmatic breathing mechanics at rest and during exertion, showing how thoracic diaphragm descent on inhalation and ascent on exhalation coordinate directly with intra-abdominal pressure and pelvic floor excursion.</strong> <a href="https://commons.wikimedia.org/wiki/File:Breathing_at_rest.jpg" target="_blank" rel="noopener">Original Image Source: Wikimedia Commons ↗</a></figcaption>
 </figure>
 
 ---

@@ -24,8 +24,8 @@ Mỗi buổi sáng, khi mở màn hình chi tiết giấc ngủ trên **WHOOP**,
 Không hề là một trạng thái bất tỉnh đồng nhất, giấc ngủ khỏe mạnh của con người được tổ chức thành các **Chu kỳ Ultradian** kéo dài khoảng **90 đến 110 phút mỗi chu kỳ**. Trong một đêm ngủ 8 tiếng, não bộ đi qua từ 4 đến 5 chu kỳ hoàn chỉnh. Điều quan trọng nhất là tỷ lệ giữa các giai đoạn trong từng chu kỳ thay đổi hoàn toàn từ lúc bạn mới chợp mắt cho đến khi bình minh lên.
 
 <figure class="article-inline-diagram">
- <img src="images/LM_SL_02_figure.png" alt="Biểu đồ Hypnogram lâm sàng thể hiện các chu kỳ giấc ngủ 90 phút trong đêm" loading="lazy">
- <figcaption>📊 <strong>Cấu Trúc Giấc Ngủ Qua Đêm (Hypnogram):</strong> Hãy chú ý cách Giấc ngủ Sâu sóng chậm (Stage 3/4) chiếm ưu thế tuyệt đối ở nửa đầu của đêm (Giờ 1–3), trong khi Giấc ngủ REM mở rộng thành các khối dài hơn rất nhiều vào những giờ cuối trước khi thức dậy. <a href="https://commons.wikimedia.org/wiki/File:Sleep_Hypnogram.svg" target="_blank" rel="noopener">Nguồn Ảnh Gốc: Wikimedia Commons ↗</a></figcaption>
+ <img src="images/LM_SL_02_figure.png" alt="Biểu đồ cấu trúc giấc ngủ (Hypnogram) lâm sàng trong 8 giờ, minh họa rõ Giấc ngủ Sâu sóng chậm (Giai đoạn 3–4) chiếm ưu thế ở hai chu kỳ 90 phút đầu đêm, trong khi các khối Giấc ngủ REM kéo dài dần về phía rạng sáng." loading="lazy">
+ <figcaption>📊 <strong>Biểu đồ cấu trúc giấc ngủ (Hypnogram) lâm sàng trong 8 giờ, minh họa rõ Giấc ngủ Sâu sóng chậm (Giai đoạn 3–4) chiếm ưu thế ở hai chu kỳ 90 phút đầu đêm, trong khi các khối Giấc ngủ REM kéo dài dần về phía rạng sáng.</strong> <a href="https://commons.wikimedia.org/wiki/File:Sleep_Hypnogram.svg" target="_blank" rel="noopener">Link sơ đồ y khoa gốc (Wikimedia Commons) ↗</a></figcaption>
 </figure>
 
 ---
@@ -112,8 +112,8 @@ When you look at the sleep details screen on your **WHOOP**, **Oura Ring**, **Ga
 Far from being a uniform state of unconsciousness, healthy human sleep is organized into **Ultradian Cycles** lasting roughly **90 to 110 minutes each**. Over an 8-hour night, your brain progresses through four to five complete cycles. Crucially, the composition of those cycles changes dramatically from the moment you fall asleep to the moment you wake up.
 
 <figure class="article-inline-diagram">
- <img src="images/LM_SL_02_figure.png" alt="Clinical Sleep Hypnogram Showing 90-Minute Ultradian Cycles" loading="lazy">
- <figcaption>📊 <strong>Overnight Sleep Architecture (Hypnogram):</strong> Notice how Deep Slow-Wave Sleep (Stage 3/4) dominates the first half of the night (Hours 1–3), while REM Sleep (highlighted in red/green peaks) expands into much longer blocks during the final hours before waking. <a href="https://commons.wikimedia.org/wiki/File:Sleep_Hypnogram.svg" target="_blank" rel="noopener">Original Image Source: Wikimedia Commons ↗</a></figcaption>
+ <img src="images/LM_SL_02_figure.png" alt="Clinical overnight sleep hypnogram across an 8-hour window, showing how Deep Slow-Wave Sleep (Stages 3–4) dominates the first two 90-minute ultradian cycles while REM sleep blocks lengthen progressively toward morning." loading="lazy">
+ <figcaption>📊 <strong>Clinical overnight sleep hypnogram across an 8-hour window, showing how Deep Slow-Wave Sleep (Stages 3–4) dominates the first two 90-minute ultradian cycles while REM sleep blocks lengthen progressively toward morning.</strong> <a href="https://commons.wikimedia.org/wiki/File:Sleep_Hypnogram.svg" target="_blank" rel="noopener">Original Image Source: Wikimedia Commons ↗</a></figcaption>
 </figure>
 
 ---
