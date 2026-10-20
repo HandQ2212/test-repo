@@ -1,22 +1,21 @@
-# 🇻🇳 Nhịp Tim Nghỉ Ban Đêm (Overnight RHR): Mạch Đập Khi Ngủ Tiết Lộ Gì Về Thể Lực Và Mức Độ Phục Hồi?
-# 🇬🇧 Overnight Resting Heart Rate (RHR): What Your Sleeping Pulse Reveals About Fitness and Recovery
-
-- **Article ID:** `LM_RC_02`
-- **Category:** Recovery — Resting Heart Rate
-- **Content Type:** Learn more
-- **Mapped App Screen & Metric:** `Recovery Screen` (`Resting Heart Rate (RHR)`)
-- **Reading Time:** 8 phút đọc / 8 min
-- **Local Hero Photo:** `images/LM_RC_02_hero.jpg` ([Original Photo Source ↗](https://images.unsplash.com/photo-1576091160550-2173dba999ef?auto=format&fit=crop&w=1200&q=85))
-- **Local Medical Figure:** `images/LM_RC_02_figure.jpg` ([Original Wikimedia Commons Source ↗](https://commons.wikimedia.org/wiki/File:2031_Factors_in_Cardiac_Output.jpg))
-- **Primary Clinical & Wearable Source:** [PLOS ONE (Quer et al., 2020) & OpenStax Anatomy / Oura & WHOOP Science](https://pubmed.ncbi.nlm.nih.gov/32027692/)
+# LM_RC_02 - Nhịp Tim Nghỉ Ban Đêm (Overnight RHR): Mạch Đập Khi Ngủ Tiết Lộ Gì Về Thể Lực Và Mức Độ Phục Hồi?
+**Category:** Recovery 
+**Screen:** Recovery Screen 
+**Metric:** Resting Heart Rate (RHR) 
+**Reading Time:** 8 phút đọc / 8 min 
+**Hero Image:** ![Nhịp Tim Nghỉ Ban Đêm (Overnight RHR): Mạch Đập Khi Ngủ Tiết Lộ Gì Về Thể Lực Và Mức Độ Phục Hồi?](images/LM_RC_02_hero.jpg) *(Source: [https://images.unsplash.com/photo-1576091160550-2173dba999ef?auto=format&fit=crop&w=1200&q=85](https://images.unsplash.com/photo-1576091160550-2173dba999ef?auto=format&fit=crop&w=1200&q=85))* 
+**Inline Figure:** ![Sơ đồ Giải phẫu & Sinh lý học OpenStax ('Các yếu tố quyết định Cung lượng tim') minh họa phương trình Cung lượng tim = Nhịp tim × Thể tích nhát bóp, chịu sự điều phối của hệ thần kinh tự chủ, lượng máu tĩnh mạch trở về, tiền tải và sức co bóp cơ tim.](images/LM_RC_02_figure.jpg) *(Source: [https://commons.wikimedia.org/wiki/File:2031_Factors_in_Cardiac_Output.jpg](https://commons.wikimedia.org/wiki/File:2031_Factors_in_Cardiac_Output.jpg))* 
+**Clinical Source:** [PLOS ONE (Quer et al., 2020) & OpenStax Anatomy / Oura & WHOOP Science](https://pubmed.ncbi.nlm.nih.gov/32027692/) 
 
 ---
 
-## 🇻🇳 BẢN TIẾNG VIỆT
+## 🇻🇳 Phiên Bản Tiếng Việt (Vietnamese Edition)
 
-> **Tóm tắt:** Nhịp tim nghỉ ban đêm (Overnight RHR) là một trong những thước đo rõ ràng nhất về sức bền tim mạch và trạng thái phục hồi hàng ngày. Khám phá lý do đồng hồ thông minh đo RHR khi bạn ngủ, cách thể tích nhát bóp giúp giảm nhịp tim theo thời gian, và ý nghĩa đằng sau việc RHR bất ngờ tăng vọt +5 nhịp/phút qua đêm.
+# Nhịp Tim Nghỉ Ban Đêm (Overnight RHR): Mạch Đập Khi Ngủ Tiết Lộ Gì Về Thể Lực Và Mức Độ Phục Hồi?
 
-> 💡 **Điểm Cốt Lõi & Hành Động Thực Tế:** Sự giảm dần của Nhịp tim nghỉ ban đêm (RHR) theo từng tháng phản ánh tâm thất trái khỏe hơn và Thể tích nhát bóp (Stroke Volume) lớn hơn nhờ tập luyện sức bền. Ngược lại, nếu RHR tăng đột ngột từ +4 đến +8 nhịp/phút so với mức nền 30 ngày chỉ sau một đêm, đó là tín hiệu cảnh báo tức thời của quá trình chuyển hóa cồn, mất nước, ăn khuya hoặc cơ thể đang ủ bệnh nhiễm trùng.
+> **Tóm tắt (Sapo):** Nhịp tim nghỉ ban đêm (Overnight RHR) là một trong những thước đo rõ ràng nhất về sức bền tim mạch và trạng thái phục hồi hàng ngày. Khám phá lý do đồng hồ thông minh đo RHR khi bạn ngủ, cách thể tích nhát bóp giúp giảm nhịp tim theo thời gian, và ý nghĩa đằng sau việc RHR bất ngờ tăng vọt +5 nhịp/phút qua đêm.
+
+> 💡 **Điểm Cốt Lõi & Hành Động Thực Tế (Key Takeaway):** Sự giảm dần của Nhịp tim nghỉ ban đêm (RHR) theo từng tháng phản ánh tâm thất trái khỏe hơn và Thể tích nhát bóp (Stroke Volume) lớn hơn nhờ tập luyện sức bền. Ngược lại, nếu RHR tăng đột ngột từ +4 đến +8 nhịp/phút so với mức nền 30 ngày chỉ sau một đêm, đó là tín hiệu cảnh báo tức thời của quá trình chuyển hóa cồn, mất nước, ăn khuya hoặc cơ thể đang ủ bệnh nhiễm trùng.
 
 ## Tại Sao Thiết Bị Đeo Lại Đo Nhịp Tim Nghỉ Khi Bạn Đang Ngủ?
 
@@ -85,18 +84,20 @@ Trong khi xu hướng RHR trong 90 ngày phản ánh **nền tảng thể lực 
 
 ## Tài Liệu Tham Khảo & Nguồn Y Khoa
 
-1. **Quer, G., Gouda, P., Galarnyk, M., Topol, E. J., & Steinhubl, S. R. (2020).** *Inter- and intraindividual variability in daily resting heart rate and its associations with age, sex, sleep, BMI, and time of year: Retrospective, longitudinal cohort study of 92,457 adults.* PLOS ONE, 15(2), e0227709. [https://pubmed.ncbi.nlm.nih.gov/32027692/](https://pubmed.ncbi.nlm.nih.gov/32027692/)
-2. **Reimers, A. K., Knapp, G., & Reimers, C. D. (2018).** *Effects of Exercise on the Resting Heart Rate: A Systematic Review and Meta-Analysis of Interventional Studies.* Journal of Clinical Medicine, 7(12), 503. [https://pubmed.ncbi.nlm.nih.gov/30513777/](https://pubmed.ncbi.nlm.nih.gov/30513777/)
-3. **Oura Ring Pulse Blog.** *Resting Heart Rate: What Is a Normal RHR & How to Lower Yours.* [https://ouraring.com/blog/resting-heart-rate/](https://ouraring.com/blog/resting-heart-rate/)
-4. **WHOOP The Locker.** *Resting Heart Rate: Normal Ranges, What It Means & How to Improve It.* [https://www.whoop.com/us/en/thelocker/normal-resting-heart-rate-improve-it/](https://www.whoop.com/us/en/thelocker/normal-resting-heart-rate-improve-it/)
+1. **Quer, G., Gouda, P., Galarnyk, M., Topol, E. J., & Steinhubl, S. R. (2020).** *Inter- and intraindividual variability in daily resting heart rate and its associations with age, sex, sleep, BMI, and time of year: Retrospective, longitudinal cohort study of 92,457 adults.* PLOS ONE, 15(2), e0227709. [Báo Cáo Nghiên Cứu Gốc (NCBI PubMed: 32027692) ↗](https://pubmed.ncbi.nlm.nih.gov/32027692/)
+2. **Reimers, A. K., Knapp, G., & Reimers, C. D. (2018).** *Effects of Exercise on the Resting Heart Rate: A Systematic Review and Meta-Analysis of Interventional Studies.* Journal of Clinical Medicine, 7(12), 503. [Báo Cáo Nghiên Cứu Gốc (NCBI PubMed: 30513777) ↗](https://pubmed.ncbi.nlm.nih.gov/30513777/)
+3. **Oura Ring Pulse Blog.** *Resting Heart Rate: What Is a Normal RHR & How to Lower Yours.* [Cổng Nghiên Cứu Oura Ring Science ↗](https://ouraring.com/blog/resting-heart-rate/)
+4. **WHOOP The Locker.** *Resting Heart Rate: Normal Ranges, What It Means & How to Improve It.* [Tạp Chí Khoa Học WHOOP The Locker ↗](https://www.whoop.com/us/en/thelocker/normal-resting-heart-rate-improve-it/)
 
 ---
 
-## 🇬🇧 ENGLISH VERSION
+## 🇬🇧 English Edition
 
-> **Executive Summary:** Your overnight Resting Heart Rate (RHR) is one of the clearest indicators of cardiovascular fitness and daily readiness. Discover why smartwatches measure RHR during sleep, how stroke volume lowers your pulse over time, and what a sudden +5 bpm overnight spike is trying to tell you.
+# Overnight Resting Heart Rate (RHR): What Your Sleeping Pulse Reveals About Fitness and Recovery
 
-> 💡 **Key Actionable Takeaway:** Long-term reductions in your overnight Resting Heart Rate reflect a stronger left ventricle and higher Stroke Volume from aerobic training. Conversely, an acute single-night jump of +4 to +8 bpm above your 30-day baseline is an immediate warning sign of alcohol metabolism, dehydration, late-night digestion, or an incubating viral infection.
+> **Abstract (Sapo):** Your overnight Resting Heart Rate (RHR) is one of the clearest indicators of cardiovascular fitness and daily readiness. Discover why smartwatches measure RHR during sleep, how stroke volume lowers your pulse over time, and what a sudden +5 bpm overnight spike is trying to tell you.
+
+> 💡 **Key Takeaway & Clinical Action:** Long-term reductions in your overnight Resting Heart Rate reflect a stronger left ventricle and higher Stroke Volume from aerobic training. Conversely, an acute single-night jump of +4 to +8 bpm above your 30-day baseline is an immediate warning sign of alcohol metabolism, dehydration, late-night digestion, or an incubating viral infection.
 
 ## Why Wearables Measure Your Resting Heart Rate While You Sleep
 
@@ -165,7 +166,7 @@ While your 90-day RHR trend reflects your **aerobic fitness**, a sudden single-n
 
 ## References & Clinical Sources
 
-1. **Quer, G., Gouda, P., Galarnyk, M., Topol, E. J., & Steinhubl, S. R. (2020).** *Inter- and intraindividual variability in daily resting heart rate and its associations with age, sex, sleep, BMI, and time of year: Retrospective, longitudinal cohort study of 92,457 adults.* PLOS ONE, 15(2), e0227709. [https://pubmed.ncbi.nlm.nih.gov/32027692/](https://pubmed.ncbi.nlm.nih.gov/32027692/)
-2. **Reimers, A. K., Knapp, G., & Reimers, C. D. (2018).** *Effects of Exercise on the Resting Heart Rate: A Systematic Review and Meta-Analysis of Interventional Studies.* Journal of Clinical Medicine, 7(12), 503. [https://pubmed.ncbi.nlm.nih.gov/30513777/](https://pubmed.ncbi.nlm.nih.gov/30513777/)
-3. **Oura Ring Pulse Blog.** *Resting Heart Rate: What Is a Normal RHR & How to Lower Yours.* [https://ouraring.com/blog/resting-heart-rate/](https://ouraring.com/blog/resting-heart-rate/)
-4. **WHOOP The Locker.** *Resting Heart Rate: Normal Ranges, What It Means & How to Improve It.* [https://www.whoop.com/us/en/thelocker/normal-resting-heart-rate-improve-it/](https://www.whoop.com/us/en/thelocker/normal-resting-heart-rate-improve-it/)
+1. **Quer, G., Gouda, P., Galarnyk, M., Topol, E. J., & Steinhubl, S. R. (2020).** *Inter- and intraindividual variability in daily resting heart rate and its associations with age, sex, sleep, BMI, and time of year: Retrospective, longitudinal cohort study of 92,457 adults.* PLOS ONE, 15(2), e0227709. [Original Study Report (NCBI PubMed: 32027692) ↗](https://pubmed.ncbi.nlm.nih.gov/32027692/)
+2. **Reimers, A. K., Knapp, G., & Reimers, C. D. (2018).** *Effects of Exercise on the Resting Heart Rate: A Systematic Review and Meta-Analysis of Interventional Studies.* Journal of Clinical Medicine, 7(12), 503. [Original Study Report (NCBI PubMed: 30513777) ↗](https://pubmed.ncbi.nlm.nih.gov/30513777/)
+3. **Oura Ring Pulse Blog.** *Resting Heart Rate: What Is a Normal RHR & How to Lower Yours.* [Oura Ring Science Portal ↗](https://ouraring.com/blog/resting-heart-rate/)
+4. **WHOOP The Locker.** *Resting Heart Rate: Normal Ranges, What It Means & How to Improve It.* [WHOOP The Locker Science Journal ↗](https://www.whoop.com/us/en/thelocker/normal-resting-heart-rate-improve-it/)

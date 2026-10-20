@@ -1,22 +1,21 @@
-# 🇻🇳 Giải Mã Điểm Giấc Ngủ (Sleep Score): Thiết Bị Đeo Đo Lường Phục Hồi Ban Đêm Như Thế Nào?
-# 🇬🇧 Understanding Your Sleep Score: How Wearables Measure Overnight Recovery
-
-- **Article ID:** `LM_SL_01`
-- **Category:** Sleep — Sleep Score Algorithm
-- **Content Type:** Learn more
-- **Mapped App Screen & Metric:** `Sleep Screen` (`Sleep Score (0–100)`)
-- **Reading Time:** 8 phút đọc / 8 min
-- **Local Hero Photo:** `images/LM_SL_01_hero.jpg` ([Original Photo Source ↗](https://images.unsplash.com/photo-1541781774459-bb2af2f05b55?auto=format&fit=crop&w=1200&q=85))
-- **Local Medical Figure:** `images/LM_SL_01_figure.jpg` ([Original Wikimedia Commons Source ↗](https://commons.wikimedia.org/wiki/File:Polysomnography_model.jpg))
-- **Primary Clinical & Wearable Source:** [Oura Ring & Garmin Health Science / Sleep Journal (Beattie et al., 2017)](https://pubmed.ncbi.nlm.nih.gov/28960186/)
+# LM_SL_01 - Giải Mã Điểm Giấc Ngủ (Sleep Score): Thiết Bị Đeo Đo Lường Phục Hồi Ban Đêm Như Thế Nào?
+**Category:** Sleep 
+**Screen:** Sleep Screen 
+**Metric:** Sleep Score (0–100) 
+**Reading Time:** 8 phút đọc / 8 min 
+**Hero Image:** ![Giải Mã Điểm Giấc Ngủ (Sleep Score): Thiết Bị Đeo Đo Lường Phục Hồi Ban Đêm Như Thế Nào?](images/LM_SL_01_hero.jpg) *(Source: [https://images.unsplash.com/photo-1541781774459-bb2af2f05b55?auto=format&fit=crop&w=1200&q=85](https://images.unsplash.com/photo-1541781774459-bb2af2f05b55?auto=format&fit=crop&w=1200&q=85))* 
+**Inline Figure:** ![Mô hình đo đa ký giấc ngủ (Polysomnography - PSG) lâm sàng ghi nhận sóng não (EEG), chuyển động mắt (EOG), điện tâm đồ (ECG), luồng thở và SpO2—nền tảng chuẩn vàng mà các thiết bị đeo hiện đại mô phỏng thông qua cảm biến quang học PPG, gia tốc kế 3 trục và nhiệt độ da.](images/LM_SL_01_figure.jpg) *(Source: [https://commons.wikimedia.org/wiki/File:Polysomnography_model.jpg](https://commons.wikimedia.org/wiki/File:Polysomnography_model.jpg))* 
+**Clinical Source:** [Oura Ring & Garmin Health Science / Sleep Journal (Beattie et al., 2017)](https://pubmed.ncbi.nlm.nih.gov/28960186/) 
 
 ---
 
-## 🇻🇳 BẢN TIẾNG VIỆT
+## 🇻🇳 Phiên Bản Tiếng Việt (Vietnamese Edition)
 
-> **Tóm tắt:** Mỗi buổi sáng, đồng hồ thông minh hoặc nhẫn thông minh tổng hợp hàng giờ dữ liệu nhịp tim, HRV, chuyển động và nhịp thở thành một con số duy nhất từ 0 đến 100. Bài viết này giải thích cách Oura, Garmin và WHOOP tính toán Điểm Giấc Ngủ (Sleep Score) và cách đọc biểu đồ nhịp tim ban đêm chuẩn khoa học.
+# Giải Mã Điểm Giấc Ngủ (Sleep Score): Thiết Bị Đeo Đo Lường Phục Hồi Ban Đêm Như Thế Nào?
 
-> 💡 **Điểm Cốt Lõi & Hành Động Thực Tế:** Đừng chỉ nhìn vào tổng số giờ nằm trên giường. Điểm Giấc Ngủ phục hồi tối ưu (85+) phụ thuộc lớn vào Hiệu suất giấc ngủ (≥ 85%), thời điểm Nhịp tim nghỉ ban đêm chạm đáy (Nadir) sớm hay muộn, và việc duy trì giờ thức dậy ổn định trong khoảng ±30 phút mỗi ngày.
+> **Tóm tắt (Sapo):** Mỗi buổi sáng, đồng hồ thông minh hoặc nhẫn thông minh tổng hợp hàng giờ dữ liệu nhịp tim, HRV, chuyển động và nhịp thở thành một con số duy nhất từ 0 đến 100. Bài viết này giải thích cách Oura, Garmin và WHOOP tính toán Điểm Giấc Ngủ (Sleep Score) và cách đọc biểu đồ nhịp tim ban đêm chuẩn khoa học.
+
+> 💡 **Điểm Cốt Lõi & Hành Động Thực Tế (Key Takeaway):** Đừng chỉ nhìn vào tổng số giờ nằm trên giường. Điểm Giấc Ngủ phục hồi tối ưu (85+) phụ thuộc lớn vào Hiệu suất giấc ngủ (≥ 85%), thời điểm Nhịp tim nghỉ ban đêm chạm đáy (Nadir) sớm hay muộn, và việc duy trì giờ thức dậy ổn định trong khoảng ±30 phút mỗi ngày.
 
 ## Tại Sao Nằm Trên Giường 8 Tiếng Không Đồng Nghĩa Với 8 Tiếng Ngủ Phục Hồi?
 
@@ -98,18 +97,20 @@ Bạn đã bao giờ ngủ đủ 8 tiếng sau một bữa ăn tối muộn th�
 
 ## Tài Liệu Tham Khảo & Nguồn Y Khoa
 
-1. **Beattie, Z., Oyang, Y., Statan, A., Ghoreyshi, A., Pantelopoulos, A., Russell, A., & Heneghan, C. (2017).** *Estimation of sleep stages in a healthy adult population from optical plethysmography and accelerometer signals.* Physiological Measurement, 38(11), 1968–1979. [https://pubmed.ncbi.nlm.nih.gov/28960186/](https://pubmed.ncbi.nlm.nih.gov/28960186/)
-2. **de Zambotti, M., Cellini, N., Goldstone, A., Colrain, I. M., & Baker, F. C. (2019).** *Wearable Sleep Technology in Clinical and Research Settings.* Medicine & Science in Sports & Exercise, 51(7), 1538–1557. [https://pubmed.ncbi.nlm.nih.gov/30789439/](https://pubmed.ncbi.nlm.nih.gov/30789439/)
-3. **Oura Ring Pulse Blog.** *How Oura Measures Sleep & Calculates Your Sleep Score.* [https://ouraring.com/blog/sleep-score/](https://ouraring.com/blog/sleep-score/)
-4. **Garmin Health Science & Firstbeat Analytics.** *Sleep Tracking & Sleep Score Technology.* [https://www.garmin.com/en-US/garmin-technology/health-science/sleep-tracking/](https://www.garmin.com/en-US/garmin-technology/health-science/sleep-tracking/)
+1. **Beattie, Z., Oyang, Y., Statan, A., Ghoreyshi, A., Pantelopoulos, A., Russell, A., & Heneghan, C. (2017).** *Estimation of sleep stages in a healthy adult population from optical plethysmography and accelerometer signals.* Physiological Measurement, 38(11), 1968–1979. [Báo Cáo Nghiên Cứu Gốc (NCBI PubMed: 28960186) ↗](https://pubmed.ncbi.nlm.nih.gov/28960186/)
+2. **de Zambotti, M., Cellini, N., Goldstone, A., Colrain, I. M., & Baker, F. C. (2019).** *Wearable Sleep Technology in Clinical and Research Settings.* Medicine & Science in Sports & Exercise, 51(7), 1538–1557. [Báo Cáo Nghiên Cứu Gốc (NCBI PubMed: 30789439) ↗](https://pubmed.ncbi.nlm.nih.gov/30789439/)
+3. **Oura Ring Pulse Blog.** *How Oura Measures Sleep & Calculates Your Sleep Score.* [Cổng Nghiên Cứu Oura Ring Science ↗](https://ouraring.com/blog/sleep-score/)
+4. **Garmin Health Science & Firstbeat Analytics.** *Sleep Tracking & Sleep Score Technology.* [Cổng Khoa Học Garmin Health Science ↗](https://www.garmin.com/en-US/garmin-technology/health-science/sleep-tracking/)
 
 ---
 
-## 🇬🇧 ENGLISH VERSION
+## 🇬🇧 English Edition
 
-> **Executive Summary:** Every morning, your smartwatch distills hours of heart rate, HRV, movement, and breathing data into a single number from 0 to 100. Here is how leading wearables like Oura, Garmin, and WHOOP calculate your Sleep Score—and how to read your overnight graphs like a sleep scientist.
+# Understanding Your Sleep Score: How Wearables Measure Overnight Recovery
 
-> 💡 **Key Actionable Takeaway:** Stop fixating on total hours in bed alone. A high-recovery Sleep Score (85+) depends just as much on Sleep Efficiency (≥ 85%), how early your Overnight Resting Heart Rate reaches its lowest point (Nadir), and keeping your wake time within a consistent ±30-minute daily window.
+> **Abstract (Sapo):** Every morning, your smartwatch distills hours of heart rate, HRV, movement, and breathing data into a single number from 0 to 100. Here is how leading wearables like Oura, Garmin, and WHOOP calculate your Sleep Score—and how to read your overnight graphs like a sleep scientist.
+
+> 💡 **Key Takeaway & Clinical Action:** Stop fixating on total hours in bed alone. A high-recovery Sleep Score (85+) depends just as much on Sleep Efficiency (≥ 85%), how early your Overnight Resting Heart Rate reaches its lowest point (Nadir), and keeping your wake time within a consistent ±30-minute daily window.
 
 ## Why Eight Hours in Bed Doesn't Always Equal Eight Hours of Sleep
 
@@ -191,7 +192,7 @@ Have you ever slept 8 hours after a heavy late dinner, evening drinks, or a 9:00
 
 ## References & Clinical Sources
 
-1. **Beattie, Z., Oyang, Y., Statan, A., Ghoreyshi, A., Pantelopoulos, A., Russell, A., & Heneghan, C. (2017).** *Estimation of sleep stages in a healthy adult population from optical plethysmography and accelerometer signals.* Physiological Measurement, 38(11), 1968–1979. [https://pubmed.ncbi.nlm.nih.gov/28960186/](https://pubmed.ncbi.nlm.nih.gov/28960186/)
-2. **de Zambotti, M., Cellini, N., Goldstone, A., Colrain, I. M., & Baker, F. C. (2019).** *Wearable Sleep Technology in Clinical and Research Settings.* Medicine & Science in Sports & Exercise, 51(7), 1538–1557. [https://pubmed.ncbi.nlm.nih.gov/30789439/](https://pubmed.ncbi.nlm.nih.gov/30789439/)
-3. **Oura Ring Pulse Blog.** *How Oura Measures Sleep & Calculates Your Sleep Score.* [https://ouraring.com/blog/sleep-score/](https://ouraring.com/blog/sleep-score/)
-4. **Garmin Health Science & Firstbeat Analytics.** *Sleep Tracking & Sleep Score Technology.* [https://www.garmin.com/en-US/garmin-technology/health-science/sleep-tracking/](https://www.garmin.com/en-US/garmin-technology/health-science/sleep-tracking/)
+1. **Beattie, Z., Oyang, Y., Statan, A., Ghoreyshi, A., Pantelopoulos, A., Russell, A., & Heneghan, C. (2017).** *Estimation of sleep stages in a healthy adult population from optical plethysmography and accelerometer signals.* Physiological Measurement, 38(11), 1968–1979. [Original Study Report (NCBI PubMed: 28960186) ↗](https://pubmed.ncbi.nlm.nih.gov/28960186/)
+2. **de Zambotti, M., Cellini, N., Goldstone, A., Colrain, I. M., & Baker, F. C. (2019).** *Wearable Sleep Technology in Clinical and Research Settings.* Medicine & Science in Sports & Exercise, 51(7), 1538–1557. [Original Study Report (NCBI PubMed: 30789439) ↗](https://pubmed.ncbi.nlm.nih.gov/30789439/)
+3. **Oura Ring Pulse Blog.** *How Oura Measures Sleep & Calculates Your Sleep Score.* [Oura Ring Science Portal ↗](https://ouraring.com/blog/sleep-score/)
+4. **Garmin Health Science & Firstbeat Analytics.** *Sleep Tracking & Sleep Score Technology.* [Garmin Health Science Portal ↗](https://www.garmin.com/en-US/garmin-technology/health-science/sleep-tracking/)

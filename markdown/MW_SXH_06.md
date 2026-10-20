@@ -1,18 +1,21 @@
-# Vận Động Thể Thao Tăng Cường Bản Lĩnh: Cardio Zone 2, Sức Mạnh Khung Chậu & Lưu Lượng Máu
-**Exercise as Sexual Medicine: Zone 2 Cardio, Pelvic Circulation & Endothelial Health**
-
-> **Sapo (VI):** Nếu có một viên thuốc thần kỳ vừa giúp kéo dài thời gian quan hệ, tăng độ cương cứng, nâng cao ham muốn và cải thiện chất lượng tinh trùng mà không có bất kỳ tác dụng phụ nào, viên thuốc đó chính là Vận Động Thể Lực. Nghiên cứu y học thể thao từ Harvard khẳng định: Chỉ cần đốt cháy 200 kcal/ngày qua vận động aerobic đã giúp giảm một nửa nguy cơ rối loạn cương ở nam giới trung niên.
-> 
-> **Lead (EN):** If a pharmaceutical agent existed that simultaneously amplified erectile rigidity, prolonged stamina, boosted libido, and enhanced sperm quality without adverse effects, that panacea would be prescribed physical exercise. Landmark longitudinal data from the Harvard Alumni Health Study proved that expending just 200 kcal daily in aerobic activity cut the incidence of erectile dysfunction in half.
-
-> [!TIP]
-> 💡 **Điểm Cốt Lõi (Key Takeaway):** Vận động thể thao tác động lên bản lĩnh phái mạnh qua hai mũi nhọn: Cardio Zone 2 nâng cao VO2 Max và kích thích sản sinh Nitric Oxide khắp hệ mạch máu; trong khi tập luyện cơ sàn chậu (Pelvic Floor) củng cố van khóa tĩnh mạch để duy trì độ cứng hoàn hảo cấp độ 4.
-> 
-> 💡 **Takeaway (EN):** Exercise operates as sexual medicine through dual mechanisms: Zone 2 cardiorespiratory training elevates VO2 Max and upregulates systemic eNOS nitric oxide output, while targeted pelvic floor training strengthens the ischiocavernosus muscular lock to sustain Grade 4 rigidity.
+# MW_SXH_06 - Vận Động Thể Thao Tăng Cường Bản Lĩnh: Cardio Zone 2, Sức Mạnh Khung Chậu & Lưu Lượng Máu
+**Category:** Men's Health 
+**Screen:** Cardiorespiratory Fitness & Sexual Function Screen 
+**Metric:** Cardio Fitness (VO2 Max), Endothelial eNOS & Pelvic Floor Strength 
+**Reading Time:** 8 phút đọc / 8 min 
+**Hero Image:** ![Vận Động Thể Thao Tăng Cường Bản Lĩnh: Cardio Zone 2, Sức Mạnh Khung Chậu & Lưu Lượng Máu](images/LM_HW_02_hero.jpg) *(Source: [https://images.unsplash.com/photo-1534438327276-14e5300c3a48?auto=format&fit=crop&w=1200&q=85](https://images.unsplash.com/photo-1534438327276-14e5300c3a48?auto=format&fit=crop&w=1200&q=85))* 
+**Inline Figure:** ![Dung tích hấp thụ oxy tối đa (VO2 Max): Mỗi mức tăng 1 MET thể lực tương đương với việc giảm 15% nguy cơ mắc rối loạn cương dương ở nam giới trung niên.](images/LM_HW_02_figure.jpg) *(Source: [https://commons.wikimedia.org/wiki/File:VO2_max_aerobic_capacity.svg](https://commons.wikimedia.org/wiki/File:VO2_max_aerobic_capacity.svg))* 
+**Clinical Source:** [The Journal of Sexual Medicine & Harvard Men's Health Watch](https://pubmed.ncbi.nlm.nih.gov/21883955/) 
 
 ---
 
-## 🇻🇳 NỘI DUNG TIẾNG VIỆT
+## 🇻🇳 Phiên Bản Tiếng Việt (Vietnamese Edition)
+
+# Vận Động Thể Thao Tăng Cường Bản Lĩnh: Cardio Zone 2, Sức Mạnh Khung Chậu & Lưu Lượng Máu
+
+> **Tóm tắt (Sapo):** Nếu có một viên thuốc thần kỳ vừa giúp kéo dài thời gian quan hệ, tăng độ cương cứng, nâng cao ham muốn và cải thiện chất lượng tinh trùng mà không có bất kỳ tác dụng phụ nào, viên thuốc đó chính là Vận Động Thể Lực. Nghiên cứu y học thể thao từ Harvard khẳng định: Chỉ cần đốt cháy 200 kcal/ngày qua vận động aerobic đã giúp giảm một nửa nguy cơ rối loạn cương ở nam giới trung niên.
+
+> 💡 **Điểm Cốt Lõi & Hành Động Thực Tế (Key Takeaway):** Vận động thể thao tác động lên bản lĩnh phái mạnh qua hai mũi nhọn: Cardio Zone 2 nâng cao VO2 Max và kích thích sản sinh Nitric Oxide khắp hệ mạch máu; trong khi tập luyện cơ sàn chậu (Pelvic Floor) củng cố van khóa tĩnh mạch để duy trì độ cứng hoàn hảo cấp độ 4.
 
 ## Nghiên Cứu Sức Khỏe Cựu Sinh Viên Harvard (Harvard Alumni Study)
 
@@ -60,14 +63,20 @@ Trong một thử nghiệm lâm sàng ngẫu nhiên chấn động công bố tr
 
 ## Tài Liệu Tham Khảo & Nguồn Y Khoa
 
-1. **Feldman, H. A., et al. (2000).** *Erectile dysfunction and its physical and psychosocial correlates: Results from the Massachusetts Male Aging Study.* The Journal of Urology, 151, 54–61. [Đọc trên PubMed ↗](https://pubmed.ncbi.nlm.nih.gov/8254833/)
-2. **Cheng, J. Y., et al. (2007).** *Physical activity and erectile dysfunction: meta-analysis of population-based studies.* International Journal of Impotence Research, 19(3), 245–252. [Đọc trên Nature ↗](https://pubmed.ncbi.nlm.nih.gov/17096016/)
-3. **Dorey, G., Speakman, M. J., Feneley, R. C., et al. (2004).** *Pelvic floor exercises for erectile dysfunction.* British Journal of General Practice, 54(508), 819–825. [Đọc trên BJGP ↗](https://pubmed.ncbi.nlm.nih.gov/15527863/)
-4. **La Vignera, S., et al. (2012).** *Physical activity and erectile dysfunction: what is the ideal protocol for physical exercise?* The Journal of Sexual Medicine, 9(6), 1544–1553. [Đọc trên PubMed ↗](https://pubmed.ncbi.nlm.nih.gov/22462823/)
+1. **Feldman, H. A., et al. (2000).** *Erectile dysfunction and its physical and psychosocial correlates: Results from the Massachusetts Male Aging Study.* The Journal of Urology, 151, 54–61. [Báo Cáo Nghiên Cứu Gốc (NCBI PubMed: 8254833) ↗](https://pubmed.ncbi.nlm.nih.gov/8254833/)
+2. **Cheng, J. Y., et al. (2007).** *Physical activity and erectile dysfunction: meta-analysis of population-based studies.* International Journal of Impotence Research, 19(3), 245–252. [Tạp chí Nature (PMID: 17096016) ↗](https://pubmed.ncbi.nlm.nih.gov/17096016/)
+3. **Dorey, G., Speakman, M. J., Feneley, R. C., et al. (2004).** *Pelvic floor exercises for erectile dysfunction.* British Journal of General Practice, 54(508), 819–825. [Tạp chí BJGP (PMID: 15527863) ↗](https://pubmed.ncbi.nlm.nih.gov/15527863/)
+4. **La Vignera, S., et al. (2012).** *Physical activity and erectile dysfunction: what is the ideal protocol for physical exercise?* The Journal of Sexual Medicine, 9(6), 1544–1553. [Báo Cáo Nghiên Cứu Gốc (NCBI PubMed: 22462823) ↗](https://pubmed.ncbi.nlm.nih.gov/22462823/)
 
 ---
 
-## 🇬🇧 ENGLISH CONTENT
+## 🇬🇧 English Edition
+
+# Exercise as Sexual Medicine: Zone 2 Cardio, Pelvic Circulation & Endothelial Health
+
+> **Abstract (Sapo):** If a pharmaceutical agent existed that simultaneously amplified erectile rigidity, prolonged stamina, boosted libido, and enhanced sperm quality without adverse effects, that panacea would be prescribed physical exercise. Landmark longitudinal data from the Harvard Alumni Health Study proved that expending just 200 kcal daily in aerobic activity cut the incidence of erectile dysfunction in half.
+
+> 💡 **Key Takeaway & Clinical Action:** Exercise operates as sexual medicine through dual mechanisms: Zone 2 cardiorespiratory training elevates VO2 Max and upregulates systemic eNOS nitric oxide output, while targeted pelvic floor training strengthens the ischiocavernosus muscular lock to sustain Grade 4 rigidity.
 
 ## The Harvard Alumni Health Study: Exercise as Vascular Medicine
 

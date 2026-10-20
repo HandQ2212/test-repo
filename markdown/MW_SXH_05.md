@@ -1,18 +1,21 @@
-# Hiện Tượng Cương Buổi Sáng (NPT): Dấu Ấn Sinh Học Của Chu Kỳ Giấc Ngủ REM & Sức Khỏe Mạch Máu
-**Nocturnal Penile Tumescence (NPT): The Biological Signature of REM Sleep & Vascular Integrity**
-
-> **Sapo (VI):** Thức dậy với một trạng thái cương cứng hoàn toàn không phải do bạn 'buồn tiểu' hay mơ thấy giấc mộng khêu gợi, mà là một cơ chế sinh học sống còn có tên gọi Nocturnal Penile Tumescence (NPT). Đây là bài kiểm tra sức khỏe tự động của não bộ nhằm bơm máu giàu oxy tái tạo các mô thể hang xốp suốt đêm. Khám phá cách các bác sĩ nam khoa sử dụng NPT để phân biệt chính xác giữa rối loạn cương do tâm lý và tổn thương mạch máu thực thể.
-> 
-> **Lead (EN):** Waking up with morning wood is neither triggered by a full bladder nor erotic dreaming, but is driven by a vital neurovascular maintenance protocol termed Nocturnal Penile Tumescence (NPT). It is the body's automated nocturnal diagnostic cycle, flushing oxygenated blood into cavernosal sinusoidal beds to preserve tissue elasticity. Learn how urologists use NPT to decisively distinguish psychogenic from organic vascular erectile dysfunction.
-
-> [!TIP]
-> 💡 **Điểm Cốt Lõi (Key Takeaway):** Cương buổi sáng là sự phản chiếu của chu kỳ ngủ REM cuối cùng trước khi thức giấc. Ở nam giới khỏe mạnh, có 3–5 đợt cương tự nhiên kéo dài 25–35 phút mỗi đêm nhằm cung cấp oxy bảo vệ mô thể hang không bị xơ hóa. Sự biến mất liên tục của cương buổi sáng là tín hiệu cảnh báo sớm bệnh mạch máu hoặc thiếu hụt testosterone.
-> 
-> 💡 **Takeaway (EN):** Morning erections mirror the final REM sleep epoch before waking. Healthy men experience 3–5 spontaneous nocturnal episodes lasting 25–35 minutes each, delivering hyper-oxygenated blood to prevent cavernosal fibrosis. Persistent cessation of morning erections is a clinical warning of underlying vascular pathology or severe androgen depletion.
+# MW_SXH_05 - Hiện Tượng Cương Buổi Sáng (NPT): Dấu Ấn Sinh Học Của Chu Kỳ Giấc Ngủ REM & Sức Khỏe Mạch Máu
+**Category:** Men's Health 
+**Screen:** Sleep Architecture & Urological Screen 
+**Metric:** REM Sleep Episodes, Sympathetic Inhibition & Morning Erections (NPT) 
+**Reading Time:** 8 phút đọc / 8 min 
+**Hero Image:** ![Hiện Tượng Cương Buổi Sáng (NPT): Dấu Ấn Sinh Học Của Chu Kỳ Giấc Ngủ REM & Sức Khỏe Mạch Máu](images/DM_SL_01_hero.jpg) *(Source: [https://images.unsplash.com/photo-1541781774459-bb2af2f05b55?auto=format&fit=crop&w=1200&q=85](https://images.unsplash.com/photo-1541781774459-bb2af2f05b55?auto=format&fit=crop&w=1200&q=85))* 
+**Inline Figure:** ![Các đợt cương ban đêm (NPT) đồng nhịp với chu kỳ ngủ REM: Ở nam giới khỏe mạnh, có từ 3–5 đợt cương tự nhiên diễn ra xuyên suốt ban đêm với tổng thời lượng từ 90 đến 180 phút.](images/LM_SL_02_figure.png) *(Source: [https://commons.wikimedia.org/wiki/File:Sleep_Hypnogram.svg](https://commons.wikimedia.org/wiki/File:Sleep_Hypnogram.svg))* 
+**Clinical Source:** [Sleep Medicine Reviews & The Journal of Urology](https://pubmed.ncbi.nlm.nih.gov/12495694/) 
 
 ---
 
-## 🇻🇳 NỘI DUNG TIẾNG VIỆT
+## 🇻🇳 Phiên Bản Tiếng Việt (Vietnamese Edition)
+
+# Hiện Tượng Cương Buổi Sáng (NPT): Dấu Ấn Sinh Học Của Chu Kỳ Giấc Ngủ REM & Sức Khỏe Mạch Máu
+
+> **Tóm tắt (Sapo):** Thức dậy với một trạng thái cương cứng hoàn toàn không phải do bạn 'buồn tiểu' hay mơ thấy giấc mộng khêu gợi, mà là một cơ chế sinh học sống còn có tên gọi Nocturnal Penile Tumescence (NPT). Đây là bài kiểm tra sức khỏe tự động của não bộ nhằm bơm máu giàu oxy tái tạo các mô thể hang xốp suốt đêm. Khám phá cách các bác sĩ nam khoa sử dụng NPT để phân biệt chính xác giữa rối loạn cương do tâm lý và tổn thương mạch máu thực thể.
+
+> 💡 **Điểm Cốt Lõi & Hành Động Thực Tế (Key Takeaway):** Cương buổi sáng là sự phản chiếu của chu kỳ ngủ REM cuối cùng trước khi thức giấc. Ở nam giới khỏe mạnh, có 3–5 đợt cương tự nhiên kéo dài 25–35 phút mỗi đêm nhằm cung cấp oxy bảo vệ mô thể hang không bị xơ hóa. Sự biến mất liên tục của cương buổi sáng là tín hiệu cảnh báo sớm bệnh mạch máu hoặc thiếu hụt testosterone.
 
 ## Hiện Tượng Cương Ban Đêm (NPT) Là Gì?
 
@@ -68,14 +71,20 @@ Trong thực hành lâm sàng, hiện tượng NPT là tiêu chuẩn vàng để
 
 ## Tài Liệu Tham Khảo & Nguồn Y Khoa
 
-1. **Hirshkowitz, M., & Moore, C. A. (1996).** *Sleep-related erections: clinical perspectives and neural mechanisms.* Sleep Medicine Reviews, 1(1), 55–68. [Đọc trên PubMed ↗](https://pubmed.ncbi.nlm.nih.gov/15310507/)
-2. **Bancroft, J. (2005).** *The endocrinology of sexual arousal.* Journal of Endocrinology, 186(3), 411–427. [Đọc trên PubMed ↗](https://pubmed.ncbi.nlm.nih.gov/16135662/)
-3. **Karacan, I., et al. (1975).** *Sleep-related penile tumescence as a function of age.* American Journal of Psychiatry, 132(9), 932–937. [Đọc trên PubMed ↗](https://pubmed.ncbi.nlm.nih.gov/1155606/)
-4. **Montorsi, F., et al. (2005).** *Summary of the recommendations on erectile dysfunction: second International Consultation on Sexual Dysfunction.* The Journal of Sexual Medicine. [Đọc trên PubMed ↗](https://pubmed.ncbi.nlm.nih.gov/16422998/)
+1. **Hirshkowitz, M., & Moore, C. A. (1996).** *Sleep-related erections: clinical perspectives and neural mechanisms.* Sleep Medicine Reviews, 1(1), 55–68. [Tạp chí Sleep (PMID: 15310507) ↗](https://pubmed.ncbi.nlm.nih.gov/15310507/)
+2. **Bancroft, J. (2005).** *The endocrinology of sexual arousal.* Journal of Endocrinology, 186(3), 411–427. [Báo Cáo Nghiên Cứu Gốc (NCBI PubMed: 16135662) ↗](https://pubmed.ncbi.nlm.nih.gov/16135662/)
+3. **Karacan, I., et al. (1975).** *Sleep-related penile tumescence as a function of age.* American Journal of Psychiatry, 132(9), 932–937. [Tạp chí Sleep (PMID: 1155606) ↗](https://pubmed.ncbi.nlm.nih.gov/1155606/)
+4. **Montorsi, F., et al. (2005).** *Summary of the recommendations on erectile dysfunction: second International Consultation on Sexual Dysfunction.* The Journal of Sexual Medicine. [Báo Cáo Nghiên Cứu Gốc (NCBI PubMed: 16422998) ↗](https://pubmed.ncbi.nlm.nih.gov/16422998/)
 
 ---
 
-## 🇬🇧 ENGLISH CONTENT
+## 🇬🇧 English Edition
+
+# Nocturnal Penile Tumescence (NPT): The Biological Signature of REM Sleep & Vascular Integrity
+
+> **Abstract (Sapo):** Waking up with morning wood is neither triggered by a full bladder nor erotic dreaming, but is driven by a vital neurovascular maintenance protocol termed Nocturnal Penile Tumescence (NPT). It is the body's automated nocturnal diagnostic cycle, flushing oxygenated blood into cavernosal sinusoidal beds to preserve tissue elasticity. Learn how urologists use NPT to decisively distinguish psychogenic from organic vascular erectile dysfunction.
+
+> 💡 **Key Takeaway & Clinical Action:** Morning erections mirror the final REM sleep epoch before waking. Healthy men experience 3–5 spontaneous nocturnal episodes lasting 25–35 minutes each, delivering hyper-oxygenated blood to prevent cavernosal fibrosis. Persistent cessation of morning erections is a clinical warning of underlying vascular pathology or severe androgen depletion.
 
 ## What Is Nocturnal Penile Tumescence (NPT)?
 

@@ -1,22 +1,21 @@
-# 🇻🇳 Cửa Sổ Thụ Thai 6 Ngày: Dòng Thời Gian Sinh Học Chính Xác Của Sự Thụ Tinh & Theo Dõi Đa Cảm Biến
-# 🇬🇧 The 6-Day Fertile Window: The Exact Biological Timeline of Conception & Multi-Sensor Tracking
-
-- **Article ID:** `DM_WH_02`
-- **Category:** Women's Health — Fertile Window Planning
-- **Content Type:** Discover more
-- **Mapped App Screen & Metric:** `Menstrual Cycle Screen` (`Fertile Window`)
-- **Reading Time:** 8 phút đọc / 8 min
-- **Local Hero Photo:** `images/DM_WH_02_hero.jpg` ([Original Photo Source ↗](https://images.unsplash.com/photo-1519689680058-324335c77eba?auto=format&fit=crop&w=1200&q=85))
-- **Local Medical Figure:** `images/DM_WH_02_figure.jpg` ([Original Wikimedia Commons Source ↗](https://commons.wikimedia.org/wiki/File:Pregnancy_chance_by_day_near_ovulation.jpg))
-- **Primary Clinical & Wearable Source:** [New England Journal of Medicine (Wilcox et al., 1995) & Natural Cycles° / Oura Fertility Science](https://pubmed.ncbi.nlm.nih.gov/7477165/)
+# DM_WH_02 - Cửa Sổ Thụ Thai 6 Ngày: Dòng Thời Gian Sinh Học Chính Xác Của Sự Thụ Tinh & Theo Dõi Đa Cảm Biến
+**Category:** Women's Health 
+**Screen:** Menstrual Cycle Screen 
+**Metric:** Fertile Window 
+**Reading Time:** 8 phút đọc / 8 min 
+**Hero Image:** ![Cửa Sổ Thụ Thai 6 Ngày: Dòng Thời Gian Sinh Học Chính Xác Của Sự Thụ Tinh & Theo Dõi Đa Cảm Biến](images/DM_WH_02_hero.jpg) *(Source: [https://images.unsplash.com/photo-1519689680058-324335c77eba?auto=format&fit=crop&w=1200&q=85](https://images.unsplash.com/photo-1519689680058-324335c77eba?auto=format&fit=crop&w=1200&q=85))* 
+**Inline Figure:** ![Biểu đồ xác suất thụ thai lâm sàng theo từng ngày tương quan với thời điểm rụng trứng (Ngày 0), minh họa cửa sổ thụ thai 6 ngày đạt đỉnh vào 1 đến 2 ngày trước khi rụng trứng và giảm về 0 chỉ 24 giờ sau khi trứng phóng thích.](images/DM_WH_02_figure.jpg) *(Source: [https://commons.wikimedia.org/wiki/File:Pregnancy_chance_by_day_near_ovulation.jpg](https://commons.wikimedia.org/wiki/File:Pregnancy_chance_by_day_near_ovulation.jpg))* 
+**Clinical Source:** [New England Journal of Medicine (Wilcox et al., 1995) & Natural Cycles° / Oura Fertility Science](https://pubmed.ncbi.nlm.nih.gov/7477165/) 
 
 ---
 
-## 🇻🇳 BẢN TIẾNG VIỆT
+## 🇻🇳 Phiên Bản Tiếng Việt (Vietnamese Edition)
 
-> **Tóm tắt:** Trái với lầm tưởng phổ biến, ngày rụng trứng không phải là ngày duy nhất—và thậm chí không phải là ngày có xác suất cao nhất—để thụ thai. Khám phá dữ liệu lâm sàng kinh điển trên tạp chí New England Journal of Medicine về cửa sổ thụ thai 6 ngày và cách kết hợp dịch nhầy cổ tử cung, đỉnh LH cùng nhiệt độ thiết bị đeo.
+# Cửa Sổ Thụ Thai 6 Ngày: Dòng Thời Gian Sinh Học Chính Xác Của Sự Thụ Tinh & Theo Dõi Đa Cảm Biến
 
-> 💡 **Điểm Cốt Lõi & Hành Động Thực Tế:** Về mặt sinh học, quá trình thụ thai chỉ có thể xảy ra trong cửa sổ 6 ngày mỗi chu kỳ: 5 ngày trước khi rụng trứng cộng với 24 giờ tuổi thọ của trứng vào đúng ngày rụng trứng. Xác suất thụ thai cao nhất trong một ngày rơi vào 1 đến 2 ngày TRƯỚC khi trứng rụng (27%–33%), khi tinh trùng khỏe mạnh đã chờ sẵn tại ống dẫn trứng trước thời khắc trứng phóng thích.
+> **Tóm tắt (Sapo):** Trái với lầm tưởng phổ biến, ngày rụng trứng không phải là ngày duy nhất—và thậm chí không phải là ngày có xác suất cao nhất—để thụ thai. Khám phá dữ liệu lâm sàng kinh điển trên tạp chí New England Journal of Medicine về cửa sổ thụ thai 6 ngày và cách kết hợp dịch nhầy cổ tử cung, đỉnh LH cùng nhiệt độ thiết bị đeo.
+
+> 💡 **Điểm Cốt Lõi & Hành Động Thực Tế (Key Takeaway):** Về mặt sinh học, quá trình thụ thai chỉ có thể xảy ra trong cửa sổ 6 ngày mỗi chu kỳ: 5 ngày trước khi rụng trứng cộng với 24 giờ tuổi thọ của trứng vào đúng ngày rụng trứng. Xác suất thụ thai cao nhất trong một ngày rơi vào 1 đến 2 ngày TRƯỚC khi trứng rụng (27%–33%), khi tinh trùng khỏe mạnh đã chờ sẵn tại ống dẫn trứng trước thời khắc trứng phóng thích.
 
 ## Lầm Tưởng "Chỉ Thụ Thai Vào Ngày Rụng Trứng" So Với Cửa Sổ Sinh Học 6 Ngày
 
@@ -82,18 +81,20 @@ Sau khi đồng hồ hoặc nhẫn thông minh ghi nhận **3 đêm liên tiếp
 
 ## Tài Liệu Tham Khảo & Nguồn Y Khoa
 
-1. **Wilcox, A. J., Weinberg, C. R., & Baird, D. D. (1995).** *Timing of sexual intercourse in relation to ovulation—effects on the probability of conception, survival of the pregnancy, and sex of the baby.* New England Journal of Medicine (NEJM), 333(23), 1517–1521. [https://pubmed.ncbi.nlm.nih.gov/7477165/](https://pubmed.ncbi.nlm.nih.gov/7477165/)
-2. **Practice Committee of the American Society for Reproductive Medicine (ASRM). (2022).** *Optimizing natural fertility: a committee opinion.* Fertility and Sterility, 117(1), 53–63. [https://pubmed.ncbi.nlm.nih.gov/34815068/](https://pubmed.ncbi.nlm.nih.gov/34815068/)
-3. **Pearson, J. T., et al. (2021).** *Evaluation of the performance of the Natural Cycles algorithm using Oura Ring nocturnal skin temperature.* European Journal of Contraception & Reproductive Health Care, 26(2), 105–110. [https://pubmed.ncbi.nlm.nih.gov/33356660/](https://pubmed.ncbi.nlm.nih.gov/33356660/)
-4. **Natural Cycles° Fertility Guide.** *Understanding the 6-Day Fertile Window & Ovulation Timing.* [https://www.naturalcycles.com/plan-pregnancy](https://www.naturalcycles.com/plan-pregnancy)
+1. **Wilcox, A. J., Weinberg, C. R., & Baird, D. D. (1995).** *Timing of sexual intercourse in relation to ovulation—effects on the probability of conception, survival of the pregnancy, and sex of the baby.* New England Journal of Medicine (NEJM), 333(23), 1517–1521. [Báo Cáo Nghiên Cứu Gốc (NCBI PubMed: 7477165) ↗](https://pubmed.ncbi.nlm.nih.gov/7477165/)
+2. **Practice Committee of the American Society for Reproductive Medicine (ASRM). (2022).** *Optimizing natural fertility: a committee opinion.* Fertility and Sterility, 117(1), 53–63. [Báo Cáo Nghiên Cứu Gốc (NCBI PubMed: 34815068) ↗](https://pubmed.ncbi.nlm.nih.gov/34815068/)
+3. **Pearson, J. T., et al. (2021).** *Evaluation of the performance of the Natural Cycles algorithm using Oura Ring nocturnal skin temperature.* European Journal of Contraception & Reproductive Health Care, 26(2), 105–110. [Báo Cáo Nghiên Cứu Gốc (NCBI PubMed: 33356660) ↗](https://pubmed.ncbi.nlm.nih.gov/33356660/)
+4. **Natural Cycles° Fertility Guide.** *Understanding the 6-Day Fertile Window & Ovulation Timing.* [Tài Liệu Gốc Xác Thực ↗](https://www.naturalcycles.com/plan-pregnancy)
 
 ---
 
-## 🇬🇧 ENGLISH VERSION
+## 🇬🇧 English Edition
 
-> **Executive Summary:** Contrary to popular belief, ovulation day itself is not the only—or even the highest-probability—day to conceive. Discover the landmark New England Journal of Medicine data on the 6-day fertile window and how to combine cervical fluid, LH surges, and wearable temperature.
+# The 6-Day Fertile Window: The Exact Biological Timeline of Conception & Multi-Sensor Tracking
 
-> 💡 **Key Actionable Takeaway:** Biologically, you can only conceive during a 6-day window each cycle: the 5 days leading up to ovulation plus the 24-hour lifespan of the egg on ovulation day. The highest single-day conception probabilities occur 1 to 2 days BEFORE ovulation (27%–33%), when motile sperm are already waiting in the fallopian tubes before the egg is released.
+> **Abstract (Sapo):** Contrary to popular belief, ovulation day itself is not the only—or even the highest-probability—day to conceive. Discover the landmark New England Journal of Medicine data on the 6-day fertile window and how to combine cervical fluid, LH surges, and wearable temperature.
+
+> 💡 **Key Takeaway & Clinical Action:** Biologically, you can only conceive during a 6-day window each cycle: the 5 days leading up to ovulation plus the 24-hour lifespan of the egg on ovulation day. The highest single-day conception probabilities occur 1 to 2 days BEFORE ovulation (27%–33%), when motile sperm are already waiting in the fallopian tubes before the egg is released.
 
 ## The Myth of "Ovulation Day Only" vs. The 6-Day Biological Window
 
@@ -159,7 +160,7 @@ Once your smartwatch or smart ring records **3 consecutive nights of elevated sk
 
 ## References & Clinical Sources
 
-1. **Wilcox, A. J., Weinberg, C. R., & Baird, D. D. (1995).** *Timing of sexual intercourse in relation to ovulation—effects on the probability of conception, survival of the pregnancy, and sex of the baby.* New England Journal of Medicine (NEJM), 333(23), 1517–1521. [https://pubmed.ncbi.nlm.nih.gov/7477165/](https://pubmed.ncbi.nlm.nih.gov/7477165/)
-2. **Practice Committee of the American Society for Reproductive Medicine (ASRM). (2022).** *Optimizing natural fertility: a committee opinion.* Fertility and Sterility, 117(1), 53–63. [https://pubmed.ncbi.nlm.nih.gov/34815068/](https://pubmed.ncbi.nlm.nih.gov/34815068/)
-3. **Pearson, J. T., et al. (2021).** *Evaluation of the performance of the Natural Cycles algorithm using Oura Ring nocturnal skin temperature.* Contraception / European Journal of Contraception & Reproductive Health Care, 26(2), 105–110. [https://pubmed.ncbi.nlm.nih.gov/33356660/](https://pubmed.ncbi.nlm.nih.gov/33356660/)
-4. **Natural Cycles° Fertility Guide.** *Understanding the 6-Day Fertile Window & Ovulation Timing.* [https://www.naturalcycles.com/plan-pregnancy](https://www.naturalcycles.com/plan-pregnancy)
+1. **Wilcox, A. J., Weinberg, C. R., & Baird, D. D. (1995).** *Timing of sexual intercourse in relation to ovulation—effects on the probability of conception, survival of the pregnancy, and sex of the baby.* New England Journal of Medicine (NEJM), 333(23), 1517–1521. [Original Study Report (NCBI PubMed: 7477165) ↗](https://pubmed.ncbi.nlm.nih.gov/7477165/)
+2. **Practice Committee of the American Society for Reproductive Medicine (ASRM). (2022).** *Optimizing natural fertility: a committee opinion.* Fertility and Sterility, 117(1), 53–63. [Original Study Report (NCBI PubMed: 34815068) ↗](https://pubmed.ncbi.nlm.nih.gov/34815068/)
+3. **Pearson, J. T., et al. (2021).** *Evaluation of the performance of the Natural Cycles algorithm using Oura Ring nocturnal skin temperature.* Contraception / European Journal of Contraception & Reproductive Health Care, 26(2), 105–110. [Original Study Report (NCBI PubMed: 33356660) ↗](https://pubmed.ncbi.nlm.nih.gov/33356660/)
+4. **Natural Cycles° Fertility Guide.** *Understanding the 6-Day Fertile Window & Ovulation Timing.* [Verified Original Document ↗](https://www.naturalcycles.com/plan-pregnancy)

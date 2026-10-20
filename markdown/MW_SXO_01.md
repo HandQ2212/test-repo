@@ -1,18 +1,21 @@
-# Khoa Học Ham Muốn Nam Giới: Trục Thần Kinh - Nội Tiết, Dopamine & Động Lực Sinh Học
-**The Science of Male Sexual Desire: The Neuroendocrine Axis, Dopamine & Drive**
-
-> **Sapo (VI):** Ham muốn tình dục ở nam giới thường bị giản lược thành một câu chuyện đơn giản về 'thừa hay thiếu testosterone'. Tuy nhiên, khoa học thần kinh hiện đại đã chứng minh: Testosterone chỉ đóng vai trò là chất 'bật công tắc' nền tảng; động cơ thực sự thôi thúc khao khát, sự chú ý và động lực săn đón lại là chất dẫn truyền thần kinh Dopamine tại vùng trần bụng (VTA) và vùng trước thị trong dưới đồi (MPOA).
-> 
-> **Lead (EN):** Male sexual desire is frequently oversimplified as merely a function of circulating testosterone. Yet modern cognitive neuroscience reveals that while androgens prime the neural substrate, the real motivational engine driving anticipation, focused pursuit, and erotic craving is the mesolimbic dopamine system operating via the medial preoptic area (MPOA) of the hypothalamus.
-
-> [!TIP]
-> 💡 **Điểm Cốt Lõi (Key Takeaway):** Testosterone tạo ra độ nhạy cảm của các thụ thể thần kinh, nhưng Dopamine mới là chất tạo ra động lực khao khát. Khi bạn mệt mỏi, thiếu ngủ, lạm dụng chất kích thích hoặc đối mặt với sự nhàm chán, dopamine bị suy kiệt khiến ham muốn tình dục biến mất dù nồng độ testosterone trong máu hoàn toàn bình thường.
-> 
-> 💡 **Takeaway (EN):** Testosterone sensitizes central receptors, but dopamine generates the motivational neuro-drive. In the presence of chronic sleep debt, burnout, or sensory oversaturation, depleted dopamine stores extinguish sexual desire even when circulating serum testosterone levels are clinically flawless.
+# MW_SXO_01 - Khoa Học Ham Muốn Nam Giới: Trục Thần Kinh - Nội Tiết, Dopamine & Động Lực Sinh Học
+**Category:** Men's Health 
+**Screen:** Sexology & Neuroendocrine Screen 
+**Metric:** Mesolimbic Dopamine Circuit, Hypothalamic MPOA & Androgen Priming 
+**Reading Time:** 8 phút đọc / 8 min 
+**Hero Image:** ![Khoa Học Ham Muốn Nam Giới: Trục Thần Kinh - Nội Tiết, Dopamine & Động Lực Sinh Học](images/LM_MH_02_hero.jpg) *(Source: [https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?auto=format&fit=crop&w=1200&q=85](https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?auto=format&fit=crop&w=1200&q=85))* 
+**Inline Figure:** ![Con đường dẫn truyền Dopamine tại não bộ: Vùng chất đen (Substantia Nigra) và vùng trần bụng (VTA) phóng chiếu đến thể vân và hạch hạnh nhân, thúc đẩy động lực ham muốn.](images/DM_SL_01_figure.jpg) *(Source: [https://commons.wikimedia.org/wiki/File:Dopaminergic_pathways.svg](https://commons.wikimedia.org/wiki/File:Dopaminergic_pathways.svg))* 
+**Clinical Source:** [Behavioral Brain Research & Annual Review of Sex Research](https://pubmed.ncbi.nlm.nih.gov/17397950/) 
 
 ---
 
-## 🇻🇳 NỘI DUNG TIẾNG VIỆT
+## 🇻🇳 Phiên Bản Tiếng Việt (Vietnamese Edition)
+
+# Khoa Học Ham Muốn Nam Giới: Trục Thần Kinh - Nội Tiết, Dopamine & Động Lực Sinh Học
+
+> **Tóm tắt (Sapo):** Ham muốn tình dục ở nam giới thường bị giản lược thành một câu chuyện đơn giản về 'thừa hay thiếu testosterone'. Tuy nhiên, khoa học thần kinh hiện đại đã chứng minh: Testosterone chỉ đóng vai trò là chất 'bật công tắc' nền tảng; động cơ thực sự thôi thúc khao khát, sự chú ý và động lực săn đón lại là chất dẫn truyền thần kinh Dopamine tại vùng trần bụng (VTA) và vùng trước thị trong dưới đồi (MPOA).
+
+> 💡 **Điểm Cốt Lõi & Hành Động Thực Tế (Key Takeaway):** Testosterone tạo ra độ nhạy cảm của các thụ thể thần kinh, nhưng Dopamine mới là chất tạo ra động lực khao khát. Khi bạn mệt mỏi, thiếu ngủ, lạm dụng chất kích thích hoặc đối mặt với sự nhàm chán, dopamine bị suy kiệt khiến ham muốn tình dục biến mất dù nồng độ testosterone trong máu hoàn toàn bình thường.
 
 ## Bộ Não Mới Là Cơ Quan Tình Dục Quyền Lực Nhất
 
@@ -61,14 +64,20 @@ Khoái cảm tình dục nam giới vận hành theo một chiếc bập bênh t
 
 ## Tài Liệu Tham Khảo & Nguồn Y Khoa
 
-1. **Hull, E. M., & Dominguez, J. M. (2007).** *Sexual behavior in male rodents.* Hormones and Behavior, 52(1), 45–55. [Đọc trên PubMed ↗](https://pubmed.ncbi.nlm.nih.gov/17499249/)
-2. **Pfaus, J. G. (2009).** *Pathways of sexual desire.* The Journal of Sexual Medicine, 6(6), 1506–1533. [Đọc trên PubMed ↗](https://pubmed.ncbi.nlm.nih.gov/19453931/)
-3. **Volkow, N. D., et al. (2012).** *Evidence that sleep deprivation downregulates dopamine D2R in ventral striatum in the human brain.* Journal of Neuroscience, 32(19), 6711–6717. [Đọc trên JNeurosci ↗](https://pubmed.ncbi.nlm.nih.gov/22573693/)
-4. **Corona, G., et al. (2013).** *Hypogonadism as a risk factor for cardiovascular disease.* Nature Reviews Urology, 10(9), 541–550. [Đọc trên Nature ↗](https://pubmed.ncbi.nlm.nih.gov/23880854/)
+1. **Hull, E. M., & Dominguez, J. M. (2007).** *Sexual behavior in male rodents.* Hormones and Behavior, 52(1), 45–55. [Báo Cáo Nghiên Cứu Gốc (NCBI PubMed: 17499249) ↗](https://pubmed.ncbi.nlm.nih.gov/17499249/)
+2. **Pfaus, J. G. (2009).** *Pathways of sexual desire.* The Journal of Sexual Medicine, 6(6), 1506–1533. [Báo Cáo Nghiên Cứu Gốc (NCBI PubMed: 19453931) ↗](https://pubmed.ncbi.nlm.nih.gov/19453931/)
+3. **Volkow, N. D., et al. (2012).** *Evidence that sleep deprivation downregulates dopamine D2R in ventral striatum in the human brain.* Journal of Neuroscience, 32(19), 6711–6717. [Tạp chí JNeurosci (PMID: 22573693) ↗](https://pubmed.ncbi.nlm.nih.gov/22573693/)
+4. **Corona, G., et al. (2013).** *Hypogonadism as a risk factor for cardiovascular disease.* Nature Reviews Urology, 10(9), 541–550. [Tạp chí Nature (PMID: 23880854) ↗](https://pubmed.ncbi.nlm.nih.gov/23880854/)
 
 ---
 
-## 🇬🇧 ENGLISH CONTENT
+## 🇬🇧 English Edition
+
+# The Science of Male Sexual Desire: The Neuroendocrine Axis, Dopamine & Drive
+
+> **Abstract (Sapo):** Male sexual desire is frequently oversimplified as merely a function of circulating testosterone. Yet modern cognitive neuroscience reveals that while androgens prime the neural substrate, the real motivational engine driving anticipation, focused pursuit, and erotic craving is the mesolimbic dopamine system operating via the medial preoptic area (MPOA) of the hypothalamus.
+
+> 💡 **Key Takeaway & Clinical Action:** Testosterone sensitizes central receptors, but dopamine generates the motivational neuro-drive. In the presence of chronic sleep debt, burnout, or sensory oversaturation, depleted dopamine stores extinguish sexual desire even when circulating serum testosterone levels are clinically flawless.
 
 ## The Brain as the Master Sex Organ
 

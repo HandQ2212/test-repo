@@ -1,18 +1,21 @@
-# Hiệu Ứng Lây Lan Căng Thẳng: Bảo Vệ Mối Quan Hệ Khỏi Sự Cạn Kiệt Năng Lượng Thần Kinh
-**Stress Spillover in Relationships: Shielding Intimacy from Autonomic Burnout**
-
-> **Sapo (VI):** Bạn có bao giờ đi làm về và bỗng nhiên nổi cáu với bạn đời chỉ vì một chiếc cốc chưa rửa hay một câu hỏi bâng quơ? Hiện tượng tâm lý học này được gọi là 'Stress Spillover' (Căng thẳng tràn ly). Khám phá cơ chế khoa học thần kinh về cách áp lực công việc làm thu hẹp cửa sổ chịu đựng (Window of Tolerance), biến tổ ấm thành bãi chiến trường thứ hai và phác đồ giải độc sinh học trước khi bước qua cửa nhà.
-> 
-> **Lead (EN):** Have you ever returned from an exhausting workday only to snap violently at your partner over an unwashed coffee mug or an innocent question? This psychological phenomenon is known as 'Stress Spillover'. Unpack the neuroscience of how external occupational demands shrink your autonomic Window of Tolerance, and master clinical decompression rituals before crossing your front door.
-
-> [!TIP]
-> 💡 **Điểm Cốt Lõi (Key Takeaway):** Bộ não không thể phân biệt giữa áp lực hạn chót công việc với mối đe dọa sinh tử. Khi cạn kiệt tài nguyên nhận thức, khả năng kiềm chế của thùy trán bị tê liệt. Hãy thiết lập một 'nghi thức chuyển tiếp' 15 phút (nghe nhạc, tắm nước ấm, thở chậm) để xả hết cortisol trước khi tương tác với gia đình.
-> 
-> 💡 **Takeaway (EN):** The autonomic nervous system cannot distinguish between career deadlines and existential physical threats. When cognitive glycogen is depleted, prefrontal inhibitory control collapses. Institute a dedicated 15-minute 'transition buffer' (warm shower, physiological sigh, silence) to metabolize cortisol before engaging your partner.
+# MW_REL_04 - Hiệu Ứng Lây Lan Căng Thẳng: Bảo Vệ Mối Quan Hệ Khỏi Sự Cạn Kiệt Năng Lượng Thần Kinh
+**Category:** Men's Health 
+**Screen:** Stress Recovery & Heart Rate Variability Screen 
+**Metric:** Stress Spillover, Window of Tolerance & Autonomic Burnout 
+**Reading Time:** 8 phút đọc / 8 min 
+**Hero Image:** ![Hiệu Ứng Lây Lan Căng Thẳng: Bảo Vệ Mối Quan Hệ Khỏi Sự Cạn Kiệt Năng Lượng Thần Kinh](images/DM_HW_02_hero.jpg) *(Source: [https://images.unsplash.com/photo-1506126613408-eca07ce68773?auto=format&fit=crop&w=1200&q=85](https://images.unsplash.com/photo-1506126613408-eca07ce68773?auto=format&fit=crop&w=1200&q=85))* 
+**Inline Figure:** ![Đường cong Yerkes-Dodson và dung sai cảm xúc: Khi căng thẳng công việc vượt ngưỡng chịu đựng, hệ thần kinh tự chủ cạn kiệt năng lượng, làm bùng phát các phản ứng cáu gắt vô cớ tại gia đình.](images/LM_HW_01_figure.png) *(Source: [https://commons.wikimedia.org/wiki/File:Stress_curve.svg](https://commons.wikimedia.org/wiki/File:Stress_curve.svg))* 
+**Clinical Source:** [Clinical Psychology Review & Journal of Personality and Social Psychology](https://pubmed.ncbi.nlm.nih.gov/17588698/) 
 
 ---
 
-## 🇻🇳 NỘI DUNG TIẾNG VIỆT
+## 🇻🇳 Phiên Bản Tiếng Việt (Vietnamese Edition)
+
+# Hiệu Ứng Lây Lan Căng Thẳng: Bảo Vệ Mối Quan Hệ Khỏi Sự Cạn Kiệt Năng Lượng Thần Kinh
+
+> **Tóm tắt (Sapo):** Bạn có bao giờ đi làm về và bỗng nhiên nổi cáu với bạn đời chỉ vì một chiếc cốc chưa rửa hay một câu hỏi bâng quơ? Hiện tượng tâm lý học này được gọi là 'Stress Spillover' (Căng thẳng tràn ly). Khám phá cơ chế khoa học thần kinh về cách áp lực công việc làm thu hẹp cửa sổ chịu đựng (Window of Tolerance), biến tổ ấm thành bãi chiến trường thứ hai và phác đồ giải độc sinh học trước khi bước qua cửa nhà.
+
+> 💡 **Điểm Cốt Lõi & Hành Động Thực Tế (Key Takeaway):** Bộ não không thể phân biệt giữa áp lực hạn chót công việc với mối đe dọa sinh tử. Khi cạn kiệt tài nguyên nhận thức, khả năng kiềm chế của thùy trán bị tê liệt. Hãy thiết lập một 'nghi thức chuyển tiếp' 15 phút (nghe nhạc, tắm nước ấm, thở chậm) để xả hết cortisol trước khi tương tác với gia đình.
 
 ## Hiện Tượng "Căng Thẳng Tràn Ly" (Stress Spillover) Là Gì?
 
@@ -60,14 +63,20 @@ Không chỉ dừng lại ở một người, căng thẳng còn có khả năng
 
 ## Tài Liệu Tham Khảo & Nguồn Y Khoa
 
-1. **Randall, A. K., & Bodenmann, G. (2009).** *The role of stress on close relationships and marital satisfaction.* Clinical Psychology Review, 29(2), 105–115. [Đọc trên PubMed ↗](https://pubmed.ncbi.nlm.nih.gov/19167139/)
-2. **Neff, L. A., & Karney, B. R. (2009).** *Stress and reactivity to daily problems in marriage.* Journal of Personality and Social Psychology, 97(3), 439–450. [Đọc trên PubMed ↗](https://pubmed.ncbi.nlm.nih.gov/19686000/)
-3. **Buck, A. A., & Neff, L. A. (2012).** *Stress spillover in early marriage: The role of self-regulatory depletion.* Journal of Family Psychology, 26(5), 698–708. [Đọc trên PubMed ↗](https://pubmed.ncbi.nlm.nih.gov/22924422/)
-4. **Siegel, D. J. (2012).** *The Developing Mind: How Relationships and the Brain Interact to Shape Who We Are.* Guilford Publications. [Đọc trên Guilford ↗](https://www.guilford.com/books/The-Developing-Mind/Daniel-Siegel/9781462542758)
+1. **Randall, A. K., & Bodenmann, G. (2009).** *The role of stress on close relationships and marital satisfaction.* Clinical Psychology Review, 29(2), 105–115. [Báo Cáo Nghiên Cứu Gốc (NCBI PubMed: 19167139) ↗](https://pubmed.ncbi.nlm.nih.gov/19167139/)
+2. **Neff, L. A., & Karney, B. R. (2009).** *Stress and reactivity to daily problems in marriage.* Journal of Personality and Social Psychology, 97(3), 439–450. [Báo Cáo Nghiên Cứu Gốc (NCBI PubMed: 19686000) ↗](https://pubmed.ncbi.nlm.nih.gov/19686000/)
+3. **Buck, A. A., & Neff, L. A. (2012).** *Stress spillover in early marriage: The role of self-regulatory depletion.* Journal of Family Psychology, 26(5), 698–708. [Báo Cáo Nghiên Cứu Gốc (NCBI PubMed: 22924422) ↗](https://pubmed.ncbi.nlm.nih.gov/22924422/)
+4. **Siegel, D. J. (2012).** *The Developing Mind: How Relationships and the Brain Interact to Shape Who We Are.* Guilford Publications. [Tạp chí Guilford ↗](https://www.guilford.com/books/The-Developing-Mind/Daniel-Siegel/9781462542758)
 
 ---
 
-## 🇬🇧 ENGLISH CONTENT
+## 🇬🇧 English Edition
+
+# Stress Spillover in Relationships: Shielding Intimacy from Autonomic Burnout
+
+> **Abstract (Sapo):** Have you ever returned from an exhausting workday only to snap violently at your partner over an unwashed coffee mug or an innocent question? This psychological phenomenon is known as 'Stress Spillover'. Unpack the neuroscience of how external occupational demands shrink your autonomic Window of Tolerance, and master clinical decompression rituals before crossing your front door.
+
+> 💡 **Key Takeaway & Clinical Action:** The autonomic nervous system cannot distinguish between career deadlines and existential physical threats. When cognitive glycogen is depleted, prefrontal inhibitory control collapses. Institute a dedicated 15-minute 'transition buffer' (warm shower, physiological sigh, silence) to metabolize cortisol before engaging your partner.
 
 ## Defining "Stress Spillover": When Work Toxicates Home
 

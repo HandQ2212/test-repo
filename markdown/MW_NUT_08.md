@@ -1,18 +1,21 @@
-# Bù Nước & Hiệu Suất Thể Lực: Ảnh Hưởng Của Mất Nước 2% Lên Thể Tích Huyết Tương & Nhịp Tim
-**Hydration Dynamics: How a 2% Body Water Deficit Spikes Heart Rate & Derails Muscle Work**
-
-> **Sapo (VI):** Nhiều người chỉ uống nước khi bắt đầu cảm thấy khát khô cổ họng, nhưng trong sinh lý học thể thao, cảm giác khát là một tín hiệu báo động đã quá muộn. Hướng dẫn vị trí chính thức của Hiệp hội Y học Thể thao Hoa Kỳ (ACSM) cảnh báo: Tình trạng mất nước chỉ tương đương 2% trọng lượng cơ thể đã làm giảm tới 15% hiệu suất vận động cơ bắp, khiến nhịp tim tăng vọt bất thường và đẩy nồng độ hormone dị hóa cortisol lên mức đỉnh điểm.
-> 
-> **Lead (EN):** Most men wait until profound dry-mouth thirst strikes before reaching for water, but in exercise physiology, thirst is a notoriously delayed lagging indicator. The American College of Sports Medicine (ACSM) clinical position stand emphasizes that hypohydration of merely 2% body mass slashes aerobic and strength work capacity by up to 15%, elevates cardiovascular strain via cardiac drift, and spikes catabolic cortisol.
-
-> [!TIP]
-> 💡 **Điểm Cốt Lõi (Key Takeaway):** Mất nước 2% làm giảm thể tích huyết tương, khiến máu bị cô đặc và giảm thể tích tống máu của tim (Stroke Volume). Để bù lại, tim phải đập thêm 3–7 nhịp mỗi phút (Cardiac Drift) cho cùng một cường độ vận động. Hãy uống 35–45ml nước/kg thể trọng mỗi ngày và bổ sung 500mg Natri kèm điện giải trong các buổi tập kéo dài trên 60 phút.
-> 
-> 💡 **Takeaway (EN):** A 2% water deficit contracts intravascular plasma volume, concentrating blood and slashing ventricular stroke volume. To maintain cardiac output, the heart must beat 3–7 bpm faster (cardiac drift) at identical workloads. Consume 35–45ml water/kg body mass daily and add 500mg sodium with electrolytes for sessions exceeding 60 minutes.
+# MW_NUT_08 - Bù Nước & Hiệu Suất Thể Lực: Ảnh Hưởng Của Mất Nước 2% Lên Thể Tích Huyết Tương & Nhịp Tim
+**Category:** Men's Health 
+**Screen:** Hydration Dynamics & Cardiovascular Strain Screen 
+**Metric:** Plasma Volume Deficit, Cardiac Drift (+3-5 bpm) & Core Thermoregulation 
+**Reading Time:** 8 phút đọc / 8 min 
+**Hero Image:** ![Bù Nước & Hiệu Suất Thể Lực: Ảnh Hưởng Của Mất Nước 2% Lên Thể Tích Huyết Tương & Nhịp Tim](images/DM_AC_01_hero.jpg) *(Source: [https://images.unsplash.com/photo-1550345332-09e3ac987658?auto=format&fit=crop&w=1200&q=85](https://images.unsplash.com/photo-1550345332-09e3ac987658?auto=format&fit=crop&w=1200&q=85))* 
+**Inline Figure:** ![Thể tích huyết tương và hiện tượng trôi dạt nhịp tim (Cardiac Drift): Mất nước làm cô đặc máu, giảm thể tích nhát bóp buồng tim (Stroke Volume) buộc tim phải đập nhanh hơn để duy trì cung lượng máu.](images/LM_RC_02_figure.jpg) *(Source: [https://commons.wikimedia.org/wiki/File:Cardiovascular_System_Circulation.svg](https://commons.wikimedia.org/wiki/File:Cardiovascular_System_Circulation.svg))* 
+**Clinical Source:** [Medicine & Science in Sports & Exercise (ACSM Position Stand) & Sports Medicine](https://pubmed.ncbi.nlm.nih.gov/17277604/) 
 
 ---
 
-## 🇻🇳 NỘI DUNG TIẾNG VIỆT
+## 🇻🇳 Phiên Bản Tiếng Việt (Vietnamese Edition)
+
+# Bù Nước & Hiệu Suất Thể Lực: Ảnh Hưởng Của Mất Nước 2% Lên Thể Tích Huyết Tương & Nhịp Tim
+
+> **Tóm tắt (Sapo):** Nhiều người chỉ uống nước khi bắt đầu cảm thấy khát khô cổ họng, nhưng trong sinh lý học thể thao, cảm giác khát là một tín hiệu báo động đã quá muộn. Hướng dẫn vị trí chính thức của Hiệp hội Y học Thể thao Hoa Kỳ (ACSM) cảnh báo: Tình trạng mất nước chỉ tương đương 2% trọng lượng cơ thể đã làm giảm tới 15% hiệu suất vận động cơ bắp, khiến nhịp tim tăng vọt bất thường và đẩy nồng độ hormone dị hóa cortisol lên mức đỉnh điểm.
+
+> 💡 **Điểm Cốt Lõi & Hành Động Thực Tế (Key Takeaway):** Mất nước 2% làm giảm thể tích huyết tương, khiến máu bị cô đặc và giảm thể tích tống máu của tim (Stroke Volume). Để bù lại, tim phải đập thêm 3–7 nhịp mỗi phút (Cardiac Drift) cho cùng một cường độ vận động. Hãy uống 35–45ml nước/kg thể trọng mỗi ngày và bổ sung 500mg Natri kèm điện giải trong các buổi tập kéo dài trên 60 phút.
 
 ## Hiện Tượng "Trôi Dạt Tim Mạch" (Cardiac Drift): Khi Máu Bị Cô Đặc
 
@@ -66,14 +69,20 @@ Một sai lầm nguy hiểm phổ biến là: Uống hàng lít nước tinh khi
 
 ## Tài Liệu Tham Khảo & Nguồn Y Khoa
 
-1. **Sawka, M. N., Burke, L. M., Eichner, E. R., et al. (2007).** *American College of Sports Medicine position stand: Exercise and fluid replacement.* Medicine and Science in Sports and Exercise, 39(2), 377–390. [Đọc trên PubMed ↗](https://pubmed.ncbi.nlm.nih.gov/17277604/)
-2. **Judelson, D. A., Maresh, C. M., et al. (2007).** *Hydration and muscular performance: does fluid balance affect strength, power and high-intensity endurance?* Sports Medicine, 37(10), 907–921. [Đọc trên PubMed ↗](https://pubmed.ncbi.nlm.nih.gov/17887814/)
-3. **Coyle, E. F. (2004).** *Fluid and fuel intake during exercise.* Journal of Sports Sciences, 22(1), 39–55. [Đọc trên PubMed ↗](https://pubmed.ncbi.nlm.nih.gov/14971697/)
-4. **Cheuvront, S. N., & Kenefick, R. W. (2014).** *Dehydration: physiology, assessment, and performance effects.* Comprehensive Physiology, 4(1), 257–285. [Đọc trên Wiley ↗](https://doi.org/10.1002/cphy.c130017)
+1. **Sawka, M. N., Burke, L. M., Eichner, E. R., et al. (2007).** *American College of Sports Medicine position stand: Exercise and fluid replacement.* Medicine and Science in Sports and Exercise, 39(2), 377–390. [Tạp chí Sports Medicine (PMID: 17277604) ↗](https://pubmed.ncbi.nlm.nih.gov/17277604/)
+2. **Judelson, D. A., Maresh, C. M., et al. (2007).** *Hydration and muscular performance: does fluid balance affect strength, power and high-intensity endurance?* Sports Medicine, 37(10), 907–921. [Tạp chí Sports Medicine (PMID: 17887814) ↗](https://pubmed.ncbi.nlm.nih.gov/17887814/)
+3. **Coyle, E. F. (2004).** *Fluid and fuel intake during exercise.* Journal of Sports Sciences, 22(1), 39–55. [Tạp chí Journal of Sports Sciences (PMID: 14971697) ↗](https://pubmed.ncbi.nlm.nih.gov/14971697/)
+4. **Cheuvront, S. N., & Kenefick, R. W. (2014).** *Dehydration: physiology, assessment, and performance effects.* Comprehensive Physiology, 4(1), 257–285. [Tạp chí Wiley ↗](https://doi.org/10.1002/cphy.c130017)
 
 ---
 
-## 🇬🇧 ENGLISH CONTENT
+## 🇬🇧 English Edition
+
+# Hydration Dynamics: How a 2% Body Water Deficit Spikes Heart Rate & Derails Muscle Work
+
+> **Abstract (Sapo):** Most men wait until profound dry-mouth thirst strikes before reaching for water, but in exercise physiology, thirst is a notoriously delayed lagging indicator. The American College of Sports Medicine (ACSM) clinical position stand emphasizes that hypohydration of merely 2% body mass slashes aerobic and strength work capacity by up to 15%, elevates cardiovascular strain via cardiac drift, and spikes catabolic cortisol.
+
+> 💡 **Key Takeaway & Clinical Action:** A 2% water deficit contracts intravascular plasma volume, concentrating blood and slashing ventricular stroke volume. To maintain cardiac output, the heart must beat 3–7 bpm faster (cardiac drift) at identical workloads. Consume 35–45ml water/kg body mass daily and add 500mg sodium with electrolytes for sessions exceeding 60 minutes.
 
 ## The "Cardiac Drift" Phenomenon: Blood Thickening Under Dehydration
 

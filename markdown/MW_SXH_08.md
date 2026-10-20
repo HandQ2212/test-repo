@@ -1,18 +1,21 @@
-# Khi Nào Nam Giới Cần Kiểm Tra Hormone? Hướng Dẫn Đọc Bảng Xét Nghiệm Chuẩn Y Khoa
-**When to Test Your Hormones: Clinical Guidelines for Total T, Free T, SHBG, LH & Prolactin**
-
-> **Sapo (VI):** Rất nhiều người đàn ông tự ý tìm đến các phòng khám tư hoặc tự mua hormone về tiêm chỉ vì cảm thấy mệt mỏi hay phong độ phòng the sa sút nhẹ. Hướng dẫn thực hành lâm sàng chính thức của Hiệp hội Nội tiết Hoa Kỳ (Endocrine Society) và Hiệp hội Tiết niệu Châu Âu (EAU) cảnh báo: Việc chẩn đoán suy giảm nội tiết nam đòi hỏi quy trình xét nghiệm nghiêm ngặt gồm ít nhất hai lần lấy mẫu máu độc lập vào buổi sáng kèm theo phân tích đầy đủ các chỉ số trục tuyến yên - tinh hoàn.
-> 
-> **Lead (EN):** Countless men impulsively seek commercial hormone replacement clinics or self-administer exogenous androgens merely due to transient fatigue or bedroom frustration. Official clinical guidelines from the Endocrine Society and the European Association of Urology (EAU) caution that diagnosing male hypogonadism demands a rigorous diagnostic protocol requiring at least two independent early-morning fasting blood panels and differential gonadotropin profiling.
-
-> [!TIP]
-> 💡 **Điểm Cốt Lõi (Key Takeaway):** Chỉ xét nghiệm hormone khi có các triệu chứng lâm sàng rõ rệt (mất ham muốn, mất cương buổi sáng, teo cơ, mệt mỏi mạn tính). Bắt buộc phải lấy máu lúc đói trước 10:00 sáng. Bảng xét nghiệm chuẩn phải bao gồm: Total T, Free T (hoặc tính qua SHBG + Albumin), LH, FSH, Prolactin và Estradiol nhạy cảm.
-> 
-> 💡 **Takeaway (EN):** Screen for hormone deficiency only in the presence of definitive clinical symptoms (loss of libido, absent morning wood, sarcopenia, chronic fatigue). Blood must be drawn fasting before 10:00 AM. A complete diagnostic panel must evaluate: Total T, Free T (calculated via SHBG and Albumin), LH, FSH, Prolactin, and sensitive Estradiol.
+# MW_SXH_08 - Khi Nào Nam Giới Cần Kiểm Tra Hormone? Hướng Dẫn Đọc Bảng Xét Nghiệm Chuẩn Y Khoa
+**Category:** Men's Health 
+**Screen:** Endocrine Diagnostic & Laboratory Screen 
+**Metric:** Diurnal Blood Sampling, Total/Free T, SHBG, LH & Prolactin Differential 
+**Reading Time:** 8 phút đọc / 8 min 
+**Hero Image:** ![Khi Nào Nam Giới Cần Kiểm Tra Hormone? Hướng Dẫn Đọc Bảng Xét Nghiệm Chuẩn Y Khoa](images/DM_HW_02_hero.jpg) *(Source: [https://images.unsplash.com/photo-1579154204601-01588f351e67?auto=format&fit=crop&w=1200&q=85](https://images.unsplash.com/photo-1579154204601-01588f351e67?auto=format&fit=crop&w=1200&q=85))* 
+**Inline Figure:** ![Trục Hạ đồi - Tuyến yên - Tinh hoàn (Trục HPTA): Xét nghiệm nồng độ LH và FSH đồng thời giúp bác sĩ phân biệt chính xác giữa suy sinh dục nguyên phát tại tinh hoàn hay thứ phát tại não bộ.](images/LM_MH_01_figure.jpg) *(Source: [https://commons.wikimedia.org/wiki/File:Hypothalamic%E2%80%93pituitary%E2%80%93gonadal_axis.svg](https://commons.wikimedia.org/wiki/File:Hypothalamic%E2%80%93pituitary%E2%80%93gonadal_axis.svg))* 
+**Clinical Source:** [The Journal of Clinical Endocrinology & Metabolism & European Association of Urology (EAU Guidelines)](https://pubmed.ncbi.nlm.nih.gov/29562364/) 
 
 ---
 
-## 🇻🇳 NỘI DUNG TIẾNG VIỆT
+## 🇻🇳 Phiên Bản Tiếng Việt (Vietnamese Edition)
+
+# Khi Nào Nam Giới Cần Kiểm Tra Hormone? Hướng Dẫn Đọc Bảng Xét Nghiệm Chuẩn Y Khoa
+
+> **Tóm tắt (Sapo):** Rất nhiều người đàn ông tự ý tìm đến các phòng khám tư hoặc tự mua hormone về tiêm chỉ vì cảm thấy mệt mỏi hay phong độ phòng the sa sút nhẹ. Hướng dẫn thực hành lâm sàng chính thức của Hiệp hội Nội tiết Hoa Kỳ (Endocrine Society) và Hiệp hội Tiết niệu Châu Âu (EAU) cảnh báo: Việc chẩn đoán suy giảm nội tiết nam đòi hỏi quy trình xét nghiệm nghiêm ngặt gồm ít nhất hai lần lấy mẫu máu độc lập vào buổi sáng kèm theo phân tích đầy đủ các chỉ số trục tuyến yên - tinh hoàn.
+
+> 💡 **Điểm Cốt Lõi & Hành Động Thực Tế (Key Takeaway):** Chỉ xét nghiệm hormone khi có các triệu chứng lâm sàng rõ rệt (mất ham muốn, mất cương buổi sáng, teo cơ, mệt mỏi mạn tính). Bắt buộc phải lấy máu lúc đói trước 10:00 sáng. Bảng xét nghiệm chuẩn phải bao gồm: Total T, Free T (hoặc tính qua SHBG + Albumin), LH, FSH, Prolactin và Estradiol nhạy cảm.
 
 ## Khi Nào Bạn Thực Sự Cần Xét Nghiệm Hormone Nam Giới?
 
@@ -67,14 +70,20 @@ Khi nhận bảng kết quả xét nghiệm từ bệnh viện, hãy đối chi�
 
 ## Tài Liệu Tham Khảo & Nguồn Y Khoa
 
-1. **Bhasin, S., Brito, J. P., Cunningham, G. R., et al. (2018).** *Testosterone Therapy in Men With Hypogonadism: An Endocrine Society Clinical Practice Guideline.* The Journal of Clinical Endocrinology & Metabolism, 103(5), 1715–1744. [Đọc trên PubMed ↗](https://pubmed.ncbi.nlm.nih.gov/29562364/)
-2. **Dohle, G. R., et al. (2019).** *EAU Guidelines on Male Hypogonadism.* European Association of Urology Guidelines Office. [Đọc trên EAU ↗](https://uroweb.org/guidelines/male-hypogonadism)
-3. **Caronia, L. M., et al. (2013).** *Abrupt decrease in serum testosterone levels after an oral glucose load in men: implications for screening for hypogonadism.* Clinical Endocrinology, 78(2), 291–296. [Đọc trên PubMed ↗](https://pubmed.ncbi.nlm.nih.gov/22804876/)
-4. **Vermeulen, A., Verdonck, L., & Kaufman, J. M. (1999).** *A critical evaluation of simple methods for the estimation of free testosterone in serum.* JCEM, 84(10), 3666–3672. [Đọc trên PubMed ↗](https://pubmed.ncbi.nlm.nih.gov/10523012/)
+1. **Bhasin, S., Brito, J. P., Cunningham, G. R., et al. (2018).** *Testosterone Therapy in Men With Hypogonadism: An Endocrine Society Clinical Practice Guideline.* The Journal of Clinical Endocrinology & Metabolism, 103(5), 1715–1744. [Tạp chí Journal of Clinical Endocrinology & Metabolism (PMID: 29562364) ↗](https://pubmed.ncbi.nlm.nih.gov/29562364/)
+2. **Dohle, G. R., et al. (2019).** *EAU Guidelines on Male Hypogonadism.* European Association of Urology Guidelines Office. [Hướng Dẫn Hiệp Hội Tiết Niệu Châu Âu (EAU Guidelines) ↗](https://uroweb.org/guidelines/male-hypogonadism)
+3. **Caronia, L. M., et al. (2013).** *Abrupt decrease in serum testosterone levels after an oral glucose load in men: implications for screening for hypogonadism.* Clinical Endocrinology, 78(2), 291–296. [Báo Cáo Nghiên Cứu Gốc (NCBI PubMed: 22804876) ↗](https://pubmed.ncbi.nlm.nih.gov/22804876/)
+4. **Vermeulen, A., Verdonck, L., & Kaufman, J. M. (1999).** *A critical evaluation of simple methods for the estimation of free testosterone in serum.* JCEM, 84(10), 3666–3672. [Tạp chí JCEM (PMID: 10523012) ↗](https://pubmed.ncbi.nlm.nih.gov/10523012/)
 
 ---
 
-## 🇬🇧 ENGLISH CONTENT
+## 🇬🇧 English Edition
+
+# When to Test Your Hormones: Clinical Guidelines for Total T, Free T, SHBG, LH & Prolactin
+
+> **Abstract (Sapo):** Countless men impulsively seek commercial hormone replacement clinics or self-administer exogenous androgens merely due to transient fatigue or bedroom frustration. Official clinical guidelines from the Endocrine Society and the European Association of Urology (EAU) caution that diagnosing male hypogonadism demands a rigorous diagnostic protocol requiring at least two independent early-morning fasting blood panels and differential gonadotropin profiling.
+
+> 💡 **Key Takeaway & Clinical Action:** Screen for hormone deficiency only in the presence of definitive clinical symptoms (loss of libido, absent morning wood, sarcopenia, chronic fatigue). Blood must be drawn fasting before 10:00 AM. A complete diagnostic panel must evaluate: Total T, Free T (calculated via SHBG and Albumin), LH, FSH, Prolactin, and sensitive Estradiol.
 
 ## When Do You Truly Need Hormone Testing?
 

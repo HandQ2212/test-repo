@@ -1,22 +1,21 @@
-# 🇻🇳 Kỹ Thuật Tập Kegel Chuẩn Y Khoa: Tập Khi Mềm, Phối Hợp Hơi Thở Cơ Hoành và Cô Lập Cơ Đích
-# 🇬🇧 Kegel Form & Execution: Flaccid State Training, Diaphragmatic Respiration, and Muscle Isolation
-
-- **Article ID:** `LM_MH_02`
-- **Category:** Men's Health — Kegel State & Breathing
-- **Content Type:** Learn more
-- **Mapped App Screen & Metric:** `Men's Health Screen` (`Kegel Execution Form`)
-- **Reading Time:** 8 phút đọc / 8 min
-- **Local Hero Photo:** `images/LM_MH_02_hero.jpg` ([Original Photo Source ↗](https://images.unsplash.com/photo-1571019613454-1cb2f99b2d8b?auto=format&fit=crop&w=1200&q=85))
-- **Local Medical Figure:** `images/LM_MH_02_figure.jpg` ([Original Wikimedia Commons Source ↗](https://commons.wikimedia.org/wiki/File:Breathing_at_rest.jpg))
-- **Primary Clinical & Wearable Source:** [Physiotherapy (Dorey et al., 2004) & Neurourology and Urodynamics (Hodges et al., 2007)](https://pubmed.ncbi.nlm.nih.gov/17600370/)
+# LM_MH_02 - Kỹ Thuật Tập Kegel Chuẩn Y Khoa: Tập Khi Mềm, Phối Hợp Hơi Thở Cơ Hoành và Cô Lập Cơ Đích
+**Category:** Men's Health 
+**Screen:** Men's Health Screen 
+**Metric:** Kegel Execution Form 
+**Reading Time:** 8 phút đọc / 8 min 
+**Hero Image:** ![Kỹ Thuật Tập Kegel Chuẩn Y Khoa: Tập Khi Mềm, Phối Hợp Hơi Thở Cơ Hoành và Cô Lập Cơ Đích](images/LM_MH_02_hero.jpg) *(Source: [https://images.unsplash.com/photo-1571019613454-1cb2f99b2d8b?auto=format&fit=crop&w=1200&q=85](https://images.unsplash.com/photo-1571019613454-1cb2f99b2d8b?auto=format&fit=crop&w=1200&q=85))* 
+**Inline Figure:** ![Cơ học hô hấp bằng cơ hoành lúc nghỉ ngơi và khi vận động, cho thấy sự di chuyển xuống dưới của cơ hoành khi hít vào và nâng lên khi thở ra phối hợp đồng bộ với áp lực ổ bụng và biên độ co giãn của sàn chậu.](images/LM_MH_02_figure.jpg) *(Source: [https://commons.wikimedia.org/wiki/File:Breathing_at_rest.jpg](https://commons.wikimedia.org/wiki/File:Breathing_at_rest.jpg))* 
+**Clinical Source:** [Physiotherapy (Dorey et al., 2004) & Neurourology and Urodynamics (Hodges et al., 2007)](https://pubmed.ncbi.nlm.nih.gov/17600370/) 
 
 ---
 
-## 🇻🇳 BẢN TIẾNG VIỆT
+## 🇻🇳 Phiên Bản Tiếng Việt (Vietnamese Edition)
 
-> **Tóm tắt:** Vì sao bài tập Kegel nam giới luôn phải thực hiện khi dương vật ở trạng thái mềm? Tìm hiểu cơ sinh học của khoang ngực – chậu, cách hít thở bằng cơ hoành giúp ngăn chặn áp lực ổ bụng dồn xuống dưới và phương pháp loại bỏ hoàn toàn lỗi gồng bụng hay siết mông.
+# Kỹ Thuật Tập Kegel Chuẩn Y Khoa: Tập Khi Mềm, Phối Hợp Hơi Thở Cơ Hoành và Cô Lập Cơ Đích
 
-> 💡 **Điểm Cốt Lõi & Hành Động Thực Tế:** Luôn tập cơ sàn chậu khi dương vật ở trạng thái mềm và duy trì nhịp thở mũi tự nhiên. Thở ra nhẹ nhàng khi nâng sàn chậu vào trong và hướng lên trên, hít vào để thả lỏng và giãn dài đáy chậu hoàn toàn, đồng thời tuân thủ tỷ lệ thời gian co – nghỉ tối thiểu là 1:1.
+> **Tóm tắt (Sapo):** Vì sao bài tập Kegel nam giới luôn phải thực hiện khi dương vật ở trạng thái mềm? Tìm hiểu cơ sinh học của khoang ngực – chậu, cách hít thở bằng cơ hoành giúp ngăn chặn áp lực ổ bụng dồn xuống dưới và phương pháp loại bỏ hoàn toàn lỗi gồng bụng hay siết mông.
+
+> 💡 **Điểm Cốt Lõi & Hành Động Thực Tế (Key Takeaway):** Luôn tập cơ sàn chậu khi dương vật ở trạng thái mềm và duy trì nhịp thở mũi tự nhiên. Thở ra nhẹ nhàng khi nâng sàn chậu vào trong và hướng lên trên, hít vào để thả lỏng và giãn dài đáy chậu hoàn toàn, đồng thời tuân thủ tỷ lệ thời gian co – nghỉ tối thiểu là 1:1.
 
 ## Câu Hỏi Lâm Sàng Số 1: Vì Sao Luôn Phải Tập Kegel Khi Dương Vật Ở Trạng Thái Mềm?
 
@@ -86,18 +85,20 @@ Hãy thực hiện buổi tập thần kinh – cơ 5 phút này mỗi ngày tro
 
 ## Tài Liệu Tham Khảo & Nguồn Y Khoa
 
-1. **Dorey, G. (2004).** *Pelvic floor exercises for erectile dysfunction (Clinical Protocol & Fiber Physiology).* Physiotherapy / BJU International, 96(4), 595–597. [https://pubmed.ncbi.nlm.nih.gov/16011707/](https://pubmed.ncbi.nlm.nih.gov/16011707/)
-2. **Hodges, P. W., Sapsford, R., & Pengel, L. H. (2007).** *Postural and respiratory functions of the pelvic floor muscles.* Neurourology and Urodynamics, 26(3), 362–371. [https://pubmed.ncbi.nlm.nih.gov/17304528/](https://pubmed.ncbi.nlm.nih.gov/17304528/)
-3. **Talasz, H., Kremser, C., Kofler, M., Kalchschmid, E., Lechleitner, M., & Rudisch, A. (2011).** *Phase-locked parallel movement of the diaphragm and pelvic floor during breathing and coughing—a dynamic MRI investigation in healthy females and males.* International Urogynecology Journal, 22(1), 61–68. [https://pubmed.ncbi.nlm.nih.gov/20809211/](https://pubmed.ncbi.nlm.nih.gov/20809211/)
-4. **Stafford, R. E., Ashton-Miller, J. A., Constantinou, C., Coughlin, G., Lutton, N. J., & Hodges, P. W. (2016).** *Pattern of activation of pelvic floor muscles in men differs with verbal instructions.* Neurourology and Urodynamics, 35(4), 457–463. [https://pubmed.ncbi.nlm.nih.gov/25727781/](https://pubmed.ncbi.nlm.nih.gov/25727781/)
+1. **Dorey, G. (2004).** *Pelvic floor exercises for erectile dysfunction (Clinical Protocol & Fiber Physiology).* Physiotherapy / BJU International, 96(4), 595–597. [Báo Cáo Nghiên Cứu Gốc (NCBI PubMed: 16011707) ↗](https://pubmed.ncbi.nlm.nih.gov/16011707/)
+2. **Hodges, P. W., Sapsford, R., & Pengel, L. H. (2007).** *Postural and respiratory functions of the pelvic floor muscles.* Neurourology and Urodynamics, 26(3), 362–371. [Báo Cáo Nghiên Cứu Gốc (NCBI PubMed: 17304528) ↗](https://pubmed.ncbi.nlm.nih.gov/17304528/)
+3. **Talasz, H., Kremser, C., Kofler, M., Kalchschmid, E., Lechleitner, M., & Rudisch, A. (2011).** *Phase-locked parallel movement of the diaphragm and pelvic floor during breathing and coughing—a dynamic MRI investigation in healthy females and males.* International Urogynecology Journal, 22(1), 61–68. [Báo Cáo Nghiên Cứu Gốc (NCBI PubMed: 20809211) ↗](https://pubmed.ncbi.nlm.nih.gov/20809211/)
+4. **Stafford, R. E., Ashton-Miller, J. A., Constantinou, C., Coughlin, G., Lutton, N. J., & Hodges, P. W. (2016).** *Pattern of activation of pelvic floor muscles in men differs with verbal instructions.* Neurourology and Urodynamics, 35(4), 457–463. [Báo Cáo Nghiên Cứu Gốc (NCBI PubMed: 25727781) ↗](https://pubmed.ncbi.nlm.nih.gov/25727781/)
 
 ---
 
-## 🇬🇧 ENGLISH VERSION
+## 🇬🇧 English Edition
 
-> **Executive Summary:** Why must male Kegel exercises always be performed in a flaccid state? Learn the biomechanics of the thoraco-pelvic canister, how diaphragmatic breathing prevents downward intra-abdominal pressure spikes, and how to eliminate abdominal and gluteal compensation.
+# Kegel Form & Execution: Flaccid State Training, Diaphragmatic Respiration, and Muscle Isolation
 
-> 💡 **Key Actionable Takeaway:** Always train your pelvic floor in a flaccid state while breathing smoothly through your nose. Exhale gently as you lift the pelvic floor inward and upward, inhale to fully relax and lengthen the perineum, and maintain at least a 1:1 contraction-to-relaxation ratio.
+> **Abstract (Sapo):** Why must male Kegel exercises always be performed in a flaccid state? Learn the biomechanics of the thoraco-pelvic canister, how diaphragmatic breathing prevents downward intra-abdominal pressure spikes, and how to eliminate abdominal and gluteal compensation.
+
+> 💡 **Key Takeaway & Clinical Action:** Always train your pelvic floor in a flaccid state while breathing smoothly through your nose. Exhale gently as you lift the pelvic floor inward and upward, inhale to fully relax and lengthen the perineum, and maintain at least a 1:1 contraction-to-relaxation ratio.
 
 ## The #1 Clinical Question: Why Must Kegels Be Done in a Flaccid State?
 
@@ -167,7 +168,7 @@ Practice this 5-minute daily neuromuscular session in a quiet room while complet
 
 ## References & Clinical Sources
 
-1. **Dorey, G. (2004).** *Pelvic floor exercises for erectile dysfunction (Clinical Protocol & Fiber Physiology).* Physiotherapy / BJU International, 96(4), 595–597. [https://pubmed.ncbi.nlm.nih.gov/16011707/](https://pubmed.ncbi.nlm.nih.gov/16011707/)
-2. **Hodges, P. W., Sapsford, R., & Pengel, L. H. (2007).** *Postural and respiratory functions of the pelvic floor muscles.* Neurourology and Urodynamics, 26(3), 362–371. [https://pubmed.ncbi.nlm.nih.gov/17304528/](https://pubmed.ncbi.nlm.nih.gov/17304528/)
-3. **Talasz, H., Kremser, C., Kofler, M., Kalchschmid, E., Lechleitner, M., & Rudisch, A. (2011).** *Phase-locked parallel movement of the diaphragm and pelvic floor during breathing and coughing—a dynamic MRI investigation in healthy females and males.* International Urogynecology Journal, 22(1), 61–68. [https://pubmed.ncbi.nlm.nih.gov/20809211/](https://pubmed.ncbi.nlm.nih.gov/20809211/)
-4. **Stafford, R. E., Ashton-Miller, J. A., Constantinou, C., Coughlin, G., Lutton, N. J., & Hodges, P. W. (2016).** *Pattern of activation of pelvic floor muscles in men differs with verbal instructions.* Neurourology and Urodynamics, 35(4), 457–463. [https://pubmed.ncbi.nlm.nih.gov/25727781/](https://pubmed.ncbi.nlm.nih.gov/25727781/)
+1. **Dorey, G. (2004).** *Pelvic floor exercises for erectile dysfunction (Clinical Protocol & Fiber Physiology).* Physiotherapy / BJU International, 96(4), 595–597. [Original Study Report (NCBI PubMed: 16011707) ↗](https://pubmed.ncbi.nlm.nih.gov/16011707/)
+2. **Hodges, P. W., Sapsford, R., & Pengel, L. H. (2007).** *Postural and respiratory functions of the pelvic floor muscles.* Neurourology and Urodynamics, 26(3), 362–371. [Original Study Report (NCBI PubMed: 17304528) ↗](https://pubmed.ncbi.nlm.nih.gov/17304528/)
+3. **Talasz, H., Kremser, C., Kofler, M., Kalchschmid, E., Lechleitner, M., & Rudisch, A. (2011).** *Phase-locked parallel movement of the diaphragm and pelvic floor during breathing and coughing—a dynamic MRI investigation in healthy females and males.* International Urogynecology Journal, 22(1), 61–68. [Original Study Report (NCBI PubMed: 20809211) ↗](https://pubmed.ncbi.nlm.nih.gov/20809211/)
+4. **Stafford, R. E., Ashton-Miller, J. A., Constantinou, C., Coughlin, G., Lutton, N. J., & Hodges, P. W. (2016).** *Pattern of activation of pelvic floor muscles in men differs with verbal instructions.* Neurourology and Urodynamics, 35(4), 457–463. [Original Study Report (NCBI PubMed: 25727781) ↗](https://pubmed.ncbi.nlm.nih.gov/25727781/)

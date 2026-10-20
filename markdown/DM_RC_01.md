@@ -1,22 +1,21 @@
-# 🇻🇳 Giao Thức Thở Cộng Hưởng 5.5 Giây: Cách Kích Hoạt Dây Thần Kinh Phế Vị & Tăng Chỉ Số HRV Tự Nhiên
-# 🇬🇧 The 5.5-Second Resonance Breathing Protocol: How to Stimulate Your Vagus Nerve & Boost HRV
-
-- **Article ID:** `DM_RC_01`
-- **Category:** Recovery — Breathing for HRV
-- **Content Type:** Discover more
-- **Mapped App Screen & Metric:** `Recovery Screen` (`HRV Biohacking`)
-- **Reading Time:** 8 phút đọc / 8 min
-- **Local Hero Photo:** `images/DM_RC_01_hero.jpg` ([Original Photo Source ↗](https://images.unsplash.com/photo-1518241353330-0f7941c2d9b5?auto=format&fit=crop&w=1200&q=85))
-- **Local Medical Figure:** `images/DM_RC_01_figure.jpg` ([Original Wikimedia Commons Source ↗](https://commons.wikimedia.org/wiki/File:Respiratory_sinus_arrhythmia_with_RBBB_(male,_21).jpg))
-- **Primary Clinical & Wearable Source:** [Frontiers in Public Health (Steffen et al., 2017) & Cell Reports Medicine (Balban et al., 2023)](https://pubmed.ncbi.nlm.nih.gov/28890890/)
+# DM_RC_01 - Giao Thức Thở Cộng Hưởng 5.5 Giây: Cách Kích Hoạt Dây Thần Kinh Phế Vị & Tăng Chỉ Số HRV Tự Nhiên
+**Category:** Recovery 
+**Screen:** Recovery Screen 
+**Metric:** HRV Biohacking 
+**Reading Time:** 8 phút đọc / 8 min 
+**Hero Image:** ![Giao Thức Thở Cộng Hưởng 5.5 Giây: Cách Kích Hoạt Dây Thần Kinh Phế Vị & Tăng Chỉ Số HRV Tự Nhiên](images/DM_RC_01_hero.jpg) *(Source: [https://images.unsplash.com/photo-1518241353330-0f7941c2d9b5?auto=format&fit=crop&w=1200&q=85](https://images.unsplash.com/photo-1518241353330-0f7941c2d9b5?auto=format&fit=crop&w=1200&q=85))* 
+**Inline Figure:** ![Bản ghi Điện tâm đồ (ECG) lâm sàng minh họa hiện tượng Loạn nhịp xoang hô hấp (Respiratory Sinus Arrhythmia - RSA) khỏe mạnh ở người trưởng thành 21 tuổi—cho thấy khoảng cách R-R tự nhiên thu hẹp lại (nhịp tim tăng) khi hít vào và giãn rộng ra (nhịp tim chậm lại nhờ dây thần kinh phế vị) khi thở ra.](images/DM_RC_01_figure.jpg) *(Source: [https://commons.wikimedia.org/wiki/File:Respiratory_sinus_arrhythmia_with_RBBB_(male,_21).jpg](https://commons.wikimedia.org/wiki/File:Respiratory_sinus_arrhythmia_with_RBBB_(male,_21).jpg))* 
+**Clinical Source:** [Frontiers in Public Health (Steffen et al., 2017) & Cell Reports Medicine (Balban et al., 2023)](https://pubmed.ncbi.nlm.nih.gov/28890890/) 
 
 ---
 
-## 🇻🇳 BẢN TIẾNG VIỆT
+## 🇻🇳 Phiên Bản Tiếng Việt (Vietnamese Edition)
 
-> **Tóm tắt:** Nhịp thở là chiếc điều khiển từ xa duy nhất giúp bạn trực tiếp điều hướng Hệ thần kinh Tự chủ theo thời gian thực. Khám phá cơ chế thần kinh - tim mạch đằng sau hiện tượng Loạn nhịp xoang hô hấp (RSA), tần số cộng hưởng 0.1 Hz, và cách 10 phút thở nhịp 5.5 giây giúp nâng cao mức nền HRV.
+# Giao Thức Thở Cộng Hưởng 5.5 Giây: Cách Kích Hoạt Dây Thần Kinh Phế Vị & Tăng Chỉ Số HRV Tự Nhiên
 
-> 💡 **Điểm Cốt Lõi & Hành Động Thực Tế:** Thở êm dịu qua mũi theo nhịp hít vào 5.5 giây và thở ra 5.5 giây (~5.5 nhịp thở mỗi phút, tương đương tần số 0.1 Hz) giúp đồng bộ hóa dao động nhịp tim với các thụ thể áp suất mạch máu—kích thích tối đa dây thần kinh phế vị và nâng cao chỉ số HRV lúc nghỉ.
+> **Tóm tắt (Sapo):** Nhịp thở là chiếc điều khiển từ xa duy nhất giúp bạn trực tiếp điều hướng Hệ thần kinh Tự chủ theo thời gian thực. Khám phá cơ chế thần kinh - tim mạch đằng sau hiện tượng Loạn nhịp xoang hô hấp (RSA), tần số cộng hưởng 0.1 Hz, và cách 10 phút thở nhịp 5.5 giây giúp nâng cao mức nền HRV.
+
+> 💡 **Điểm Cốt Lõi & Hành Động Thực Tế (Key Takeaway):** Thở êm dịu qua mũi theo nhịp hít vào 5.5 giây và thở ra 5.5 giây (~5.5 nhịp thở mỗi phút, tương đương tần số 0.1 Hz) giúp đồng bộ hóa dao động nhịp tim với các thụ thể áp suất mạch máu—kích thích tối đa dây thần kinh phế vị và nâng cao chỉ số HRV lúc nghỉ.
 
 ## Hơi Thở Chính Là Chiếc Điều Khiển Từ Xa Của Nhịp Tim
 
@@ -73,18 +72,20 @@ Bạn có thể kiểm chứng hiệu quả ngay hôm nay bằng cách mở màn
 
 ## Tài Liệu Tham Khảo & Nguồn Y Khoa
 
-1. **Steffen, P. R., Austin, T., DeBarros, A., & Brown, T. (2017).** *The Impact of Resonance Frequency Breathing on Measures of Heart Rate Variability, Blood Pressure, and Mood.* Frontiers in Public Health, 5, 222. [https://pubmed.ncbi.nlm.nih.gov/28890890/](https://pubmed.ncbi.nlm.nih.gov/28890890/)
-2. **Balban, M. Y., Neri, E., Kogon, M. M., Weed, L., Nouriani, B., Jo, B., ... & Huberman, A. D. (2023).** *Brief structured respiration practices enhance mood and reduce physiological arousal.* Cell Reports Medicine, 4(1), 100895. [https://pubmed.ncbi.nlm.nih.gov/36630953/](https://pubmed.ncbi.nlm.nih.gov/36630953/)
-3. **Lehrer, P. M., & Gevirtz, R. (2014).** *Heart rate variability biofeedback: how and why does it work?* Frontiers in Psychology, 5, 756. [https://pubmed.ncbi.nlm.nih.gov/25101026/](https://pubmed.ncbi.nlm.nih.gov/25101026/)
-4. **WHOOP The Locker.** *How to Increase HRV: Breathwork & Autonomic Nervous System Training.* [https://www.whoop.com/us/en/thelocker/increase-hrv-heart-rate-variability/](https://www.whoop.com/us/en/thelocker/increase-hrv-heart-rate-variability/)
+1. **Steffen, P. R., Austin, T., DeBarros, A., & Brown, T. (2017).** *The Impact of Resonance Frequency Breathing on Measures of Heart Rate Variability, Blood Pressure, and Mood.* Frontiers in Public Health, 5, 222. [Báo Cáo Nghiên Cứu Gốc (NCBI PubMed: 28890890) ↗](https://pubmed.ncbi.nlm.nih.gov/28890890/)
+2. **Balban, M. Y., Neri, E., Kogon, M. M., Weed, L., Nouriani, B., Jo, B., ... & Huberman, A. D. (2023).** *Brief structured respiration practices enhance mood and reduce physiological arousal.* Cell Reports Medicine, 4(1), 100895. [Báo Cáo Nghiên Cứu Gốc (NCBI PubMed: 36630953) ↗](https://pubmed.ncbi.nlm.nih.gov/36630953/)
+3. **Lehrer, P. M., & Gevirtz, R. (2014).** *Heart rate variability biofeedback: how and why does it work?* Frontiers in Psychology, 5, 756. [Báo Cáo Nghiên Cứu Gốc (NCBI PubMed: 25101026) ↗](https://pubmed.ncbi.nlm.nih.gov/25101026/)
+4. **WHOOP The Locker.** *How to Increase HRV: Breathwork & Autonomic Nervous System Training.* [Tạp Chí Khoa Học WHOOP The Locker ↗](https://www.whoop.com/us/en/thelocker/increase-hrv-heart-rate-variability/)
 
 ---
 
-## 🇬🇧 ENGLISH VERSION
+## 🇬🇧 English Edition
 
-> **Executive Summary:** Your breathing rate is the only remote control that directly steers your Autonomic Nervous System in real time. Learn the clinical neuro-cardiology behind Respiratory Sinus Arrhythmia (RSA), the 0.1 Hz resonance frequency, and how 10 minutes of 5.5-second breathing elevates your HRV.
+# The 5.5-Second Resonance Breathing Protocol: How to Stimulate Your Vagus Nerve & Boost HRV
 
-> 💡 **Key Actionable Takeaway:** Breathing smoothly through your nose at a pace of 5.5-second inhales and 5.5-second exhales (~5.5 breaths per minute, or 0.1 Hz) synchronizes your heart rate oscillations with your blood pressure baroreceptors—maximizing vagus nerve stimulation and raising resting HRV.
+> **Abstract (Sapo):** Your breathing rate is the only remote control that directly steers your Autonomic Nervous System in real time. Learn the clinical neuro-cardiology behind Respiratory Sinus Arrhythmia (RSA), the 0.1 Hz resonance frequency, and how 10 minutes of 5.5-second breathing elevates your HRV.
+
+> 💡 **Key Takeaway & Clinical Action:** Breathing smoothly through your nose at a pace of 5.5-second inhales and 5.5-second exhales (~5.5 breaths per minute, or 0.1 Hz) synchronizes your heart rate oscillations with your blood pressure baroreceptors—maximizing vagus nerve stimulation and raising resting HRV.
 
 ## Your Breath Is the Remote Control for Your Heart Rate
 
@@ -141,7 +142,7 @@ You can test this directly today using the real-time **Stress Monitor / Breathwo
 
 ## References & Clinical Sources
 
-1. **Steffen, P. R., Austin, T., DeBarros, A., & Brown, T. (2017).** *The Impact of Resonance Frequency Breathing on Measures of Heart Rate Variability, Blood Pressure, and Mood.* Frontiers in Public Health, 5, 222. [https://pubmed.ncbi.nlm.nih.gov/28890890/](https://pubmed.ncbi.nlm.nih.gov/28890890/)
-2. **Balban, M. Y., Neri, E., Kogon, M. M., Weed, L., Nouriani, B., Jo, B., ... & Huberman, A. D. (2023).** *Brief structured respiration practices enhance mood and reduce physiological arousal.* Cell Reports Medicine, 4(1), 100895. [https://pubmed.ncbi.nlm.nih.gov/36630953/](https://pubmed.ncbi.nlm.nih.gov/36630953/)
-3. **Lehrer, P. M., & Gevirtz, R. (2014).** *Heart rate variability biofeedback: how and why does it work?* Frontiers in Psychology, 5, 756. [https://pubmed.ncbi.nlm.nih.gov/25101026/](https://pubmed.ncbi.nlm.nih.gov/25101026/)
-4. **WHOOP The Locker.** *How to Increase HRV: Breathwork & Autonomic Nervous System Training.* [https://www.whoop.com/us/en/thelocker/increase-hrv-heart-rate-variability/](https://www.whoop.com/us/en/thelocker/increase-hrv-heart-rate-variability/)
+1. **Steffen, P. R., Austin, T., DeBarros, A., & Brown, T. (2017).** *The Impact of Resonance Frequency Breathing on Measures of Heart Rate Variability, Blood Pressure, and Mood.* Frontiers in Public Health, 5, 222. [Original Study Report (NCBI PubMed: 28890890) ↗](https://pubmed.ncbi.nlm.nih.gov/28890890/)
+2. **Balban, M. Y., Neri, E., Kogon, M. M., Weed, L., Nouriani, B., Jo, B., ... & Huberman, A. D. (2023).** *Brief structured respiration practices enhance mood and reduce physiological arousal.* Cell Reports Medicine, 4(1), 100895. [Original Study Report (NCBI PubMed: 36630953) ↗](https://pubmed.ncbi.nlm.nih.gov/36630953/)
+3. **Lehrer, P. M., & Gevirtz, R. (2014).** *Heart rate variability biofeedback: how and why does it work?* Frontiers in Psychology, 5, 756. [Original Study Report (NCBI PubMed: 25101026) ↗](https://pubmed.ncbi.nlm.nih.gov/25101026/)
+4. **WHOOP The Locker.** *How to Increase HRV: Breathwork & Autonomic Nervous System Training.* [WHOOP The Locker Science Journal ↗](https://www.whoop.com/us/en/thelocker/increase-hrv-heart-rate-variability/)

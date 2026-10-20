@@ -1,22 +1,21 @@
-# 🇻🇳 Giải Mã Active Zone Minutes (AZM): Vì Sao Cường Độ Nhịp Tim Quan Trọng Hơn 10.000 Bước Chân
-# 🇬🇧 Active Zone Minutes (AZM) Explained: Why Heart Rate Intensity Matters More Than 10,000 Steps
-
-- **Article ID:** `LM_AC_01`
-- **Category:** Activity — Active Zone Minutes
-- **Content Type:** Learn more
-- **Mapped App Screen & Metric:** `Activity Screen` (`Active Zone Minutes (AZM)`)
-- **Reading Time:** 8 phút đọc / 8 min
-- **Local Hero Photo:** `images/LM_AC_01_hero.jpg` ([Original Photo Source ↗](https://images.unsplash.com/photo-1476480862126-209bfaa8edc8?auto=format&fit=crop&w=1200&q=85))
-- **Local Medical Figure:** `images/LM_AC_01_figure.png` ([Original Wikimedia Commons Source ↗](https://commons.wikimedia.org/wiki/File:Exercise_zones_Fox_and_Haskell.svg))
-- **Primary Clinical & Wearable Source:** [Fitbit Health Science & World Health Organization (Bull et al., 2020)](https://pubmed.ncbi.nlm.nih.gov/33239350/)
+# LM_AC_01 - Giải Mã Active Zone Minutes (AZM): Vì Sao Cường Độ Nhịp Tim Quan Trọng Hơn 10.000 Bước Chân
+**Category:** Activity 
+**Screen:** Activity Screen 
+**Metric:** Active Zone Minutes (AZM) 
+**Reading Time:** 8 phút đọc / 8 min 
+**Hero Image:** ![Giải Mã Active Zone Minutes (AZM): Vì Sao Cường Độ Nhịp Tim Quan Trọng Hơn 10.000 Bước Chân](images/LM_AC_01_hero.jpg) *(Source: [https://images.unsplash.com/photo-1476480862126-209bfaa8edc8?auto=format&fit=crop&w=1200&q=85](https://images.unsplash.com/photo-1476480862126-209bfaa8edc8?auto=format&fit=crop&w=1200&q=85))* 
+**Inline Figure:** ![Biểu đồ phân vùng nhịp tim tập luyện theo độ tuổi của Fox và Haskell, minh họa sự chuyển tiếp từ ngưỡng vận động hiếu khí trung bình (50%–70% HRmax) sang vùng rèn luyện tim phổi cường độ cao (70%–85%+ HRmax).](images/LM_AC_01_figure.png) *(Source: [https://commons.wikimedia.org/wiki/File:Exercise_zones_Fox_and_Haskell.svg](https://commons.wikimedia.org/wiki/File:Exercise_zones_Fox_and_Haskell.svg))* 
+**Clinical Source:** [Fitbit Health Science & World Health Organization (Bull et al., 2020)](https://pubmed.ncbi.nlm.nih.gov/33239350/) 
 
 ---
 
-## 🇻🇳 BẢN TIẾNG VIỆT
+## 🇻🇳 Phiên Bản Tiếng Việt (Vietnamese Edition)
 
-> **Tóm tắt:** Đi bộ 10.000 bước thư thả mỗi ngày rất tốt cho vận động cơ bản, nhưng để tái cấu trúc hệ tim mạch thực sự, bạn cần đưa nhịp tim vào các vùng cường độ mục tiêu cá nhân hóa. Tìm hiểu cách đồng hồ thông minh tính toán số Phút Vận Động Tích Cực (AZM) qua công thức Dự trữ Nhịp tim Karvonen, vì sao vận động cường độ cao được nhân đôi số điểm và cách chinh phục mục tiêu 150 phút mỗi tuần của WHO.
+# Giải Mã Active Zone Minutes (AZM): Vì Sao Cường Độ Nhịp Tim Quan Trọng Hơn 10.000 Bước Chân
 
-> 💡 **Điểm Cốt Lõi & Hành Động Thực Tế:** Đừng chỉ đánh giá thể lực hàng ngày qua số bước chân. Tích lũy đủ 150 Phút Vận Động Tích Cực (AZM) mỗi tuần—với vùng Đốt Mỡ trung bình tính 1× điểm và vùng Cardio/Đỉnh tính 2× điểm—giúp bạn đáp ứng trọn vẹn khuyến nghị của WHO và Hiệp hội Tim mạch Hoa Kỳ (AHA) nhằm giảm thiểu nguy cơ bệnh tim mạch.
+> **Tóm tắt (Sapo):** Đi bộ 10.000 bước thư thả mỗi ngày rất tốt cho vận động cơ bản, nhưng để tái cấu trúc hệ tim mạch thực sự, bạn cần đưa nhịp tim vào các vùng cường độ mục tiêu cá nhân hóa. Tìm hiểu cách đồng hồ thông minh tính toán số Phút Vận Động Tích Cực (AZM) qua công thức Dự trữ Nhịp tim Karvonen, vì sao vận động cường độ cao được nhân đôi số điểm và cách chinh phục mục tiêu 150 phút mỗi tuần của WHO.
+
+> 💡 **Điểm Cốt Lõi & Hành Động Thực Tế (Key Takeaway):** Đừng chỉ đánh giá thể lực hàng ngày qua số bước chân. Tích lũy đủ 150 Phút Vận Động Tích Cực (AZM) mỗi tuần—với vùng Đốt Mỡ trung bình tính 1× điểm và vùng Cardio/Đỉnh tính 2× điểm—giúp bạn đáp ứng trọn vẹn khuyến nghị của WHO và Hiệp hội Tim mạch Hoa Kỳ (AHA) nhằm giảm thiểu nguy cơ bệnh tim mạch.
 
 ## Vượt Qua Lầm Tưởng Về Con Số 10.000 Bước Chân
 
@@ -85,18 +84,20 @@ Khi theo dõi biểu đồ Active Zone Minutes ngày và tuần trên ứng dụ
 
 ## Tài Liệu Tham Khảo & Nguồn Y Khoa
 
-1. **Bull, F. C., Al-Ansari, S. S., Biddle, S., Borodulin, K., Buman, M. P., Cardon, G., ... & Willumsen, J. F. (2020).** *World Health Organization 2020 guidelines on physical activity and sedentary behaviour.* British Journal of Sports Medicine, 54(24), 1451–1462. [https://pubmed.ncbi.nlm.nih.gov/33239350/](https://pubmed.ncbi.nlm.nih.gov/33239350/)
-2. **Karvonen, M. J., Kentala, E., & Mustala, O. (1957).** *The effects of training on heart rate; a longitudinal study.* Annales Medicinae Experimentalis et Biologiae Fenniae, 35(3), 307–315. [https://pubmed.ncbi.nlm.nih.gov/13470504/](https://pubmed.ncbi.nlm.nih.gov/13470504/)
-3. **Fitbit Health Science.** *What Are Active Zone Minutes or Active Minutes on My Fitbit Device?* [https://support.google.com/fitbit/answer/14236513](https://support.google.com/fitbit/answer/14236513)
-4. **Garmin Health Science.** *Intensity Minutes: How Garmin Tracks Moderate and Vigorous Activity Based on WHO & AHA Standards.* [https://www.garmin.com/en-US/garmin-technology/health-science/intensity-minutes/](https://www.garmin.com/en-US/garmin-technology/health-science/intensity-minutes/)
+1. **Bull, F. C., Al-Ansari, S. S., Biddle, S., Borodulin, K., Buman, M. P., Cardon, G., ... & Willumsen, J. F. (2020).** *World Health Organization 2020 guidelines on physical activity and sedentary behaviour.* British Journal of Sports Medicine, 54(24), 1451–1462. [Báo Cáo Nghiên Cứu Gốc (NCBI PubMed: 33239350) ↗](https://pubmed.ncbi.nlm.nih.gov/33239350/)
+2. **Karvonen, M. J., Kentala, E., & Mustala, O. (1957).** *The effects of training on heart rate; a longitudinal study.* Annales Medicinae Experimentalis et Biologiae Fenniae, 35(3), 307–315. [Báo Cáo Nghiên Cứu Gốc (NCBI PubMed: 13470504) ↗](https://pubmed.ncbi.nlm.nih.gov/13470504/)
+3. **Fitbit Health Science.** *What Are Active Zone Minutes or Active Minutes on My Fitbit Device?* [Tài Liệu Gốc Xác Thực ↗](https://support.google.com/fitbit/answer/14236513)
+4. **Garmin Health Science.** *Intensity Minutes: How Garmin Tracks Moderate and Vigorous Activity Based on WHO & AHA Standards.* [Cổng Khoa Học Garmin Health Science ↗](https://www.garmin.com/en-US/garmin-technology/health-science/intensity-minutes/)
 
 ---
 
-## 🇬🇧 ENGLISH VERSION
+## 🇬🇧 English Edition
 
-> **Executive Summary:** Walking 10,000 casual steps is great for baseline movement, but true cardiovascular remodeling requires elevating your heart rate into personalized training zones. Learn how smartwatches calculate Active Zone Minutes (AZM) using the Karvonen Heart Rate Reserve formula, why vigorous minutes count double, and how to hit your weekly 150-minute WHO longevity target.
+# Active Zone Minutes (AZM) Explained: Why Heart Rate Intensity Matters More Than 10,000 Steps
 
-> 💡 **Key Actionable Takeaway:** Stop judging your daily fitness solely by step count. Earning 150 Active Zone Minutes per week—where moderate Fat Burn zones earn 1× credit and vigorous Cardio/Peak zones earn 2× credit—directly fulfills WHO and American Heart Association guidelines for reducing cardiovascular risk.
+> **Abstract (Sapo):** Walking 10,000 casual steps is great for baseline movement, but true cardiovascular remodeling requires elevating your heart rate into personalized training zones. Learn how smartwatches calculate Active Zone Minutes (AZM) using the Karvonen Heart Rate Reserve formula, why vigorous minutes count double, and how to hit your weekly 150-minute WHO longevity target.
+
+> 💡 **Key Takeaway & Clinical Action:** Stop judging your daily fitness solely by step count. Earning 150 Active Zone Minutes per week—where moderate Fat Burn zones earn 1× credit and vigorous Cardio/Peak zones earn 2× credit—directly fulfills WHO and American Heart Association guidelines for reducing cardiovascular risk.
 
 ## Moving Beyond the 10,000-Step Myth
 
@@ -165,7 +166,7 @@ When you review your daily and weekly Active Zone Minutes graph in your companio
 
 ## References & Clinical Sources
 
-1. **Bull, F. C., Al-Ansari, S. S., Biddle, S., Borodulin, K., Buman, M. P., Cardon, G., ... & Willumsen, J. F. (2020).** *World Health Organization 2020 guidelines on physical activity and sedentary behaviour.* British Journal of Sports Medicine, 54(24), 1451–1462. [https://pubmed.ncbi.nlm.nih.gov/33239350/](https://pubmed.ncbi.nlm.nih.gov/33239350/)
-2. **Karvonen, M. J., Kentala, E., & Mustala, O. (1957).** *The effects of training on heart rate; a longitudinal study.* Annales Medicinae Experimentalis et Biologiae Fenniae, 35(3), 307–315. [https://pubmed.ncbi.nlm.nih.gov/13470504/](https://pubmed.ncbi.nlm.nih.gov/13470504/)
-3. **Fitbit Health Science.** *What Are Active Zone Minutes or Active Minutes on My Fitbit Device?* [https://support.google.com/fitbit/answer/14236513](https://support.google.com/fitbit/answer/14236513)
-4. **Garmin Health Science.** *Intensity Minutes: How Garmin Tracks Moderate and Vigorous Activity Based on WHO & AHA Standards.* [https://www.garmin.com/en-US/garmin-technology/health-science/intensity-minutes/](https://www.garmin.com/en-US/garmin-technology/health-science/intensity-minutes/)
+1. **Bull, F. C., Al-Ansari, S. S., Biddle, S., Borodulin, K., Buman, M. P., Cardon, G., ... & Willumsen, J. F. (2020).** *World Health Organization 2020 guidelines on physical activity and sedentary behaviour.* British Journal of Sports Medicine, 54(24), 1451–1462. [Original Study Report (NCBI PubMed: 33239350) ↗](https://pubmed.ncbi.nlm.nih.gov/33239350/)
+2. **Karvonen, M. J., Kentala, E., & Mustala, O. (1957).** *The effects of training on heart rate; a longitudinal study.* Annales Medicinae Experimentalis et Biologiae Fenniae, 35(3), 307–315. [Original Study Report (NCBI PubMed: 13470504) ↗](https://pubmed.ncbi.nlm.nih.gov/13470504/)
+3. **Fitbit Health Science.** *What Are Active Zone Minutes or Active Minutes on My Fitbit Device?* [Verified Original Document ↗](https://support.google.com/fitbit/answer/14236513)
+4. **Garmin Health Science.** *Intensity Minutes: How Garmin Tracks Moderate and Vigorous Activity Based on WHO & AHA Standards.* [Garmin Health Science Portal ↗](https://www.garmin.com/en-US/garmin-technology/health-science/intensity-minutes/)

@@ -1,18 +1,21 @@
-# Thủ Dâm & Nồng Độ Testosterone: Giải Mã Các Lời Đồn Dân Gian Bằng Bằng Chứng Thực Nghiệm
-**Masturbation and Testosterone Dynamics: Debunking Myths with Empirical Clinical Trials**
-
-> **Sapo (VI):** Trào lưu 'NoFap' (kiêng thủ dâm tuyệt đối) đang lan truyền rầm rộ trên mạng xã hội với những lời hứa hẹn rằng kiêng xuất tinh sẽ giúp tăng vọt testosterone, phát triển cơ bắp thần tốc và trở thành 'Alpha male'. Các thử nghiệm lâm sàng thực chứng nói gì về điều này? Khám phá khoa học sinh hóa đằng sau biến động nội tiết tố sau xuất tinh, sự thật về ngày thứ 7 kiêng cữ và tần suất xuất tinh tối ưu để phòng ngừa ung thư tuyến tiền liệt.
-> 
-> **Lead (EN):** The online 'NoFap' movement has gained viral traction, promising men that abstaining from ejaculation will perpetually supercharge testosterone, accelerate muscle growth, and unlock cognitive dominance. What does rigorous endocrinological literature actually report? Explore the empirical biochemistry of post-ejaculatory hormone fluctuations, the reality of the Day-7 spike, and how regular ejaculation protects against prostate cancer.
-
-> [!TIP]
-> 💡 **Điểm Cốt Lõi (Key Takeaway):** Thủ dâm hay xuất tinh không làm suy giảm nồng độ testosterone nền tảng dài hạn của nam giới. Hiện tượng testosterone tăng vọt vào ngày thứ 7 kiêng cữ chỉ là một đỉnh điều hòa tạm thời trước khi tụt về mức bình thường. Ngược lại, xuất tinh đều đặn ≥ 21 lần/tháng được chứng minh lâm sàng giúp giảm 31% nguy cơ ung thư tuyến tiền liệt.
-> 
-> 💡 **Takeaway (EN):** Masturbation and ejaculation do not deplete chronic resting testosterone reserves. The famous Day-7 abstinence spike represents a transient homeostatic peak that quickly normalizes. In contrast, longitudinal epidemiological data confirms that maintaining an ejaculation frequency of ≥ 21 times monthly reduces prostate cancer risk by 31%.
+# MW_SXO_06 - Thủ Dâm & Nồng Độ Testosterone: Giải Mã Các Lời Đồn Dân Gian Bằng Bằng Chứng Thực Nghiệm
+**Category:** Men's Health 
+**Screen:** Endocrine Facts & Scientific Evidence Screen 
+**Metric:** Acute vs Chronic Endocrine Adaptation, Ejaculatory Frequency & Leydig Integrity 
+**Reading Time:** 8 phút đọc / 8 min 
+**Hero Image:** ![Thủ Dâm & Nồng Độ Testosterone: Giải Mã Các Lời Đồn Dân Gian Bằng Bằng Chứng Thực Nghiệm](images/LM_MH_01_hero.jpg) *(Source: [https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?auto=format&fit=crop&w=1200&q=85](https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?auto=format&fit=crop&w=1200&q=85))* 
+**Inline Figure:** ![Động học testosterone sau xuất tinh: Nồng độ testosterone huyết thanh biến thiên cấp tính trong 20–30 phút sau cực khoái nhưng trở về mức nền ban đầu, không làm suy giảm tổng lượng hormone dài hạn.](images/LM_MH_01_figure.jpg) *(Source: [https://commons.wikimedia.org/wiki/File:Steroidogenesis.svg](https://commons.wikimedia.org/wiki/File:Steroidogenesis.svg))* 
+**Clinical Source:** [World Journal of Urology & Journal of Zhejiang University Science](https://pubmed.ncbi.nlm.nih.gov/11760788/) 
 
 ---
 
-## 🇻🇳 NỘI DUNG TIẾNG VIỆT
+## 🇻🇳 Phiên Bản Tiếng Việt (Vietnamese Edition)
+
+# Thủ Dâm & Nồng Độ Testosterone: Giải Mã Các Lời Đồn Dân Gian Bằng Bằng Chứng Thực Nghiệm
+
+> **Tóm tắt (Sapo):** Trào lưu 'NoFap' (kiêng thủ dâm tuyệt đối) đang lan truyền rầm rộ trên mạng xã hội với những lời hứa hẹn rằng kiêng xuất tinh sẽ giúp tăng vọt testosterone, phát triển cơ bắp thần tốc và trở thành 'Alpha male'. Các thử nghiệm lâm sàng thực chứng nói gì về điều này? Khám phá khoa học sinh hóa đằng sau biến động nội tiết tố sau xuất tinh, sự thật về ngày thứ 7 kiêng cữ và tần suất xuất tinh tối ưu để phòng ngừa ung thư tuyến tiền liệt.
+
+> 💡 **Điểm Cốt Lõi & Hành Động Thực Tế (Key Takeaway):** Thủ dâm hay xuất tinh không làm suy giảm nồng độ testosterone nền tảng dài hạn của nam giới. Hiện tượng testosterone tăng vọt vào ngày thứ 7 kiêng cữ chỉ là một đỉnh điều hòa tạm thời trước khi tụt về mức bình thường. Ngược lại, xuất tinh đều đặn ≥ 21 lần/tháng được chứng minh lâm sàng giúp giảm 31% nguy cơ ung thư tuyến tiền liệt.
 
 ## Giải Mã "Nghiên Cứu Ngày Thứ 7" (The Day 7 Abstinence Study)
 
@@ -68,14 +71,20 @@ Bản thân hành vi thủ dâm là một phản xạ sinh lý hoàn toàn lành
 
 ## Tài Liệu Tham Khảo & Nguồn Y Khoa
 
-1. **Jiang, M., Xin, J., Zou, Q., & Shen, J. W. (2003).** *A research on the relationship between ejaculation and serum testosterone level in men.* Journal of Zhejiang University SCIENCE, 4(2), 236–240. [Đọc trên PubMed ↗](https://pubmed.ncbi.nlm.nih.gov/12659241/)
-2. **Exton, M. S., Krüger, T. H., Bursch, N., et al. (2001).** *Endocrine and neuroimmune responses to orgasm in men.* World Journal of Urology, 19(5), 377–382. [Đọc trên PubMed ↗](https://pubmed.ncbi.nlm.nih.gov/11760788/)
-3. **Rider, J. R., Wilson, K. M., Sinnott, J. A., et al. (2016).** *Ejaculation frequency and risk of prostate cancer: updated results with an additional decade of follow-up.* European Urology, 70(6), 974–982. [Đọc trên Eur Urol ↗](https://pubmed.ncbi.nlm.nih.gov/27033442/)
-4. **Alwaal, A., Breyer, B. N., & Lue, T. F. (2015).** *Normal male sexual function: emphasis on orgasm and ejaculation.* Fertility and Sterility, 104(5), 1051–1060. [Đọc trên PubMed ↗](https://pubmed.ncbi.nlm.nih.gov/26385403/)
+1. **Jiang, M., Xin, J., Zou, Q., & Shen, J. W. (2003).** *A research on the relationship between ejaculation and serum testosterone level in men.* Journal of Zhejiang University SCIENCE, 4(2), 236–240. [Báo Cáo Nghiên Cứu Gốc (NCBI PubMed: 12659241) ↗](https://pubmed.ncbi.nlm.nih.gov/12659241/)
+2. **Exton, M. S., Krüger, T. H., Bursch, N., et al. (2001).** *Endocrine and neuroimmune responses to orgasm in men.* World Journal of Urology, 19(5), 377–382. [Báo Cáo Nghiên Cứu Gốc (NCBI PubMed: 11760788) ↗](https://pubmed.ncbi.nlm.nih.gov/11760788/)
+3. **Rider, J. R., Wilson, K. M., Sinnott, J. A., et al. (2016).** *Ejaculation frequency and risk of prostate cancer: updated results with an additional decade of follow-up.* European Urology, 70(6), 974–982. [Tạp chí Eur Urol (PMID: 27033442) ↗](https://pubmed.ncbi.nlm.nih.gov/27033442/)
+4. **Alwaal, A., Breyer, B. N., & Lue, T. F. (2015).** *Normal male sexual function: emphasis on orgasm and ejaculation.* Fertility and Sterility, 104(5), 1051–1060. [Tạp chí Fertility and Sterility (PMID: 26385403) ↗](https://pubmed.ncbi.nlm.nih.gov/26385403/)
 
 ---
 
-## 🇬🇧 ENGLISH CONTENT
+## 🇬🇧 English Edition
+
+# Masturbation and Testosterone Dynamics: Debunking Myths with Empirical Clinical Trials
+
+> **Abstract (Sapo):** The online 'NoFap' movement has gained viral traction, promising men that abstaining from ejaculation will perpetually supercharge testosterone, accelerate muscle growth, and unlock cognitive dominance. What does rigorous endocrinological literature actually report? Explore the empirical biochemistry of post-ejaculatory hormone fluctuations, the reality of the Day-7 spike, and how regular ejaculation protects against prostate cancer.
+
+> 💡 **Key Takeaway & Clinical Action:** Masturbation and ejaculation do not deplete chronic resting testosterone reserves. The famous Day-7 abstinence spike represents a transient homeostatic peak that quickly normalizes. In contrast, longitudinal epidemiological data confirms that maintaining an ejaculation frequency of ≥ 21 times monthly reduces prostate cancer risk by 31%.
 
 ## Demystifying the "Day 7 Abstinence Spike"
 

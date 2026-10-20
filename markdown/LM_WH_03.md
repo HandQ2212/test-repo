@@ -1,22 +1,21 @@
-# 🇻🇳 Nhiệt Độ Cơ Bản (BBT) & Nhiệt Độ Da Ban Đêm: Cách Thiết Bị Đeo Xác Nhận Rụng Trứng
-# 🇬🇧 Basal Body Temperature (BBT) & Overnight Skin Temperature: How Wearables Confirm Ovulation
-
-- **Article ID:** `LM_WH_03`
-- **Category:** Women's Health — Basal Body Temperature
-- **Content Type:** Learn more
-- **Mapped App Screen & Metric:** `Menstrual Cycle Screen` (`Basal Body Temperature (BBT)`)
-- **Reading Time:** 8 phút đọc / 8 min
-- **Local Hero Photo:** `images/LM_WH_03_hero.jpg` ([Original Photo Source ↗](https://images.unsplash.com/photo-1516585427167-9f4af9627e6c?auto=format&fit=crop&w=1200&q=85))
-- **Local Medical Figure:** `images/LM_WH_03_figure.png` ([Original Wikimedia Commons Source ↗](https://commons.wikimedia.org/wiki/File:Menstrual_cycle.svg))
-- **Primary Clinical & Wearable Source:** [Natural Cycles FDA De Novo Science & Oura University of California San Diego Study (Maijala et al., 2019)](https://pubmed.ncbi.nlm.nih.gov/30709005/)
+# LM_WH_03 - Nhiệt Độ Cơ Bản (BBT) & Nhiệt Độ Da Ban Đêm: Cách Thiết Bị Đeo Xác Nhận Rụng Trứng
+**Category:** Women's Health 
+**Screen:** Menstrual Cycle Screen 
+**Metric:** Basal Body Temperature (BBT) 
+**Reading Time:** 8 phút đọc / 8 min 
+**Hero Image:** ![Nhiệt Độ Cơ Bản (BBT) & Nhiệt Độ Da Ban Đêm: Cách Thiết Bị Đeo Xác Nhận Rụng Trứng](images/LM_WH_03_hero.jpg) *(Source: [https://images.unsplash.com/photo-1516585427167-9f4af9627e6c?auto=format&fit=crop&w=1200&q=85](https://images.unsplash.com/photo-1516585427167-9f4af9627e6c?auto=format&fit=crop&w=1200&q=85))* 
+**Inline Figure:** ![Biểu đồ lâm sàng chu kỳ kinh nguyệt làm nổi bật đường cong Nhiệt độ cơ bản (BBT) hai pha: nền nhiệt thấp ổn định dưới tác động của Estradiol ở pha Nang trứng, tiếp nối bởi cao nguyên nhiệt độ tăng +0.3°C đến +0.5°C do Progesterone thúc đẩy suốt pha Hoàng thể.](images/LM_WH_03_figure.png) *(Source: [https://commons.wikimedia.org/wiki/File:Menstrual_cycle.svg](https://commons.wikimedia.org/wiki/File:Menstrual_cycle.svg))* 
+**Clinical Source:** [Natural Cycles FDA De Novo Science & Oura University of California San Diego Study (Maijala et al., 2019)](https://pubmed.ncbi.nlm.nih.gov/30709005/) 
 
 ---
 
-## 🇻🇳 BẢN TIẾNG VIỆT
+## 🇻🇳 Phiên Bản Tiếng Việt (Vietnamese Edition)
 
-> **Tóm tắt:** Mỗi chu kỳ có rụng trứng đều vẽ nên một đường cong nhiệt độ hai pha rõ rệt qua từng đêm. Tìm hiểu vì sao hormone Progesterone làm tăng nhiệt độ cơ thể thêm 0.3°C đến 0.5°C sau khi rụng trứng, và vì sao cảm biến đo liên tục ban đêm trên nhẫn và đồng hồ thông minh vượt trội hơn nhiệt kế ngậm dưới lưỡi truyền thống.
+# Nhiệt Độ Cơ Bản (BBT) & Nhiệt Độ Da Ban Đêm: Cách Thiết Bị Đeo Xác Nhận Rụng Trứng
 
-> 💡 **Điểm Cốt Lõi & Hành Động Thực Tế:** Mức tăng nhiệt độ ban đêm duy trì từ +0.3°C đến +0.5°C (+0.5°F đến +0.9°F) trong ít nhất 3 đêm liên tiếp là bằng chứng sinh lý xác nhận quá trình rụng trứng đã diễn ra. Cảm biến nhiệt độ da đo liên tục khi ngủ giúp loại bỏ hoàn toàn sai số giờ giấc của nhiệt kế đo miệng truyền thống.
+> **Tóm tắt (Sapo):** Mỗi chu kỳ có rụng trứng đều vẽ nên một đường cong nhiệt độ hai pha rõ rệt qua từng đêm. Tìm hiểu vì sao hormone Progesterone làm tăng nhiệt độ cơ thể thêm 0.3°C đến 0.5°C sau khi rụng trứng, và vì sao cảm biến đo liên tục ban đêm trên nhẫn và đồng hồ thông minh vượt trội hơn nhiệt kế ngậm dưới lưỡi truyền thống.
+
+> 💡 **Điểm Cốt Lõi & Hành Động Thực Tế (Key Takeaway):** Mức tăng nhiệt độ ban đêm duy trì từ +0.3°C đến +0.5°C (+0.5°F đến +0.9°F) trong ít nhất 3 đêm liên tiếp là bằng chứng sinh lý xác nhận quá trình rụng trứng đã diễn ra. Cảm biến nhiệt độ da đo liên tục khi ngủ giúp loại bỏ hoàn toàn sai số giờ giấc của nhiệt kế đo miệng truyền thống.
 
 ## Nhiệt Độ Cơ Bản (BBT) Là Gì—Và Vì Sao Nó Lại Thay Đổi Theo Chu Kỳ?
 
@@ -82,18 +81,20 @@ Vì thiết bị đeo đo sự điều hòa nhiệt ngoại vi, các thuật to�
 
 ## Tài Liệu Tham Khảo & Nguồn Y Khoa
 
-1. **Maijala, A., Kinnunen, H., Koskimäki, H., Jämsä, T., & Kangas, M. (2019).** *Nocturnal finger skin temperature in menstrual cycle tracking: ambulatory pilot study using a wearable Oura ring.* BMC Women's Health / JMIR, 19(1), 150. [https://pubmed.ncbi.nlm.nih.gov/31783840/](https://pubmed.ncbi.nlm.nih.gov/31783840/)
-2. **Bull, J. R., Rowland, S. P., Scherwitzl, E. B., Scherwitzl, R., Danielsson, K. G., & Harper, J. (2019).** *Real-world menstrual cycle characteristics of more than 600,000 menstrual cycles.* npj Digital Medicine (Nature), 2(1), 83. [https://pubmed.ncbi.nlm.nih.gov/31482137/](https://pubmed.ncbi.nlm.nih.gov/31482137/)
-3. **Steward, K., & Raja, A. (2023).** *Physiology, Ovulation And Basal Body Temperature.* In StatPearls [Internet]. National Center for Biotechnology Information (NCBI). [https://www.ncbi.nlm.nih.gov/books/NBK546686/](https://www.ncbi.nlm.nih.gov/books/NBK546686/)
-4. **Natural Cycles° Medical Science.** *How Basal Body Temperature & Wearable Algorithms Detect Ovulation.* [https://www.naturalcycles.com/the-science](https://www.naturalcycles.com/the-science)
+1. **Maijala, A., Kinnunen, H., Koskimäki, H., Jämsä, T., & Kangas, M. (2019).** *Nocturnal finger skin temperature in menstrual cycle tracking: ambulatory pilot study using a wearable Oura ring.* BMC Women's Health / JMIR, 19(1), 150. [Báo Cáo Nghiên Cứu Gốc (NCBI PubMed: 31783840) ↗](https://pubmed.ncbi.nlm.nih.gov/31783840/)
+2. **Bull, J. R., Rowland, S. P., Scherwitzl, E. B., Scherwitzl, R., Danielsson, K. G., & Harper, J. (2019).** *Real-world menstrual cycle characteristics of more than 600,000 menstrual cycles.* npj Digital Medicine (Nature), 2(1), 83. [Báo Cáo Nghiên Cứu Gốc (NCBI PubMed: 31482137) ↗](https://pubmed.ncbi.nlm.nih.gov/31482137/)
+3. **Steward, K., & Raja, A. (2023).** *Physiology, Ovulation And Basal Body Temperature.* In StatPearls [Internet]. National Center for Biotechnology Information (NCBI). [Tài Liệu Gốc Xác Thực ↗](https://www.ncbi.nlm.nih.gov/books/NBK546686/)
+4. **Natural Cycles° Medical Science.** *How Basal Body Temperature & Wearable Algorithms Detect Ovulation.* [Tài Liệu Gốc Xác Thực ↗](https://www.naturalcycles.com/the-science)
 
 ---
 
-## 🇬🇧 ENGLISH VERSION
+## 🇬🇧 English Edition
 
-> **Executive Summary:** Every ovulatory cycle paints a distinct two-phase thermal signature across your nights. Learn why progesterone raises your body temperature by 0.3°C to 0.5°C after ovulation, and why continuous overnight smart ring and watch sensors beat traditional waking oral thermometers.
+# Basal Body Temperature (BBT) & Overnight Skin Temperature: How Wearables Confirm Ovulation
 
-> 💡 **Key Actionable Takeaway:** A sustained overnight temperature rise of +0.3°C to +0.5°C (+0.5°F to +0.9°F) lasting at least 3 consecutive nights confirms that ovulation has occurred. Continuous nocturnal skin sensors on smart rings and watches eliminate the waking-time errors that plague manual morning thermometers.
+> **Abstract (Sapo):** Every ovulatory cycle paints a distinct two-phase thermal signature across your nights. Learn why progesterone raises your body temperature by 0.3°C to 0.5°C after ovulation, and why continuous overnight smart ring and watch sensors beat traditional waking oral thermometers.
+
+> 💡 **Key Takeaway & Clinical Action:** A sustained overnight temperature rise of +0.3°C to +0.5°C (+0.5°F to +0.9°F) lasting at least 3 consecutive nights confirms that ovulation has occurred. Continuous nocturnal skin sensors on smart rings and watches eliminate the waking-time errors that plague manual morning thermometers.
 
 ## What Is Basal Body Temperature (BBT)—And Why Does It Shift?
 
@@ -159,7 +160,7 @@ Because your wearable measures peripheral thermoregulation, smart algorithms (li
 
 ## References & Clinical Sources
 
-1. **Maijala, A., Kinnunen, H., Koskimäki, H., Jämsä, T., & Kangas, M. (2019).** *Nocturnal finger skin temperature in menstrual cycle tracking: ambulatory pilot study using a wearable Oura ring.* BMC Women's Health / JMIR, 19(1), 150. [https://pubmed.ncbi.nlm.nih.gov/31783840/](https://pubmed.ncbi.nlm.nih.gov/31783840/)
-2. **Bull, J. R., Rowland, S. P., Scherwitzl, E. B., Scherwitzl, R., Danielsson, K. G., & Harper, J. (2019).** *Real-world menstrual cycle characteristics of more than 600,000 menstrual cycles.* npj Digital Medicine (Nature), 2(1), 83. [https://pubmed.ncbi.nlm.nih.gov/31482137/](https://pubmed.ncbi.nlm.nih.gov/31482137/)
-3. **Steward, K., & Raja, A. (2023).** *Physiology, Ovulation And Basal Body Temperature.* In StatPearls [Internet]. National Center for Biotechnology Information (NCBI). [https://www.ncbi.nlm.nih.gov/books/NBK546686/](https://www.ncbi.nlm.nih.gov/books/NBK546686/)
-4. **Natural Cycles° Medical Science.** *How Basal Body Temperature & Wearable Algorithms Detect Ovulation.* [https://www.naturalcycles.com/the-science](https://www.naturalcycles.com/the-science)
+1. **Maijala, A., Kinnunen, H., Koskimäki, H., Jämsä, T., & Kangas, M. (2019).** *Nocturnal finger skin temperature in menstrual cycle tracking: ambulatory pilot study using a wearable Oura ring.* BMC Women's Health / JMIR, 19(1), 150. [Original Study Report (NCBI PubMed: 31783840) ↗](https://pubmed.ncbi.nlm.nih.gov/31783840/)
+2. **Bull, J. R., Rowland, S. P., Scherwitzl, E. B., Scherwitzl, R., Danielsson, K. G., & Harper, J. (2019).** *Real-world menstrual cycle characteristics of more than 600,000 menstrual cycles.* npj Digital Medicine (Nature), 2(1), 83. [Original Study Report (NCBI PubMed: 31482137) ↗](https://pubmed.ncbi.nlm.nih.gov/31482137/)
+3. **Steward, K., & Raja, A. (2023).** *Physiology, Ovulation And Basal Body Temperature.* In StatPearls [Internet]. National Center for Biotechnology Information (NCBI). [Verified Original Document ↗](https://www.ncbi.nlm.nih.gov/books/NBK546686/)
+4. **Natural Cycles° Medical Science.** *How Basal Body Temperature & Wearable Algorithms Detect Ovulation.* [Verified Original Document ↗](https://www.naturalcycles.com/the-science)

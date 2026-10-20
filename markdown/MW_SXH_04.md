@@ -1,18 +1,21 @@
-# Stress & Phong Độ Phòng The: Trục HPA, Độc Tính Cortisol & Phản Ứng Ức Chế Thần Kinh
-**Stress and Male Sexual Performance: The HPA Axis, Cortisol Surge & Autonomic Interference**
-
-> **Sapo (VI):** Khi não bộ nhận diện một mối đe dọa—dù là thú dữ thời tiền sử hay một bản thông báo hạn chót công việc căng thẳng—nó sẽ lập tức tắt bỏ những chức năng không thiết yếu cho sự sống còn tức thì, và sinh sản luôn là nạn nhân đầu tiên. Khám phá cách trục căng thẳng HPA và hệ thần kinh giao cảm (Sympathetic Overdrive) bóp nghẹt lưu lượng máu thể hang và gây ra hội chứng lo âu hiệu suất phòng the.
-> 
-> **Lead (EN):** When the brain perceives acute threat—whether an apex predator in antiquity or an urgent financial deadline today—it ruthlessly deactivates bodily functions non-essential for immediate survival, and reproduction is invariably the first casualty. Explore how the HPA stress axis and sympathetic overdrive constrict cavernosal arterioles and orchestrate performance anxiety.
-
-> [!TIP]
-> 💡 **Điểm Cốt Lõi (Key Takeaway):** Cơ chế cương cứng là hiện tượng hoàn toàn phụ thuộc vào hệ thần kinh phó giao cảm (Parasympathetic). Bạn không thể cương cứng khi cơ thể đang ở trạng thái chiến đấu (Fight or Flight). Làm chủ các kỹ thuật kích hoạt dây thần kinh phế vị và hạ thấp cortisol là chìa khóa mở khóa bản lĩnh.
-> 
-> 💡 **Takeaway (EN):** Erection is strictly a parasympathetic ('rest and digest') autonomic event. You cannot sustain an erection while locked in sympathetic ('fight or flight') overdrive. Mastering vagal nerve activation and blunting acute cortisol surges is the clinical key to unlocking sexual performance.
+# MW_SXH_04 - Stress & Phong Độ Phòng The: Trục HPA, Độc Tính Cortisol & Phản Ứng Ức Chế Thần Kinh
+**Category:** Men's Health 
+**Screen:** Stress Management & Autonomic Screen 
+**Metric:** Stress Score, Sympathetic Overdrive & Cortisol/Testosterone Ratio 
+**Reading Time:** 8 phút đọc / 8 min 
+**Hero Image:** ![Stress & Phong Độ Phòng The: Trục HPA, Độc Tính Cortisol & Phản Ứng Ức Chế Thần Kinh](images/DM_MH_03_hero.jpg) *(Source: [https://images.unsplash.com/photo-1499209974431-9dddcece7f88?auto=format&fit=crop&w=1200&q=85](https://images.unsplash.com/photo-1499209974431-9dddcece7f88?auto=format&fit=crop&w=1200&q=85))* 
+**Inline Figure:** ![Hệ thần kinh tự chủ (Giao cảm vs Phó giao cảm): Cương cứng đòi hỏi sự thống trị của phó giao cảm (Rest & Digest); trong khi stress kích hoạt giao cảm (Fight or Flight) gây co thắt động mạch.](images/LM_HW_01_figure.png) *(Source: [https://commons.wikimedia.org/wiki/File:Autonomic_Nervous_System.svg](https://commons.wikimedia.org/wiki/File:Autonomic_Nervous_System.svg))* 
+**Clinical Source:** [Nature Reviews Endocrinology & Journal of Sexual Medicine](https://pubmed.ncbi.nlm.nih.gov/20358897/) 
 
 ---
 
-## 🇻🇳 NỘI DUNG TIẾNG VIỆT
+## 🇻🇳 Phiên Bản Tiếng Việt (Vietnamese Edition)
+
+# Stress & Phong Độ Phòng The: Trục HPA, Độc Tính Cortisol & Phản Ứng Ức Chế Thần Kinh
+
+> **Tóm tắt (Sapo):** Khi não bộ nhận diện một mối đe dọa—dù là thú dữ thời tiền sử hay một bản thông báo hạn chót công việc căng thẳng—nó sẽ lập tức tắt bỏ những chức năng không thiết yếu cho sự sống còn tức thì, và sinh sản luôn là nạn nhân đầu tiên. Khám phá cách trục căng thẳng HPA và hệ thần kinh giao cảm (Sympathetic Overdrive) bóp nghẹt lưu lượng máu thể hang và gây ra hội chứng lo âu hiệu suất phòng the.
+
+> 💡 **Điểm Cốt Lõi & Hành Động Thực Tế (Key Takeaway):** Cơ chế cương cứng là hiện tượng hoàn toàn phụ thuộc vào hệ thần kinh phó giao cảm (Parasympathetic). Bạn không thể cương cứng khi cơ thể đang ở trạng thái chiến đấu (Fight or Flight). Làm chủ các kỹ thuật kích hoạt dây thần kinh phế vị và hạ thấp cortisol là chìa khóa mở khóa bản lĩnh.
 
 ## Nghịch Lý Thần Kinh: "Point and Shoot" (Phó Giao Cảm & Giao Cảm)
 
@@ -67,14 +70,20 @@ Tâm lý lo âu hiệu suất thường vận hành theo một vòng xoắn bệ
 
 ## Tài Liệu Tham Khảo & Nguồn Y Khoa
 
-1. **Chrousos, G. P. (2009).** *Stress and disorders of the stress system.* Nature Reviews Endocrinology, 5(7), 374–381. [Đọc trên Nature / PubMed ↗](https://pubmed.ncbi.nlm.nih.gov/19488073/)
-2. **Bancroft, J., & Janssen, E. (2000).** *The dual control model of male sexual response: a theoretical approach to centrally mediated erectile dysfunction.* Neuroscience & Biobehavioral Reviews. [Đọc trên PubMed ↗](https://pubmed.ncbi.nlm.nih.gov/10704733/)
-3. **Barlow, D. H. (1986).** *Causes of sexual dysfunction: the role of anxiety and cognitive interference.* Journal of Consulting and Clinical Psychology, 54(2), 140–148. [Đọc trên PubMed ↗](https://pubmed.ncbi.nlm.nih.gov/3700800/)
-4. **Rowland, D. L., et al. (2018).** *Performance anxiety in sexual dysfunctions: from physiology to therapy.* Journal of Sexual Medicine, 15(6), 842–853. [Đọc trên PubMed ↗](https://pubmed.ncbi.nlm.nih.gov/29729867/)
+1. **Chrousos, G. P. (2009).** *Stress and disorders of the stress system.* Nature Reviews Endocrinology, 5(7), 374–381. [Tạp chí Nature (PMID: 19488073) ↗](https://pubmed.ncbi.nlm.nih.gov/19488073/)
+2. **Bancroft, J., & Janssen, E. (2000).** *The dual control model of male sexual response: a theoretical approach to centrally mediated erectile dysfunction.* Neuroscience & Biobehavioral Reviews. [Tạp chí Neuroscience & Biobehavioral Reviews (PMID: 10704733) ↗](https://pubmed.ncbi.nlm.nih.gov/10704733/)
+3. **Barlow, D. H. (1986).** *Causes of sexual dysfunction: the role of anxiety and cognitive interference.* Journal of Consulting and Clinical Psychology, 54(2), 140–148. [Báo Cáo Nghiên Cứu Gốc (NCBI PubMed: 3700800) ↗](https://pubmed.ncbi.nlm.nih.gov/3700800/)
+4. **Rowland, D. L., et al. (2018).** *Performance anxiety in sexual dysfunctions: from physiology to therapy.* Journal of Sexual Medicine, 15(6), 842–853. [Báo Cáo Nghiên Cứu Gốc (NCBI PubMed: 29729867) ↗](https://pubmed.ncbi.nlm.nih.gov/29729867/)
 
 ---
 
-## 🇬🇧 ENGLISH CONTENT
+## 🇬🇧 English Edition
+
+# Stress and Male Sexual Performance: The HPA Axis, Cortisol Surge & Autonomic Interference
+
+> **Abstract (Sapo):** When the brain perceives acute threat—whether an apex predator in antiquity or an urgent financial deadline today—it ruthlessly deactivates bodily functions non-essential for immediate survival, and reproduction is invariably the first casualty. Explore how the HPA stress axis and sympathetic overdrive constrict cavernosal arterioles and orchestrate performance anxiety.
+
+> 💡 **Key Takeaway & Clinical Action:** Erection is strictly a parasympathetic ('rest and digest') autonomic event. You cannot sustain an erection while locked in sympathetic ('fight or flight') overdrive. Mastering vagal nerve activation and blunting acute cortisol surges is the clinical key to unlocking sexual performance.
 
 ## The Neuro-Autonomic Paradox: "Point and Shoot"
 

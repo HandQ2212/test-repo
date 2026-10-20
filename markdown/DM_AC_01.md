@@ -1,22 +1,21 @@
-# 🇻🇳 Cẩm Nang Tập Luyện Cardio Zone 2: Xây Dựng Mật Độ Ti Thể Và Sự Linh Hoạt Chuyển Hóa Ở Nhịp Độ Trò Chuyện
-# 🇬🇧 The Zone 2 Cardio Blueprint: How Conversational-Pace Training Builds Mitochondrial Density and Metabolic Flexibility
-
-- **Article ID:** `DM_AC_01`
-- **Category:** Activity — Zone 2 Training
-- **Content Type:** Discover more
-- **Mapped App Screen & Metric:** `Activity Screen` (`Zone 2 Cardio`)
-- **Reading Time:** 9 phút đọc / 9 min
-- **Local Hero Photo:** `images/DM_AC_01_hero.jpg` ([Original Photo Source ↗](https://images.unsplash.com/photo-1461896836934-ffe607ba8211?auto=format&fit=crop&w=1200&q=85))
-- **Local Medical Figure:** `images/DM_AC_01_figure.png` ([Original Wikimedia Commons Source ↗](https://commons.wikimedia.org/wiki/File:Cellular_respiration_EN.svg))
-- **Primary Clinical & Wearable Source:** [Sports Medicine (San-Millán & Brooks, 2018) & Seiler (IJSPP, 2010)](https://pubmed.ncbi.nlm.nih.gov/28623613/)
+# DM_AC_01 - Cẩm Nang Tập Luyện Cardio Zone 2: Xây Dựng Mật Độ Ti Thể Và Sự Linh Hoạt Chuyển Hóa Ở Nhịp Độ Trò Chuyện
+**Category:** Activity 
+**Screen:** Activity Screen 
+**Metric:** Zone 2 Cardio 
+**Reading Time:** 9 phút đọc / 9 min 
+**Hero Image:** ![Cẩm Nang Tập Luyện Cardio Zone 2: Xây Dựng Mật Độ Ti Thể Và Sự Linh Hoạt Chuyển Hóa Ở Nhịp Độ Trò Chuyện](images/DM_AC_01_hero.jpg) *(Source: [https://images.unsplash.com/photo-1461896836934-ffe607ba8211?auto=format&fit=crop&w=1200&q=85](https://images.unsplash.com/photo-1461896836934-ffe607ba8211?auto=format&fit=crop&w=1200&q=85))* 
+**Inline Figure:** ![Sơ đồ các con đường hô hấp tế bào bên trong ti thể—minh họa cách đường phân hiếu khí, quá trình beta-oxy hóa axit béo, Chu trình Krebs và Chuỗi chuyền điện tử tổng hợp năng lượng ATP trong suốt bài tập sức bền Zone 2.](images/DM_AC_01_figure.png) *(Source: [https://commons.wikimedia.org/wiki/File:Cellular_respiration_EN.svg](https://commons.wikimedia.org/wiki/File:Cellular_respiration_EN.svg))* 
+**Clinical Source:** [Sports Medicine (San-Millán & Brooks, 2018) & Seiler (IJSPP, 2010)](https://pubmed.ncbi.nlm.nih.gov/28623613/) 
 
 ---
 
-## 🇻🇳 BẢN TIẾNG VIỆT
+## 🇻🇳 Phiên Bản Tiếng Việt (Vietnamese Edition)
 
-> **Tóm tắt:** Tại sao các cua-rơ Tour de France và vận động viên Marathon đỉnh cao lại dành tới 80% tổng số giờ tập hàng tuần ở nhịp độ trò chuyện nhẹ nhàng đến bất ngờ? Khám phá sinh lý học tế bào của phương pháp tập luyện Zone 2 từ công trình của Tiến sĩ Iñigo San Millán và Tiến sĩ Stephen Seiler—cùng cách xác định chính xác vùng nhịp tim Zone 2 trên đồng hồ thông minh của bạn.
+# Cẩm Nang Tập Luyện Cardio Zone 2: Xây Dựng Mật Độ Ti Thể Và Sự Linh Hoạt Chuyển Hóa Ở Nhịp Độ Trò Chuyện
 
-> 💡 **Điểm Cốt Lõi & Hành Động Thực Tế:** Tập luyện ở vùng Zone 2 (khoảng 60%–70% nhịp tim tối đa, nơi bạn vẫn có thể nói trọn câu và thở bằng mũi) kích thích các sợi cơ bền nhóm I nhân đôi mật độ ti thể, đốt cháy mỡ ở tốc độ tối đa và dọn sạch lactate trong máu thông qua kênh vận chuyển MCT1.
+> **Tóm tắt (Sapo):** Tại sao các cua-rơ Tour de France và vận động viên Marathon đỉnh cao lại dành tới 80% tổng số giờ tập hàng tuần ở nhịp độ trò chuyện nhẹ nhàng đến bất ngờ? Khám phá sinh lý học tế bào của phương pháp tập luyện Zone 2 từ công trình của Tiến sĩ Iñigo San Millán và Tiến sĩ Stephen Seiler—cùng cách xác định chính xác vùng nhịp tim Zone 2 trên đồng hồ thông minh của bạn.
+
+> 💡 **Điểm Cốt Lõi & Hành Động Thực Tế (Key Takeaway):** Tập luyện ở vùng Zone 2 (khoảng 60%–70% nhịp tim tối đa, nơi bạn vẫn có thể nói trọn câu và thở bằng mũi) kích thích các sợi cơ bền nhóm I nhân đôi mật độ ti thể, đốt cháy mỡ ở tốc độ tối đa và dọn sạch lactate trong máu thông qua kênh vận chuyển MCT1.
 
 ## Nghịch Lý Hiếu Khí: Tại Sao Tập Chậm Lại Giúp Bạn Nhanh Hơn Và Sống Thọ Hơn?
 
@@ -81,18 +80,20 @@ Trên **Garmin**, **WHOOP**, **Apple Watch** và **Oura**, bạn có thể kiể
 
 ## Tài Liệu Tham Khảo & Nguồn Y Khoa
 
-1. **San-Millán, I., & Brooks, G. A. (2018).** *Assessment of Metabolic Flexibility by Means of Measuring Blood Lactate, Fat, and Carbohydrate Oxidation Responses to Exercise in Professional Endurance Athletes and Less-Fit Individuals.* Sports Medicine, 48(2), 467–479. [https://pubmed.ncbi.nlm.nih.gov/28623613/](https://pubmed.ncbi.nlm.nih.gov/28623613/)
-2. **Seiler, S. (2010).** *What is best practice for training intensity and duration distribution in endurance athletes?* International Journal of Sports Physiology and Performance, 5(3), 276–291. [https://pubmed.ncbi.nlm.nih.gov/20861519/](https://pubmed.ncbi.nlm.nih.gov/20861519/)
-3. **WHOOP The Locker.** *Zone 2 Cardio: What It Is, Benefits & How to Do It Properly.* [https://www.whoop.com/us/en/thelocker/zone-2-cardio/](https://www.whoop.com/us/en/thelocker/zone-2-cardio/)
-4. **Garmin Health Science.** *Heart Rate Zones & Aerobic Training Effect: Building Your Endurance Foundation.* [https://www.garmin.com/en-US/garmin-technology/running-science/physiological-measurements/training-effect/](https://www.garmin.com/en-US/garmin-technology/running-science/physiological-measurements/training-effect/)
+1. **San-Millán, I., & Brooks, G. A. (2018).** *Assessment of Metabolic Flexibility by Means of Measuring Blood Lactate, Fat, and Carbohydrate Oxidation Responses to Exercise in Professional Endurance Athletes and Less-Fit Individuals.* Sports Medicine, 48(2), 467–479. [Báo Cáo Nghiên Cứu Gốc (NCBI PubMed: 28623613) ↗](https://pubmed.ncbi.nlm.nih.gov/28623613/)
+2. **Seiler, S. (2010).** *What is best practice for training intensity and duration distribution in endurance athletes?* International Journal of Sports Physiology and Performance, 5(3), 276–291. [Báo Cáo Nghiên Cứu Gốc (NCBI PubMed: 20861519) ↗](https://pubmed.ncbi.nlm.nih.gov/20861519/)
+3. **WHOOP The Locker.** *Zone 2 Cardio: What It Is, Benefits & How to Do It Properly.* [Tạp Chí Khoa Học WHOOP The Locker ↗](https://www.whoop.com/us/en/thelocker/zone-2-cardio/)
+4. **Garmin Health Science.** *Heart Rate Zones & Aerobic Training Effect: Building Your Endurance Foundation.* [Cổng Khoa Học Garmin Health Science ↗](https://www.garmin.com/en-US/garmin-technology/running-science/physiological-measurements/training-effect/)
 
 ---
 
-## 🇬🇧 ENGLISH VERSION
+## 🇬🇧 English Edition
 
-> **Executive Summary:** Why do Tour de France cyclists and elite marathoners spend 80% of their weekly training hours at a surprisingly easy conversational pace? Explore the cellular physiology of Zone 2 training discovered by Dr. Iñigo San Millán and Dr. Stephen Seiler—and how to lock in your exact Zone 2 heart rate on your smartwatch.
+# The Zone 2 Cardio Blueprint: How Conversational-Pace Training Builds Mitochondrial Density and Metabolic Flexibility
 
-> 💡 **Key Actionable Takeaway:** Training in Zone 2 (roughly 60%–70% of your maximum heart rate, where you can speak in full sentences through nasal breathing) stimulates Type I slow-twitch muscle fibers to build dense mitochondria, oxidize fat at peak rates, and clear blood lactate via MCT1 transporters.
+> **Abstract (Sapo):** Why do Tour de France cyclists and elite marathoners spend 80% of their weekly training hours at a surprisingly easy conversational pace? Explore the cellular physiology of Zone 2 training discovered by Dr. Iñigo San Millán and Dr. Stephen Seiler—and how to lock in your exact Zone 2 heart rate on your smartwatch.
+
+> 💡 **Key Takeaway & Clinical Action:** Training in Zone 2 (roughly 60%–70% of your maximum heart rate, where you can speak in full sentences through nasal breathing) stimulates Type I slow-twitch muscle fibers to build dense mitochondria, oxidize fat at peak rates, and clear blood lactate via MCT1 transporters.
 
 ## The Aerobic Paradox: Why Going Slower Makes You Faster and Healthier
 
@@ -157,7 +158,7 @@ On **Garmin**, **WHOOP**, **Apple Watch (watchOS Workout Zones)**, and **Oura**,
 
 ## References & Clinical Sources
 
-1. **San-Millán, I., & Brooks, G. A. (2018).** *Assessment of Metabolic Flexibility by Means of Measuring Blood Lactate, Fat, and Carbohydrate Oxidation Responses to Exercise in Professional Endurance Athletes and Less-Fit Individuals.* Sports Medicine, 48(2), 467–479. [https://pubmed.ncbi.nlm.nih.gov/28623613/](https://pubmed.ncbi.nlm.nih.gov/28623613/)
-2. **Seiler, S. (2010).** *What is best practice for training intensity and duration distribution in endurance athletes?* International Journal of Sports Physiology and Performance, 5(3), 276–291. [https://pubmed.ncbi.nlm.nih.gov/20861519/](https://pubmed.ncbi.nlm.nih.gov/20861519/)
-3. **WHOOP The Locker.** *Zone 2 Cardio: What It Is, Benefits & How to Do It Properly.* [https://www.whoop.com/us/en/thelocker/zone-2-cardio/](https://www.whoop.com/us/en/thelocker/zone-2-cardio/)
-4. **Garmin Health Science.** *Heart Rate Zones & Aerobic Training Effect: Building Your Endurance Foundation.* [https://www.garmin.com/en-US/garmin-technology/running-science/physiological-measurements/training-effect/](https://www.garmin.com/en-US/garmin-technology/running-science/physiological-measurements/training-effect/)
+1. **San-Millán, I., & Brooks, G. A. (2018).** *Assessment of Metabolic Flexibility by Means of Measuring Blood Lactate, Fat, and Carbohydrate Oxidation Responses to Exercise in Professional Endurance Athletes and Less-Fit Individuals.* Sports Medicine, 48(2), 467–479. [Original Study Report (NCBI PubMed: 28623613) ↗](https://pubmed.ncbi.nlm.nih.gov/28623613/)
+2. **Seiler, S. (2010).** *What is best practice for training intensity and duration distribution in endurance athletes?* International Journal of Sports Physiology and Performance, 5(3), 276–291. [Original Study Report (NCBI PubMed: 20861519) ↗](https://pubmed.ncbi.nlm.nih.gov/20861519/)
+3. **WHOOP The Locker.** *Zone 2 Cardio: What It Is, Benefits & How to Do It Properly.* [WHOOP The Locker Science Journal ↗](https://www.whoop.com/us/en/thelocker/zone-2-cardio/)
+4. **Garmin Health Science.** *Heart Rate Zones & Aerobic Training Effect: Building Your Endurance Foundation.* [Garmin Health Science Portal ↗](https://www.garmin.com/en-US/garmin-technology/running-science/physiological-measurements/training-effect/)

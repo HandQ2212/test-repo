@@ -1,18 +1,21 @@
-# Cách Mở Lời Về Chuyện Tình Dục: Xây Dựng Không Gian An Toàn Cho Mong Muốn & Ranh Giới
-**Talking About Sex With Your Partner: Creating Emotional Safety for Desires & Boundaries**
-
-> **Sapo (VI):** Nhiều cặp đôi có thể thảo luận dễ dàng về tài chính gia đình hay nuôi dạy con cái, nhưng lại hoàn toàn 'đóng băng' khi bước vào cuộc trò chuyện về khoái cảm và sự thỏa mãn giường chiếu. Các nghiên cứu tình dục học chứng minh: Sự hài lòng tình dục trong các mối quan hệ lâu năm không phụ thuộc vào kỹ thuật cao siêu, mà được dự đoán chính xác nhất bởi khả năng đối thoại tình dục cởi mở (Sexual Communication).
-> 
-> **Lead (EN):** Couples often navigate complex joint finances or parenting logistics with ease, yet become utterly paralyzed when attempting to articulate their erotic desires and boundaries. Sexological clinical literature confirms that long-term sexual satisfaction is predominantly predicted not by novel acrobatic techniques, but by honest, vulnerable dyadic sexual communication.
-
-> [!TIP]
-> 💡 **Điểm Cốt Lõi (Key Takeaway):** Đừng bao giờ bắt đầu một cuộc đối thoại nhạy cảm về tình dục ngay trên giường hoặc ngay sau một trải nghiệm không như ý. Hãy chọn một thời điểm trung tính khi cả hai đều thư giãn và mặc quần áo đầy đủ, bắt đầu bằng lời khẳng định tình yêu và tập trung vào những điều bạn mong muốn trải nghiệm thêm.
-> 
-> 💡 **Takeaway (EN):** Never initiate a vulnerable sexual conversation in bed or immediately following an awkward encounter. Pick a neutral daytime setting when both partners are fully clothed and relaxed, begin with emotional reassurance, and frame desires as exciting collaborative explorations rather than criticisms.
+# MW_REL_02 - Cách Mở Lời Về Chuyện Tình Dục: Xây Dựng Không Gian An Toàn Cho Mong Muốn & Ranh Giới
+**Category:** Men's Health 
+**Screen:** Communication & Sexual Wellness Screen 
+**Metric:** Vulnerability, Psychological Safety & Sexual Attunement 
+**Reading Time:** 8 phút đọc / 8 min 
+**Hero Image:** ![Cách Mở Lời Về Chuyện Tình Dục: Xây Dựng Không Gian An Toàn Cho Mong Muốn & Ranh Giới](images/DM_MH_01_hero.jpg) *(Source: [https://images.unsplash.com/photo-1522543558187-768b6df7c25c?auto=format&fit=crop&w=1200&q=85](https://images.unsplash.com/photo-1522543558187-768b6df7c25c?auto=format&fit=crop&w=1200&q=85))* 
+**Inline Figure:** ![Không gian đối thoại an toàn: Cởi mở chia sẻ về mong muốn và ranh giới tình dục ngoài phòng ngủ giúp giảm ức chế tâm lý và gia tăng sự thấu cảm lứa đôi.](images/DM_SL_02_photo.jpg) *(Source: [https://commons.wikimedia.org/wiki/File:Empathy_interaction.svg](https://commons.wikimedia.org/wiki/File:Empathy_interaction.svg))* 
+**Clinical Source:** [Journal of Sex Research & Annual Review of Sex Research](https://pmc.ncbi.nlm.nih.gov/articles/PMC6699928/) 
 
 ---
 
-## 🇻🇳 NỘI DUNG TIẾNG VIỆT
+## 🇻🇳 Phiên Bản Tiếng Việt (Vietnamese Edition)
+
+# Cách Mở Lời Về Chuyện Tình Dục: Xây Dựng Không Gian An Toàn Cho Mong Muốn & Ranh Giới
+
+> **Tóm tắt (Sapo):** Nhiều cặp đôi có thể thảo luận dễ dàng về tài chính gia đình hay nuôi dạy con cái, nhưng lại hoàn toàn 'đóng băng' khi bước vào cuộc trò chuyện về khoái cảm và sự thỏa mãn giường chiếu. Các nghiên cứu tình dục học chứng minh: Sự hài lòng tình dục trong các mối quan hệ lâu năm không phụ thuộc vào kỹ thuật cao siêu, mà được dự đoán chính xác nhất bởi khả năng đối thoại tình dục cởi mở (Sexual Communication).
+
+> 💡 **Điểm Cốt Lõi & Hành Động Thực Tế (Key Takeaway):** Đừng bao giờ bắt đầu một cuộc đối thoại nhạy cảm về tình dục ngay trên giường hoặc ngay sau một trải nghiệm không như ý. Hãy chọn một thời điểm trung tính khi cả hai đều thư giãn và mặc quần áo đầy đủ, bắt đầu bằng lời khẳng định tình yêu và tập trung vào những điều bạn mong muốn trải nghiệm thêm.
 
 ## Nghịch Lý Của Sự Im Lặng: Vì Sao Chúng Ta Sợ Trò Chuyện Về Tình Dục?
 
@@ -61,14 +64,20 @@ Hậu quả của sự im lặng là hiện tượng **"Đoán Ý Trong Bóng T�
 
 ## Tài Liệu Tham Khảo & Nguồn Y Khoa
 
-1. **Byers, E. S. (2005).** *Relationship satisfaction and sexual satisfaction: A longitudinal study of individuals in long-term relationships.* Journal of Sex Research, 42(2), 113–118. [Đọc trên PubMed ↗](https://pubmed.ncbi.nlm.nih.gov/16123841/)
-2. **MacNeil, S., & Byers, E. S. (2009).** *Role of sexual self-disclosure in the sexual satisfaction of long-term heterosexual couples.* Journal of Sex Research, 46(1), 3–14. [Đọc trên PubMed ↗](https://pubmed.ncbi.nlm.nih.gov/19117215/)
-3. **Frederick, D. A., Lever, J., Gillespie, R., & Garcia, J. R. (2017).** *What keeps passion alive in long-term relationships?* Journal of Sex Research, 54(7), 797–824. [Đọc trên PubMed ↗](https://pubmed.ncbi.nlm.nih.gov/27885859/)
-4. **Mark, K. P., & Jozkowski, K. N. (2013).** *The mediating role of sexual and nonsexual communication in couples' relationship satisfaction.* Journal of Sex & Marital Therapy, 39(5), 410–427. [Đọc trên PubMed ↗](https://pubmed.ncbi.nlm.nih.gov/23768228/)
+1. **Byers, E. S. (2005).** *Relationship satisfaction and sexual satisfaction: A longitudinal study of individuals in long-term relationships.* Journal of Sex Research, 42(2), 113–118. [Báo Cáo Nghiên Cứu Gốc (NCBI PubMed: 16123841) ↗](https://pubmed.ncbi.nlm.nih.gov/16123841/)
+2. **MacNeil, S., & Byers, E. S. (2009).** *Role of sexual self-disclosure in the sexual satisfaction of long-term heterosexual couples.* Journal of Sex Research, 46(1), 3–14. [Báo Cáo Nghiên Cứu Gốc (NCBI PubMed: 19117215) ↗](https://pubmed.ncbi.nlm.nih.gov/19117215/)
+3. **Frederick, D. A., Lever, J., Gillespie, R., & Garcia, J. R. (2017).** *What keeps passion alive in long-term relationships?* Journal of Sex Research, 54(7), 797–824. [Báo Cáo Nghiên Cứu Gốc (NCBI PubMed: 27885859) ↗](https://pubmed.ncbi.nlm.nih.gov/27885859/)
+4. **Mark, K. P., & Jozkowski, K. N. (2013).** *The mediating role of sexual and nonsexual communication in couples' relationship satisfaction.* Journal of Sex & Marital Therapy, 39(5), 410–427. [Báo Cáo Nghiên Cứu Gốc (NCBI PubMed: 23768228) ↗](https://pubmed.ncbi.nlm.nih.gov/23768228/)
 
 ---
 
-## 🇬🇧 ENGLISH CONTENT
+## 🇬🇧 English Edition
+
+# Talking About Sex With Your Partner: Creating Emotional Safety for Desires & Boundaries
+
+> **Abstract (Sapo):** Couples often navigate complex joint finances or parenting logistics with ease, yet become utterly paralyzed when attempting to articulate their erotic desires and boundaries. Sexological clinical literature confirms that long-term sexual satisfaction is predominantly predicted not by novel acrobatic techniques, but by honest, vulnerable dyadic sexual communication.
+
+> 💡 **Key Takeaway & Clinical Action:** Never initiate a vulnerable sexual conversation in bed or immediately following an awkward encounter. Pick a neutral daytime setting when both partners are fully clothed and relaxed, begin with emotional reassurance, and frame desires as exciting collaborative explorations rather than criticisms.
 
 ## The Paradox of Silence: Why We Fear Talking About Sex
 

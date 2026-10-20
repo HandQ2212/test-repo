@@ -1,22 +1,21 @@
-# 🇻🇳 Bằng Chứng Lâm Sàng Về Tập Luyện Sàn Chậu Nam Giới: Các Thử Nghiệm Trên BJU International, PubMed và Chỉ Số Sinh Học
-# 🇬🇧 Clinical Evidence for Male Pelvic Training: BJU International, PubMed Trials, and Autonomic Biomarkers
-
-- **Article ID:** `LM_MH_03`
-- **Category:** Men's Health — Scientific Proof
-- **Content Type:** Learn more
-- **Mapped App Screen & Metric:** `Men's Health Screen` (`Clinical Evidence`)
-- **Reading Time:** 9 phút đọc / 9 min
-- **Local Hero Photo:** `images/LM_MH_03_hero.jpg` ([Original Photo Source ↗](https://images.unsplash.com/photo-1579684385127-1ef15d508118?auto=format&fit=crop&w=1200&q=85))
-- **Local Medical Figure:** `images/LM_MH_03_figure.jpg` ([Original Wikimedia Commons Source ↗](https://commons.wikimedia.org/wiki/File:Figure_28_01_06.jpg))
-- **Primary Clinical & Wearable Source:** [BJU International (Dorey et al., 2005) & Therapeutic Advances in Urology (Pastore et al., 2014)](https://pubmed.ncbi.nlm.nih.gov/24716983/)
+# LM_MH_03 - Bằng Chứng Lâm Sàng Về Tập Luyện Sàn Chậu Nam Giới: Các Thử Nghiệm Trên BJU International, PubMed và Chỉ Số Sinh Học
+**Category:** Men's Health 
+**Screen:** Men's Health Screen 
+**Metric:** Clinical Evidence 
+**Reading Time:** 9 phút đọc / 9 min 
+**Hero Image:** ![Bằng Chứng Lâm Sàng Về Tập Luyện Sàn Chậu Nam Giới: Các Thử Nghiệm Trên BJU International, PubMed và Chỉ Số Sinh Học](images/LM_MH_03_hero.jpg) *(Source: [https://images.unsplash.com/photo-1579684385127-1ef15d508118?auto=format&fit=crop&w=1200&q=85](https://images.unsplash.com/photo-1579684385127-1ef15d508118?auto=format&fit=crop&w=1200&q=85))* 
+**Inline Figure:** ![Giải phẫu lâm sàng mặt cắt dọc và mặt cắt ngang hệ sinh dục và các buồng mạch dương vật nam giới (OpenStax Hình 28.01.06), thể hiện hai vật hang, vật xốp, tĩnh mạch lưng sâu và bao trắng tunica albuginea chịu sự tác động của cơ chế khóa tĩnh mạch sàn chậu.](images/LM_MH_03_figure.jpg) *(Source: [https://commons.wikimedia.org/wiki/File:Figure_28_01_06.jpg](https://commons.wikimedia.org/wiki/File:Figure_28_01_06.jpg))* 
+**Clinical Source:** [BJU International (Dorey et al., 2005) & Therapeutic Advances in Urology (Pastore et al., 2014)](https://pubmed.ncbi.nlm.nih.gov/24716983/) 
 
 ---
 
-## 🇻🇳 BẢN TIẾNG VIỆT
+## 🇻🇳 Phiên Bản Tiếng Việt (Vietnamese Edition)
 
-> **Tóm tắt:** Khám phá các thử nghiệm lâm sàng đối chứng ngẫu nhiên đăng tải trên BJU International và Therapeutic Advances in Urology chứng minh rằng phục hồi chức năng sàn chậu bài bản giúp cải thiện rối loạn cương dương ở 75,5% nam giới và tăng gấp 4 lần thời gian kiểm soát xuất tinh ở 82,5% bệnh nhân.
+# Bằng Chứng Lâm Sàng Về Tập Luyện Sàn Chậu Nam Giới: Các Thử Nghiệm Trên BJU International, PubMed và Chỉ Số Sinh Học
 
-> 💡 **Điểm Cốt Lõi & Hành Động Thực Tế:** Các thử nghiệm lâm sàng được bình duyệt (Dorey và cộng sự, 2005; Pastore và cộng sự, 2014) chứng minh rằng 12 đến 24 tuần tập luyện cơ sàn chậu có mục tiêu giúp khôi phục hoàn toàn chức năng cương ở 40% bệnh nhân rối loạn cương dương (tổng tỷ lệ cải thiện lâm sàng đạt 75,5%) và tăng thời gian tiềm tàng xuất tinh lên hơn 4 lần ở 82,5% nam giới.
+> **Tóm tắt (Sapo):** Khám phá các thử nghiệm lâm sàng đối chứng ngẫu nhiên đăng tải trên BJU International và Therapeutic Advances in Urology chứng minh rằng phục hồi chức năng sàn chậu bài bản giúp cải thiện rối loạn cương dương ở 75,5% nam giới và tăng gấp 4 lần thời gian kiểm soát xuất tinh ở 82,5% bệnh nhân.
+
+> 💡 **Điểm Cốt Lõi & Hành Động Thực Tế (Key Takeaway):** Các thử nghiệm lâm sàng được bình duyệt (Dorey và cộng sự, 2005; Pastore và cộng sự, 2014) chứng minh rằng 12 đến 24 tuần tập luyện cơ sàn chậu có mục tiêu giúp khôi phục hoàn toàn chức năng cương ở 40% bệnh nhân rối loạn cương dương (tổng tỷ lệ cải thiện lâm sàng đạt 75,5%) và tăng thời gian tiềm tàng xuất tinh lên hơn 4 lần ở 82,5% nam giới.
 
 ## Từ Sự Hoài Nghi Lâm Sàng Đến Phác Đồ Đầu Tay Trong Y Học Tiết Niệu Nam Khoa
 
@@ -87,18 +86,20 @@ Dựa trên sự kết hợp phác đồ của **Dorey và cộng sự (2005)** 
 
 ## Tài Liệu Tham Khảo & Nguồn Y Khoa
 
-1. **Dorey, G., Speakman, M. J., Feneley, R. C., Swinkels, A., & Dunn, C. D. (2005).** *Pelvic floor exercises for erectile dysfunction.* BJU International, 96(4), 595–597. [https://pubmed.ncbi.nlm.nih.gov/16011707/](https://pubmed.ncbi.nlm.nih.gov/16011707/)
-2. **Pastore, A. L., Palleschi, G., Fuschi, A., Maggioni, C., Rago, R., Zucchi, A., Costantini, E., & Carbone, A. (2014).** *Pelvic floor muscle rehabilitation for patients with lifelong premature ejaculation: a novel therapeutic approach.* Therapeutic Advances in Urology, 6(3), 83–88. [https://pubmed.ncbi.nlm.nih.gov/24716983/](https://pubmed.ncbi.nlm.nih.gov/24716983/)
-3. **Lavoisier, P., Roy, P., Dantony, E., Watrelot, A., Ruggeri, J., & Dumoulin, S. (2014).** *Pelvic-floor muscle rehabilitation in erectile dysfunction and premature ejaculation.* Physical Therapy, 94(12), 1731–1743. [https://pubmed.ncbi.nlm.nih.gov/25060956/](https://pubmed.ncbi.nlm.nih.gov/25060956/)
-4. **Milios, J. E., Ackland, T. R., & Green, D. J. (2019).** *Pelvic floor muscle training in radical prostatectomy: a randomized controlled trial of the impacts on pelvic floor muscle function and urinary incontinence.* BMC Urology, 19(1), 116. [https://pubmed.ncbi.nlm.nih.gov/31766990/](https://pubmed.ncbi.nlm.nih.gov/31766990/)
+1. **Dorey, G., Speakman, M. J., Feneley, R. C., Swinkels, A., & Dunn, C. D. (2005).** *Pelvic floor exercises for erectile dysfunction.* BJU International, 96(4), 595–597. [Báo Cáo Nghiên Cứu Gốc (NCBI PubMed: 16011707) ↗](https://pubmed.ncbi.nlm.nih.gov/16011707/)
+2. **Pastore, A. L., Palleschi, G., Fuschi, A., Maggioni, C., Rago, R., Zucchi, A., Costantini, E., & Carbone, A. (2014).** *Pelvic floor muscle rehabilitation for patients with lifelong premature ejaculation: a novel therapeutic approach.* Therapeutic Advances in Urology, 6(3), 83–88. [Báo Cáo Nghiên Cứu Gốc (NCBI PubMed: 24716983) ↗](https://pubmed.ncbi.nlm.nih.gov/24716983/)
+3. **Lavoisier, P., Roy, P., Dantony, E., Watrelot, A., Ruggeri, J., & Dumoulin, S. (2014).** *Pelvic-floor muscle rehabilitation in erectile dysfunction and premature ejaculation.* Physical Therapy, 94(12), 1731–1743. [Báo Cáo Nghiên Cứu Gốc (NCBI PubMed: 25060956) ↗](https://pubmed.ncbi.nlm.nih.gov/25060956/)
+4. **Milios, J. E., Ackland, T. R., & Green, D. J. (2019).** *Pelvic floor muscle training in radical prostatectomy: a randomized controlled trial of the impacts on pelvic floor muscle function and urinary incontinence.* BMC Urology, 19(1), 116. [Báo Cáo Nghiên Cứu Gốc (NCBI PubMed: 31766990) ↗](https://pubmed.ncbi.nlm.nih.gov/31766990/)
 
 ---
 
-## 🇬🇧 ENGLISH VERSION
+## 🇬🇧 English Edition
 
-> **Executive Summary:** Explore the peer-reviewed randomized controlled trials published in BJU International and Therapeutic Advances in Urology proving that structured pelvic floor rehabilitation resolves erectile dysfunction in 75.5% of men and quadruples ejaculatory latency in 82.5% of patients.
+# Clinical Evidence for Male Pelvic Training: BJU International, PubMed Trials, and Autonomic Biomarkers
 
-> 💡 **Key Actionable Takeaway:** Peer-reviewed clinical trials (Dorey et al., 2005; Pastore et al., 2014) prove that 12 to 24 weeks of targeted pelvic floor muscle training restores normal erectile function in 40% of ED patients (with 75.5% showing clinical improvement) and increases ejaculatory latency more than fourfold in 82.5% of men.
+> **Abstract (Sapo):** Explore the peer-reviewed randomized controlled trials published in BJU International and Therapeutic Advances in Urology proving that structured pelvic floor rehabilitation resolves erectile dysfunction in 75.5% of men and quadruples ejaculatory latency in 82.5% of patients.
+
+> 💡 **Key Takeaway & Clinical Action:** Peer-reviewed clinical trials (Dorey et al., 2005; Pastore et al., 2014) prove that 12 to 24 weeks of targeted pelvic floor muscle training restores normal erectile function in 40% of ED patients (with 75.5% showing clinical improvement) and increases ejaculatory latency more than fourfold in 82.5% of men.
 
 ## From Clinical Skepticism to First-Line Urological Medicine
 
@@ -169,7 +170,7 @@ Based on the combined protocols of **Dorey et al. (2005)** and **Pastore et al. 
 
 ## References & Clinical Sources
 
-1. **Dorey, G., Speakman, M. J., Feneley, R. C., Swinkels, A., & Dunn, C. D. (2005).** *Pelvic floor exercises for erectile dysfunction.* BJU International, 96(4), 595–597. [https://pubmed.ncbi.nlm.nih.gov/16011707/](https://pubmed.ncbi.nlm.nih.gov/16011707/)
-2. **Pastore, A. L., Palleschi, G., Fuschi, A., Maggioni, C., Rago, R., Zucchi, A., Costantini, E., & Carbone, A. (2014).** *Pelvic floor muscle rehabilitation for patients with lifelong premature ejaculation: a novel therapeutic approach.* Therapeutic Advances in Urology, 6(3), 83–88. [https://pubmed.ncbi.nlm.nih.gov/24716983/](https://pubmed.ncbi.nlm.nih.gov/24716983/)
-3. **Lavoisier, P., Roy, P., Dantony, E., Watrelot, A., Ruggeri, J., & Dumoulin, S. (2014).** *Pelvic-floor muscle rehabilitation in erectile dysfunction and premature ejaculation.* Physical Therapy, 94(12), 1731–1743. [https://pubmed.ncbi.nlm.nih.gov/25060956/](https://pubmed.ncbi.nlm.nih.gov/25060956/)
-4. **Milios, J. E., Ackland, T. R., & Green, D. J. (2019).** *Pelvic floor muscle training in radical prostatectomy: a randomized controlled trial of the impacts on pelvic floor muscle function and urinary incontinence.* BMC Urology, 19(1), 116. [https://pubmed.ncbi.nlm.nih.gov/31766990/](https://pubmed.ncbi.nlm.nih.gov/31766990/)
+1. **Dorey, G., Speakman, M. J., Feneley, R. C., Swinkels, A., & Dunn, C. D. (2005).** *Pelvic floor exercises for erectile dysfunction.* BJU International, 96(4), 595–597. [Original Study Report (NCBI PubMed: 16011707) ↗](https://pubmed.ncbi.nlm.nih.gov/16011707/)
+2. **Pastore, A. L., Palleschi, G., Fuschi, A., Maggioni, C., Rago, R., Zucchi, A., Costantini, E., & Carbone, A. (2014).** *Pelvic floor muscle rehabilitation for patients with lifelong premature ejaculation: a novel therapeutic approach.* Therapeutic Advances in Urology, 6(3), 83–88. [Original Study Report (NCBI PubMed: 24716983) ↗](https://pubmed.ncbi.nlm.nih.gov/24716983/)
+3. **Lavoisier, P., Roy, P., Dantony, E., Watrelot, A., Ruggeri, J., & Dumoulin, S. (2014).** *Pelvic-floor muscle rehabilitation in erectile dysfunction and premature ejaculation.* Physical Therapy, 94(12), 1731–1743. [Original Study Report (NCBI PubMed: 25060956) ↗](https://pubmed.ncbi.nlm.nih.gov/25060956/)
+4. **Milios, J. E., Ackland, T. R., & Green, D. J. (2019).** *Pelvic floor muscle training in radical prostatectomy: a randomized controlled trial of the impacts on pelvic floor muscle function and urinary incontinence.* BMC Urology, 19(1), 116. [Original Study Report (NCBI PubMed: 31766990) ↗](https://pubmed.ncbi.nlm.nih.gov/31766990/)

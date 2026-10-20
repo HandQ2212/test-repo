@@ -1,22 +1,21 @@
-# 🇻🇳 Tại Sao Giấc Ngủ Sâu (Deep Sleep) Của Tôi Thấp? Chuẩn Theo Độ Tuổi, Tác Nhân Phá Hủy & Cách Cải Thiện
-# 🇬🇧 Why Is My Deep Sleep So Low? Age Norms, Hidden Disruptors & How to Boost Slow-Wave Sleep
-
-- **Article ID:** `DM_SL_01`
-- **Category:** Sleep — Deep Sleep Protocol
-- **Content Type:** Discover more
-- **Mapped App Screen & Metric:** `Sleep Screen` (`Slow Wave Sleep (SWS)`)
-- **Reading Time:** 9 phút đọc / 9 min
-- **Local Hero Photo:** `images/DM_SL_01_hero.jpg` ([Original Photo Source ↗](https://images.unsplash.com/photo-1520206183501-b80df61043c2?auto=format&fit=crop&w=1200&q=85))
-- **Local Medical Figure:** `images/DM_SL_01_figure.jpg` ([Original Wikimedia Commons Source ↗](https://commons.wikimedia.org/wiki/File:Sleep_EEG_Stage_4.jpg))
-- **Primary Clinical & Wearable Source:** [JAMA (Van Cauter et al., 2000) & Sleep Medicine Reviews (Haghayegh et al., 2019)](https://pubmed.ncbi.nlm.nih.gov/10938176/)
+# DM_SL_01 - Tại Sao Giấc Ngủ Sâu (Deep Sleep) Của Tôi Thấp? Chuẩn Theo Độ Tuổi, Tác Nhân Phá Hủy & Cách Cải Thiện
+**Category:** Sleep 
+**Screen:** Sleep Screen 
+**Metric:** Slow Wave Sleep (SWS) 
+**Reading Time:** 9 phút đọc / 9 min 
+**Hero Image:** ![Tại Sao Giấc Ngủ Sâu (Deep Sleep) Của Tôi Thấp? Chuẩn Theo Độ Tuổi, Tác Nhân Phá Hủy & Cách Cải Thiện](images/DM_SL_01_hero.jpg) *(Source: [https://images.unsplash.com/photo-1520206183501-b80df61043c2?auto=format&fit=crop&w=1200&q=85](https://images.unsplash.com/photo-1520206183501-b80df61043c2?auto=format&fit=crop&w=1200&q=85))* 
+**Inline Figure:** ![Bản ghi Đa ký giấc ngủ (PSG) lâm sàng dài 30 giây của Giấc ngủ Sâu sóng chậm (Slow-Wave Sleep), thể hiện các sóng não Delta biên độ cao, tần số chậm (0.5–4 Hz) được tô đỏ cùng trương lực cơ (EMG) thư giãn hoàn toàn.](images/DM_SL_01_figure.jpg) *(Source: [https://commons.wikimedia.org/wiki/File:Sleep_EEG_Stage_4.jpg](https://commons.wikimedia.org/wiki/File:Sleep_EEG_Stage_4.jpg))* 
+**Clinical Source:** [JAMA (Van Cauter et al., 2000) & Sleep Medicine Reviews (Haghayegh et al., 2019)](https://pubmed.ncbi.nlm.nih.gov/10938176/) 
 
 ---
 
-## 🇻🇳 BẢN TIẾNG VIỆT
+## 🇻🇳 Phiên Bản Tiếng Việt (Vietnamese Edition)
 
-> **Tóm tắt:** Bạn thắc mắc vì sao đồng hồ thông minh chỉ ghi nhận 45 phút Ngủ Sâu? Khám phá định mức Giấc ngủ Sâu tự nhiên từ tuổi 20 đến tuổi 60, cách caffeine, bữa tối muộn và nhiệt độ phòng ức chế sóng não Delta, cùng 5 phương pháp khoa học giúp tăng cường Ngủ Sâu.
+# Tại Sao Giấc Ngủ Sâu (Deep Sleep) Của Tôi Thấp? Chuẩn Theo Độ Tuổi, Tác Nhân Phá Hủy & Cách Cải Thiện
 
-> 💡 **Điểm Cốt Lõi & Hành Động Thực Tế:** Giấc ngủ Sâu sóng chậm (SWS) được điều khiển bởi 2 cơ chế: áp lực ngủ Adenosine tích lũy ban ngày và mức giảm 1.0°C thân nhiệt lõi khi vào giấc. Để tăng Ngủ Sâu tối nay, hãy ngưng caffeine trước giờ ngủ 8–10 tiếng, tắm nước ấm trước khi ngủ 60–90 phút và giữ phòng ngủ mát khoảng 18.3°C – 20°C.
+> **Tóm tắt (Sapo):** Bạn thắc mắc vì sao đồng hồ thông minh chỉ ghi nhận 45 phút Ngủ Sâu? Khám phá định mức Giấc ngủ Sâu tự nhiên từ tuổi 20 đến tuổi 60, cách caffeine, bữa tối muộn và nhiệt độ phòng ức chế sóng não Delta, cùng 5 phương pháp khoa học giúp tăng cường Ngủ Sâu.
+
+> 💡 **Điểm Cốt Lõi & Hành Động Thực Tế (Key Takeaway):** Giấc ngủ Sâu sóng chậm (SWS) được điều khiển bởi 2 cơ chế: áp lực ngủ Adenosine tích lũy ban ngày và mức giảm 1.0°C thân nhiệt lõi khi vào giấc. Để tăng Ngủ Sâu tối nay, hãy ngưng caffeine trước giờ ngủ 8–10 tiếng, tắm nước ấm trước khi ngủ 60–90 phút và giữ phòng ngủ mát khoảng 18.3°C – 20°C.
 
 ## "Tại Sao Đồng Hồ Báo Tôi Chỉ Có 45 Phút Ngủ Sâu?"
 
@@ -83,18 +82,20 @@ Khi người dùng WHOOP và Oura ghi nhật ký thói quen hàng ngày trên �
 
 ## Tài Liệu Tham Khảo & Nguồn Y Khoa
 
-1. **Van Cauter, E., Leproult, R., & Plat, L. (2000).** *Age-related changes in slow wave sleep and REM sleep and relationship with growth hormone and cortisol levels in healthy men.* JAMA, 284(7), 861–868. [https://pubmed.ncbi.nlm.nih.gov/10938176/](https://pubmed.ncbi.nlm.nih.gov/10938176/)
-2. **Haghayegh, S., Khoshnevis, S., Smolensky, M. H., Diller, K. R., & Castriotta, R. J. (2019).** *Before-bedtime passive body heating by warm shower or bath to improve sleep: A systematic review and meta-analysis.* Sleep Medicine Reviews, 46, 124–135. [https://pubmed.ncbi.nlm.nih.gov/31102877/](https://pubmed.ncbi.nlm.nih.gov/31102877/)
-3. **Drake, C., Roehrs, T., Shambroom, J., & Roth, T. (2013).** *Caffeine effects on sleep taken 0, 3, or 6 hours before going to bed.* Journal of Clinical Sleep Medicine, 9(11), 1195–1200. [https://pubmed.ncbi.nlm.nih.gov/24235903/](https://pubmed.ncbi.nlm.nih.gov/24235903/)
-4. **WHOOP The Locker.** *Deep Sleep: What It Is, Why You Need It & How to Get More.* [https://www.whoop.com/us/en/thelocker/what-is-deep-sleep/](https://www.whoop.com/us/en/thelocker/what-is-deep-sleep/)
+1. **Van Cauter, E., Leproult, R., & Plat, L. (2000).** *Age-related changes in slow wave sleep and REM sleep and relationship with growth hormone and cortisol levels in healthy men.* JAMA, 284(7), 861–868. [Báo Cáo Nghiên Cứu Gốc (NCBI PubMed: 10938176) ↗](https://pubmed.ncbi.nlm.nih.gov/10938176/)
+2. **Haghayegh, S., Khoshnevis, S., Smolensky, M. H., Diller, K. R., & Castriotta, R. J. (2019).** *Before-bedtime passive body heating by warm shower or bath to improve sleep: A systematic review and meta-analysis.* Sleep Medicine Reviews, 46, 124–135. [Báo Cáo Nghiên Cứu Gốc (NCBI PubMed: 31102877) ↗](https://pubmed.ncbi.nlm.nih.gov/31102877/)
+3. **Drake, C., Roehrs, T., Shambroom, J., & Roth, T. (2013).** *Caffeine effects on sleep taken 0, 3, or 6 hours before going to bed.* Journal of Clinical Sleep Medicine, 9(11), 1195–1200. [Báo Cáo Nghiên Cứu Gốc (NCBI PubMed: 24235903) ↗](https://pubmed.ncbi.nlm.nih.gov/24235903/)
+4. **WHOOP The Locker.** *Deep Sleep: What It Is, Why You Need It & How to Get More.* [Tạp Chí Khoa Học WHOOP The Locker ↗](https://www.whoop.com/us/en/thelocker/what-is-deep-sleep/)
 
 ---
 
-## 🇬🇧 ENGLISH VERSION
+## 🇬🇧 English Edition
 
-> **Executive Summary:** Wondering why your smartwatch shows only 45 minutes of Deep sleep? Discover how Deep sleep naturally changes from your 20s to your 60s, how caffeine, late meals, and room temperature suppress slow-wave sleep, and five science-backed ways to increase it.
+# Why Is My Deep Sleep So Low? Age Norms, Hidden Disruptors & How to Boost Slow-Wave Sleep
 
-> 💡 **Key Actionable Takeaway:** Deep Slow-Wave Sleep is governed by two forces: daytime Adenosine sleep pressure and a 1.0°C drop in core body temperature at bedtime. To boost Deep sleep tonight, cut off caffeine at least 8–10 hours before bed, take a warm shower 60–90 minutes before sleep, and keep your bedroom at 18.3°C (65°F).
+> **Abstract (Sapo):** Wondering why your smartwatch shows only 45 minutes of Deep sleep? Discover how Deep sleep naturally changes from your 20s to your 60s, how caffeine, late meals, and room temperature suppress slow-wave sleep, and five science-backed ways to increase it.
+
+> 💡 **Key Takeaway & Clinical Action:** Deep Slow-Wave Sleep is governed by two forces: daytime Adenosine sleep pressure and a 1.0°C drop in core body temperature at bedtime. To boost Deep sleep tonight, cut off caffeine at least 8–10 hours before bed, take a warm shower 60–90 minutes before sleep, and keep your bedroom at 18.3°C (65°F).
 
 ## "Why Did I Only Get 45 Minutes of Deep Sleep?"
 
@@ -161,7 +162,7 @@ When WHOOP and Oura members log daily habits in their app journals, four culprit
 
 ## References & Clinical Sources
 
-1. **Van Cauter, E., Leproult, R., & Plat, L. (2000).** *Age-related changes in slow wave sleep and REM sleep and relationship with growth hormone and cortisol levels in healthy men.* JAMA, 284(7), 861–868. [https://pubmed.ncbi.nlm.nih.gov/10938176/](https://pubmed.ncbi.nlm.nih.gov/10938176/)
-2. **Haghayegh, S., Khoshnevis, S., Smolensky, M. H., Diller, K. R., & Castriotta, R. J. (2019).** *Before-bedtime passive body heating by warm shower or bath to improve sleep: A systematic review and meta-analysis.* Sleep Medicine Reviews, 46, 124–135. [https://pubmed.ncbi.nlm.nih.gov/31102877/](https://pubmed.ncbi.nlm.nih.gov/31102877/)
-3. **Drake, C., Roehrs, T., Shambroom, J., & Roth, T. (2013).** *Caffeine effects on sleep taken 0, 3, or 6 hours before going to bed.* Journal of Clinical Sleep Medicine, 9(11), 1195–1200. [https://pubmed.ncbi.nlm.nih.gov/24235903/](https://pubmed.ncbi.nlm.nih.gov/24235903/)
-4. **WHOOP The Locker.** *Deep Sleep: What It Is, Why You Need It & How to Get More.* [https://www.whoop.com/us/en/thelocker/what-is-deep-sleep/](https://www.whoop.com/us/en/thelocker/what-is-deep-sleep/)
+1. **Van Cauter, E., Leproult, R., & Plat, L. (2000).** *Age-related changes in slow wave sleep and REM sleep and relationship with growth hormone and cortisol levels in healthy men.* JAMA, 284(7), 861–868. [Original Study Report (NCBI PubMed: 10938176) ↗](https://pubmed.ncbi.nlm.nih.gov/10938176/)
+2. **Haghayegh, S., Khoshnevis, S., Smolensky, M. H., Diller, K. R., & Castriotta, R. J. (2019).** *Before-bedtime passive body heating by warm shower or bath to improve sleep: A systematic review and meta-analysis.* Sleep Medicine Reviews, 46, 124–135. [Original Study Report (NCBI PubMed: 31102877) ↗](https://pubmed.ncbi.nlm.nih.gov/31102877/)
+3. **Drake, C., Roehrs, T., Shambroom, J., & Roth, T. (2013).** *Caffeine effects on sleep taken 0, 3, or 6 hours before going to bed.* Journal of Clinical Sleep Medicine, 9(11), 1195–1200. [Original Study Report (NCBI PubMed: 24235903) ↗](https://pubmed.ncbi.nlm.nih.gov/24235903/)
+4. **WHOOP The Locker.** *Deep Sleep: What It Is, Why You Need It & How to Get More.* [WHOOP The Locker Science Journal ↗](https://www.whoop.com/us/en/thelocker/what-is-deep-sleep/)

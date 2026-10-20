@@ -1,22 +1,21 @@
-# 🇻🇳 Thanh Lọc Tâm Trí & Làm Chủ Thần Kinh Tự Chủ: Vượt Qua Tâm Lý Lo Âu Thực Hiện và Sự Co Mạch Do Cortisol
-# 🇬🇧 Mind Cleaner & Autonomic Mastery: Overcoming Performance Anxiety and Cortisol-Induced Vasoconstriction
-
-- **Article ID:** `DM_MH_03`
-- **Category:** Men's Health — Mind Cleaner Anxiety Relief
-- **Content Type:** Discover more
-- **Mapped App Screen & Metric:** `Men's Health Screen` (`Mind Cleaner (Mental Stamina)`)
-- **Reading Time:** 9 phút đọc / 9 min
-- **Local Hero Photo:** `images/DM_MH_03_hero.jpg` ([Original Photo Source ↗](https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?auto=format&fit=crop&w=1200&q=85))
-- **Local Medical Figure:** `images/DM_MH_03_figure.jpg` ([Original Wikimedia Commons Source ↗](https://commons.wikimedia.org/wiki/File:HPA_axis_chronic_stress.jpg))
-- **Primary Clinical & Wearable Source:** [Urologic Clinics of North America (Dean & Lue, 2005) & Cell Reports Medicine (Balban et al., 2023)](https://pubmed.ncbi.nlm.nih.gov/16226685/)
+# DM_MH_03 - Thanh Lọc Tâm Trí & Làm Chủ Thần Kinh Tự Chủ: Vượt Qua Tâm Lý Lo Âu Thực Hiện và Sự Co Mạch Do Cortisol
+**Category:** Men's Health 
+**Screen:** Men's Health Screen 
+**Metric:** Mind Cleaner (Mental Stamina) 
+**Reading Time:** 9 phút đọc / 9 min 
+**Hero Image:** ![Thanh Lọc Tâm Trí & Làm Chủ Thần Kinh Tự Chủ: Vượt Qua Tâm Lý Lo Âu Thực Hiện và Sự Co Mạch Do Cortisol](images/DM_MH_03_hero.jpg) *(Source: [https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?auto=format&fit=crop&w=1200&q=85](https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?auto=format&fit=crop&w=1200&q=85))* 
+**Inline Figure:** ![Con đường thần kinh – nội tiết của căng thẳng và sự kích hoạt trục HPA (Hạ đồi – Tuyến yên – Thượng thận) (Wikimedia Commons), minh họa cách hạch hạnh nhân (amygdala) nhận diện mối đe dọa và kích hoạt giải phóng CRH, ACTH, cortisol cùng catecholamine giao cảm đối kháng trực tiếp với sự giãn mạch phó giao cảm.](images/DM_MH_03_figure.jpg) *(Source: [https://commons.wikimedia.org/wiki/File:HPA_axis_chronic_stress.jpg](https://commons.wikimedia.org/wiki/File:HPA_axis_chronic_stress.jpg))* 
+**Clinical Source:** [Urologic Clinics of North America (Dean & Lue, 2005) & Cell Reports Medicine (Balban et al., 2023)](https://pubmed.ncbi.nlm.nih.gov/16226685/) 
 
 ---
 
-## 🇻🇳 BẢN TIẾNG VIỆT
+## 🇻🇳 Phiên Bản Tiếng Việt (Vietnamese Edition)
 
-> **Tóm tắt:** Lên đến 60% các trường hợp rối loạn cương dương tình huống bắt nguồn không phải từ bệnh lý mạch máu, mà do chất dẫn truyền thần kinh giao cảm norepinephrine gắn vào thụ thể alpha-adrenergic gây co thắt động mạch dương vật. Khám phá cách phương pháp Viết Tự Do Giải Tỏa và Tiếng Thở Dài Sinh Lý giúp chuyển mạch hệ thần kinh từ trạng thái căng thẳng co mạch sang dòng chảy oxit nitric phó giao cảm.
+# Thanh Lọc Tâm Trí & Làm Chủ Thần Kinh Tự Chủ: Vượt Qua Tâm Lý Lo Âu Thực Hiện và Sự Co Mạch Do Cortisol
 
-> 💡 **Điểm Cốt Lõi & Hành Động Thực Tế:** Lo âu thực hiện (Performance Anxiety) là một cầu dao sinh học: adrenaline từ hệ giao cảm sẽ khóa chặt động mạch dương vật thông qua cơ chế co mạch alpha-adrenergic. Giải tỏa dòng suy nghĩ căng thẳng bằng 5–10 phút Viết Tự Do (Expressive Freewriting)—kết hợp 3 chu kỳ Tiếng Thở Dài Sinh Lý—sẽ khôi phục chỉ số HRV phế vị và kích hoạt giãn mạch bằng oxit nitric.
+> **Tóm tắt (Sapo):** Lên đến 60% các trường hợp rối loạn cương dương tình huống bắt nguồn không phải từ bệnh lý mạch máu, mà do chất dẫn truyền thần kinh giao cảm norepinephrine gắn vào thụ thể alpha-adrenergic gây co thắt động mạch dương vật. Khám phá cách phương pháp Viết Tự Do Giải Tỏa và Tiếng Thở Dài Sinh Lý giúp chuyển mạch hệ thần kinh từ trạng thái căng thẳng co mạch sang dòng chảy oxit nitric phó giao cảm.
+
+> 💡 **Điểm Cốt Lõi & Hành Động Thực Tế (Key Takeaway):** Lo âu thực hiện (Performance Anxiety) là một cầu dao sinh học: adrenaline từ hệ giao cảm sẽ khóa chặt động mạch dương vật thông qua cơ chế co mạch alpha-adrenergic. Giải tỏa dòng suy nghĩ căng thẳng bằng 5–10 phút Viết Tự Do (Expressive Freewriting)—kết hợp 3 chu kỳ Tiếng Thở Dài Sinh Lý—sẽ khôi phục chỉ số HRV phế vị và kích hoạt giãn mạch bằng oxit nitric.
 
 ## Vì Sao Tâm Trí Có Thể "Tắt Ngúm" Sự Cương Cứng Chỉ Trong 3 Giây: Cơ Chế Co Mạch Alpha-Adrenergic
 
@@ -83,18 +82,20 @@ Ngay sau khi xóa bản ghi chú Mind Cleaner, hãy chuyển hệ thần kinh ng
 
 ## Tài Liệu Tham Khảo & Nguồn Y Khoa
 
-1. **Dean, R. C., & Lue, T. F. (2005).** *Physiology of penile erection and pathophysiology of erectile dysfunction.* Urologic Clinics of North America, 32(4), 379–395. [https://pubmed.ncbi.nlm.nih.gov/16226685/](https://pubmed.ncbi.nlm.nih.gov/16226685/)
-2. **Balban, M. Y., Neri, E., Kogon, M. M., Weed, L., Nouriani, B., Jo, B., ... & Huberman, A. D. (2023).** *Brief structured respiration practices enhance mood and reduce physiological arousal.* Cell Reports Medicine, 4(1), 100895. [https://pubmed.ncbi.nlm.nih.gov/36630953/](https://pubmed.ncbi.nlm.nih.gov/36630953/)
-3. **Ramirez, G., & Beilock, S. L. (2011).** *Writing about testing worries boosts exam performance in the classroom.* Science, 331(6014), 211–213. [https://pubmed.ncbi.nlm.nih.gov/21233387/](https://pubmed.ncbi.nlm.nih.gov/21233387/)
-4. **Baikie, K. A., & Wilhelm, K. (2005).** *Emotional and physical health benefits of expressive writing.* Advances in Psychiatric Treatment, 11(5), 338–346. [https://pubmed.ncbi.nlm.nih.gov/18509580/](https://pubmed.ncbi.nlm.nih.gov/18509580/)
+1. **Dean, R. C., & Lue, T. F. (2005).** *Physiology of penile erection and pathophysiology of erectile dysfunction.* Urologic Clinics of North America, 32(4), 379–395. [Báo Cáo Nghiên Cứu Gốc (NCBI PubMed: 16226685) ↗](https://pubmed.ncbi.nlm.nih.gov/16226685/)
+2. **Balban, M. Y., Neri, E., Kogon, M. M., Weed, L., Nouriani, B., Jo, B., ... & Huberman, A. D. (2023).** *Brief structured respiration practices enhance mood and reduce physiological arousal.* Cell Reports Medicine, 4(1), 100895. [Báo Cáo Nghiên Cứu Gốc (NCBI PubMed: 36630953) ↗](https://pubmed.ncbi.nlm.nih.gov/36630953/)
+3. **Ramirez, G., & Beilock, S. L. (2011).** *Writing about testing worries boosts exam performance in the classroom.* Science, 331(6014), 211–213. [Báo Cáo Nghiên Cứu Gốc (NCBI PubMed: 21233387) ↗](https://pubmed.ncbi.nlm.nih.gov/21233387/)
+4. **Baikie, K. A., & Wilhelm, K. (2005).** *Emotional and physical health benefits of expressive writing.* Advances in Psychiatric Treatment, 11(5), 338–346. [Báo Cáo Nghiên Cứu Gốc (NCBI PubMed: 18509580) ↗](https://pubmed.ncbi.nlm.nih.gov/18509580/)
 
 ---
 
-## 🇬🇧 ENGLISH VERSION
+## 🇬🇧 English Edition
 
-> **Executive Summary:** Up to 60% of situational erectile difficulties originate not from vascular disease, but from sympathetic norepinephrine binding to alpha-adrenergic receptors in penile arteries. Learn how Expressive Freewriting and the Physiological Sigh flip your nervous system from fight-or-flight vasoconstriction back to parasympathetic nitric oxide flow.
+# Mind Cleaner & Autonomic Mastery: Overcoming Performance Anxiety and Cortisol-Induced Vasoconstriction
 
-> 💡 **Key Actionable Takeaway:** Performance anxiety is a biological circuit breaker: sympathetic adrenaline clamps penile arteries shut via alpha-adrenergic vasoconstriction. Offloading anxious thoughts with 5–10 minutes of unfiltered Expressive Freewriting—paired with 3 cycles of the Physiological Sigh—restores vagal HRV and nitric oxide vasodilation.
+> **Abstract (Sapo):** Up to 60% of situational erectile difficulties originate not from vascular disease, but from sympathetic norepinephrine binding to alpha-adrenergic receptors in penile arteries. Learn how Expressive Freewriting and the Physiological Sigh flip your nervous system from fight-or-flight vasoconstriction back to parasympathetic nitric oxide flow.
+
+> 💡 **Key Takeaway & Clinical Action:** Performance anxiety is a biological circuit breaker: sympathetic adrenaline clamps penile arteries shut via alpha-adrenergic vasoconstriction. Offloading anxious thoughts with 5–10 minutes of unfiltered Expressive Freewriting—paired with 3 cycles of the Physiological Sigh—restores vagal HRV and nitric oxide vasodilation.
 
 ## Why Your Brain Can Shut Down an Erection in 3 Seconds: Alpha-Adrenergic Vasoconstriction
 
@@ -161,7 +162,7 @@ Immediately after deleting your Mind Cleaner note, flip your peripheral nervous 
 
 ## References & Clinical Sources
 
-1. **Dean, R. C., & Lue, T. F. (2005).** *Physiology of penile erection and pathophysiology of erectile dysfunction.* Urologic Clinics of North America, 32(4), 379–395. [https://pubmed.ncbi.nlm.nih.gov/16226685/](https://pubmed.ncbi.nlm.nih.gov/16226685/)
-2. **Balban, M. Y., Neri, E., Kogon, M. M., Weed, L., Nouriani, B., Jo, B., ... & Huberman, A. D. (2023).** *Brief structured respiration practices enhance mood and reduce physiological arousal.* Cell Reports Medicine, 4(1), 100895. [https://pubmed.ncbi.nlm.nih.gov/36630953/](https://pubmed.ncbi.nlm.nih.gov/36630953/)
-3. **Ramirez, G., & Beilock, S. L. (2011).** *Writing about testing worries boosts exam performance in the classroom.* Science, 331(6014), 211–213. [https://pubmed.ncbi.nlm.nih.gov/21233387/](https://pubmed.ncbi.nlm.nih.gov/21233387/)
-4. **Baikie, K. A., & Wilhelm, K. (2005).** *Emotional and physical health benefits of expressive writing.* Advances in Psychiatric Treatment, 11(5), 338–346. [https://pubmed.ncbi.nlm.nih.gov/18509580/](https://pubmed.ncbi.nlm.nih.gov/18509580/)
+1. **Dean, R. C., & Lue, T. F. (2005).** *Physiology of penile erection and pathophysiology of erectile dysfunction.* Urologic Clinics of North America, 32(4), 379–395. [Original Study Report (NCBI PubMed: 16226685) ↗](https://pubmed.ncbi.nlm.nih.gov/16226685/)
+2. **Balban, M. Y., Neri, E., Kogon, M. M., Weed, L., Nouriani, B., Jo, B., ... & Huberman, A. D. (2023).** *Brief structured respiration practices enhance mood and reduce physiological arousal.* Cell Reports Medicine, 4(1), 100895. [Original Study Report (NCBI PubMed: 36630953) ↗](https://pubmed.ncbi.nlm.nih.gov/36630953/)
+3. **Ramirez, G., & Beilock, S. L. (2011).** *Writing about testing worries boosts exam performance in the classroom.* Science, 331(6014), 211–213. [Original Study Report (NCBI PubMed: 21233387) ↗](https://pubmed.ncbi.nlm.nih.gov/21233387/)
+4. **Baikie, K. A., & Wilhelm, K. (2005).** *Emotional and physical health benefits of expressive writing.* Advances in Psychiatric Treatment, 11(5), 338–346. [Original Study Report (NCBI PubMed: 18509580) ↗](https://pubmed.ncbi.nlm.nih.gov/18509580/)

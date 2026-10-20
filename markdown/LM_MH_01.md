@@ -1,22 +1,21 @@
-# 🇻🇳 Giải Phẫu Sàn Chậu Nam Giới: Động Cơ Cơ Học Quyết Định Độ Cương Cứng, Kiểm Soát Tiểu Tiện và Sự Ổn Định Vùng Lõi
-# 🇬🇧 Male Pelvic Floor Anatomy: The Muscular Engine of Erectile Rigidity, Continence, and Core Stability
-
-- **Article ID:** `LM_MH_01`
-- **Category:** Men's Health — Pelvic Floor Anatomy
-- **Content Type:** Learn more
-- **Mapped App Screen & Metric:** `Men's Health Screen` (`Pelvic Floor Muscle (PFM)`)
-- **Reading Time:** 8 phút đọc / 8 min
-- **Local Hero Photo:** `images/LM_MH_01_hero.jpg` ([Original Photo Source ↗](https://images.unsplash.com/photo-1534438327276-14e5300c3a48?auto=format&fit=crop&w=1200&q=85))
-- **Local Medical Figure:** `images/LM_MH_01_figure.jpg` ([Original Wikimedia Commons Source ↗](https://commons.wikimedia.org/wiki/File:1115_Muscles_of_the_Pelvic_Floor.jpg))
-- **Primary Clinical & Wearable Source:** [BJU International (Dorey et al., 2005) & Journal of Sexual Medicine (Lavoisier et al., 2014)](https://pubmed.ncbi.nlm.nih.gov/16011707/)
+# LM_MH_01 - Giải Phẫu Sàn Chậu Nam Giới: Động Cơ Cơ Học Quyết Định Độ Cương Cứng, Kiểm Soát Tiểu Tiện và Sự Ổn Định Vùng Lõi
+**Category:** Men's Health 
+**Screen:** Men's Health Screen 
+**Metric:** Pelvic Floor Muscle (PFM) 
+**Reading Time:** 8 phút đọc / 8 min 
+**Hero Image:** ![Giải Phẫu Sàn Chậu Nam Giới: Động Cơ Cơ Học Quyết Định Độ Cương Cứng, Kiểm Soát Tiểu Tiện và Sự Ổn Định Vùng Lõi](images/LM_MH_01_hero.jpg) *(Source: [https://images.unsplash.com/photo-1534438327276-14e5300c3a48?auto=format&fit=crop&w=1200&q=85](https://images.unsplash.com/photo-1534438327276-14e5300c3a48?auto=format&fit=crop&w=1200&q=85))* 
+**Inline Figure:** ![Giải phẫu nhìn từ trên và dưới của hệ cơ sàn chậu (OpenStax Anatomy & Physiology), minh họa phức hợp cơ nâng hậu môn (cơ mu cụt, cơ mu trực tràng, cơ chậu cụt) và dải cơ đáy chậu nông nâng đỡ hệ mạch máu vùng chậu và chức năng kiểm soát tiểu tiện.](images/LM_MH_01_figure.jpg) *(Source: [https://commons.wikimedia.org/wiki/File:1115_Muscles_of_the_Pelvic_Floor.jpg](https://commons.wikimedia.org/wiki/File:1115_Muscles_of_the_Pelvic_Floor.jpg))* 
+**Clinical Source:** [BJU International (Dorey et al., 2005) & Journal of Sexual Medicine (Lavoisier et al., 2014)](https://pubmed.ncbi.nlm.nih.gov/16011707/) 
 
 ---
 
-## 🇻🇳 BẢN TIẾNG VIỆT
+## 🇻🇳 Phiên Bản Tiếng Việt (Vietnamese Edition)
 
-> **Tóm tắt:** Nằm sâu bên dưới thành bụng là một hệ thống cơ vân hình võng chuyên biệt—bao gồm cơ hành hang, cơ ngồi hang và cơ nâng hậu môn—có nhiệm vụ khóa chặt dòng máu động mạch bên trong dương vật và kiểm soát đường tiểu. Khám phá cách sàn chậu phối hợp cùng hệ thần kinh tự chủ được theo dõi qua thiết bị đeo thông minh của bạn.
+# Giải Phẫu Sàn Chậu Nam Giới: Động Cơ Cơ Học Quyết Định Độ Cương Cứng, Kiểm Soát Tiểu Tiện và Sự Ổn Định Vùng Lõi
 
-> 💡 **Điểm Cốt Lõi & Hành Động Thực Tế:** Trong khi oxit nitric từ hệ phó giao cảm giúp bơm máu động mạch vào dương vật, cơ Hành hang (BC) và cơ Ngồi hang (IC) đóng vai trò như một 'khóa mạch máu' cơ học—ép chặt tĩnh mạch lưng sâu và tạo áp lực vượt mức tâm thu để duy trì độ cương cứng tối đa cũng như kiểm soát phản xạ xuất tinh.
+> **Tóm tắt (Sapo):** Nằm sâu bên dưới thành bụng là một hệ thống cơ vân hình võng chuyên biệt—bao gồm cơ hành hang, cơ ngồi hang và cơ nâng hậu môn—có nhiệm vụ khóa chặt dòng máu động mạch bên trong dương vật và kiểm soát đường tiểu. Khám phá cách sàn chậu phối hợp cùng hệ thần kinh tự chủ được theo dõi qua thiết bị đeo thông minh của bạn.
+
+> 💡 **Điểm Cốt Lõi & Hành Động Thực Tế (Key Takeaway):** Trong khi oxit nitric từ hệ phó giao cảm giúp bơm máu động mạch vào dương vật, cơ Hành hang (BC) và cơ Ngồi hang (IC) đóng vai trò như một 'khóa mạch máu' cơ học—ép chặt tĩnh mạch lưng sâu và tạo áp lực vượt mức tâm thu để duy trì độ cương cứng tối đa cũng như kiểm soát phản xạ xuất tinh.
 
 ## Vượt Ra Ngoài Định Kiến: Vì Sao Mọi Nam Giới Đều Cần Hiểu Rõ Sàn Chậu Của Mình
 
@@ -79,18 +78,20 @@ Hãy thực hiện bài tập lập bản đồ thần kinh – cơ nền tảng
 
 ## Tài Liệu Tham Khảo & Nguồn Y Khoa
 
-1. **Dorey, G., Speakman, M. J., Feneley, R. C., Swinkels, A., & Dunn, C. D. (2005).** *Pelvic floor exercises for erectile dysfunction.* BJU International, 96(4), 595–597. [https://pubmed.ncbi.nlm.nih.gov/16011707/](https://pubmed.ncbi.nlm.nih.gov/16011707/)
-2. **Lavoisier, P., Roy, P., Dantony, E., Watrelot, A., Ruggeri, J., & Dumoulin, S. (2014).** *Pelvic-floor muscle rehabilitation in erectile dysfunction and premature ejaculation.* Physical Therapy / Journal of Sexual Medicine, 94(12), 1731–1743. [https://pubmed.ncbi.nlm.nih.gov/25060956/](https://pubmed.ncbi.nlm.nih.gov/25060956/)
-3. **Shafik, A., Shafik, A. A., El Sibai, O., & Shafik, I. A. (2007).** *Physiologic role of ischiocavernosus and bulbocavernosus muscles in erection.* Urology / Archives of Andrology. [https://pubmed.ncbi.nlm.nih.gov/16011707/](https://pubmed.ncbi.nlm.nih.gov/16011707/)
-4. **Cohen, D., Gonzalez, J., & Goldstein, I. (2016).** *The Role of Pelvic Floor Muscles in Male Sexual Dysfunction and Pelvic Pain.* Sexual Medicine Reviews, 4(1), 53–62. [https://pubmed.ncbi.nlm.nih.gov/27872005/](https://pubmed.ncbi.nlm.nih.gov/27872005/)
+1. **Dorey, G., Speakman, M. J., Feneley, R. C., Swinkels, A., & Dunn, C. D. (2005).** *Pelvic floor exercises for erectile dysfunction.* BJU International, 96(4), 595–597. [Báo Cáo Nghiên Cứu Gốc (NCBI PubMed: 16011707) ↗](https://pubmed.ncbi.nlm.nih.gov/16011707/)
+2. **Lavoisier, P., Roy, P., Dantony, E., Watrelot, A., Ruggeri, J., & Dumoulin, S. (2014).** *Pelvic-floor muscle rehabilitation in erectile dysfunction and premature ejaculation.* Physical Therapy / Journal of Sexual Medicine, 94(12), 1731–1743. [Báo Cáo Nghiên Cứu Gốc (NCBI PubMed: 25060956) ↗](https://pubmed.ncbi.nlm.nih.gov/25060956/)
+3. **Shafik, A., Shafik, A. A., El Sibai, O., & Shafik, I. A. (2007).** *Physiologic role of ischiocavernosus and bulbocavernosus muscles in erection.* Urology / Archives of Andrology. [Báo Cáo Nghiên Cứu Gốc (NCBI PubMed: 16011707) ↗](https://pubmed.ncbi.nlm.nih.gov/16011707/)
+4. **Cohen, D., Gonzalez, J., & Goldstein, I. (2016).** *The Role of Pelvic Floor Muscles in Male Sexual Dysfunction and Pelvic Pain.* Sexual Medicine Reviews, 4(1), 53–62. [Báo Cáo Nghiên Cứu Gốc (NCBI PubMed: 27872005) ↗](https://pubmed.ncbi.nlm.nih.gov/27872005/)
 
 ---
 
-## 🇬🇧 ENGLISH VERSION
+## 🇬🇧 English Edition
 
-> **Executive Summary:** Beneath the abdominal wall lies a specialized hammock of striated muscles—the bulbocavernosus, ischiocavernosus, and levator ani—that mechanically locks arterial blood inside the penis and stabilizes urinary control. Discover how your pelvic floor interacts with autonomic nervous system signals tracked by your wearable.
+# Male Pelvic Floor Anatomy: The Muscular Engine of Erectile Rigidity, Continence, and Core Stability
 
-> 💡 **Key Actionable Takeaway:** While parasympathetic nitric oxide drives arterial blood into the penis, the Bulbocavernosus (BC) and Ischiocavernosus (IC) muscles act as the mechanical vascular lock—compressing the deep dorsal vein and generating suprasystolic pressure for full rigidity and ejaculatory control.
+> **Abstract (Sapo):** Beneath the abdominal wall lies a specialized hammock of striated muscles—the bulbocavernosus, ischiocavernosus, and levator ani—that mechanically locks arterial blood inside the penis and stabilizes urinary control. Discover how your pelvic floor interacts with autonomic nervous system signals tracked by your wearable.
+
+> 💡 **Key Takeaway & Clinical Action:** While parasympathetic nitric oxide drives arterial blood into the penis, the Bulbocavernosus (BC) and Ischiocavernosus (IC) muscles act as the mechanical vascular lock—compressing the deep dorsal vein and generating suprasystolic pressure for full rigidity and ejaculatory control.
 
 ## Beyond Women's Health: Why Every Man Needs to Understand His Pelvic Floor
 
@@ -153,7 +154,7 @@ Perform this foundational neuromuscular mapping drill once daily in a completely
 
 ## References & Clinical Sources
 
-1. **Dorey, G., Speakman, M. J., Feneley, R. C., Swinkels, A., & Dunn, C. D. (2005).** *Pelvic floor exercises for erectile dysfunction.* BJU International, 96(4), 595–597. [https://pubmed.ncbi.nlm.nih.gov/16011707/](https://pubmed.ncbi.nlm.nih.gov/16011707/)
-2. **Lavoisier, P., Roy, P., Dantony, E., Watrelot, A., Ruggeri, J., & Dumoulin, S. (2014).** *Pelvic-floor muscle rehabilitation in erectile dysfunction and premature ejaculation.* Physical Therapy / Journal of Sexual Medicine, 94(12), 1731–1743. [https://pubmed.ncbi.nlm.nih.gov/25060956/](https://pubmed.ncbi.nlm.nih.gov/25060956/)
-3. **Shafik, A., Shafik, A. A., El Sibai, O., & Shafik, I. A. (2007).** *Physiologic role of ischiocavernosus and bulbocavernosus muscles in erection.* Urology / Archives of Andrology. [https://pubmed.ncbi.nlm.nih.gov/16011707/](https://pubmed.ncbi.nlm.nih.gov/16011707/)
-4. **Cohen, D., Gonzalez, J., & Goldstein, I. (2016).** *The Role of Pelvic Floor Muscles in Male Sexual Dysfunction and Pelvic Pain.* Sexual Medicine Reviews, 4(1), 53–62. [https://pubmed.ncbi.nlm.nih.gov/27872005/](https://pubmed.ncbi.nlm.nih.gov/27872005/)
+1. **Dorey, G., Speakman, M. J., Feneley, R. C., Swinkels, A., & Dunn, C. D. (2005).** *Pelvic floor exercises for erectile dysfunction.* BJU International, 96(4), 595–597. [Original Study Report (NCBI PubMed: 16011707) ↗](https://pubmed.ncbi.nlm.nih.gov/16011707/)
+2. **Lavoisier, P., Roy, P., Dantony, E., Watrelot, A., Ruggeri, J., & Dumoulin, S. (2014).** *Pelvic-floor muscle rehabilitation in erectile dysfunction and premature ejaculation.* Physical Therapy / Journal of Sexual Medicine, 94(12), 1731–1743. [Original Study Report (NCBI PubMed: 25060956) ↗](https://pubmed.ncbi.nlm.nih.gov/25060956/)
+3. **Shafik, A., Shafik, A. A., El Sibai, O., & Shafik, I. A. (2007).** *Physiologic role of ischiocavernosus and bulbocavernosus muscles in erection.* Urology / Archives of Andrology. [Original Study Report (NCBI PubMed: 16011707) ↗](https://pubmed.ncbi.nlm.nih.gov/16011707/)
+4. **Cohen, D., Gonzalez, J., & Goldstein, I. (2016).** *The Role of Pelvic Floor Muscles in Male Sexual Dysfunction and Pelvic Pain.* Sexual Medicine Reviews, 4(1), 53–62. [Original Study Report (NCBI PubMed: 27872005) ↗](https://pubmed.ncbi.nlm.nih.gov/27872005/)

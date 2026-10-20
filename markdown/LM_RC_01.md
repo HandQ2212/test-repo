@@ -1,22 +1,21 @@
-# 🇻🇳 Giải Mã Biến Thiên Nhịp Tim (HRV): Cách Đọc Chỉ Số Phục Hồi Vàng Trên Thiết Bị Đeo
-# 🇬🇧 Heart Rate Variability (HRV) Explained: How to Read Your Overnight Recovery Metric
-
-- **Article ID:** `LM_RC_01`
-- **Category:** Recovery — HRV Physiology
-- **Content Type:** Learn more
-- **Mapped App Screen & Metric:** `Recovery Screen` (`Heart Rate Variability (HRV)`)
-- **Reading Time:** 10 phút đọc / 10 min
-- **Local Hero Photo:** `images/LM_RC_01_hero.jpg` ([Original Photo Source ↗](https://images.unsplash.com/photo-1551288049-bebda4e38f71?auto=format&fit=crop&w=1200&q=85))
-- **Local Medical Figure:** `images/LM_RC_01_figure.png` ([Original Wikimedia Commons Source ↗](https://commons.wikimedia.org/wiki/File:ECG-RRinterval.svg))
-- **Primary Clinical & Wearable Source:** [Frontiers in Public Health (Shaffer & Ginsberg, 2017) & Sports Medicine (Plews et al., 2013)](https://pubmed.ncbi.nlm.nih.gov/29034226/)
+# LM_RC_01 - Giải Mã Biến Thiên Nhịp Tim (HRV): Cách Đọc Chỉ Số Phục Hồi Vàng Trên Thiết Bị Đeo
+**Category:** Recovery 
+**Screen:** Recovery Screen 
+**Metric:** Heart Rate Variability (HRV) 
+**Reading Time:** 10 phút đọc / 10 min 
+**Hero Image:** ![Giải Mã Biến Thiên Nhịp Tim (HRV): Cách Đọc Chỉ Số Phục Hồi Vàng Trên Thiết Bị Đeo](images/LM_RC_01_hero.jpg) *(Source: [https://images.unsplash.com/photo-1551288049-bebda4e38f71?auto=format&fit=crop&w=1200&q=85](https://images.unsplash.com/photo-1551288049-bebda4e38f71?auto=format&fit=crop&w=1200&q=85))* 
+**Inline Figure:** ![Sóng Điện tâm đồ (ECG) lâm sàng minh họa các đỉnh sóng R liên tiếp và khoảng cách giữa hai nhịp đập R-R (tính bằng mili-giây)—cơ sở dữ liệu để thiết bị đeo tính toán chỉ số Biến thiên nhịp tim RMSSD.](images/LM_RC_01_figure.png) *(Source: [https://commons.wikimedia.org/wiki/File:ECG-RRinterval.svg](https://commons.wikimedia.org/wiki/File:ECG-RRinterval.svg))* 
+**Clinical Source:** [Frontiers in Public Health (Shaffer & Ginsberg, 2017) & Sports Medicine (Plews et al., 2013)](https://pubmed.ncbi.nlm.nih.gov/29034226/) 
 
 ---
 
-## 🇻🇳 BẢN TIẾNG VIỆT
+## 🇻🇳 Phiên Bản Tiếng Việt (Vietnamese Edition)
 
-> **Tóm tắt:** Biến thiên nhịp tim (HRV) là chỉ số chuẩn vàng đánh giá mức độ sẵn sàng trên WHOOP, Oura, Garmin và Apple Watch. Tìm hiểu tại sao độ lệch mili-giây giữa các nhịp đập càng cao lại báo hiệu cơ thể càng ít căng thẳng, tại sao không bao giờ nên so sánh HRV với người khác, và cách điều chỉnh lịch tập theo xu hướng HRV 7 ngày.
+# Giải Mã Biến Thiên Nhịp Tim (HRV): Cách Đọc Chỉ Số Phục Hồi Vàng Trên Thiết Bị Đeo
 
-> 💡 **Điểm Cốt Lõi & Hành Động Thực Tế:** HRV không phải là nhịp tim—đó là sự chênh lệch tính bằng mili-giây (ms) giữa các nhịp tim liên tiếp. Chỉ số HRV cao hơn mức nền 30 ngày của chính bạn báo hiệu dây thần kinh phế vị phục hồi mạnh mẽ và sẵn sàng tập nặng, trong khi HRV sụt giảm nhiều ngày liên tiếp cảnh báo quá tải tập luyện, căng thẳng ngầm, dư âm của rượu bia hoặc cơ thể sắp ốm.
+> **Tóm tắt (Sapo):** Biến thiên nhịp tim (HRV) là chỉ số chuẩn vàng đánh giá mức độ sẵn sàng trên WHOOP, Oura, Garmin và Apple Watch. Tìm hiểu tại sao độ lệch mili-giây giữa các nhịp đập càng cao lại báo hiệu cơ thể càng ít căng thẳng, tại sao không bao giờ nên so sánh HRV với người khác, và cách điều chỉnh lịch tập theo xu hướng HRV 7 ngày.
+
+> 💡 **Điểm Cốt Lõi & Hành Động Thực Tế (Key Takeaway):** HRV không phải là nhịp tim—đó là sự chênh lệch tính bằng mili-giây (ms) giữa các nhịp tim liên tiếp. Chỉ số HRV cao hơn mức nền 30 ngày của chính bạn báo hiệu dây thần kinh phế vị phục hồi mạnh mẽ và sẵn sàng tập nặng, trong khi HRV sụt giảm nhiều ngày liên tiếp cảnh báo quá tải tập luyện, căng thẳng ngầm, dư âm của rượu bia hoặc cơ thể sắp ốm.
 
 ## Tại Sao Một Trái Tim Khỏe Mạnh Không Đập Đều Đặn Như Máy Đếm Nhịp?
 
@@ -90,18 +89,20 @@ Trong nghiên cứu khoa học thể thao nổi tiếng trên các vận động
 
 ## Tài Liệu Tham Khảo & Nguồn Y Khoa
 
-1. **Shaffer, F., & Ginsberg, J. P. (2017).** *An Overview of Heart Rate Variability Metrics and Norms.* Frontiers in Public Health, 5, 258. [https://pubmed.ncbi.nlm.nih.gov/29034226/](https://pubmed.ncbi.nlm.nih.gov/29034226/)
-2. **Plews, D. J., Laursen, P. B., Stanley, J., Buchheit, M., & Kilding, A. E. (2013).** *Training adaptation and heart rate variability in elite endurance athletes: opening the door to effective monitoring.* Sports Medicine, 43(9), 773–781. [https://pubmed.ncbi.nlm.nih.gov/23852425/](https://pubmed.ncbi.nlm.nih.gov/23852425/)
-3. **Oura Ring Pulse Blog.** *What Is Heart Rate Variability (HRV)? The Definitive Guide.* [https://ouraring.com/blog/what-is-heart-rate-variability/](https://ouraring.com/blog/what-is-heart-rate-variability/)
-4. **Garmin Health Science.** *Heart Rate Variability (HRV) Status & Autonomic Recovery.* [https://www.garmin.com/en-US/garmin-technology/health-science/hrv-status/](https://www.garmin.com/en-US/garmin-technology/health-science/hrv-status/)
+1. **Shaffer, F., & Ginsberg, J. P. (2017).** *An Overview of Heart Rate Variability Metrics and Norms.* Frontiers in Public Health, 5, 258. [Báo Cáo Nghiên Cứu Gốc (NCBI PubMed: 29034226) ↗](https://pubmed.ncbi.nlm.nih.gov/29034226/)
+2. **Plews, D. J., Laursen, P. B., Stanley, J., Buchheit, M., & Kilding, A. E. (2013).** *Training adaptation and heart rate variability in elite endurance athletes: opening the door to effective monitoring.* Sports Medicine, 43(9), 773–781. [Báo Cáo Nghiên Cứu Gốc (NCBI PubMed: 23852425) ↗](https://pubmed.ncbi.nlm.nih.gov/23852425/)
+3. **Oura Ring Pulse Blog.** *What Is Heart Rate Variability (HRV)? The Definitive Guide.* [Cổng Nghiên Cứu Oura Ring Science ↗](https://ouraring.com/blog/what-is-heart-rate-variability/)
+4. **Garmin Health Science.** *Heart Rate Variability (HRV) Status & Autonomic Recovery.* [Cổng Khoa Học Garmin Health Science ↗](https://www.garmin.com/en-US/garmin-technology/health-science/hrv-status/)
 
 ---
 
-## 🇬🇧 ENGLISH VERSION
+## 🇬🇧 English Edition
 
-> **Executive Summary:** Heart Rate Variability (HRV) is the gold-standard readiness metric on WHOOP, Oura, Garmin, and Apple Watch. Learn why a higher millisecond variation between heartbeats means lower stress, why you should never compare your HRV to a friend's, and how to train using your 7-day HRV trend.
+# Heart Rate Variability (HRV) Explained: How to Read Your Overnight Recovery Metric
 
-> 💡 **Key Actionable Takeaway:** HRV is not your heart rate—it is the millisecond variation in timing between consecutive heartbeats. A high HRV relative to your personal 30-day baseline signals strong vagus nerve recovery and readiness for intense training, while a multi-day drop warns of accumulated training strain, hidden psychological stress, alcohol recovery, or an oncoming illness.
+> **Abstract (Sapo):** Heart Rate Variability (HRV) is the gold-standard readiness metric on WHOOP, Oura, Garmin, and Apple Watch. Learn why a higher millisecond variation between heartbeats means lower stress, why you should never compare your HRV to a friend's, and how to train using your 7-day HRV trend.
+
+> 💡 **Key Takeaway & Clinical Action:** HRV is not your heart rate—it is the millisecond variation in timing between consecutive heartbeats. A high HRV relative to your personal 30-day baseline signals strong vagus nerve recovery and readiness for intense training, while a multi-day drop warns of accumulated training strain, hidden psychological stress, alcohol recovery, or an oncoming illness.
 
 ## Why a Healthy Heart Does Not Beat Like a Metronome
 
@@ -175,7 +176,7 @@ In a landmark sports science study of elite endurance athletes (**Plews et al., 
 
 ## References & Clinical Sources
 
-1. **Shaffer, F., & Ginsberg, J. P. (2017).** *An Overview of Heart Rate Variability Metrics and Norms.* Frontiers in Public Health, 5, 258. [https://pubmed.ncbi.nlm.nih.gov/29034226/](https://pubmed.ncbi.nlm.nih.gov/29034226/)
-2. **Plews, D. J., Laursen, P. B., Stanley, J., Buchheit, M., & Kilding, A. E. (2013).** *Training adaptation and heart rate variability in elite endurance athletes: opening the door to effective monitoring.* Sports Medicine, 43(9), 773–781. [https://pubmed.ncbi.nlm.nih.gov/23852425/](https://pubmed.ncbi.nlm.nih.gov/23852425/)
-3. **Oura Ring Pulse Blog.** *What Is Heart Rate Variability (HRV)? The Definitive Guide.* [https://ouraring.com/blog/what-is-heart-rate-variability/](https://ouraring.com/blog/what-is-heart-rate-variability/)
-4. **Garmin Health Science.** *Heart Rate Variability (HRV) Status & Autonomic Recovery.* [https://www.garmin.com/en-US/garmin-technology/health-science/hrv-status/](https://www.garmin.com/en-US/garmin-technology/health-science/hrv-status/)
+1. **Shaffer, F., & Ginsberg, J. P. (2017).** *An Overview of Heart Rate Variability Metrics and Norms.* Frontiers in Public Health, 5, 258. [Original Study Report (NCBI PubMed: 29034226) ↗](https://pubmed.ncbi.nlm.nih.gov/29034226/)
+2. **Plews, D. J., Laursen, P. B., Stanley, J., Buchheit, M., & Kilding, A. E. (2013).** *Training adaptation and heart rate variability in elite endurance athletes: opening the door to effective monitoring.* Sports Medicine, 43(9), 773–781. [Original Study Report (NCBI PubMed: 23852425) ↗](https://pubmed.ncbi.nlm.nih.gov/23852425/)
+3. **Oura Ring Pulse Blog.** *What Is Heart Rate Variability (HRV)? The Definitive Guide.* [Oura Ring Science Portal ↗](https://ouraring.com/blog/what-is-heart-rate-variability/)
+4. **Garmin Health Science.** *Heart Rate Variability (HRV) Status & Autonomic Recovery.* [Garmin Health Science Portal ↗](https://www.garmin.com/en-US/garmin-technology/health-science/hrv-status/)

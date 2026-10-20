@@ -1,18 +1,21 @@
-# Nam Giới Cần Bao Nhiêu Protein? Tối Ưu Tổng Hợp Cơ Bắp, Thận & Cân Bằng Nội Tiết
-**Protein Requirements for Men: Optimizing Muscle Protein Synthesis, Renal Health & Hormones**
-
-> **Sapo (VI):** Mức khuyến nghị RDA tiêu chuẩn (0.8g protein/kg) chỉ được thiết kế để phòng tránh suy dinh dưỡng chứ hoàn toàn không tối ưu cho sức khỏe thể lực, mật độ xương và nội tiết của người đàn ông hiện đại. Phân tích tổng hợp từ hơn 49 nghiên cứu trên tạp chí BJSM đã xác định chính xác ngưỡng nạp protein tối ưu để phát triển cơ bắp và bảo vệ sức khỏe thận lâu dài.
-> 
-> **Lead (EN):** The standard RDA of 0.8g protein/kg was formulated merely to prevent frank clinical deficiency—not to optimize lean muscle mass, bone mineral density, and metabolic longevity in active men. A landmark meta-analysis of 49 trials in the British Journal of Sports Medicine established the definitive protein intake threshold for maximal hypertrophy and endocrine health.
-
-> [!TIP]
-> 💡 **Điểm Cốt Lõi (Key Takeaway):** Ngưỡng nạp protein tối ưu cho nam giới vận động là 1.6 đến 2.2 g/kg thể trọng mỗi ngày. Chia đều thành 3–4 bữa, mỗi bữa chứa 2.5–3g Leucine là cách hiệu quả nhất để kích hoạt tín hiệu tổng hợp protein cơ bắp (mTOR) mà không gây hại cho thận ở người khỏe mạnh.
-> 
-> 💡 **Takeaway (EN):** The optimal protein intake window for active men is 1.6 to 2.2 g/kg of body weight daily. Spreading intake across 3–4 meals containing 2.5–3g of Leucine triggers maximal muscle protein synthesis (MPS) via mTORC1 without renal stress in healthy individuals.
+# MW_NUT_03 - Nam Giới Cần Bao Nhiêu Protein? Tối Ưu Tổng Hợp Cơ Bắp, Thận & Cân Bằng Nội Tiết
+**Category:** Men's Health 
+**Screen:** Body Composition & Activity Strain Screen 
+**Metric:** Muscle Protein Synthesis, Leucine Threshold & Day Strain 
+**Reading Time:** 8 phút đọc / 8 min 
+**Hero Image:** ![Nam Giới Cần Bao Nhiêu Protein? Tối Ưu Tổng Hợp Cơ Bắp, Thận & Cân Bằng Nội Tiết](images/LM_AC_01_hero.jpg) *(Source: [https://images.unsplash.com/photo-1517838277536-f5f99be501cd?auto=format&fit=crop&w=1200&q=85](https://images.unsplash.com/photo-1517838277536-f5f99be501cd?auto=format&fit=crop&w=1200&q=85))* 
+**Inline Figure:** ![Phân bố khối cơ nạc và tổng hợp protein cơ bắp: Tối ưu hóa phân bổ protein trong ngày kích hoạt thụ thể mTORC1, ngăn ngừa mất cơ (Sarcopenia) và nâng cao tốc độ trao đổi chất cơ bản.](images/DM_AC_01_figure.png) *(Source: [https://commons.wikimedia.org/wiki/File:Muscles_anterior_labeled.png](https://commons.wikimedia.org/wiki/File:Muscles_anterior_labeled.png))* 
+**Clinical Source:** [British Journal of Sports Medicine (BJSM) & American Journal of Clinical Nutrition](https://pubmed.ncbi.nlm.nih.gov/28698222/) 
 
 ---
 
-## 🇻🇳 NỘI DUNG TIẾNG VIỆT
+## 🇻🇳 Phiên Bản Tiếng Việt (Vietnamese Edition)
+
+# Nam Giới Cần Bao Nhiêu Protein? Tối Ưu Tổng Hợp Cơ Bắp, Thận & Cân Bằng Nội Tiết
+
+> **Tóm tắt (Sapo):** Mức khuyến nghị RDA tiêu chuẩn (0.8g protein/kg) chỉ được thiết kế để phòng tránh suy dinh dưỡng chứ hoàn toàn không tối ưu cho sức khỏe thể lực, mật độ xương và nội tiết của người đàn ông hiện đại. Phân tích tổng hợp từ hơn 49 nghiên cứu trên tạp chí BJSM đã xác định chính xác ngưỡng nạp protein tối ưu để phát triển cơ bắp và bảo vệ sức khỏe thận lâu dài.
+
+> 💡 **Điểm Cốt Lõi & Hành Động Thực Tế (Key Takeaway):** Ngưỡng nạp protein tối ưu cho nam giới vận động là 1.6 đến 2.2 g/kg thể trọng mỗi ngày. Chia đều thành 3–4 bữa, mỗi bữa chứa 2.5–3g Leucine là cách hiệu quả nhất để kích hoạt tín hiệu tổng hợp protein cơ bắp (mTOR) mà không gây hại cho thận ở người khỏe mạnh.
 
 ## Sự Thật Về Mức RDA 0.8g/kg: Tiêu Chuẩn "Chống Chết Đói", Không Phải Tối Ưu
 
@@ -71,14 +74,20 @@ Một trong những nỗi sợ phổ biến nhất là: "Ăn nhiều protein s�
 
 ## Tài Liệu Tham Khảo & Nguồn Y Khoa
 
-1. **Morton, R. W., Murphy, K. T., et al. (2018).** *A systematic review, meta-analysis and meta-regression of the effect of protein supplementation on resistance training-induced gains.* BJSM, 52(6), 376–384. [Đọc trên PubMed ↗](https://pubmed.ncbi.nlm.nih.gov/28698222/)
-2. **Phillips, S. M., Chevalier, S., & Leidy, H. J. (2016).** *Protein requirements beyond the RDA: implications for optimizing health.* Applied Physiology, Nutrition, and Metabolism, 41(5), 565–572. [Đọc trên PubMed ↗](https://pubmed.ncbi.nlm.nih.gov/26960445/)
-3. **Antonio, J., Ellerbroek, A., et al. (2016).** *A high protein diet has no harmful effects: a one-year crossover study in resistance-trained males.* Journal of Nutrition and Metabolism. [Đọc trên PubMed ↗](https://pubmed.ncbi.nlm.nih.gov/27807480/)
-4. **Jäger, R., Kerksick, C. M., et al. (2017).** *International Society of Sports Nutrition Position Stand: protein and exercise.* Journal of the International Society of Sports Nutrition, 14(1), 20. [Đọc trên JISSN ↗](https://pubmed.ncbi.nlm.nih.gov/28642676/)
+1. **Morton, R. W., Murphy, K. T., et al. (2018).** *A systematic review, meta-analysis and meta-regression of the effect of protein supplementation on resistance training-induced gains.* BJSM, 52(6), 376–384. [Tạp chí BJSM (PMID: 28698222) ↗](https://pubmed.ncbi.nlm.nih.gov/28698222/)
+2. **Phillips, S. M., Chevalier, S., & Leidy, H. J. (2016).** *Protein requirements beyond the RDA: implications for optimizing health.* Applied Physiology, Nutrition, and Metabolism, 41(5), 565–572. [Báo Cáo Nghiên Cứu Gốc (NCBI PubMed: 26960445) ↗](https://pubmed.ncbi.nlm.nih.gov/26960445/)
+3. **Antonio, J., Ellerbroek, A., et al. (2016).** *A high protein diet has no harmful effects: a one-year crossover study in resistance-trained males.* Journal of Nutrition and Metabolism. [Báo Cáo Nghiên Cứu Gốc (NCBI PubMed: 27807480) ↗](https://pubmed.ncbi.nlm.nih.gov/27807480/)
+4. **Jäger, R., Kerksick, C. M., et al. (2017).** *International Society of Sports Nutrition Position Stand: protein and exercise.* Journal of the International Society of Sports Nutrition, 14(1), 20. [Tạp chí JISSN (PMID: 28642676) ↗](https://pubmed.ncbi.nlm.nih.gov/28642676/)
 
 ---
 
-## 🇬🇧 ENGLISH CONTENT
+## 🇬🇧 English Edition
+
+# Protein Requirements for Men: Optimizing Muscle Protein Synthesis, Renal Health & Hormones
+
+> **Abstract (Sapo):** The standard RDA of 0.8g protein/kg was formulated merely to prevent frank clinical deficiency—not to optimize lean muscle mass, bone mineral density, and metabolic longevity in active men. A landmark meta-analysis of 49 trials in the British Journal of Sports Medicine established the definitive protein intake threshold for maximal hypertrophy and endocrine health.
+
+> 💡 **Key Takeaway & Clinical Action:** The optimal protein intake window for active men is 1.6 to 2.2 g/kg of body weight daily. Spreading intake across 3–4 meals containing 2.5–3g of Leucine triggers maximal muscle protein synthesis (MPS) via mTORC1 without renal stress in healthy individuals.
 
 ## Shattering the 0.8g/kg Myth: Survival Standard vs. Optimal Physiology
 

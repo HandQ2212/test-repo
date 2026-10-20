@@ -1,18 +1,21 @@
-# Xung Đột Lành Mạnh: Chuyển Hóa Tranh Cãi Thành Sự Thấu Hiểu Bằng Kỹ Thuật Tự Hạ Hỏa Thần Kinh
-**Healthy Conflict Mastery: Diffusing Marital Arguments Through Autonomic Self-Soothing**
-
-> **Sapo (VI):** Nhiều người lầm tưởng rằng một mối quan hệ hoàn hảo là một mối quan hệ không bao giờ có tiếng cãi vã. Tuy nhiên, các nhà tâm lý học thực chứng chứng minh: Bất đồng quan điểm là điều tất yếu của hai cá thể độc lập; điều quyết định sự trường tồn của tình yêu không phải là bạn cãi nhau về chuyện gì, mà là cách bạn xử lý trạng thái 'ngập lụt sinh lý' (Flooding) khi nhịp tim tăng vọt trên 100 bpm trong cơn nóng giận.
-> 
-> **Lead (EN):** Many mistakenly assume an ideal partnership is defined by an absolute absence of arguments. Yet empirical couples psychology demonstrates that interpersonal conflict is biologically inevitable between two distinct individuals; relational longevity is predicted not by conflict topics, but by how partners manage autonomic 'diffuse physiological arousal' (Flooding) when heart rate eclipses 100 bpm.
-
-> [!TIP]
-> 💡 **Điểm Cốt Lõi (Key Takeaway):** Khi tranh cãi đẩy nhịp tim vượt quá 100 bpm, não bộ rơi vào trạng thái 'điếc sinh lý'—bạn không còn khả năng tiếp thu bất kỳ lập luận logic nào của đối phương. Hãy áp dụng quy tắc tạm dừng bắt buộc 20 phút để hệ thần kinh tự xoa dịu bằng cách đi dạo hoặc hít thở sâu, sau đó sử dụng các 'tín hiệu sửa chữa' (Repair Attempts) để tái thiết lập kết nối.
-> 
-> 💡 **Takeaway (EN):** When arguments push heart rate above 100 bpm, partners experience 'physiological deafness'—prefrontal empathy and auditory comprehension shut down completely. Implement a non-negotiable 20-minute physiological time-out to metabolize stress hormones, then deploy strategic 'Repair Attempts' to de-escalate tension and restore emotional safety.
+# MW_REL_05 - Xung Đột Lành Mạnh: Chuyển Hóa Tranh Cãi Thành Sự Thấu Hiểu Bằng Kỹ Thuật Tự Hạ Hỏa Thần Kinh
+**Category:** Men's Health 
+**Screen:** Relationship Dynamics & Stress Recovery Screen 
+**Metric:** Autonomic Flooding (>100 bpm), Physiological Timeout & Repair Attempts 
+**Reading Time:** 8 phút đọc / 8 min 
+**Hero Image:** ![Xung Đột Lành Mạnh: Chuyển Hóa Tranh Cãi Thành Sự Thấu Hiểu Bằng Kỹ Thuật Tự Hạ Hỏa Thần Kinh](images/DM_HW_01_hero.jpg) *(Source: [https://images.unsplash.com/photo-1516589178581-6cd7833ae3b2?auto=format&fit=crop&w=1200&q=85](https://images.unsplash.com/photo-1516589178581-6cd7833ae3b2?auto=format&fit=crop&w=1200&q=85))* 
+**Inline Figure:** ![Phản xạ chiến đấu hoặc bỏ chạy trong tranh cãi: Nhịp tim vượt 100 bpm khóa chặt khả năng xử lý ngôn ngữ logic của thùy trán, buộc cơ thể cần tối thiểu 20 phút để chuyển hóa adrenaline.](images/LM_HW_01_figure.png) *(Source: [https://commons.wikimedia.org/wiki/File:Autonomic_Nervous_System.svg](https://commons.wikimedia.org/wiki/File:Autonomic_Nervous_System.svg))* 
+**Clinical Source:** [Journal of Marriage and Family (Gottman Institute) & Psychophysiology](https://pubmed.ncbi.nlm.nih.gov/6620126/) 
 
 ---
 
-## 🇻🇳 NỘI DUNG TIẾNG VIỆT
+## 🇻🇳 Phiên Bản Tiếng Việt (Vietnamese Edition)
+
+# Xung Đột Lành Mạnh: Chuyển Hóa Tranh Cãi Thành Sự Thấu Hiểu Bằng Kỹ Thuật Tự Hạ Hỏa Thần Kinh
+
+> **Tóm tắt (Sapo):** Nhiều người lầm tưởng rằng một mối quan hệ hoàn hảo là một mối quan hệ không bao giờ có tiếng cãi vã. Tuy nhiên, các nhà tâm lý học thực chứng chứng minh: Bất đồng quan điểm là điều tất yếu của hai cá thể độc lập; điều quyết định sự trường tồn của tình yêu không phải là bạn cãi nhau về chuyện gì, mà là cách bạn xử lý trạng thái 'ngập lụt sinh lý' (Flooding) khi nhịp tim tăng vọt trên 100 bpm trong cơn nóng giận.
+
+> 💡 **Điểm Cốt Lõi & Hành Động Thực Tế (Key Takeaway):** Khi tranh cãi đẩy nhịp tim vượt quá 100 bpm, não bộ rơi vào trạng thái 'điếc sinh lý'—bạn không còn khả năng tiếp thu bất kỳ lập luận logic nào của đối phương. Hãy áp dụng quy tắc tạm dừng bắt buộc 20 phút để hệ thần kinh tự xoa dịu bằng cách đi dạo hoặc hít thở sâu, sau đó sử dụng các 'tín hiệu sửa chữa' (Repair Attempts) để tái thiết lập kết nối.
 
 ## Hiện Tượng "Ngập Lụt Sinh Lý" (Diffuse Physiological Arousal - DPA)
 
@@ -69,14 +72,20 @@ Theo Tiến sĩ John Gottman, sự khác biệt lớn nhất giữa những cặ
 
 ## Tài Liệu Tham Khảo & Nguồn Y Khoa
 
-1. **Gottman, J. M., & Levenson, R. W. (1992).** *Marital processes predictive of later dissolution: behavior, physiology, and health.* Journal of Personality and Social Psychology, 63(2), 221–233. [Đọc trên PubMed ↗](https://pubmed.ncbi.nlm.nih.gov/1403613/)
-2. **Levenson, R. W., & Gottman, J. M. (1983).** *Marital interaction: physiological linkage and affective exchange.* Journal of Personality and Social Psychology, 45(3), 587–597. [Đọc trên APA PsycNet ↗](https://pubmed.ncbi.nlm.nih.gov/6620126/)
-3. **Gottman, J. M. (1999).** *The Marriage Clinic: A Scientifically-Based Marital Therapy.* W. W. Norton & Company. [Đọc trên W.W. Norton ↗](https://wwnorton.com/books/The-Marriage-Clinic/)
-4. **Markman, H. J., Stanley, S. M., & Blumberg, S. L. (2010).** *Fighting for Your Marriage: Positive Steps for Preventing Divorce and Preserving a Lasting Love.* Jossey-Bass. [Đọc trên Wiley ↗](https://www.wiley.com/en-us/Fighting+for+Your+Marriage-p-9780470485910)
+1. **Gottman, J. M., & Levenson, R. W. (1992).** *Marital processes predictive of later dissolution: behavior, physiology, and health.* Journal of Personality and Social Psychology, 63(2), 221–233. [Báo Cáo Nghiên Cứu Gốc (NCBI PubMed: 1403613) ↗](https://pubmed.ncbi.nlm.nih.gov/1403613/)
+2. **Levenson, R. W., & Gottman, J. M. (1983).** *Marital interaction: physiological linkage and affective exchange.* Journal of Personality and Social Psychology, 45(3), 587–597. [Tạp chí APA PsycNet (PMID: 6620126) ↗](https://pubmed.ncbi.nlm.nih.gov/6620126/)
+3. **Gottman, J. M. (1999).** *The Marriage Clinic: A Scientifically-Based Marital Therapy.* W. W. Norton & Company. [Tài Liệu Nghiên Cứu Gốc Xác Thực ↗](https://wwnorton.com/books/The-Marriage-Clinic/)
+4. **Markman, H. J., Stanley, S. M., & Blumberg, S. L. (2010).** *Fighting for Your Marriage: Positive Steps for Preventing Divorce and Preserving a Lasting Love.* Jossey-Bass. [Tạp chí Wiley ↗](https://www.wiley.com/en-us/Fighting+for+Your+Marriage-p-9780470485910)
 
 ---
 
-## 🇬🇧 ENGLISH CONTENT
+## 🇬🇧 English Edition
+
+# Healthy Conflict Mastery: Diffusing Marital Arguments Through Autonomic Self-Soothing
+
+> **Abstract (Sapo):** Many mistakenly assume an ideal partnership is defined by an absolute absence of arguments. Yet empirical couples psychology demonstrates that interpersonal conflict is biologically inevitable between two distinct individuals; relational longevity is predicted not by conflict topics, but by how partners manage autonomic 'diffuse physiological arousal' (Flooding) when heart rate eclipses 100 bpm.
+
+> 💡 **Key Takeaway & Clinical Action:** When arguments push heart rate above 100 bpm, partners experience 'physiological deafness'—prefrontal empathy and auditory comprehension shut down completely. Implement a non-negotiable 20-minute physiological time-out to metabolize stress hormones, then deploy strategic 'Repair Attempts' to de-escalate tension and restore emotional safety.
 
 ## Defining "Diffuse Physiological Arousal" (DPA / Flooding)
 

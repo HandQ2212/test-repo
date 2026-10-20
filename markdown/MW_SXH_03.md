@@ -1,18 +1,21 @@
-# Giấc Ngủ & Hormone Nam: Vì Sao Mất 1 Tuần Ngủ Thiếu Khiến Testosterone Tụt Dốc Như Già Đi 10 Tuổi?
-**Sleep Deprivation & Testosterone: Why One Week of Sleep Loss Ages Your Hormones by a Decade**
-
-> **Sapo (VI):** Nghiên cứu mang tính bước ngoặt của Đại học Chicago đăng trên tạp chí JAMA phát hiện: Chỉ 1 tuần ngủ 5 tiếng mỗi đêm đã khiến nồng độ testosterone của những người đàn ông trẻ tuổi khỏe mạnh sụt giảm từ 10% đến 15%—tương đương với tốc độ lão hóa sinh học của cả một thập kỷ. Tìm hiểu mối liên kết mật thiết giữa các chu kỳ giấc ngủ sâu, nợ ngủ tích lũy và sức sống phái mạnh.
-> 
-> **Lead (EN):** A landmark clinical investigation conducted at the University of Chicago and published in JAMA revealed that just one week of sleep restriction (5 hours per night) plummeted daytime testosterone levels by 10% to 15% in healthy young men—a hormonal decline equivalent to 10 to 15 years of biological aging. Unpack the vital nexus between slow-wave deep sleep, accumulated sleep debt, and male vitality.
-
-> [!TIP]
-> 💡 **Điểm Cốt Lõi (Key Takeaway):** Phần lớn testosterone được sản xuất và đồng hóa trong các chu kỳ ngủ sâu và ngủ REM. Thiếu ngủ mãn tính kích hoạt trục stress HPA, đẩy cortisol tăng cao và bóp nghẹt quá trình phục hồi của tinh hoàn. Ngủ đủ 7–8.5 tiếng với giờ giấc nhất quán là liều 'thuốc tăng test' tự nhiên mạnh mẽ nhất.
-> 
-> 💡 **Takeaway (EN):** The overwhelming majority of diurnal testosterone synthesis occurs during slow-wave and REM sleep. Chronic sleep deprivation activates the HPA axis, driving catabolic cortisol spikes that suppress testicular steroidogenesis. Prioritizing 7–8.5 hours with high sleep consistency is the most potent natural androgen booster available.
+# MW_SXH_03 - Giấc Ngủ & Hormone Nam: Vì Sao Mất 1 Tuần Ngủ Thiếu Khiến Testosterone Tụt Dốc Như Già Đi 10 Tuổi?
+**Category:** Men's Health 
+**Screen:** Sleep Analysis & Endocrine Screen 
+**Metric:** Deep Sleep Duration, REM Fragmentation & Sleep Debt 
+**Reading Time:** 8 phút đọc / 8 min 
+**Hero Image:** ![Giấc Ngủ & Hormone Nam: Vì Sao Mất 1 Tuần Ngủ Thiếu Khiến Testosterone Tụt Dốc Như Già Đi 10 Tuổi?](images/DM_SL_01_hero.jpg) *(Source: [https://images.unsplash.com/photo-1541781774459-bb2af2f05b55?auto=format&fit=crop&w=1200&q=85](https://images.unsplash.com/photo-1541781774459-bb2af2f05b55?auto=format&fit=crop&w=1200&q=85))* 
+**Inline Figure:** ![Biểu đồ cấu trúc giấc ngủ (Hypnogram): Các đợt giải phóng testosterone và hormone tăng trưởng (GH) diễn ra dồn dập nhất trong các chu kỳ ngủ sâu (N3/Slow-Wave Sleep) đầu đêm.](images/LM_SL_02_figure.png) *(Source: [https://commons.wikimedia.org/wiki/File:Sleep_Hypnogram.svg](https://commons.wikimedia.org/wiki/File:Sleep_Hypnogram.svg))* 
+**Clinical Source:** [Journal of the American Medical Association (JAMA) & Sleep Medicine Reviews](https://pubmed.ncbi.nlm.nih.gov/21632481/) 
 
 ---
 
-## 🇻🇳 NỘI DUNG TIẾNG VIỆT
+## 🇻🇳 Phiên Bản Tiếng Việt (Vietnamese Edition)
+
+# Giấc Ngủ & Hormone Nam: Vì Sao Mất 1 Tuần Ngủ Thiếu Khiến Testosterone Tụt Dốc Như Già Đi 10 Tuổi?
+
+> **Tóm tắt (Sapo):** Nghiên cứu mang tính bước ngoặt của Đại học Chicago đăng trên tạp chí JAMA phát hiện: Chỉ 1 tuần ngủ 5 tiếng mỗi đêm đã khiến nồng độ testosterone của những người đàn ông trẻ tuổi khỏe mạnh sụt giảm từ 10% đến 15%—tương đương với tốc độ lão hóa sinh học của cả một thập kỷ. Tìm hiểu mối liên kết mật thiết giữa các chu kỳ giấc ngủ sâu, nợ ngủ tích lũy và sức sống phái mạnh.
+
+> 💡 **Điểm Cốt Lõi & Hành Động Thực Tế (Key Takeaway):** Phần lớn testosterone được sản xuất và đồng hóa trong các chu kỳ ngủ sâu và ngủ REM. Thiếu ngủ mãn tính kích hoạt trục stress HPA, đẩy cortisol tăng cao và bóp nghẹt quá trình phục hồi của tinh hoàn. Ngủ đủ 7–8.5 tiếng với giờ giấc nhất quán là liều 'thuốc tăng test' tự nhiên mạnh mẽ nhất.
 
 ## Thử Nghiệm Kinh Điển Của Đại Học Chicago Trên Tạp Chí JAMA
 
@@ -63,14 +66,20 @@ Kết quả đo đạc nồng độ testosterone mỗi 15 đến 30 phút trong 
 
 ## Tài Liệu Tham Khảo & Nguồn Y Khoa
 
-1. **Leproult, R., & Van Cauter, E. (2011).** *Effect of 1 week of sleep restriction on testosterone levels in young healthy men.* JAMA, 305(21), 2173–2174. [Đọc trên JAMA / NIH ↗](https://pubmed.ncbi.nlm.nih.gov/21632481/)
-2. **Liu, P. Y., et al. (2015).** *The relationship between sleep and testosterone in men: a systematic review.* Sleep Medicine Reviews, 24, 75–84. [Đọc trên PubMed ↗](https://pubmed.ncbi.nlm.nih.gov/25732152/)
-3. **Axelsson, J., et al. (2005).** *Effects of sustained sleep restriction on mitogen-stimulated cytokine production in human men.* Sleep, 28(11), 1459–1466. [Đọc trên PubMed ↗](https://pubmed.ncbi.nlm.nih.gov/16335334/)
-4. **Luboshitzky, R., et al. (2001).** *Disruption of the nocturnal testosterone rhythm in men with sleep apnea.* Endocrine, 14(2), 273–277. [Đọc trên PubMed ↗](https://pubmed.ncbi.nlm.nih.gov/11388656/)
+1. **Leproult, R., & Van Cauter, E. (2011).** *Effect of 1 week of sleep restriction on testosterone levels in young healthy men.* JAMA, 305(21), 2173–2174. [Tạp chí JAMA (PMID: 21632481) ↗](https://pubmed.ncbi.nlm.nih.gov/21632481/)
+2. **Liu, P. Y., et al. (2015).** *The relationship between sleep and testosterone in men: a systematic review.* Sleep Medicine Reviews, 24, 75–84. [Tạp chí Sleep (PMID: 25732152) ↗](https://pubmed.ncbi.nlm.nih.gov/25732152/)
+3. **Axelsson, J., et al. (2005).** *Effects of sustained sleep restriction on mitogen-stimulated cytokine production in human men.* Sleep, 28(11), 1459–1466. [Tạp chí Sleep (PMID: 16335334) ↗](https://pubmed.ncbi.nlm.nih.gov/16335334/)
+4. **Luboshitzky, R., et al. (2001).** *Disruption of the nocturnal testosterone rhythm in men with sleep apnea.* Endocrine, 14(2), 273–277. [Tạp chí Sleep (PMID: 11388656) ↗](https://pubmed.ncbi.nlm.nih.gov/11388656/)
 
 ---
 
-## 🇬🇧 ENGLISH CONTENT
+## 🇬🇧 English Edition
+
+# Sleep Deprivation & Testosterone: Why One Week of Sleep Loss Ages Your Hormones by a Decade
+
+> **Abstract (Sapo):** A landmark clinical investigation conducted at the University of Chicago and published in JAMA revealed that just one week of sleep restriction (5 hours per night) plummeted daytime testosterone levels by 10% to 15% in healthy young men—a hormonal decline equivalent to 10 to 15 years of biological aging. Unpack the vital nexus between slow-wave deep sleep, accumulated sleep debt, and male vitality.
+
+> 💡 **Key Takeaway & Clinical Action:** The overwhelming majority of diurnal testosterone synthesis occurs during slow-wave and REM sleep. Chronic sleep deprivation activates the HPA axis, driving catabolic cortisol spikes that suppress testicular steroidogenesis. Prioritizing 7–8.5 hours with high sleep consistency is the most potent natural androgen booster available.
 
 ## The Landmark University of Chicago JAMA Trial
 

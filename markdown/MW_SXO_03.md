@@ -1,18 +1,21 @@
-# Ham Muốn Tình Dục & Testosterone: Điểm Khác Biệt Giữa Nhiên Liệu Sinh Học & Tâm Lý Học
-**Libido vs. Testosterone: Disentangling Biological Fuel from Psychosocial Catalysts**
-
-> **Sapo (VI):** Nhiều người đàn ông tin rằng nếu tăng gấp đôi nồng độ testosterone trong máu, ham muốn tình dục của họ sẽ tăng gấp đôi. Thử nghiệm lâm sàng đột phá trên tạp chí New England Journal of Medicine đã chứng minh nguyên lý 'Ngưỡng bão hòa Androgen': Một khi testosterone đạt trên mức tối thiểu bình thường, ham muốn tình dục được chi phối hoàn toàn bởi các yếu tố tâm lý, mối quan hệ và chất dẫn truyền thần kinh.
-> 
-> **Lead (EN):** Many men assume that doubling their circulating serum testosterone will proportionally double their sexual drive. A groundbreaking dose-response clinical trial published in the New England Journal of Medicine established the 'Androgen Threshold Model': Once testosterone crosses the physiological floor, sexual desire is predominantly governed by neuropsychological, contextual, and relational catalysts.
-
-> [!TIP]
-> 💡 **Điểm Cốt Lõi (Key Takeaway):** Testosterone giống như dầu nhớt trong động cơ xe: Thiếu nhớt xe sẽ không chạy, nhưng đổ ngập nhớt không làm xe chạy nhanh hơn. Ngưỡng bão hòa của ham muốn thường rơi vào khoảng 300–350 ng/dL. Nếu bạn đã có mức T bình thường mà vẫn mất ham muốn, hãy tìm kiếm nguyên nhân ở giấc ngủ, stress, trầm cảm hoặc chất lượng mối quan hệ.
-> 
-> 💡 **Takeaway (EN):** Testosterone functions like engine oil: without it, the motor seizes, but overfilling the reservoir does not boost horsepower. The receptor saturation threshold for libido hovers around 300–350 ng/dL. If your androgens are normal yet desire is absent, look to sleep debt, autonomic burnout, or relational dynamics.
+# MW_SXO_03 - Ham Muốn Tình Dục & Testosterone: Điểm Khác Biệt Giữa Nhiên Liệu Sinh Học & Tâm Lý Học
+**Category:** Men's Health 
+**Screen:** Endocrine & Neuropsychology Screen 
+**Metric:** Androgen Threshold Model, Receptor Sensitivity & Central Dopamine 
+**Reading Time:** 8 phút đọc / 8 min 
+**Hero Image:** ![Ham Muốn Tình Dục & Testosterone: Điểm Khác Biệt Giữa Nhiên Liệu Sinh Học & Tâm Lý Học](images/LM_MH_03_hero.jpg) *(Source: [https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?auto=format&fit=crop&w=1200&q=85](https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?auto=format&fit=crop&w=1200&q=85))* 
+**Inline Figure:** ![Đường dẫn tín hiệu thụ thể Androgen (AR): Khi testosterone vượt ngưỡng bão hòa sinh lý (~300 ng/dL), các thụ thể tại não bộ đã được lấp đầy; việc tăng thêm hormone không làm tăng thêm ham muốn.](images/LM_MH_01_figure.jpg) *(Source: [https://commons.wikimedia.org/wiki/File:Androgen_receptor_pathway.svg](https://commons.wikimedia.org/wiki/File:Androgen_receptor_pathway.svg))* 
+**Clinical Source:** [New England Journal of Medicine (NEJM) & European Urology](https://pubmed.ncbi.nlm.nih.gov/24024838/) 
 
 ---
 
-## 🇻🇳 NỘI DUNG TIẾNG VIỆT
+## 🇻🇳 Phiên Bản Tiếng Việt (Vietnamese Edition)
+
+# Ham Muốn Tình Dục & Testosterone: Điểm Khác Biệt Giữa Nhiên Liệu Sinh Học & Tâm Lý Học
+
+> **Tóm tắt (Sapo):** Nhiều người đàn ông tin rằng nếu tăng gấp đôi nồng độ testosterone trong máu, ham muốn tình dục của họ sẽ tăng gấp đôi. Thử nghiệm lâm sàng đột phá trên tạp chí New England Journal of Medicine đã chứng minh nguyên lý 'Ngưỡng bão hòa Androgen': Một khi testosterone đạt trên mức tối thiểu bình thường, ham muốn tình dục được chi phối hoàn toàn bởi các yếu tố tâm lý, mối quan hệ và chất dẫn truyền thần kinh.
+
+> 💡 **Điểm Cốt Lõi & Hành Động Thực Tế (Key Takeaway):** Testosterone giống như dầu nhớt trong động cơ xe: Thiếu nhớt xe sẽ không chạy, nhưng đổ ngập nhớt không làm xe chạy nhanh hơn. Ngưỡng bão hòa của ham muốn thường rơi vào khoảng 300–350 ng/dL. Nếu bạn đã có mức T bình thường mà vẫn mất ham muốn, hãy tìm kiếm nguyên nhân ở giấc ngủ, stress, trầm cảm hoặc chất lượng mối quan hệ.
 
 ## Mô Hình Ngưỡng Bão Hòa Androgen (The Androgen Threshold Model)
 
@@ -63,14 +66,20 @@ Giải thích sinh học: Các thụ thể Androgen (AR) tại vùng dưới đ�
 
 ## Tài Liệu Tham Khảo & Nguồn Y Khoa
 
-1. **Finkelstein, J. S., Lee, H., Burnett-Bowie, S. A., et al. (2013).** *Gonadal steroids and body composition, strength, and sexual function in men.* New England Journal of Medicine, 369(11), 1011–1022. [Đọc trên NEJM ↗](https://pubmed.ncbi.nlm.nih.gov/24024838/)
-2. **Corona, G., Rastrelli, G., Vignozzi, L., & Maggi, M. (2014).** *Hypogonadism and sexual dysfunction: looking beyond the obvious.* European Urology Focus. [Đọc trên PubMed ↗](https://pubmed.ncbi.nlm.nih.gov/28720367/)
-3. **Buvat, J., Maggi, M., Guay, A., & Torres, L. O. (2013).** *Testosterone deficiency in men: systematic review and consensus recommendations for diagnosis and treatment.* The Journal of Sexual Medicine, 10(1), 245–284. [Đọc trên PubMed ↗](https://pubmed.ncbi.nlm.nih.gov/23016833/)
-4. **Kelleher, S., Conway, A. J., & Handelsman, D. J. (2004).** *Blood testosterone threshold for androgen replacement therapy in men with hypogonadal symptoms.* Clinical Endocrinology, 60(3), 380–386. [Đọc trên PubMed ↗](https://pubmed.ncbi.nlm.nih.gov/15009298/)
+1. **Finkelstein, J. S., Lee, H., Burnett-Bowie, S. A., et al. (2013).** *Gonadal steroids and body composition, strength, and sexual function in men.* New England Journal of Medicine, 369(11), 1011–1022. [Tạp chí NEJM (PMID: 24024838) ↗](https://pubmed.ncbi.nlm.nih.gov/24024838/)
+2. **Corona, G., Rastrelli, G., Vignozzi, L., & Maggi, M. (2014).** *Hypogonadism and sexual dysfunction: looking beyond the obvious.* European Urology Focus. [Tạp chí European Urology (PMID: 28720367) ↗](https://pubmed.ncbi.nlm.nih.gov/28720367/)
+3. **Buvat, J., Maggi, M., Guay, A., & Torres, L. O. (2013).** *Testosterone deficiency in men: systematic review and consensus recommendations for diagnosis and treatment.* The Journal of Sexual Medicine, 10(1), 245–284. [Báo Cáo Nghiên Cứu Gốc (NCBI PubMed: 23016833) ↗](https://pubmed.ncbi.nlm.nih.gov/23016833/)
+4. **Kelleher, S., Conway, A. J., & Handelsman, D. J. (2004).** *Blood testosterone threshold for androgen replacement therapy in men with hypogonadal symptoms.* Clinical Endocrinology, 60(3), 380–386. [Tạp chí Blood (PMID: 15009298) ↗](https://pubmed.ncbi.nlm.nih.gov/15009298/)
 
 ---
 
-## 🇬🇧 ENGLISH CONTENT
+## 🇬🇧 English Edition
+
+# Libido vs. Testosterone: Disentangling Biological Fuel from Psychosocial Catalysts
+
+> **Abstract (Sapo):** Many men assume that doubling their circulating serum testosterone will proportionally double their sexual drive. A groundbreaking dose-response clinical trial published in the New England Journal of Medicine established the 'Androgen Threshold Model': Once testosterone crosses the physiological floor, sexual desire is predominantly governed by neuropsychological, contextual, and relational catalysts.
+
+> 💡 **Key Takeaway & Clinical Action:** Testosterone functions like engine oil: without it, the motor seizes, but overfilling the reservoir does not boost horsepower. The receptor saturation threshold for libido hovers around 300–350 ng/dL. If your androgens are normal yet desire is absent, look to sleep debt, autonomic burnout, or relational dynamics.
 
 ## The Androgen Threshold Model: Why More Isn't Always Better
 

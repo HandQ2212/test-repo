@@ -1,18 +1,21 @@
-# Có Mức Ham Muốn Chuẩn Không? Mô Hình Hai Cơ Chế Kiểm Soát (Dual Control) & Tính Đa Dạng
-**Is There a Normal Sex Drive? The Dual Control Model of Sexual Excitation and Inhibition**
-
-> **Sapo (VI):** Bao nhiêu lần quan hệ mỗi tuần mới được coi là 'bình thường'? Câu hỏi này đã khiến vô số người đàn ông tự dằn vặt bản thân khi so sánh mình với bạn bè hoặc các chuẩn mực hư cấu trên phim ảnh. Mô hình kiểm soát kép mang tính cách mạng của Viện Kinsey chứng minh: Không tồn tại một con số chuẩn cho ham muốn tình dục; mỗi người đàn ông sở hữu một độ nhạy chân ga (Kích thích) và chân phanh (Ức chế) hoàn toàn độc bản.
-> 
-> **Lead (EN):** How many times per week constitutes a 'normal' sex drive? This query causes countless men immense anxiety through misguided comparisons against locker-room boasts and pornographic fiction. The groundbreaking Dual Control Model developed by the Kinsey Institute proves that no universal statistical quota exists: every individual possesses a distinct neurochemical accelerator and brake.
-
-> [!TIP]
-> 💡 **Điểm Cốt Lõi (Key Takeaway):** Ham muốn tình dục không phải là một con số cố định mà là một phổ sinh học linh hoạt. Phản ứng tình dục được điều khiển bởi hai cơ chế độc lập: Hệ Thống Kích Thích (SES - Chân Ga) và Hệ Thống Ức Chế (SIS - Chân Phanh). Thay vì cố gắng 'đạp thêm ga', bí quyết khơi dậy ham muốn thường nằm ở việc nhận diện và 'nhả chân phanh' (lo âu, mệt mỏi, bất an).
-> 
-> 💡 **Takeaway (EN):** Sexual desire is not a fixed quantitative metric but a dynamic neurobiological spectrum. Erotic response is governed by two independent central systems: Sexual Excitation (SES - Accelerator) and Sexual Inhibition (SIS - Brake). Rather than aggressively pressing the gas, revitalizing desire usually requires identifying and releasing the brake (stress, exhaustion, insecurity).
+# MW_SXO_04 - Có Mức Ham Muốn Chuẩn Không? Mô Hình Hai Cơ Chế Kiểm Soát (Dual Control) & Tính Đa Dạng
+**Category:** Men's Health 
+**Screen:** Sexology & Psychosexual Assessment Screen 
+**Metric:** Dual Control Model (SIS/SES), Contextual Arousal & Libido Diversity 
+**Reading Time:** 8 phút đọc / 8 min 
+**Hero Image:** ![Có Mức Ham Muốn Chuẩn Không? Mô Hình Hai Cơ Chế Kiểm Soát (Dual Control) & Tính Đa Dạng](images/DM_MH_03_hero.jpg) *(Source: [https://images.unsplash.com/photo-1517838277536-f5f99be501cd?auto=format&fit=crop&w=1200&q=85](https://images.unsplash.com/photo-1517838277536-f5f99be501cd?auto=format&fit=crop&w=1200&q=85))* 
+**Inline Figure:** ![Mô hình hai cơ chế kiểm soát (Dual Control Model): Ham muốn là sự cân bằng giữa chân ga kích thích (SES) và chân phanh ức chế (SIS) của hệ thần kinh trung ương.](images/LM_HW_01_figure.png) *(Source: [https://commons.wikimedia.org/wiki/File:Dual_control_model.svg](https://commons.wikimedia.org/wiki/File:Dual_control_model.svg))* 
+**Clinical Source:** [Kinsey Institute & Journal of Sex Research](https://pubmed.ncbi.nlm.nih.gov/10704733/) 
 
 ---
 
-## 🇻🇳 NỘI DUNG TIẾNG VIỆT
+## 🇻🇳 Phiên Bản Tiếng Việt (Vietnamese Edition)
+
+# Có Mức Ham Muốn Chuẩn Không? Mô Hình Hai Cơ Chế Kiểm Soát (Dual Control) & Tính Đa Dạng
+
+> **Tóm tắt (Sapo):** Bao nhiêu lần quan hệ mỗi tuần mới được coi là 'bình thường'? Câu hỏi này đã khiến vô số người đàn ông tự dằn vặt bản thân khi so sánh mình với bạn bè hoặc các chuẩn mực hư cấu trên phim ảnh. Mô hình kiểm soát kép mang tính cách mạng của Viện Kinsey chứng minh: Không tồn tại một con số chuẩn cho ham muốn tình dục; mỗi người đàn ông sở hữu một độ nhạy chân ga (Kích thích) và chân phanh (Ức chế) hoàn toàn độc bản.
+
+> 💡 **Điểm Cốt Lõi & Hành Động Thực Tế (Key Takeaway):** Ham muốn tình dục không phải là một con số cố định mà là một phổ sinh học linh hoạt. Phản ứng tình dục được điều khiển bởi hai cơ chế độc lập: Hệ Thống Kích Thích (SES - Chân Ga) và Hệ Thống Ức Chế (SIS - Chân Phanh). Thay vì cố gắng 'đạp thêm ga', bí quyết khơi dậy ham muốn thường nằm ở việc nhận diện và 'nhả chân phanh' (lo âu, mệt mỏi, bất an).
 
 ## Phá Bỏ Áp Lực Con Số: Không Có Mức Ham Muốn Chuẩn Mực
 
@@ -68,14 +71,20 @@ Dựa trên sự kết hợp giữa độ nhạy của Chân Ga và Chân Phanh,
 
 ## Tài Liệu Tham Khảo & Nguồn Y Khoa
 
-1. **Bancroft, J., & Janssen, E. (2000).** *The dual control model of male sexual response: a theoretical approach to centrally mediated erectile dysfunction.* Neuroscience & Biobehavioral Reviews, 24(5), 571–579. [Đọc trên PubMed ↗](https://pubmed.ncbi.nlm.nih.gov/10704733/)
-2. **Janssen, E., Vorst, H., Finn, P., & Bancroft, J. (2002).** *The Sexual Inhibition (SIS) and Sexual Excitation (SES) Scales: I. Measuring individual differences in nonclinical samples.* Journal of Sex Research, 39(2), 114–126. [Đọc trên PubMed ↗](https://pubmed.ncbi.nlm.nih.gov/12476255/)
-3. **Nagoski, E. (2015).** *Come as You Are: The Surprising New Science that Will Transform Your Sex Life.* Simon and Schuster. [Đọc trên Nhà xuất bản ↗](https://www.simonandschuster.com/books/Come-as-You-Are/Emily-Nagoski/9781476762098)
-4. **Perelman, M. A. (2009).** *The sexual tipping point: a mind-body model for recovering sexual function.* The Journal of Sexual Medicine. [Đọc trên PubMed ↗](https://pubmed.ncbi.nlm.nih.gov/19453930/)
+1. **Bancroft, J., & Janssen, E. (2000).** *The dual control model of male sexual response: a theoretical approach to centrally mediated erectile dysfunction.* Neuroscience & Biobehavioral Reviews, 24(5), 571–579. [Tạp chí Neuroscience & Biobehavioral Reviews (PMID: 10704733) ↗](https://pubmed.ncbi.nlm.nih.gov/10704733/)
+2. **Janssen, E., Vorst, H., Finn, P., & Bancroft, J. (2002).** *The Sexual Inhibition (SIS) and Sexual Excitation (SES) Scales: I. Measuring individual differences in nonclinical samples.* Journal of Sex Research, 39(2), 114–126. [Báo Cáo Nghiên Cứu Gốc (NCBI PubMed: 12476255) ↗](https://pubmed.ncbi.nlm.nih.gov/12476255/)
+3. **Nagoski, E. (2015).** *Come as You Are: The Surprising New Science that Will Transform Your Sex Life.* Simon and Schuster. [Tài Liệu Nghiên Cứu Gốc Xác Thực ↗](https://www.simonandschuster.com/books/Come-as-You-Are/Emily-Nagoski/9781476762098)
+4. **Perelman, M. A. (2009).** *The sexual tipping point: a mind-body model for recovering sexual function.* The Journal of Sexual Medicine. [Báo Cáo Nghiên Cứu Gốc (NCBI PubMed: 19453930) ↗](https://pubmed.ncbi.nlm.nih.gov/19453930/)
 
 ---
 
-## 🇬🇧 ENGLISH CONTENT
+## 🇬🇧 English Edition
+
+# Is There a Normal Sex Drive? The Dual Control Model of Sexual Excitation and Inhibition
+
+> **Abstract (Sapo):** How many times per week constitutes a 'normal' sex drive? This query causes countless men immense anxiety through misguided comparisons against locker-room boasts and pornographic fiction. The groundbreaking Dual Control Model developed by the Kinsey Institute proves that no universal statistical quota exists: every individual possesses a distinct neurochemical accelerator and brake.
+
+> 💡 **Key Takeaway & Clinical Action:** Sexual desire is not a fixed quantitative metric but a dynamic neurobiological spectrum. Erotic response is governed by two independent central systems: Sexual Excitation (SES - Accelerator) and Sexual Inhibition (SIS - Brake). Rather than aggressively pressing the gas, revitalizing desire usually requires identifying and releasing the brake (stress, exhaustion, insecurity).
 
 ## Shattering the Performance Quota: No Universal Metric Exists
 

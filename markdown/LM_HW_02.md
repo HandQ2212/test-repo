@@ -1,22 +1,21 @@
-# 🇻🇳 Điểm Thể Lực Tim Mạch & VO2 Max: Vì Sao Mức Hấp Thụ Oxy Tối Đa Là Chỉ Số Dự Báo Tuổi Thọ Số 1
-# 🇬🇧 Cardio Fitness Score & VO2 Max: Why Maximal Oxygen Uptake Is the #1 Predictor of Longevity
-
-- **Article ID:** `LM_HW_02`
-- **Category:** Health & Wellness — Cardio Fitness Score / VO2 Max
-- **Content Type:** Learn more
-- **Mapped App Screen & Metric:** `Health & Wellness Screen` (`Cardio Fitness Score (VO2 Max)`)
-- **Reading Time:** 9 phút đọc / 9 min
-- **Local Hero Photo:** `images/LM_HW_02_hero.jpg` ([Original Photo Source ↗](https://images.unsplash.com/photo-1538805060514-97d9cc17730c?auto=format&fit=crop&w=1200&q=85))
-- **Local Medical Figure:** `images/LM_HW_02_figure.jpg` ([Original Wikimedia Commons Source ↗](https://commons.wikimedia.org/wiki/File:Ergospirometry_laboratory.jpg))
-- **Primary Clinical & Wearable Source:** [JAMA Network Open (Mandsager et al., 2018 — Cleveland Clinic) & AHA Scientific Statement](https://pubmed.ncbi.nlm.nih.gov/30646022/)
+# LM_HW_02 - Điểm Thể Lực Tim Mạch & VO2 Max: Vì Sao Mức Hấp Thụ Oxy Tối Đa Là Chỉ Số Dự Báo Tuổi Thọ Số 1
+**Category:** Health & Wellness 
+**Screen:** Health & Wellness Screen 
+**Metric:** Cardio Fitness Score (VO2 Max) 
+**Reading Time:** 9 phút đọc / 9 min 
+**Hero Image:** ![Điểm Thể Lực Tim Mạch & VO2 Max: Vì Sao Mức Hấp Thụ Oxy Tối Đa Là Chỉ Số Dự Báo Tuổi Thọ Số 1](images/LM_HW_02_hero.jpg) *(Source: [https://images.unsplash.com/photo-1538805060514-97d9cc17730c?auto=format&fit=crop&w=1200&q=85](https://images.unsplash.com/photo-1538805060514-97d9cc17730c?auto=format&fit=crop&w=1200&q=85))* 
+**Inline Figure:** ![Phương pháp Đo Hô hấp Gắng sức Tim Phổi tiêu chuẩn vàng trong phòng thí nghiệm (Ergospirometry / CPET), đo lường trực tiếp mức hấp thụ oxy tối đa (VO2 Max) và lượng khí CO₂ thở ra qua từng nhịp thở trên máy chạy bộ.](images/LM_HW_02_figure.jpg) *(Source: [https://commons.wikimedia.org/wiki/File:Ergospirometry_laboratory.jpg](https://commons.wikimedia.org/wiki/File:Ergospirometry_laboratory.jpg))* 
+**Clinical Source:** [JAMA Network Open (Mandsager et al., 2018 — Cleveland Clinic) & AHA Scientific Statement](https://pubmed.ncbi.nlm.nih.gov/30646022/) 
 
 ---
 
-## 🇻🇳 BẢN TIẾNG VIỆT
+## 🇻🇳 Phiên Bản Tiếng Việt (Vietnamese Edition)
 
-> **Tóm tắt:** Trong các nghiên cứu lâm sàng trên hơn 122.000 người trưởng thành, chỉ số VO2 Max được chứng minh là yếu tố dự báo tuổi thọ mạnh mẽ hơn cả hút thuốc lá, cao huyết áp hay tiểu đường. Tìm hiểu cách Phương trình Fick quyết định trần hấp thụ oxy của cơ thể, cách đồng hồ thông minh ước tính VO2 Max không cần mặt nạ phòng thí nghiệm, và lộ trình nâng điểm bằng Zone 2 kết hợp bài tập biến tốc Na Uy 4x4.
+# Điểm Thể Lực Tim Mạch & VO2 Max: Vì Sao Mức Hấp Thụ Oxy Tối Đa Là Chỉ Số Dự Báo Tuổi Thọ Số 1
 
-> 💡 **Điểm Cốt Lõi & Hành Động Thực Tế:** Chỉ số VO2 Max (đo bằng mL/kg/phút) tích hợp công suất bơm của tim, trao đổi khí tại phổi và mật độ ti thể cơ bắp thành một thước đo tuổi thọ duy nhất. Chỉ cần bước từ nhóm 25% thấp nhất lên nhóm Trên Trung Bình theo độ tuổi, bạn đã giảm được 50% nguy cơ tử vong do mọi nguyên nhân.
+> **Tóm tắt (Sapo):** Trong các nghiên cứu lâm sàng trên hơn 122.000 người trưởng thành, chỉ số VO2 Max được chứng minh là yếu tố dự báo tuổi thọ mạnh mẽ hơn cả hút thuốc lá, cao huyết áp hay tiểu đường. Tìm hiểu cách Phương trình Fick quyết định trần hấp thụ oxy của cơ thể, cách đồng hồ thông minh ước tính VO2 Max không cần mặt nạ phòng thí nghiệm, và lộ trình nâng điểm bằng Zone 2 kết hợp bài tập biến tốc Na Uy 4x4.
+
+> 💡 **Điểm Cốt Lõi & Hành Động Thực Tế (Key Takeaway):** Chỉ số VO2 Max (đo bằng mL/kg/phút) tích hợp công suất bơm của tim, trao đổi khí tại phổi và mật độ ti thể cơ bắp thành một thước đo tuổi thọ duy nhất. Chỉ cần bước từ nhóm 25% thấp nhất lên nhóm Trên Trung Bình theo độ tuổi, bạn đã giảm được 50% nguy cơ tử vong do mọi nguyên nhân.
 
 ## Chỉ Số VO₂ Max (Điểm Thể Lực Tim Mạch) Là Gì?
 
@@ -92,18 +91,20 @@ Trong một thử nghiệm lâm sàng nổi tiếng công bố trên *Medicine &
 
 ## Tài Liệu Tham Khảo & Nguồn Y Khoa
 
-1. **Mandsager, K., Harb, S., Cremer, P., Phelan, D., Nissen, S. E., & Jaber, W. (2018).** *Association of Cardiorespiratory Fitness With Long-term Mortality Among Adults Undergoing Exercise Treadmill Testing.* JAMA Network Open, 1(6), e183605. [https://pubmed.ncbi.nlm.nih.gov/30646022/](https://pubmed.ncbi.nlm.nih.gov/30646022/)
-2. **Helgerud, J., Høydal, K., Wang, E., Karlsen, T., Berg, P., Bjerkaas, M., ... & Hoff, J. (2007).** *Aerobic high-intensity intervals improve VO2max more than moderate training.* Medicine & Science in Sports & Exercise, 39(4), 665–671. [https://pubmed.ncbi.nlm.nih.gov/17414804/](https://pubmed.ncbi.nlm.nih.gov/17414804/)
-3. **Ross, R., Blair, S. N., Arena, R., Church, T. S., Després, J. P., Franklin, B. A., ... & Wisløff, U. (2016).** *Importance of Assessing Cardiorespiratory Fitness in Clinical Practice: A Case for Fitness as a Clinical Vital Sign: A Scientific Statement From the American Heart Association.* Circulation, 134(24), e653–e699. [https://pubmed.ncbi.nlm.nih.gov/27881567/](https://pubmed.ncbi.nlm.nih.gov/27881567/)
-4. **Garmin Health Science.** *VO2 Max: What It Is & How Garmin Firstbeat Calculates Your Cardiorespiratory Fitness.* [https://www.garmin.com/en-US/garmin-technology/running-science/physiological-measurements/vo2-max/](https://www.garmin.com/en-US/garmin-technology/running-science/physiological-measurements/vo2-max/)
+1. **Mandsager, K., Harb, S., Cremer, P., Phelan, D., Nissen, S. E., & Jaber, W. (2018).** *Association of Cardiorespiratory Fitness With Long-term Mortality Among Adults Undergoing Exercise Treadmill Testing.* JAMA Network Open, 1(6), e183605. [Báo Cáo Nghiên Cứu Gốc (NCBI PubMed: 30646022) ↗](https://pubmed.ncbi.nlm.nih.gov/30646022/)
+2. **Helgerud, J., Høydal, K., Wang, E., Karlsen, T., Berg, P., Bjerkaas, M., ... & Hoff, J. (2007).** *Aerobic high-intensity intervals improve VO2max more than moderate training.* Medicine & Science in Sports & Exercise, 39(4), 665–671. [Báo Cáo Nghiên Cứu Gốc (NCBI PubMed: 17414804) ↗](https://pubmed.ncbi.nlm.nih.gov/17414804/)
+3. **Ross, R., Blair, S. N., Arena, R., Church, T. S., Després, J. P., Franklin, B. A., ... & Wisløff, U. (2016).** *Importance of Assessing Cardiorespiratory Fitness in Clinical Practice: A Case for Fitness as a Clinical Vital Sign: A Scientific Statement From the American Heart Association.* Circulation, 134(24), e653–e699. [Báo Cáo Nghiên Cứu Gốc (NCBI PubMed: 27881567) ↗](https://pubmed.ncbi.nlm.nih.gov/27881567/)
+4. **Garmin Health Science.** *VO2 Max: What It Is & How Garmin Firstbeat Calculates Your Cardiorespiratory Fitness.* [Cổng Khoa Học Garmin Health Science ↗](https://www.garmin.com/en-US/garmin-technology/running-science/physiological-measurements/vo2-max/)
 
 ---
 
-## 🇬🇧 ENGLISH VERSION
+## 🇬🇧 English Edition
 
-> **Executive Summary:** In clinical studies of over 122,000 adults, VO2 Max proved to be a stronger predictor of long-term survival than smoking, hypertension, or diabetes. Learn how the Fick Equation governs your oxygen ceiling, how smartwatches estimate VO2 Max without a lab mask, and how to raise your score using Zone 2 + Norwegian 4x4 intervals.
+# Cardio Fitness Score & VO2 Max: Why Maximal Oxygen Uptake Is the #1 Predictor of Longevity
 
-> 💡 **Key Actionable Takeaway:** VO2 Max (measured in mL/kg/min) integrates your heart's pump capacity, lung gas exchange, and muscle mitochondrial density into a single longevity metric. Moving from the Bottom 25% of VO2 Max for your age into the Above-Average tier cuts all-cause mortality risk by 50%.
+> **Abstract (Sapo):** In clinical studies of over 122,000 adults, VO2 Max proved to be a stronger predictor of long-term survival than smoking, hypertension, or diabetes. Learn how the Fick Equation governs your oxygen ceiling, how smartwatches estimate VO2 Max without a lab mask, and how to raise your score using Zone 2 + Norwegian 4x4 intervals.
+
+> 💡 **Key Takeaway & Clinical Action:** VO2 Max (measured in mL/kg/min) integrates your heart's pump capacity, lung gas exchange, and muscle mitochondrial density into a single longevity metric. Moving from the Bottom 25% of VO2 Max for your age into the Above-Average tier cuts all-cause mortality risk by 50%.
 
 ## What Is VO₂ Max (Cardio Fitness Score)?
 
@@ -179,7 +180,7 @@ In a landmark clinical trial published in *Medicine & Science in Sports & Exerci
 
 ## References & Clinical Sources
 
-1. **Mandsager, K., Harb, S., Cremer, P., Phelan, D., Nissen, S. E., & Jaber, W. (2018).** *Association of Cardiorespiratory Fitness With Long-term Mortality Among Adults Undergoing Exercise Treadmill Testing.* JAMA Network Open, 1(6), e183605. [https://pubmed.ncbi.nlm.nih.gov/30646022/](https://pubmed.ncbi.nlm.nih.gov/30646022/)
-2. **Helgerud, J., Høydal, K., Wang, E., Karlsen, T., Berg, P., Bjerkaas, M., ... & Hoff, J. (2007).** *Aerobic high-intensity intervals improve VO2max more than moderate training.* Medicine & Science in Sports & Exercise, 39(4), 665–671. [https://pubmed.ncbi.nlm.nih.gov/17414804/](https://pubmed.ncbi.nlm.nih.gov/17414804/)
-3. **Ross, R., Blair, S. N., Arena, R., Church, T. S., Després, J. P., Franklin, B. A., ... & Wisløff, U. (2016).** *Importance of Assessing Cardiorespiratory Fitness in Clinical Practice: A Case for Fitness as a Clinical Vital Sign: A Scientific Statement From the American Heart Association.* Circulation, 134(24), e653–e699. [https://pubmed.ncbi.nlm.nih.gov/27881567/](https://pubmed.ncbi.nlm.nih.gov/27881567/)
-4. **Garmin Health Science.** *VO2 Max: What It Is & How Garmin Firstbeat Calculates Your Cardiorespiratory Fitness.* [https://www.garmin.com/en-US/garmin-technology/running-science/physiological-measurements/vo2-max/](https://www.garmin.com/en-US/garmin-technology/running-science/physiological-measurements/vo2-max/)
+1. **Mandsager, K., Harb, S., Cremer, P., Phelan, D., Nissen, S. E., & Jaber, W. (2018).** *Association of Cardiorespiratory Fitness With Long-term Mortality Among Adults Undergoing Exercise Treadmill Testing.* JAMA Network Open, 1(6), e183605. [Original Study Report (NCBI PubMed: 30646022) ↗](https://pubmed.ncbi.nlm.nih.gov/30646022/)
+2. **Helgerud, J., Høydal, K., Wang, E., Karlsen, T., Berg, P., Bjerkaas, M., ... & Hoff, J. (2007).** *Aerobic high-intensity intervals improve VO2max more than moderate training.* Medicine & Science in Sports & Exercise, 39(4), 665–671. [Original Study Report (NCBI PubMed: 17414804) ↗](https://pubmed.ncbi.nlm.nih.gov/17414804/)
+3. **Ross, R., Blair, S. N., Arena, R., Church, T. S., Després, J. P., Franklin, B. A., ... & Wisløff, U. (2016).** *Importance of Assessing Cardiorespiratory Fitness in Clinical Practice: A Case for Fitness as a Clinical Vital Sign: A Scientific Statement From the American Heart Association.* Circulation, 134(24), e653–e699. [Original Study Report (NCBI PubMed: 27881567) ↗](https://pubmed.ncbi.nlm.nih.gov/27881567/)
+4. **Garmin Health Science.** *VO2 Max: What It Is & How Garmin Firstbeat Calculates Your Cardiorespiratory Fitness.* [Garmin Health Science Portal ↗](https://www.garmin.com/en-US/garmin-technology/running-science/physiological-measurements/vo2-max/)

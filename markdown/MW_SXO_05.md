@@ -1,18 +1,21 @@
-# Khoa Học Cực Khoái & Xuất Tinh: Hai Cơ Chế Thần Kinh Riêng Biệt & Thời Kỳ Trơ Sinh Lý
-**The Neurobiology of Orgasm and Ejaculation: Divergent Pathways & The Refractory Period**
-
-> **Sapo (VI):** Đối với hầu hết nam giới, cực khoái và xuất tinh dường như xảy ra đồng thời trong một khoảnh khắc duy nhất, khiến hai khái niệm này thường bị đánh đồng làm một. Tuy nhiên, trong sinh lý học thần kinh, Cực Khoái (Orgasm) là một sự kiện cảm giác diễn ra tại não bộ, trong khi Xuất Tinh (Ejaculation) là một phản xạ vận động cơ học tại tủy sống. Khám phá cơ chế phân kỳ của hai hiện tượng này và bí ẩn sinh học của 'Thời kỳ trơ' (Refractory Period) sau khi đạt đỉnh.
-> 
-> **Lead (EN):** To most men, orgasm and ejaculation appear fused into a singular synchronous event, causing widespread conflation of the two terms. Yet in neurobiology, Orgasm is a complex sensory-cerebral cognitive event processed within the brain's reward matrix, whereas Ejaculation is a discrete neuromuscular spinal reflex. Discover the divergent pathways of climax and the biological imperative behind the post-ejaculatory Refractory Period.
-
-> [!TIP]
-> 💡 **Điểm Cốt Lõi (Key Takeaway):** Xuất tinh gồm 2 giai đoạn thần kinh: Tiết tinh dịch (Emission - chi phối bởi giao cảm T10–L2) và Tống xuất tinh dịch (Expulsion - co thắt cơ hành hang nhịp 0.8s chi phối bởi thần kinh thẹn S2–S4). Sau khi xuất tinh, hormone Prolactin tăng vọt để tắt ham muốn và đưa cơ thể vào thời kỳ trơ sinh lý nhằm bảo vệ hệ tim mạch khỏi kiệt sức.
-> 
-> 💡 **Takeaway (EN):** Ejaculation comprises two distinct phases: Emission (sympathetic T10–L2) and Expulsion (somatic rhythmic 0.8s bulbospongiosus contractions via pudendal S2–S4). Post-climax, a massive neuroendocrine surge of Prolactin shuts down central dopamine, enforcing the biological Refractory Period to safeguard the cardiovascular system.
+# MW_SXO_05 - Khoa Học Cực Khoái & Xuất Tinh: Hai Cơ Chế Thần Kinh Riêng Biệt & Thời Kỳ Trơ Sinh Lý
+**Category:** Men's Health 
+**Screen:** Sexology & Autonomic Reflex Screen 
+**Metric:** Spinal Ejaculatory Generator, Prolactin Surge & Refractory Period 
+**Reading Time:** 8 phút đọc / 8 min 
+**Hero Image:** ![Khoa Học Cực Khoái & Xuất Tinh: Hai Cơ Chế Thần Kinh Riêng Biệt & Thời Kỳ Trơ Sinh Lý](images/DM_MH_01_hero.jpg) *(Source: [https://images.unsplash.com/photo-1517838277536-f5f99be501cd?auto=format&fit=crop&w=1200&q=85](https://images.unsplash.com/photo-1517838277536-f5f99be501cd?auto=format&fit=crop&w=1200&q=85))* 
+**Inline Figure:** ![Cung phản xạ xuất tinh và cơ sàn chậu: Các co bóp nhịp nhàng của cơ hành hang (Bulbospongiosus) cách nhau 0.8 giây tống xuất tinh dịch, trong khi khoái cảm cực khoái được giải mã tại vùng dưới đồi não bộ.](images/DM_MH_01_figure.png) *(Source: [https://commons.wikimedia.org/wiki/File:Pelvic_floor_male.svg](https://commons.wikimedia.org/wiki/File:Pelvic_floor_male.svg))* 
+**Clinical Source:** [Neuroscience & Biobehavioral Reviews & World Journal of Urology](https://pubmed.ncbi.nlm.nih.gov/12470685/) 
 
 ---
 
-## 🇻🇳 NỘI DUNG TIẾNG VIỆT
+## 🇻🇳 Phiên Bản Tiếng Việt (Vietnamese Edition)
+
+# Khoa Học Cực Khoái & Xuất Tinh: Hai Cơ Chế Thần Kinh Riêng Biệt & Thời Kỳ Trơ Sinh Lý
+
+> **Tóm tắt (Sapo):** Đối với hầu hết nam giới, cực khoái và xuất tinh dường như xảy ra đồng thời trong một khoảnh khắc duy nhất, khiến hai khái niệm này thường bị đánh đồng làm một. Tuy nhiên, trong sinh lý học thần kinh, Cực Khoái (Orgasm) là một sự kiện cảm giác diễn ra tại não bộ, trong khi Xuất Tinh (Ejaculation) là một phản xạ vận động cơ học tại tủy sống. Khám phá cơ chế phân kỳ của hai hiện tượng này và bí ẩn sinh học của 'Thời kỳ trơ' (Refractory Period) sau khi đạt đỉnh.
+
+> 💡 **Điểm Cốt Lõi & Hành Động Thực Tế (Key Takeaway):** Xuất tinh gồm 2 giai đoạn thần kinh: Tiết tinh dịch (Emission - chi phối bởi giao cảm T10–L2) và Tống xuất tinh dịch (Expulsion - co thắt cơ hành hang nhịp 0.8s chi phối bởi thần kinh thẹn S2–S4). Sau khi xuất tinh, hormone Prolactin tăng vọt để tắt ham muốn và đưa cơ thể vào thời kỳ trơ sinh lý nhằm bảo vệ hệ tim mạch khỏi kiệt sức.
 
 ## Giải Mã Sự Khác Biệt: Cực Khoái (Não) vs. Xuất Tinh (Tủy Sống)
 
@@ -63,14 +66,20 @@ Câu trả lời nằm ở hormone **Prolactin**:
 
 ## Tài Liệu Tham Khảo & Nguồn Y Khoa
 
-1. **Komisaruk, B. R., & Whipple, B. (2005).** *Functional neuroimaging of the brain during orgasm in women and men.* Neuroscience & Biobehavioral Reviews. [Đọc trên PubMed ↗](https://pubmed.ncbi.nlm.nih.gov/15925412/)
-2. **Kruger, T. H., et al. (2002).** *Neuroendocrine and cardiovascular response to sexual arousal and orgasm in men.* Psychoneuroendocrinology, 27(3), 357–371. [Đọc trên PubMed ↗](https://pubmed.ncbi.nlm.nih.gov/11818171/)
-3. **Levin, R. J. (2002).** *The physiology of male orgasm and ejaculation: new advances and classic findings.* World Journal of Urology, 20(2), 79–86. [Đọc trên Springer ↗](https://doi.org/10.1007/s00345-002-0268-x)
-4. **Coolen, L. M. (2005).** *Neural control of ejaculation.* The Journal of Comparative Neurology, 493(1), 39–45. [Đọc trên PubMed ↗](https://pubmed.ncbi.nlm.nih.gov/16254992/)
+1. **Komisaruk, B. R., & Whipple, B. (2005).** *Functional neuroimaging of the brain during orgasm in women and men.* Neuroscience & Biobehavioral Reviews. [Tạp chí Neuroscience & Biobehavioral Reviews (PMID: 15925412) ↗](https://pubmed.ncbi.nlm.nih.gov/15925412/)
+2. **Kruger, T. H., et al. (2002).** *Neuroendocrine and cardiovascular response to sexual arousal and orgasm in men.* Psychoneuroendocrinology, 27(3), 357–371. [Báo Cáo Nghiên Cứu Gốc (NCBI PubMed: 11818171) ↗](https://pubmed.ncbi.nlm.nih.gov/11818171/)
+3. **Levin, R. J. (2002).** *The physiology of male orgasm and ejaculation: new advances and classic findings.* World Journal of Urology, 20(2), 79–86. [Tạp chí Springer ↗](https://doi.org/10.1007/s00345-002-0268-x)
+4. **Coolen, L. M. (2005).** *Neural control of ejaculation.* The Journal of Comparative Neurology, 493(1), 39–45. [Báo Cáo Nghiên Cứu Gốc (NCBI PubMed: 16254992) ↗](https://pubmed.ncbi.nlm.nih.gov/16254992/)
 
 ---
 
-## 🇬🇧 ENGLISH CONTENT
+## 🇬🇧 English Edition
+
+# The Neurobiology of Orgasm and Ejaculation: Divergent Pathways & The Refractory Period
+
+> **Abstract (Sapo):** To most men, orgasm and ejaculation appear fused into a singular synchronous event, causing widespread conflation of the two terms. Yet in neurobiology, Orgasm is a complex sensory-cerebral cognitive event processed within the brain's reward matrix, whereas Ejaculation is a discrete neuromuscular spinal reflex. Discover the divergent pathways of climax and the biological imperative behind the post-ejaculatory Refractory Period.
+
+> 💡 **Key Takeaway & Clinical Action:** Ejaculation comprises two distinct phases: Emission (sympathetic T10–L2) and Expulsion (somatic rhythmic 0.8s bulbospongiosus contractions via pudendal S2–S4). Post-climax, a massive neuroendocrine surge of Prolactin shuts down central dopamine, enforcing the biological Refractory Period to safeguard the cardiovascular system.
 
 ## Defining the Disconnect: Orgasm (Brain) vs. Ejaculation (Spinal Cord)
 

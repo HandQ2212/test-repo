@@ -1,22 +1,21 @@
-# 🇻🇳 Giải Mã Các Giai Đoạn Giấc Ngủ: Ngủ Nông, Ngủ Sâu Và REM Tái Tạo Cơ Thể & Não Bộ Ra Sao?
-# 🇬🇧 Sleep Stages Explained: What Light, Deep, and REM Sleep Do for Your Body and Brain
-
-- **Article ID:** `LM_SL_02`
-- **Category:** Sleep — Deep vs. REM Sleep
-- **Content Type:** Learn more
-- **Mapped App Screen & Metric:** `Sleep Screen` (`Sleep Stages (Deep & REM)`)
-- **Reading Time:** 9 phút đọc / 9 min
-- **Local Hero Photo:** `images/LM_SL_02_hero.jpg` ([Original Photo Source ↗](https://images.unsplash.com/photo-1511295742362-92c96b1cf484?auto=format&fit=crop&w=1200&q=85))
-- **Local Medical Figure:** `images/LM_SL_02_figure.png` ([Original Wikimedia Commons Source ↗](https://commons.wikimedia.org/wiki/File:Sleep_Hypnogram.svg))
-- **Primary Clinical & Wearable Source:** [Science (Xie et al., 2013) & NCBI StatPearls / WHOOP & Oura Science](https://pubmed.ncbi.nlm.nih.gov/24136970/)
+# LM_SL_02 - Giải Mã Các Giai Đoạn Giấc Ngủ: Ngủ Nông, Ngủ Sâu Và REM Tái Tạo Cơ Thể & Não Bộ Ra Sao?
+**Category:** Sleep 
+**Screen:** Sleep Screen 
+**Metric:** Sleep Stages (Deep & REM) 
+**Reading Time:** 9 phút đọc / 9 min 
+**Hero Image:** ![Giải Mã Các Giai Đoạn Giấc Ngủ: Ngủ Nông, Ngủ Sâu Và REM Tái Tạo Cơ Thể & Não Bộ Ra Sao?](images/LM_SL_02_hero.jpg) *(Source: [https://images.unsplash.com/photo-1511295742362-92c96b1cf484?auto=format&fit=crop&w=1200&q=85](https://images.unsplash.com/photo-1511295742362-92c96b1cf484?auto=format&fit=crop&w=1200&q=85))* 
+**Inline Figure:** ![Biểu đồ cấu trúc giấc ngủ (Hypnogram) lâm sàng trong 8 giờ, minh họa rõ Giấc ngủ Sâu sóng chậm (Giai đoạn 3–4) chiếm ưu thế ở hai chu kỳ 90 phút đầu đêm, trong khi các khối Giấc ngủ REM kéo dài dần về phía rạng sáng.](images/LM_SL_02_figure.png) *(Source: [https://commons.wikimedia.org/wiki/File:Sleep_Hypnogram.svg](https://commons.wikimedia.org/wiki/File:Sleep_Hypnogram.svg))* 
+**Clinical Source:** [Science (Xie et al., 2013) & NCBI StatPearls / WHOOP & Oura Science](https://pubmed.ncbi.nlm.nih.gov/24136970/) 
 
 ---
 
-## 🇻🇳 BẢN TIẾNG VIỆT
+## 🇻🇳 Phiên Bản Tiếng Việt (Vietnamese Edition)
 
-> **Tóm tắt:** Mỗi đêm, não bộ trải qua các chu kỳ 90 phút được lập trình chặt chẽ giữa Ngủ Nông (Light), Ngủ Sâu (Deep) và Ngủ Mơ (REM). Hãy khám phá cách thiết bị đeo nhận diện từng giai đoạn, tại sao Ngủ Sâu chiếm ưu thế đầu đêm trong khi REM bùng nổ vào rạng sáng, và cách đọc biểu đồ giấc ngủ (Hypnogram).
+# Giải Mã Các Giai Đoạn Giấc Ngủ: Ngủ Nông, Ngủ Sâu Và REM Tái Tạo Cơ Thể & Não Bộ Ra Sao?
 
-> 💡 **Điểm Cốt Lõi & Hành Động Thực Tế:** Giấc ngủ Sâu và REM không phân bổ đều suốt đêm. Gần 75% thời lượng Ngủ Sâu phục hồi thể chất diễn ra trong 3–4 giờ đầu tiên, trong khi các chu kỳ REM dài nhất giúp phục hồi trí não lại nằm ở 2 giờ cuối trước khi thức dậy. Thức khuya 2 tiếng làm mất Ngủ Sâu; dậy sớm 2 tiếng cắt đi một nửa lượng REM.
+> **Tóm tắt (Sapo):** Mỗi đêm, não bộ trải qua các chu kỳ 90 phút được lập trình chặt chẽ giữa Ngủ Nông (Light), Ngủ Sâu (Deep) và Ngủ Mơ (REM). Hãy khám phá cách thiết bị đeo nhận diện từng giai đoạn, tại sao Ngủ Sâu chiếm ưu thế đầu đêm trong khi REM bùng nổ vào rạng sáng, và cách đọc biểu đồ giấc ngủ (Hypnogram).
+
+> 💡 **Điểm Cốt Lõi & Hành Động Thực Tế (Key Takeaway):** Giấc ngủ Sâu và REM không phân bổ đều suốt đêm. Gần 75% thời lượng Ngủ Sâu phục hồi thể chất diễn ra trong 3–4 giờ đầu tiên, trong khi các chu kỳ REM dài nhất giúp phục hồi trí não lại nằm ở 2 giờ cuối trước khi thức dậy. Thức khuya 2 tiếng làm mất Ngủ Sâu; dậy sớm 2 tiếng cắt đi một nửa lượng REM.
 
 ## Giấc Ngủ Không Phải Là Trạng Thái Tắt Nguồn Thụ Động—Đó Là Chu Kỳ 90 Phút Năng Động
 
@@ -91,18 +90,20 @@ Bởi vì **Giấc Ngủ Sâu** tập trung ở nửa đầu của đêm (khoả
 
 ## Tài Liệu Tham Khảo & Nguồn Y Khoa
 
-1. **Xie, L., Kang, H., Xu, Q., Chen, M. J., Liao, Y., Thiyagarajan, M., ... & Nedergaard, M. (2013).** *Sleep drives metabolite clearance from the adult brain.* Science, 342(6156), 373–377. [https://pubmed.ncbi.nlm.nih.gov/24136970/](https://pubmed.ncbi.nlm.nih.gov/24136970/)
-2. **Patel, A. K., Reddy, V., Shumway, K. R., & Araujo, J. F. (2024).** *Physiology, Sleep Stages.* In StatPearls [Internet]. National Center for Biotechnology Information (NCBI). [https://www.ncbi.nlm.nih.gov/books/NBK526132/](https://www.ncbi.nlm.nih.gov/books/NBK526132/)
-3. **WHOOP The Locker.** *What Are the Stages of Sleep? How to Track and Improve Light, Deep & REM Sleep.* [https://www.whoop.com/us/en/thelocker/stages-of-sleep/](https://www.whoop.com/us/en/thelocker/stages-of-sleep/)
-4. **Oura Ring Pulse Blog.** *The 4 Stages of Sleep: What Happens in Each Stage.* [https://ouraring.com/blog/sleep-stages/](https://ouraring.com/blog/sleep-stages/)
+1. **Xie, L., Kang, H., Xu, Q., Chen, M. J., Liao, Y., Thiyagarajan, M., ... & Nedergaard, M. (2013).** *Sleep drives metabolite clearance from the adult brain.* Science, 342(6156), 373–377. [Báo Cáo Nghiên Cứu Gốc (NCBI PubMed: 24136970) ↗](https://pubmed.ncbi.nlm.nih.gov/24136970/)
+2. **Patel, A. K., Reddy, V., Shumway, K. R., & Araujo, J. F. (2024).** *Physiology, Sleep Stages.* In StatPearls [Internet]. National Center for Biotechnology Information (NCBI). [Tài Liệu Gốc Xác Thực ↗](https://www.ncbi.nlm.nih.gov/books/NBK526132/)
+3. **WHOOP The Locker.** *What Are the Stages of Sleep? How to Track and Improve Light, Deep & REM Sleep.* [Tạp Chí Khoa Học WHOOP The Locker ↗](https://www.whoop.com/us/en/thelocker/stages-of-sleep/)
+4. **Oura Ring Pulse Blog.** *The 4 Stages of Sleep: What Happens in Each Stage.* [Cổng Nghiên Cứu Oura Ring Science ↗](https://ouraring.com/blog/sleep-stages/)
 
 ---
 
-## 🇬🇧 ENGLISH VERSION
+## 🇬🇧 English Edition
 
-> **Executive Summary:** Every night, your brain cycles through a choreographed 90-minute sequence of Light, Deep, and REM sleep. Learn how smartwatches detect each stage, why Deep sleep dominates early in the night while REM takes over before dawn, and what a healthy overnight hypnogram looks like.
+# Sleep Stages Explained: What Light, Deep, and REM Sleep Do for Your Body and Brain
 
-> 💡 **Key Actionable Takeaway:** Deep sleep and REM sleep are not evenly distributed across the night. Nearly 75% of your physical Deep sleep happens in the first 3–4 hours, while the longest cognitive REM cycles happen in the final 2 hours before waking. Staying up 2 hours late sacrifices Deep sleep; setting an alarm 2 hours early cuts your REM sleep in half.
+> **Abstract (Sapo):** Every night, your brain cycles through a choreographed 90-minute sequence of Light, Deep, and REM sleep. Learn how smartwatches detect each stage, why Deep sleep dominates early in the night while REM takes over before dawn, and what a healthy overnight hypnogram looks like.
+
+> 💡 **Key Takeaway & Clinical Action:** Deep sleep and REM sleep are not evenly distributed across the night. Nearly 75% of your physical Deep sleep happens in the first 3–4 hours, while the longest cognitive REM cycles happen in the final 2 hours before waking. Staying up 2 hours late sacrifices Deep sleep; setting an alarm 2 hours early cuts your REM sleep in half.
 
 ## Sleep Is Not a Passive Shutdown—It Is an Active 90-Minute Cycle
 
@@ -177,7 +178,7 @@ Because **Deep Sleep** is front-loaded in the first half of the night (roughly 1
 
 ## References & Clinical Sources
 
-1. **Xie, L., Kang, H., Xu, Q., Chen, M. J., Liao, Y., Thiyagarajan, M., ... & Nedergaard, M. (2013).** *Sleep drives metabolite clearance from the adult brain.* Science, 342(6156), 373–377. [https://pubmed.ncbi.nlm.nih.gov/24136970/](https://pubmed.ncbi.nlm.nih.gov/24136970/)
-2. **Patel, A. K., Reddy, V., Shumway, K. R., & Araujo, J. F. (2024).** *Physiology, Sleep Stages.* In StatPearls [Internet]. National Center for Biotechnology Information (NCBI). [https://www.ncbi.nlm.nih.gov/books/NBK526132/](https://www.ncbi.nlm.nih.gov/books/NBK526132/)
-3. **WHOOP The Locker.** *What Are the Stages of Sleep? How to Track and Improve Light, Deep & REM Sleep.* [https://www.whoop.com/us/en/thelocker/stages-of-sleep/](https://www.whoop.com/us/en/thelocker/stages-of-sleep/)
-4. **Oura Ring Pulse Blog.** *The 4 Stages of Sleep: What Happens in Each Stage.* [https://ouraring.com/blog/sleep-stages/](https://ouraring.com/blog/sleep-stages/)
+1. **Xie, L., Kang, H., Xu, Q., Chen, M. J., Liao, Y., Thiyagarajan, M., ... & Nedergaard, M. (2013).** *Sleep drives metabolite clearance from the adult brain.* Science, 342(6156), 373–377. [Original Study Report (NCBI PubMed: 24136970) ↗](https://pubmed.ncbi.nlm.nih.gov/24136970/)
+2. **Patel, A. K., Reddy, V., Shumway, K. R., & Araujo, J. F. (2024).** *Physiology, Sleep Stages.* In StatPearls [Internet]. National Center for Biotechnology Information (NCBI). [Verified Original Document ↗](https://www.ncbi.nlm.nih.gov/books/NBK526132/)
+3. **WHOOP The Locker.** *What Are the Stages of Sleep? How to Track and Improve Light, Deep & REM Sleep.* [WHOOP The Locker Science Journal ↗](https://www.whoop.com/us/en/thelocker/stages-of-sleep/)
+4. **Oura Ring Pulse Blog.** *The 4 Stages of Sleep: What Happens in Each Stage.* [Oura Ring Science Portal ↗](https://ouraring.com/blog/sleep-stages/)

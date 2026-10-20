@@ -1,18 +1,21 @@
-# Nồng Độ Testosterone Chuẩn Là Bao Nhiêu? Hiểu Về Dao Động Sinh Học 24 Giờ & Chỉ Số Free T
-**What Is a Normal Testosterone Level? Circadian Rhythms, Free T vs. Total T & Age Curves**
-
-> **Sapo (VI):** Khi nhận kết quả xét nghiệm máu, con số 'Testosterone toàn phần' đơn lẻ thường gây hoang mang nhiều hơn là giải đáp thắc mắc. Hướng dẫn lâm sàng từ Hiệp hội Nội tiết Hoa Kỳ (Endocrine Society) nhấn mạnh: Nồng độ hormone dao động mạnh mẽ theo chu kỳ ngày đêm 24 giờ, và chỉ số quyết định bản lĩnh thực sự của người đàn ông chính là Testosterone tự do (Free T)—phần hormone không bị giam giữ bởi protein SHBG.
-> 
-> **Lead (EN):** Receiving a blood panel with a single 'Total Testosterone' number often generates more confusion than clarity. Official clinical guidelines from the Endocrine Society emphasize that male androgens fluctuate dramatically along a 24-hour circadian rhythm, and biological vitality is largely governed by Free Testosterone—the unbound fraction escaped from SHBG capture.
-
-> [!TIP]
-> 💡 **Điểm Cốt Lõi (Key Takeaway):** Khoảng tham chiếu chuẩn của Testosterone toàn phần ở nam giới khỏe mạnh là 300–1.000 ng/dL, nhưng bắt buộc phải lấy máu trước 10:00 sáng. Đừng chỉ nhìn vào Total T; chỉ số Free T (dao động 9–30 pg/mL hoặc 1.5%–2% tổng lượng) mới là thước đo phản ánh chính xác tình trạng sinh lực và chuyển hóa.
-> 
-> 💡 **Takeaway (EN):** Standard normal reference range for Total Testosterone in healthy adult males is 300–1,000 ng/dL, measured strictly before 10:00 AM. Total T alone is insufficient; Free Testosterone (9–30 pg/mL or 1.5%–2% of total) dictates true receptor activation and clinical vitality.
+# MW_SXH_01 - Nồng Độ Testosterone Chuẩn Là Bao Nhiêu? Hiểu Về Dao Động Sinh Học 24 Giờ & Chỉ Số Free T
+**Category:** Men's Health 
+**Screen:** Hormone & Endocrine Profile Screen 
+**Metric:** Circadian Diurnal Testosterone Curve, Free vs Total T & SHBG 
+**Reading Time:** 8 phút đọc / 8 min 
+**Hero Image:** ![Nồng Độ Testosterone Chuẩn Là Bao Nhiêu? Hiểu Về Dao Động Sinh Học 24 Giờ & Chỉ Số Free T](images/LM_MH_01_hero.jpg) *(Source: [https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?auto=format&fit=crop&w=1200&q=85](https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?auto=format&fit=crop&w=1200&q=85))* 
+**Inline Figure:** ![Đường cong nhịp sinh học nội tiết 24 giờ: Nồng độ testosterone ở nam giới đạt đỉnh cao nhất vào sáng sớm (07:00–09:00) và hạ dần về mức đáy vào lúc 20:00 tối.](images/DM_SL_02_figure.png) *(Source: [https://commons.wikimedia.org/wiki/File:Biological_clock_human.svg](https://commons.wikimedia.org/wiki/File:Biological_clock_human.svg))* 
+**Clinical Source:** [Journal of Clinical Endocrinology & Metabolism (JCEM / Endocrine Society)](https://pubmed.ncbi.nlm.nih.gov/29562364/) 
 
 ---
 
-## 🇻🇳 NỘI DUNG TIẾNG VIỆT
+## 🇻🇳 Phiên Bản Tiếng Việt (Vietnamese Edition)
+
+# Nồng Độ Testosterone Chuẩn Là Bao Nhiêu? Hiểu Về Dao Động Sinh Học 24 Giờ & Chỉ Số Free T
+
+> **Tóm tắt (Sapo):** Khi nhận kết quả xét nghiệm máu, con số 'Testosterone toàn phần' đơn lẻ thường gây hoang mang nhiều hơn là giải đáp thắc mắc. Hướng dẫn lâm sàng từ Hiệp hội Nội tiết Hoa Kỳ (Endocrine Society) nhấn mạnh: Nồng độ hormone dao động mạnh mẽ theo chu kỳ ngày đêm 24 giờ, và chỉ số quyết định bản lĩnh thực sự của người đàn ông chính là Testosterone tự do (Free T)—phần hormone không bị giam giữ bởi protein SHBG.
+
+> 💡 **Điểm Cốt Lõi & Hành Động Thực Tế (Key Takeaway):** Khoảng tham chiếu chuẩn của Testosterone toàn phần ở nam giới khỏe mạnh là 300–1.000 ng/dL, nhưng bắt buộc phải lấy máu trước 10:00 sáng. Đừng chỉ nhìn vào Total T; chỉ số Free T (dao động 9–30 pg/mL hoặc 1.5%–2% tổng lượng) mới là thước đo phản ánh chính xác tình trạng sinh lực và chuyển hóa.
 
 ## Nhịp Điệu Ngày Đêm: Tại Sao Không Thể Đo Testosterone Vào Buổi Chiều?
 
@@ -64,14 +67,20 @@ Khi đi vào dòng máu, Testosterone không thể tự do di chuyển một mì
 
 ## Tài Liệu Tham Khảo & Nguồn Y Khoa
 
-1. **Bhasin, S., Brito, J. P., et al. (2018).** *Testosterone Therapy in Men With Hypogonadism: An Endocrine Society Clinical Practice Guideline.* JCEM, 103(5), 1715–1744. [Đọc trên PubMed ↗](https://pubmed.ncbi.nlm.nih.gov/29562364/)
-2. **Travison, T. G., Vesper, H. W., et al. (2017).** *Harmonized Reference Ranges for Circulating Testosterone Levels in Men of Four Cohorts.* JCEM, 102(4), 1161–1173. [Đọc trên PubMed ↗](https://pubmed.ncbi.nlm.nih.gov/28324103/)
-3. **Feldman, H. A., Longcope, C., et al. (2002).** *Age trends in the level of serum testosterone and other hormones in men: Longitudinal results from the Massachusetts Male Aging Study.* JCEM, 87(2), 589–598. [Đọc trên PubMed ↗](https://pubmed.ncbi.nlm.nih.gov/11836290/)
-4. **Vermeulen, A., Verdonck, L., & Kaufman, J. M. (1999).** *A critical evaluation of simple methods for the estimation of free testosterone in serum.* JCEM, 84(10), 3666–3672. [Đọc trên PubMed ↗](https://pubmed.ncbi.nlm.nih.gov/10523012/)
+1. **Bhasin, S., Brito, J. P., et al. (2018).** *Testosterone Therapy in Men With Hypogonadism: An Endocrine Society Clinical Practice Guideline.* JCEM, 103(5), 1715–1744. [Tạp chí JCEM (PMID: 29562364) ↗](https://pubmed.ncbi.nlm.nih.gov/29562364/)
+2. **Travison, T. G., Vesper, H. W., et al. (2017).** *Harmonized Reference Ranges for Circulating Testosterone Levels in Men of Four Cohorts.* JCEM, 102(4), 1161–1173. [Tạp chí JCEM (PMID: 28324103) ↗](https://pubmed.ncbi.nlm.nih.gov/28324103/)
+3. **Feldman, H. A., Longcope, C., et al. (2002).** *Age trends in the level of serum testosterone and other hormones in men: Longitudinal results from the Massachusetts Male Aging Study.* JCEM, 87(2), 589–598. [Tạp chí JCEM (PMID: 11836290) ↗](https://pubmed.ncbi.nlm.nih.gov/11836290/)
+4. **Vermeulen, A., Verdonck, L., & Kaufman, J. M. (1999).** *A critical evaluation of simple methods for the estimation of free testosterone in serum.* JCEM, 84(10), 3666–3672. [Tạp chí JCEM (PMID: 10523012) ↗](https://pubmed.ncbi.nlm.nih.gov/10523012/)
 
 ---
 
-## 🇬🇧 ENGLISH CONTENT
+## 🇬🇧 English Edition
+
+# What Is a Normal Testosterone Level? Circadian Rhythms, Free T vs. Total T & Age Curves
+
+> **Abstract (Sapo):** Receiving a blood panel with a single 'Total Testosterone' number often generates more confusion than clarity. Official clinical guidelines from the Endocrine Society emphasize that male androgens fluctuate dramatically along a 24-hour circadian rhythm, and biological vitality is largely governed by Free Testosterone—the unbound fraction escaped from SHBG capture.
+
+> 💡 **Key Takeaway & Clinical Action:** Standard normal reference range for Total Testosterone in healthy adult males is 300–1,000 ng/dL, measured strictly before 10:00 AM. Total T alone is insufficient; Free Testosterone (9–30 pg/mL or 1.5%–2% of total) dictates true receptor activation and clinical vitality.
 
 ## Diurnal Circadian Rhythm: Why Afternoon Testosterone Tests Are Clinically Invalid
 

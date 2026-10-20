@@ -530,7 +530,10 @@ function openFullArticleView(art, updateHash = true) {
   }
 
   // Set Meta details
-  document.getElementById('art-view-source').textContent = art.source_name;
+  const srcEl = document.getElementById('art-view-source');
+  if (srcEl) {
+    srcEl.innerHTML = `<a href="${art.source_url}" target="_blank" rel="noopener noreferrer" style="color: inherit; text-decoration: underline; font-weight: 700;">${art.source_name} ↗</a>`;
+  }
   document.getElementById('art-view-screen').textContent = art.screen;
   document.getElementById('art-view-metric').textContent = art.metric;
 
@@ -572,7 +575,10 @@ function openFullArticleView(art, updateHash = true) {
   document.getElementById('art-view-citation-desc').innerHTML = t.citationDesc(art.source_name);
   const canonicalLink = document.getElementById('art-view-canonical-link');
   canonicalLink.href = art.source_url;
-  canonicalLink.textContent = t.readCanonicalBtn;
+  const shortSource = art.source_name.length > 40 ? art.source_name.slice(0, 38) + '...' : art.source_name;
+  canonicalLink.textContent = currentLang === 'vi' 
+    ? `Truy Cập Nguồn Gốc (${shortSource}) ↗` 
+    : `Access Original Source (${shortSource}) ↗`;
 
   // Toolbar Standalone File link
   const standaloneLink = document.getElementById('btn-open-standalone');

@@ -1,18 +1,21 @@
-# Kẽm & Vitamin D: Vi Chất Tối Cần Thiết Cho Tế Bào Leydig & Thụ Thể Androgen
-**Zinc and Vitamin D: Essential Micronutrients for Leydig Cell Function & Androgen Receptors**
-
-> **Sapo (VI):** Trong thế giới dinh dưỡng vi lượng, không có hai yếu tố nào tác động trực tiếp lên hệ sinh dục nam giới mạnh mẽ bằng Kẽm và Vitamin D. Nghiên cứu kinh điển của Giáo sư Ananda Prasad phát hiện: Hạn chế kẽm trong chế độ ăn chỉ sau vài tuần đã khiến nồng độ testosterone của nam giới khỏe mạnh giảm tới gần 50%. Khám phá vai trò sinh học của hai 'hormone steroid ngoại sinh' này và cách bổ sung chuẩn y khoa.
-> 
-> **Lead (EN):** In micronutrient physiology, no two elements exert more profound direct control over the male gonadal axis than Zinc and Vitamin D. A seminal clinical trial by Dr. Ananda Prasad revealed that dietary zinc restriction slashed serum testosterone by nearly 50% in healthy young men within just 20 weeks. Discover the cellular mechanics of these essential steroidal cofactors and clinical dosing rules.
-
-> [!TIP]
-> 💡 **Điểm Cốt Lõi (Key Takeaway):** Kẽm là thành phần cốt lõi của hơn 300 enzyme và cấu trúc ngón tay kẽm (Zinc Fingers) của thụ thể Androgen; trong khi Vitamin D hoạt động như một hormone tiền chất kích hoạt thụ thể VDR tại tinh hoàn. Bổ sung 15–30mg Kẽm Bisglycinate và 2.000–4.000 IU Vitamin D3 hàng ngày là chiến lược phục hồi nội tiết đơn giản và hiệu quả nhất.
-> 
-> 💡 **Takeaway (EN):** Zinc serves as a mandatory structural cofactor for over 300 enzymes and the zinc fingers of androgen receptors, while Vitamin D operates as a nuclear secosteroid activating testicular VDRs. Daily supplementation with 15–30mg Zinc Bisglycinate and 2,000–4,000 IU Vitamin D3 offers foundational, cost-effective endocrine support.
+# MW_NUT_05 - Kẽm & Vitamin D: Vi Chất Tối Cần Thiết Cho Tế Bào Leydig & Thụ Thể Androgen
+**Category:** Men's Health 
+**Screen:** Micronutrients & Endocrine Health Screen 
+**Metric:** Leydig Cell Steroidogenesis, VDR Nuclear Receptors & Zinc Homeostasis 
+**Reading Time:** 8 phút đọc / 8 min 
+**Hero Image:** ![Kẽm & Vitamin D: Vi Chất Tối Cần Thiết Cho Tế Bào Leydig & Thụ Thể Androgen](images/DM_HW_02_hero.jpg) *(Source: [https://images.unsplash.com/photo-1584308666744-24d5c474f2ae?auto=format&fit=crop&w=1200&q=85](https://images.unsplash.com/photo-1584308666744-24d5c474f2ae?auto=format&fit=crop&w=1200&q=85))* 
+**Inline Figure:** ![Cấu trúc ngón tay Kẽm (Zinc Finger): Nguyên tử kẽm phối trí các chuỗi peptide, là cấu trúc bắt buộc để thụ thể Androgen gắn kết chính xác vào chuỗi xoắn kép DNA trong nhân tế bào.](images/LM_MH_01_figure.jpg) *(Source: [https://commons.wikimedia.org/wiki/File:Zinc_finger.png](https://commons.wikimedia.org/wiki/File:Zinc_finger.png))* 
+**Clinical Source:** [Nutrition & Hormone and Metabolic Research](https://pubmed.ncbi.nlm.nih.gov/8875519/) 
 
 ---
 
-## 🇻🇳 NỘI DUNG TIẾNG VIỆT
+## 🇻🇳 Phiên Bản Tiếng Việt (Vietnamese Edition)
+
+# Kẽm & Vitamin D: Vi Chất Tối Cần Thiết Cho Tế Bào Leydig & Thụ Thể Androgen
+
+> **Tóm tắt (Sapo):** Trong thế giới dinh dưỡng vi lượng, không có hai yếu tố nào tác động trực tiếp lên hệ sinh dục nam giới mạnh mẽ bằng Kẽm và Vitamin D. Nghiên cứu kinh điển của Giáo sư Ananda Prasad phát hiện: Hạn chế kẽm trong chế độ ăn chỉ sau vài tuần đã khiến nồng độ testosterone của nam giới khỏe mạnh giảm tới gần 50%. Khám phá vai trò sinh học của hai 'hormone steroid ngoại sinh' này và cách bổ sung chuẩn y khoa.
+
+> 💡 **Điểm Cốt Lõi & Hành Động Thực Tế (Key Takeaway):** Kẽm là thành phần cốt lõi của hơn 300 enzyme và cấu trúc ngón tay kẽm (Zinc Fingers) của thụ thể Androgen; trong khi Vitamin D hoạt động như một hormone tiền chất kích hoạt thụ thể VDR tại tinh hoàn. Bổ sung 15–30mg Kẽm Bisglycinate và 2.000–4.000 IU Vitamin D3 hàng ngày là chiến lược phục hồi nội tiết đơn giản và hiệu quả nhất.
 
 ## Công Trình Của Ananda Prasad: Thiếu Kẽm Làm Tụt 50% Testosterone
 
@@ -61,14 +64,20 @@ Nghiên cứu của **Đại học Y Graz (Pilz et al., Hormone and Metabolic Re
 
 ## Tài Liệu Tham Khảo & Nguồn Y Khoa
 
-1. **Prasad, A. S., et al. (1996).** *Zinc status and serum testosterone levels of healthy adults.* Nutrition, 12(5), 344–348. [Đọc trên PubMed ↗](https://pubmed.ncbi.nlm.nih.gov/8875519/)
-2. **Pilz, S., Frisch, S., et al. (2011).** *Effect of vitamin D supplementation on testosterone levels in men.* Hormone and Metabolic Research, 43(3), 223–225. [Đọc trên PubMed ↗](https://pubmed.ncbi.nlm.nih.gov/21154383/)
-3. **Fallah, A., Mohammad-Hasani, A., & Colagar, A. H. (2018).** *Zinc is an essential element for male fertility: a review of Zn roles in men's health, germination, sperm quality, and fertilization.* Journal of Reproduction & Infertility. [Đọc trên PMC ↗](https://pmc.ncbi.nlm.nih.gov/30009140/)
-4. **Blomberg Jensen, M. (2014).** *Vitamin D and male reproduction.* Nature Reviews Endocrinology, 10(3), 175–186. [Đọc trên Nature ↗](https://pubmed.ncbi.nlm.nih.gov/24419359/)
+1. **Prasad, A. S., et al. (1996).** *Zinc status and serum testosterone levels of healthy adults.* Nutrition, 12(5), 344–348. [Báo Cáo Nghiên Cứu Gốc (NCBI PubMed: 8875519) ↗](https://pubmed.ncbi.nlm.nih.gov/8875519/)
+2. **Pilz, S., Frisch, S., et al. (2011).** *Effect of vitamin D supplementation on testosterone levels in men.* Hormone and Metabolic Research, 43(3), 223–225. [Báo Cáo Nghiên Cứu Gốc (NCBI PubMed: 21154383) ↗](https://pubmed.ncbi.nlm.nih.gov/21154383/)
+3. **Fallah, A., Mohammad-Hasani, A., & Colagar, A. H. (2018).** *Zinc is an essential element for male fertility: a review of Zn roles in men's health, germination, sperm quality, and fertilization.* Journal of Reproduction & Infertility. [Tài Liệu Nghiên Cứu Gốc Xác Thực ↗](https://pmc.ncbi.nlm.nih.gov/30009140/)
+4. **Blomberg Jensen, M. (2014).** *Vitamin D and male reproduction.* Nature Reviews Endocrinology, 10(3), 175–186. [Tạp chí Nature (PMID: 24419359) ↗](https://pubmed.ncbi.nlm.nih.gov/24419359/)
 
 ---
 
-## 🇬🇧 ENGLISH CONTENT
+## 🇬🇧 English Edition
+
+# Zinc and Vitamin D: Essential Micronutrients for Leydig Cell Function & Androgen Receptors
+
+> **Abstract (Sapo):** In micronutrient physiology, no two elements exert more profound direct control over the male gonadal axis than Zinc and Vitamin D. A seminal clinical trial by Dr. Ananda Prasad revealed that dietary zinc restriction slashed serum testosterone by nearly 50% in healthy young men within just 20 weeks. Discover the cellular mechanics of these essential steroidal cofactors and clinical dosing rules.
+
+> 💡 **Key Takeaway & Clinical Action:** Zinc serves as a mandatory structural cofactor for over 300 enzymes and the zinc fingers of androgen receptors, while Vitamin D operates as a nuclear secosteroid activating testicular VDRs. Daily supplementation with 15–30mg Zinc Bisglycinate and 2,000–4,000 IU Vitamin D3 offers foundational, cost-effective endocrine support.
 
 ## The Prasad Trial: Dietary Zinc Restriction Slashes Testosterone by 50%
 

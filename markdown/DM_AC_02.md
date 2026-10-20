@@ -1,22 +1,21 @@
-# 🇻🇳 Hội Chứng Tập Luyện Quá Sức & Đường Cong Siêu Bù Trừ: Dấu Hiệu Sinh Học Cảnh Báo Sớm Và Giao Thức Giảm Tải (Deload)
-# 🇬🇧 Overtraining Syndrome & The Supercompensation Curve: Early Warning Biomarkers and How to Execute a Deload Week
-
-- **Article ID:** `DM_AC_02`
-- **Category:** Activity — Overtraining Prevention
-- **Content Type:** Discover more
-- **Mapped App Screen & Metric:** `Activity Screen` (`Overtraining Syndrome`)
-- **Reading Time:** 9 phút đọc / 9 min
-- **Local Hero Photo:** `images/DM_AC_02_hero.jpg` ([Original Photo Source ↗](https://images.unsplash.com/photo-1526506118085-60ce8714f8c5?auto=format&fit=crop&w=1200&q=85))
-- **Local Medical Figure:** `images/DM_AC_02_figure.png` ([Original Wikimedia Commons Source ↗](https://commons.wikimedia.org/wiki/File:Supercompensation.svg))
-- **Primary Clinical & Wearable Source:** [ACSM & ECSS Joint Consensus Statement (Meeusen et al., 2013)](https://pubmed.ncbi.nlm.nih.gov/23247672/)
+# DM_AC_02 - Hội Chứng Tập Luyện Quá Sức & Đường Cong Siêu Bù Trừ: Dấu Hiệu Sinh Học Cảnh Báo Sớm Và Giao Thức Giảm Tải (Deload)
+**Category:** Activity 
+**Screen:** Activity Screen 
+**Metric:** Overtraining Syndrome 
+**Reading Time:** 9 phút đọc / 9 min 
+**Hero Image:** ![Hội Chứng Tập Luyện Quá Sức & Đường Cong Siêu Bù Trừ: Dấu Hiệu Sinh Học Cảnh Báo Sớm Và Giao Thức Giảm Tải (Deload)](images/DM_AC_02_hero.jpg) *(Source: [https://images.unsplash.com/photo-1526506118085-60ce8714f8c5?auto=format&fit=crop&w=1200&q=85](https://images.unsplash.com/photo-1526506118085-60ce8714f8c5?auto=format&fit=crop&w=1200&q=85))* 
+**Inline Figure:** ![Đường cong sinh lý học Siêu bù trừ (Supercompensation) kinh điển—minh họa pha mệt mỏi cấp tính do tập luyện, pha phục hồi về cân bằng nội môi, đỉnh thích nghi siêu bù trừ dương, và cách việc dồn tải quá sớm khi chưa kịp hồi phục đẩy cơ thể trượt dài xuống hố sâu tập luyện quá sức.](images/DM_AC_02_figure.png) *(Source: [https://commons.wikimedia.org/wiki/File:Supercompensation.svg](https://commons.wikimedia.org/wiki/File:Supercompensation.svg))* 
+**Clinical Source:** [ACSM & ECSS Joint Consensus Statement (Meeusen et al., 2013)](https://pubmed.ncbi.nlm.nih.gov/23247672/) 
 
 ---
 
-## 🇻🇳 BẢN TIẾNG VIỆT
+## 🇻🇳 Phiên Bản Tiếng Việt (Vietnamese Edition)
 
-> **Tóm tắt:** Mỗi buổi tập đều tạm thời làm suy giảm thể lực của bạn; cơ thể chỉ thực sự mạnh lên trong pha bật tăng phục hồi gọi là Siêu bù trừ (Supercompensation). Tìm hiểu cách phân biệt đau mỏi cơ thông thường với Tình trạng Quá tải Phi chức năng và Hội chứng Tập luyện Quá sức (OTS) qua xu hướng HRV, Nhịp tim Lúc nghỉ và Nhịp tim Tối đa trên đồng hồ.
+# Hội Chứng Tập Luyện Quá Sức & Đường Cong Siêu Bù Trừ: Dấu Hiệu Sinh Học Cảnh Báo Sớm Và Giao Thức Giảm Tải (Deload)
 
-> 💡 **Điểm Cốt Lõi & Hành Động Thực Tế:** Sự tiến bộ thể lực diễn ra trong pha Siêu bù trừ (Supercompensation) chứ không phải trong lúc bạn đang nâng tạ hay chạy bộ. Khi trung bình trượt HRV 7 ngày tụt xuống dưới mức nền đi kèm Nhịp tim Lúc nghỉ tăng +5 đến +8 bpm suốt 4 ngày liên tiếp, hãy thực hiện ngay Tuần Giảm Tải (cắt giảm 40%–50% khối lượng tập) để kích hoạt pha bật tăng phong độ.
+> **Tóm tắt (Sapo):** Mỗi buổi tập đều tạm thời làm suy giảm thể lực của bạn; cơ thể chỉ thực sự mạnh lên trong pha bật tăng phục hồi gọi là Siêu bù trừ (Supercompensation). Tìm hiểu cách phân biệt đau mỏi cơ thông thường với Tình trạng Quá tải Phi chức năng và Hội chứng Tập luyện Quá sức (OTS) qua xu hướng HRV, Nhịp tim Lúc nghỉ và Nhịp tim Tối đa trên đồng hồ.
+
+> 💡 **Điểm Cốt Lõi & Hành Động Thực Tế (Key Takeaway):** Sự tiến bộ thể lực diễn ra trong pha Siêu bù trừ (Supercompensation) chứ không phải trong lúc bạn đang nâng tạ hay chạy bộ. Khi trung bình trượt HRV 7 ngày tụt xuống dưới mức nền đi kèm Nhịp tim Lúc nghỉ tăng +5 đến +8 bpm suốt 4 ngày liên tiếp, hãy thực hiện ngay Tuần Giảm Tải (cắt giảm 40%–50% khối lượng tập) để kích hoạt pha bật tăng phong độ.
 
 ## Quy Luật Siêu Bù Trừ: Vì Sao Cơ Thể Bạn Không Hề Mạnh Lên Trong Lúc Đang Tập?
 
@@ -83,18 +82,20 @@ Một **Tuần Giảm Tải (Deload Week)** hoàn toàn không phải là sự l
 
 ## Tài Liệu Tham Khảo & Nguồn Y Khoa
 
-1. **Meeusen, R., Duclos, M., Foster, C., Fry, A., Gleeson, M., Nieman, D., ... & Urhausen, A. (2013).** *Prevention, diagnosis, and treatment of the overtraining syndrome: joint consensus statement of the European College of Sport Science (ECSS) and the American College of Sports Medicine (ACSM).* Medicine & Science in Sports & Exercise, 45(1), 186–205. [https://pubmed.ncbi.nlm.nih.gov/23247672/](https://pubmed.ncbi.nlm.nih.gov/23247672/)
-2. **Plews, D. J., Laursen, P. B., Stanley, J., Kilding, A. E., & Buchheit, M. (2013).** *Training adaptation and heart rate variability in elite endurance athletes: opening the door to effective monitoring.* Sports Medicine, 43(9), 773–781. [https://pubmed.ncbi.nlm.nih.gov/23852425/](https://pubmed.ncbi.nlm.nih.gov/23852425/)
-3. **WHOOP The Locker.** *Overtraining Syndrome: Signs, Symptoms, Recovery & How to Prevent It With HRV.* [https://www.whoop.com/us/en/thelocker/overtraining-signs-symptoms-prevention/](https://www.whoop.com/us/en/thelocker/overtraining-signs-symptoms-prevention/)
-4. **Garmin Health Science.** *Training Status & Acute-to-Chronic Load Ratio: Balancing Strain and Recovery.* [https://www.garmin.com/en-US/garmin-technology/running-science/physiological-measurements/training-status/](https://www.garmin.com/en-US/garmin-technology/running-science/physiological-measurements/training-status/)
+1. **Meeusen, R., Duclos, M., Foster, C., Fry, A., Gleeson, M., Nieman, D., ... & Urhausen, A. (2013).** *Prevention, diagnosis, and treatment of the overtraining syndrome: joint consensus statement of the European College of Sport Science (ECSS) and the American College of Sports Medicine (ACSM).* Medicine & Science in Sports & Exercise, 45(1), 186–205. [Báo Cáo Nghiên Cứu Gốc (NCBI PubMed: 23247672) ↗](https://pubmed.ncbi.nlm.nih.gov/23247672/)
+2. **Plews, D. J., Laursen, P. B., Stanley, J., Kilding, A. E., & Buchheit, M. (2013).** *Training adaptation and heart rate variability in elite endurance athletes: opening the door to effective monitoring.* Sports Medicine, 43(9), 773–781. [Báo Cáo Nghiên Cứu Gốc (NCBI PubMed: 23852425) ↗](https://pubmed.ncbi.nlm.nih.gov/23852425/)
+3. **WHOOP The Locker.** *Overtraining Syndrome: Signs, Symptoms, Recovery & How to Prevent It With HRV.* [Tạp Chí Khoa Học WHOOP The Locker ↗](https://www.whoop.com/us/en/thelocker/overtraining-signs-symptoms-prevention/)
+4. **Garmin Health Science.** *Training Status & Acute-to-Chronic Load Ratio: Balancing Strain and Recovery.* [Cổng Khoa Học Garmin Health Science ↗](https://www.garmin.com/en-US/garmin-technology/running-science/physiological-measurements/training-status/)
 
 ---
 
-## 🇬🇧 ENGLISH VERSION
+## 🇬🇧 English Edition
 
-> **Executive Summary:** Every workout temporarily breaks your body down; you only grow stronger during the recovery rebound known as Supercompensation. Learn how to distinguish normal training soreness from Non-Functional Overreaching and Overtraining Syndrome using your watch's HRV, Resting Heart Rate, and Max HR trends.
+# Overtraining Syndrome & The Supercompensation Curve: Early Warning Biomarkers and How to Execute a Deload Week
 
-> 💡 **Key Actionable Takeaway:** Fitness gains happen during Supercompensation, not during the workout itself. When your 7-day rolling HRV drops below baseline while overnight Resting Heart Rate climbs +5 to +8 bpm for 4+ consecutive days, execute an immediate 7-day Deload (cutting training volume by 40%–50%) to trigger your performance rebound.
+> **Abstract (Sapo):** Every workout temporarily breaks your body down; you only grow stronger during the recovery rebound known as Supercompensation. Learn how to distinguish normal training soreness from Non-Functional Overreaching and Overtraining Syndrome using your watch's HRV, Resting Heart Rate, and Max HR trends.
+
+> 💡 **Key Takeaway & Clinical Action:** Fitness gains happen during Supercompensation, not during the workout itself. When your 7-day rolling HRV drops below baseline while overnight Resting Heart Rate climbs +5 to +8 bpm for 4+ consecutive days, execute an immediate 7-day Deload (cutting training volume by 40%–50%) to trigger your performance rebound.
 
 ## The Law of Supercompensation: Why You Never Get Fitter During a Workout
 
@@ -161,7 +162,7 @@ A **Deload Week** is not laziness—it is the biological catalyst that converts 
 
 ## References & Clinical Sources
 
-1. **Meeusen, R., Duclos, M., Foster, C., Fry, A., Gleeson, M., Nieman, D., ... & Urhausen, A. (2013).** *Prevention, diagnosis, and treatment of the overtraining syndrome: joint consensus statement of the European College of Sport Science (ECSS) and the American College of Sports Medicine (ACSM).* Medicine & Science in Sports & Exercise, 45(1), 186–205. [https://pubmed.ncbi.nlm.nih.gov/23247672/](https://pubmed.ncbi.nlm.nih.gov/23247672/)
-2. **Plews, D. J., Laursen, P. B., Stanley, J., Kilding, A. E., & Buchheit, M. (2013).** *Training adaptation and heart rate variability in elite endurance athletes: opening the door to effective monitoring.* Sports Medicine, 43(9), 773–781. [https://pubmed.ncbi.nlm.nih.gov/23852425/](https://pubmed.ncbi.nlm.nih.gov/23852425/)
-3. **WHOOP The Locker.** *Overtraining Syndrome: Signs, Symptoms, Recovery & How to Prevent It With HRV.* [https://www.whoop.com/us/en/thelocker/overtraining-signs-symptoms-prevention/](https://www.whoop.com/us/en/thelocker/overtraining-signs-symptoms-prevention/)
-4. **Garmin Health Science.** *Training Status & Acute-to-Chronic Load Ratio: Balancing Strain and Recovery.* [https://www.garmin.com/en-US/garmin-technology/running-science/physiological-measurements/training-status/](https://www.garmin.com/en-US/garmin-technology/running-science/physiological-measurements/training-status/)
+1. **Meeusen, R., Duclos, M., Foster, C., Fry, A., Gleeson, M., Nieman, D., ... & Urhausen, A. (2013).** *Prevention, diagnosis, and treatment of the overtraining syndrome: joint consensus statement of the European College of Sport Science (ECSS) and the American College of Sports Medicine (ACSM).* Medicine & Science in Sports & Exercise, 45(1), 186–205. [Original Study Report (NCBI PubMed: 23247672) ↗](https://pubmed.ncbi.nlm.nih.gov/23247672/)
+2. **Plews, D. J., Laursen, P. B., Stanley, J., Kilding, A. E., & Buchheit, M. (2013).** *Training adaptation and heart rate variability in elite endurance athletes: opening the door to effective monitoring.* Sports Medicine, 43(9), 773–781. [Original Study Report (NCBI PubMed: 23852425) ↗](https://pubmed.ncbi.nlm.nih.gov/23852425/)
+3. **WHOOP The Locker.** *Overtraining Syndrome: Signs, Symptoms, Recovery & How to Prevent It With HRV.* [WHOOP The Locker Science Journal ↗](https://www.whoop.com/us/en/thelocker/overtraining-signs-symptoms-prevention/)
+4. **Garmin Health Science.** *Training Status & Acute-to-Chronic Load Ratio: Balancing Strain and Recovery.* [Garmin Health Science Portal ↗](https://www.garmin.com/en-US/garmin-technology/running-science/physiological-measurements/training-status/)

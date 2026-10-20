@@ -1,18 +1,21 @@
-# Hóa Giải Sự Lệch Pha Ham Muốn: Hiểu Về Ham Muốn Tự Phát (Spontaneous) So Với Đáp Ứng (Responsive)
-**Bridging Desire Discrepancy: Spontaneous vs. Responsive Desire in Long-Term Partnerships**
-
-> **Sapo (VI):** 'Anh ấy lúc nào cũng muốn, còn cô ấy thì dường như chẳng bao giờ nghĩ tới.' Sự lệch pha về nhu cầu tình dục (Desire Discrepancy) là nguyên nhân hàng đầu dẫn đến cảm giác bị từ chối, ấm ức và đóng băng phòng the trong các cuộc hôn nhân. Nghiên cứu kinh điển của Tiến sĩ Rosemary Basson trên tạp chí The Lancet đã làm sáng tỏ: Sự khác biệt này không phải do một người 'yếu' hay 'thiếu tình yêu', mà do hai kiểu cơ chế sinh học kích hoạt ham muốn hoàn toàn khác nhau.
-> 
-> **Lead (EN):** 'He wants it constantly, while she rarely seems to initiate.' Sexual desire discrepancy is the premier clinical presentation driving rejection, resentment, and bedroom gridlock in committed relationships. Landmark research by Dr. Rosemary Basson published in The Lancet established that this rift is rarely about waning affection, but stems from two fundamentally divergent biological arousal profiles: Spontaneous vs. Responsive desire.
-
-> [!TIP]
-> 💡 **Điểm Cốt Lõi (Key Takeaway):** Có hai cơ chế ham muốn sinh học: Ham muốn Tự phát (Spontaneous - bỗng dưng thèm muốn từ hư không, phổ biến ở nam giới) và Ham muốn Đáp ứng (Responsive - chỉ xuất hiện sau khi có sự kích thích thể chất và bối cảnh thư giãn an toàn, gặp ở đa số phụ nữ và nhiều nam giới). Hiểu rằng 'sự sẵn lòng thử' (Willingness) khác với 'sự thèm khát sẵn' là chìa khóa phá vỡ vòng lặp bế tắc.
-> 
-> 💡 **Takeaway (EN):** Human sexuality operates across two distinct desire modalities: Spontaneous Desire (unprompted erotic craving, common in men) and Responsive Desire (erotic craving emerging only after pleasurable touch in a relaxed context, dominant in many women and men). Recognizing that 'emotional willingness to engage' precedes physiological desire unlocks bedroom gridlock.
+# MW_REL_06 - Hóa Giải Sự Lệch Pha Ham Muốn: Hiểu Về Ham Muốn Tự Phát (Spontaneous) So Với Đáp Ứng (Responsive)
+**Category:** Men's Health 
+**Screen:** Sexual Desire Dynamics & Intimacy Screen 
+**Metric:** Spontaneous vs Responsive Desire, Basson Model & Erotic Context 
+**Reading Time:** 8 phút đọc / 8 min 
+**Hero Image:** ![Hóa Giải Sự Lệch Pha Ham Muốn: Hiểu Về Ham Muốn Tự Phát (Spontaneous) So Với Đáp Ứng (Responsive)](images/DM_MH_01_hero.jpg) *(Source: [https://images.unsplash.com/photo-1522543558187-768b6df7c25c?auto=format&fit=crop&w=1200&q=85](https://images.unsplash.com/photo-1522543558187-768b6df7c25c?auto=format&fit=crop&w=1200&q=85))* 
+**Inline Figure:** ![Mô hình phản ứng tình dục vòng tròn của Rosemary Basson: Ở các mối quan hệ lâu năm, ham muốn thường xuất hiện sau khi đã có sự thân mật và kích thích ban đầu (Responsive Desire), thay vì tự nhiên bộc phát.](images/DM_SL_02_photo.jpg) *(Source: [https://commons.wikimedia.org/wiki/File:Basson_sexual_response_cycle.svg](https://commons.wikimedia.org/wiki/File:Basson_sexual_response_cycle.svg))* 
+**Clinical Source:** [The Lancet & Journal of Sex & Marital Therapy](https://pubmed.ncbi.nlm.nih.gov/11454441/) 
 
 ---
 
-## 🇻🇳 NỘI DUNG TIẾNG VIỆT
+## 🇻🇳 Phiên Bản Tiếng Việt (Vietnamese Edition)
+
+# Hóa Giải Sự Lệch Pha Ham Muốn: Hiểu Về Ham Muốn Tự Phát (Spontaneous) So Với Đáp Ứng (Responsive)
+
+> **Tóm tắt (Sapo):** 'Anh ấy lúc nào cũng muốn, còn cô ấy thì dường như chẳng bao giờ nghĩ tới.' Sự lệch pha về nhu cầu tình dục (Desire Discrepancy) là nguyên nhân hàng đầu dẫn đến cảm giác bị từ chối, ấm ức và đóng băng phòng the trong các cuộc hôn nhân. Nghiên cứu kinh điển của Tiến sĩ Rosemary Basson trên tạp chí The Lancet đã làm sáng tỏ: Sự khác biệt này không phải do một người 'yếu' hay 'thiếu tình yêu', mà do hai kiểu cơ chế sinh học kích hoạt ham muốn hoàn toàn khác nhau.
+
+> 💡 **Điểm Cốt Lõi & Hành Động Thực Tế (Key Takeaway):** Có hai cơ chế ham muốn sinh học: Ham muốn Tự phát (Spontaneous - bỗng dưng thèm muốn từ hư không, phổ biến ở nam giới) và Ham muốn Đáp ứng (Responsive - chỉ xuất hiện sau khi có sự kích thích thể chất và bối cảnh thư giãn an toàn, gặp ở đa số phụ nữ và nhiều nam giới). Hiểu rằng 'sự sẵn lòng thử' (Willingness) khác với 'sự thèm khát sẵn' là chìa khóa phá vỡ vòng lặp bế tắc.
 
 ## Hai Kiểu Hình Ham Muốn: Tự Phát So Với Đáp Ứng
 
@@ -68,14 +71,20 @@ Khi hai người không hiểu về hai kiểu ham muốn này, họ sẽ rơi v
 
 ## Tài Liệu Tham Khảo & Nguồn Y Khoa
 
-1. **Basson, R. (2001).** *Human sex-response cycles.* The Lancet, 357(9265), 1367–1370. [Đọc trên The Lancet ↗](https://pubmed.ncbi.nlm.nih.gov/11333671/)
-2. **Basson, R. (2000).** *The female sexual response: a different model.* Journal of Sex & Marital Therapy, 26(1), 51–65. [Đọc trên PubMed ↗](https://pubmed.ncbi.nlm.nih.gov/10693116/)
-3. **Nagoski, E. (2015).** *Come as You Are: The Surprising New Science that Will Transform Your Sex Life.* Simon and Schuster. [Đọc trên Simon & Schuster ↗](https://www.simonandschuster.com/books/Come-as-You-Are/Emily-Nagoski/9781476762098)
-4. **Mark, K. P. (2014).** *The impact of subjectively perceived and objectively measured desire discrepancy on sexual and relationship satisfaction.* Journal of Sex & Marital Therapy, 40(4), 298–315. [Đọc trên PubMed ↗](https://pubmed.ncbi.nlm.nih.gov/24090151/)
+1. **Basson, R. (2001).** *Human sex-response cycles.* The Lancet, 357(9265), 1367–1370. [Tạp chí The Lancet (PMID: 11333671) ↗](https://pubmed.ncbi.nlm.nih.gov/11333671/)
+2. **Basson, R. (2000).** *The female sexual response: a different model.* Journal of Sex & Marital Therapy, 26(1), 51–65. [Báo Cáo Nghiên Cứu Gốc (NCBI PubMed: 10693116) ↗](https://pubmed.ncbi.nlm.nih.gov/10693116/)
+3. **Nagoski, E. (2015).** *Come as You Are: The Surprising New Science that Will Transform Your Sex Life.* Simon and Schuster. [Tạp chí Simon & Schuster ↗](https://www.simonandschuster.com/books/Come-as-You-Are/Emily-Nagoski/9781476762098)
+4. **Mark, K. P. (2014).** *The impact of subjectively perceived and objectively measured desire discrepancy on sexual and relationship satisfaction.* Journal of Sex & Marital Therapy, 40(4), 298–315. [Báo Cáo Nghiên Cứu Gốc (NCBI PubMed: 24090151) ↗](https://pubmed.ncbi.nlm.nih.gov/24090151/)
 
 ---
 
-## 🇬🇧 ENGLISH CONTENT
+## 🇬🇧 English Edition
+
+# Bridging Desire Discrepancy: Spontaneous vs. Responsive Desire in Long-Term Partnerships
+
+> **Abstract (Sapo):** 'He wants it constantly, while she rarely seems to initiate.' Sexual desire discrepancy is the premier clinical presentation driving rejection, resentment, and bedroom gridlock in committed relationships. Landmark research by Dr. Rosemary Basson published in The Lancet established that this rift is rarely about waning affection, but stems from two fundamentally divergent biological arousal profiles: Spontaneous vs. Responsive desire.
+
+> 💡 **Key Takeaway & Clinical Action:** Human sexuality operates across two distinct desire modalities: Spontaneous Desire (unprompted erotic craving, common in men) and Responsive Desire (erotic craving emerging only after pleasurable touch in a relaxed context, dominant in many women and men). Recognizing that 'emotional willingness to engage' precedes physiological desire unlocks bedroom gridlock.
 
 ## Two Biological Modalities: Spontaneous vs. Responsive Desire
 

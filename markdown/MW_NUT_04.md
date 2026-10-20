@@ -1,18 +1,21 @@
-# Rượu Bia Tàn Phá Phục Hồi Thế Nào? Cơ Chế Ức Chế Hormone T & Đứt Gãy Giấc Ngủ REM
-**Alcohol, Testosterone & Recovery: Acute Leydig Cell Suppression & REM Fragmentation**
-
-> **Sapo (VI):** Chỉ 2–3 ly rượu bia vào buổi tối có thể phá hủy hoàn toàn công sức tập luyện của cả tuần. Dữ liệu từ hàng triệu đêm ngủ trên thiết bị đeo thông minh cho thấy rượu bia là thủ phạm số một khiến điểm Phục hồi (Recovery) rơi vào vùng đỏ báo động. Tìm hiểu cơ chế cồn ức chế trực tiếp enzyme sản xuất testosterone tại tinh hoàn và biến giấc ngủ ban đêm thành một cơn ác mộng chuyển hóa.
-> 
-> **Lead (EN):** Just two to three alcoholic drinks in the evening can silently derail an entire week of disciplined training. Biometric analytics across millions of wearable user nights consistently single out alcohol as the primary trigger for catastrophic 'Red Recovery' scores. Explore how ethanol directly blocks testicular testosterone synthesis while fragmenting essential restorative REM sleep.
-
-> [!TIP]
-> 💡 **Điểm Cốt Lõi (Key Takeaway):** Chất cồn là độc tố chuyển hóa ưu tiên đào thải. Nó làm sụt giảm 20%–40% testosterone sau các buổi nhậu, ức chế quá trình tổng hợp cơ bắp và cắt cụt giấc ngủ REM. Nếu uống rượu, hãy cách giờ đi ngủ ít nhất 4 tiếng và bù nước kèm điện giải.
-> 
-> 💡 **Takeaway (EN):** Alcohol is a priority metabolic toxin. It triggers acute 20%–40% reductions in testosterone synthesis, impairs muscle protein synthesis by up to 37%, and shatters REM sleep architecture. If consuming alcohol, finish at least 4 hours before bedtime and hydrate aggressively.
+# MW_NUT_04 - Rượu Bia Tàn Phá Phục Hồi Thế Nào? Cơ Chế Ức Chế Hormone T & Đứt Gãy Giấc Ngủ REM
+**Category:** Men's Health 
+**Screen:** Sleep & Recovery Analytics Screen 
+**Metric:** Overnight RHR, Sleep Architecture (REM Suppression) & Recovery Score 
+**Reading Time:** 8 phút đọc / 8 min 
+**Hero Image:** ![Rượu Bia Tàn Phá Phục Hồi Thế Nào? Cơ Chế Ức Chế Hormone T & Đứt Gãy Giấc Ngủ REM](images/DM_SL_02_hero.jpg) *(Source: [https://images.unsplash.com/photo-1510812431401-41d2bd2722f3?auto=format&fit=crop&w=1200&q=85](https://images.unsplash.com/photo-1510812431401-41d2bd2722f3?auto=format&fit=crop&w=1200&q=85))* 
+**Inline Figure:** ![Biến thiên nhịp tim (HRV) và dẫn truyền tim mạch: Cồn kích hoạt hệ thần kinh giao cảm suốt đêm, làm nhịp tim nghỉ ngơi tăng vọt và làm phẳng các khoảng biến thiên R-R trên điện tâm đồ.](images/LM_RC_01_figure.png) *(Source: [https://commons.wikimedia.org/wiki/File:ECG_Principle_fast.svg](https://commons.wikimedia.org/wiki/File:ECG_Principle_fast.svg))* 
+**Clinical Source:** [Alcoholism: Clinical and Experimental Research & Sports Medicine](https://pubmed.ncbi.nlm.nih.gov/24533518/) 
 
 ---
 
-## 🇻🇳 NỘI DUNG TIẾNG VIỆT
+## 🇻🇳 Phiên Bản Tiếng Việt (Vietnamese Edition)
+
+# Rượu Bia Tàn Phá Phục Hồi Thế Nào? Cơ Chế Ức Chế Hormone T & Đứt Gãy Giấc Ngủ REM
+
+> **Tóm tắt (Sapo):** Chỉ 2–3 ly rượu bia vào buổi tối có thể phá hủy hoàn toàn công sức tập luyện của cả tuần. Dữ liệu từ hàng triệu đêm ngủ trên thiết bị đeo thông minh cho thấy rượu bia là thủ phạm số một khiến điểm Phục hồi (Recovery) rơi vào vùng đỏ báo động. Tìm hiểu cơ chế cồn ức chế trực tiếp enzyme sản xuất testosterone tại tinh hoàn và biến giấc ngủ ban đêm thành một cơn ác mộng chuyển hóa.
+
+> 💡 **Điểm Cốt Lõi & Hành Động Thực Tế (Key Takeaway):** Chất cồn là độc tố chuyển hóa ưu tiên đào thải. Nó làm sụt giảm 20%–40% testosterone sau các buổi nhậu, ức chế quá trình tổng hợp cơ bắp và cắt cụt giấc ngủ REM. Nếu uống rượu, hãy cách giờ đi ngủ ít nhất 4 tiếng và bù nước kèm điện giải.
 
 ## Cơn Ác Mộng Sinh Hóa: Tinh Hoàn Bị Tấn Công Bởi Acetaldehyde
 
@@ -61,14 +64,20 @@ Nhiều người viện cớ uống 1–2 ly rượu để "dễ ngủ". Đúng 
 
 ## Tài Liệu Tham Khảo & Nguồn Y Khoa
 
-1. **Barnes, M. J. (2014).** *Alcohol: a nutrient and a poison: the effects of alcohol on exercise performance and recovery.* Sports Medicine, 44(7), 909–919. [Đọc trên PubMed ↗](https://pubmed.ncbi.nlm.nih.gov/24533518/)
-2. **Parr, E. B., Camera, D. M., Areta, J. L., et al. (2014).** *Alcohol ingestion impairs maximal post-exercise rates of myofibrillar protein synthesis.* PLoS ONE, 9(2), e88384. [Đọc trên PLOS ONE ↗](https://pubmed.ncbi.nlm.nih.gov/24533148/)
-3. **Ebrahim, I. O., Shapiro, C. M., Williams, A. J., & Fenwick, P. B. (2013).** *Alcohol and sleep I: effects on normal sleep.* Alcoholism: Clinical and Experimental Research, 37(4), 539–549. [Đọc trên PubMed ↗](https://pubmed.ncbi.nlm.nih.gov/23347102/)
-4. **Maneesh, M., Dutta, S., Chakrabarti, A., & Vasudevan, D. M. (2006).** *Alcohol abuse-duration dependent decrease in plasma testosterone and antioxidants in males.* Indian Journal of Experimental Biology, 44(4), 291–296. [Đọc trên PubMed ↗](https://pubmed.ncbi.nlm.nih.gov/16629372/)
+1. **Barnes, M. J. (2014).** *Alcohol: a nutrient and a poison: the effects of alcohol on exercise performance and recovery.* Sports Medicine, 44(7), 909–919. [Tạp chí Sports Medicine (PMID: 24533518) ↗](https://pubmed.ncbi.nlm.nih.gov/24533518/)
+2. **Parr, E. B., Camera, D. M., Areta, J. L., et al. (2014).** *Alcohol ingestion impairs maximal post-exercise rates of myofibrillar protein synthesis.* PLoS ONE, 9(2), e88384. [Tạp chí PLOS ONE (PMID: 24533148) ↗](https://pubmed.ncbi.nlm.nih.gov/24533148/)
+3. **Ebrahim, I. O., Shapiro, C. M., Williams, A. J., & Fenwick, P. B. (2013).** *Alcohol and sleep I: effects on normal sleep.* Alcoholism: Clinical and Experimental Research, 37(4), 539–549. [Tạp chí Sleep (PMID: 23347102) ↗](https://pubmed.ncbi.nlm.nih.gov/23347102/)
+4. **Maneesh, M., Dutta, S., Chakrabarti, A., & Vasudevan, D. M. (2006).** *Alcohol abuse-duration dependent decrease in plasma testosterone and antioxidants in males.* Indian Journal of Experimental Biology, 44(4), 291–296. [Báo Cáo Nghiên Cứu Gốc (NCBI PubMed: 16629372) ↗](https://pubmed.ncbi.nlm.nih.gov/16629372/)
 
 ---
 
-## 🇬🇧 ENGLISH CONTENT
+## 🇬🇧 English Edition
+
+# Alcohol, Testosterone & Recovery: Acute Leydig Cell Suppression & REM Fragmentation
+
+> **Abstract (Sapo):** Just two to three alcoholic drinks in the evening can silently derail an entire week of disciplined training. Biometric analytics across millions of wearable user nights consistently single out alcohol as the primary trigger for catastrophic 'Red Recovery' scores. Explore how ethanol directly blocks testicular testosterone synthesis while fragmenting essential restorative REM sleep.
+
+> 💡 **Key Takeaway & Clinical Action:** Alcohol is a priority metabolic toxin. It triggers acute 20%–40% reductions in testosterone synthesis, impairs muscle protein synthesis by up to 37%, and shatters REM sleep architecture. If consuming alcohol, finish at least 4 hours before bedtime and hydrate aggressively.
 
 ## Biochemical Warfare: Testicular Attack by Acetaldehyde
 

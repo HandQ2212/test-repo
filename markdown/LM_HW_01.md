@@ -1,22 +1,21 @@
-# 🇻🇳 Giải Mã Điểm Quản Lý Căng Thẳng (Stress Score): Cách Thiết Bị Đeo Đo Lường Điện Sinh Lý Da (EDA) Và Hệ Thần Kinh Tự Chủ
-# 🇬🇧 Stress Management Score Explained: How Wearables Track Electrodermal Activity (EDA) and Autonomic Balance
-
-- **Article ID:** `LM_HW_01`
-- **Category:** Health & Wellness — Stress Management Score
-- **Content Type:** Learn more
-- **Mapped App Screen & Metric:** `Health & Wellness Screen` (`Stress Management Score`)
-- **Reading Time:** 8 phút đọc / 8 min
-- **Local Hero Photo:** `images/LM_HW_01_hero.jpg` ([Original Photo Source ↗](https://images.unsplash.com/photo-1499209974431-9dddcece7f88?auto=format&fit=crop&w=1200&q=85))
-- **Local Medical Figure:** `images/LM_HW_01_figure.png` ([Original Wikimedia Commons Source ↗](https://commons.wikimedia.org/wiki/File:Autonomic_and_Somatic_Nervous_System.png))
-- **Primary Clinical & Wearable Source:** [Fitbit Health Science, Garmin Firstbeat & Critchley (Nature Reviews Neuroscience, 2002)](https://pubmed.ncbi.nlm.nih.gov/11836522/)
+# LM_HW_01 - Giải Mã Điểm Quản Lý Căng Thẳng (Stress Score): Cách Thiết Bị Đeo Đo Lường Điện Sinh Lý Da (EDA) Và Hệ Thần Kinh Tự Chủ
+**Category:** Health & Wellness 
+**Screen:** Health & Wellness Screen 
+**Metric:** Stress Management Score 
+**Reading Time:** 8 phút đọc / 8 min 
+**Hero Image:** ![Giải Mã Điểm Quản Lý Căng Thẳng (Stress Score): Cách Thiết Bị Đeo Đo Lường Điện Sinh Lý Da (EDA) Và Hệ Thần Kinh Tự Chủ](images/LM_HW_01_hero.jpg) *(Source: [https://images.unsplash.com/photo-1499209974431-9dddcece7f88?auto=format&fit=crop&w=1200&q=85](https://images.unsplash.com/photo-1499209974431-9dddcece7f88?auto=format&fit=crop&w=1200&q=85))* 
+**Inline Figure:** ![Sơ đồ giải phẫu Hệ Thần kinh Tự chủ (Chuỗi hạch Giao cảm ngực-thắt lưng đối lập với nhánh Đối giao cảm dây thần kinh Phế vị sọ-cùng) điều phối biến thiên nhịp tim, trương lực mạch máu và tuyến mồ hôi.](images/LM_HW_01_figure.png) *(Source: [https://commons.wikimedia.org/wiki/File:Autonomic_and_Somatic_Nervous_System.png](https://commons.wikimedia.org/wiki/File:Autonomic_and_Somatic_Nervous_System.png))* 
+**Clinical Source:** [Fitbit Health Science, Garmin Firstbeat & Critchley (Nature Reviews Neuroscience, 2002)](https://pubmed.ncbi.nlm.nih.gov/11836522/) 
 
 ---
 
-## 🇻🇳 BẢN TIẾNG VIỆT
+## 🇻🇳 Phiên Bản Tiếng Việt (Vietnamese Edition)
 
-> **Tóm tắt:** Đồng hồ thông minh thường có thể phát hiện cơ thể bạn đang căng thẳng trước cả 30 phút so với khi tâm trí bạn nhận ra điều đó. Khám phá cách Fitbit, Garmin, Oura và WHOOP kết hợp cảm biến Hoạt động Điện da liên tục (cEDA), độ sụt giảm HRV theo thời gian thực và nhịp tim tăng cao khi ngồi yên để định lượng sức bền chống chịu căng thẳng của bạn.
+# Giải Mã Điểm Quản Lý Căng Thẳng (Stress Score): Cách Thiết Bị Đeo Đo Lường Điện Sinh Lý Da (EDA) Và Hệ Thần Kinh Tự Chủ
 
-> 💡 **Điểm Cốt Lõi & Hành Động Thực Tế:** Thiết bị đeo phân biệt căng thẳng tâm lý ban ngày với vận động thể chất bằng cách đối chiếu gia tốc kế 3 trục cùng nhịp tim và độ dẫn điện da (EDA): khi nhịp tim tăng, HRV giảm và tuyến mồ hôi vi thể hoạt động mạnh trong lúc cổ tay hoàn toàn đứng yên, đó là lúc Hệ Thần kinh Giao cảm đang kích hoạt.
+> **Tóm tắt (Sapo):** Đồng hồ thông minh thường có thể phát hiện cơ thể bạn đang căng thẳng trước cả 30 phút so với khi tâm trí bạn nhận ra điều đó. Khám phá cách Fitbit, Garmin, Oura và WHOOP kết hợp cảm biến Hoạt động Điện da liên tục (cEDA), độ sụt giảm HRV theo thời gian thực và nhịp tim tăng cao khi ngồi yên để định lượng sức bền chống chịu căng thẳng của bạn.
+
+> 💡 **Điểm Cốt Lõi & Hành Động Thực Tế (Key Takeaway):** Thiết bị đeo phân biệt căng thẳng tâm lý ban ngày với vận động thể chất bằng cách đối chiếu gia tốc kế 3 trục cùng nhịp tim và độ dẫn điện da (EDA): khi nhịp tim tăng, HRV giảm và tuyến mồ hôi vi thể hoạt động mạnh trong lúc cổ tay hoàn toàn đứng yên, đó là lúc Hệ Thần kinh Giao cảm đang kích hoạt.
 
 ## Làm Sao Một Chiếc Đồng Hồ Có Thể Đo Được "Căng Thẳng Tâm Lý"?
 
@@ -72,18 +71,20 @@ Một trong những phát hiện thú vị nhất từ tính năng **Oura Daytim
 
 ## Tài Liệu Tham Khảo & Nguồn Y Khoa
 
-1. **Critchley, H. D. (2002).** *Electrodermal responses: what happens in the brain.* The Neuroscientist, 8(2), 132–142. [https://pubmed.ncbi.nlm.nih.gov/11954558/](https://pubmed.ncbi.nlm.nih.gov/11954558/)
-2. **Shaffer, F., & Ginsberg, J. P. (2017).** *An Overview of Heart Rate Variability Metrics and Norms.* Frontiers in Public Health, 5, 258. [https://pubmed.ncbi.nlm.nih.gov/29034226/](https://pubmed.ncbi.nlm.nih.gov/29034226/)
-3. **Oura Ring Pulse Blog.** *Daytime Stress: How Oura Measures Physiological Stress & Autonomic Recovery.* [https://ouraring.com/blog/daytime-stress-feature/](https://ouraring.com/blog/daytime-stress-feature/)
-4. **Garmin Health Science.** *All-Day Stress Tracking Powered by Firstbeat Analytics.* [https://www.garmin.com/en-US/garmin-technology/health-science/stress-tracking/](https://www.garmin.com/en-US/garmin-technology/health-science/stress-tracking/)
+1. **Critchley, H. D. (2002).** *Electrodermal responses: what happens in the brain.* The Neuroscientist, 8(2), 132–142. [Báo Cáo Nghiên Cứu Gốc (NCBI PubMed: 11954558) ↗](https://pubmed.ncbi.nlm.nih.gov/11954558/)
+2. **Shaffer, F., & Ginsberg, J. P. (2017).** *An Overview of Heart Rate Variability Metrics and Norms.* Frontiers in Public Health, 5, 258. [Báo Cáo Nghiên Cứu Gốc (NCBI PubMed: 29034226) ↗](https://pubmed.ncbi.nlm.nih.gov/29034226/)
+3. **Oura Ring Pulse Blog.** *Daytime Stress: How Oura Measures Physiological Stress & Autonomic Recovery.* [Cổng Nghiên Cứu Oura Ring Science ↗](https://ouraring.com/blog/daytime-stress-feature/)
+4. **Garmin Health Science.** *All-Day Stress Tracking Powered by Firstbeat Analytics.* [Cổng Khoa Học Garmin Health Science ↗](https://www.garmin.com/en-US/garmin-technology/health-science/stress-tracking/)
 
 ---
 
-## 🇬🇧 ENGLISH VERSION
+## 🇬🇧 English Edition
 
-> **Executive Summary:** Your smartwatch can often detect that you are stressed 30 minutes before you consciously feel overwhelmed. Discover how Fitbit, Garmin, Oura, and WHOOP combine continuous Electrodermal Activity (cEDA), real-time HRV drops, and non-movement heart rate elevations to quantify your physiological stress resilience.
+# Stress Management Score Explained: How Wearables Track Electrodermal Activity (EDA) and Autonomic Balance
 
-> 💡 **Key Actionable Takeaway:** Wearables distinguish daytime psychological stress from physical exercise by cross-referencing your 3-axis accelerometer with your pulse and skin conductance (EDA): when your heart rate climbs, HRV drops, and micro-sweat increases while your wrist is completely still, your Sympathetic Nervous System is firing.
+> **Abstract (Sapo):** Your smartwatch can often detect that you are stressed 30 minutes before you consciously feel overwhelmed. Discover how Fitbit, Garmin, Oura, and WHOOP combine continuous Electrodermal Activity (cEDA), real-time HRV drops, and non-movement heart rate elevations to quantify your physiological stress resilience.
+
+> 💡 **Key Takeaway & Clinical Action:** Wearables distinguish daytime psychological stress from physical exercise by cross-referencing your 3-axis accelerometer with your pulse and skin conductance (EDA): when your heart rate climbs, HRV drops, and micro-sweat increases while your wrist is completely still, your Sympathetic Nervous System is firing.
 
 ## How Can a Watch Measure "Mental Stress"?
 
@@ -139,7 +140,7 @@ One of the most valuable insights from **Oura Daytime Stress** and **WHOOP Stres
 
 ## References & Clinical Sources
 
-1. **Critchley, H. D. (2002).** *Electrodermal responses: what happens in the brain.* The Neuroscientist, 8(2), 132–142. [https://pubmed.ncbi.nlm.nih.gov/11954558/](https://pubmed.ncbi.nlm.nih.gov/11954558/)
-2. **Shaffer, F., & Ginsberg, J. P. (2017).** *An Overview of Heart Rate Variability Metrics and Norms.* Frontiers in Public Health, 5, 258. [https://pubmed.ncbi.nlm.nih.gov/29034226/](https://pubmed.ncbi.nlm.nih.gov/29034226/)
-3. **Oura Ring Pulse Blog.** *Daytime Stress: How Oura Measures Physiological Stress & Autonomic Recovery.* [https://ouraring.com/blog/daytime-stress-feature/](https://ouraring.com/blog/daytime-stress-feature/)
-4. **Garmin Health Science.** *All-Day Stress Tracking Powered by Firstbeat Analytics.* [https://www.garmin.com/en-US/garmin-technology/health-science/stress-tracking/](https://www.garmin.com/en-US/garmin-technology/health-science/stress-tracking/)
+1. **Critchley, H. D. (2002).** *Electrodermal responses: what happens in the brain.* The Neuroscientist, 8(2), 132–142. [Original Study Report (NCBI PubMed: 11954558) ↗](https://pubmed.ncbi.nlm.nih.gov/11954558/)
+2. **Shaffer, F., & Ginsberg, J. P. (2017).** *An Overview of Heart Rate Variability Metrics and Norms.* Frontiers in Public Health, 5, 258. [Original Study Report (NCBI PubMed: 29034226) ↗](https://pubmed.ncbi.nlm.nih.gov/29034226/)
+3. **Oura Ring Pulse Blog.** *Daytime Stress: How Oura Measures Physiological Stress & Autonomic Recovery.* [Oura Ring Science Portal ↗](https://ouraring.com/blog/daytime-stress-feature/)
+4. **Garmin Health Science.** *All-Day Stress Tracking Powered by Firstbeat Analytics.* [Garmin Health Science Portal ↗](https://www.garmin.com/en-US/garmin-technology/health-science/stress-tracking/)

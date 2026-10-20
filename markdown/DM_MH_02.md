@@ -1,22 +1,21 @@
-# 🇻🇳 Thể Lực Vùng Háng & Độ Linh Hoạt Khung Chậu: Giải Phóng Thần Kinh Thẹn và Khôi Phục Tưới Máu Động Mạch
-# 🇬🇧 Groin Fitness and Pelvic Mobility: Decompressing the Pudendal Nerve and Restoring Vascular Perfusion
-
-- **Article ID:** `DM_MH_02`
-- **Category:** Men's Health — Groin Fitness Circulation
-- **Content Type:** Discover more
-- **Mapped App Screen & Metric:** `Men's Health Screen` (`Groin Fitness & Mobility`)
-- **Reading Time:** 8 phút đọc / 8 min
-- **Local Hero Photo:** `images/DM_MH_02_hero.jpg` ([Original Photo Source ↗](https://images.unsplash.com/photo-1599058917212-d750089bc07e?auto=format&fit=crop&w=1200&q=85))
-- **Local Medical Figure:** `images/DM_MH_02_figure.png` ([Original Wikimedia Commons Source ↗](https://commons.wikimedia.org/wiki/File:Anterior_Hip_Muscles_2.PNG))
-- **Primary Clinical & Wearable Source:** [Sexual Medicine Reviews (Cohen et al., 2016) & Journal of Urology (Anderson et al., 2005)](https://pubmed.ncbi.nlm.nih.gov/27872005/)
+# DM_MH_02 - Thể Lực Vùng Háng & Độ Linh Hoạt Khung Chậu: Giải Phóng Thần Kinh Thẹn và Khôi Phục Tưới Máu Động Mạch
+**Category:** Men's Health 
+**Screen:** Men's Health Screen 
+**Metric:** Groin Fitness & Mobility 
+**Reading Time:** 8 phút đọc / 8 min 
+**Hero Image:** ![Thể Lực Vùng Háng & Độ Linh Hoạt Khung Chậu: Giải Phóng Thần Kinh Thẹn và Khôi Phục Tưới Máu Động Mạch](images/DM_MH_02_hero.jpg) *(Source: [https://images.unsplash.com/photo-1599058917212-d750089bc07e?auto=format&fit=crop&w=1200&q=85](https://images.unsplash.com/photo-1599058917212-d750089bc07e?auto=format&fit=crop&w=1200&q=85))* 
+**Inline Figure:** ![Sơ đồ giải phẫu lâm sàng các nhóm cơ mặt trước khớp hông và đai chậu sâu (Wikimedia Commons), minh họa phức hợp cơ Thắt lưng – Chậu (Iliopsoas: Psoas Major và Iliacus), cơ Lược (Pectineus) và nhóm cơ Khép đùi (Adductors) chi phối độ nghiêng khung chậu và dòng máu chảy qua eo chậu.](images/DM_MH_02_figure.png) *(Source: [https://commons.wikimedia.org/wiki/File:Anterior_Hip_Muscles_2.PNG](https://commons.wikimedia.org/wiki/File:Anterior_Hip_Muscles_2.PNG))* 
+**Clinical Source:** [Sexual Medicine Reviews (Cohen et al., 2016) & Journal of Urology (Anderson et al., 2005)](https://pubmed.ncbi.nlm.nih.gov/27872005/) 
 
 ---
 
-## 🇻🇳 BẢN TIẾNG VIỆT
+## 🇻🇳 Phiên Bản Tiếng Việt (Vietnamese Edition)
 
-> **Tóm tắt:** Việc ngồi 8 đến 10 tiếng mỗi ngày làm co rút nhóm cơ thắt lưng – chậu (iliopsoas), gây 'mất trí nhớ cơ mông' và chèn ép động mạch thẹn trong tại ống Alcock. Khám phá cách các bài tập mở khớp hông và kích hoạt cơ mông giúp khôi phục lưu lượng máu vùng chậu và giải phóng sàn chậu bị căng cứng.
+# Thể Lực Vùng Háng & Độ Linh Hoạt Khung Chậu: Giải Phóng Thần Kinh Thẹn và Khôi Phục Tưới Máu Động Mạch
 
-> 💡 **Điểm Cốt Lõi & Hành Động Thực Tế:** Chỉ tập siết Kegel thôi là chưa đủ nếu các động mạch vùng chậu của bạn đang bị chèn ép bởi khớp hông cứng và thói quen ngồi 8 tiếng mỗi ngày. Hãy kết hợp lịch tập Kegel với bài Cầu mông (Glute Bridge), Ngồi xổm sâu (Deep Squat) và Giãn cơ gập hông (Iliopsoas Stretch) để giải phóng ống Alcock và tối ưu hóa dòng máu động mạch đổ về khung chậu.
+> **Tóm tắt (Sapo):** Việc ngồi 8 đến 10 tiếng mỗi ngày làm co rút nhóm cơ thắt lưng – chậu (iliopsoas), gây 'mất trí nhớ cơ mông' và chèn ép động mạch thẹn trong tại ống Alcock. Khám phá cách các bài tập mở khớp hông và kích hoạt cơ mông giúp khôi phục lưu lượng máu vùng chậu và giải phóng sàn chậu bị căng cứng.
+
+> 💡 **Điểm Cốt Lõi & Hành Động Thực Tế (Key Takeaway):** Chỉ tập siết Kegel thôi là chưa đủ nếu các động mạch vùng chậu của bạn đang bị chèn ép bởi khớp hông cứng và thói quen ngồi 8 tiếng mỗi ngày. Hãy kết hợp lịch tập Kegel với bài Cầu mông (Glute Bridge), Ngồi xổm sâu (Deep Squat) và Giãn cơ gập hông (Iliopsoas Stretch) để giải phóng ống Alcock và tối ưu hóa dòng máu động mạch đổ về khung chậu.
 
 ## "Hội Chứng Khung Chậu Ngồi Nhiều": 8 Tiếng Ngồi Ghế Mỗi Ngày Bóp Nghẹt Dòng Máu Động Mạch Như Thế Nào?
 
@@ -80,18 +79,20 @@ Hãy thực hiện chuỗi 4 bài tập giải phóng mạch máu này vào mỗ
 
 ## Tài Liệu Tham Khảo & Nguồn Y Khoa
 
-1. **Cohen, D., Gonzalez, J., & Goldstein, I. (2016).** *The Role of Pelvic Floor Muscles in Male Sexual Dysfunction and Pelvic Pain.* Sexual Medicine Reviews, 4(1), 53–62. [https://pubmed.ncbi.nlm.nih.gov/27872005/](https://pubmed.ncbi.nlm.nih.gov/27872005/)
-2. **Anderson, R. U., Wise, D., Sawyer, T., & Chan, C. (2005).** *Integration of myofascial trigger point release and paradoxical relaxation training treatment of chronic pelvic pain in men.* The Journal of Urology, 174(1), 155–160. [https://pubmed.ncbi.nlm.nih.gov/15947608/](https://pubmed.ncbi.nlm.nih.gov/15947608/)
-3. **Cho, S. T., & Kim, K. H. (2021).** *Pelvic floor muscle exercise and training for coping with urinary incontinence and male pelvic dysfunction.* Journal of Exercise Rehabilitation, 17(6), 379–387. [https://pubmed.ncbi.nlm.nih.gov/35036386/](https://pubmed.ncbi.nlm.nih.gov/35036386/)
-4. **Sommer, F., Goldstein, I., & Korda, J. B. (2010).** *Perineal compression, pudendal artery hemodynamics, and erectile dysfunction.* The Journal of Sexual Medicine, 7(7), 2346–2358. [https://pubmed.ncbi.nlm.nih.gov/20584120/](https://pubmed.ncbi.nlm.nih.gov/20584120/)
+1. **Cohen, D., Gonzalez, J., & Goldstein, I. (2016).** *The Role of Pelvic Floor Muscles in Male Sexual Dysfunction and Pelvic Pain.* Sexual Medicine Reviews, 4(1), 53–62. [Báo Cáo Nghiên Cứu Gốc (NCBI PubMed: 27872005) ↗](https://pubmed.ncbi.nlm.nih.gov/27872005/)
+2. **Anderson, R. U., Wise, D., Sawyer, T., & Chan, C. (2005).** *Integration of myofascial trigger point release and paradoxical relaxation training treatment of chronic pelvic pain in men.* The Journal of Urology, 174(1), 155–160. [Báo Cáo Nghiên Cứu Gốc (NCBI PubMed: 15947608) ↗](https://pubmed.ncbi.nlm.nih.gov/15947608/)
+3. **Cho, S. T., & Kim, K. H. (2021).** *Pelvic floor muscle exercise and training for coping with urinary incontinence and male pelvic dysfunction.* Journal of Exercise Rehabilitation, 17(6), 379–387. [Báo Cáo Nghiên Cứu Gốc (NCBI PubMed: 35036386) ↗](https://pubmed.ncbi.nlm.nih.gov/35036386/)
+4. **Sommer, F., Goldstein, I., & Korda, J. B. (2010).** *Perineal compression, pudendal artery hemodynamics, and erectile dysfunction.* The Journal of Sexual Medicine, 7(7), 2346–2358. [Báo Cáo Nghiên Cứu Gốc (NCBI PubMed: 20584120) ↗](https://pubmed.ncbi.nlm.nih.gov/20584120/)
 
 ---
 
-## 🇬🇧 ENGLISH VERSION
+## 🇬🇧 English Edition
 
-> **Executive Summary:** Sitting 8 to 10 hours a day shortens the iliopsoas hip flexors, switches off the glutes, and compresses the internal pudendal artery inside Alcock's canal. Discover how targeted hip openers and glute activation restore pelvic blood flow and decompress hypertonic pelvic floor muscles.
+# Groin Fitness and Pelvic Mobility: Decompressing the Pudendal Nerve and Restoring Vascular Perfusion
 
-> 💡 **Key Actionable Takeaway:** Kegel strengthening alone is incomplete if your pelvic arteries are compressed by tight hips and 8 hours of daily sitting. Pair your Kegel routine with daily Glute Bridges, Deep Squats, and Iliopsoas Stretches to decompress Alcock's canal and maximize arterial blood flow into the pelvis.
+> **Abstract (Sapo):** Sitting 8 to 10 hours a day shortens the iliopsoas hip flexors, switches off the glutes, and compresses the internal pudendal artery inside Alcock's canal. Discover how targeted hip openers and glute activation restore pelvic blood flow and decompress hypertonic pelvic floor muscles.
+
+> 💡 **Key Takeaway & Clinical Action:** Kegel strengthening alone is incomplete if your pelvic arteries are compressed by tight hips and 8 hours of daily sitting. Pair your Kegel routine with daily Glute Bridges, Deep Squats, and Iliopsoas Stretches to decompress Alcock's canal and maximize arterial blood flow into the pelvis.
 
 ## The Sedentary Pelvis: How 8 Hours of Sitting Chokes Arterial Inflow
 
@@ -155,7 +156,7 @@ Perform this 4-exercise vascular decompression sequence every afternoon or eveni
 
 ## References & Clinical Sources
 
-1. **Cohen, D., Gonzalez, J., & Goldstein, I. (2016).** *The Role of Pelvic Floor Muscles in Male Sexual Dysfunction and Pelvic Pain.* Sexual Medicine Reviews, 4(1), 53–62. [https://pubmed.ncbi.nlm.nih.gov/27872005/](https://pubmed.ncbi.nlm.nih.gov/27872005/)
-2. **Anderson, R. U., Wise, D., Sawyer, T., & Chan, C. (2005).** *Integration of myofascial trigger point release and paradoxical relaxation training treatment of chronic pelvic pain in men.* The Journal of Urology, 174(1), 155–160. [https://pubmed.ncbi.nlm.nih.gov/15947608/](https://pubmed.ncbi.nlm.nih.gov/15947608/)
-3. **Cho, S. T., & Kim, K. H. (2021).** *Pelvic floor muscle exercise and training for coping with urinary incontinence and male pelvic dysfunction.* Journal of Exercise Rehabilitation, 17(6), 379–387. [https://pubmed.ncbi.nlm.nih.gov/35036386/](https://pubmed.ncbi.nlm.nih.gov/35036386/)
-4. **Sommer, F., Goldstein, I., & Korda, J. B. (2010).** *Perineal compression, pudendal artery hemodynamics, and erectile dysfunction.* The Journal of Sexual Medicine, 7(7), 2346–2358. [https://pubmed.ncbi.nlm.nih.gov/20584120/](https://pubmed.ncbi.nlm.nih.gov/20584120/)
+1. **Cohen, D., Gonzalez, J., & Goldstein, I. (2016).** *The Role of Pelvic Floor Muscles in Male Sexual Dysfunction and Pelvic Pain.* Sexual Medicine Reviews, 4(1), 53–62. [Original Study Report (NCBI PubMed: 27872005) ↗](https://pubmed.ncbi.nlm.nih.gov/27872005/)
+2. **Anderson, R. U., Wise, D., Sawyer, T., & Chan, C. (2005).** *Integration of myofascial trigger point release and paradoxical relaxation training treatment of chronic pelvic pain in men.* The Journal of Urology, 174(1), 155–160. [Original Study Report (NCBI PubMed: 15947608) ↗](https://pubmed.ncbi.nlm.nih.gov/15947608/)
+3. **Cho, S. T., & Kim, K. H. (2021).** *Pelvic floor muscle exercise and training for coping with urinary incontinence and male pelvic dysfunction.* Journal of Exercise Rehabilitation, 17(6), 379–387. [Original Study Report (NCBI PubMed: 35036386) ↗](https://pubmed.ncbi.nlm.nih.gov/35036386/)
+4. **Sommer, F., Goldstein, I., & Korda, J. B. (2010).** *Perineal compression, pudendal artery hemodynamics, and erectile dysfunction.* The Journal of Sexual Medicine, 7(7), 2346–2358. [Original Study Report (NCBI PubMed: 20584120) ↗](https://pubmed.ncbi.nlm.nih.gov/20584120/)

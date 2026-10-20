@@ -1,22 +1,21 @@
-# 🇻🇳 Kích Hoạt Dây Thần Kinh Phế Vị & Nhịp Thở Dài Sinh Lý 60 Giây: Giao Thức Hơi Thở Hạ Nhịp Tim Tức Thì Từ Đại Học Stanford
-# 🇬🇧 Vagus Nerve Activation & The 60-Second Physiological Sigh: Stanford's Fast-Acting Breathwork Protocol
-
-- **Article ID:** `DM_HW_01`
-- **Category:** Health & Wellness — Vagus Nerve & Physiological Sigh
-- **Content Type:** Discover more
-- **Mapped App Screen & Metric:** `Health & Wellness Screen` (`Vagus Nerve Activation`)
-- **Reading Time:** 8 phút đọc / 8 min
-- **Local Hero Photo:** `images/DM_HW_01_hero.jpg` ([Original Photo Source ↗](https://images.unsplash.com/photo-1515377905703-c4788e51af15?auto=format&fit=crop&w=1200&q=85))
-- **Local Medical Figure:** `images/DM_HW_01_figure.jpg` ([Original Wikimedia Commons Source ↗](https://commons.wikimedia.org/wiki/File:Anatomy_of_Anterior_Vagus_Nerve_Diagram.jpg))
-- **Primary Clinical & Wearable Source:** [Cell Reports Medicine — Stanford University School of Medicine (Balban, Huberman, Spiegel et al., 2023)](https://pubmed.ncbi.nlm.nih.gov/36630953/)
+# DM_HW_01 - Kích Hoạt Dây Thần Kinh Phế Vị & Nhịp Thở Dài Sinh Lý 60 Giây: Giao Thức Hơi Thở Hạ Nhịp Tim Tức Thì Từ Đại Học Stanford
+**Category:** Health & Wellness 
+**Screen:** Health & Wellness Screen 
+**Metric:** Vagus Nerve Activation 
+**Reading Time:** 8 phút đọc / 8 min 
+**Hero Image:** ![Kích Hoạt Dây Thần Kinh Phế Vị & Nhịp Thở Dài Sinh Lý 60 Giây: Giao Thức Hơi Thở Hạ Nhịp Tim Tức Thì Từ Đại Học Stanford](images/DM_HW_01_hero.jpg) *(Source: [https://images.unsplash.com/photo-1515377905703-c4788e51af15?auto=format&fit=crop&w=1200&q=85](https://images.unsplash.com/photo-1515377905703-c4788e51af15?auto=format&fit=crop&w=1200&q=85))* 
+**Inline Figure:** ![Sơ đồ giải phẫu Dây thần kinh Sọ số 10 (Dây thần kinh Phế vị / CN X) phân nhánh từ hành não đi xuống vùng cổ và lồng ngực để chi phối nút xoang nhĩ của tim, phổi và cơ hoành.](images/DM_HW_01_figure.jpg) *(Source: [https://commons.wikimedia.org/wiki/File:Anatomy_of_Anterior_Vagus_Nerve_Diagram.jpg](https://commons.wikimedia.org/wiki/File:Anatomy_of_Anterior_Vagus_Nerve_Diagram.jpg))* 
+**Clinical Source:** [Cell Reports Medicine — Stanford University School of Medicine (Balban, Huberman, Spiegel et al., 2023)](https://pubmed.ncbi.nlm.nih.gov/36630953/) 
 
 ---
 
-## 🇻🇳 BẢN TIẾNG VIỆT
+## 🇻🇳 Phiên Bản Tiếng Việt (Vietnamese Edition)
 
-> **Tóm tắt:** Khi tim bạn đập nhanh trước một buổi thuyết trình lớn hoặc sau cuộc gọi căng thẳng, việc tự nhủ 'hãy bình tĩnh' hiếm khi hiệu quả—bởi hạch hạnh nhân đã lấn át vỏ não tư duy. Tìm hiểu cách thử nghiệm lâm sàng ngẫu nhiên năm 2023 của Trường Y Đại học Stanford chứng minh Nhịp Thở Dài Sinh Lý theo chu kỳ giúp hạ nhịp tim và giảm lo âu nhanh hơn cả thiền chánh niệm.
+# Kích Hoạt Dây Thần Kinh Phế Vị & Nhịp Thở Dài Sinh Lý 60 Giây: Giao Thức Hơi Thở Hạ Nhịp Tim Tức Thì Từ Đại Học Stanford
 
-> 💡 **Điểm Cốt Lõi & Hành Động Thực Tế:** Hai nhịp hít vào liên tiếp bằng mũi (một hơi hít sâu, nối tiếp ngay bằng một hơi nhấp ngắn nạp đầy phổi) đi kèm một hơi thở ra thật chậm bằng miệng giúp mở lại các phế nang bị xẹp, đẩy nhanh khí CO₂ dư thừa và kích thích Dây thần kinh Phế vị làm chậm nhịp tim chỉ trong 30 đến 60 giây.
+> **Tóm tắt (Sapo):** Khi tim bạn đập nhanh trước một buổi thuyết trình lớn hoặc sau cuộc gọi căng thẳng, việc tự nhủ 'hãy bình tĩnh' hiếm khi hiệu quả—bởi hạch hạnh nhân đã lấn át vỏ não tư duy. Tìm hiểu cách thử nghiệm lâm sàng ngẫu nhiên năm 2023 của Trường Y Đại học Stanford chứng minh Nhịp Thở Dài Sinh Lý theo chu kỳ giúp hạ nhịp tim và giảm lo âu nhanh hơn cả thiền chánh niệm.
+
+> 💡 **Điểm Cốt Lõi & Hành Động Thực Tế (Key Takeaway):** Hai nhịp hít vào liên tiếp bằng mũi (một hơi hít sâu, nối tiếp ngay bằng một hơi nhấp ngắn nạp đầy phổi) đi kèm một hơi thở ra thật chậm bằng miệng giúp mở lại các phế nang bị xẹp, đẩy nhanh khí CO₂ dư thừa và kích thích Dây thần kinh Phế vị làm chậm nhịp tim chỉ trong 30 đến 60 giây.
 
 ## Tại Sao Bạn Không Thể "Dùng Lý Trí" Để Ra Lệnh Cho Trái Tim Đập Chậm Lại?
 
@@ -88,18 +87,20 @@ Bạn có thể kiểm chứng hiệu quả của Nhịp Thở Dài Sinh Lý nga
 
 ## Tài Liệu Tham Khảo & Nguồn Y Khoa
 
-1. **Balban, M. Y., Neri, E., Kogon, M. M., Weed, L., Nouriani, B., Jo, B., ... & Huberman, A. D. (2023).** *Brief structured respiration practices enhance mood and reduce physiological arousal.* Cell Reports Medicine, 4(1), 100895. [https://pubmed.ncbi.nlm.nih.gov/36630953/](https://pubmed.ncbi.nlm.nih.gov/36630953/)
-2. **Zaccaro, A., Piarulli, A., Laurino, M., Garbella, E., Menicucci, D., Neri, B., & Gemignani, A. (2018).** *How Breath-Control Can Change Your Life: A Systematic Review on Psycho-Physiological Correlates of Slow Breathing.* Frontiers in Human Neuroscience, 12, 353. [https://pubmed.ncbi.nlm.nih.gov/30245619/](https://pubmed.ncbi.nlm.nih.gov/30245619/)
-3. **WHOOP The Locker.** *Breathwork for Recovery: How Nasal & Cyclic Breathing Increases HRV.* [https://www.whoop.com/us/en/thelocker/breathwork-for-recovery-and-hrv/](https://www.whoop.com/us/en/thelocker/breathwork-for-recovery-and-hrv/)
-4. **Stanford Medicine News Center (2023).** *Cyclic sighing can help breathe away anxiety in just 5 minutes a day.* [https://med.stanford.edu/news/insights/2023/02/cyclic-sighing-can-help-breathe-away-anxiety.html](https://med.stanford.edu/news/insights/2023/02/cyclic-sighing-can-help-breathe-away-anxiety.html)
+1. **Balban, M. Y., Neri, E., Kogon, M. M., Weed, L., Nouriani, B., Jo, B., ... & Huberman, A. D. (2023).** *Brief structured respiration practices enhance mood and reduce physiological arousal.* Cell Reports Medicine, 4(1), 100895. [Báo Cáo Nghiên Cứu Gốc (NCBI PubMed: 36630953) ↗](https://pubmed.ncbi.nlm.nih.gov/36630953/)
+2. **Zaccaro, A., Piarulli, A., Laurino, M., Garbella, E., Menicucci, D., Neri, B., & Gemignani, A. (2018).** *How Breath-Control Can Change Your Life: A Systematic Review on Psycho-Physiological Correlates of Slow Breathing.* Frontiers in Human Neuroscience, 12, 353. [Báo Cáo Nghiên Cứu Gốc (NCBI PubMed: 30245619) ↗](https://pubmed.ncbi.nlm.nih.gov/30245619/)
+3. **WHOOP The Locker.** *Breathwork for Recovery: How Nasal & Cyclic Breathing Increases HRV.* [Tạp Chí Khoa Học WHOOP The Locker ↗](https://www.whoop.com/us/en/thelocker/breathwork-for-recovery-and-hrv/)
+4. **Stanford Medicine News Center (2023).** *Cyclic sighing can help breathe away anxiety in just 5 minutes a day.* [Tài Liệu Gốc Xác Thực ↗](https://med.stanford.edu/news/insights/2023/02/cyclic-sighing-can-help-breathe-away-anxiety.html)
 
 ---
 
-## 🇬🇧 ENGLISH VERSION
+## 🇬🇧 English Edition
 
-> **Executive Summary:** When your heart is racing before a big presentation or after a stressful call, telling yourself to 'calm down' rarely works—because the amygdala overrides the thinking cortex. Learn how a 2023 Stanford Medicine randomized clinical trial proved that Cyclic Physiological Sighing lowers heart rate and anxiety faster than mindfulness meditation.
+# Vagus Nerve Activation & The 60-Second Physiological Sigh: Stanford's Fast-Acting Breathwork Protocol
 
-> 💡 **Key Actionable Takeaway:** Two consecutive nasal inhales (one deep breath in, followed immediately by a sharp top-off sip of air) paired with a long, slow mouth exhale re-inflates collapsed lung alveoli, offloads excess CO₂, and stimulates the Vagus Nerve to slow your heart rate within 30 to 60 seconds.
+> **Abstract (Sapo):** When your heart is racing before a big presentation or after a stressful call, telling yourself to 'calm down' rarely works—because the amygdala overrides the thinking cortex. Learn how a 2023 Stanford Medicine randomized clinical trial proved that Cyclic Physiological Sighing lowers heart rate and anxiety faster than mindfulness meditation.
+
+> 💡 **Key Takeaway & Clinical Action:** Two consecutive nasal inhales (one deep breath in, followed immediately by a sharp top-off sip of air) paired with a long, slow mouth exhale re-inflates collapsed lung alveoli, offloads excess CO₂, and stimulates the Vagus Nerve to slow your heart rate within 30 to 60 seconds.
 
 ## Why You Cannot "Think" Your Way Out of Acute Stress
 
@@ -171,7 +172,7 @@ You can test the Physiological Sigh right now using the live heart rate screen o
 
 ## References & Clinical Sources
 
-1. **Balban, M. Y., Neri, E., Kogon, M. M., Weed, L., Nouriani, B., Jo, B., ... & Huberman, A. D. (2023).** *Brief structured respiration practices enhance mood and reduce physiological arousal.* Cell Reports Medicine, 4(1), 100895. [https://pubmed.ncbi.nlm.nih.gov/36630953/](https://pubmed.ncbi.nlm.nih.gov/36630953/)
-2. **Zaccaro, A., Piarulli, A., Laurino, M., Garbella, E., Menicucci, D., Neri, B., & Gemignani, A. (2018).** *How Breath-Control Can Change Your Life: A Systematic Review on Psycho-Physiological Correlates of Slow Breathing.* Frontiers in Human Neuroscience, 12, 353. [https://pubmed.ncbi.nlm.nih.gov/30245619/](https://pubmed.ncbi.nlm.nih.gov/30245619/)
-3. **WHOOP The Locker.** *Breathwork for Recovery: How Nasal & Cyclic Breathing Increases HRV.* [https://www.whoop.com/us/en/thelocker/breathwork-for-recovery-and-hrv/](https://www.whoop.com/us/en/thelocker/breathwork-for-recovery-and-hrv/)
-4. **Stanford Medicine News Center (2023).** *Cyclic sighing can help breathe away anxiety in just 5 minutes a day.* [https://med.stanford.edu/news/insights/2023/02/cyclic-sighing-can-help-breathe-away-anxiety.html](https://med.stanford.edu/news/insights/2023/02/cyclic-sighing-can-help-breathe-away-anxiety.html)
+1. **Balban, M. Y., Neri, E., Kogon, M. M., Weed, L., Nouriani, B., Jo, B., ... & Huberman, A. D. (2023).** *Brief structured respiration practices enhance mood and reduce physiological arousal.* Cell Reports Medicine, 4(1), 100895. [Original Study Report (NCBI PubMed: 36630953) ↗](https://pubmed.ncbi.nlm.nih.gov/36630953/)
+2. **Zaccaro, A., Piarulli, A., Laurino, M., Garbella, E., Menicucci, D., Neri, B., & Gemignani, A. (2018).** *How Breath-Control Can Change Your Life: A Systematic Review on Psycho-Physiological Correlates of Slow Breathing.* Frontiers in Human Neuroscience, 12, 353. [Original Study Report (NCBI PubMed: 30245619) ↗](https://pubmed.ncbi.nlm.nih.gov/30245619/)
+3. **WHOOP The Locker.** *Breathwork for Recovery: How Nasal & Cyclic Breathing Increases HRV.* [WHOOP The Locker Science Journal ↗](https://www.whoop.com/us/en/thelocker/breathwork-for-recovery-and-hrv/)
+4. **Stanford Medicine News Center (2023).** *Cyclic sighing can help breathe away anxiety in just 5 minutes a day.* [Verified Original Document ↗](https://med.stanford.edu/news/insights/2023/02/cyclic-sighing-can-help-breathe-away-anxiety.html)

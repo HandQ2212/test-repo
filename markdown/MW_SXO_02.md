@@ -1,18 +1,21 @@
-# Sinh Lý Học Của Sự Hưng Phấn: Dòng Thác Thần Kinh - Mạch Máu Từ Não Bộ Đến Thể Hang
-**What Happens During Male Sexual Arousal? The Neurovascular Cascade from Cortex to Corpora**
-
-> **Sapo (VI):** Sự cương cứng của phái mạnh thường bị lầm tưởng là một khối cơ bắp gồng cứng, nhưng về mặt giải phẫu học, dương vật hoàn toàn không chứa bất kỳ sợi cơ xương nào bên trong. Đó là một kiệt tác thủy lực được vận hành bởi dòng thác phối hợp chính xác đến từng mili-giây giữa hệ thần kinh tự chủ, enzyme Nitric Oxide nội mô và các khoang thể hang xốp.
-> 
-> **Lead (EN):** Male erection is frequently mischaracterized as muscle contraction, yet anatomically, the human penis contains zero skeletal muscle within its erectile shafts. It is an extraordinary vascular-hydraulic masterpiece coordinated with millisecond precision between the autonomic nervous system, endothelial nitric oxide enzymes, and trabecular sinusoidal spaces.
-
-> [!TIP]
-> 💡 **Điểm Cốt Lõi (Key Takeaway):** Cương cứng là sự thư giãn của cơ trơn thể hang để dòng máu lấp đầy các khoang xốp. Bất kỳ yếu tố nào làm co thắt mạch (nicotine, căng thẳng, mỡ máu cao) đều chặn đứng quá trình này. Cơ chế duy trì độ cứng vững chắc dựa vào hiện tượng chèn ép tĩnh mạch tự nhiên khi áp lực thể hang đạt 100 mmHg.
-> 
-> 💡 **Takeaway (EN):** Erection is paradoxical: it requires deep smooth muscle relaxation to permit arterial inflow to engorge sinusoidal caverns. Any vasoconstrictor (nicotine, sympathetic stress, plaque) halts the cascade. Rigidity maintenance depends entirely on passive venous occlusion against the rigid tunica albuginea.
+# MW_SXO_02 - Sinh Lý Học Của Sự Hưng Phấn: Dòng Thác Thần Kinh - Mạch Máu Từ Não Bộ Đến Thể Hang
+**Category:** Men's Health 
+**Screen:** Erectile Function & Hemodynamics Screen 
+**Metric:** Pelvic Splanchnic Nerve Discharge, NO/cGMP Cascade & Venous Occlusion 
+**Reading Time:** 8 phút đọc / 8 min 
+**Hero Image:** ![Sinh Lý Học Của Sự Hưng Phấn: Dòng Thác Thần Kinh - Mạch Máu Từ Não Bộ Đến Thể Hang](images/DM_MH_02_hero.jpg) *(Source: [https://images.unsplash.com/photo-1576091160399-112ba8d25d1d?auto=format&fit=crop&w=1200&q=85](https://images.unsplash.com/photo-1576091160399-112ba8d25d1d?auto=format&fit=crop&w=1200&q=85))* 
+**Inline Figure:** ![Cơ chế sinh lý học cương cứng: Dây thần kinh chậu giải phóng Nitric Oxide, kích hoạt cGMP làm giãn cơ trơn thể hang và chèn ép tĩnh mạch dưới màng trắng.](images/DM_MH_01_figure.png) *(Source: [https://commons.wikimedia.org/wiki/File:Erection_mechanism.svg](https://commons.wikimedia.org/wiki/File:Erection_mechanism.svg))* 
+**Clinical Source:** [New England Journal of Medicine (NEJM) & Pharmacological Reviews](https://pubmed.ncbi.nlm.nih.gov/10853004/) 
 
 ---
 
-## 🇻🇳 NỘI DUNG TIẾNG VIỆT
+## 🇻🇳 Phiên Bản Tiếng Việt (Vietnamese Edition)
+
+# Sinh Lý Học Của Sự Hưng Phấn: Dòng Thác Thần Kinh - Mạch Máu Từ Não Bộ Đến Thể Hang
+
+> **Tóm tắt (Sapo):** Sự cương cứng của phái mạnh thường bị lầm tưởng là một khối cơ bắp gồng cứng, nhưng về mặt giải phẫu học, dương vật hoàn toàn không chứa bất kỳ sợi cơ xương nào bên trong. Đó là một kiệt tác thủy lực được vận hành bởi dòng thác phối hợp chính xác đến từng mili-giây giữa hệ thần kinh tự chủ, enzyme Nitric Oxide nội mô và các khoang thể hang xốp.
+
+> 💡 **Điểm Cốt Lõi & Hành Động Thực Tế (Key Takeaway):** Cương cứng là sự thư giãn của cơ trơn thể hang để dòng máu lấp đầy các khoang xốp. Bất kỳ yếu tố nào làm co thắt mạch (nicotine, căng thẳng, mỡ máu cao) đều chặn đứng quá trình này. Cơ chế duy trì độ cứng vững chắc dựa vào hiện tượng chèn ép tĩnh mạch tự nhiên khi áp lực thể hang đạt 100 mmHg.
 
 ## 4 Giai Đoạn Của Bản Giao Hưởng Thủy Lực Thể Hang
 
@@ -63,14 +66,20 @@ Các bác sĩ nam khoa quốc tế sử dụng Thang điểm Cứng Cương (**E
 
 ## Tài Liệu Tham Khảo & Nguồn Y Khoa
 
-1. **Lue, T. F. (2000).** *Erectile dysfunction.* The New England Journal of Medicine, 342(24), 1802–1813. [Đọc trên NEJM ↗](https://pubmed.ncbi.nlm.nih.gov/10853004/)
-2. **Andersson, K. E. (2001).** *Pharmacology of penile erection.* Pharmacological Reviews, 53(3), 417–450. [Đọc trên PharmRev ↗](https://pubmed.ncbi.nlm.nih.gov/11546836/)
-3. **Burnett, A. L., et al. (1992).** *Nitric oxide: a physiologic mediator of penile erection.* Science, 257(5068), 401–403. [Đọc trên Science ↗](https://pubmed.ncbi.nlm.nih.gov/1378650/)
-4. **Mulhall, J. P., et al. (2007).** *Validation of the erection hardness score.* The Journal of Sexual Medicine, 4(6), 1626–1634. [Đọc trên PubMed ↗](https://pubmed.ncbi.nlm.nih.gov/17970976/)
+1. **Lue, T. F. (2000).** *Erectile dysfunction.* The New England Journal of Medicine, 342(24), 1802–1813. [Tạp chí NEJM (PMID: 10853004) ↗](https://pubmed.ncbi.nlm.nih.gov/10853004/)
+2. **Andersson, K. E. (2001).** *Pharmacology of penile erection.* Pharmacological Reviews, 53(3), 417–450. [Tạp chí PharmRev (PMID: 11546836) ↗](https://pubmed.ncbi.nlm.nih.gov/11546836/)
+3. **Burnett, A. L., et al. (1992).** *Nitric oxide: a physiologic mediator of penile erection.* Science, 257(5068), 401–403. [Tạp chí Science (PMID: 1378650) ↗](https://pubmed.ncbi.nlm.nih.gov/1378650/)
+4. **Mulhall, J. P., et al. (2007).** *Validation of the erection hardness score.* The Journal of Sexual Medicine, 4(6), 1626–1634. [Báo Cáo Nghiên Cứu Gốc (NCBI PubMed: 17970976) ↗](https://pubmed.ncbi.nlm.nih.gov/17970976/)
 
 ---
 
-## 🇬🇧 ENGLISH CONTENT
+## 🇬🇧 English Edition
+
+# What Happens During Male Sexual Arousal? The Neurovascular Cascade from Cortex to Corpora
+
+> **Abstract (Sapo):** Male erection is frequently mischaracterized as muscle contraction, yet anatomically, the human penis contains zero skeletal muscle within its erectile shafts. It is an extraordinary vascular-hydraulic masterpiece coordinated with millisecond precision between the autonomic nervous system, endothelial nitric oxide enzymes, and trabecular sinusoidal spaces.
+
+> 💡 **Key Takeaway & Clinical Action:** Erection is paradoxical: it requires deep smooth muscle relaxation to permit arterial inflow to engorge sinusoidal caverns. Any vasoconstrictor (nicotine, sympathetic stress, plaque) halts the cascade. Rigidity maintenance depends entirely on passive venous occlusion against the rigid tunica albuginea.
 
 ## The 4 Phases of Cavernosal Hydraulic Architecture
 

@@ -1,22 +1,21 @@
-# 🇻🇳 Dịch Nhầy Cổ Tử Cung 101: Chiếc Gương Phản Chiếu Estrogen Và Dự Báo Sớm Cửa Sổ Thụ Thai
-# 🇬🇧 Cervical Fluid 101: How Cervical Mucus Mirrors Estrogen and Predicts Your Fertile Window
-
-- **Article ID:** `LM_WH_02`
-- **Category:** Women's Health — Cervical Fluid Tracking
-- **Content Type:** Learn more
-- **Mapped App Screen & Metric:** `Menstrual Cycle Screen` (`Cervical Mucus`)
-- **Reading Time:** 8 phút đọc / 8 min
-- **Local Hero Photo:** `images/LM_WH_02_hero.jpg` ([Original Photo Source ↗](https://images.unsplash.com/photo-1522337360788-8b13dee7a37e?auto=format&fit=crop&w=1200&q=85))
-- **Local Medical Figure:** `images/LM_WH_02_figure.png` ([Original Wikimedia Commons Source ↗](https://commons.wikimedia.org/wiki/File:Female_reproductive_system.svg))
-- **Primary Clinical & Wearable Source:** [Clue Reproductive Science & PubMed / Odeblad & Bigelow et al. (Human Reproduction, 2004)](https://pubmed.ncbi.nlm.nih.gov/14998971/)
+# LM_WH_02 - Dịch Nhầy Cổ Tử Cung 101: Chiếc Gương Phản Chiếu Estrogen Và Dự Báo Sớm Cửa Sổ Thụ Thai
+**Category:** Women's Health 
+**Screen:** Menstrual Cycle Screen 
+**Metric:** Cervical Mucus 
+**Reading Time:** 8 phút đọc / 8 min 
+**Hero Image:** ![Dịch Nhầy Cổ Tử Cung 101: Chiếc Gương Phản Chiếu Estrogen Và Dự Báo Sớm Cửa Sổ Thụ Thai](images/LM_WH_02_hero.jpg) *(Source: [https://images.unsplash.com/photo-1522337360788-8b13dee7a37e?auto=format&fit=crop&w=1200&q=85](https://images.unsplash.com/photo-1522337360788-8b13dee7a37e?auto=format&fit=crop&w=1200&q=85))* 
+**Inline Figure:** ![Sơ đồ giải phẫu hệ sinh dục nữ minh họa ống âm đạo, kênh cổ tử cung (nơi các tuyến hốc nhạy cảm với hormone tiết ra dịch nhầy cổ tử cung), buồng tử cung, ống dẫn trứng và buồng trứng.](images/LM_WH_02_figure.png) *(Source: [https://commons.wikimedia.org/wiki/File:Female_reproductive_system.svg](https://commons.wikimedia.org/wiki/File:Female_reproductive_system.svg))* 
+**Clinical Source:** [Clue Reproductive Science & PubMed / Odeblad & Bigelow et al. (Human Reproduction, 2004)](https://pubmed.ncbi.nlm.nih.gov/14998971/) 
 
 ---
 
-## 🇻🇳 BẢN TIẾNG VIỆT
+## 🇻🇳 Phiên Bản Tiếng Việt (Vietnamese Edition)
 
-> **Tóm tắt:** Nhiều ngày trước khi đồng hồ thông minh ghi nhận mức tăng nhiệt độ sau rụng trứng, các tuyến chuyên biệt tại cổ tử cung đã phản hồi tức thì với làn sóng Estrogen. Tìm hiểu cách đọc vị 4 trạng thái dịch nhầy cổ tử cung kết hợp cùng dữ liệu thiết bị đeo.
+# Dịch Nhầy Cổ Tử Cung 101: Chiếc Gương Phản Chiếu Estrogen Và Dự Báo Sớm Cửa Sổ Thụ Thai
 
-> 💡 **Điểm Cốt Lõi & Hành Động Thực Tế:** Trong khi nhiệt độ cơ thể ban đêm là chỉ báo trễ giúp xác nhận rụng trứng sau khi trứng đã phóng thích, dịch nhầy cổ tử cung trong suốt, co giãn như lòng trắng trứng lại là chỉ báo sớm xuất hiện trước khi rụng trứng 3 đến 5 ngày dưới tác động của đỉnh Estradiol—báo hiệu cửa sổ thụ thai chính thức mở ra.
+> **Tóm tắt (Sapo):** Nhiều ngày trước khi đồng hồ thông minh ghi nhận mức tăng nhiệt độ sau rụng trứng, các tuyến chuyên biệt tại cổ tử cung đã phản hồi tức thì với làn sóng Estrogen. Tìm hiểu cách đọc vị 4 trạng thái dịch nhầy cổ tử cung kết hợp cùng dữ liệu thiết bị đeo.
+
+> 💡 **Điểm Cốt Lõi & Hành Động Thực Tế (Key Takeaway):** Trong khi nhiệt độ cơ thể ban đêm là chỉ báo trễ giúp xác nhận rụng trứng sau khi trứng đã phóng thích, dịch nhầy cổ tử cung trong suốt, co giãn như lòng trắng trứng lại là chỉ báo sớm xuất hiện trước khi rụng trứng 3 đến 5 ngày dưới tác động của đỉnh Estradiol—báo hiệu cửa sổ thụ thai chính thức mở ra.
 
 ## Vì Sao Dịch Nhầy Cổ Tử Cung Là "Cảm Biến Estrogen" Thời Gian Thực Của Cơ Thể?
 
@@ -91,18 +90,20 @@ Khi ghi chép dữ liệu trên ứng dụng, hãy lưu ý 4 yếu tố sinh ho�
 
 ## Tài Liệu Tham Khảo & Nguồn Y Khoa
 
-1. **Bigelow, J. L., Dunson, D. B., Stanford, J. B., Ecochard, R., Gnoth, C., & Colombo, B. (2004).** *Mucus observations in the fertile window: a better predictor of conception than timing of intercourse.* Human Reproduction, 19(4), 889–892. [https://pubmed.ncbi.nlm.nih.gov/14998971/](https://pubmed.ncbi.nlm.nih.gov/14998971/)
-2. **Scarpa, B., Dunson, D. B., & Colombo, B. (2006).** *Cervical mucus secretions on the day of intercourse: an accurate marker of highly fertile days.* European Journal of Obstetrics & Gynecology and Reproductive Biology, 125(1), 72–78. [https://pubmed.ncbi.nlm.nih.gov/16154254/](https://pubmed.ncbi.nlm.nih.gov/16154254/)
-3. **Clue Reproductive Health Library.** *Wet, Sticky, Clear: What Your Cervical Fluid & Discharge Are Telling You.* [https://helloclue.com/articles/cycle-a-z/wet-sticky-what-your-discharge-is-telling-you](https://helloclue.com/articles/cycle-a-z/wet-sticky-what-your-discharge-is-telling-you)
-4. **Oura Ring Pulse Blog.** *Understanding Cervical Mucus Changes Across Your Menstrual Cycle.* [https://ouraring.com/blog/cervical-mucus/](https://ouraring.com/blog/cervical-mucus/)
+1. **Bigelow, J. L., Dunson, D. B., Stanford, J. B., Ecochard, R., Gnoth, C., & Colombo, B. (2004).** *Mucus observations in the fertile window: a better predictor of conception than timing of intercourse.* Human Reproduction, 19(4), 889–892. [Báo Cáo Nghiên Cứu Gốc (NCBI PubMed: 14998971) ↗](https://pubmed.ncbi.nlm.nih.gov/14998971/)
+2. **Scarpa, B., Dunson, D. B., & Colombo, B. (2006).** *Cervical mucus secretions on the day of intercourse: an accurate marker of highly fertile days.* European Journal of Obstetrics & Gynecology and Reproductive Biology, 125(1), 72–78. [Báo Cáo Nghiên Cứu Gốc (NCBI PubMed: 16154254) ↗](https://pubmed.ncbi.nlm.nih.gov/16154254/)
+3. **Clue Reproductive Health Library.** *Wet, Sticky, Clear: What Your Cervical Fluid & Discharge Are Telling You.* [Tài Liệu Gốc Xác Thực ↗](https://helloclue.com/articles/cycle-a-z/wet-sticky-what-your-discharge-is-telling-you)
+4. **Oura Ring Pulse Blog.** *Understanding Cervical Mucus Changes Across Your Menstrual Cycle.* [Cổng Nghiên Cứu Oura Ring Science ↗](https://ouraring.com/blog/cervical-mucus/)
 
 ---
 
-## 🇬🇧 ENGLISH VERSION
+## 🇬🇧 English Edition
 
-> **Executive Summary:** Long before your smartwatch registers a post-ovulatory temperature rise, specialized glands in your cervix respond to rising estrogen in real time. Learn how to decode the four stages of cervical fluid alongside your wearable biometrics.
+# Cervical Fluid 101: How Cervical Mucus Mirrors Estrogen and Predicts Your Fertile Window
 
-> 💡 **Key Actionable Takeaway:** While overnight skin temperature is a lagging indicator that confirms ovulation after the egg has already been released, clear, stretchy 'egg-white' cervical fluid is a leading indicator triggered by surging estradiol 3 to 5 days before ovulation—marking the true opening of your fertile window.
+> **Abstract (Sapo):** Long before your smartwatch registers a post-ovulatory temperature rise, specialized glands in your cervix respond to rising estrogen in real time. Learn how to decode the four stages of cervical fluid alongside your wearable biometrics.
+
+> 💡 **Key Takeaway & Clinical Action:** While overnight skin temperature is a lagging indicator that confirms ovulation after the egg has already been released, clear, stretchy 'egg-white' cervical fluid is a leading indicator triggered by surging estradiol 3 to 5 days before ovulation—marking the true opening of your fertile window.
 
 ## Why Cervical Fluid Is Your Body's Real-Time Estrogen Sensor
 
@@ -177,7 +178,7 @@ When checking your app logs, keep in mind four everyday factors that can tempora
 
 ## References & Clinical Sources
 
-1. **Bigelow, J. L., Dunson, D. B., Stanford, J. B., Ecochard, R., Gnoth, C., & Colombo, B. (2004).** *Mucus observations in the fertile window: a better predictor of conception than timing of intercourse.* Human Reproduction, 19(4), 889–892. [https://pubmed.ncbi.nlm.nih.gov/14998971/](https://pubmed.ncbi.nlm.nih.gov/14998971/)
-2. **Scarpa, B., Dunson, D. B., & Colombo, B. (2006).** *Cervical mucus secretions on the day of intercourse: anaccurate marker of highly fertile days.* European Journal of Obstetrics & Gynecology and Reproductive Biology, 125(1), 72–78. [https://pubmed.ncbi.nlm.nih.gov/16154254/](https://pubmed.ncbi.nlm.nih.gov/16154254/)
-3. **Clue Reproductive Health Library.** *Wet, Sticky, Clear: What Your Cervical Fluid & Discharge Are Telling You.* [https://helloclue.com/articles/cycle-a-z/wet-sticky-what-your-discharge-is-telling-you](https://helloclue.com/articles/cycle-a-z/wet-sticky-what-your-discharge-is-telling-you)
-4. **Oura Ring Pulse Blog.** *Understanding Cervical Mucus Changes Across Your Menstrual Cycle.* [https://ouraring.com/blog/cervical-mucus/](https://ouraring.com/blog/cervical-mucus/)
+1. **Bigelow, J. L., Dunson, D. B., Stanford, J. B., Ecochard, R., Gnoth, C., & Colombo, B. (2004).** *Mucus observations in the fertile window: a better predictor of conception than timing of intercourse.* Human Reproduction, 19(4), 889–892. [Original Study Report (NCBI PubMed: 14998971) ↗](https://pubmed.ncbi.nlm.nih.gov/14998971/)
+2. **Scarpa, B., Dunson, D. B., & Colombo, B. (2006).** *Cervical mucus secretions on the day of intercourse: anaccurate marker of highly fertile days.* European Journal of Obstetrics & Gynecology and Reproductive Biology, 125(1), 72–78. [Original Study Report (NCBI PubMed: 16154254) ↗](https://pubmed.ncbi.nlm.nih.gov/16154254/)
+3. **Clue Reproductive Health Library.** *Wet, Sticky, Clear: What Your Cervical Fluid & Discharge Are Telling You.* [Verified Original Document ↗](https://helloclue.com/articles/cycle-a-z/wet-sticky-what-your-discharge-is-telling-you)
+4. **Oura Ring Pulse Blog.** *Understanding Cervical Mucus Changes Across Your Menstrual Cycle.* [Oura Ring Science Portal ↗](https://ouraring.com/blog/cervical-mucus/)

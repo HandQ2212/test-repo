@@ -1,22 +1,21 @@
-# 🇻🇳 Nợ Giấc Ngủ (Sleep Debt) & Lệch Múi Giờ Xã Hội: Tại Sao Ngủ Bù Cuối Tuần Không Thể Cứu Vãn Sức Khỏe?
-# 🇬🇧 Sleep Debt, Social Jetlag & Circadian Consistency: Why Weekend Catch-Up Sleep Fails
-
-- **Article ID:** `DM_SL_02`
-- **Category:** Sleep — Sleep Debt Management
-- **Content Type:** Discover more
-- **Mapped App Screen & Metric:** `Sleep Screen` (`Sleep Debt`)
-- **Reading Time:** 9 phút đọc / 9 min
-- **Local Hero Photo:** `images/DM_SL_02_hero.jpg` ([Original Photo Source ↗](https://images.unsplash.com/photo-1506126613408-eca07ce68773?auto=format&fit=crop&w=1200&q=85))
-- **Local Medical Figure:** `images/DM_SL_02_figure.png` ([Original Wikimedia Commons Source ↗](https://commons.wikimedia.org/wiki/File:Biological_clock_human.svg))
-- **Primary Clinical & Wearable Source:** [Sleep (Van Dongen et al., 2003) & The Lancet (Spiegel et al., 1999)](https://pubmed.ncbi.nlm.nih.gov/12683469/)
+# DM_SL_02 - Nợ Giấc Ngủ (Sleep Debt) & Lệch Múi Giờ Xã Hội: Tại Sao Ngủ Bù Cuối Tuần Không Thể Cứu Vãn Sức Khỏe?
+**Category:** Sleep 
+**Screen:** Sleep Screen 
+**Metric:** Sleep Debt 
+**Reading Time:** 9 phút đọc / 9 min 
+**Hero Image:** ![Nợ Giấc Ngủ (Sleep Debt) & Lệch Múi Giờ Xã Hội: Tại Sao Ngủ Bù Cuối Tuần Không Thể Cứu Vãn Sức Khỏe?](images/DM_SL_02_hero.jpg) *(Source: [https://images.unsplash.com/photo-1506126613408-eca07ce68773?auto=format&fit=crop&w=1200&q=85](https://images.unsplash.com/photo-1506126613408-eca07ce68773?auto=format&fit=crop&w=1200&q=85))* 
+**Inline Figure:** ![Đồng hồ sinh học 24 giờ của con người (Circadian Rhythm) thể hiện các khung giờ sinh lý và nội tiết được lập trình chính xác—bao gồm thời điểm bắt đầu tiết melatonin buổi tối (21:00), giấc ngủ sâu nhất (02:00), thân nhiệt thấp nhất (04:30) và phản ứng đánh thức cortisol buổi sáng.](images/DM_SL_02_figure.png) *(Source: [https://commons.wikimedia.org/wiki/File:Biological_clock_human.svg](https://commons.wikimedia.org/wiki/File:Biological_clock_human.svg))* 
+**Clinical Source:** [Sleep (Van Dongen et al., 2003) & The Lancet (Spiegel et al., 1999)](https://pubmed.ncbi.nlm.nih.gov/12683469/) 
 
 ---
 
-## 🇻🇳 BẢN TIẾNG VIỆT
+## 🇻🇳 Phiên Bản Tiếng Việt (Vietnamese Edition)
 
-> **Tóm tắt:** Ngủ 6 tiếng vào ngày thường và ngủ bù 10 tiếng vào cuối tuần nghe có vẻ cân bằng về mặt toán học—nhưng dữ liệu thiết bị đeo và thử nghiệm lâm sàng lại phơi bày cái giá đắt về chuyển hóa và nhận thức. Tìm hiểu cách đồng hồ tính toán Nợ Giấc Ngủ và phác đồ trả nợ giấc ngủ không làm vỡ nhịp sinh học.
+# Nợ Giấc Ngủ (Sleep Debt) & Lệch Múi Giờ Xã Hội: Tại Sao Ngủ Bù Cuối Tuần Không Thể Cứu Vãn Sức Khỏe?
 
-> 💡 **Điểm Cốt Lõi & Hành Động Thực Tế:** Bạn không thể xóa sạch 10 tiếng Nợ Giấc Ngủ trong tuần chỉ bằng một giấc ngủ nướng cuối tuần mà không làm lệch đồng hồ sinh học trung tâm từ 2–3 múi giờ (Social Jetlag). Thay vào đó, hãy trả nợ giấc ngủ từ từ bằng cách đi ngủ sớm hơn 45–60 phút trong 3–4 đêm liên tiếp và giữ giờ thức dậy buổi sáng cố định trong khoảng ±45 phút.
+> **Tóm tắt (Sapo):** Ngủ 6 tiếng vào ngày thường và ngủ bù 10 tiếng vào cuối tuần nghe có vẻ cân bằng về mặt toán học—nhưng dữ liệu thiết bị đeo và thử nghiệm lâm sàng lại phơi bày cái giá đắt về chuyển hóa và nhận thức. Tìm hiểu cách đồng hồ tính toán Nợ Giấc Ngủ và phác đồ trả nợ giấc ngủ không làm vỡ nhịp sinh học.
+
+> 💡 **Điểm Cốt Lõi & Hành Động Thực Tế (Key Takeaway):** Bạn không thể xóa sạch 10 tiếng Nợ Giấc Ngủ trong tuần chỉ bằng một giấc ngủ nướng cuối tuần mà không làm lệch đồng hồ sinh học trung tâm từ 2–3 múi giờ (Social Jetlag). Thay vào đó, hãy trả nợ giấc ngủ từ từ bằng cách đi ngủ sớm hơn 45–60 phút trong 3–4 đêm liên tiếp và giữ giờ thức dậy buổi sáng cố định trong khoảng ±45 phút.
 
 ## Ngộ Nhận Về Việc "Quen Với Giấc Ngủ 6 Tiếng Mỗi Đêm"
 
@@ -86,18 +85,20 @@ Thay vì ngủ nướng quá đà vào sáng Chủ Nhật, các nhà khoa học 
 
 ## Tài Liệu Tham Khảo & Nguồn Y Khoa
 
-1. **Van Dongen, H. P., Maislin, G., Mullington, J. M., & Dinges, D. F. (2003).** *The cumulative cost of additional wakefulness: dose-response effects on neurobehavioral functions and sleep physiology from chronic sleep restriction and total sleep deprivation.* Sleep, 26(2), 117–126. [https://pubmed.ncbi.nlm.nih.gov/12683469/](https://pubmed.ncbi.nlm.nih.gov/12683469/)
-2. **Spiegel, K., Leproult, R., & Van Cauter, E. (1999).** *Impact of sleep debt on metabolic and endocrine function.* The Lancet, 354(9188), 1435–1439. [https://pubmed.ncbi.nlm.nih.gov/10543671/](https://pubmed.ncbi.nlm.nih.gov/10543671/)
-3. **Wittmann, M., Dinich, J., Merrow, M., & Roenneberg, T. (2006).** *Social jetlag: misalignment of biological and social time.* Chronobiology International, 23(1-2), 497–509. [https://pubmed.ncbi.nlm.nih.gov/16687322/](https://pubmed.ncbi.nlm.nih.gov/16687322/)
-4. **WHOOP The Locker.** *Sleep Consistency: Why Going to Bed & Waking Up at the Same Time Matters.* [https://www.whoop.com/us/en/thelocker/sleep-consistency/](https://www.whoop.com/us/en/thelocker/sleep-consistency/)
+1. **Van Dongen, H. P., Maislin, G., Mullington, J. M., & Dinges, D. F. (2003).** *The cumulative cost of additional wakefulness: dose-response effects on neurobehavioral functions and sleep physiology from chronic sleep restriction and total sleep deprivation.* Sleep, 26(2), 117–126. [Báo Cáo Nghiên Cứu Gốc (NCBI PubMed: 12683469) ↗](https://pubmed.ncbi.nlm.nih.gov/12683469/)
+2. **Spiegel, K., Leproult, R., & Van Cauter, E. (1999).** *Impact of sleep debt on metabolic and endocrine function.* The Lancet, 354(9188), 1435–1439. [Báo Cáo Nghiên Cứu Gốc (NCBI PubMed: 10543671) ↗](https://pubmed.ncbi.nlm.nih.gov/10543671/)
+3. **Wittmann, M., Dinich, J., Merrow, M., & Roenneberg, T. (2006).** *Social jetlag: misalignment of biological and social time.* Chronobiology International, 23(1-2), 497–509. [Báo Cáo Nghiên Cứu Gốc (NCBI PubMed: 16687322) ↗](https://pubmed.ncbi.nlm.nih.gov/16687322/)
+4. **WHOOP The Locker.** *Sleep Consistency: Why Going to Bed & Waking Up at the Same Time Matters.* [Tạp Chí Khoa Học WHOOP The Locker ↗](https://www.whoop.com/us/en/thelocker/sleep-consistency/)
 
 ---
 
-## 🇬🇧 ENGLISH VERSION
+## 🇬🇧 English Edition
 
-> **Executive Summary:** Sleeping 6 hours on weekdays and 10 hours on weekends feels like it should balance the math—but wearable data and clinical trials reveal a hidden metabolic and cognitive toll. Learn how your watch calculates Sleep Debt and how to recover without breaking your circadian clock.
+# Sleep Debt, Social Jetlag & Circadian Consistency: Why Weekend Catch-Up Sleep Fails
 
-> 💡 **Key Actionable Takeaway:** You cannot repay 10 hours of weekday Sleep Debt in a single weekend marathon without shifting your master circadian clock by 2–3 time zones (Social Jetlag). Instead, repay Sleep Debt gradually by going to bed 45–60 minutes earlier over 3–4 consecutive nights while keeping your morning wake time anchored within ±45 minutes.
+> **Abstract (Sapo):** Sleeping 6 hours on weekdays and 10 hours on weekends feels like it should balance the math—but wearable data and clinical trials reveal a hidden metabolic and cognitive toll. Learn how your watch calculates Sleep Debt and how to recover without breaking your circadian clock.
+
+> 💡 **Key Takeaway & Clinical Action:** You cannot repay 10 hours of weekday Sleep Debt in a single weekend marathon without shifting your master circadian clock by 2–3 time zones (Social Jetlag). Instead, repay Sleep Debt gradually by going to bed 45–60 minutes earlier over 3–4 consecutive nights while keeping your morning wake time anchored within ±45 minutes.
 
 ## The Myth of "Getting Used to 6 Hours of Sleep"
 
@@ -167,7 +168,7 @@ Instead of binge-sleeping on Sunday morning, sports scientists at **WHOOP** and 
 
 ## References & Clinical Sources
 
-1. **Van Dongen, H. P., Maislin, G., Mullington, J. M., & Dinges, D. F. (2003).** *The cumulative cost of additional wakefulness: dose-response effects on neurobehavioral functions and sleep physiology from chronic sleep restriction and total sleep deprivation.* Sleep, 26(2), 117–126. [https://pubmed.ncbi.nlm.nih.gov/12683469/](https://pubmed.ncbi.nlm.nih.gov/12683469/)
-2. **Spiegel, K., Leproult, R., & Van Cauter, E. (1999).** *Impact of sleep debt on metabolic and endocrine function.* The Lancet, 354(9188), 1435–1439. [https://pubmed.ncbi.nlm.nih.gov/10543671/](https://pubmed.ncbi.nlm.nih.gov/10543671/)
-3. **Wittmann, M., Dinich, J., Merrow, M., & Roenneberg, T. (2006).** *Social jetlag: misalignment of biological and social time.* Chronobiology International, 23(1-2), 497–509. [https://pubmed.ncbi.nlm.nih.gov/16687322/](https://pubmed.ncbi.nlm.nih.gov/16687322/)
-4. **WHOOP The Locker.** *Sleep Consistency: Why Going to Bed & Waking Up at the Same Time Matters.* [https://www.whoop.com/us/en/thelocker/sleep-consistency/](https://www.whoop.com/us/en/thelocker/sleep-consistency/)
+1. **Van Dongen, H. P., Maislin, G., Mullington, J. M., & Dinges, D. F. (2003).** *The cumulative cost of additional wakefulness: dose-response effects on neurobehavioral functions and sleep physiology from chronic sleep restriction and total sleep deprivation.* Sleep, 26(2), 117–126. [Original Study Report (NCBI PubMed: 12683469) ↗](https://pubmed.ncbi.nlm.nih.gov/12683469/)
+2. **Spiegel, K., Leproult, R., & Van Cauter, E. (1999).** *Impact of sleep debt on metabolic and endocrine function.* The Lancet, 354(9188), 1435–1439. [Original Study Report (NCBI PubMed: 10543671) ↗](https://pubmed.ncbi.nlm.nih.gov/10543671/)
+3. **Wittmann, M., Dinich, J., Merrow, M., & Roenneberg, T. (2006).** *Social jetlag: misalignment of biological and social time.* Chronobiology International, 23(1-2), 497–509. [Original Study Report (NCBI PubMed: 16687322) ↗](https://pubmed.ncbi.nlm.nih.gov/16687322/)
+4. **WHOOP The Locker.** *Sleep Consistency: Why Going to Bed & Waking Up at the Same Time Matters.* [WHOOP The Locker Science Journal ↗](https://www.whoop.com/us/en/thelocker/sleep-consistency/)

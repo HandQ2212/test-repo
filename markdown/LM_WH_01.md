@@ -1,22 +1,21 @@
-# 🇻🇳 4 Giai Đoạn Của Chu Kỳ Kinh Nguyệt: Cách Hormone Điều Phối Năng Lượng, Giấc Ngủ Và Chỉ Số Sinh Học Trên Thiết Bị Đeo
-# 🇬🇧 The 4 Phases of Your Menstrual Cycle: How Hormones Shape Your Energy, Sleep, and Wearable Biometrics
-
-- **Article ID:** `LM_WH_01`
-- **Category:** Women's Health — 4 Cycle Phases
-- **Content Type:** Learn more
-- **Mapped App Screen & Metric:** `Menstrual Cycle Screen` (`Menstrual Cycle Phases`)
-- **Reading Time:** 8 phút đọc / 8 min
-- **Local Hero Photo:** `images/LM_WH_01_hero.jpg` ([Original Photo Source ↗](https://images.unsplash.com/photo-1518611012118-696072aa579a?auto=format&fit=crop&w=1200&q=85))
-- **Local Medical Figure:** `images/LM_WH_01_figure.png` ([Original Wikimedia Commons Source ↗](https://commons.wikimedia.org/wiki/File:MenstrualCycle2.png))
-- **Primary Clinical & Wearable Source:** [Oura Ring Cycle Insights & WHOOP Menstrual Cycle Coaching / PubMed (Baker et al., 2020)](https://pubmed.ncbi.nlm.nih.gov/32078800/)
+# LM_WH_01 - 4 Giai Đoạn Của Chu Kỳ Kinh Nguyệt: Cách Hormone Điều Phối Năng Lượng, Giấc Ngủ Và Chỉ Số Sinh Học Trên Thiết Bị Đeo
+**Category:** Women's Health 
+**Screen:** Menstrual Cycle Screen 
+**Metric:** Menstrual Cycle Phases 
+**Reading Time:** 8 phút đọc / 8 min 
+**Hero Image:** ![4 Giai Đoạn Của Chu Kỳ Kinh Nguyệt: Cách Hormone Điều Phối Năng Lượng, Giấc Ngủ Và Chỉ Số Sinh Học Trên Thiết Bị Đeo](images/LM_WH_01_hero.jpg) *(Source: [https://images.unsplash.com/photo-1518611012118-696072aa579a?auto=format&fit=crop&w=1200&q=85](https://images.unsplash.com/photo-1518611012118-696072aa579a?auto=format&fit=crop&w=1200&q=85))* 
+**Inline Figure:** ![Biểu đồ đồng bộ chu kỳ kinh nguyệt ở người: thể hiện sự phối hợp giữa hormone tuyến yên (LH, FSH), sự phát triển nang trứng và hoàng thể tại buồng trứng, nồng độ Estrogen và Progesterone, sự dịch chuyển nhiệt độ cơ bản (BBT) và chu kỳ tái tạo niêm mạc tử cung.](images/LM_WH_01_figure.png) *(Source: [https://commons.wikimedia.org/wiki/File:MenstrualCycle2.png](https://commons.wikimedia.org/wiki/File:MenstrualCycle2.png))* 
+**Clinical Source:** [Oura Ring Cycle Insights & WHOOP Menstrual Cycle Coaching / PubMed (Baker et al., 2020)](https://pubmed.ncbi.nlm.nih.gov/32078800/) 
 
 ---
 
-## 🇻🇳 BẢN TIẾNG VIỆT
+## 🇻🇳 Phiên Bản Tiếng Việt (Vietnamese Edition)
 
-> **Tóm tắt:** Cơ thể nữ giới vận hành theo hai nhịp sinh học song hành: nhịp ngày đêm 24 giờ (Circadian) và chu kỳ nội tiết khoảng 28 ngày (Infradian). Khám phá cách sự thăng trầm của Estrogen và Progesterone làm thay đổi nhiệt độ da ban đêm, nhịp tim lúc nghỉ (RHR), biến thiên nhịp tim (HRV) và năng lượng qua 4 giai đoạn.
+# 4 Giai Đoạn Của Chu Kỳ Kinh Nguyệt: Cách Hormone Điều Phối Năng Lượng, Giấc Ngủ Và Chỉ Số Sinh Học Trên Thiết Bị Đeo
 
-> 💡 **Điểm Cốt Lõi & Hành Động Thực Tế:** Đừng kỳ vọng điểm Sẵn sàng (Readiness), Nhịp tim lúc nghỉ (RHR) hay sức bền của bạn giữ nguyên một đường thẳng suốt cả tháng. Ở giai đoạn Nang trứng, Estrogen tăng cao giúp nâng HRV và hạ RHR—thời điểm vàng cho các bài tập cường độ cao. Sang giai đoạn Hoàng thể, Progesterone làm tăng nhiệt độ cơ thể thêm +0.3°C đến +0.5°C và đẩy RHR tăng 3–7 bpm, báo hiệu cơ thể cần chuyển sang vận động ổn định và ưu tiên phục hồi.
+> **Tóm tắt (Sapo):** Cơ thể nữ giới vận hành theo hai nhịp sinh học song hành: nhịp ngày đêm 24 giờ (Circadian) và chu kỳ nội tiết khoảng 28 ngày (Infradian). Khám phá cách sự thăng trầm của Estrogen và Progesterone làm thay đổi nhiệt độ da ban đêm, nhịp tim lúc nghỉ (RHR), biến thiên nhịp tim (HRV) và năng lượng qua 4 giai đoạn.
+
+> 💡 **Điểm Cốt Lõi & Hành Động Thực Tế (Key Takeaway):** Đừng kỳ vọng điểm Sẵn sàng (Readiness), Nhịp tim lúc nghỉ (RHR) hay sức bền của bạn giữ nguyên một đường thẳng suốt cả tháng. Ở giai đoạn Nang trứng, Estrogen tăng cao giúp nâng HRV và hạ RHR—thời điểm vàng cho các bài tập cường độ cao. Sang giai đoạn Hoàng thể, Progesterone làm tăng nhiệt độ cơ thể thêm +0.3°C đến +0.5°C và đẩy RHR tăng 3–7 bpm, báo hiệu cơ thể cần chuyển sang vận động ổn định và ưu tiên phục hồi.
 
 ## Đồng Hồ Sinh Học Thứ Hai Của Phụ Nữ: Nhịp Sinh Học Chu Kỳ (Infradian Rhythm)
 
@@ -87,18 +86,20 @@ Sau khi trứng rụng, vỏ nang trứng còn lại biến đổi thành một 
 
 ## Tài Liệu Tham Khảo & Nguồn Y Khoa
 
-1. **Baker, F. C., Siboza, F., & Fuller, A. (2020).** *Temperature regulation in women: Effects of the menstrual cycle.* Temperature, 7(3), 226–262. [https://pubmed.ncbi.nlm.nih.gov/32078800/](https://pubmed.ncbi.nlm.nih.gov/32078800/)
-2. **Sims, S. T., Ware, L., & Capodilupo, E. R. (2021).** *Patterns of endogenous and exogenous ovarian hormone modulation on recovery metrics across the menstrual cycle.* BMJ Open Sport & Exercise Medicine / PLOS ONE, 7(3), e001047. [https://pubmed.ncbi.nlm.nih.gov/34367655/](https://pubmed.ncbi.nlm.nih.gov/34367655/)
-3. **Oura Ring Pulse Blog.** *How Your Menstrual Cycle Affects Your Body, Sleep, and Biometrics (Oura Cycle Insights).* [https://ouraring.com/blog/menstrual-cycle-phases/](https://ouraring.com/blog/menstrual-cycle-phases/)
-4. **Clue Reproductive Health Encyclopedia.** *The Menstrual Cycle: More Than Just Your Period.* [https://helloclue.com/articles/cycle-a-z/the-menstrual-cycle-more-than-just-the-period](https://helloclue.com/articles/cycle-a-z/the-menstrual-cycle-more-than-just-the-period)
+1. **Baker, F. C., Siboza, F., & Fuller, A. (2020).** *Temperature regulation in women: Effects of the menstrual cycle.* Temperature, 7(3), 226–262. [Báo Cáo Nghiên Cứu Gốc (NCBI PubMed: 32078800) ↗](https://pubmed.ncbi.nlm.nih.gov/32078800/)
+2. **Sims, S. T., Ware, L., & Capodilupo, E. R. (2021).** *Patterns of endogenous and exogenous ovarian hormone modulation on recovery metrics across the menstrual cycle.* BMJ Open Sport & Exercise Medicine / PLOS ONE, 7(3), e001047. [Báo Cáo Nghiên Cứu Gốc (NCBI PubMed: 34367655) ↗](https://pubmed.ncbi.nlm.nih.gov/34367655/)
+3. **Oura Ring Pulse Blog.** *How Your Menstrual Cycle Affects Your Body, Sleep, and Biometrics (Oura Cycle Insights).* [Cổng Nghiên Cứu Oura Ring Science ↗](https://ouraring.com/blog/menstrual-cycle-phases/)
+4. **Clue Reproductive Health Encyclopedia.** *The Menstrual Cycle: More Than Just Your Period.* [Tài Liệu Gốc Xác Thực ↗](https://helloclue.com/articles/cycle-a-z/the-menstrual-cycle-more-than-just-the-period)
 
 ---
 
-## 🇬🇧 ENGLISH VERSION
+## 🇬🇧 English Edition
 
-> **Executive Summary:** Your body operates on two biological clocks: a 24-hour circadian rhythm and a ~28-day infradian cycle. Discover how shifting levels of estrogen and progesterone reshape your overnight skin temperature, resting heart rate, HRV, and daily readiness across all four phases.
+# The 4 Phases of Your Menstrual Cycle: How Hormones Shape Your Energy, Sleep, and Wearable Biometrics
 
-> 💡 **Key Actionable Takeaway:** Stop expecting your Readiness Score, Resting Heart Rate, and workout stamina to stay flat all month. In the Follicular Phase, rising estrogen boosts HRV and lowers RHR—prime time for high-intensity training. In the Luteal Phase, progesterone raises overnight skin temperature by +0.3°C to +0.5°C and RHR by 3–7 bpm, signaling a natural shift toward steady-state movement and deeper recovery.
+> **Abstract (Sapo):** Your body operates on two biological clocks: a 24-hour circadian rhythm and a ~28-day infradian cycle. Discover how shifting levels of estrogen and progesterone reshape your overnight skin temperature, resting heart rate, HRV, and daily readiness across all four phases.
+
+> 💡 **Key Takeaway & Clinical Action:** Stop expecting your Readiness Score, Resting Heart Rate, and workout stamina to stay flat all month. In the Follicular Phase, rising estrogen boosts HRV and lowers RHR—prime time for high-intensity training. In the Luteal Phase, progesterone raises overnight skin temperature by +0.3°C to +0.5°C and RHR by 3–7 bpm, signaling a natural shift toward steady-state movement and deeper recovery.
 
 ## Your Second Biological Clock: The Infradian Rhythm
 
@@ -170,7 +171,7 @@ How does your watch graph look if you use hormonal birth control?
 
 ## References & Clinical Sources
 
-1. **Baker, F. C., Siboza, F., & Fuller, A. (2020).** *Temperature regulation in women: Effects of the menstrual cycle.* Temperature, 7(3), 226–262. [https://pubmed.ncbi.nlm.nih.gov/32078800/](https://pubmed.ncbi.nlm.nih.gov/32078800/)
-2. **Sims, S. T., Ware, L., & Capodilupo, E. R. (2021).** *Patterns of endogenous and exogenous ovarian hormone modulation on recovery metrics across the menstrual cycle.*BMJ Open Sport & Exercise Medicine / PLOS ONE, 7(3), e001047. [https://pubmed.ncbi.nlm.nih.gov/34367655/](https://pubmed.ncbi.nlm.nih.gov/34367655/)
-3. **Oura Ring Pulse Blog.** *How Your Menstrual Cycle Affects Your Body, Sleep, and Biometrics (Oura Cycle Insights).* [https://ouraring.com/blog/menstrual-cycle-phases/](https://ouraring.com/blog/menstrual-cycle-phases/)
-4. **Clue Reproductive Health Encyclopedia.** *The Menstrual Cycle: More Than Just Your Period.* [https://helloclue.com/articles/cycle-a-z/the-menstrual-cycle-more-than-just-the-period](https://helloclue.com/articles/cycle-a-z/the-menstrual-cycle-more-than-just-the-period)
+1. **Baker, F. C., Siboza, F., & Fuller, A. (2020).** *Temperature regulation in women: Effects of the menstrual cycle.* Temperature, 7(3), 226–262. [Original Study Report (NCBI PubMed: 32078800) ↗](https://pubmed.ncbi.nlm.nih.gov/32078800/)
+2. **Sims, S. T., Ware, L., & Capodilupo, E. R. (2021).** *Patterns of endogenous and exogenous ovarian hormone modulation on recovery metrics across the menstrual cycle.*BMJ Open Sport & Exercise Medicine / PLOS ONE, 7(3), e001047. [Original Study Report (NCBI PubMed: 34367655) ↗](https://pubmed.ncbi.nlm.nih.gov/34367655/)
+3. **Oura Ring Pulse Blog.** *How Your Menstrual Cycle Affects Your Body, Sleep, and Biometrics (Oura Cycle Insights).* [Oura Ring Science Portal ↗](https://ouraring.com/blog/menstrual-cycle-phases/)
+4. **Clue Reproductive Health Encyclopedia.** *The Menstrual Cycle: More Than Just Your Period.* [Verified Original Document ↗](https://helloclue.com/articles/cycle-a-z/the-menstrual-cycle-more-than-just-the-period)

@@ -1,22 +1,21 @@
-# 🇻🇳 Phục Hồi Chủ Động (Active Recovery) So Với Nghỉ Thụ Động: Tại Sao Vận Động Nhẹ Zone 1 Giúp Tan Mỏi Cơ Nhanh Hơn Nằm Yên?
-# 🇬🇧 Active Recovery vs. Passive Rest: Why Zone 1 Movement Clears Fatigue Faster Than the Couch
-
-- **Article ID:** `DM_RC_02`
-- **Category:** Recovery — Active vs. Passive Recovery
-- **Content Type:** Discover more
-- **Mapped App Screen & Metric:** `Recovery Screen` (`Active Recovery`)
-- **Reading Time:** 8 phút đọc / 8 min
-- **Local Hero Photo:** `images/DM_RC_02_hero.jpg` ([Original Photo Source ↗](https://images.unsplash.com/photo-1544367567-0f2fcb009e0b?auto=format&fit=crop&w=1200&q=85))
-- **Local Medical Figure:** `images/DM_RC_02_figure.png` ([Original Wikimedia Commons Source ↗](https://commons.wikimedia.org/wiki/File:The_Cori_cycle.png))
-- **Primary Clinical & Wearable Source:** [Journal of Sports Sciences (Menzies et al., 2010) & Sports Medicine (Dupuy et al., 2018)](https://pubmed.ncbi.nlm.nih.gov/20544484/)
+# DM_RC_02 - Phục Hồi Chủ Động (Active Recovery) So Với Nghỉ Thụ Động: Tại Sao Vận Động Nhẹ Zone 1 Giúp Tan Mỏi Cơ Nhanh Hơn Nằm Yên?
+**Category:** Recovery 
+**Screen:** Recovery Screen 
+**Metric:** Active Recovery 
+**Reading Time:** 8 phút đọc / 8 min 
+**Hero Image:** ![Phục Hồi Chủ Động (Active Recovery) So Với Nghỉ Thụ Động: Tại Sao Vận Động Nhẹ Zone 1 Giúp Tan Mỏi Cơ Nhanh Hơn Nằm Yên?](images/DM_RC_02_hero.jpg) *(Source: [https://images.unsplash.com/photo-1544367567-0f2fcb009e0b?auto=format&fit=crop&w=1200&q=85](https://images.unsplash.com/photo-1544367567-0f2fcb009e0b?auto=format&fit=crop&w=1200&q=85))* 
+**Inline Figure:** ![Sơ đồ sinh hóa của Chu trình Cori (Chu trình Acid Lactic) minh họa cách lactate sinh ra từ cơ xương khi vận động được vận chuyển qua dòng máu về gan, sau đó tái tổng hợp thành glucose (tân tạo đường) để quay lại nuôi dưỡng và phục hồi các sợi cơ.](images/DM_RC_02_figure.png) *(Source: [https://commons.wikimedia.org/wiki/File:The_Cori_cycle.png](https://commons.wikimedia.org/wiki/File:The_Cori_cycle.png))* 
+**Clinical Source:** [Journal of Sports Sciences (Menzies et al., 2010) & Sports Medicine (Dupuy et al., 2018)](https://pubmed.ncbi.nlm.nih.gov/20544484/) 
 
 ---
 
-## 🇻🇳 BẢN TIẾNG VIỆT
+## 🇻🇳 Phiên Bản Tiếng Việt (Vietnamese Edition)
 
-> **Tóm tắt:** Khi đôi chân nặng trĩu sau buổi tập nặng và đồng hồ báo điểm phục hồi màu vàng hoặc đỏ, việc nằm bất động trên ghế sofa cả ngày thực chất có thể kéo dài cơn đau mỏi cơ. Tìm hiểu cơ chế bơm cơ xương, Chu trình Cori tại gan, và cách 25 phút vận động nhẹ Zone 1 giúp tăng tốc độ sửa chữa tế bào.
+# Phục Hồi Chủ Động (Active Recovery) So Với Nghỉ Thụ Động: Tại Sao Vận Động Nhẹ Zone 1 Giúp Tan Mỏi Cơ Nhanh Hơn Nằm Yên?
 
-> 💡 **Điểm Cốt Lõi & Hành Động Thực Tế:** Trừ khi bạn đang sốt, nhiễm siêu vi hoặc chấn thương khớp cấp tính, 20–35 phút vận động nhẹ ở Vùng nhịp tim Zone 1 (50%–60% Nhịp tim tối đa) giúp kích hoạt bơm cơ xương và Chu trình Cori tại gan—tăng tốc độ thanh thải lactate, giảm đau mỏi cơ khởi phát muộn (DOMS) và phục hồi chỉ số HRV nhanh hơn so với việc nằm nghỉ hoàn toàn.
+> **Tóm tắt (Sapo):** Khi đôi chân nặng trĩu sau buổi tập nặng và đồng hồ báo điểm phục hồi màu vàng hoặc đỏ, việc nằm bất động trên ghế sofa cả ngày thực chất có thể kéo dài cơn đau mỏi cơ. Tìm hiểu cơ chế bơm cơ xương, Chu trình Cori tại gan, và cách 25 phút vận động nhẹ Zone 1 giúp tăng tốc độ sửa chữa tế bào.
+
+> 💡 **Điểm Cốt Lõi & Hành Động Thực Tế (Key Takeaway):** Trừ khi bạn đang sốt, nhiễm siêu vi hoặc chấn thương khớp cấp tính, 20–35 phút vận động nhẹ ở Vùng nhịp tim Zone 1 (50%–60% Nhịp tim tối đa) giúp kích hoạt bơm cơ xương và Chu trình Cori tại gan—tăng tốc độ thanh thải lactate, giảm đau mỏi cơ khởi phát muộn (DOMS) và phục hồi chỉ số HRV nhanh hơn so với việc nằm nghỉ hoàn toàn.
 
 ## Ngộ Nhận Về Ngày Nghỉ "Nằm Bất Động Trên Sofa"
 
@@ -77,18 +76,20 @@ Sai lầm lớn nhất mà người tập thể thao thường mắc phải vào
 
 ## Tài Liệu Tham Khảo & Nguồn Y Khoa
 
-1. **Menzies, P., Menzies, C., McIntyre, L., Paterson, P., Wilson, J., & Kemi, O. J. (2010).** *Blood lactate clearance during active recovery after an intense running bout depends on the intensity of the active recovery.* Journal of Sports Sciences, 28(9), 975–982. [https://pubmed.ncbi.nlm.nih.gov/20544484/](https://pubmed.ncbi.nlm.nih.gov/20544484/)
-2. **Dupuy, O., Douzi, W., Theurot, D., Bosquet, L., & Dugué, B. (2018).** *An Evidence-Based Approach for Choosing Post-exercise Recovery Techniques to Reduce Markers of Muscle Damage, Soreness, Fatigue, and Inflammation: A Systematic Review With Meta-Analysis.* Frontiers in Physiology, 9, 403. [https://pubmed.ncbi.nlm.nih.gov/29755363/](https://pubmed.ncbi.nlm.nih.gov/29755363/)
-3. **WHOOP The Locker.** *Active Recovery Workouts: What They Are & Why They Work Better Than Total Rest.* [https://www.whoop.com/us/en/thelocker/active-recovery-workouts/](https://www.whoop.com/us/en/thelocker/active-recovery-workouts/)
-4. **Oura Ring Pulse Blog.** *Active Recovery vs. Rest Days: How to Listen to Your Readiness Score.* [https://ouraring.com/blog/active-recovery/](https://ouraring.com/blog/active-recovery/)
+1. **Menzies, P., Menzies, C., McIntyre, L., Paterson, P., Wilson, J., & Kemi, O. J. (2010).** *Blood lactate clearance during active recovery after an intense running bout depends on the intensity of the active recovery.* Journal of Sports Sciences, 28(9), 975–982. [Báo Cáo Nghiên Cứu Gốc (NCBI PubMed: 20544484) ↗](https://pubmed.ncbi.nlm.nih.gov/20544484/)
+2. **Dupuy, O., Douzi, W., Theurot, D., Bosquet, L., & Dugué, B. (2018).** *An Evidence-Based Approach for Choosing Post-exercise Recovery Techniques to Reduce Markers of Muscle Damage, Soreness, Fatigue, and Inflammation: A Systematic Review With Meta-Analysis.* Frontiers in Physiology, 9, 403. [Báo Cáo Nghiên Cứu Gốc (NCBI PubMed: 29755363) ↗](https://pubmed.ncbi.nlm.nih.gov/29755363/)
+3. **WHOOP The Locker.** *Active Recovery Workouts: What They Are & Why They Work Better Than Total Rest.* [Tạp Chí Khoa Học WHOOP The Locker ↗](https://www.whoop.com/us/en/thelocker/active-recovery-workouts/)
+4. **Oura Ring Pulse Blog.** *Active Recovery vs. Rest Days: How to Listen to Your Readiness Score.* [Cổng Nghiên Cứu Oura Ring Science ↗](https://ouraring.com/blog/active-recovery/)
 
 ---
 
-## 🇬🇧 ENGLISH VERSION
+## 🇬🇧 English Edition
 
-> **Executive Summary:** When your legs feel heavy and your wearable shows a yellow or red recovery score, lying motionless on the couch all day can actually prolong soreness. Learn the physiology of the skeletal muscle pump, the Cori Cycle, and how 25 minutes of Zone 1 movement accelerates cellular repair.
+# Active Recovery vs. Passive Rest: Why Zone 1 Movement Clears Fatigue Faster Than the Couch
 
-> 💡 **Key Actionable Takeaway:** Unless you have a fever, viral infection, or acute joint injury, 20–35 minutes of gentle Zone 1 movement (50%–60% Max HR) activates the skeletal muscle pump and hepatic Cori Cycle—clearing blood lactate, reducing DOMS muscle soreness, and restoring overnight HRV faster than complete inactivity.
+> **Abstract (Sapo):** When your legs feel heavy and your wearable shows a yellow or red recovery score, lying motionless on the couch all day can actually prolong soreness. Learn the physiology of the skeletal muscle pump, the Cori Cycle, and how 25 minutes of Zone 1 movement accelerates cellular repair.
+
+> 💡 **Key Takeaway & Clinical Action:** Unless you have a fever, viral infection, or acute joint injury, 20–35 minutes of gentle Zone 1 movement (50%–60% Max HR) activates the skeletal muscle pump and hepatic Cori Cycle—clearing blood lactate, reducing DOMS muscle soreness, and restoring overnight HRV faster than complete inactivity.
 
 ## The Myth of the "Couch Potato" Rest Day
 
@@ -149,7 +150,7 @@ The biggest mistake athletes make on an "Active Recovery Day" is letting their e
 
 ## References & Clinical Sources
 
-1. **Menzies, P., Menzies, C., McIntyre, L., Paterson, P., Wilson, J., & Kemi, O. J. (2010).** *Blood lactate clearance during active recovery after an intense running bout depends on the intensity of the active recovery.* Journal of Sports Sciences, 28(9), 975–982. [https://pubmed.ncbi.nlm.nih.gov/20544484/](https://pubmed.ncbi.nlm.nih.gov/20544484/)
-2. **Dupuy, O., Douzi, W., Theurot, D., Bosquet, L., & Dugué, B. (2018).** *An Evidence-Based Approach for Choosing Post-exercise Recovery Techniques to Reduce Markers of Muscle Damage, Soreness, Fatigue, and Inflammation: A Systematic Review With Meta-Analysis.* Frontiers in Physiology / Sports Medicine, 9, 403. [https://pubmed.ncbi.nlm.nih.gov/29755363/](https://pubmed.ncbi.nlm.nih.gov/29755363/)
-3. **WHOOP The Locker.** *Active Recovery Workouts: What They Are & Why They Work Better Than Total Rest.* [https://www.whoop.com/us/en/thelocker/active-recovery-workouts/](https://www.whoop.com/us/en/thelocker/active-recovery-workouts/)
-4. **Oura Ring Pulse Blog.** *Active Recovery vs. Rest Days: How to Listen to Your Readiness Score.* [https://ouraring.com/blog/active-recovery/](https://ouraring.com/blog/active-recovery/)
+1. **Menzies, P., Menzies, C., McIntyre, L., Paterson, P., Wilson, J., & Kemi, O. J. (2010).** *Blood lactate clearance during active recovery after an intense running bout depends on the intensity of the active recovery.* Journal of Sports Sciences, 28(9), 975–982. [Original Study Report (NCBI PubMed: 20544484) ↗](https://pubmed.ncbi.nlm.nih.gov/20544484/)
+2. **Dupuy, O., Douzi, W., Theurot, D., Bosquet, L., & Dugué, B. (2018).** *An Evidence-Based Approach for Choosing Post-exercise Recovery Techniques to Reduce Markers of Muscle Damage, Soreness, Fatigue, and Inflammation: A Systematic Review With Meta-Analysis.* Frontiers in Physiology / Sports Medicine, 9, 403. [Original Study Report (NCBI PubMed: 29755363) ↗](https://pubmed.ncbi.nlm.nih.gov/29755363/)
+3. **WHOOP The Locker.** *Active Recovery Workouts: What They Are & Why They Work Better Than Total Rest.* [WHOOP The Locker Science Journal ↗](https://www.whoop.com/us/en/thelocker/active-recovery-workouts/)
+4. **Oura Ring Pulse Blog.** *Active Recovery vs. Rest Days: How to Listen to Your Readiness Score.* [Oura Ring Science Portal ↗](https://ouraring.com/blog/active-recovery/)

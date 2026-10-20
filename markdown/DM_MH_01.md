@@ -1,22 +1,21 @@
-# 🇻🇳 Làm Chủ Bản Lĩnh & Thời Gian: Ứng Dụng Kỹ Thuật 'Khóa Kegel' và 'Kegel Ngược' Để Điều Tiết Phản Xạ Xuất Tinh
-# 🇬🇧 Mastering Sexual Stamina: Applying the 'Kegel Lock' and Reverse Kegel to Modulate the Ejaculatory Reflex
-
-- **Article ID:** `DM_MH_01`
-- **Category:** Men's Health — Kegel Sex Technique
-- **Content Type:** Discover more
-- **Mapped App Screen & Metric:** `Men's Health Screen` (`Ejaculation Control`)
-- **Reading Time:** 9 phút đọc / 9 min
-- **Local Hero Photo:** `images/DM_MH_01_hero.jpg` ([Original Photo Source ↗](https://images.unsplash.com/photo-1581009146145-b5ef050c2e1e?auto=format&fit=crop&w=1200&q=85))
-- **Local Medical Figure:** `images/DM_MH_01_figure.png` ([Original Wikimedia Commons Source ↗](https://commons.wikimedia.org/wiki/File:1116_Muscle_of_the_Male_Perineum.png))
-- **Primary Clinical & Wearable Source:** [Therapeutic Advances in Urology (Pastore et al., 2014) & European Urology (Giuliano & Clement, 2005)](https://pubmed.ncbi.nlm.nih.gov/24716983/)
+# DM_MH_01 - Làm Chủ Bản Lĩnh & Thời Gian: Ứng Dụng Kỹ Thuật 'Khóa Kegel' và 'Kegel Ngược' Để Điều Tiết Phản Xạ Xuất Tinh
+**Category:** Men's Health 
+**Screen:** Men's Health Screen 
+**Metric:** Ejaculation Control 
+**Reading Time:** 9 phút đọc / 9 min 
+**Hero Image:** ![Làm Chủ Bản Lĩnh & Thời Gian: Ứng Dụng Kỹ Thuật 'Khóa Kegel' và 'Kegel Ngược' Để Điều Tiết Phản Xạ Xuất Tinh](images/DM_MH_01_hero.jpg) *(Source: [https://images.unsplash.com/photo-1581009146145-b5ef050c2e1e?auto=format&fit=crop&w=1200&q=85](https://images.unsplash.com/photo-1581009146145-b5ef050c2e1e?auto=format&fit=crop&w=1200&q=85))* 
+**Inline Figure:** ![Giải phẫu lâm sàng chi tiết các nhóm cơ vùng đáy chậu nam giới (OpenStax Hình 11.16), làm nổi bật cơ Hành xốp (Hành hang) ở trung tâm, cặp cơ Ngồi hang hai bên, cơ ngang đáy chậu nông và cơ nâng hậu môn—những cấu trúc trực tiếp thực hiện cả kỹ thuật giãn Kegel Ngược lẫn Khóa Kegel Tĩnh.](images/DM_MH_01_figure.png) *(Source: [https://commons.wikimedia.org/wiki/File:1116_Muscle_of_the_Male_Perineum.png](https://commons.wikimedia.org/wiki/File:1116_Muscle_of_the_Male_Perineum.png))* 
+**Clinical Source:** [Therapeutic Advances in Urology (Pastore et al., 2014) & European Urology (Giuliano & Clement, 2005)](https://pubmed.ncbi.nlm.nih.gov/24716983/) 
 
 ---
 
-## 🇻🇳 BẢN TIẾNG VIỆT
+## 🇻🇳 Phiên Bản Tiếng Việt (Vietnamese Edition)
 
-> **Tóm tắt:** Xuất tinh là một phản xạ tủy sống gồm hai pha, được kích hoạt bởi sự chuyển dịch đột ngột từ trạng thái thư giãn phó giao cảm sang hưng phấn giao cảm. Học cách định vị thang độ hưng phấn 10 bậc, sử dụng Kegel Ngược để giải tỏa căng cơ sớm và triển khai kỹ thuật 'Khóa Kegel' giữ tĩnh 5–8 giây trước Điểm Không Thể Quay Đầu.
+# Làm Chủ Bản Lĩnh & Thời Gian: Ứng Dụng Kỹ Thuật 'Khóa Kegel' và 'Kegel Ngược' Để Điều Tiết Phản Xạ Xuất Tinh
 
-> 💡 **Điểm Cốt Lõi & Hành Động Thực Tế:** Hãy sử dụng Kegel Ngược (giãn mở sàn chậu) ở giai đoạn hưng phấn trung bình (Mức 4–6) để giữ trương lực đáy chậu ở mức thấp, và triển khai nhịp 'Khóa Kegel' giữ tĩnh 5–8 giây ngay tại Mức 7/10—kết hợp thở ra chậm qua mũi—để ức chế phản xạ xuất tinh cả về mặt cơ học lẫn thần kinh.
+> **Tóm tắt (Sapo):** Xuất tinh là một phản xạ tủy sống gồm hai pha, được kích hoạt bởi sự chuyển dịch đột ngột từ trạng thái thư giãn phó giao cảm sang hưng phấn giao cảm. Học cách định vị thang độ hưng phấn 10 bậc, sử dụng Kegel Ngược để giải tỏa căng cơ sớm và triển khai kỹ thuật 'Khóa Kegel' giữ tĩnh 5–8 giây trước Điểm Không Thể Quay Đầu.
+
+> 💡 **Điểm Cốt Lõi & Hành Động Thực Tế (Key Takeaway):** Hãy sử dụng Kegel Ngược (giãn mở sàn chậu) ở giai đoạn hưng phấn trung bình (Mức 4–6) để giữ trương lực đáy chậu ở mức thấp, và triển khai nhịp 'Khóa Kegel' giữ tĩnh 5–8 giây ngay tại Mức 7/10—kết hợp thở ra chậm qua mũi—để ức chế phản xạ xuất tinh cả về mặt cơ học lẫn thần kinh.
 
 ## Giải Mã Phản Xạ Xuất Tinh Tại Tủy Sống: Pha Tiết Tinh (Emission) vs. Pha Phóng Tinh (Expulsion)
 
@@ -77,18 +76,20 @@ Hãy luyện tập thuần thục chuỗi 5 bước này khi tập luyện cá n
 
 ## Tài Liệu Tham Khảo & Nguồn Y Khoa
 
-1. **Pastore, A. L., Palleschi, G., Fuschi, A., Maggioni, C., Rago, R., Zucchi, A., Costantini, E., & Carbone, A. (2014).** *Pelvic floor muscle rehabilitation for patients with lifelong premature ejaculation: a novel therapeutic approach.* Therapeutic Advances in Urology, 6(3), 83–88. [https://pubmed.ncbi.nlm.nih.gov/24716983/](https://pubmed.ncbi.nlm.nih.gov/24716983/)
-2. **Giuliano, F., & Clement, P. (2005).** *Physiology of ejaculation: emphasis on serotonergic control.* European Urology, 48(3), 408–417. [https://pubmed.ncbi.nlm.nih.gov/15996810/](https://pubmed.ncbi.nlm.nih.gov/15996810/)
-3. **Alwaal, A., Breyer, B. N., & Lue, T. F. (2015).** *Normal male sexual function: emphasis on orgasm and ejaculation.* Fertility and Sterility, 104(5), 1051–1060. [https://pubmed.ncbi.nlm.nih.gov/26385403/](https://pubmed.ncbi.nlm.nih.gov/26385403/)
-4. **La Pera, G. (2014).** *Awareness and timing of pelvic floor contraction to inhibit the ejaculatory reflex in premature ejaculation.* Journal of Sexual Medicine / Archivio Italiano di Urologia e Andrologia. [https://pubmed.ncbi.nlm.nih.gov/25060956/](https://pubmed.ncbi.nlm.nih.gov/25060956/)
+1. **Pastore, A. L., Palleschi, G., Fuschi, A., Maggioni, C., Rago, R., Zucchi, A., Costantini, E., & Carbone, A. (2014).** *Pelvic floor muscle rehabilitation for patients with lifelong premature ejaculation: a novel therapeutic approach.* Therapeutic Advances in Urology, 6(3), 83–88. [Báo Cáo Nghiên Cứu Gốc (NCBI PubMed: 24716983) ↗](https://pubmed.ncbi.nlm.nih.gov/24716983/)
+2. **Giuliano, F., & Clement, P. (2005).** *Physiology of ejaculation: emphasis on serotonergic control.* European Urology, 48(3), 408–417. [Báo Cáo Nghiên Cứu Gốc (NCBI PubMed: 15996810) ↗](https://pubmed.ncbi.nlm.nih.gov/15996810/)
+3. **Alwaal, A., Breyer, B. N., & Lue, T. F. (2015).** *Normal male sexual function: emphasis on orgasm and ejaculation.* Fertility and Sterility, 104(5), 1051–1060. [Báo Cáo Nghiên Cứu Gốc (NCBI PubMed: 26385403) ↗](https://pubmed.ncbi.nlm.nih.gov/26385403/)
+4. **La Pera, G. (2014).** *Awareness and timing of pelvic floor contraction to inhibit the ejaculatory reflex in premature ejaculation.* Journal of Sexual Medicine / Archivio Italiano di Urologia e Andrologia. [Báo Cáo Nghiên Cứu Gốc (NCBI PubMed: 25060956) ↗](https://pubmed.ncbi.nlm.nih.gov/25060956/)
 
 ---
 
-## 🇬🇧 ENGLISH VERSION
+## 🇬🇧 English Edition
 
-> **Executive Summary:** Ejaculation is a two-phase spinal reflex governed by a sudden shift from parasympathetic calmness to sympathetic excitation. Learn how to map your 10-point arousal scale, use Reverse Kegels to prevent premature pelvic tension, and deploy the 5-to-8-second Isometric Kegel Lock before the Point of No Return.
+# Mastering Sexual Stamina: Applying the 'Kegel Lock' and Reverse Kegel to Modulate the Ejaculatory Reflex
 
-> 💡 **Key Actionable Takeaway:** Use gentle Reverse Kegels (pelvic lengthening) during moderate arousal (Levels 4–6) to keep baseline perineal tension low, and deploy a sustained 5–8 second Isometric Kegel Lock at Level 7/10—paired with a slow nasal exhale—to mechanically and neurologically inhibit the ejaculatory reflex.
+> **Abstract (Sapo):** Ejaculation is a two-phase spinal reflex governed by a sudden shift from parasympathetic calmness to sympathetic excitation. Learn how to map your 10-point arousal scale, use Reverse Kegels to prevent premature pelvic tension, and deploy the 5-to-8-second Isometric Kegel Lock before the Point of No Return.
+
+> 💡 **Key Takeaway & Clinical Action:** Use gentle Reverse Kegels (pelvic lengthening) during moderate arousal (Levels 4–6) to keep baseline perineal tension low, and deploy a sustained 5–8 second Isometric Kegel Lock at Level 7/10—paired with a slow nasal exhale—to mechanically and neurologically inhibit the ejaculatory reflex.
 
 ## Inside the Spinal Ejaculatory Reflex: Emission vs. Expulsion
 
@@ -149,7 +150,7 @@ Practice this sequence solo first during edging conditioning, then apply it seam
 
 ## References & Clinical Sources
 
-1. **Pastore, A. L., Palleschi, G., Fuschi, A., Maggioni, C., Rago, R., Zucchi, A., Costantini, E., & Carbone, A. (2014).** *Pelvic floor muscle rehabilitation for patients with lifelong premature ejaculation: a novel therapeutic approach.* Therapeutic Advances in Urology, 6(3), 83–88. [https://pubmed.ncbi.nlm.nih.gov/24716983/](https://pubmed.ncbi.nlm.nih.gov/24716983/)
-2. **Giuliano, F., & Clement, P. (2005).** *Physiology of ejaculation: emphasis on serotonergic control.* European Urology, 48(3), 408–417. [https://pubmed.ncbi.nlm.nih.gov/15996810/](https://pubmed.ncbi.nlm.nih.gov/15996810/)
-3. **Alwaal, A., Breyer, B. N., & Lue, T. F. (2015).** *Normal male sexual function: emphasis on orgasm and ejaculation.* Fertility and Sterility, 104(5), 1051–1060. [https://pubmed.ncbi.nlm.nih.gov/26385403/](https://pubmed.ncbi.nlm.nih.gov/26385403/)
-4. **La Pera, G. (2014).** *Awareness and timing of pelvic floor contraction to inhibit the ejaculatory reflex in premature ejaculation.* Journal of Sexual Medicine / Archivio Italiano di Urologia e Andrologia. [https://pubmed.ncbi.nlm.nih.gov/25060956/](https://pubmed.ncbi.nlm.nih.gov/25060956/)
+1. **Pastore, A. L., Palleschi, G., Fuschi, A., Maggioni, C., Rago, R., Zucchi, A., Costantini, E., & Carbone, A. (2014).** *Pelvic floor muscle rehabilitation for patients with lifelong premature ejaculation: a novel therapeutic approach.* Therapeutic Advances in Urology, 6(3), 83–88. [Original Study Report (NCBI PubMed: 24716983) ↗](https://pubmed.ncbi.nlm.nih.gov/24716983/)
+2. **Giuliano, F., & Clement, P. (2005).** *Physiology of ejaculation: emphasis on serotonergic control.* European Urology, 48(3), 408–417. [Original Study Report (NCBI PubMed: 15996810) ↗](https://pubmed.ncbi.nlm.nih.gov/15996810/)
+3. **Alwaal, A., Breyer, B. N., & Lue, T. F. (2015).** *Normal male sexual function: emphasis on orgasm and ejaculation.* Fertility and Sterility, 104(5), 1051–1060. [Original Study Report (NCBI PubMed: 26385403) ↗](https://pubmed.ncbi.nlm.nih.gov/26385403/)
+4. **La Pera, G. (2014).** *Awareness and timing of pelvic floor contraction to inhibit the ejaculatory reflex in premature ejaculation.* Journal of Sexual Medicine / Archivio Italiano di Urologia e Andrologia. [Original Study Report (NCBI PubMed: 25060956) ↗](https://pubmed.ncbi.nlm.nih.gov/25060956/)

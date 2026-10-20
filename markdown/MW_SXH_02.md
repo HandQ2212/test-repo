@@ -1,18 +1,21 @@
-# Rối Loạn Cương Dương (ED): Tín Hiệu Báo Động Sớm Của Hệ Tuần Hoàn & Sức Khỏe Chuyển Hóa
-**Erectile Dysfunction Decoded: The Early Cardiovascular & Metabolic Warning System**
-
-> **Sapo (VI):** Rối loạn cương dương (ED) thường bị che phủ bởi cảm giác xấu hổ và mặc cảm, nhưng trong mắt các bác sĩ tim mạch, nó chính là chiếc 'phanh khẩn cấp' của hệ tuần hoàn. Dữ liệu từ Hiệp hội Tim mạch Hoa Kỳ (AHA) chứng minh: Rối loạn cương ở nam giới từ 30–50 tuổi xuất hiện trước các cơn nhồi máu cơ tim hoặc đột quỵ từ 2 đến 5 năm, biến nó thành cơ hội vàng để can thiệp bảo vệ tính mạng.
-> 
-> **Lead (EN):** Erectile dysfunction is often shrouded in stigma, yet cardiologists view it as the body's most sensitive cardiovascular early warning signal. Epidemiological data published in Circulation confirms that ED in men aged 30–50 precedes major adverse cardiovascular events (myocardial infarction, stroke) by 2 to 5 years, providing an invaluable therapeutic window for life-saving vascular intervention.
-
-> [!TIP]
-> 💡 **Điểm Cốt Lõi (Key Takeaway):** Đừng xem rối loạn cương chỉ là chuyện phòng the; hãy xem nó là bài kiểm tra sức khỏe động mạch. Động mạch hang nhỏ hơn nhiều so với động mạch vành tim. Khám tim mạch, xét nghiệm mỡ máu, kiểm tra đường huyết và phục hồi độ đàn hồi nội mô là bước đi sống còn hàng đầu.
-> 
-> 💡 **Takeaway (EN):** Never dismiss erectile difficulty as merely a bedroom issue; view it as an arterial stress test. Cavernosal arteries are a fraction of the diameter of coronary vessels. Cardiovascular screening, lipid panels, HbA1c testing, and restoring endothelial compliance are critical lifesavers.
+# MW_SXH_02 - Rối Loạn Cương Dương (ED): Tín Hiệu Báo Động Sớm Của Hệ Tuần Hoàn & Sức Khỏe Chuyển Hóa
+**Category:** Men's Health 
+**Screen:** Cardiovascular Health & Recovery Screen 
+**Metric:** Endothelial Health, Arterial Compliance & Resting Heart Rate 
+**Reading Time:** 8 phút đọc / 8 min 
+**Hero Image:** ![Rối Loạn Cương Dương (ED): Tín Hiệu Báo Động Sớm Của Hệ Tuần Hoàn & Sức Khỏe Chuyển Hóa](images/LM_MH_03_hero.jpg) *(Source: [https://images.unsplash.com/photo-1576091160399-112ba8d25d1d?auto=format&fit=crop&w=1200&q=85](https://images.unsplash.com/photo-1576091160399-112ba8d25d1d?auto=format&fit=crop&w=1200&q=85))* 
+**Inline Figure:** ![Tiến trình xơ vữa động mạch: Động mạch hang dương vật có kích thước siêu nhỏ nên tắc nghẽn xuất hiện sớm hơn 3–5 năm trước động mạch vành tim.](images/DM_MH_02_figure.png) *(Source: [https://commons.wikimedia.org/wiki/File:Atherosclerosis.svg](https://commons.wikimedia.org/wiki/File:Atherosclerosis.svg))* 
+**Clinical Source:** [European Urology & American Heart Association (Circulation)](https://pubmed.ncbi.nlm.nih.gov/16530932/) 
 
 ---
 
-## 🇻🇳 NỘI DUNG TIẾNG VIỆT
+## 🇻🇳 Phiên Bản Tiếng Việt (Vietnamese Edition)
+
+# Rối Loạn Cương Dương (ED): Tín Hiệu Báo Động Sớm Của Hệ Tuần Hoàn & Sức Khỏe Chuyển Hóa
+
+> **Tóm tắt (Sapo):** Rối loạn cương dương (ED) thường bị che phủ bởi cảm giác xấu hổ và mặc cảm, nhưng trong mắt các bác sĩ tim mạch, nó chính là chiếc 'phanh khẩn cấp' của hệ tuần hoàn. Dữ liệu từ Hiệp hội Tim mạch Hoa Kỳ (AHA) chứng minh: Rối loạn cương ở nam giới từ 30–50 tuổi xuất hiện trước các cơn nhồi máu cơ tim hoặc đột quỵ từ 2 đến 5 năm, biến nó thành cơ hội vàng để can thiệp bảo vệ tính mạng.
+
+> 💡 **Điểm Cốt Lõi & Hành Động Thực Tế (Key Takeaway):** Đừng xem rối loạn cương chỉ là chuyện phòng the; hãy xem nó là bài kiểm tra sức khỏe động mạch. Động mạch hang nhỏ hơn nhiều so với động mạch vành tim. Khám tim mạch, xét nghiệm mỡ máu, kiểm tra đường huyết và phục hồi độ đàn hồi nội mô là bước đi sống còn hàng đầu.
 
 ## Giả Thuyết Kích Thước Động Mạch (The Artery Size Hypothesis)
 
@@ -63,14 +66,20 @@ Những chiếc đồng hồ thông minh (Apple Watch, Garmin, WHOOP) không đo
 
 ## Tài Liệu Tham Khảo & Nguồn Y Khoa
 
-1. **Montorsi, P., Ravagnani, P. M., et al. (2006).** *Association between erectile dysfunction and coronary artery disease.* European Urology, 49(5), 884–891. [Đọc trên PubMed ↗](https://pubmed.ncbi.nlm.nih.gov/16530932/)
-2. **Feldman, H. A., Goldstein, I., Hatzichristou, D. G., et al. (1994).** *Impotence and its medical and psychosocial correlates: results of the Massachusetts Male Aging Study.* The Journal of Urology, 151(1), 54–61. [Đọc trên PubMed ↗](https://pubmed.ncbi.nlm.nih.gov/8254833/)
-3. **Grover, S. A., Lowensteyn, I., et al. (2006).** *The prevalence of erectile dysfunction in the primary care setting: importance of evaluating for cardiovascular disease.* Archives of Internal Medicine. [Đọc trên JAMA Network ↗](https://pubmed.ncbi.nlm.nih.gov/16401824/)
-4. **Jackson, G., Boon, N., Eardley, I., et al. (2010).** *Erectile dysfunction and coronary artery disease prediction: evidence-based guidance and consensus.* International Journal of Clinical Practice. [Đọc trên PubMed ↗](https://pubmed.ncbi.nlm.nih.gov/20584226/)
+1. **Montorsi, P., Ravagnani, P. M., et al. (2006).** *Association between erectile dysfunction and coronary artery disease.* European Urology, 49(5), 884–891. [Tạp chí European Urology (PMID: 16530932) ↗](https://pubmed.ncbi.nlm.nih.gov/16530932/)
+2. **Feldman, H. A., Goldstein, I., Hatzichristou, D. G., et al. (1994).** *Impotence and its medical and psychosocial correlates: results of the Massachusetts Male Aging Study.* The Journal of Urology, 151(1), 54–61. [Báo Cáo Nghiên Cứu Gốc (NCBI PubMed: 8254833) ↗](https://pubmed.ncbi.nlm.nih.gov/8254833/)
+3. **Grover, S. A., Lowensteyn, I., et al. (2006).** *The prevalence of erectile dysfunction in the primary care setting: importance of evaluating for cardiovascular disease.* Archives of Internal Medicine. [Tạp chí JAMA Network (PMID: 16401824) ↗](https://pubmed.ncbi.nlm.nih.gov/16401824/)
+4. **Jackson, G., Boon, N., Eardley, I., et al. (2010).** *Erectile dysfunction and coronary artery disease prediction: evidence-based guidance and consensus.* International Journal of Clinical Practice. [Báo Cáo Nghiên Cứu Gốc (NCBI PubMed: 20584226) ↗](https://pubmed.ncbi.nlm.nih.gov/20584226/)
 
 ---
 
-## 🇬🇧 ENGLISH CONTENT
+## 🇬🇧 English Edition
+
+# Erectile Dysfunction Decoded: The Early Cardiovascular & Metabolic Warning System
+
+> **Abstract (Sapo):** Erectile dysfunction is often shrouded in stigma, yet cardiologists view it as the body's most sensitive cardiovascular early warning signal. Epidemiological data published in Circulation confirms that ED in men aged 30–50 precedes major adverse cardiovascular events (myocardial infarction, stroke) by 2 to 5 years, providing an invaluable therapeutic window for life-saving vascular intervention.
+
+> 💡 **Key Takeaway & Clinical Action:** Never dismiss erectile difficulty as merely a bedroom issue; view it as an arterial stress test. Cavernosal arteries are a fraction of the diameter of coronary vessels. Cardiovascular screening, lipid panels, HbA1c testing, and restoring endothelial compliance are critical lifesavers.
 
 ## The Artery Size Hypothesis: The Penile Canary in the Cardiovascular Coal Mine
 

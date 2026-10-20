@@ -1,18 +1,21 @@
-# Nhịn Ăn Gián Đoạn (IF) & Nội Tiết Tố Nam: Lợi Ích Nhạy Insulin So Với Rủi Ro Tụt Testosterone
-**Intermittent Fasting & Male Hormones: Insulin Sensitivity Gains vs. Androgen Drops**
-
-> **Sapo (VI):** Nhịn ăn gián đoạn (Intermittent Fasting - IF) 16/8 đang là một trong những trào lưu giảm mỡ phổ biến nhất thế giới. Tuy nhiên, trong khi IF mang lại những lợi ích vượt trội về độ nhạy insulin, giảm viêm và tăng vọt hormone tăng trưởng (GH), các thử nghiệm lâm sàng chuyên sâu cảnh báo: Việc kéo dài thời gian nhịn ăn quá mức hoặc kết hợp với thâm hụt calo sâu có thể làm suy giảm nồng độ testosterone và hormone tuyến giáp ở nam giới.
-> 
-> **Lead (EN):** Time-Restricted Feeding (16/8 Intermittent Fasting) has become a dominant nutritional trend for male body recomposition. Yet while IF yields striking improvements in insulin sensitivity, visceral fat reduction, and pulsatile growth hormone (GH) output, controlled clinical trials reveal a dual reality: excessive fasting windows compounded by caloric deficits can induce suppressive reductions in circulating testosterone and thyroid hormones.
-
-> [!TIP]
-> 💡 **Điểm Cốt Lõi (Key Takeaway):** Nhịn ăn gián đoạn 16/8 là công cụ tuyệt vời để giảm mỡ nội tạng và tăng độ nhạy insulin ở nam giới thừa cân (giúp gián tiếp tăng testosterone do giảm enzyme aromatase). Nhưng ở nam giới đã có thân hình săn chắc (body fat <12%) hoặc tập tạ nặng, nhịn ăn quá 16 tiếng sẽ kích hoạt tín hiệu thiếu năng lượng sẵn có, làm tụt Free T và tăng Cortisol.
-> 
-> 💡 **Takeaway (EN):** Intermittent fasting 16/8 is exceptionally potent for shedding visceral adiposity and reversing insulin resistance in overweight men (indirectly raising testosterone via aromatase downregulation). However, in already lean athletic males (body fat <12%) performing heavy resistance strain, prolonged fasting triggers low energy availability cues, dampening Free T and escalating cortisol.
+# MW_NUT_07 - Nhịn Ăn Gián Đoạn (IF) & Nội Tiết Tố Nam: Lợi Ích Nhạy Insulin So Với Rủi Ro Tụt Testosterone
+**Category:** Men's Health 
+**Screen:** Metabolic Health & Endocrine Fasting Screen 
+**Metric:** Insulin Sensitivity, Growth Hormone Pulsatility & LH/Testosterone 
+**Reading Time:** 8 phút đọc / 8 min 
+**Hero Image:** ![Nhịn Ăn Gián Đoạn (IF) & Nội Tiết Tố Nam: Lợi Ích Nhạy Insulin So Với Rủi Ro Tụt Testosterone](images/LM_AC_02_hero.jpg) *(Source: [https://images.unsplash.com/photo-1490645935967-10de6ba17061?auto=format&fit=crop&w=1200&q=85](https://images.unsplash.com/photo-1490645935967-10de6ba17061?auto=format&fit=crop&w=1200&q=85))* 
+**Inline Figure:** ![Chuyển hóa Insulin và độ nhạy tế bào: Nhịn ăn gián đoạn giúp hạ thấp nồng độ insulin nền, tạo điều kiện thuận lợi cho hormone tăng trưởng (GH) và quá trình tự thực bào (Autophagy).](images/DM_AC_02_figure.png) *(Source: [https://commons.wikimedia.org/wiki/File:Insulin_glucose_metabolism.svg](https://commons.wikimedia.org/wiki/File:Insulin_glucose_metabolism.svg))* 
+**Clinical Source:** [Journal of Translational Medicine & The Journal of Clinical Endocrinology & Metabolism](https://pubmed.ncbi.nlm.nih.gov/27737674/) 
 
 ---
 
-## 🇻🇳 NỘI DUNG TIẾNG VIỆT
+## 🇻🇳 Phiên Bản Tiếng Việt (Vietnamese Edition)
+
+# Nhịn Ăn Gián Đoạn (IF) & Nội Tiết Tố Nam: Lợi Ích Nhạy Insulin So Với Rủi Ro Tụt Testosterone
+
+> **Tóm tắt (Sapo):** Nhịn ăn gián đoạn (Intermittent Fasting - IF) 16/8 đang là một trong những trào lưu giảm mỡ phổ biến nhất thế giới. Tuy nhiên, trong khi IF mang lại những lợi ích vượt trội về độ nhạy insulin, giảm viêm và tăng vọt hormone tăng trưởng (GH), các thử nghiệm lâm sàng chuyên sâu cảnh báo: Việc kéo dài thời gian nhịn ăn quá mức hoặc kết hợp với thâm hụt calo sâu có thể làm suy giảm nồng độ testosterone và hormone tuyến giáp ở nam giới.
+
+> 💡 **Điểm Cốt Lõi & Hành Động Thực Tế (Key Takeaway):** Nhịn ăn gián đoạn 16/8 là công cụ tuyệt vời để giảm mỡ nội tạng và tăng độ nhạy insulin ở nam giới thừa cân (giúp gián tiếp tăng testosterone do giảm enzyme aromatase). Nhưng ở nam giới đã có thân hình săn chắc (body fat <12%) hoặc tập tạ nặng, nhịn ăn quá 16 tiếng sẽ kích hoạt tín hiệu thiếu năng lượng sẵn có, làm tụt Free T và tăng Cortisol.
 
 ## Thử Nghiệm Đại Học Texas (Moro et al.): Sự Thật Về IF 16/8 Ở Nam Giới Tập Tạ
 
@@ -63,14 +66,20 @@ Một trong những lập luận phổ biến của người ủng hộ IF là: 
 
 ## Tài Liệu Tham Khảo & Nguồn Y Khoa
 
-1. **Moro, T., Tinsley, G., Bianco, A., et al. (2016).** *Effects of eight weeks of time-restricted feeding (16/8) on basal metabolism, maximal strength, body composition, inflammation, and cardiovascular risk factors in resistance-trained males.* Journal of Translational Medicine, 14(1), 290. [Đọc trên PubMed ↗](https://pubmed.ncbi.nlm.nih.gov/27737674/)
-2. **Catenacci, V. A., et al. (2016).** *A randomized pilot study comparing zero-calorie alternate-day fasting to daily caloric restriction in adults with obesity.* Obesity, 24(9), 1874–1883. [Đọc trên PubMed ↗](https://pubmed.ncbi.nlm.nih.gov/27569118/)
-3. **Ho, K. Y., et al. (1988).** *Fasting enhances growth hormone secretion and amplifies the complex rhythms of growth hormone secretion in man.* The Journal of Clinical Investigation, 81(4), 968–975. [Đọc trên JCI ↗](https://pubmed.ncbi.nlm.nih.gov/3127426/)
-4. **Heilbronn, L. K., et al. (2005).** *Alternate-day fasting in nonobese subjects: effects on body weight, body composition, and energy metabolism.* The American Journal of Clinical Nutrition. [Đọc trên PubMed ↗](https://pubmed.ncbi.nlm.nih.gov/15640462/)
+1. **Moro, T., Tinsley, G., Bianco, A., et al. (2016).** *Effects of eight weeks of time-restricted feeding (16/8) on basal metabolism, maximal strength, body composition, inflammation, and cardiovascular risk factors in resistance-trained males.* Journal of Translational Medicine, 14(1), 290. [Báo Cáo Nghiên Cứu Gốc (NCBI PubMed: 27737674) ↗](https://pubmed.ncbi.nlm.nih.gov/27737674/)
+2. **Catenacci, V. A., et al. (2016).** *A randomized pilot study comparing zero-calorie alternate-day fasting to daily caloric restriction in adults with obesity.* Obesity, 24(9), 1874–1883. [Báo Cáo Nghiên Cứu Gốc (NCBI PubMed: 27569118) ↗](https://pubmed.ncbi.nlm.nih.gov/27569118/)
+3. **Ho, K. Y., et al. (1988).** *Fasting enhances growth hormone secretion and amplifies the complex rhythms of growth hormone secretion in man.* The Journal of Clinical Investigation, 81(4), 968–975. [Tạp chí JCI (PMID: 3127426) ↗](https://pubmed.ncbi.nlm.nih.gov/3127426/)
+4. **Heilbronn, L. K., et al. (2005).** *Alternate-day fasting in nonobese subjects: effects on body weight, body composition, and energy metabolism.* The American Journal of Clinical Nutrition. [Tạp chí American Journal of Clinical Nutrition (PMID: 15640462) ↗](https://pubmed.ncbi.nlm.nih.gov/15640462/)
 
 ---
 
-## 🇬🇧 ENGLISH CONTENT
+## 🇬🇧 English Edition
+
+# Intermittent Fasting & Male Hormones: Insulin Sensitivity Gains vs. Androgen Drops
+
+> **Abstract (Sapo):** Time-Restricted Feeding (16/8 Intermittent Fasting) has become a dominant nutritional trend for male body recomposition. Yet while IF yields striking improvements in insulin sensitivity, visceral fat reduction, and pulsatile growth hormone (GH) output, controlled clinical trials reveal a dual reality: excessive fasting windows compounded by caloric deficits can induce suppressive reductions in circulating testosterone and thyroid hormones.
+
+> 💡 **Key Takeaway & Clinical Action:** Intermittent fasting 16/8 is exceptionally potent for shedding visceral adiposity and reversing insulin resistance in overweight men (indirectly raising testosterone via aromatase downregulation). However, in already lean athletic males (body fat <12%) performing heavy resistance strain, prolonged fasting triggers low energy availability cues, dampening Free T and escalating cortisol.
 
 ## The Texas Study (Moro et al.): The Reality of 16/8 IF in Resistance-Trained Men
 

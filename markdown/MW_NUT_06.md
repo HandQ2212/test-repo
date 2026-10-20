@@ -1,18 +1,21 @@
-# Dinh Dưỡng Nâng Cao Chất Lượng Tinh Trùng: Bảo Vệ DNA & Tăng Khả Năng Vận Động
-**Nutritional Protocols for Sperm Quality: Protecting DNA Fragmentation & Motility**
-
-> **Sapo (VI):** Theo nghiên cứu chấn động của Đại học Hebrew đăng trên tạp chí Human Reproduction Update, số lượng tinh trùng của nam giới trên toàn cầu đã sụt giảm hơn 50% trong nửa thế kỷ qua. Khác với tế bào trứng của phụ nữ vốn đã có sẵn từ khi sinh ra, tinh trùng nam giới được sản xuất mới liên tục theo chu kỳ 74 ngày. Điều này đồng nghĩa với việc: Bạn hoàn toàn có thể tái sinh toàn bộ chất lượng giống nòi thông qua một phác đồ dinh dưỡng chống oxy hóa chuẩn xác.
-> 
-> **Lead (EN):** A landmark global meta-analysis published in Human Reproduction Update revealed that sperm counts have plummeted by over 50% across the past half-century. Unlike female oocytes which are present from birth, spermatozoa are constantly regenerated along a rolling 74-day spermatogenic cycle. This biological reality provides a potent therapeutic window: targeted nutritional interventions can dramatically rehabilitate male fertility parameters.
-
-> [!TIP]
-> 💡 **Điểm Cốt Lõi (Key Takeaway):** Chu kỳ sinh tinh kéo dài trung bình 74 ngày cộng thêm 14 ngày trưởng thành tại mào tinh hoàn. Tinh trùng cực kỳ dễ bị tổn thương bởi các gốc tự do ROS gây đứt gãy DNA. Bổ sung CoQ10, L-Carnitine, Lycopene và Omega-3 EPA/DHA trong tối thiểu 90 ngày giúp cải thiện rõ rệt mật độ, độ dị động và hình thái tinh trùng theo tiêu chuẩn WHO.
-> 
-> 💡 **Takeaway (EN):** The human spermatogenic cycle spans approximately 74 days plus 14 days of epididymal transit. Sperm cell membranes are uniquely vulnerable to reactive oxygen species (ROS) inducing DNA fragmentation. Supplementing CoQ10, L-Carnitine, Lycopene, and Omega-3 for at least 90 days significantly enhances motility, morphology, and viability according to WHO 6th edition criteria.
+# MW_NUT_06 - Dinh Dưỡng Nâng Cao Chất Lượng Tinh Trùng: Bảo Vệ DNA & Tăng Khả Năng Vận Động
+**Category:** Men's Health 
+**Screen:** Reproductive Health & Sperm Analysis Screen 
+**Metric:** Spermatogenic Cycle (74 Days), DNA Fragmentation & Semen Parameters 
+**Reading Time:** 8 phút đọc / 8 min 
+**Hero Image:** ![Dinh Dưỡng Nâng Cao Chất Lượng Tinh Trùng: Bảo Vệ DNA & Tăng Khả Năng Vận Động](images/DM_HW_01_hero.jpg) *(Source: [https://images.unsplash.com/photo-1579684385127-1ef15d508118?auto=format&fit=crop&w=1200&q=85](https://images.unsplash.com/photo-1579684385127-1ef15d508118?auto=format&fit=crop&w=1200&q=85))* 
+**Inline Figure:** ![Tiến trình sinh tinh (Spermatogenesis): Mất trung bình 74 ngày để một tế bào mầm tinh trùng biệt hóa thành tinh trùng trưởng thành; bất kỳ thay đổi dinh dưỡng nào cũng cần tối thiểu 2.5–3 tháng để phản ánh kết quả.](images/LM_MH_03_figure.jpg) *(Source: [https://commons.wikimedia.org/wiki/File:Spermatogenesis.svg](https://commons.wikimedia.org/wiki/File:Spermatogenesis.svg))* 
+**Clinical Source:** [Human Reproduction Update & World Health Organization (WHO Semen Manual 6th Ed)](https://pubmed.ncbi.nlm.nih.gov/28333357/) 
 
 ---
 
-## 🇻🇳 NỘI DUNG TIẾNG VIỆT
+## 🇻🇳 Phiên Bản Tiếng Việt (Vietnamese Edition)
+
+# Dinh Dưỡng Nâng Cao Chất Lượng Tinh Trùng: Bảo Vệ DNA & Tăng Khả Năng Vận Động
+
+> **Tóm tắt (Sapo):** Theo nghiên cứu chấn động của Đại học Hebrew đăng trên tạp chí Human Reproduction Update, số lượng tinh trùng của nam giới trên toàn cầu đã sụt giảm hơn 50% trong nửa thế kỷ qua. Khác với tế bào trứng của phụ nữ vốn đã có sẵn từ khi sinh ra, tinh trùng nam giới được sản xuất mới liên tục theo chu kỳ 74 ngày. Điều này đồng nghĩa với việc: Bạn hoàn toàn có thể tái sinh toàn bộ chất lượng giống nòi thông qua một phác đồ dinh dưỡng chống oxy hóa chuẩn xác.
+
+> 💡 **Điểm Cốt Lõi & Hành Động Thực Tế (Key Takeaway):** Chu kỳ sinh tinh kéo dài trung bình 74 ngày cộng thêm 14 ngày trưởng thành tại mào tinh hoàn. Tinh trùng cực kỳ dễ bị tổn thương bởi các gốc tự do ROS gây đứt gãy DNA. Bổ sung CoQ10, L-Carnitine, Lycopene và Omega-3 EPA/DHA trong tối thiểu 90 ngày giúp cải thiện rõ rệt mật độ, độ dị động và hình thái tinh trùng theo tiêu chuẩn WHO.
 
 ## Cuộc Khủng Hoảng Vô Sinh Nam Giới & Con Số 74 Ngày Kỷ Diệu
 
@@ -65,14 +68,20 @@ Khi thực hiện xét nghiệm Tinh dịch đồ (Semen Analysis), các tiêu c
 
 ## Tài Liệu Tham Khảo & Nguồn Y Khoa
 
-1. **Levine, H., Jørgensen, N., Martino-Andrade, A., et al. (2017).** *Temporal trends in sperm count: a systematic review and meta-regression analysis.* Human Reproduction Update, 23(6), 646–659. [Đọc trên PubMed ↗](https://pubmed.ncbi.nlm.nih.gov/28981654/)
-2. **Salas-Huetos, A., Bulló, M., & Salas-Salvadó, J. (2017).** *Dietary patterns, foods and nutrients in male fertility parameters and fecundability: a systematic review of observational studies.* Human Reproduction Update, 23(4), 371–389. [Đọc trên PubMed ↗](https://pubmed.ncbi.nlm.nih.gov/28333357/)
-3. **World Health Organization. (2021).** *WHO laboratory manual for the examination and processing of human semen, sixth edition.* Geneva: World Health Organization. [Đọc trên WHO Guidelines ↗](https://www.who.int/publications/i/item/9789240030787)
-4. **Lafuente, R., et al. (2013).** *Coenzyme Q10 and male infertility: a meta-analysis.* Journal of Assisted Reproduction and Genetics, 30(9), 1147–1156. [Đọc trên PubMed ↗](https://pubmed.ncbi.nlm.nih.gov/23912751/)
+1. **Levine, H., Jørgensen, N., Martino-Andrade, A., et al. (2017).** *Temporal trends in sperm count: a systematic review and meta-regression analysis.* Human Reproduction Update, 23(6), 646–659. [Tạp chí Human Reproduction (PMID: 28981654) ↗](https://pubmed.ncbi.nlm.nih.gov/28981654/)
+2. **Salas-Huetos, A., Bulló, M., & Salas-Salvadó, J. (2017).** *Dietary patterns, foods and nutrients in male fertility parameters and fecundability: a systematic review of observational studies.* Human Reproduction Update, 23(4), 371–389. [Tạp chí Human Reproduction (PMID: 28333357) ↗](https://pubmed.ncbi.nlm.nih.gov/28333357/)
+3. **World Health Organization. (2021).** *WHO laboratory manual for the examination and processing of human semen, sixth edition.* Geneva: World Health Organization. [Tạp chí WHO Guidelines ↗](https://www.who.int/publications/i/item/9789240030787)
+4. **Lafuente, R., et al. (2013).** *Coenzyme Q10 and male infertility: a meta-analysis.* Journal of Assisted Reproduction and Genetics, 30(9), 1147–1156. [Báo Cáo Nghiên Cứu Gốc (NCBI PubMed: 23912751) ↗](https://pubmed.ncbi.nlm.nih.gov/23912751/)
 
 ---
 
-## 🇬🇧 ENGLISH CONTENT
+## 🇬🇧 English Edition
+
+# Nutritional Protocols for Sperm Quality: Protecting DNA Fragmentation & Motility
+
+> **Abstract (Sapo):** A landmark global meta-analysis published in Human Reproduction Update revealed that sperm counts have plummeted by over 50% across the past half-century. Unlike female oocytes which are present from birth, spermatozoa are constantly regenerated along a rolling 74-day spermatogenic cycle. This biological reality provides a potent therapeutic window: targeted nutritional interventions can dramatically rehabilitate male fertility parameters.
+
+> 💡 **Key Takeaway & Clinical Action:** The human spermatogenic cycle spans approximately 74 days plus 14 days of epididymal transit. Sperm cell membranes are uniquely vulnerable to reactive oxygen species (ROS) inducing DNA fragmentation. Supplementing CoQ10, L-Carnitine, Lycopene, and Omega-3 for at least 90 days significantly enhances motility, morphology, and viability according to WHO 6th edition criteria.
 
 ## The Male Infertility Crisis & The 74-Day Spermatogenic Cycle
 

@@ -1,22 +1,21 @@
-# 🇻🇳 Tập Luyện Đồng Bộ Chu Kỳ (Cycle-Synced Training): Cách Phân Kỳ Sức Mạnh, HIIT Và Phục Hồi Theo Nội Tiết Tố
-# 🇬🇧 Cycle-Synced Training: How to Periodize Strength, HIIT, and Recovery Across Your Menstrual Cycle
-
-- **Article ID:** `DM_WH_01`
-- **Category:** Women's Health — Cycle-Synced Fitness
-- **Content Type:** Discover more
-- **Mapped App Screen & Metric:** `Menstrual Cycle Screen` (`Cycle-Synced Training`)
-- **Reading Time:** 9 phút đọc / 9 min
-- **Local Hero Photo:** `images/DM_WH_01_hero.jpg` ([Original Photo Source ↗](https://images.unsplash.com/photo-1571019614242-c5c5dee9f50b?auto=format&fit=crop&w=1200&q=85))
-- **Local Medical Figure:** `images/DM_WH_01_figure.png` ([Original Wikimedia Commons Source ↗](https://commons.wikimedia.org/wiki/File:Hormones_estradiol,_progesterone,_LH_and_FSH_during_menstrual_cycle.svg))
-- **Primary Clinical & Wearable Source:** [WHOOP Menstrual Cycle Coaching & Dr. Stacy Sims / PubMed (Sung et al., SpringerPlus 2014; McNulty et al., Sports Medicine 2020)](https://pubmed.ncbi.nlm.nih.gov/25525569/)
+# DM_WH_01 - Tập Luyện Đồng Bộ Chu Kỳ (Cycle-Synced Training): Cách Phân Kỳ Sức Mạnh, HIIT Và Phục Hồi Theo Nội Tiết Tố
+**Category:** Women's Health 
+**Screen:** Menstrual Cycle Screen 
+**Metric:** Cycle-Synced Training 
+**Reading Time:** 9 phút đọc / 9 min 
+**Hero Image:** ![Tập Luyện Đồng Bộ Chu Kỳ (Cycle-Synced Training): Cách Phân Kỳ Sức Mạnh, HIIT Và Phục Hồi Theo Nội Tiết Tố](images/DM_WH_01_hero.jpg) *(Source: [https://images.unsplash.com/photo-1571019614242-c5c5dee9f50b?auto=format&fit=crop&w=1200&q=85](https://images.unsplash.com/photo-1571019614242-c5c5dee9f50b?auto=format&fit=crop&w=1200&q=85))* 
+**Inline Figure:** ![Đường cong định lượng nội tiết qua chu kỳ 28 ngày thể hiện nồng độ tham chiếu của Estradiol (pmol/L), Progesterone (nmol/L), LH và FSH—minh họa cửa sổ đồng hóa giàu Estrogen từ Ngày 7–14 đối lập với giai đoạn dị hóa cao Progesterone từ Ngày 18–26.](images/DM_WH_01_figure.png) *(Source: [https://commons.wikimedia.org/wiki/File:Hormones_estradiol,_progesterone,_LH_and_FSH_during_menstrual_cycle.svg](https://commons.wikimedia.org/wiki/File:Hormones_estradiol,_progesterone,_LH_and_FSH_during_menstrual_cycle.svg))* 
+**Clinical Source:** [WHOOP Menstrual Cycle Coaching & Dr. Stacy Sims / PubMed (Sung et al., SpringerPlus 2014; McNulty et al., Sports Medicine 2020)](https://pubmed.ncbi.nlm.nih.gov/25525569/) 
 
 ---
 
-## 🇻🇳 BẢN TIẾNG VIỆT
+## 🇻🇳 Phiên Bản Tiếng Việt (Vietnamese Edition)
 
-> **Tóm tắt:** Vì sao cùng một giáo án nâng tạ hay chạy bộ lại mang đến cảm giác nhẹ nhàng ở Tuần 2 nhưng lại vắt kiệt sức lực ở Tuần 4 của chu kỳ? Khám phá khoa học nội tiết thể thao từ Tiến sĩ Stacy Sims và WHOOP Menstrual Cycle Coaching để tối ưu hóa tải tập luyện theo nhịp điệu Estrogen và Progesterone.
+# Tập Luyện Đồng Bộ Chu Kỳ (Cycle-Synced Training): Cách Phân Kỳ Sức Mạnh, HIIT Và Phục Hồi Theo Nội Tiết Tố
 
-> 💡 **Điểm Cốt Lõi & Hành Động Thực Tế:** Hãy dồn các buổi tập tạ nặng, cường độ cao ngắt quãng (HIIT) và mục tiêu phá kỷ lục cá nhân vào giai đoạn Nang trứng và Rụng trứng (Ngày 3–15) khi Estrogen tối ưu hóa tổng hợp protein cơ bắp và sử dụng glycogen. Sang nửa cuối pha Hoàng thể (Ngày 20–28), hãy chuyển sang Cardio Zone 2 bền bỉ, rèn kỹ thuật, tăng lượng đạm (1.8–2.2 g/kg) và chủ động làm mát cơ thể.
+> **Tóm tắt (Sapo):** Vì sao cùng một giáo án nâng tạ hay chạy bộ lại mang đến cảm giác nhẹ nhàng ở Tuần 2 nhưng lại vắt kiệt sức lực ở Tuần 4 của chu kỳ? Khám phá khoa học nội tiết thể thao từ Tiến sĩ Stacy Sims và WHOOP Menstrual Cycle Coaching để tối ưu hóa tải tập luyện theo nhịp điệu Estrogen và Progesterone.
+
+> 💡 **Điểm Cốt Lõi & Hành Động Thực Tế (Key Takeaway):** Hãy dồn các buổi tập tạ nặng, cường độ cao ngắt quãng (HIIT) và mục tiêu phá kỷ lục cá nhân vào giai đoạn Nang trứng và Rụng trứng (Ngày 3–15) khi Estrogen tối ưu hóa tổng hợp protein cơ bắp và sử dụng glycogen. Sang nửa cuối pha Hoàng thể (Ngày 20–28), hãy chuyển sang Cardio Zone 2 bền bỉ, rèn kỹ thuật, tăng lượng đạm (1.8–2.2 g/kg) và chủ động làm mát cơ thể.
 
 ## Vì Sao Giáo Án Tập Luyện Tuyến Tính Truyền Thống Bỏ Quên Sinh Lý Nữ Giới?
 
@@ -86,18 +85,20 @@ Bạn đã bao giờ chạy đúng cự ly 5 km với tốc độ quen thuộc v
 
 ## Tài Liệu Tham Khảo & Nguồn Y Khoa
 
-1. **Sung, E., Han, A., Hinrichs, T., Vorgerd, M., Manchado, C., & Platen, P. (2014).** *Effects of follicular versus luteal phase-based strength training in young women.* SpringerPlus, 3(1), 668. [https://pubmed.ncbi.nlm.nih.gov/25525569/](https://pubmed.ncbi.nlm.nih.gov/25525569/)
-2. **McNulty, K. L., Elliott-Sale, K. J., Dolan, E., Swinton, P. A., Ansdell, P., Goodall, S., ... & Hicks, K. M. (2020).** *The Effects of Menstrual Cycle Phase on Exercise Performance in Eumenorrheic Women: A Systematic Review and Meta-Analysis.* Sports Medicine, 50(10), 1813–1827. [https://pubmed.ncbi.nlm.nih.gov/32661839/](https://pubmed.ncbi.nlm.nih.gov/32661839/)
-3. **Herzberg, S. D., Motu'apuaka, M. L., Lambert, W., Fu, R., Brady, J., & Guise, J. M. (2017).** *The Effect of Menstrual Cycle and Contraceptives on ACL Injuries and Laxity: A Systematic Review and Meta-analysis.* Orthopaedic Journal of Sports Medicine, 5(7), 2325967117718781. [https://pubmed.ncbi.nlm.nih.gov/28795075/](https://pubmed.ncbi.nlm.nih.gov/28795075/)
-4. **WHOOP The Locker (with Dr. Stacy Sims).** *Menstrual Cycle Coaching: Training & Recovery Across Your Cycle Phases.* [https://www.whoop.com/us/en/thelocker/menstrual-cycle-coaching/](https://www.whoop.com/us/en/thelocker/menstrual-cycle-coaching/)
+1. **Sung, E., Han, A., Hinrichs, T., Vorgerd, M., Manchado, C., & Platen, P. (2014).** *Effects of follicular versus luteal phase-based strength training in young women.* SpringerPlus, 3(1), 668. [Báo Cáo Nghiên Cứu Gốc (NCBI PubMed: 25525569) ↗](https://pubmed.ncbi.nlm.nih.gov/25525569/)
+2. **McNulty, K. L., Elliott-Sale, K. J., Dolan, E., Swinton, P. A., Ansdell, P., Goodall, S., ... & Hicks, K. M. (2020).** *The Effects of Menstrual Cycle Phase on Exercise Performance in Eumenorrheic Women: A Systematic Review and Meta-Analysis.* Sports Medicine, 50(10), 1813–1827. [Báo Cáo Nghiên Cứu Gốc (NCBI PubMed: 32661839) ↗](https://pubmed.ncbi.nlm.nih.gov/32661839/)
+3. **Herzberg, S. D., Motu'apuaka, M. L., Lambert, W., Fu, R., Brady, J., & Guise, J. M. (2017).** *The Effect of Menstrual Cycle and Contraceptives on ACL Injuries and Laxity: A Systematic Review and Meta-analysis.* Orthopaedic Journal of Sports Medicine, 5(7), 2325967117718781. [Báo Cáo Nghiên Cứu Gốc (NCBI PubMed: 28795075) ↗](https://pubmed.ncbi.nlm.nih.gov/28795075/)
+4. **WHOOP The Locker (with Dr. Stacy Sims).** *Menstrual Cycle Coaching: Training & Recovery Across Your Cycle Phases.* [Tạp Chí Khoa Học WHOOP The Locker ↗](https://www.whoop.com/us/en/thelocker/menstrual-cycle-coaching/)
 
 ---
 
-## 🇬🇧 ENGLISH VERSION
+## 🇬🇧 English Edition
 
-> **Executive Summary:** Why does the exact same weightlifting or running program feel effortless in Week 2 of your cycle and exhausting in Week 4? Learn the sports endocrinology of Dr. Stacy Sims and WHOOP Menstrual Cycle Coaching to match your training load with estrogen and progesterone.
+# Cycle-Synced Training: How to Periodize Strength, HIIT, and Recovery Across Your Menstrual Cycle
 
-> 💡 **Key Actionable Takeaway:** Stack your heaviest resistance training, high-intensity intervals (HIIT), and personal record attempts in the Follicular and Ovulatory phases (Days 3–15) when estrogen maximizes muscle protein synthesis and glycogen usage. In the mid-to-late Luteal phase (Days 20–28), shift toward Zone 2 aerobic endurance, technique work, higher protein intake (1.8–2.2 g/kg), and active cooling.
+> **Abstract (Sapo):** Why does the exact same weightlifting or running program feel effortless in Week 2 of your cycle and exhausting in Week 4? Learn the sports endocrinology of Dr. Stacy Sims and WHOOP Menstrual Cycle Coaching to match your training load with estrogen and progesterone.
+
+> 💡 **Key Takeaway & Clinical Action:** Stack your heaviest resistance training, high-intensity intervals (HIIT), and personal record attempts in the Follicular and Ovulatory phases (Days 3–15) when estrogen maximizes muscle protein synthesis and glycogen usage. In the mid-to-late Luteal phase (Days 20–28), shift toward Zone 2 aerobic endurance, technique work, higher protein intake (1.8–2.2 g/kg), and active cooling.
 
 ## Why Traditional Linear Training Plans Ignore Female Physiology
 
@@ -167,7 +168,7 @@ Here is what is happening inside your cardiovascular system:
 
 ## References & Clinical Sources
 
-1. **Sung, E., Han, A., Hinrichs, T., Vorgerd, M., Manchado, C., & Platen, P. (2014).** *Effects of follicular versus luteal phase-based strength training in young women.* SpringerPlus, 3(1), 668. [https://pubmed.ncbi.nlm.nih.gov/25525569/](https://pubmed.ncbi.nlm.nih.gov/25525569/)
-2. **McNulty, K. L., Elliott-Sale, K. J., Dolan, E., Swinton, P. A., Ansdell, P., Goodall, S., ... & Hicks, K. M. (2020).** *The Effects of Menstrual Cycle Phase on Exercise Performance in Eumenorrheic Women: A Systematic Review and Meta-Analysis.* Sports Medicine, 50(10), 1813–1827. [https://pubmed.ncbi.nlm.nih.gov/32661839/](https://pubmed.ncbi.nlm.nih.gov/32661839/)
-3. **Herzberg, S. D., Motu'apuaka, M. L., Lambert, W., Fu, R., Brady, J., & Guise, J. M. (2017).** *The Effect of Menstrual Cycle and Contraceptives on ACL Injuries and Laxity: A Systematic Review and Meta-analysis.* Orthopaedic Journal of Sports Medicine, 5(7), 2325967117718781. [https://pubmed.ncbi.nlm.nih.gov/28795075/](https://pubmed.ncbi.nlm.nih.gov/28795075/)
-4. **WHOOP The Locker (with Dr. Stacy Sims).** *Menstrual Cycle Coaching: Training & Recovery Across Your Cycle Phases.* [https://www.whoop.com/us/en/thelocker/menstrual-cycle-coaching/](https://www.whoop.com/us/en/thelocker/menstrual-cycle-coaching/)
+1. **Sung, E., Han, A., Hinrichs, T., Vorgerd, M., Manchado, C., & Platen, P. (2014).** *Effects of follicular versus luteal phase-based strength training in young women.* SpringerPlus, 3(1), 668. [Original Study Report (NCBI PubMed: 25525569) ↗](https://pubmed.ncbi.nlm.nih.gov/25525569/)
+2. **McNulty, K. L., Elliott-Sale, K. J., Dolan, E., Swinton, P. A., Ansdell, P., Goodall, S., ... & Hicks, K. M. (2020).** *The Effects of Menstrual Cycle Phase on Exercise Performance in Eumenorrheic Women: A Systematic Review and Meta-Analysis.* Sports Medicine, 50(10), 1813–1827. [Original Study Report (NCBI PubMed: 32661839) ↗](https://pubmed.ncbi.nlm.nih.gov/32661839/)
+3. **Herzberg, S. D., Motu'apuaka, M. L., Lambert, W., Fu, R., Brady, J., & Guise, J. M. (2017).** *The Effect of Menstrual Cycle and Contraceptives on ACL Injuries and Laxity: A Systematic Review and Meta-analysis.* Orthopaedic Journal of Sports Medicine, 5(7), 2325967117718781. [Original Study Report (NCBI PubMed: 28795075) ↗](https://pubmed.ncbi.nlm.nih.gov/28795075/)
+4. **WHOOP The Locker (with Dr. Stacy Sims).** *Menstrual Cycle Coaching: Training & Recovery Across Your Cycle Phases.* [WHOOP The Locker Science Journal ↗](https://www.whoop.com/us/en/thelocker/menstrual-cycle-coaching/)

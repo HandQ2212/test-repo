@@ -1,18 +1,21 @@
-# Khoa Học Về Lòng Tin: Tính Nhất Quán Nhỏ Hàng Ngày Tạo Nên Sự Vững Chãi Tâm Lý Dài Hạn
-**The Architecture of Trust: Micro-Attunements, Reliability & Emotional Vulnerability**
-
-> **Sapo (VI):** Lòng tin trong tình yêu không được xây dựng bằng những lời thề thốt đao to búa lớn hay những chuyến du lịch xa xỉ, mà được hình thành qua hàng nghìn khoảnh khắc siêu nhỏ vô hình diễn ra mỗi ngày. Nghiên cứu kinh điển của Giáo sư John Gottman chứng minh: Lòng tin là một chỉ số sinh học có thể đo lường được, được củng cố mỗi khi một người bộc lộ sự yếu đuối và được người kia đáp lại bằng sự thấu cảm thay vì thờ ơ.
-> 
-> **Lead (EN):** Relational trust is rarely erected through grand cinematic gestures or lavish vacations; it is painstakingly constructed through thousands of microscopic, ordinary daily micro-moments. Seminal research by Dr. John Gottman reveals that trust is an empirically quantifiable neurobiological metric, forged each time one partner signals vulnerability and the other leans in with attunement rather than turning away.
-
-> [!TIP]
-> 💡 **Điểm Cốt Lõi (Key Takeaway):** Lòng tin được định nghĩa bằng phương trình toán học tâm lý: Khả năng hy sinh lợi ích ngắn hạn của bản thân để bảo vệ hạnh phúc của đối tác. Xây dựng lòng tin đòi hỏi sự nhất quán tuyệt đối giữa lời nói và hành động, phản hồi tích cực trước các 'lời mời kết nối' (Bids for Connection) và tạo ra một vùng đệm an toàn không phán xét.
-> 
-> 💡 **Takeaway (EN):** Trust is mathematically modeled in relational psychology as the willingness to subordinate immediate self-interest for the collective well-being of the partnership. Building unbreakable trust demands micro-consistency between words and deeds, turning toward everyday 'Bids for Connection', and cultivating unconditional psychological safety.
+# MW_REL_07 - Khoa Học Về Lòng Tin: Tính Nhất Quán Nhỏ Hàng Ngày Tạo Nên Sự Vững Chãi Tâm Lý Dài Hạn
+**Category:** Men's Health 
+**Screen:** Relational Attachment & Neurobiology Screen 
+**Metric:** Adult Attachment Stability, Neurobiological Safety & Micro-Attunements 
+**Reading Time:** 8 phút đọc / 8 min 
+**Hero Image:** ![Khoa Học Về Lòng Tin: Tính Nhất Quán Nhỏ Hàng Ngày Tạo Nên Sự Vững Chãi Tâm Lý Dài Hạn](images/DM_SL_01_photo.jpg) *(Source: [https://images.unsplash.com/photo-1516589178581-6cd7833ae3b2?auto=format&fit=crop&w=1200&q=85](https://images.unsplash.com/photo-1516589178581-6cd7833ae3b2?auto=format&fit=crop&w=1200&q=85))* 
+**Inline Figure:** ![Mô hình 4 phong cách gắn bó người trưởng thành (Adult Attachment): Sự an toàn cảm xúc giúp chuyển hóa phong cách lo âu hoặc né tránh thành gắn bó an toàn (Secure Attachment).](images/DM_HW_01_figure.jpg) *(Source: [https://commons.wikimedia.org/wiki/File:Attachment_styles_model.svg](https://commons.wikimedia.org/wiki/File:Attachment_styles_model.svg))* 
+**Clinical Source:** [Current Directions in Psychological Science & Journal of Personality and Social Psychology](https://pubmed.ncbi.nlm.nih.gov/18652807/) 
 
 ---
 
-## 🇻🇳 NỘI DUNG TIẾNG VIỆT
+## 🇻🇳 Phiên Bản Tiếng Việt (Vietnamese Edition)
+
+# Khoa Học Về Lòng Tin: Tính Nhất Quán Nhỏ Hàng Ngày Tạo Nên Sự Vững Chãi Tâm Lý Dài Hạn
+
+> **Tóm tắt (Sapo):** Lòng tin trong tình yêu không được xây dựng bằng những lời thề thốt đao to búa lớn hay những chuyến du lịch xa xỉ, mà được hình thành qua hàng nghìn khoảnh khắc siêu nhỏ vô hình diễn ra mỗi ngày. Nghiên cứu kinh điển của Giáo sư John Gottman chứng minh: Lòng tin là một chỉ số sinh học có thể đo lường được, được củng cố mỗi khi một người bộc lộ sự yếu đuối và được người kia đáp lại bằng sự thấu cảm thay vì thờ ơ.
+
+> 💡 **Điểm Cốt Lõi & Hành Động Thực Tế (Key Takeaway):** Lòng tin được định nghĩa bằng phương trình toán học tâm lý: Khả năng hy sinh lợi ích ngắn hạn của bản thân để bảo vệ hạnh phúc của đối tác. Xây dựng lòng tin đòi hỏi sự nhất quán tuyệt đối giữa lời nói và hành động, phản hồi tích cực trước các 'lời mời kết nối' (Bids for Connection) và tạo ra một vùng đệm an toàn không phán xét.
 
 ## Bản Chất Của Lòng Tin: Thí Nghiệm "Cửa Trượt Định Mệnh" (Sliding Door Moments)
 
@@ -65,14 +68,20 @@ Theo nghiên cứu tiên phong của **Hazan & Shaver (JPSP)**, người trưở
 
 ## Tài Liệu Tham Khảo & Nguồn Y Khoa
 
-1. **Gottman, J. M. (2011).** *The Science of Trust: Emotional Attunement for Couples.* W. W. Norton & Company. [Đọc trên W.W. Norton ↗](https://wwnorton.com/books/The-Science-of-Trust/)
-2. **Simpson, J. A. (2007).** *Psychological foundations of trust.* Current Directions in Psychological Science, 16(5), 264–268. [Đọc trên SAGE ↗](https://doi.org/10.1111/j.1467-8721.2007.00517.x)
-3. **Hazan, C., & Shaver, P. (1987).** *Romantic love conceptualized as an attachment process.* Journal of Personality and Social Psychology, 52(3), 511–524. [Đọc trên PubMed ↗](https://pubmed.ncbi.nlm.nih.gov/3572722/)
-4. **Mikulincer, M., & Shaver, P. R. (2016).** *Attachment in Adulthood: Structure, Dynamics, and Change.* Guilford Publications. [Đọc trên Guilford ↗](https://www.guilford.com/books/Attachment-in-Adulthood/Mikulincer-Shaver/9781462525386)
+1. **Gottman, J. M. (2011).** *The Science of Trust: Emotional Attunement for Couples.* W. W. Norton & Company. [Tài Liệu Nghiên Cứu Gốc Xác Thực ↗](https://wwnorton.com/books/The-Science-of-Trust/)
+2. **Simpson, J. A. (2007).** *Psychological foundations of trust.* Current Directions in Psychological Science, 16(5), 264–268. [Tạp chí SAGE ↗](https://doi.org/10.1111/j.1467-8721.2007.00517.x)
+3. **Hazan, C., & Shaver, P. (1987).** *Romantic love conceptualized as an attachment process.* Journal of Personality and Social Psychology, 52(3), 511–524. [Báo Cáo Nghiên Cứu Gốc (NCBI PubMed: 3572722) ↗](https://pubmed.ncbi.nlm.nih.gov/3572722/)
+4. **Mikulincer, M., & Shaver, P. R. (2016).** *Attachment in Adulthood: Structure, Dynamics, and Change.* Guilford Publications. [Tạp chí Guilford ↗](https://www.guilford.com/books/Attachment-in-Adulthood/Mikulincer-Shaver/9781462525386)
 
 ---
 
-## 🇬🇧 ENGLISH CONTENT
+## 🇬🇧 English Edition
+
+# The Architecture of Trust: Micro-Attunements, Reliability & Emotional Vulnerability
+
+> **Abstract (Sapo):** Relational trust is rarely erected through grand cinematic gestures or lavish vacations; it is painstakingly constructed through thousands of microscopic, ordinary daily micro-moments. Seminal research by Dr. John Gottman reveals that trust is an empirically quantifiable neurobiological metric, forged each time one partner signals vulnerability and the other leans in with attunement rather than turning away.
+
+> 💡 **Key Takeaway & Clinical Action:** Trust is mathematically modeled in relational psychology as the willingness to subordinate immediate self-interest for the collective well-being of the partnership. Building unbreakable trust demands micro-consistency between words and deeds, turning toward everyday 'Bids for Connection', and cultivating unconditional psychological safety.
 
 ## The Architecture of Trust: "Sliding Door Moments"
 

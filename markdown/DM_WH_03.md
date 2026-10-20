@@ -1,22 +1,21 @@
-# 🇻🇳 Hội Chứng Tiền Kinh Nguyệt (PMS), Đau Bụng Kinh & Cơn Thèm Ăn Pha Hoàng Thể: Khoa Học Thần Kinh – Nội Tiết Và Phác Đồ Dinh Dưỡng
-# 🇬🇧 PMS, Cramps, and Luteal Cravings: The Neuro-Endocrine Science & Targeted Nutrition Protocol
-
-- **Article ID:** `DM_WH_03`
-- **Category:** Women's Health — PMS Relief Nutrition
-- **Content Type:** Discover more
-- **Mapped App Screen & Metric:** `Menstrual Cycle Screen` (`PMS Relief`)
-- **Reading Time:** 9 phút đọc / 9 min
-- **Local Hero Photo:** `images/DM_WH_03_hero.jpg` ([Original Photo Source ↗](https://images.unsplash.com/photo-1490645935967-10de6ba17061?auto=format&fit=crop&w=1200&q=85))
-- **Local Medical Figure:** `images/DM_WH_03_figure.jpg` ([Original Wikimedia Commons Source ↗](https://commons.wikimedia.org/wiki/File:Period_pain_menstrual_cramps_uterus.jpg))
-- **Primary Clinical & Wearable Source:** [ACOG Clinical Practice Guidelines & PubMed RCTs (Thys-Jacobs et al., AJOG 1998; Fathizadeh et al., 2010)](https://pubmed.ncbi.nlm.nih.gov/9731851/)
+# DM_WH_03 - Hội Chứng Tiền Kinh Nguyệt (PMS), Đau Bụng Kinh & Cơn Thèm Ăn Pha Hoàng Thể: Khoa Học Thần Kinh – Nội Tiết Và Phác Đồ Dinh Dưỡng
+**Category:** Women's Health 
+**Screen:** Menstrual Cycle Screen 
+**Metric:** PMS Relief 
+**Reading Time:** 9 phút đọc / 9 min 
+**Hero Image:** ![Hội Chứng Tiền Kinh Nguyệt (PMS), Đau Bụng Kinh & Cơn Thèm Ăn Pha Hoàng Thể: Khoa Học Thần Kinh – Nội Tiết Và Phác Đồ Dinh Dưỡng](images/DM_WH_03_hero.jpg) *(Source: [https://images.unsplash.com/photo-1490645935967-10de6ba17061?auto=format&fit=crop&w=1200&q=85](https://images.unsplash.com/photo-1490645935967-10de6ba17061?auto=format&fit=crop&w=1200&q=85))* 
+**Inline Figure:** ![Hình minh họa y khoa về thống kinh nguyên phát (đau bụng kinh), thể hiện sự phóng thích Prostaglandin (PGF2α) từ lớp nội mạc kích hoạt co thắt quá mức cơ trơn tử cung (Myometrium) và gây thiếu máu cục bộ tạm thời tại các động mạch xoắn.](images/DM_WH_03_figure.jpg) *(Source: [https://commons.wikimedia.org/wiki/File:Period_pain_menstrual_cramps_uterus.jpg](https://commons.wikimedia.org/wiki/File:Period_pain_menstrual_cramps_uterus.jpg))* 
+**Clinical Source:** [ACOG Clinical Practice Guidelines & PubMed RCTs (Thys-Jacobs et al., AJOG 1998; Fathizadeh et al., 2010)](https://pubmed.ncbi.nlm.nih.gov/9731851/) 
 
 ---
 
-## 🇻🇳 BẢN TIẾNG VIỆT
+## 🇻🇳 Phiên Bản Tiếng Việt (Vietnamese Edition)
 
-> **Tóm tắt:** Đau bụng kinh, biến động cảm xúc, tích nước và cơn thèm đồ ngọt dữ dội trước kỳ kinh hoàn toàn không phải do 'tâm lý'—chúng được thúc đẩy bởi chất gây viêm Prostaglandin (PGF2α) tại tử cung, mức tăng trao đổi chất 100–250 kcal/ngày và sự sụt giảm Serotonin cuối pha Hoàng thể. Đây là phác đồ vi chất lâm sàng giúp làm dịu triệt để.
+# Hội Chứng Tiền Kinh Nguyệt (PMS), Đau Bụng Kinh & Cơn Thèm Ăn Pha Hoàng Thể: Khoa Học Thần Kinh – Nội Tiết Và Phác Đồ Dinh Dưỡng
 
-> 💡 **Điểm Cốt Lõi & Hành Động Thực Tế:** Hội chứng PMS và đau bụng kinh bắt nguồn từ ba cơ chế sinh hóa hoàn toàn có thể can thiệp: co thắt cơ trơn tử cung do Prostaglandin (PGF2α), sự sụt giảm chất dẫn truyền thần kinh Serotonin và GABA cuối pha Hoàng thể, cùng mức tăng chuyển hóa cơ bản (+100–250 kcal/ngày). Bổ sung Canxi (1.000–1.200 mg), Magie Glycinate (300–400 mg), Vitamin B6 (50–80 mg) và Omega-3 EPA/DHA trong pha Hoàng thể giúp giảm rõ rệt cơn đau và ổn định tâm trạng.
+> **Tóm tắt (Sapo):** Đau bụng kinh, biến động cảm xúc, tích nước và cơn thèm đồ ngọt dữ dội trước kỳ kinh hoàn toàn không phải do 'tâm lý'—chúng được thúc đẩy bởi chất gây viêm Prostaglandin (PGF2α) tại tử cung, mức tăng trao đổi chất 100–250 kcal/ngày và sự sụt giảm Serotonin cuối pha Hoàng thể. Đây là phác đồ vi chất lâm sàng giúp làm dịu triệt để.
+
+> 💡 **Điểm Cốt Lõi & Hành Động Thực Tế (Key Takeaway):** Hội chứng PMS và đau bụng kinh bắt nguồn từ ba cơ chế sinh hóa hoàn toàn có thể can thiệp: co thắt cơ trơn tử cung do Prostaglandin (PGF2α), sự sụt giảm chất dẫn truyền thần kinh Serotonin và GABA cuối pha Hoàng thể, cùng mức tăng chuyển hóa cơ bản (+100–250 kcal/ngày). Bổ sung Canxi (1.000–1.200 mg), Magie Glycinate (300–400 mg), Vitamin B6 (50–80 mg) và Omega-3 EPA/DHA trong pha Hoàng thể giúp giảm rõ rệt cơn đau và ổn định tâm trạng.
 
 ## Vì Sao PMS Là Một Sự Kiện Thần Kinh – Nội Tiết Có Thật—Chứ Không Phải "Do Tâm Lý"?
 
@@ -82,18 +81,20 @@ Thay vì đợi đến Ngày 1 đau quặn mới uống thuốc giảm đau, cá
 
 ## Tài Liệu Tham Khảo & Nguồn Y Khoa
 
-1. **Thys-Jacobs, S., Starkey, P., Bernstein, D., & Tian, J. (1998).** *Calcium carbonate and the premenstrual syndrome: effects on premenstrual and menstrual symptoms.* American Journal of Obstetrics and Gynecology (AJOG), 179(2), 444–452. [https://pubmed.ncbi.nlm.nih.gov/9731851/](https://pubmed.ncbi.nlm.nih.gov/9731851/)
-2. **Fathizadeh, N., Ebrahimi, E., Valiani, M., Tavakoli, N., & Yar, M. H. (2010).** *Evaluating the effect of supplementation with magnesium and vitamin B6 on premenstrual syndrome.* Iranian Journal of Nursing and Midwifery Research (NIH PMC), 15(Suppl 1), 401–405. [https://pubmed.ncbi.nlm.nih.gov/22069417/](https://pubmed.ncbi.nlm.nih.gov/22069417/)
-3. **Daily, J. W., Zhang, X., Kim, D. S., & Park, S. (2015).** *Efficacy of Ginger for Alleviating the Symptoms of Primary Dysmenorrhea: A Systematic Review and Meta-analysis of Randomized Clinical Trials.* Pain Medicine, 16(12), 2243–2255. [https://pubmed.ncbi.nlm.nih.gov/26177393/](https://pubmed.ncbi.nlm.nih.gov/26177393/)
-4. **American College of Obstetricians and Gynecologists (ACOG).** *Clinical Management of Premenstrual Syndrome (PMS) and Dysmenorrhea.* [https://www.acog.org/womens-health/faqs/premenstrual-syndrome](https://www.acog.org/womens-health/faqs/premenstrual-syndrome)
+1. **Thys-Jacobs, S., Starkey, P., Bernstein, D., & Tian, J. (1998).** *Calcium carbonate and the premenstrual syndrome: effects on premenstrual and menstrual symptoms.* American Journal of Obstetrics and Gynecology (AJOG), 179(2), 444–452. [Báo Cáo Nghiên Cứu Gốc (NCBI PubMed: 9731851) ↗](https://pubmed.ncbi.nlm.nih.gov/9731851/)
+2. **Fathizadeh, N., Ebrahimi, E., Valiani, M., Tavakoli, N., & Yar, M. H. (2010).** *Evaluating the effect of supplementation with magnesium and vitamin B6 on premenstrual syndrome.* Iranian Journal of Nursing and Midwifery Research (NIH PMC), 15(Suppl 1), 401–405. [Báo Cáo Nghiên Cứu Gốc (NCBI PubMed: 22069417) ↗](https://pubmed.ncbi.nlm.nih.gov/22069417/)
+3. **Daily, J. W., Zhang, X., Kim, D. S., & Park, S. (2015).** *Efficacy of Ginger for Alleviating the Symptoms of Primary Dysmenorrhea: A Systematic Review and Meta-analysis of Randomized Clinical Trials.* Pain Medicine, 16(12), 2243–2255. [Báo Cáo Nghiên Cứu Gốc (NCBI PubMed: 26177393) ↗](https://pubmed.ncbi.nlm.nih.gov/26177393/)
+4. **American College of Obstetricians and Gynecologists (ACOG).** *Clinical Management of Premenstrual Syndrome (PMS) and Dysmenorrhea.* [Tài Liệu Gốc Xác Thực ↗](https://www.acog.org/womens-health/faqs/premenstrual-syndrome)
 
 ---
 
-## 🇬🇧 ENGLISH VERSION
+## 🇬🇧 English Edition
 
-> **Executive Summary:** Premenstrual cramps, mood swings, water retention, and intense chocolate cravings are not 'all in your head'—they are driven by uterine prostaglandins (PGF2α), a 100–250 kcal metabolic jump, and late-luteal serotonin withdrawal. Here is the clinical micronutrient protocol to calm them.
+# PMS, Cramps, and Luteal Cravings: The Neuro-Endocrine Science & Targeted Nutrition Protocol
 
-> 💡 **Key Actionable Takeaway:** PMS and menstrual cramps stem from three treatable mechanisms: uterine prostaglandin (PGF2α) smooth-muscle spasms, late-luteal serotonin and GABA withdrawal, and an increased basal metabolic rate (+100–250 kcal/day). Daily supplementation with Calcium (1,000–1,200 mg), Magnesium Glycinate (300–400 mg), Vitamin B6 (50–80 mg), and Omega-3 EPA/DHA during the luteal phase significantly reduces pain and mood volatility.
+> **Abstract (Sapo):** Premenstrual cramps, mood swings, water retention, and intense chocolate cravings are not 'all in your head'—they are driven by uterine prostaglandins (PGF2α), a 100–250 kcal metabolic jump, and late-luteal serotonin withdrawal. Here is the clinical micronutrient protocol to calm them.
+
+> 💡 **Key Takeaway & Clinical Action:** PMS and menstrual cramps stem from three treatable mechanisms: uterine prostaglandin (PGF2α) smooth-muscle spasms, late-luteal serotonin and GABA withdrawal, and an increased basal metabolic rate (+100–250 kcal/day). Daily supplementation with Calcium (1,000–1,200 mg), Magnesium Glycinate (300–400 mg), Vitamin B6 (50–80 mg), and Omega-3 EPA/DHA during the luteal phase significantly reduces pain and mood volatility.
 
 ## Why PMS Is a Real Neuro-Endocrine Event—Not "Just in Your Head"
 
@@ -159,7 +160,7 @@ Your smartwatch or smart ring can act as an early-warning radar for luteal strai
 
 ## References & Clinical Sources
 
-1. **Thys-Jacobs, S., Starkey, P., Bernstein, D., & Tian, J. (1998).** *Calcium carbonate and the premenstrual syndrome: effects on premenstrual and menstrual symptoms.* American Journal of Obstetrics and Gynecology (AJOG), 179(2), 444–452. [https://pubmed.ncbi.nlm.nih.gov/9731851/](https://pubmed.ncbi.nlm.nih.gov/9731851/)
-2. **Fathizadeh, N., Ebrahimi, E., Valiani, M., Tavakoli, N., & Yar, M. H. (2010).** *Evaluating the effect of supplementation with magnesium and vitamin B6 on premenstrual syndrome.* Iranian Journal of Nursing and Midwifery Research (NIH PMC), 15(Suppl 1), 401–405. [https://pubmed.ncbi.nlm.nih.gov/22069417/](https://pubmed.ncbi.nlm.nih.gov/22069417/)
-3. **Daily, J. W., Zhang, X., Kim, D. S., & Park, S. (2015).** *Efficacy of Ginger for Alleviating the Symptoms of Primary Dysmenorrhea: A Systematic Review and Meta-analysis of Randomized Clinical Trials.* Pain Medicine, 16(12), 2243–2255. [https://pubmed.ncbi.nlm.nih.gov/26177393/](https://pubmed.ncbi.nlm.nih.gov/26177393/)
-4. **American College of Obstetricians and Gynecologists (ACOG).** *Clinical Management of Premenstrual Syndrome (PMS) and Dysmenorrhea.* [https://www.acog.org/womens-health/faqs/premenstrual-syndrome](https://www.acog.org/womens-health/faqs/premenstrual-syndrome)
+1. **Thys-Jacobs, S., Starkey, P., Bernstein, D., & Tian, J. (1998).** *Calcium carbonate and the premenstrual syndrome: effects on premenstrual and menstrual symptoms.* American Journal of Obstetrics and Gynecology (AJOG), 179(2), 444–452. [Original Study Report (NCBI PubMed: 9731851) ↗](https://pubmed.ncbi.nlm.nih.gov/9731851/)
+2. **Fathizadeh, N., Ebrahimi, E., Valiani, M., Tavakoli, N., & Yar, M. H. (2010).** *Evaluating the effect of supplementation with magnesium and vitamin B6 on premenstrual syndrome.* Iranian Journal of Nursing and Midwifery Research (NIH PMC), 15(Suppl 1), 401–405. [Original Study Report (NCBI PubMed: 22069417) ↗](https://pubmed.ncbi.nlm.nih.gov/22069417/)
+3. **Daily, J. W., Zhang, X., Kim, D. S., & Park, S. (2015).** *Efficacy of Ginger for Alleviating the Symptoms of Primary Dysmenorrhea: A Systematic Review and Meta-analysis of Randomized Clinical Trials.* Pain Medicine, 16(12), 2243–2255. [Original Study Report (NCBI PubMed: 26177393) ↗](https://pubmed.ncbi.nlm.nih.gov/26177393/)
+4. **American College of Obstetricians and Gynecologists (ACOG).** *Clinical Management of Premenstrual Syndrome (PMS) and Dysmenorrhea.* [Verified Original Document ↗](https://www.acog.org/womens-health/faqs/premenstrual-syndrome)

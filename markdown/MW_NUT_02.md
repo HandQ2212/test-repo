@@ -1,18 +1,21 @@
-# Chế Độ Ăn Địa Trung Hải: Tấm Lá Chắn Nội Mô Cho Chức Năng Cương & Tim Mạch Nam Giới
-**The Mediterranean Diet: Endothelial Shield for Erectile Function & Longevity**
-
-> **Sapo (VI):** Chức năng cương dương về bản chất là một hiện tượng thủy lực phụ thuộc hoàn toàn vào sức khỏe mạch máu. Nghiên cứu kinh điển của Giáo sư Katherine Esposito đăng trên tạp chí JAMA đã chứng minh: Chế độ ăn Địa Trung Hải giàu polyphenol, arginine và axit béo omega-3 có khả năng phục hồi chức năng cương ở hơn một phần ba nam giới mắc hội chứng chuyển hóa mà không cần can thiệp dược lý.
-> 
-> **Lead (EN):** Erectile function is fundamentally a hydraulic event dictated by endothelial vascular health. A landmark randomized trial by Prof. Katherine Esposito published in JAMA demonstrated that a Mediterranean dietary pattern rich in polyphenols, L-arginine, and omega-3 fatty acids reversed erectile dysfunction in over one-third of men with metabolic syndrome without pharmaceutical intervention.
-
-> [!TIP]
-> 💡 **Điểm Cốt Lõi (Key Takeaway):** Động mạch hang dương vật là cửa sổ báo hiệu sớm nhất của toàn bộ hệ tuần hoàn. Chế độ ăn Địa Trung Hải bảo vệ lớp nội mô mạch máu bằng cách kích thích enzyme eNOS sản sinh Nitric Oxide, cải thiện độ đàn hồi vi mạch và giảm phản ứng viêm toàn thân.
-> 
-> 💡 **Takeaway (EN):** The cavernosal arteries serve as the earliest canary in the coal mine for cardiovascular health. The Mediterranean diet preserves endothelial integrity by upregulating eNOS to produce Nitric Oxide, improving microvascular compliance and suppressing systemic inflammation.
+# MW_NUT_02 - Chế Độ Ăn Địa Trung Hải: Tấm Lá Chắn Nội Mô Cho Chức Năng Cương & Tim Mạch Nam Giới
+**Category:** Men's Health 
+**Screen:** Nutrition & Cardiovascular Health Screen 
+**Metric:** Vascular Endothelial Function, Nitric Oxide Synthesis & RHR 
+**Reading Time:** 8 phút đọc / 8 min 
+**Hero Image:** ![Chế Độ Ăn Địa Trung Hải: Tấm Lá Chắn Nội Mô Cho Chức Năng Cương & Tim Mạch Nam Giới](images/DM_AC_01_hero.jpg) *(Source: [https://images.unsplash.com/photo-1512621776951-a57141f2eefd?auto=format&fit=crop&w=1200&q=85](https://images.unsplash.com/photo-1512621776951-a57141f2eefd?auto=format&fit=crop&w=1200&q=85))* 
+**Inline Figure:** ![Lưu thông mạch máu và chức năng cương: Động mạch hang dương vật có đường kính chỉ 1–2 mm, nhạy cảm gấp 3 lần động mạch vành trước các tổn thương xơ vữa và suy giảm Nitric Oxide.](images/DM_MH_02_figure.png) *(Source: [https://commons.wikimedia.org/wiki/File:Cardiovascular_System_Circulation.svg](https://commons.wikimedia.org/wiki/File:Cardiovascular_System_Circulation.svg))* 
+**Clinical Source:** [Journal of the American Medical Association (JAMA) & European Urology](https://pubmed.ncbi.nlm.nih.gov/15213207/) 
 
 ---
 
-## 🇻🇳 NỘI DUNG TIẾNG VIỆT
+## 🇻🇳 Phiên Bản Tiếng Việt (Vietnamese Edition)
+
+# Chế Độ Ăn Địa Trung Hải: Tấm Lá Chắn Nội Mô Cho Chức Năng Cương & Tim Mạch Nam Giới
+
+> **Tóm tắt (Sapo):** Chức năng cương dương về bản chất là một hiện tượng thủy lực phụ thuộc hoàn toàn vào sức khỏe mạch máu. Nghiên cứu kinh điển của Giáo sư Katherine Esposito đăng trên tạp chí JAMA đã chứng minh: Chế độ ăn Địa Trung Hải giàu polyphenol, arginine và axit béo omega-3 có khả năng phục hồi chức năng cương ở hơn một phần ba nam giới mắc hội chứng chuyển hóa mà không cần can thiệp dược lý.
+
+> 💡 **Điểm Cốt Lõi & Hành Động Thực Tế (Key Takeaway):** Động mạch hang dương vật là cửa sổ báo hiệu sớm nhất của toàn bộ hệ tuần hoàn. Chế độ ăn Địa Trung Hải bảo vệ lớp nội mô mạch máu bằng cách kích thích enzyme eNOS sản sinh Nitric Oxide, cải thiện độ đàn hồi vi mạch và giảm phản ứng viêm toàn thân.
 
 ## Hiện Tượng Thủy Lực: Vì Sao "Cương Dương Là Một Sự Kiện Tim Mạch"?
 
@@ -59,14 +62,20 @@ Trong một thử nghiệm lâm sàng ngẫu nhiên kéo dài 2 năm trên 110 n
 
 ## Tài Liệu Tham Khảo & Nguồn Y Khoa
 
-1. **Esposito, K., Giugliano, F., Di Palo, C., et al. (2004).** *Effect of lifestyle changes on erectile dysfunction in obese men: a randomized controlled trial.* JAMA, 291(24), 2978–2984. [Đọc trên JAMA / NIH ↗](https://pubmed.ncbi.nlm.nih.gov/15213207/)
-2. **Montorsi, P., Ravagnani, P. M., Galli, S., et al. (2006).** *Association between erectile dysfunction and coronary artery disease: role of carotid artery intimamedia thickness.* European Urology, 49(5), 884–891. [Đọc trên Eur Urol ↗](https://pubmed.ncbi.nlm.nih.gov/16530932/)
-3. **Di Luigi, L., et al. (2020).** *The Mediterranean Diet and Men's Health: An Evidence-Based Update.* Nutrients, 12(8), 2373. [Đọc trên PubMed ↗](https://pubmed.ncbi.nlm.nih.gov/32784847/)
-4. **Lue, T. F. (2000).** *Erectile dysfunction.* New England Journal of Medicine, 342(24), 1802–1813. [Đọc trên NEJM ↗](https://pubmed.ncbi.nlm.nih.gov/10853004/)
+1. **Esposito, K., Giugliano, F., Di Palo, C., et al. (2004).** *Effect of lifestyle changes on erectile dysfunction in obese men: a randomized controlled trial.* JAMA, 291(24), 2978–2984. [Tạp chí JAMA (PMID: 15213207) ↗](https://pubmed.ncbi.nlm.nih.gov/15213207/)
+2. **Montorsi, P., Ravagnani, P. M., Galli, S., et al. (2006).** *Association between erectile dysfunction and coronary artery disease: role of carotid artery intimamedia thickness.* European Urology, 49(5), 884–891. [Tạp chí Eur Urol (PMID: 16530932) ↗](https://pubmed.ncbi.nlm.nih.gov/16530932/)
+3. **Di Luigi, L., et al. (2020).** *The Mediterranean Diet and Men's Health: An Evidence-Based Update.* Nutrients, 12(8), 2373. [Tạp chí Nutrients (PMID: 32784847) ↗](https://pubmed.ncbi.nlm.nih.gov/32784847/)
+4. **Lue, T. F. (2000).** *Erectile dysfunction.* New England Journal of Medicine, 342(24), 1802–1813. [Tạp chí NEJM (PMID: 10853004) ↗](https://pubmed.ncbi.nlm.nih.gov/10853004/)
 
 ---
 
-## 🇬🇧 ENGLISH CONTENT
+## 🇬🇧 English Edition
+
+# The Mediterranean Diet: Endothelial Shield for Erectile Function & Longevity
+
+> **Abstract (Sapo):** Erectile function is fundamentally a hydraulic event dictated by endothelial vascular health. A landmark randomized trial by Prof. Katherine Esposito published in JAMA demonstrated that a Mediterranean dietary pattern rich in polyphenols, L-arginine, and omega-3 fatty acids reversed erectile dysfunction in over one-third of men with metabolic syndrome without pharmaceutical intervention.
+
+> 💡 **Key Takeaway & Clinical Action:** The cavernosal arteries serve as the earliest canary in the coal mine for cardiovascular health. The Mediterranean diet preserves endothelial integrity by upregulating eNOS to produce Nitric Oxide, improving microvascular compliance and suppressing systemic inflammation.
 
 ## The Hydraulic Imperative: Why Erection is Fundamentally a Cardiovascular Event
 

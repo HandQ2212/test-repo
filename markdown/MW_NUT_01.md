@@ -1,18 +1,21 @@
-# Chế Độ Ăn & Testosterone: Khoa Học Về Chất Béo, Calo & Sự Thần Thoại Hóa Thực Phẩm
-**Diet and Testosterone: The Science of Lipids, Energy Balance & Food Myths**
-
-> **Sapo (VI):** Liệu một chế độ ăn kiêng ít mỡ có thể làm sụt giảm nội tiết tố nam? Hàng loạt quảng cáo trực tuyến phóng đại các loại 'thực phẩm siêu tăng test' mà bỏ qua nguyên lý sinh hóa cơ bản: Cholesterol là tiền chất bắt buộc của steroid, trong khi sự thâm hụt calo khắc nghiệt kích hoạt tín hiệu sinh tồn làm suy giảm tế bào Leydig. Khám phá các bằng chứng lâm sàng về tỷ lệ dinh dưỡng đa lượng tối ưu cho nội tiết phái mạnh.
-> 
-> **Lead (EN):** Can an ultra-low-fat diet secretly crush male androgens? Countless online fads overpromise 'testosterone-boosting superfoods' while ignoring foundational biochemistry: Cholesterol is the obligate precursor for steroidogenesis, and severe caloric deprivation triggers an evolutionary survival brake that shuts down Leydig cell signaling. Discover the clinical evidence on macronutrient ratios for male endocrine optimization.
-
-> [!TIP]
-> 💡 **Điểm Cốt Lõi (Key Takeaway):** Testosterone được tổng hợp từ cholesterol và lipid. Duy trì lượng chất béo lành mạnh ở mức 25%–35% tổng năng lượng, tránh thâm hụt calo quá 20% và đảm bảo đủ kẽm, magie cùng năng lượng sẵn có là nền tảng cốt lõi để giữ trục HPTA hoạt động bền bỉ.
-> 
-> 💡 **Takeaway (EN):** Testosterone is synthesized directly from cholesterol and lipids. Maintaining healthy dietary fats at 25%–35% of total caloric intake, avoiding chronic deficits beyond 20%, and ensuring baseline zinc, magnesium, and adequate energy availability are the cornerstones of HPTA axis health.
+# MW_NUT_01 - Chế Độ Ăn & Testosterone: Khoa Học Về Chất Béo, Calo & Sự Thần Thoại Hóa Thực Phẩm
+**Category:** Men's Health 
+**Screen:** Nutrition & Metabolic Health Screen 
+**Metric:** Daily Caloric Balance, Macronutrient Split & Androgen Profile 
+**Reading Time:** 8 phút đọc / 8 min 
+**Hero Image:** ![Chế Độ Ăn & Testosterone: Khoa Học Về Chất Béo, Calo & Sự Thần Thoại Hóa Thực Phẩm](images/DM_HW_02_hero.jpg) *(Source: [https://images.unsplash.com/photo-1544367567-0f2fcb009e0b?auto=format&fit=crop&w=1200&q=85](https://images.unsplash.com/photo-1544367567-0f2fcb009e0b?auto=format&fit=crop&w=1200&q=85))* 
+**Inline Figure:** ![Sơ đồ chuyển hóa sinh tổng hợp steroid (Steroidogenesis): Cholesterol được vận chuyển vào ty thể tế bào Leydig dưới tác động của enzyme StAR để tổng hợp nên Testosterone.](images/LM_MH_01_figure.jpg) *(Source: [https://commons.wikimedia.org/wiki/File:Steroidogenesis.svg](https://commons.wikimedia.org/wiki/File:Steroidogenesis.svg))* 
+**Clinical Source:** [Journal of Clinical Endocrinology & Metabolism (Endocrine Society) & Sports Medicine](https://pubmed.ncbi.nlm.nih.gov/29562364/) 
 
 ---
 
-## 🇻🇳 NỘI DUNG TIẾNG VIỆT
+## 🇻🇳 Phiên Bản Tiếng Việt (Vietnamese Edition)
+
+# Chế Độ Ăn & Testosterone: Khoa Học Về Chất Béo, Calo & Sự Thần Thoại Hóa Thực Phẩm
+
+> **Tóm tắt (Sapo):** Liệu một chế độ ăn kiêng ít mỡ có thể làm sụt giảm nội tiết tố nam? Hàng loạt quảng cáo trực tuyến phóng đại các loại 'thực phẩm siêu tăng test' mà bỏ qua nguyên lý sinh hóa cơ bản: Cholesterol là tiền chất bắt buộc của steroid, trong khi sự thâm hụt calo khắc nghiệt kích hoạt tín hiệu sinh tồn làm suy giảm tế bào Leydig. Khám phá các bằng chứng lâm sàng về tỷ lệ dinh dưỡng đa lượng tối ưu cho nội tiết phái mạnh.
+
+> 💡 **Điểm Cốt Lõi & Hành Động Thực Tế (Key Takeaway):** Testosterone được tổng hợp từ cholesterol và lipid. Duy trì lượng chất béo lành mạnh ở mức 25%–35% tổng năng lượng, tránh thâm hụt calo quá 20% và đảm bảo đủ kẽm, magie cùng năng lượng sẵn có là nền tảng cốt lõi để giữ trục HPTA hoạt động bền bỉ.
 
 ## Bản Chất Sinh Hóa: Cholesterol Là Mẹ Của Mọi Hormone Sinh Dục
 
@@ -64,14 +67,20 @@ Thị trường thực phẩm bổ sung tràn ngập các sản phẩm gắn má
 
 ## Tài Liệu Tham Khảo & Nguồn Y Khoa
 
-1. **Vingren, J. L., Kraemer, W. J., Ratamess, N. A., et al. (2010).** *Testosterone physiology in resistance exercise and training: the up-stream regulatory elements.* Sports Medicine, 40(12), 1037–1053. [Đọc trên PubMed / NIH ↗](https://pubmed.ncbi.nlm.nih.gov/21058750/)
-2. **Bhasin, S., Brito, J. P., Cunningham, G. R., et al. (2018).** *Testosterone Therapy in Men With Hypogonadism: An Endocrine Society Clinical Practice Guideline.* The Journal of Clinical Endocrinology & Metabolism, 103(5), 1715–1744. [Đọc trên JCEM / NIH ↗](https://pubmed.ncbi.nlm.nih.gov/29562364/)
-3. **Morton, R. W., Murphy, K. T., McKellar, S. R., et al. (2018).** *A systematic review, meta-analysis and meta-regression of the effect of protein supplementation on resistance training-induced gains.* British Journal of Sports Medicine, 52(6), 376–384. [Đọc trên BJSM / PubMed ↗](https://pubmed.ncbi.nlm.nih.gov/28698222/)
-4. **Whittaker, J., & Wu, K. (2021).** *Low-carbohydrate diets and men's cortisol and testosterone: Systematic review and meta-analysis.* Nutrition and Health, 28(4), 543–554. [Đọc trên SAGE / PubMed ↗](https://pubmed.ncbi.nlm.nih.gov/35254136/)
+1. **Vingren, J. L., Kraemer, W. J., Ratamess, N. A., et al. (2010).** *Testosterone physiology in resistance exercise and training: the up-stream regulatory elements.* Sports Medicine, 40(12), 1037–1053. [Tạp chí Sports Medicine (PMID: 21058750) ↗](https://pubmed.ncbi.nlm.nih.gov/21058750/)
+2. **Bhasin, S., Brito, J. P., Cunningham, G. R., et al. (2018).** *Testosterone Therapy in Men With Hypogonadism: An Endocrine Society Clinical Practice Guideline.* The Journal of Clinical Endocrinology & Metabolism, 103(5), 1715–1744. [Tạp chí JCEM (PMID: 29562364) ↗](https://pubmed.ncbi.nlm.nih.gov/29562364/)
+3. **Morton, R. W., Murphy, K. T., McKellar, S. R., et al. (2018).** *A systematic review, meta-analysis and meta-regression of the effect of protein supplementation on resistance training-induced gains.* British Journal of Sports Medicine, 52(6), 376–384. [Tạp chí BJSM (PMID: 28698222) ↗](https://pubmed.ncbi.nlm.nih.gov/28698222/)
+4. **Whittaker, J., & Wu, K. (2021).** *Low-carbohydrate diets and men's cortisol and testosterone: Systematic review and meta-analysis.* Nutrition and Health, 28(4), 543–554. [Tạp chí SAGE (PMID: 35254136) ↗](https://pubmed.ncbi.nlm.nih.gov/35254136/)
 
 ---
 
-## 🇬🇧 ENGLISH CONTENT
+## 🇬🇧 English Edition
+
+# Diet and Testosterone: The Science of Lipids, Energy Balance & Food Myths
+
+> **Abstract (Sapo):** Can an ultra-low-fat diet secretly crush male androgens? Countless online fads overpromise 'testosterone-boosting superfoods' while ignoring foundational biochemistry: Cholesterol is the obligate precursor for steroidogenesis, and severe caloric deprivation triggers an evolutionary survival brake that shuts down Leydig cell signaling. Discover the clinical evidence on macronutrient ratios for male endocrine optimization.
+
+> 💡 **Key Takeaway & Clinical Action:** Testosterone is synthesized directly from cholesterol and lipids. Maintaining healthy dietary fats at 25%–35% of total caloric intake, avoiding chronic deficits beyond 20%, and ensuring baseline zinc, magnesium, and adequate energy availability are the cornerstones of HPTA axis health.
 
 ## Biochemical Foundations: Cholesterol as the Parent Molecule of Steroids
 

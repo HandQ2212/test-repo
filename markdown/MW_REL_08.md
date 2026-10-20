@@ -1,18 +1,21 @@
-# Giấc Ngủ & Hạnh Phúc Lứa Đôi: Thiếu Ngủ Làm Giảm Sự Thấu Cảm & Tăng Xung Đột Thế Nào?
-**Sleep and Relationship Health: How Sleep Debt Blunts Empathy & Escalates Spousal Conflict**
-
-> **Sapo (VI):** Bạn có bao giờ nhận thấy những trận cãi vã nảy lửa nhất giữa hai vợ chồng thường xảy ra sau một đêm mất ngủ hoặc trằn trọc? Nghiên cứu thực nghiệm đột phá của Đại học UC Berkeley đăng trên tạp chí Social Psychological and Personality Science đã chứng minh: Chỉ cần một trong hai người bị thiếu ngủ, tỷ lệ xảy ra xung đột gay gắt vào ngày hôm sau sẽ tăng gấp đôi, đồng thời khả năng đọc vị cảm xúc và sự thấu cảm của đối phương sụt giảm nghiêm trọng.
-> 
-> **Lead (EN):** Have you noticed that the most vicious, irrational marital arguments invariably follow nights of restless, fragmented sleep? Groundbreaking empirical trials conducted at UC Berkeley and published in Social Psychological and Personality Science revealed that when either partner suffers poor sleep, the likelihood of severe conflict the following day doubles, while facial emotion recognition and empathic accuracy collapse.
-
-> [!TIP]
-> 💡 **Điểm Cốt Lõi (Key Takeaway):** Mất ngủ làm tổn thương trực tiếp mạch thần kinh thùy trán - hạch hạnh nhân, khiến con người mất khả năng giải mã chính xác biểu cảm gương mặt của bạn đời (dễ nhìn nhận một khuôn mặt trung tính thành đe dọa hoặc thù địch). Ngủ chung giường nhưng tối ưu hóa nhiệt độ, nệm độc lập hoặc áp dụng 'ly hôn giấc ngủ' (Sleep Divorce) khi một người ngáy ngủ là giải pháp y khoa bảo vệ hạnh phúc hôn nhân.
-> 
-> 💡 **Takeaway (EN):** Sleep debt disconnects the fronto-amygdalar circuit, severely blunting empathic decoding and causing partners to misinterpret neutral facial cues as hostile threats. Optimizing shared bed acoustics, separate duvets, or tactical 'sleep divorce' when chronic snoring exists acts as direct preventative medicine for marital longevity.
+# MW_REL_08 - Giấc Ngủ & Hạnh Phúc Lứa Đôi: Thiếu Ngủ Làm Giảm Sự Thấu Cảm & Tăng Xung Đột Thế Nào?
+**Category:** Men's Health 
+**Screen:** Sleep Analytics & Interpersonal Dynamics Screen 
+**Metric:** Sleep Debt Spillover, Empathy Circuitry & Conflict Escalation 
+**Reading Time:** 8 phút đọc / 8 min 
+**Hero Image:** ![Giấc Ngủ & Hạnh Phúc Lứa Đôi: Thiếu Ngủ Làm Giảm Sự Thấu Cảm & Tăng Xung Đột Thế Nào?](images/DM_SL_02_hero.jpg) *(Source: [https://images.unsplash.com/photo-1541781774459-bb2af2f05b55?auto=format&fit=crop&w=1200&q=85](https://images.unsplash.com/photo-1541781774459-bb2af2f05b55?auto=format&fit=crop&w=1200&q=85))* 
+**Inline Figure:** ![Cấu trúc giấc ngủ và sự điều hòa cảm xúc thùy trán: Mất ngủ làm suy yếu kết nối ức chế giữa vỏ não trước trán (mPFC) và hạch hạnh nhân, làm gia tăng xung đột cặp đôi lên gấp đôi.](images/LM_SL_01_figure.jpg) *(Source: [https://commons.wikimedia.org/wiki/File:Sleep_Hypnogram.svg](https://commons.wikimedia.org/wiki/File:Sleep_Hypnogram.svg))* 
+**Clinical Source:** [Social Psychological and Personality Science & Sleep Medicine Reviews](https://pubmed.ncbi.nlm.nih.gov/24838689/) 
 
 ---
 
-## 🇻🇳 NỘI DUNG TIẾNG VIỆT
+## 🇻🇳 Phiên Bản Tiếng Việt (Vietnamese Edition)
+
+# Giấc Ngủ & Hạnh Phúc Lứa Đôi: Thiếu Ngủ Làm Giảm Sự Thấu Cảm & Tăng Xung Đột Thế Nào?
+
+> **Tóm tắt (Sapo):** Bạn có bao giờ nhận thấy những trận cãi vã nảy lửa nhất giữa hai vợ chồng thường xảy ra sau một đêm mất ngủ hoặc trằn trọc? Nghiên cứu thực nghiệm đột phá của Đại học UC Berkeley đăng trên tạp chí Social Psychological and Personality Science đã chứng minh: Chỉ cần một trong hai người bị thiếu ngủ, tỷ lệ xảy ra xung đột gay gắt vào ngày hôm sau sẽ tăng gấp đôi, đồng thời khả năng đọc vị cảm xúc và sự thấu cảm của đối phương sụt giảm nghiêm trọng.
+
+> 💡 **Điểm Cốt Lõi & Hành Động Thực Tế (Key Takeaway):** Mất ngủ làm tổn thương trực tiếp mạch thần kinh thùy trán - hạch hạnh nhân, khiến con người mất khả năng giải mã chính xác biểu cảm gương mặt của bạn đời (dễ nhìn nhận một khuôn mặt trung tính thành đe dọa hoặc thù địch). Ngủ chung giường nhưng tối ưu hóa nhiệt độ, nệm độc lập hoặc áp dụng 'ly hôn giấc ngủ' (Sleep Divorce) khi một người ngáy ngủ là giải pháp y khoa bảo vệ hạnh phúc hôn nhân.
 
 ## Nghiên Cứu UC Berkeley: Chiếc Giường Ngủ Quyết Định Sự Bình Yên Gia Đình
 
@@ -58,14 +61,20 @@ Một khảo sát của **Hiệp hội Y học Giấc ngủ Hoa Kỳ (AASM, 2023
 
 ## Tài Liệu Tham Khảo & Nguồn Y Khoa
 
-1. **Gordon, A. M., & Chen, S. (2014).** *The role of sleep in interpersonal conflict: Do sleepless nights mean worse fights?* Social Psychological and Personality Science, 5(2), 168–175. [Đọc trên SAGE ↗](https://doi.org/10.1177/1948550613488952)
-2. **Troxel, W. M., Robles, T. F., et al. (2007).** *Marital quality and the metabolic syndrome in women.* Archives of Internal Medicine. [Đọc trên JAMA Network ↗](https://pubmed.ncbi.nlm.nih.gov/17998495/)
-3. **Yoo, S. S., Gujar, N., Hu, P., Jolesz, F. A., & Walker, M. P. (2007).** *The human emotional brain without sleep—a prefrontal amygdala disconnect.* Current Biology, 17(20), R877–R878. [Đọc trên PubMed ↗](https://pubmed.ncbi.nlm.nih.gov/17956744/)
-4. **American Academy of Sleep Medicine. (2023).** *Sleep Divorce: Millions of Americans choosing to sleep apart.* AASM Clinical News. [Đọc trên AASM ↗](https://aasm.org/)
+1. **Gordon, A. M., & Chen, S. (2014).** *The role of sleep in interpersonal conflict: Do sleepless nights mean worse fights?* Social Psychological and Personality Science, 5(2), 168–175. [Tạp chí SAGE ↗](https://doi.org/10.1177/1948550613488952)
+2. **Troxel, W. M., Robles, T. F., et al. (2007).** *Marital quality and the metabolic syndrome in women.* Archives of Internal Medicine. [Tạp chí JAMA Network (PMID: 17998495) ↗](https://pubmed.ncbi.nlm.nih.gov/17998495/)
+3. **Yoo, S. S., Gujar, N., Hu, P., Jolesz, F. A., & Walker, M. P. (2007).** *The human emotional brain without sleep—a prefrontal amygdala disconnect.* Current Biology, 17(20), R877–R878. [Tạp chí Sleep (PMID: 17956744) ↗](https://pubmed.ncbi.nlm.nih.gov/17956744/)
+4. **American Academy of Sleep Medicine. (2023).** *Sleep Divorce: Millions of Americans choosing to sleep apart.* AASM Clinical News. [Tạp chí AASM ↗](https://aasm.org/)
 
 ---
 
-## 🇬🇧 ENGLISH CONTENT
+## 🇬🇧 English Edition
+
+# Sleep and Relationship Health: How Sleep Debt Blunts Empathy & Escalates Spousal Conflict
+
+> **Abstract (Sapo):** Have you noticed that the most vicious, irrational marital arguments invariably follow nights of restless, fragmented sleep? Groundbreaking empirical trials conducted at UC Berkeley and published in Social Psychological and Personality Science revealed that when either partner suffers poor sleep, the likelihood of severe conflict the following day doubles, while facial emotion recognition and empathic accuracy collapse.
+
+> 💡 **Key Takeaway & Clinical Action:** Sleep debt disconnects the fronto-amygdalar circuit, severely blunting empathic decoding and causing partners to misinterpret neutral facial cues as hostile threats. Optimizing shared bed acoustics, separate duvets, or tactical 'sleep divorce' when chronic snoring exists acts as direct preventative medicine for marital longevity.
 
 ## The UC Berkeley Trial: The Bedroom Dictates Marital Peace
 

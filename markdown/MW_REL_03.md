@@ -1,18 +1,21 @@
-# Sự Thân Mật Cảm Xúc: Nền Móng Oxytocin Vượt Ra Ngoài Sự Cuốn Hút Thể Xác Thuần Túy
-**Emotional Intimacy: The Neurochemistry of Oxytocin & Long-Term Attachment Bonding**
-
-> **Sapo (VI):** Trong khi chất dẫn truyền thần kinh Dopamine chịu trách nhiệm cho cảm giác mê đắm bốc đồng thuở ban đầu, thì chính hormone Oxytocin và Vasopressin mới là kiến trúc sư thầm lặng xây dựng nên sự gắn kết vững bền qua năm tháng. Khám phá khoa học thần kinh về sự thân mật cảm xúc—vũ khí tối thượng giúp bảo vệ mối quan hệ khỏi sự nhàm chán sinh học và nguy cơ rạn nứt.
-> 
-> **Lead (EN):** While dopamine sparks the intoxicating rush of early romantic infatuation, the neurohormones oxytocin and arginine-vasopressin act as the architects of enduring pair-bond stability. Explore the neuroscience of emotional intimacy—the ultimate biological buffer protecting long-term partnerships from habituation, hedonic adaptation, and relational decay.
-
-> [!TIP]
-> 💡 **Điểm Cốt Lõi (Key Takeaway):** Sức hấp dẫn thể xác sẽ tự nhiên suy giảm sau 18–24 tháng do hiện tượng dung nạp dopamine. Sự thân mật cảm xúc được xây dựng qua những khoảnh khắc bộc lộ sự yếu đuối, lắng nghe không phán xét và những cái ôm 20 giây giúp kích hoạt oxytocin, biến tình yêu từ một cơn sốt thành một bến đỗ bình yên trọn đời.
-> 
-> 💡 **Takeaway (EN):** Physical infatuation naturally habituates after 18–24 months as dopamine receptor density adapts. Deep emotional intimacy—cultivated via reciprocal vulnerability, non-judgmental attunement, and sustained 20-second embraces—triggers continuous oxytocin release, transforming acute passion into profound lifelong companionship.
+# MW_REL_03 - Sự Thân Mật Cảm Xúc: Nền Móng Oxytocin Vượt Ra Ngoài Sự Cuốn Hút Thể Xác Thuần Túy
+**Category:** Men's Health 
+**Screen:** Emotional Health & Hormonal Bonding Screen 
+**Metric:** Oxytocin Signaling, Ventral Striatum Activation & Vagal Attunement 
+**Reading Time:** 8 phút đọc / 8 min 
+**Hero Image:** ![Sự Thân Mật Cảm Xúc: Nền Móng Oxytocin Vượt Ra Ngoài Sự Cuốn Hút Thể Xác Thuần Túy](images/DM_SL_01_photo.jpg) *(Source: [https://images.unsplash.com/photo-1516589178581-6cd7833ae3b2?auto=format&fit=crop&w=1200&q=85](https://images.unsplash.com/photo-1516589178581-6cd7833ae3b2?auto=format&fit=crop&w=1200&q=85))* 
+**Inline Figure:** ![Cấu trúc peptide Oxytocin: Hormone gắn kết được tổng hợp tại nhân cận thất vùng dưới đồi, đóng vai trò ức chế nỗi sợ hạch hạnh nhân và củng cố sự gắn bó lâu dài.](images/DM_HW_01_figure.jpg) *(Source: [https://commons.wikimedia.org/wiki/File:Oxytocin_structure.svg](https://commons.wikimedia.org/wiki/File:Oxytocin_structure.svg))* 
+**Clinical Source:** [Psychoneuroendocrinology & Nature Reviews Neuroscience](https://pubmed.ncbi.nlm.nih.gov/18652807/) 
 
 ---
 
-## 🇻🇳 NỘI DUNG TIẾNG VIỆT
+## 🇻🇳 Phiên Bản Tiếng Việt (Vietnamese Edition)
+
+# Sự Thân Mật Cảm Xúc: Nền Móng Oxytocin Vượt Ra Ngoài Sự Cuốn Hút Thể Xác Thuần Túy
+
+> **Tóm tắt (Sapo):** Trong khi chất dẫn truyền thần kinh Dopamine chịu trách nhiệm cho cảm giác mê đắm bốc đồng thuở ban đầu, thì chính hormone Oxytocin và Vasopressin mới là kiến trúc sư thầm lặng xây dựng nên sự gắn kết vững bền qua năm tháng. Khám phá khoa học thần kinh về sự thân mật cảm xúc—vũ khí tối thượng giúp bảo vệ mối quan hệ khỏi sự nhàm chán sinh học và nguy cơ rạn nứt.
+
+> 💡 **Điểm Cốt Lõi & Hành Động Thực Tế (Key Takeaway):** Sức hấp dẫn thể xác sẽ tự nhiên suy giảm sau 18–24 tháng do hiện tượng dung nạp dopamine. Sự thân mật cảm xúc được xây dựng qua những khoảnh khắc bộc lộ sự yếu đuối, lắng nghe không phán xét và những cái ôm 20 giây giúp kích hoạt oxytocin, biến tình yêu từ một cơn sốt thành một bến đỗ bình yên trọn đời.
 
 ## Từ Dopamine Đến Oxytocin: Sự Tiến Hóa Sinh Học Của Tình Yêu
 
@@ -63,14 +66,20 @@ Nghiên cứu của **Đại học North Carolina (Grewen et al., Psychoneuroend
 
 ## Tài Liệu Tham Khảo & Nguồn Y Khoa
 
-1. **Grewen, K. M., Girdler, S. S., Amico, J., & Light, K. C. (2005).** *Effects of partner support on resting oxytocin, cortisol, and blood pressure in men and women.* Psychoneuroendocrinology, 30(6), 587–601. [Đọc trên PubMed ↗](https://pubmed.ncbi.nlm.nih.gov/15721832/)
-2. **Fisher, H. E., Aron, A., & Brown, L. L. (2006).** *Romantic love: a mammalian brain system for mate choice.* Philosophical Transactions of the Royal Society B, 361(1476), 2173–2186. [Đọc trên PMC ↗](https://pmc.ncbi.nlm.nih.gov/articles/PMC1764845/)
-3. **Carter, C. S. (2014).** *Oxytocin pathways and the evolution of human sociality.* Annual Review of Psychology, 65, 17–39. [Đọc trên PubMed ↗](https://pubmed.ncbi.nlm.nih.gov/24050183/)
-4. **Johnson, S. M. (2019).** *Attachment in action—changing the face of couple therapy.* Current Opinion in Psychology, 25, 101–104. [Đọc trên ScienceDirect ↗](https://doi.org/10.1016/j.copsyc.2018.04.016)
+1. **Grewen, K. M., Girdler, S. S., Amico, J., & Light, K. C. (2005).** *Effects of partner support on resting oxytocin, cortisol, and blood pressure in men and women.* Psychoneuroendocrinology, 30(6), 587–601. [Tạp chí Blood (PMID: 15721832) ↗](https://pubmed.ncbi.nlm.nih.gov/15721832/)
+2. **Fisher, H. E., Aron, A., & Brown, L. L. (2006).** *Romantic love: a mammalian brain system for mate choice.* Philosophical Transactions of the Royal Society B, 361(1476), 2173–2186. [Tài Liệu Nghiên Cứu Gốc Xác Thực ↗](https://pmc.ncbi.nlm.nih.gov/articles/PMC1764845/)
+3. **Carter, C. S. (2014).** *Oxytocin pathways and the evolution of human sociality.* Annual Review of Psychology, 65, 17–39. [Báo Cáo Nghiên Cứu Gốc (NCBI PubMed: 24050183) ↗](https://pubmed.ncbi.nlm.nih.gov/24050183/)
+4. **Johnson, S. M. (2019).** *Attachment in action—changing the face of couple therapy.* Current Opinion in Psychology, 25, 101–104. [Tạp chí ScienceDirect ↗](https://doi.org/10.1016/j.copsyc.2018.04.016)
 
 ---
 
-## 🇬🇧 ENGLISH CONTENT
+## 🇬🇧 English Edition
+
+# Emotional Intimacy: The Neurochemistry of Oxytocin & Long-Term Attachment Bonding
+
+> **Abstract (Sapo):** While dopamine sparks the intoxicating rush of early romantic infatuation, the neurohormones oxytocin and arginine-vasopressin act as the architects of enduring pair-bond stability. Explore the neuroscience of emotional intimacy—the ultimate biological buffer protecting long-term partnerships from habituation, hedonic adaptation, and relational decay.
+
+> 💡 **Key Takeaway & Clinical Action:** Physical infatuation naturally habituates after 18–24 months as dopamine receptor density adapts. Deep emotional intimacy—cultivated via reciprocal vulnerability, non-judgmental attunement, and sustained 20-second embraces—triggers continuous oxytocin release, transforming acute passion into profound lifelong companionship.
 
 ## From Dopamine to Oxytocin: The Neurobiology of Pair Bonding
 

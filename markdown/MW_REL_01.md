@@ -1,18 +1,21 @@
-# Nghệ Thuật Giao Tiếp Cặp Đôi: Giải Mã Tỷ Lệ Vàng 5:1 & Cơ Chế An Toàn Sinh Học Thần Kinh
-**Couple Communication Science: The 5:1 Gottman Ratio & Neurobiological Safety**
-
-> **Sapo (VI):** Sau hơn 40 năm theo dõi các cặp đôi tại 'Love Lab' của Đại học Washington, Giáo sư John Gottman có thể dự đoán chính xác tới 94% khả năng ly hôn chỉ bằng cách quan sát 15 phút trò chuyện. Chìa khóa không nằm ở việc 'không bao giờ cãi nhau', mà nằm ở tỷ lệ cân bằng giữa các tương tác tích cực và tiêu cực cùng khả năng điều hòa hệ thần kinh tự chủ giữa hai người.
-> 
-> **Lead (EN):** After four decades of longitudinal observation at the University of Washington 'Love Lab', Dr. John Gottman could predict divorce with 94% accuracy after analyzing a single 15-minute conflict conversation. The defining factor is not the absence of conflict, but the physiological balance of positive-to-negative interactions and co-regulation of autonomic nervous states.
-
-> [!TIP]
-> 💡 **Điểm Cốt Lõi (Key Takeaway):** Trong một mối quan hệ bền vững, cần tối thiểu 5 tương tác tích cực (lắng nghe, khen ngợi, chạm nhẹ, đùa vui) để hóa giải 1 tương tác tiêu cực (chỉ trích, phòng thủ). Khi nhịp tim của một trong hai người vượt quá 100 bpm trong lúc tranh cãi, não bộ rơi vào trạng thái tê liệt cảm xúc—hãy tạm dừng 20 phút trước khi tiếp tục.
-> 
-> 💡 **Takeaway (EN):** In stable relationships, a minimum of 5 positive interactions (attunement, humor, physical touch) are required to buffer 1 negative encounter. If either partner's heart rate surpasses 100 bpm during arguments, emotional 'flooding' shuts down rational empathy—call an mandatory 20-minute physiological time-out.
+# MW_REL_01 - Nghệ Thuật Giao Tiếp Cặp Đôi: Giải Mã Tỷ Lệ Vàng 5:1 & Cơ Chế An Toàn Sinh Học Thần Kinh
+**Category:** Men's Health 
+**Screen:** Relationship & Stress Screen 
+**Metric:** Autonomic Safety, Polyvagal Tone & Gottman 5:1 Ratio 
+**Reading Time:** 8 phút đọc / 8 min 
+**Hero Image:** ![Nghệ Thuật Giao Tiếp Cặp Đôi: Giải Mã Tỷ Lệ Vàng 5:1 & Cơ Chế An Toàn Sinh Học Thần Kinh](images/DM_HW_01_hero.jpg) *(Source: [https://images.unsplash.com/photo-1516589178581-6cd7833ae3b2?auto=format&fit=crop&w=1200&q=85](https://images.unsplash.com/photo-1516589178581-6cd7833ae3b2?auto=format&fit=crop&w=1200&q=85))* 
+**Inline Figure:** ![Thần kinh tự chủ và sự gắn kết xã hội: Nhánh phó giao cảm mặt bụng (Ventral Vagal) điều khiển biểu cảm gương mặt, giọng nói và tạo ra cảm giác an toàn sinh học.](images/LM_HW_01_figure.png) *(Source: [https://commons.wikimedia.org/wiki/File:Autonomic_Nervous_System.svg](https://commons.wikimedia.org/wiki/File:Autonomic_Nervous_System.svg))* 
+**Clinical Source:** [Journal of Marriage and Family (Gottman Institute) & Frontiers in Psychology](https://pmc.ncbi.nlm.nih.gov/articles/PMC9153093/) 
 
 ---
 
-## 🇻🇳 NỘI DUNG TIẾNG VIỆT
+## 🇻🇳 Phiên Bản Tiếng Việt (Vietnamese Edition)
+
+# Nghệ Thuật Giao Tiếp Cặp Đôi: Giải Mã Tỷ Lệ Vàng 5:1 & Cơ Chế An Toàn Sinh Học Thần Kinh
+
+> **Tóm tắt (Sapo):** Sau hơn 40 năm theo dõi các cặp đôi tại 'Love Lab' của Đại học Washington, Giáo sư John Gottman có thể dự đoán chính xác tới 94% khả năng ly hôn chỉ bằng cách quan sát 15 phút trò chuyện. Chìa khóa không nằm ở việc 'không bao giờ cãi nhau', mà nằm ở tỷ lệ cân bằng giữa các tương tác tích cực và tiêu cực cùng khả năng điều hòa hệ thần kinh tự chủ giữa hai người.
+
+> 💡 **Điểm Cốt Lõi & Hành Động Thực Tế (Key Takeaway):** Trong một mối quan hệ bền vững, cần tối thiểu 5 tương tác tích cực (lắng nghe, khen ngợi, chạm nhẹ, đùa vui) để hóa giải 1 tương tác tiêu cực (chỉ trích, phòng thủ). Khi nhịp tim của một trong hai người vượt quá 100 bpm trong lúc tranh cãi, não bộ rơi vào trạng thái tê liệt cảm xúc—hãy tạm dừng 20 phút trước khi tiếp tục.
 
 ## "Phòng Thí Nghiệm Tình Yêu" (Love Lab) & Tỷ Lệ Vàng 5:1
 
@@ -60,14 +63,20 @@ Một cuộc trò chuyện chỉ có thể đạt được kết quả khi cả 
 
 ## Tài Liệu Tham Khảo & Nguồn Y Khoa
 
-1. **Gottman, J. M., & Levenson, R. W. (2000).** *The timing of the divorce: Predicting when a couple will divorce over a 14-year period.* Journal of Marriage and Family, 62(3), 737–745. [Đọc trên Wiley ↗](https://doi.org/10.1111/j.1741-3737.2000.00737.x)
-2. **Porges, S. W. (2009).** *The polyvagal theory: New insights into adaptive reactions of the autonomic nervous system.* Cleveland Clinic Journal of Medicine, 76(Suppl 2), S86. [Đọc trên PMC / NIH ↗](https://pmc.ncbi.nlm.nih.gov/articles/PMC3108032/)
-3. **Levenson, R. W., & Gottman, J. M. (1983).** *Marital interaction: physiological linkage and affective exchange.* Journal of Personality and Social Psychology, 45(3), 587. [Đọc trên APA PsycNet ↗](https://pubmed.ncbi.nlm.nih.gov/6620126/)
-4. **Williamson, H. C., et al. (2022).** *Communication and relationship satisfaction across diverse couples.* Journal of Family Psychology. [Đọc trên PMC ↗](https://pmc.ncbi.nlm.nih.gov/articles/PMC9153093/)
+1. **Gottman, J. M., & Levenson, R. W. (2000).** *The timing of the divorce: Predicting when a couple will divorce over a 14-year period.* Journal of Marriage and Family, 62(3), 737–745. [Tạp chí Wiley ↗](https://doi.org/10.1111/j.1741-3737.2000.00737.x)
+2. **Porges, S. W. (2009).** *The polyvagal theory: New insights into adaptive reactions of the autonomic nervous system.* Cleveland Clinic Journal of Medicine, 76(Suppl 2), S86. [Tài Liệu Nghiên Cứu Gốc Xác Thực ↗](https://pmc.ncbi.nlm.nih.gov/articles/PMC3108032/)
+3. **Levenson, R. W., & Gottman, J. M. (1983).** *Marital interaction: physiological linkage and affective exchange.* Journal of Personality and Social Psychology, 45(3), 587. [Tạp chí APA PsycNet (PMID: 6620126) ↗](https://pubmed.ncbi.nlm.nih.gov/6620126/)
+4. **Williamson, H. C., et al. (2022).** *Communication and relationship satisfaction across diverse couples.* Journal of Family Psychology. [Tài Liệu Nghiên Cứu Gốc Xác Thực ↗](https://pmc.ncbi.nlm.nih.gov/articles/PMC9153093/)
 
 ---
 
-## 🇬🇧 ENGLISH CONTENT
+## 🇬🇧 English Edition
+
+# Couple Communication Science: The 5:1 Gottman Ratio & Neurobiological Safety
+
+> **Abstract (Sapo):** After four decades of longitudinal observation at the University of Washington 'Love Lab', Dr. John Gottman could predict divorce with 94% accuracy after analyzing a single 15-minute conflict conversation. The defining factor is not the absence of conflict, but the physiological balance of positive-to-negative interactions and co-regulation of autonomic nervous states.
+
+> 💡 **Key Takeaway & Clinical Action:** In stable relationships, a minimum of 5 positive interactions (attunement, humor, physical touch) are required to buffer 1 negative encounter. If either partner's heart rate surpasses 100 bpm during arguments, emotional 'flooding' shuts down rational empathy—call an mandatory 20-minute physiological time-out.
 
 ## The "Love Lab" and the Empirical 5:1 Golden Ratio
 

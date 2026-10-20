@@ -1,22 +1,21 @@
-# 🇻🇳 Giải Mã Chỉ Số Day Strain (0–21): Cách Thiết Bị Đeo Đo Lường Tổng Tải Trọng Tim Mạch & Cơ Bắp
-# 🇬🇧 Demystifying Day Strain (0–21): How Wearables Quantify Total Cardiovascular & Muscular Load
-
-- **Article ID:** `LM_AC_02`
-- **Category:** Activity — Day Strain Mechanics
-- **Content Type:** Learn more
-- **Mapped App Screen & Metric:** `Activity Screen` (`Day Strain (0–21)`)
-- **Reading Time:** 8 phút đọc / 8 min
-- **Local Hero Photo:** `images/LM_AC_02_hero.jpg` ([Original Photo Source ↗](https://images.unsplash.com/photo-1517836357463-d25dfeac3438?auto=format&fit=crop&w=1200&q=85))
-- **Local Medical Figure:** `images/LM_AC_02_figure.png` ([Original Wikimedia Commons Source ↗](https://commons.wikimedia.org/wiki/File:CO_Incresing.png))
-- **Primary Clinical & Wearable Source:** [WHOOP Sports Science & Borg (Medicine & Science in Sports & Exercise, 1982)](https://pubmed.ncbi.nlm.nih.gov/7154893/)
+# LM_AC_02 - Giải Mã Chỉ Số Day Strain (0–21): Cách Thiết Bị Đeo Đo Lường Tổng Tải Trọng Tim Mạch & Cơ Bắp
+**Category:** Activity 
+**Screen:** Activity Screen 
+**Metric:** Day Strain (0–21) 
+**Reading Time:** 8 phút đọc / 8 min 
+**Hero Image:** ![Giải Mã Chỉ Số Day Strain (0–21): Cách Thiết Bị Đeo Đo Lường Tổng Tải Trọng Tim Mạch & Cơ Bắp](images/LM_AC_02_hero.jpg) *(Source: [https://images.unsplash.com/photo-1517836357463-d25dfeac3438?auto=format&fit=crop&w=1200&q=85](https://images.unsplash.com/photo-1517836357463-d25dfeac3438?auto=format&fit=crop&w=1200&q=85))* 
+**Inline Figure:** ![Các yếu tố sinh lý làm tăng Cung lượng tim (Thể tích nhát bóp × Tần số tim) thông qua kích thích hệ thần kinh giao cảm, giải phóng catecholamine và tăng hồi lưu tĩnh mạch khi tải trọng vận động leo thang.](images/LM_AC_02_figure.png) *(Source: [https://commons.wikimedia.org/wiki/File:CO_Incresing.png](https://commons.wikimedia.org/wiki/File:CO_Incresing.png))* 
+**Clinical Source:** [WHOOP Sports Science & Borg (Medicine & Science in Sports & Exercise, 1982)](https://pubmed.ncbi.nlm.nih.gov/7154893/) 
 
 ---
 
-## 🇻🇳 BẢN TIẾNG VIỆT
+## 🇻🇳 Phiên Bản Tiếng Việt (Vietnamese Edition)
 
-> **Tóm tắt:** Tại sao việc nâng điểm Day Strain từ 14 lên 18 lại đòi hỏi nỗ lực khắc nghiệt gấp nhiều lần so với việc tăng từ 6 lên 10? Khám phá cách WHOOP và các thuật toán tải trọng tập luyện hiện đại ứng dụng thang đo Borg phi tuyến tính (0–21), kết hợp xung nhịp tim TRIMP với tải trọng cơ bắp từ cảm biến gia tốc để tối ưu hóa phục hồi hàng ngày.
+# Giải Mã Chỉ Số Day Strain (0–21): Cách Thiết Bị Đeo Đo Lường Tổng Tải Trọng Tim Mạch & Cơ Bắp
 
-> 💡 **Điểm Cốt Lõi & Hành Động Thực Tế:** Chỉ số Day Strain vận hành trên thang đo logarit từ 0 đến 21 lấy cảm hứng từ thang cảm nhận gắng sức Borg. Vì mỗi điểm tăng thêm từ mốc 14.0 trở lên đòi hỏi cung lượng tim và công cơ bắp lớn hơn theo cấp số nhân, việc điều chỉnh mục tiêu Strain hàng ngày khớp với điểm Phục hồi (Recovery) buổi sáng là chìa khóa để phát triển thể lực bền vững.
+> **Tóm tắt (Sapo):** Tại sao việc nâng điểm Day Strain từ 14 lên 18 lại đòi hỏi nỗ lực khắc nghiệt gấp nhiều lần so với việc tăng từ 6 lên 10? Khám phá cách WHOOP và các thuật toán tải trọng tập luyện hiện đại ứng dụng thang đo Borg phi tuyến tính (0–21), kết hợp xung nhịp tim TRIMP với tải trọng cơ bắp từ cảm biến gia tốc để tối ưu hóa phục hồi hàng ngày.
+
+> 💡 **Điểm Cốt Lõi & Hành Động Thực Tế (Key Takeaway):** Chỉ số Day Strain vận hành trên thang đo logarit từ 0 đến 21 lấy cảm hứng từ thang cảm nhận gắng sức Borg. Vì mỗi điểm tăng thêm từ mốc 14.0 trở lên đòi hỏi cung lượng tim và công cơ bắp lớn hơn theo cấp số nhân, việc điều chỉnh mục tiêu Strain hàng ngày khớp với điểm Phục hồi (Recovery) buổi sáng là chìa khóa để phát triển thể lực bền vững.
 
 ## Chỉ Số Day Strain (0–21) Là Gì?
 
@@ -83,18 +82,20 @@ Biểu đồ Day Strain của bạn còn đóng vai trò như một radar cảnh
 
 ## Tài Liệu Tham Khảo & Nguồn Y Khoa
 
-1. **Borg, G. A. (1982).** *Psychophysical bases of perceived exertion.* Medicine & Science in Sports & Exercise, 14(5), 377–381. [https://pubmed.ncbi.nlm.nih.gov/7154893/](https://pubmed.ncbi.nlm.nih.gov/7154893/)
-2. **Banister, E. W. (1991).** *Modeling elite athletic performance (TRIMP Training Impulse).* In Physiological Testing of Elite Athletes, Human Kinetics, 403–424. [https://pubmed.ncbi.nlm.nih.gov/8887211/](https://pubmed.ncbi.nlm.nih.gov/8887211/)
-3. **WHOOP The Locker.** *How Does the WHOOP Strain Score Work? Understanding the 0–21 Scale.* [https://www.whoop.com/us/en/thelocker/how-does-whoop-strain-work-101/](https://www.whoop.com/us/en/thelocker/how-does-whoop-strain-work-101/)
-4. **Garmin Health Science.** *Training Load & Acute Load: Measuring the Combined Physiological Impact of Activity.* [https://www.garmin.com/en-US/garmin-technology/running-science/physiological-measurements/training-load/](https://www.garmin.com/en-US/garmin-technology/running-science/physiological-measurements/training-load/)
+1. **Borg, G. A. (1982).** *Psychophysical bases of perceived exertion.* Medicine & Science in Sports & Exercise, 14(5), 377–381. [Báo Cáo Nghiên Cứu Gốc (NCBI PubMed: 7154893) ↗](https://pubmed.ncbi.nlm.nih.gov/7154893/)
+2. **Banister, E. W. (1991).** *Modeling elite athletic performance (TRIMP Training Impulse).* In Physiological Testing of Elite Athletes, Human Kinetics, 403–424. [Báo Cáo Nghiên Cứu Gốc (NCBI PubMed: 8887211) ↗](https://pubmed.ncbi.nlm.nih.gov/8887211/)
+3. **WHOOP The Locker.** *How Does the WHOOP Strain Score Work? Understanding the 0–21 Scale.* [Tạp Chí Khoa Học WHOOP The Locker ↗](https://www.whoop.com/us/en/thelocker/how-does-whoop-strain-work-101/)
+4. **Garmin Health Science.** *Training Load & Acute Load: Measuring the Combined Physiological Impact of Activity.* [Cổng Khoa Học Garmin Health Science ↗](https://www.garmin.com/en-US/garmin-technology/running-science/physiological-measurements/training-load/)
 
 ---
 
-## 🇬🇧 ENGLISH VERSION
+## 🇬🇧 English Edition
 
-> **Executive Summary:** Why does jumping from a Day Strain of 14 to 18 feel exponentially harder than moving from 6 to 10? Discover how WHOOP and modern training load algorithms use a non-linear Borg exertion scale (0–21), integrate TRIMP heart rate impulse with accelerometer muscular load, and guide daily recovery matching.
+# Demystifying Day Strain (0–21): How Wearables Quantify Total Cardiovascular & Muscular Load
 
-> 💡 **Key Actionable Takeaway:** Day Strain operates on a logarithmic 0 to 21 scale inspired by Borg's Rating of Perceived Exertion. Because every point above 14.0 requires exponentially greater cardiac output and muscular work, matching your daily Strain target to your morning Recovery score is the key to sustainable fitness gains.
+> **Abstract (Sapo):** Why does jumping from a Day Strain of 14 to 18 feel exponentially harder than moving from 6 to 10? Discover how WHOOP and modern training load algorithms use a non-linear Borg exertion scale (0–21), integrate TRIMP heart rate impulse with accelerometer muscular load, and guide daily recovery matching.
+
+> 💡 **Key Takeaway & Clinical Action:** Day Strain operates on a logarithmic 0 to 21 scale inspired by Borg's Rating of Perceived Exertion. Because every point above 14.0 requires exponentially greater cardiac output and muscular work, matching your daily Strain target to your morning Recovery score is the key to sustainable fitness gains.
 
 ## What Is Day Strain (0–21)?
 
@@ -161,7 +162,7 @@ Your Day Strain graph is also an early-warning radar for **non-exercise stressor
 
 ## References & Clinical Sources
 
-1. **Borg, G. A. (1982).** *Psychophysical bases of perceived exertion.* Medicine & Science in Sports & Exercise, 14(5), 377–381. [https://pubmed.ncbi.nlm.nih.gov/7154893/](https://pubmed.ncbi.nlm.nih.gov/7154893/)
-2. **Banister, E. W. (1991).** *Modeling elite athletic performance (TRIMP Training Impulse).* In Physiological Testing of Elite Athletes, Human Kinetics, 403–424. [https://pubmed.ncbi.nlm.nih.gov/8887211/](https://pubmed.ncbi.nlm.nih.gov/8887211/)
-3. **WHOOP The Locker.** *How Does the WHOOP Strain Score Work? Understanding the 0–21 Scale.* [https://www.whoop.com/us/en/thelocker/how-does-whoop-strain-work-101/](https://www.whoop.com/us/en/thelocker/how-does-whoop-strain-work-101/)
-4. **Garmin Health Science.** *Training Load & Acute Load: Measuring the Combined Physiological Impact of Activity.* [https://www.garmin.com/en-US/garmin-technology/running-science/physiological-measurements/training-load/](https://www.garmin.com/en-US/garmin-technology/running-science/physiological-measurements/training-load/)
+1. **Borg, G. A. (1982).** *Psychophysical bases of perceived exertion.* Medicine & Science in Sports & Exercise, 14(5), 377–381. [Original Study Report (NCBI PubMed: 7154893) ↗](https://pubmed.ncbi.nlm.nih.gov/7154893/)
+2. **Banister, E. W. (1991).** *Modeling elite athletic performance (TRIMP Training Impulse).* In Physiological Testing of Elite Athletes, Human Kinetics, 403–424. [Original Study Report (NCBI PubMed: 8887211) ↗](https://pubmed.ncbi.nlm.nih.gov/8887211/)
+3. **WHOOP The Locker.** *How Does the WHOOP Strain Score Work? Understanding the 0–21 Scale.* [WHOOP The Locker Science Journal ↗](https://www.whoop.com/us/en/thelocker/how-does-whoop-strain-work-101/)
+4. **Garmin Health Science.** *Training Load & Acute Load: Measuring the Combined Physiological Impact of Activity.* [Garmin Health Science Portal ↗](https://www.garmin.com/en-US/garmin-technology/running-science/physiological-measurements/training-load/)

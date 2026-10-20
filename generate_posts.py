@@ -256,7 +256,7 @@ for i, art in enumerate(articles):
         <div class="meta-content">
           <div class="meta-author">Hội Đồng Biên Tập Y Khoa Pulse & Vitality</div>
           <div class="meta-details">
-            <span>Nguồn nghiên cứu & Thiết bị: <strong>{art['source_name']}</strong></span>
+            <span>Nguồn nghiên cứu & Thiết bị: <a href="{art['source_url']}" target="_blank" rel="noopener noreferrer" style="color: inherit; text-decoration: underline; font-weight: 700;">{art['source_name']} ↗</a></span>
             <span class="meta-dot">•</span>
             <span>Màn hình App: <strong>{art['screen']}</strong></span>
             <span class="meta-dot">•</span>
@@ -285,7 +285,7 @@ for i, art in enumerate(articles):
         <p>Bài viết này được tổng hợp và kiểm chứng từ các nghiên cứu y sinh học, hướng dẫn lâm sàng và tài liệu khoa học thiết bị đeo của <strong>{art['source_name']}</strong>.</p>
         <div class="citation-actions">
           <a href="{art['source_url']}" target="_blank" rel="noopener noreferrer" class="btn-canonical-study">
-            Xem Nghiên Cứu Gốc / Bài Báo Khoa Học ↗
+            Truy Cập Nguồn Gốc ({art['source_name'][:40]}...) ↗
           </a>
         </div>
       </div>
@@ -346,7 +346,7 @@ for i, art in enumerate(articles):
         <div class="meta-content">
           <div class="meta-author">Pulse & Vitality Clinical Editorial Board</div>
           <div class="meta-details">
-            <span>Clinical & Wearable Source: <strong>{art['source_name']}</strong></span>
+            <span>Clinical & Wearable Source: <a href="{art['source_url']}" target="_blank" rel="noopener noreferrer" style="color: inherit; text-decoration: underline; font-weight: 700;">{art['source_name']} ↗</a></span>
             <span class="meta-dot">•</span>
             <span>Mapped Screen: <strong>{art['screen']}</strong></span>
             <span class="meta-dot">•</span>
@@ -375,7 +375,7 @@ for i, art in enumerate(articles):
         <p>This article is synthesized from peer-reviewed medical literature, clinical guidelines, and wearable biometric validation studies from <strong>{art['source_name']}</strong>.</p>
         <div class="citation-actions">
           <a href="{art['source_url']}" target="_blank" rel="noopener noreferrer" class="btn-canonical-study">
-            Read Canonical Study / Original Source ↗
+            Access Original Source ({art['source_name'][:40]}...) ↗
           </a>
         </div>
       </div>

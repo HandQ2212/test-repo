@@ -1,18 +1,21 @@
-# Bản Đồ Sinh Sản Nam Giới: Nhiệt Độ Bìu, Ô Nhiễm Môi Trường, Vi Chất & Chu Kỳ Sinh Tinh
-**The Male Fertility Blueprint: Scrotal Thermoregulation, Toxins & The 74-Day Cycle**
-
-> **Sapo (VI):** Nhiều cặp đôi trải qua hàng năm trời chữa trị hiếm muộn mà quên mất một sự thật y khoa cơ bản: Gần 50% các trường hợp vô sinh hiếm muộn xuất phát từ yếu tố nam giới. Tinh hoàn của đàn ông được tạo hóa 'đưa ra ngoài ổ bụng' vì một lý do sinh học tối thượng: Tinh trùng không thể sống sót ở nhiệt độ 37°C của cơ thể. Tìm hiểu bản đồ các yếu tố vô hình đang âm thầm hủy hoại giống nòi từ nhiệt độ, sóng nhiệt laptop đến các hóa chất làm rối loạn nội tiết (EDCs).
-> 
-> **Lead (EN):** Couples frequently endure years of emotionally exhausting infertility investigations focusing exclusively on the female partner, overlooking a foundational clinical reality: nearly 50% of conception delays stem from male-factor etiology. Evolution suspended male testicles outside the abdominal cavity for an absolute thermal imperative: spermatogenesis is arrested at core body temperature (37°C). Discover the hidden environmental, thermal, and lifestyle hazards sabotaging male fertility.
-
-> [!TIP]
-> 💡 **Điểm Cốt Lõi (Key Takeaway):** Nhiệt độ bìu bắt buộc phải duy trì ở mức 33°C–34.5°C. Thói quen tắm nước nóng, ngâm bồn, ngồi lái xe nhiều giờ liên tục hoặc để laptop lên đùi làm nhiệt độ tinh hoàn tăng vọt, gây chết tế bào mầm hàng loạt. Bảo vệ khả năng sinh sản đòi hỏi giải nhiệt vùng kín, loại bỏ đồ nhựa chứa phthalates/BPA và thanh lọc lối sống trong tối thiểu 3 tháng.
-> 
-> 💡 **Takeaway (EN):** Scrotal temperature must be tightly maintained at 33°C–34.5°C. Hot tubs, saunas, prolonged seated commuting, and resting laptops directly on the lap induce thermal shock, arresting spermatogenesis and fragmenting DNA. Safeguarding male fecundity requires scrotal cooling, eliminating xenoestrogen-laden plastics (BPA/phthalates), and a disciplined 90-day antioxidant protocol.
+# MW_SXH_07 - Bản Đồ Sinh Sản Nam Giới: Nhiệt Độ Bìu, Ô Nhiễm Môi Trường, Vi Chất & Chu Kỳ Sinh Tinh
+**Category:** Men's Health 
+**Screen:** Fertility Blueprint & Environmental Health Screen 
+**Metric:** Scrotal Thermoregulation, Endocrine Disruptors (EDCs) & Oxidative Stress 
+**Reading Time:** 8 phút đọc / 8 min 
+**Hero Image:** ![Bản Đồ Sinh Sản Nam Giới: Nhiệt Độ Bìu, Ô Nhiễm Môi Trường, Vi Chất & Chu Kỳ Sinh Tinh](images/DM_HW_01_hero.jpg) *(Source: [https://images.unsplash.com/photo-1579684385127-1ef15d508118?auto=format&fit=crop&w=1200&q=85](https://images.unsplash.com/photo-1579684385127-1ef15d508118?auto=format&fit=crop&w=1200&q=85))* 
+**Inline Figure:** ![Giải phẫu học tinh hoàn và cơ bìu (Dartos & Cremaster): Cơ chế điều hòa nhiệt độ sinh học giữ tinh hoàn luôn mát hơn thân nhiệt cơ thể 2°C đến 4°C để bảo vệ tế bào mầm.](images/LM_MH_03_figure.jpg) *(Source: [https://commons.wikimedia.org/wiki/File:Testis_anatomy.svg](https://commons.wikimedia.org/wiki/File:Testis_anatomy.svg))* 
+**Clinical Source:** [Philosophical Transactions of the Royal Society B & Human Reproduction Update](https://pubmed.ncbi.nlm.nih.gov/20308044/) 
 
 ---
 
-## 🇻🇳 NỘI DUNG TIẾNG VIỆT
+## 🇻🇳 Phiên Bản Tiếng Việt (Vietnamese Edition)
+
+# Bản Đồ Sinh Sản Nam Giới: Nhiệt Độ Bìu, Ô Nhiễm Môi Trường, Vi Chất & Chu Kỳ Sinh Tinh
+
+> **Tóm tắt (Sapo):** Nhiều cặp đôi trải qua hàng năm trời chữa trị hiếm muộn mà quên mất một sự thật y khoa cơ bản: Gần 50% các trường hợp vô sinh hiếm muộn xuất phát từ yếu tố nam giới. Tinh hoàn của đàn ông được tạo hóa 'đưa ra ngoài ổ bụng' vì một lý do sinh học tối thượng: Tinh trùng không thể sống sót ở nhiệt độ 37°C của cơ thể. Tìm hiểu bản đồ các yếu tố vô hình đang âm thầm hủy hoại giống nòi từ nhiệt độ, sóng nhiệt laptop đến các hóa chất làm rối loạn nội tiết (EDCs).
+
+> 💡 **Điểm Cốt Lõi & Hành Động Thực Tế (Key Takeaway):** Nhiệt độ bìu bắt buộc phải duy trì ở mức 33°C–34.5°C. Thói quen tắm nước nóng, ngâm bồn, ngồi lái xe nhiều giờ liên tục hoặc để laptop lên đùi làm nhiệt độ tinh hoàn tăng vọt, gây chết tế bào mầm hàng loạt. Bảo vệ khả năng sinh sản đòi hỏi giải nhiệt vùng kín, loại bỏ đồ nhựa chứa phthalates/BPA và thanh lọc lối sống trong tối thiểu 3 tháng.
 
 ## Nghịch Lý Tiến Hóa: Tại Sao Tinh Hoàn Lại Nằm Ngoài Cơ Thể?
 
@@ -61,14 +64,20 @@ Không chỉ có nhiệt độ và hóa chất, nghiên cứu từ **Đại họ
 
 ## Tài Liệu Tham Khảo & Nguồn Y Khoa
 
-1. **Sharpe, R. M. (2010).** *Environmental/lifestyle effects on spermatogenesis.* Philosophical Transactions of the Royal Society B, 365(1546), 1697–1712. [Đọc trên PMC ↗](https://pmc.ncbi.nlm.nih.gov/articles/PMC2854770/)
-2. **Jung, A., & Schuppe, H. C. (2007).** *Influence of genital heat stress on semen quality in humans.* Human Reproduction Update, 13(6), 523–542. [Đọc trên PubMed ↗](https://pubmed.ncbi.nlm.nih.gov/17872911/)
-3. **Shefi, S., Tarapore, P. E., et al. (2007).** *Wet heat exposure: a potentially reversible cause of low semen quality in infertile men.* International Brazilian Journal of Urology. [Đọc trên PubMed ↗](https://pubmed.ncbi.nlm.nih.gov/17386094/)
-4. **Wise, L. A., et al. (2018).** *Sleep characteristics and fecundability: a prospective study of male and female pregnancy planners.* American Journal of Epidemiology, 187(4), 756–766. [Đọc trên PubMed ↗](https://pubmed.ncbi.nlm.nih.gov/29036480/)
+1. **Sharpe, R. M. (2010).** *Environmental/lifestyle effects on spermatogenesis.* Philosophical Transactions of the Royal Society B, 365(1546), 1697–1712. [Tài Liệu Nghiên Cứu Gốc Xác Thực ↗](https://pmc.ncbi.nlm.nih.gov/articles/PMC2854770/)
+2. **Jung, A., & Schuppe, H. C. (2007).** *Influence of genital heat stress on semen quality in humans.* Human Reproduction Update, 13(6), 523–542. [Tạp chí Human Reproduction (PMID: 17872911) ↗](https://pubmed.ncbi.nlm.nih.gov/17872911/)
+3. **Shefi, S., Tarapore, P. E., et al. (2007).** *Wet heat exposure: a potentially reversible cause of low semen quality in infertile men.* International Brazilian Journal of Urology. [Báo Cáo Nghiên Cứu Gốc (NCBI PubMed: 17386094) ↗](https://pubmed.ncbi.nlm.nih.gov/17386094/)
+4. **Wise, L. A., et al. (2018).** *Sleep characteristics and fecundability: a prospective study of male and female pregnancy planners.* American Journal of Epidemiology, 187(4), 756–766. [Tạp chí Sleep (PMID: 29036480) ↗](https://pubmed.ncbi.nlm.nih.gov/29036480/)
 
 ---
 
-## 🇬🇧 ENGLISH CONTENT
+## 🇬🇧 English Edition
+
+# The Male Fertility Blueprint: Scrotal Thermoregulation, Toxins & The 74-Day Cycle
+
+> **Abstract (Sapo):** Couples frequently endure years of emotionally exhausting infertility investigations focusing exclusively on the female partner, overlooking a foundational clinical reality: nearly 50% of conception delays stem from male-factor etiology. Evolution suspended male testicles outside the abdominal cavity for an absolute thermal imperative: spermatogenesis is arrested at core body temperature (37°C). Discover the hidden environmental, thermal, and lifestyle hazards sabotaging male fertility.
+
+> 💡 **Key Takeaway & Clinical Action:** Scrotal temperature must be tightly maintained at 33°C–34.5°C. Hot tubs, saunas, prolonged seated commuting, and resting laptops directly on the lap induce thermal shock, arresting spermatogenesis and fragmenting DNA. Safeguarding male fecundity requires scrotal cooling, eliminating xenoestrogen-laden plastics (BPA/phthalates), and a disciplined 90-day antioxidant protocol.
 
 ## The Evolutionary Paradox: Why Are Testes Located Externally?
 
