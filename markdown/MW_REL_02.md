@@ -3,8 +3,8 @@
 **Screen:** Communication & Sexual Wellness Screen 
 **Metric:** Vulnerability, Psychological Safety & Sexual Attunement 
 **Reading Time:** 8 phút đọc / 8 min 
-**Hero Image:** ![Cấu trúc thấu cảm cảm xúc và nhận thức: Không gian an toàn tâm lý giúp các cặp đôi cởi mở chia sẻ mong muốn và ranh giới mà không kích hoạt phản xạ phòng thủ thần kinh.](images/MW_REL_02_hero.jpg) *(Source: [https://images.unsplash.com/photo-1529156069898-49953e39b3ac?auto=format&fit=crop&w=1200&q=85](https://images.unsplash.com/photo-1529156069898-49953e39b3ac?auto=format&fit=crop&w=1200&q=85))* 
-**Inline Figure:** ![Cấu trúc thấu cảm cảm xúc và nhận thức: Không gian an toàn tâm lý giúp các cặp đôi cởi mở chia sẻ mong muốn và ranh giới mà không kích hoạt phản xạ phòng thủ thần kinh.](images/MW_REL_02_figure.png) *(Source: [https://commons.wikimedia.org/wiki/File:Empathy.png](https://commons.wikimedia.org/wiki/File:Empathy.png))* 
+**Hero Image:** ![Không gian an toàn và cởi mở giúp cặp đôi chia sẻ mong muốn phòng the](images/MW_REL_02_hero.jpg) *(Source: [https://images.unsplash.com/photo-1488117382278-329ccc22eecb?auto=format&fit=crop&w=1200&q=85](https://images.unsplash.com/photo-1488117382278-329ccc22eecb?auto=format&fit=crop&w=1200&q=85))* 
+**Inline Figure:** ![Mạng Lưới Thần Kinh Thấu Cảm & Xử Lý Xã Hội (Social Processing)](images/MW_REL_02_figure.png) *(Source: [https://commons.wikimedia.org/wiki/File:Brain_areas_that_participate_in_social_processing.jpg](https://commons.wikimedia.org/wiki/File:Brain_areas_that_participate_in_social_processing.jpg))* 
 **Clinical Source:** [Journal of Sex Research & Annual Review of Sex Research](https://pmc.ncbi.nlm.nih.gov/articles/PMC6699928/) 
 
 ---
@@ -26,8 +26,8 @@ Tình dục là một trong những hoạt động mang tính tổn thương (vu
 Hậu quả của sự im lặng là hiện tượng **"Đoán Ý Trong Bóng Tối" (Mind Reading)**: Cả hai người tự suy diễn những gì đối phương thích dựa trên phim ảnh hoặc các mối quan hệ cũ, dẫn đến sự lệch pha ngày càng sâu sắc. Nghiên cứu đăng trên **Journal of Sex Research (Byers et al.)** khẳng định: **Các cặp đôi giao tiếp tình dục cởi mở có mức độ hài lòng về mối quan hệ và tần suất đạt cực khoái cao gấp 2.5 lần so với nhóm giữ im lặng**.
 
 <figure class="article-inline-diagram">
- <img src="images/MW_REL_02_figure.png" alt="Cấu trúc thấu cảm cảm xúc và nhận thức: Không gian an toàn tâm lý giúp các cặp đôi cởi mở chia sẻ mong muốn và ranh giới mà không kích hoạt phản xạ phòng thủ thần kinh." loading="lazy">
- <figcaption>📊 <strong>Cấu trúc thấu cảm cảm xúc và nhận thức: Không gian an toàn tâm lý giúp các cặp đôi cởi mở chia sẻ mong muốn và ranh giới mà không kích hoạt phản xạ phòng thủ thần kinh.</strong> <a href="https://commons.wikimedia.org/wiki/File:Empathy.png" target="_blank" rel="noopener">Link sơ đồ y khoa gốc (Wikimedia Commons) ↗</a></figcaption>
+ <img src="images/MW_REL_02_figure.png" alt="Mạng Lưới Thần Kinh Thấu Cảm & Xử Lý Xã Hội (Social Processing): Các vùng não bộ giải mã cảm xúc (thùy đảo trước, hạch hạnh nhân, vỏ não đai trước) và thấu cảm nhận thức (mPFC, TPJ), tạo nền tảng an toàn sinh học khi trò chuyện phòng the." loading="lazy">
+ <figcaption>📊 <strong>Mạng Lưới Thần Kinh Thấu Cảm & Xử Lý Xã Hội (Social Processing): Các vùng não bộ giải mã cảm xúc (thùy đảo trước, hạch hạnh nhân, vỏ não đai trước) và thấu cảm nhận thức (mPFC, TPJ), tạo nền tảng an toàn sinh học khi trò chuyện phòng the.</strong> <a href="https://commons.wikimedia.org/wiki/File:Brain_areas_that_participate_in_social_processing.jpg" target="_blank" rel="noopener">Link sơ đồ y khoa gốc (Wikimedia Commons) ↗</a></figcaption>
 </figure>
 
 ---
@@ -88,8 +88,8 @@ Sexuality is among the most vulnerable experiences in human life. Articulating a
 The tragic byproduct of silence is **"Erotic Mind Reading"**: Partners guess what the other wants based on pornography or past relationships, widening misattunement. Research in the **Journal of Sex Research (Byers et al.)** confirms: **Couples practicing open sexual communication experience 2.5 times higher relationship satisfaction and orgasm frequency than silent cohorts**.
 
 <figure class="article-inline-diagram">
- <img src="images/MW_REL_02_figure.png" alt="Neural architecture of empathy: Emotional attunement allows partners to openly discuss intimate boundaries without activating defensive threat pathways." loading="lazy">
- <figcaption>📊 <strong>Neural architecture of empathy: Emotional attunement allows partners to openly discuss intimate boundaries without activating defensive threat pathways.</strong> <a href="https://commons.wikimedia.org/wiki/File:Empathy.png" target="_blank" rel="noopener">Original Image Source: Wikimedia Commons ↗</a></figcaption>
+ <img src="images/MW_REL_02_figure.png" alt="Neural Networks of Social Processing & Empathy: Functional brain areas mediating emotional appraisal (anterior insula, amygdala, ACC) and cognitive perspective-taking (mPFC, TPJ), establishing neurobiological safety during intimate boundary communication." loading="lazy">
+ <figcaption>📊 <strong>Neural Networks of Social Processing & Empathy: Functional brain areas mediating emotional appraisal (anterior insula, amygdala, ACC) and cognitive perspective-taking (mPFC, TPJ), establishing neurobiological safety during intimate boundary communication.</strong> <a href="https://commons.wikimedia.org/wiki/File:Brain_areas_that_participate_in_social_processing.jpg" target="_blank" rel="noopener">Original Image Source: Wikimedia Commons ↗</a></figcaption>
 </figure>
 
 ---
