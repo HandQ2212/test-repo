@@ -3,8 +3,8 @@
 **Screen:** Endocrine Facts & Scientific Evidence Screen 
 **Metric:** Acute vs Chronic Endocrine Adaptation, Ejaculatory Frequency & Leydig Integrity 
 **Reading Time:** 8 phút đọc / 8 min 
-**Hero Image:** ![Thủ Dâm & Nồng Độ Testosterone: Giải Mã Các Lời Đồn Dân Gian Bằng Bằng Chứng Thực Nghiệm](images/LM_MH_01_hero.jpg) *(Source: [https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?auto=format&fit=crop&w=1200&q=85](https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?auto=format&fit=crop&w=1200&q=85))* 
-**Inline Figure:** ![Động học testosterone sau xuất tinh: Nồng độ testosterone huyết thanh biến thiên cấp tính trong 20–30 phút sau cực khoái nhưng trở về mức nền ban đầu, không làm suy giảm tổng lượng hormone dài hạn.](images/LM_MH_01_figure.jpg) *(Source: [https://commons.wikimedia.org/wiki/File:Steroidogenesis.svg](https://commons.wikimedia.org/wiki/File:Steroidogenesis.svg))* 
+**Hero Image:** ![Hệ nội tiết nam giới (Blausen Medical): Sự tăng prolactin và oxytocin sau xuất tinh chỉ diễn ra thoáng qua và không làm suy giảm dự trữ testosterone toàn thân.](images/MW_SXO_06_hero.jpg) *(Source: [https://images.unsplash.com/photo-1499750310107-5fef28a66643?auto=format&fit=crop&w=1200&q=85](https://images.unsplash.com/photo-1499750310107-5fef28a66643?auto=format&fit=crop&w=1200&q=85))* 
+**Inline Figure:** ![Hệ nội tiết nam giới (Blausen Medical): Sự tăng prolactin và oxytocin sau xuất tinh chỉ diễn ra thoáng qua và không làm suy giảm dự trữ testosterone toàn thân.](images/MW_SXO_06_figure.png) *(Source: [https://commons.wikimedia.org/wiki/File:Blausen_0346_EndocrineSystem_Male2.png](https://commons.wikimedia.org/wiki/File:Blausen_0346_EndocrineSystem_Male2.png))* 
 **Clinical Source:** [World Journal of Urology & Journal of Zhejiang University Science](https://pubmed.ncbi.nlm.nih.gov/11760788/) 
 
 ---
@@ -28,8 +28,8 @@ Tất cả các luận điểm của phong trào NoFap đều bắt nguồn từ
 Kết luận khoa học thực tế: Đỉnh tăng ở ngày thứ 7 chỉ là một phản xạ điều hòa nội môi tạm thời của trục HPTA, chứ **hoàn toàn không phải là một đường dốc đi lên vô tận**. Kiêng xuất tinh kéo dài hàng tháng trời không giúp bạn tích lũy thêm một giọt testosterone nào!
 
 <figure class="article-inline-diagram">
- <img src="images/LM_MH_01_figure.jpg" alt="Sơ đồ chuyển hóa hormone và xuất tinh" loading="lazy">
- <figcaption>📊 <strong>Động Học Nội Tiết Thực Nghiệm:</strong> Tinh dịch chứa protein, kẽm và fructose, nhưng quá trình tái tạo một lần xuất tinh chỉ tiêu tốn lượng vi chất tương đương 1/100 bữa ăn hàng ngày. <a href="https://commons.wikimedia.org/wiki/File:Steroidogenesis.svg" target="_blank" rel="noopener">Nguồn sơ đồ: Wikimedia Commons ↗</a></figcaption>
+ <img src="images/MW_SXO_06_figure.png" alt="Hệ nội tiết nam giới (Blausen Medical): Sự tăng prolactin và oxytocin sau xuất tinh chỉ diễn ra thoáng qua và không làm suy giảm dự trữ testosterone toàn thân." loading="lazy">
+ <figcaption>📊 <strong>Sơ đồ y khoa:</strong> Hệ nội tiết nam giới (Blausen Medical): Sự tăng prolactin và oxytocin sau xuất tinh chỉ diễn ra thoáng qua và không làm suy giảm dự trữ testosterone toàn thân. <a href="https://commons.wikimedia.org/wiki/File:Blausen_0346_EndocrineSystem_Male2.png" target="_blank" rel="noopener">Nguồn sơ đồ: Wikimedia Commons ↗</a></figcaption>
 </figure>
 
 ---
@@ -97,8 +97,8 @@ The foundational claim of the viral "NoFap" movement originates from a single st
 The scientific truth: The Day 7 spike is a brief homeostatic endocrine rebound of the HPTA axis, **not an ascending staircase**. Prolonged abstinence does not store additional androgens.
 
 <figure class="article-inline-diagram">
- <img src="images/LM_MH_01_figure.jpg" alt="Androgen dynamics and ejaculation diagram" loading="lazy">
- <figcaption>📊 <strong>Post-Ejaculatory Endocrine Kinetics:</strong> While seminal fluid contains trace zinc and fructose, synthesizing one ejaculation consumes the nutritional equivalent of a single bite of food. <a href="https://commons.wikimedia.org/wiki/File:Steroidogenesis.svg" target="_blank" rel="noopener">Diagram source: Wikimedia Commons ↗</a></figcaption>
+ <img src="images/MW_SXO_06_figure.png" alt="The male endocrine system (Blausen Medical): Post-ejaculatory hormone surges (prolactin, oxytocin) are transient and do not deplete systemic androgen reserves." loading="lazy">
+ <figcaption>📊 <strong>Scientific Figure:</strong> The male endocrine system (Blausen Medical): Post-ejaculatory hormone surges (prolactin, oxytocin) are transient and do not deplete systemic androgen reserves. <a href="https://commons.wikimedia.org/wiki/File:Blausen_0346_EndocrineSystem_Male2.png" target="_blank" rel="noopener">Diagram source: Wikimedia Commons ↗</a></figcaption>
 </figure>
 
 ---

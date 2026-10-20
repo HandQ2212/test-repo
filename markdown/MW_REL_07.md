@@ -3,8 +3,8 @@
 **Screen:** Relational Attachment & Neurobiology Screen 
 **Metric:** Adult Attachment Stability, Neurobiological Safety & Micro-Attunements 
 **Reading Time:** 8 phút đọc / 8 min 
-**Hero Image:** ![Khoa Học Về Lòng Tin: Tính Nhất Quán Nhỏ Hàng Ngày Tạo Nên Sự Vững Chãi Tâm Lý Dài Hạn](images/DM_SL_01_photo.jpg) *(Source: [https://images.unsplash.com/photo-1516589178581-6cd7833ae3b2?auto=format&fit=crop&w=1200&q=85](https://images.unsplash.com/photo-1516589178581-6cd7833ae3b2?auto=format&fit=crop&w=1200&q=85))* 
-**Inline Figure:** ![Mô hình 4 phong cách gắn bó người trưởng thành (Adult Attachment): Sự an toàn cảm xúc giúp chuyển hóa phong cách lo âu hoặc né tránh thành gắn bó an toàn (Secure Attachment).](images/DM_HW_01_figure.jpg) *(Source: [https://commons.wikimedia.org/wiki/File:Attachment_styles_model.svg](https://commons.wikimedia.org/wiki/File:Attachment_styles_model.svg))* 
+**Hero Image:** ![Lưới 4 phong cách gắn bó người trưởng thành: Sự đồng điệu và đáng tin cậy trong các tương tác nhỏ hàng ngày giúp củng cố phong cách gắn bó an toàn dài hạn.](images/MW_REL_07_hero.jpg) *(Source: [https://images.unsplash.com/photo-1518199266791-5375a83190b7?auto=format&fit=crop&w=1200&q=85](https://images.unsplash.com/photo-1518199266791-5375a83190b7?auto=format&fit=crop&w=1200&q=85))* 
+**Inline Figure:** ![Lưới 4 phong cách gắn bó người trưởng thành: Sự đồng điệu và đáng tin cậy trong các tương tác nhỏ hàng ngày giúp củng cố phong cách gắn bó an toàn dài hạn.](images/MW_REL_07_figure.png) *(Source: [https://commons.wikimedia.org/wiki/File:Adult_attachment_patterns.svg](https://commons.wikimedia.org/wiki/File:Adult_attachment_patterns.svg))* 
 **Clinical Source:** [Current Directions in Psychological Science & Journal of Personality and Social Psychology](https://pubmed.ncbi.nlm.nih.gov/18652807/) 
 
 ---
@@ -28,8 +28,8 @@ Trong cuốn sách khoa học kinh điển *The Science of Trust*, Tiến sĩ Jo
 Khoảnh khắc ông chọn **bước qua cánh cửa trượt để kết nối** chính là viên gạch xây nên lòng tin vững chắc. Ngược lại, mỗi lần ta quay lưng lờ đi một tín hiệu buồn bã của đối phương, một hạt cát xói mòn lòng tin sẽ rơi xuống, lâu dần tạo thành hố sâu ngăn cách.
 
 <figure class="article-inline-diagram">
- <img src="images/DM_HW_01_figure.jpg" alt="Sơ đồ 4 phong cách gắn bó tâm lý học" loading="lazy">
- <figcaption>📊 <strong>Khoa Học Về Sự Gắn Bó (Attachment Theory):</strong> Những phản hồi nhất quán và ấm áp giúp hệ thần kinh của đối tác giải phóng Oxytocin, xây dựng phong cách gắn bó an toàn (Secure Attachment). <a href="https://commons.wikimedia.org/wiki/File:Attachment_styles_model.svg" target="_blank" rel="noopener">Nguồn sơ đồ: Wikimedia Commons ↗</a></figcaption>
+ <img src="images/MW_REL_07_figure.png" alt="Lưới 4 phong cách gắn bó người trưởng thành: Sự đồng điệu và đáng tin cậy trong các tương tác nhỏ hàng ngày giúp củng cố phong cách gắn bó an toàn dài hạn." loading="lazy">
+ <figcaption>📊 <strong>Sơ đồ y khoa:</strong> Lưới 4 phong cách gắn bó người trưởng thành: Sự đồng điệu và đáng tin cậy trong các tương tác nhỏ hàng ngày giúp củng cố phong cách gắn bó an toàn dài hạn. <a href="https://commons.wikimedia.org/wiki/File:Adult_attachment_patterns.svg" target="_blank" rel="noopener">Nguồn sơ đồ: Wikimedia Commons ↗</a></figcaption>
 </figure>
 
 ---
@@ -94,8 +94,8 @@ In *The Science of Trust*, Dr. John Gottman recounts a quiet personal story:
 Stepping through that sliding door to connect constructed a durable brick of neurobiological trust. Every time partners turn away from vulnerability, relational erosion deepens.
 
 <figure class="article-inline-diagram">
- <img src="images/DM_HW_01_figure.jpg" alt="Adult attachment styles and psychological safety diagram" loading="lazy">
- <figcaption>📊 <strong>Adult Attachment Theory:</strong> Warm, reliable, consistent attunement triggers neuro-oxytocinergic bonding, shifting insecure styles into Earned Security. <a href="https://commons.wikimedia.org/wiki/File:Attachment_styles_model.svg" target="_blank" rel="noopener">Diagram source: Wikimedia Commons ↗</a></figcaption>
+ <img src="images/MW_REL_07_figure.png" alt="Adult attachment patterns grid: Consistent micro-attunements and emotional reliability foster secure attachment bonds over time." loading="lazy">
+ <figcaption>📊 <strong>Scientific Figure:</strong> Adult attachment patterns grid: Consistent micro-attunements and emotional reliability foster secure attachment bonds over time. <a href="https://commons.wikimedia.org/wiki/File:Adult_attachment_patterns.svg" target="_blank" rel="noopener">Diagram source: Wikimedia Commons ↗</a></figcaption>
 </figure>
 
 ---

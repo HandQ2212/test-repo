@@ -3,8 +3,8 @@
 **Screen:** Stress Management & Autonomic Screen 
 **Metric:** Stress Score, Sympathetic Overdrive & Cortisol/Testosterone Ratio 
 **Reading Time:** 8 phút đọc / 8 min 
-**Hero Image:** ![Stress & Phong Độ Phòng The: Trục HPA, Độc Tính Cortisol & Phản Ứng Ức Chế Thần Kinh](images/DM_MH_03_hero.jpg) *(Source: [https://images.unsplash.com/photo-1499209974431-9dddcece7f88?auto=format&fit=crop&w=1200&q=85](https://images.unsplash.com/photo-1499209974431-9dddcece7f88?auto=format&fit=crop&w=1200&q=85))* 
-**Inline Figure:** ![Hệ thần kinh tự chủ (Giao cảm vs Phó giao cảm): Cương cứng đòi hỏi sự thống trị của phó giao cảm (Rest & Digest); trong khi stress kích hoạt giao cảm (Fight or Flight) gây co thắt động mạch.](images/LM_HW_01_figure.png) *(Source: [https://commons.wikimedia.org/wiki/File:Autonomic_Nervous_System.svg](https://commons.wikimedia.org/wiki/File:Autonomic_Nervous_System.svg))* 
+**Hero Image:** ![Trục Hạ đồi - Tuyến yên - Thượng thận (HPA): Cortisol tăng vọt trong căng thẳng mạn tính làm ức chế xung GnRH vùng dưới đồi và co thắt mạch máu hang.](images/MW_SXH_04_hero.jpg) *(Source: [https://images.unsplash.com/photo-1506784983877-45594efa4cbe?auto=format&fit=crop&w=1200&q=85](https://images.unsplash.com/photo-1506784983877-45594efa4cbe?auto=format&fit=crop&w=1200&q=85))* 
+**Inline Figure:** ![Trục Hạ đồi - Tuyến yên - Thượng thận (HPA): Cortisol tăng vọt trong căng thẳng mạn tính làm ức chế xung GnRH vùng dưới đồi và co thắt mạch máu hang.](images/MW_SXH_04_figure.png) *(Source: [https://commons.wikimedia.org/wiki/File:HPA_Axis_Diagram_(Brian_M_Sweis_2012).svg](https://commons.wikimedia.org/wiki/File:HPA_Axis_Diagram_(Brian_M_Sweis_2012).svg))* 
 **Clinical Source:** [Nature Reviews Endocrinology & Journal of Sexual Medicine](https://pubmed.ncbi.nlm.nih.gov/20358897/) 
 
 ---
@@ -29,8 +29,8 @@ Khi bạn bước vào phòng ngủ với tâm trạng căng thẳng, lo âu v�
 - Nếu không xìu hoàn toàn, cường giao cảm sẽ kích hoạt sớm trung tâm xuất tinh tại tủy sống L1–L2, dẫn đến hiện tượng **xuất tinh sớm do lo âu**.
 
 <figure class="article-inline-diagram">
- <img src="images/LM_HW_01_figure.png" alt="Sơ đồ hệ thần kinh tự chủ giao cảm và phó giao cảm" loading="lazy">
- <figcaption>📊 <strong>Sự Đối Nghịch Của Hệ Thần Kinh Tự Chủ:</strong> Adrenaline từ phản ứng stress phong tỏa trực tiếp các mạch máu nhỏ ở vùng hạ bộ, ưu tiên bơm máu lên các khối cơ lớn để chạy trốn mối nguy. <a href="https://commons.wikimedia.org/wiki/File:Autonomic_Nervous_System.svg" target="_blank" rel="noopener">Nguồn sơ đồ: Wikimedia Commons ↗</a></figcaption>
+ <img src="images/MW_SXH_04_figure.png" alt="Trục Hạ đồi - Tuyến yên - Thượng thận (HPA): Cortisol tăng vọt trong căng thẳng mạn tính làm ức chế xung GnRH vùng dưới đồi và co thắt mạch máu hang." loading="lazy">
+ <figcaption>📊 <strong>Sơ đồ y khoa:</strong> Trục Hạ đồi - Tuyến yên - Thượng thận (HPA): Cortisol tăng vọt trong căng thẳng mạn tính làm ức chế xung GnRH vùng dưới đồi và co thắt mạch máu hang. <a href="https://commons.wikimedia.org/wiki/File:HPA_Axis_Diagram_(Brian_M_Sweis_2012).svg" target="_blank" rel="noopener">Nguồn sơ đồ: Wikimedia Commons ↗</a></figcaption>
 </figure>
 
 ---
@@ -97,8 +97,8 @@ Entering intimacy under stress, career dread, or fear of failure activates **sym
 - If not completely flaccid, sympathetic hyperactivity prematurely triggers the spinal ejaculatory generator, causing **anxiety-induced premature ejaculation**.
 
 <figure class="article-inline-diagram">
- <img src="images/LM_HW_01_figure.png" alt="Autonomic nervous system sympathetic and parasympathetic diagram" loading="lazy">
- <figcaption>📊 <strong>Autonomic Antagonism:</strong> Stress-induced adrenaline directly constricts penile microvasculature, diverting cardiac output away from pelvic organs to skeletal muscles. <a href="https://commons.wikimedia.org/wiki/File:Autonomic_Nervous_System.svg" target="_blank" rel="noopener">Diagram source: Wikimedia Commons ↗</a></figcaption>
+ <img src="images/MW_SXH_04_figure.png" alt="Hypothalamic-Pituitary-Adrenal (HPA) Axis feedback system: Cortisol elevations during severe stress suppress central GnRH pulsatility and sympathetic vascular control." loading="lazy">
+ <figcaption>📊 <strong>Scientific Figure:</strong> Hypothalamic-Pituitary-Adrenal (HPA) Axis feedback system: Cortisol elevations during severe stress suppress central GnRH pulsatility and sympathetic vascular control. <a href="https://commons.wikimedia.org/wiki/File:HPA_Axis_Diagram_(Brian_M_Sweis_2012).svg" target="_blank" rel="noopener">Diagram source: Wikimedia Commons ↗</a></figcaption>
 </figure>
 
 ---

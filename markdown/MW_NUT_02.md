@@ -3,8 +3,8 @@
 **Screen:** Nutrition & Cardiovascular Health Screen 
 **Metric:** Vascular Endothelial Function, Nitric Oxide Synthesis & RHR 
 **Reading Time:** 8 phút đọc / 8 min 
-**Hero Image:** ![Chế Độ Ăn Địa Trung Hải: Tấm Lá Chắn Nội Mô Cho Chức Năng Cương & Tim Mạch Nam Giới](images/DM_AC_01_hero.jpg) *(Source: [https://images.unsplash.com/photo-1512621776951-a57141f2eefd?auto=format&fit=crop&w=1200&q=85](https://images.unsplash.com/photo-1512621776951-a57141f2eefd?auto=format&fit=crop&w=1200&q=85))* 
-**Inline Figure:** ![Lưu thông mạch máu và chức năng cương: Động mạch hang dương vật có đường kính chỉ 1–2 mm, nhạy cảm gấp 3 lần động mạch vành trước các tổn thương xơ vữa và suy giảm Nitric Oxide.](images/DM_MH_02_figure.png) *(Source: [https://commons.wikimedia.org/wiki/File:Cardiovascular_System_Circulation.svg](https://commons.wikimedia.org/wiki/File:Cardiovascular_System_Circulation.svg))* 
+**Hero Image:** ![Diễn tiến xơ vữa động mạch và rối loạn chức năng nội mô: Polyphenol Địa Trung Hải bảo vệ lớp lót nội mô, ngăn ngừa xơ cứng mạch máu hang sớm.](images/MW_NUT_02_hero.jpg) *(Source: [https://images.unsplash.com/photo-1543339308-43e59d6b73a6?auto=format&fit=crop&w=1200&q=85](https://images.unsplash.com/photo-1543339308-43e59d6b73a6?auto=format&fit=crop&w=1200&q=85))* 
+**Inline Figure:** ![Diễn tiến xơ vữa động mạch và rối loạn chức năng nội mô: Polyphenol Địa Trung Hải bảo vệ lớp lót nội mô, ngăn ngừa xơ cứng mạch máu hang sớm.](images/MW_NUT_02_figure.png) *(Source: [https://commons.wikimedia.org/wiki/File:Atherosclerosis_timeline_-_endothelial_dysfunction.svg](https://commons.wikimedia.org/wiki/File:Atherosclerosis_timeline_-_endothelial_dysfunction.svg))* 
 **Clinical Source:** [Journal of the American Medical Association (JAMA) & European Urology](https://pubmed.ncbi.nlm.nih.gov/15213207/) 
 
 ---
@@ -25,8 +25,8 @@
 3. cGMP làm giảm dòng canxi nội bào, khiến các cơ trơn tiểu động mạch hang giãn nở tối đa. Lưu lượng máu đổ dồn vào thể hang tăng vọt từ **2–3 ml/phút lên đến 20–40 ml/phút**, tạo ra áp lực nén các tĩnh mạch dưới màng trắng và khóa dòng máu thoát ra ngoài.
 
 <figure class="article-inline-diagram">
- <img src="images/DM_MH_02_figure.png" alt="Sơ đồ tuần hoàn vi mạch thể hang" loading="lazy">
- <figcaption>📊 <strong>Động Học Tuần Hoàn Mạch Máu:</strong> Động mạch hang có kích thước siêu nhỏ (1–2 mm), do đó bất kỳ tổn thương nội mô hoặc mảng xơ vữa nào cũng sẽ biểu hiện thành rối loạn cương nhiều năm trước khi gây đau thắt ngực. <a href="https://commons.wikimedia.org/wiki/File:Cardiovascular_System_Circulation.svg" target="_blank" rel="noopener">Nguồn sơ đồ: Wikimedia Commons ↗</a></figcaption>
+ <img src="images/MW_NUT_02_figure.png" alt="Diễn tiến xơ vữa động mạch và rối loạn chức năng nội mô: Polyphenol Địa Trung Hải bảo vệ lớp lót nội mô, ngăn ngừa xơ cứng mạch máu hang sớm." loading="lazy">
+ <figcaption>📊 <strong>Sơ đồ y khoa:</strong> Diễn tiến xơ vữa động mạch và rối loạn chức năng nội mô: Polyphenol Địa Trung Hải bảo vệ lớp lót nội mô, ngăn ngừa xơ cứng mạch máu hang sớm. <a href="https://commons.wikimedia.org/wiki/File:Atherosclerosis_timeline_-_endothelial_dysfunction.svg" target="_blank" rel="noopener">Nguồn sơ đồ: Wikimedia Commons ↗</a></figcaption>
 </figure>
 
 ---
@@ -85,8 +85,8 @@ To achieve rigid erection, the male body must coordinate a delicate, high-pressu
 3. cGMP reduces intracellular calcium flux, prompting profound trabecular smooth muscle relaxation. Inflow into cavernosal sinusoids skyrockets from **2–3 mL/min up to 20–40 mL/min**, generating massive intracavernosal pressure that compresses subtunical venules against the rigid tunica albuginea, hydraulically trapping blood within the corpora.
 
 <figure class="article-inline-diagram">
- <img src="images/DM_MH_02_figure.png" alt="Microvascular cavernosal hemodynamics diagram" loading="lazy">
- <figcaption>📊 <strong>Vascular Hemodynamics of Erection:</strong> Because cavernosal arteries are microvessels (1–2 mm), endothelial injury or early atheroma formation compromises erectile hydraulics years before angina manifests. <a href="https://commons.wikimedia.org/wiki/File:Cardiovascular_System_Circulation.svg" target="_blank" rel="noopener">Diagram source: Wikimedia Commons ↗</a></figcaption>
+ <img src="images/MW_NUT_02_figure.png" alt="Timeline of atherosclerosis and endothelial dysfunction: Mediterranean polyphenols protect vascular endothelial integrity, preventing early arterial stiffening." loading="lazy">
+ <figcaption>📊 <strong>Scientific Figure:</strong> Timeline of atherosclerosis and endothelial dysfunction: Mediterranean polyphenols protect vascular endothelial integrity, preventing early arterial stiffening. <a href="https://commons.wikimedia.org/wiki/File:Atherosclerosis_timeline_-_endothelial_dysfunction.svg" target="_blank" rel="noopener">Diagram source: Wikimedia Commons ↗</a></figcaption>
 </figure>
 
 ---

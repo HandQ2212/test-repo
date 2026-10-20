@@ -3,8 +3,8 @@
 **Screen:** Hydration Dynamics & Cardiovascular Strain Screen 
 **Metric:** Plasma Volume Deficit, Cardiac Drift (+3-5 bpm) & Core Thermoregulation 
 **Reading Time:** 8 phút đọc / 8 min 
-**Hero Image:** ![Bù Nước & Hiệu Suất Thể Lực: Ảnh Hưởng Của Mất Nước 2% Lên Thể Tích Huyết Tương & Nhịp Tim](images/DM_AC_01_hero.jpg) *(Source: [https://images.unsplash.com/photo-1550345332-09e3ac987658?auto=format&fit=crop&w=1200&q=85](https://images.unsplash.com/photo-1550345332-09e3ac987658?auto=format&fit=crop&w=1200&q=85))* 
-**Inline Figure:** ![Thể tích huyết tương và hiện tượng trôi dạt nhịp tim (Cardiac Drift): Mất nước làm cô đặc máu, giảm thể tích nhát bóp buồng tim (Stroke Volume) buộc tim phải đập nhanh hơn để duy trì cung lượng máu.](images/LM_RC_02_figure.jpg) *(Source: [https://commons.wikimedia.org/wiki/File:Cardiovascular_System_Circulation.svg](https://commons.wikimedia.org/wiki/File:Cardiovascular_System_Circulation.svg))* 
+**Hero Image:** ![Hệ thống Renin-Angiotensin-Aldosterone (RAAS): Bù nước đúng cách ngăn ngừa co thắt mạch máu thận, duy trì thể tích tống máu tim và sức bền vận động.](images/MW_NUT_08_hero.jpg) *(Source: [https://images.unsplash.com/photo-1523362628745-0c100150b504?auto=format&fit=crop&w=1200&q=85](https://images.unsplash.com/photo-1523362628745-0c100150b504?auto=format&fit=crop&w=1200&q=85))* 
+**Inline Figure:** ![Hệ thống Renin-Angiotensin-Aldosterone (RAAS): Bù nước đúng cách ngăn ngừa co thắt mạch máu thận, duy trì thể tích tống máu tim và sức bền vận động.](images/MW_NUT_08_figure.png) *(Source: [https://commons.wikimedia.org/wiki/File:Renin-angiotensin-aldosterone_system.svg](https://commons.wikimedia.org/wiki/File:Renin-angiotensin-aldosterone_system.svg))* 
 **Clinical Source:** [Medicine & Science in Sports & Exercise (ACSM Position Stand) & Sports Medicine](https://pubmed.ncbi.nlm.nih.gov/17277604/) 
 
 ---
@@ -27,8 +27,8 @@ Khi bạn tập luyện thể thao hoặc làm việc ngoài trời, cơ thể t
 Trên ứng dụng thiết bị đeo (Apple Watch, WHOOP), bạn sẽ thấy mình nhanh chóng bị đẩy từ Zone 2 sang Zone 4 nguy hiểm, kèm theo điểm Day Strain tăng chóng mặt và cảm giác kiệt sức xuất hiện sớm hơn 30 phút.
 
 <figure class="article-inline-diagram">
- <img src="images/LM_RC_02_figure.jpg" alt="Sơ đồ tuần hoàn tim mạch và huyết tương" loading="lazy">
- <figcaption>📊 <strong>Động Học Mất Nước & Tuần Hoàn:</strong> Mất nước làm tim phải làm việc quá tải gấp đôi để chống lại độ nhớt của máu và điều hòa thân nhiệt nội tạng. <a href="https://commons.wikimedia.org/wiki/File:Cardiovascular_System_Circulation.svg" target="_blank" rel="noopener">Nguồn sơ đồ: Wikimedia Commons ↗</a></figcaption>
+ <img src="images/MW_NUT_08_figure.png" alt="Hệ thống Renin-Angiotensin-Aldosterone (RAAS): Bù nước đúng cách ngăn ngừa co thắt mạch máu thận, duy trì thể tích tống máu tim và sức bền vận động." loading="lazy">
+ <figcaption>📊 <strong>Sơ đồ y khoa:</strong> Hệ thống Renin-Angiotensin-Aldosterone (RAAS): Bù nước đúng cách ngăn ngừa co thắt mạch máu thận, duy trì thể tích tống máu tim và sức bền vận động. <a href="https://commons.wikimedia.org/wiki/File:Renin-angiotensin-aldosterone_system.svg" target="_blank" rel="noopener">Nguồn sơ đồ: Wikimedia Commons ↗</a></figcaption>
 </figure>
 
 ---
@@ -94,8 +94,8 @@ During exercise, sweating cools the skin via evaporation. Sweat is drawn directl
 On wearable devices, you are prematurely pushed from Zone 2 into Zone 4, Day Strain spikes erratically, and muscular exhaustion arrives 30 minutes earlier.
 
 <figure class="article-inline-diagram">
- <img src="images/LM_RC_02_figure.jpg" alt="Circulatory hemodynamics and plasma volume diagram" loading="lazy">
- <figcaption>📊 <strong>Dehydration Hemodynamics:</strong> Contracting blood volume forces the myocardium to work exponentially harder against blood viscosity to regulate core body temperature. <a href="https://commons.wikimedia.org/wiki/File:Cardiovascular_System_Circulation.svg" target="_blank" rel="noopener">Diagram source: Wikimedia Commons ↗</a></figcaption>
+ <img src="images/MW_NUT_08_figure.png" alt="Renin-Angiotensin-Aldosterone System (RAAS): Adequate fluid intake prevents renal vasoconstriction, maintaining stroke volume and exercise tolerance." loading="lazy">
+ <figcaption>📊 <strong>Scientific Figure:</strong> Renin-Angiotensin-Aldosterone System (RAAS): Adequate fluid intake prevents renal vasoconstriction, maintaining stroke volume and exercise tolerance. <a href="https://commons.wikimedia.org/wiki/File:Renin-angiotensin-aldosterone_system.svg" target="_blank" rel="noopener">Diagram source: Wikimedia Commons ↗</a></figcaption>
 </figure>
 
 ---

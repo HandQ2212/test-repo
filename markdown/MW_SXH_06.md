@@ -3,8 +3,8 @@
 **Screen:** Cardiorespiratory Fitness & Sexual Function Screen 
 **Metric:** Cardio Fitness (VO2 Max), Endothelial eNOS & Pelvic Floor Strength 
 **Reading Time:** 8 phút đọc / 8 min 
-**Hero Image:** ![Vận Động Thể Thao Tăng Cường Bản Lĩnh: Cardio Zone 2, Sức Mạnh Khung Chậu & Lưu Lượng Máu](images/LM_HW_02_hero.jpg) *(Source: [https://images.unsplash.com/photo-1534438327276-14e5300c3a48?auto=format&fit=crop&w=1200&q=85](https://images.unsplash.com/photo-1534438327276-14e5300c3a48?auto=format&fit=crop&w=1200&q=85))* 
-**Inline Figure:** ![Dung tích hấp thụ oxy tối đa (VO2 Max): Mỗi mức tăng 1 MET thể lực tương đương với việc giảm 15% nguy cơ mắc rối loạn cương dương ở nam giới trung niên.](images/LM_HW_02_figure.jpg) *(Source: [https://commons.wikimedia.org/wiki/File:VO2_max_aerobic_capacity.svg](https://commons.wikimedia.org/wiki/File:VO2_max_aerobic_capacity.svg))* 
+**Hero Image:** ![Các vùng nhịp tim tập luyện tim mạch: Tập cardio Zone 2 kích hoạt lực trượt thành mạch (shear stress), thúc đẩy men eNOS sản sinh Nitric Oxide tăng độ đàn hồi lòng mạch.](images/MW_SXH_06_hero.jpg) *(Source: [https://images.unsplash.com/photo-1452626212852-811d58933cae?auto=format&fit=crop&w=1200&q=85](https://images.unsplash.com/photo-1452626212852-811d58933cae?auto=format&fit=crop&w=1200&q=85))* 
+**Inline Figure:** ![Các vùng nhịp tim tập luyện tim mạch: Tập cardio Zone 2 kích hoạt lực trượt thành mạch (shear stress), thúc đẩy men eNOS sản sinh Nitric Oxide tăng độ đàn hồi lòng mạch.](images/MW_SXH_06_figure.png) *(Source: [https://commons.wikimedia.org/wiki/File:Exercise_zones_Fox_and_Haskell.svg](https://commons.wikimedia.org/wiki/File:Exercise_zones_Fox_and_Haskell.svg))* 
 **Clinical Source:** [The Journal of Sexual Medicine & Harvard Men's Health Watch](https://pubmed.ncbi.nlm.nih.gov/21883955/) 
 
 ---
@@ -25,8 +25,8 @@ Trong công trình theo dõi sức khỏe quy mô lớn trên **22.000 nam giớ
 - Mỗi sự cải thiện **1 MET (đơn vị chuyển hóa tương đương)** trong bài kiểm tra gắng sức tim mạch giúp giảm trực tiếp **15% nguy cơ suy giảm tình dục**.
 
 <figure class="article-inline-diagram">
- <img src="images/LM_HW_02_figure.jpg" alt="Sơ đồ thể lực tim mạch VO2 Max" loading="lazy">
- <figcaption>📊 <strong>Sức Bền Tim Mạch & Bản Lĩnh:</strong> Điểm Cardio Fitness (VO2 Max) trên Apple Watch tương quan nghịch trực tiếp với mức độ xơ vữa của động mạch hang dương vật. <a href="https://commons.wikimedia.org/wiki/File:VO2_max_aerobic_capacity.svg" target="_blank" rel="noopener">Nguồn sơ đồ: Wikimedia Commons ↗</a></figcaption>
+ <img src="images/MW_SXH_06_figure.png" alt="Các vùng nhịp tim tập luyện tim mạch: Tập cardio Zone 2 kích hoạt lực trượt thành mạch (shear stress), thúc đẩy men eNOS sản sinh Nitric Oxide tăng độ đàn hồi lòng mạch." loading="lazy">
+ <figcaption>📊 <strong>Sơ đồ y khoa:</strong> Các vùng nhịp tim tập luyện tim mạch: Tập cardio Zone 2 kích hoạt lực trượt thành mạch (shear stress), thúc đẩy men eNOS sản sinh Nitric Oxide tăng độ đàn hồi lòng mạch. <a href="https://commons.wikimedia.org/wiki/File:Exercise_zones_Fox_and_Haskell.svg" target="_blank" rel="noopener">Nguồn sơ đồ: Wikimedia Commons ↗</a></figcaption>
 </figure>
 
 ---
@@ -86,8 +86,8 @@ In a landmark longitudinal study tracking **22,000 men over 14 years** by **Harv
 - Every **1-MET increase** in cardiorespiratory fitness produced a direct **15% reduction in sexual dysfunction risk**.
 
 <figure class="article-inline-diagram">
- <img src="images/LM_HW_02_figure.jpg" alt="VO2 Max and cardiovascular fitness diagram" loading="lazy">
- <figcaption>📊 <strong>Cardiorespiratory Fitness & Virility:</strong> Cardio Fitness (VO2 Max) on Apple Watch inversely correlates with cavernosal atherosclerotic plaque burden. <a href="https://commons.wikimedia.org/wiki/File:VO2_max_aerobic_capacity.svg" target="_blank" rel="noopener">Diagram source: Wikimedia Commons ↗</a></figcaption>
+ <img src="images/MW_SXH_06_figure.png" alt="Cardiovascular exercise intensity training zones: Zone 2 aerobic training induces laminar shear stress, stimulating eNOS expression and vascular elasticity." loading="lazy">
+ <figcaption>📊 <strong>Scientific Figure:</strong> Cardiovascular exercise intensity training zones: Zone 2 aerobic training induces laminar shear stress, stimulating eNOS expression and vascular elasticity. <a href="https://commons.wikimedia.org/wiki/File:Exercise_zones_Fox_and_Haskell.svg" target="_blank" rel="noopener">Diagram source: Wikimedia Commons ↗</a></figcaption>
 </figure>
 
 ---

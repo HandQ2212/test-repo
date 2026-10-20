@@ -3,8 +3,8 @@
 **Screen:** Communication & Sexual Wellness Screen 
 **Metric:** Vulnerability, Psychological Safety & Sexual Attunement 
 **Reading Time:** 8 phút đọc / 8 min 
-**Hero Image:** ![Cách Mở Lời Về Chuyện Tình Dục: Xây Dựng Không Gian An Toàn Cho Mong Muốn & Ranh Giới](images/DM_MH_01_hero.jpg) *(Source: [https://images.unsplash.com/photo-1522543558187-768b6df7c25c?auto=format&fit=crop&w=1200&q=85](https://images.unsplash.com/photo-1522543558187-768b6df7c25c?auto=format&fit=crop&w=1200&q=85))* 
-**Inline Figure:** ![Không gian đối thoại an toàn: Cởi mở chia sẻ về mong muốn và ranh giới tình dục ngoài phòng ngủ giúp giảm ức chế tâm lý và gia tăng sự thấu cảm lứa đôi.](images/DM_SL_02_photo.jpg) *(Source: [https://commons.wikimedia.org/wiki/File:Empathy_interaction.svg](https://commons.wikimedia.org/wiki/File:Empathy_interaction.svg))* 
+**Hero Image:** ![Cấu trúc thấu cảm cảm xúc và nhận thức: Không gian an toàn tâm lý giúp các cặp đôi cởi mở chia sẻ mong muốn và ranh giới mà không kích hoạt phản xạ phòng thủ thần kinh.](images/MW_REL_02_hero.jpg) *(Source: [https://images.unsplash.com/photo-1529156069898-49953e39b3ac?auto=format&fit=crop&w=1200&q=85](https://images.unsplash.com/photo-1529156069898-49953e39b3ac?auto=format&fit=crop&w=1200&q=85))* 
+**Inline Figure:** ![Cấu trúc thấu cảm cảm xúc và nhận thức: Không gian an toàn tâm lý giúp các cặp đôi cởi mở chia sẻ mong muốn và ranh giới mà không kích hoạt phản xạ phòng thủ thần kinh.](images/MW_REL_02_figure.png) *(Source: [https://commons.wikimedia.org/wiki/File:Empathy.png](https://commons.wikimedia.org/wiki/File:Empathy.png))* 
 **Clinical Source:** [Journal of Sex Research & Annual Review of Sex Research](https://pmc.ncbi.nlm.nih.gov/articles/PMC6699928/) 
 
 ---
@@ -26,8 +26,8 @@ Tình dục là một trong những hoạt động mang tính tổn thương (vu
 Hậu quả của sự im lặng là hiện tượng **"Đoán Ý Trong Bóng Tối" (Mind Reading)**: Cả hai người tự suy diễn những gì đối phương thích dựa trên phim ảnh hoặc các mối quan hệ cũ, dẫn đến sự lệch pha ngày càng sâu sắc. Nghiên cứu đăng trên **Journal of Sex Research (Byers et al.)** khẳng định: **Các cặp đôi giao tiếp tình dục cởi mở có mức độ hài lòng về mối quan hệ và tần suất đạt cực khoái cao gấp 2.5 lần so với nhóm giữ im lặng**.
 
 <figure class="article-inline-diagram">
- <img src="images/DM_SL_02_photo.jpg" alt="Sơ đồ đối thoại và an toàn tâm lý" loading="lazy">
- <figcaption>📊 <strong>Khoảng Trống Giao Tiếp Tình Dục:</strong> Đối thoại trung thực giúp giải phóng năng lượng ức chế ở thùy trán, đưa tâm trí trở về trạng thái đón nhận khoái cảm tự nhiên. <a href="https://commons.wikimedia.org/wiki/File:Empathy_interaction.svg" target="_blank" rel="noopener">Nguồn sơ đồ: Wikimedia Commons ↗</a></figcaption>
+ <img src="images/MW_REL_02_figure.png" alt="Cấu trúc thấu cảm cảm xúc và nhận thức: Không gian an toàn tâm lý giúp các cặp đôi cởi mở chia sẻ mong muốn và ranh giới mà không kích hoạt phản xạ phòng thủ thần kinh." loading="lazy">
+ <figcaption>📊 <strong>Sơ đồ y khoa:</strong> Cấu trúc thấu cảm cảm xúc và nhận thức: Không gian an toàn tâm lý giúp các cặp đôi cởi mở chia sẻ mong muốn và ranh giới mà không kích hoạt phản xạ phòng thủ thần kinh. <a href="https://commons.wikimedia.org/wiki/File:Empathy.png" target="_blank" rel="noopener">Nguồn sơ đồ: Wikimedia Commons ↗</a></figcaption>
 </figure>
 
 ---
@@ -88,8 +88,8 @@ Sexuality is among the most vulnerable experiences in human life. Articulating a
 The tragic byproduct of silence is **"Erotic Mind Reading"**: Partners guess what the other wants based on pornography or past relationships, widening misattunement. Research in the **Journal of Sex Research (Byers et al.)** confirms: **Couples practicing open sexual communication experience 2.5 times higher relationship satisfaction and orgasm frequency than silent cohorts**.
 
 <figure class="article-inline-diagram">
- <img src="images/DM_SL_02_photo.jpg" alt="Psychological safety and sexual dialogue diagram" loading="lazy">
- <figcaption>📊 <strong>Bridging the Erotic Communication Gap:</strong> Vulnerable, honest dialogue decompresses prefrontal inhibition, allowing partners to enter intimacy free from performative dread. <a href="https://commons.wikimedia.org/wiki/File:Empathy_interaction.svg" target="_blank" rel="noopener">Diagram source: Wikimedia Commons ↗</a></figcaption>
+ <img src="images/MW_REL_02_figure.png" alt="Neural architecture of empathy: Emotional attunement allows partners to openly discuss intimate boundaries without activating defensive threat pathways." loading="lazy">
+ <figcaption>📊 <strong>Scientific Figure:</strong> Neural architecture of empathy: Emotional attunement allows partners to openly discuss intimate boundaries without activating defensive threat pathways. <a href="https://commons.wikimedia.org/wiki/File:Empathy.png" target="_blank" rel="noopener">Diagram source: Wikimedia Commons ↗</a></figcaption>
 </figure>
 
 ---

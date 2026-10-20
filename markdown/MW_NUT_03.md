@@ -3,8 +3,8 @@
 **Screen:** Body Composition & Activity Strain Screen 
 **Metric:** Muscle Protein Synthesis, Leucine Threshold & Day Strain 
 **Reading Time:** 8 phút đọc / 8 min 
-**Hero Image:** ![Nam Giới Cần Bao Nhiêu Protein? Tối Ưu Tổng Hợp Cơ Bắp, Thận & Cân Bằng Nội Tiết](images/LM_AC_01_hero.jpg) *(Source: [https://images.unsplash.com/photo-1517838277536-f5f99be501cd?auto=format&fit=crop&w=1200&q=85](https://images.unsplash.com/photo-1517838277536-f5f99be501cd?auto=format&fit=crop&w=1200&q=85))* 
-**Inline Figure:** ![Phân bố khối cơ nạc và tổng hợp protein cơ bắp: Tối ưu hóa phân bổ protein trong ngày kích hoạt thụ thể mTORC1, ngăn ngừa mất cơ (Sarcopenia) và nâng cao tốc độ trao đổi chất cơ bản.](images/DM_AC_01_figure.png) *(Source: [https://commons.wikimedia.org/wiki/File:Muscles_anterior_labeled.png](https://commons.wikimedia.org/wiki/File:Muscles_anterior_labeled.png))* 
+**Hero Image:** ![Cấu trúc vi sợi cơ Sarcomere: Các axit amin thiết yếu (đặc biệt là Leucine) kích hoạt cơ chế tổng hợp protein cơ và tái tạo cầu nối actin-myosin.](images/MW_NUT_03_hero.jpg) *(Source: [https://images.unsplash.com/photo-1532550907401-a500c9a57435?auto=format&fit=crop&w=1200&q=85](https://images.unsplash.com/photo-1532550907401-a500c9a57435?auto=format&fit=crop&w=1200&q=85))* 
+**Inline Figure:** ![Cấu trúc vi sợi cơ Sarcomere: Các axit amin thiết yếu (đặc biệt là Leucine) kích hoạt cơ chế tổng hợp protein cơ và tái tạo cầu nối actin-myosin.](images/MW_NUT_03_figure.png) *(Source: [https://commons.wikimedia.org/wiki/File:Sarcomere.svg](https://commons.wikimedia.org/wiki/File:Sarcomere.svg))* 
 **Clinical Source:** [British Journal of Sports Medicine (BJSM) & American Journal of Clinical Nutrition](https://pubmed.ncbi.nlm.nih.gov/28698222/) 
 
 ---
@@ -24,8 +24,8 @@ Khuyến nghị dinh dưỡng tiêu chuẩn (**RDA - Recommended Dietary Allowan
 - Đối với nam giới có tập luyện kháng lực (gym), chơi thể thao hoặc đang trong giai đoạn giảm mỡ, mức nạp này dẫn đến **suy giảm khối cơ nạc (Lean Mass Catabolism)**, giảm tốc độ chuyển hóa cơ bản và làm giảm độ nhạy insulin.
 
 <figure class="article-inline-diagram">
- <img src="images/DM_AC_01_figure.png" alt="Sơ đồ khối cơ nạc và tổng hợp protein" loading="lazy">
- <figcaption>📊 <strong>Kích Hoạt Tín Hiệu mTORC1:</strong> Nạp đủ protein theo từng bữa giúp duy trì cân bằng nitơ dương tính, hỗ trợ tái tạo mô liên kết và nâng cao sức chịu tải Day Strain của cơ thể. <a href="https://commons.wikimedia.org/wiki/File:Muscles_anterior_labeled.png" target="_blank" rel="noopener">Nguồn sơ đồ: Wikimedia Commons ↗</a></figcaption>
+ <img src="images/MW_NUT_03_figure.png" alt="Cấu trúc vi sợi cơ Sarcomere: Các axit amin thiết yếu (đặc biệt là Leucine) kích hoạt cơ chế tổng hợp protein cơ và tái tạo cầu nối actin-myosin." loading="lazy">
+ <figcaption>📊 <strong>Sơ đồ y khoa:</strong> Cấu trúc vi sợi cơ Sarcomere: Các axit amin thiết yếu (đặc biệt là Leucine) kích hoạt cơ chế tổng hợp protein cơ và tái tạo cầu nối actin-myosin. <a href="https://commons.wikimedia.org/wiki/File:Sarcomere.svg" target="_blank" rel="noopener">Nguồn sơ đồ: Wikimedia Commons ↗</a></figcaption>
 </figure>
 
 ---
@@ -96,8 +96,8 @@ Standard nutritional guidelines (**RDA - Recommended Dietary Allowance**) prescr
 - For active men engaged in resistance exercise or caloric deficits, this intake guarantees **lean mass catabolism**, depressed resting metabolic rate, and impaired tissue recovery.
 
 <figure class="article-inline-diagram">
- <img src="images/DM_AC_01_figure.png" alt="Skeletal muscle architecture and MPS signaling" loading="lazy">
- <figcaption>📊 <strong>Triggering the mTORC1 Switch:</strong> Protein pacing sustains positive nitrogen balance, supporting connective tissue repair and handling higher cardiovascular Day Strain loads. <a href="https://commons.wikimedia.org/wiki/File:Muscles_anterior_labeled.png" target="_blank" rel="noopener">Diagram source: Wikimedia Commons ↗</a></figcaption>
+ <img src="images/MW_NUT_03_figure.png" alt="Sarcomere functional diagram: Essential amino acids (particularly leucine) activate muscle protein synthesis and actin-myosin cross-bridge remodeling." loading="lazy">
+ <figcaption>📊 <strong>Scientific Figure:</strong> Sarcomere functional diagram: Essential amino acids (particularly leucine) activate muscle protein synthesis and actin-myosin cross-bridge remodeling. <a href="https://commons.wikimedia.org/wiki/File:Sarcomere.svg" target="_blank" rel="noopener">Diagram source: Wikimedia Commons ↗</a></figcaption>
 </figure>
 
 ---

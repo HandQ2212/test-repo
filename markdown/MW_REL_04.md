@@ -3,8 +3,8 @@
 **Screen:** Stress Recovery & Heart Rate Variability Screen 
 **Metric:** Stress Spillover, Window of Tolerance & Autonomic Burnout 
 **Reading Time:** 8 phút đọc / 8 min 
-**Hero Image:** ![Hiệu Ứng Lây Lan Căng Thẳng: Bảo Vệ Mối Quan Hệ Khỏi Sự Cạn Kiệt Năng Lượng Thần Kinh](images/DM_HW_02_hero.jpg) *(Source: [https://images.unsplash.com/photo-1506126613408-eca07ce68773?auto=format&fit=crop&w=1200&q=85](https://images.unsplash.com/photo-1506126613408-eca07ce68773?auto=format&fit=crop&w=1200&q=85))* 
-**Inline Figure:** ![Đường cong Yerkes-Dodson và dung sai cảm xúc: Khi căng thẳng công việc vượt ngưỡng chịu đựng, hệ thần kinh tự chủ cạn kiệt năng lượng, làm bùng phát các phản ứng cáu gắt vô cớ tại gia đình.](images/LM_HW_01_figure.png) *(Source: [https://commons.wikimedia.org/wiki/File:Stress_curve.svg](https://commons.wikimedia.org/wiki/File:Stress_curve.svg))* 
+**Hero Image:** ![Đường cong kích hoạt Yerkes-Dodson: Căng thẳng công việc kéo dài đẩy hệ thần kinh vượt ngưỡng hưng phấn tối ưu sang vùng kiệt sức, làm cạn kiệt khả năng bao dung giữa hai người.](images/MW_REL_04_hero.jpg) *(Source: [https://images.unsplash.com/photo-1469571486292-0ba58a3f068b?auto=format&fit=crop&w=1200&q=85](https://images.unsplash.com/photo-1469571486292-0ba58a3f068b?auto=format&fit=crop&w=1200&q=85))* 
+**Inline Figure:** ![Đường cong kích hoạt Yerkes-Dodson: Căng thẳng công việc kéo dài đẩy hệ thần kinh vượt ngưỡng hưng phấn tối ưu sang vùng kiệt sức, làm cạn kiệt khả năng bao dung giữa hai người.](images/MW_REL_04_figure.png) *(Source: [https://commons.wikimedia.org/wiki/File:HebbianYerkesDodson.svg](https://commons.wikimedia.org/wiki/File:HebbianYerkesDodson.svg))* 
 **Clinical Source:** [Clinical Psychology Review & Journal of Personality and Social Psychology](https://pubmed.ncbi.nlm.nih.gov/17588698/) 
 
 ---
@@ -27,8 +27,8 @@ Cơ chế sinh lý học thần kinh diễn ra như sau:
 3. **Kích Hoạt Phản Ứng Cáu Gắt Sai Mục Tiêu:** Một câu nói đùa vô hại hoặc một việc nhỏ nhặt của người bạn đời lập tức bị bộ não đang kiệt quệ diễn giải như một "cuộc tấn công cá nhân", kích hoạt cơn giận dữ bùng nổ vô lý.
 
 <figure class="article-inline-diagram">
- <img src="images/LM_HW_01_figure.png" alt="Sơ đồ đường cong căng thẳng và dung sai cảm xúc" loading="lazy">
- <figcaption>📊 <strong>Cửa Sổ Dung Sai Cảm Xúc (Window of Tolerance):</strong> Khi điểm Stress Score trên thiết bị đeo ở mức cao cả ngày, vùng dung sai bị thu hẹp lại; chỉ một kích thích nhỏ cũng đẩy bạn vào trạng thái kích động hoặc sụp đổ. <a href="https://commons.wikimedia.org/wiki/File:Stress_curve.svg" target="_blank" rel="noopener">Nguồn sơ đồ: Wikimedia Commons ↗</a></figcaption>
+ <img src="images/MW_REL_04_figure.png" alt="Đường cong kích hoạt Yerkes-Dodson: Căng thẳng công việc kéo dài đẩy hệ thần kinh vượt ngưỡng hưng phấn tối ưu sang vùng kiệt sức, làm cạn kiệt khả năng bao dung giữa hai người." loading="lazy">
+ <figcaption>📊 <strong>Sơ đồ y khoa:</strong> Đường cong kích hoạt Yerkes-Dodson: Căng thẳng công việc kéo dài đẩy hệ thần kinh vượt ngưỡng hưng phấn tối ưu sang vùng kiệt sức, làm cạn kiệt khả năng bao dung giữa hai người. <a href="https://commons.wikimedia.org/wiki/File:HebbianYerkesDodson.svg" target="_blank" rel="noopener">Nguồn sơ đồ: Wikimedia Commons ↗</a></figcaption>
 </figure>
 
 ---
@@ -88,8 +88,8 @@ The neurobiology is straightforward:
 3. **Misdirected Irritability:** An innocent, minor comment from your partner is misinterpreted by an exhausted brain as a hostile threat, triggering irrational snap reactions.
 
 <figure class="article-inline-diagram">
- <img src="images/LM_HW_01_figure.png" alt="Stress curve and emotional window of tolerance diagram" loading="lazy">
- <figcaption>📊 <strong>The Shrinking Window of Tolerance:</strong> When daily wearable Stress Scores remain in orange/red zones all day, biological capacity contracts; a minor household annoyance triggers explosive reactivity. <a href="https://commons.wikimedia.org/wiki/File:Stress_curve.svg" target="_blank" rel="noopener">Diagram source: Wikimedia Commons ↗</a></figcaption>
+ <img src="images/MW_REL_04_figure.png" alt="The Yerkes-Dodson arousal curve: Excessive external stress shifts partner physiological state beyond optimal engagement into defensive reactivity." loading="lazy">
+ <figcaption>📊 <strong>Scientific Figure:</strong> The Yerkes-Dodson arousal curve: Excessive external stress shifts partner physiological state beyond optimal engagement into defensive reactivity. <a href="https://commons.wikimedia.org/wiki/File:HebbianYerkesDodson.svg" target="_blank" rel="noopener">Diagram source: Wikimedia Commons ↗</a></figcaption>
 </figure>
 
 ---

@@ -3,8 +3,8 @@
 **Screen:** Endocrine & Neuropsychology Screen 
 **Metric:** Androgen Threshold Model, Receptor Sensitivity & Central Dopamine 
 **Reading Time:** 8 phút đọc / 8 min 
-**Hero Image:** ![Ham Muốn Tình Dục & Testosterone: Điểm Khác Biệt Giữa Nhiên Liệu Sinh Học & Tâm Lý Học](images/LM_MH_03_hero.jpg) *(Source: [https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?auto=format&fit=crop&w=1200&q=85](https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?auto=format&fit=crop&w=1200&q=85))* 
-**Inline Figure:** ![Đường dẫn tín hiệu thụ thể Androgen (AR): Khi testosterone vượt ngưỡng bão hòa sinh lý (~300 ng/dL), các thụ thể tại não bộ đã được lấp đầy; việc tăng thêm hormone không làm tăng thêm ham muốn.](images/LM_MH_01_figure.jpg) *(Source: [https://commons.wikimedia.org/wiki/File:Androgen_receptor_pathway.svg](https://commons.wikimedia.org/wiki/File:Androgen_receptor_pathway.svg))* 
+**Hero Image:** ![Cấu trúc không gian thụ thể Androgen (AR): Testosterone tự do và DHT liên kết vùng gắn ligand để điều hòa phiên mã mạng lưới thần kinh chi phối ham muốn.](images/MW_SXO_03_hero.jpg) *(Source: [https://images.unsplash.com/photo-1483721310020-03333e577078?auto=format&fit=crop&w=1200&q=85](https://images.unsplash.com/photo-1483721310020-03333e577078?auto=format&fit=crop&w=1200&q=85))* 
+**Inline Figure:** ![Cấu trúc không gian thụ thể Androgen (AR): Testosterone tự do và DHT liên kết vùng gắn ligand để điều hòa phiên mã mạng lưới thần kinh chi phối ham muốn.](images/MW_SXO_03_figure.png) *(Source: [https://commons.wikimedia.org/wiki/File:Androgen_receptor.png](https://commons.wikimedia.org/wiki/File:Androgen_receptor.png))* 
 **Clinical Source:** [New England Journal of Medicine (NEJM) & European Urology](https://pubmed.ncbi.nlm.nih.gov/24024838/) 
 
 ---
@@ -30,8 +30,8 @@ Kết quả đo đạc ham muốn tình dục (Sexual Desire Score) và tần su
 Giải thích sinh học: Các thụ thể Androgen (AR) tại vùng dưới đồi và hệ viền não bộ có **ngưỡng bão hòa tối đa**. Khi nồng độ testosterone đạt khoảng 300–350 ng/dL, hơn 95% các thụ thể này đã được gắn kết đầy đủ. Việc bơm thêm hormone vào cơ thể lúc này không tạo ra thêm tín hiệu ham muốn mới tại não bộ.
 
 <figure class="article-inline-diagram">
- <img src="images/LM_MH_01_figure.jpg" alt="Sơ đồ thụ thể Androgen và ngưỡng bão hòa" loading="lazy">
- <figcaption>📊 <strong>Đường Cong Ngưỡng Bão Hòa Thụ Thể:</strong> Khi testosterone vượt ngưỡng sinh lý, hiệu ứng gia tăng ham muốn chạm trần, trong khi các thụ thể ngoại vi bắt đầu chuyển hóa thành estrogen qua men Aromatase. <a href="https://commons.wikimedia.org/wiki/File:Androgen_receptor_pathway.svg" target="_blank" rel="noopener">Nguồn sơ đồ: Wikimedia Commons ↗</a></figcaption>
+ <img src="images/MW_SXO_03_figure.png" alt="Cấu trúc không gian thụ thể Androgen (AR): Testosterone tự do và DHT liên kết vùng gắn ligand để điều hòa phiên mã mạng lưới thần kinh chi phối ham muốn." loading="lazy">
+ <figcaption>📊 <strong>Sơ đồ y khoa:</strong> Cấu trúc không gian thụ thể Androgen (AR): Testosterone tự do và DHT liên kết vùng gắn ligand để điều hòa phiên mã mạng lưới thần kinh chi phối ham muốn. <a href="https://commons.wikimedia.org/wiki/File:Androgen_receptor.png" target="_blank" rel="noopener">Nguồn sơ đồ: Wikimedia Commons ↗</a></figcaption>
 </figure>
 
 ---
@@ -91,8 +91,8 @@ In a seminal NIH-funded trial published in the **New England Journal of Medicine
 Central androgen receptors (AR) in the hypothalamus reach near-total occupancy at ~300–350 ng/dL. Once saturated, additional androgens fail to stimulate further erotic craving.
 
 <figure class="article-inline-diagram">
- <img src="images/LM_MH_01_figure.jpg" alt="Androgen receptor signaling saturation curve diagram" loading="lazy">
- <figcaption>📊 <strong>Receptor Saturation Kinetics:</strong> Beyond the physiological threshold, libido decouples from serum testosterone, while excess hormones are aromatized into estradiol. <a href="https://commons.wikimedia.org/wiki/File:Androgen_receptor_pathway.svg" target="_blank" rel="noopener">Diagram source: Wikimedia Commons ↗</a></figcaption>
+ <img src="images/MW_SXO_03_figure.png" alt="Androgen receptor (AR) molecular conformation: Androgens bind the ligand-binding domain to modulate transcription of neural target circuits." loading="lazy">
+ <figcaption>📊 <strong>Scientific Figure:</strong> Androgen receptor (AR) molecular conformation: Androgens bind the ligand-binding domain to modulate transcription of neural target circuits. <a href="https://commons.wikimedia.org/wiki/File:Androgen_receptor.png" target="_blank" rel="noopener">Diagram source: Wikimedia Commons ↗</a></figcaption>
 </figure>
 
 ---

@@ -3,8 +3,8 @@
 **Screen:** Micronutrients & Endocrine Health Screen 
 **Metric:** Leydig Cell Steroidogenesis, VDR Nuclear Receptors & Zinc Homeostasis 
 **Reading Time:** 8 phút đọc / 8 min 
-**Hero Image:** ![Kẽm & Vitamin D: Vi Chất Tối Cần Thiết Cho Tế Bào Leydig & Thụ Thể Androgen](images/DM_HW_02_hero.jpg) *(Source: [https://images.unsplash.com/photo-1584308666744-24d5c474f2ae?auto=format&fit=crop&w=1200&q=85](https://images.unsplash.com/photo-1584308666744-24d5c474f2ae?auto=format&fit=crop&w=1200&q=85))* 
-**Inline Figure:** ![Cấu trúc ngón tay Kẽm (Zinc Finger): Nguyên tử kẽm phối trí các chuỗi peptide, là cấu trúc bắt buộc để thụ thể Androgen gắn kết chính xác vào chuỗi xoắn kép DNA trong nhân tế bào.](images/LM_MH_01_figure.jpg) *(Source: [https://commons.wikimedia.org/wiki/File:Zinc_finger.png](https://commons.wikimedia.org/wiki/File:Zinc_finger.png))* 
+**Hero Image:** ![Mô hình không gian ngón tay kẽm (Zinc Finger): Ion kẽm điều phối cấu trúc không gian giúp thụ thể androgen liên kết DNA và khởi động phiên mã gen.](images/MW_NUT_05_hero.jpg) *(Source: [https://images.unsplash.com/photo-1507525428034-b723cf961d3e?auto=format&fit=crop&w=1200&q=85](https://images.unsplash.com/photo-1507525428034-b723cf961d3e?auto=format&fit=crop&w=1200&q=85))* 
+**Inline Figure:** ![Mô hình không gian ngón tay kẽm (Zinc Finger): Ion kẽm điều phối cấu trúc không gian giúp thụ thể androgen liên kết DNA và khởi động phiên mã gen.](images/MW_NUT_05_figure.png) *(Source: [https://commons.wikimedia.org/wiki/File:Zinc_finger_rendered.png](https://commons.wikimedia.org/wiki/File:Zinc_finger_rendered.png))* 
 **Clinical Source:** [Nutrition & Hormone and Metabolic Research](https://pubmed.ncbi.nlm.nih.gov/8875519/) 
 
 ---
@@ -28,8 +28,8 @@ Tại sao kẽm lại có sức mạnh khủng khiếp như vậy?
 - **Cấu Trúc Ngón Tay Kẽm (Zinc Finger Motifs):** Để phân tử Testosterone sau khi gắn vào thụ thể Androgen có thể đi vào nhân tế bào và kích hoạt gen phát triển cơ bắp, nó bắt buộc phải dựa vào cấu trúc gập protein đặc biệt được cố định bởi nguyên tử Kẽm. Thiếu kẽm, thụ thể androgen trở nên "mù điếc" trước tín hiệu hormone.
 
 <figure class="article-inline-diagram">
- <img src="images/LM_MH_01_figure.jpg" alt="Sơ đồ cấu trúc ngón tay kẽm và thụ thể Androgen" loading="lazy">
- <figcaption>📊 <strong>Cấu Trúc Ngón Tay Kẽm (Zinc Finger Motif):</strong> Không có đủ kẽm, các thụ thể androgen không thể bám vào chuỗi DNA để truyền tín hiệu đồng hóa cơ bắp và duy trì sinh lực. <a href="https://commons.wikimedia.org/wiki/File:Zinc_finger.png" target="_blank" rel="noopener">Nguồn sơ đồ: Wikimedia Commons ↗</a></figcaption>
+ <img src="images/MW_NUT_05_figure.png" alt="Mô hình không gian ngón tay kẽm (Zinc Finger): Ion kẽm điều phối cấu trúc không gian giúp thụ thể androgen liên kết DNA và khởi động phiên mã gen." loading="lazy">
+ <figcaption>📊 <strong>Sơ đồ y khoa:</strong> Mô hình không gian ngón tay kẽm (Zinc Finger): Ion kẽm điều phối cấu trúc không gian giúp thụ thể androgen liên kết DNA và khởi động phiên mã gen. <a href="https://commons.wikimedia.org/wiki/File:Zinc_finger_rendered.png" target="_blank" rel="noopener">Nguồn sơ đồ: Wikimedia Commons ↗</a></figcaption>
 </figure>
 
 ---
@@ -90,8 +90,8 @@ Why is zinc so biochemically indispensable?
 - **Zinc Finger Motifs:** For testosterone to bind and activate androgen receptors within the cell nucleus, the receptor must fold around structural zinc ions. Without zinc, androgen receptors become functionally deaf to circulating hormones.
 
 <figure class="article-inline-diagram">
- <img src="images/LM_MH_01_figure.jpg" alt="Zinc finger motif and androgen receptor diagram" loading="lazy">
- <figcaption>📊 <strong>The Zinc Finger Structural Motif:</strong> Zinc ions coordinate structural folding in androgen receptor DNA-binding domains; deficiency breaks nuclear gene transcription for muscle protein synthesis. <a href="https://commons.wikimedia.org/wiki/File:Zinc_finger.png" target="_blank" rel="noopener">Diagram source: Wikimedia Commons ↗</a></figcaption>
+ <img src="images/MW_NUT_05_figure.png" alt="Rendered zinc finger protein domain: Zinc coordination enables androgen receptor DNA binding and target gene activation." loading="lazy">
+ <figcaption>📊 <strong>Scientific Figure:</strong> Rendered zinc finger protein domain: Zinc coordination enables androgen receptor DNA binding and target gene activation. <a href="https://commons.wikimedia.org/wiki/File:Zinc_finger_rendered.png" target="_blank" rel="noopener">Diagram source: Wikimedia Commons ↗</a></figcaption>
 </figure>
 
 ---

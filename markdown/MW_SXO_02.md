@@ -3,8 +3,8 @@
 **Screen:** Erectile Function & Hemodynamics Screen 
 **Metric:** Pelvic Splanchnic Nerve Discharge, NO/cGMP Cascade & Venous Occlusion 
 **Reading Time:** 8 phút đọc / 8 min 
-**Hero Image:** ![Sinh Lý Học Của Sự Hưng Phấn: Dòng Thác Thần Kinh - Mạch Máu Từ Não Bộ Đến Thể Hang](images/DM_MH_02_hero.jpg) *(Source: [https://images.unsplash.com/photo-1576091160399-112ba8d25d1d?auto=format&fit=crop&w=1200&q=85](https://images.unsplash.com/photo-1576091160399-112ba8d25d1d?auto=format&fit=crop&w=1200&q=85))* 
-**Inline Figure:** ![Cơ chế sinh lý học cương cứng: Dây thần kinh chậu giải phóng Nitric Oxide, kích hoạt cGMP làm giãn cơ trơn thể hang và chèn ép tĩnh mạch dưới màng trắng.](images/DM_MH_01_figure.png) *(Source: [https://commons.wikimedia.org/wiki/File:Erection_mechanism.svg](https://commons.wikimedia.org/wiki/File:Erection_mechanism.svg))* 
+**Hero Image:** ![Dòng thác phân tử giãn mạch qua cGMP: Nitric oxide kích hoạt enzyme guanylyl cyclase chuyển GTP thành cGMP gây giãn cơ trơn mạch máu thể hang để tạo cương cứng.](images/MW_SXO_02_hero.jpg) *(Source: [https://images.unsplash.com/photo-1517931524326-bdd55a541177?auto=format&fit=crop&w=1200&q=85](https://images.unsplash.com/photo-1517931524326-bdd55a541177?auto=format&fit=crop&w=1200&q=85))* 
+**Inline Figure:** ![Dòng thác phân tử giãn mạch qua cGMP: Nitric oxide kích hoạt enzyme guanylyl cyclase chuyển GTP thành cGMP gây giãn cơ trơn mạch máu thể hang để tạo cương cứng.](images/MW_SXO_02_figure.png) *(Source: [https://commons.wikimedia.org/wiki/File:Molecular_pathway_of_vasodilation_mediated_by_cGMP.jpg](https://commons.wikimedia.org/wiki/File:Molecular_pathway_of_vasodilation_mediated_by_cGMP.jpg))* 
 **Clinical Source:** [New England Journal of Medicine (NEJM) & Pharmacological Reviews](https://pubmed.ncbi.nlm.nih.gov/10853004/) 
 
 ---
@@ -27,8 +27,8 @@ Công trình kinh điển của **Giáo sư Tom F. Lue (New England Journal of M
 4. **Giai Đoạn Khóa Tĩnh Mạch (Venocclusion - The Hydraulic Lock):** Khi các khoang thể hang căng đầy máu, chúng ép chặt các tiểu tĩnh mạch nằm sát dưới lớp màng bao xơ dày (**Tunica Albuginea - Màng trắng**). Hiện tượng này khóa chặt đường máu thoát về tim, duy trì áp lực nội thể hang lên tới **100–120 mmHg** (tương đương huyết áp tâm thu), tạo nên độ cứng hoàn hảo để quan hệ.
 
 <figure class="article-inline-diagram">
- <img src="images/DM_MH_01_figure.png" alt="Sơ đồ giải phẫu thể hang và cơ chế khóa tĩnh mạch" loading="lazy">
- <figcaption>📊 <strong>Giải Phẫu Học Thể Hang:</strong> Cơ chế khóa tĩnh mạch (Veno-occlusive mechanism) dựa vào độ đàn hồi của màng trắng; nếu cơ trơn không giãn đủ, van khóa sẽ rò rỉ máu khiến độ cương bị xìu nhanh chóng. <a href="https://commons.wikimedia.org/wiki/File:Erection_mechanism.svg" target="_blank" rel="noopener">Nguồn sơ đồ: Wikimedia Commons ↗</a></figcaption>
+ <img src="images/MW_SXO_02_figure.png" alt="Dòng thác phân tử giãn mạch qua cGMP: Nitric oxide kích hoạt enzyme guanylyl cyclase chuyển GTP thành cGMP gây giãn cơ trơn mạch máu thể hang để tạo cương cứng." loading="lazy">
+ <figcaption>📊 <strong>Sơ đồ y khoa:</strong> Dòng thác phân tử giãn mạch qua cGMP: Nitric oxide kích hoạt enzyme guanylyl cyclase chuyển GTP thành cGMP gây giãn cơ trơn mạch máu thể hang để tạo cương cứng. <a href="https://commons.wikimedia.org/wiki/File:Molecular_pathway_of_vasodilation_mediated_by_cGMP.jpg" target="_blank" rel="noopener">Nguồn sơ đồ: Wikimedia Commons ↗</a></figcaption>
 </figure>
 
 ---
@@ -91,8 +91,8 @@ Seminal work by **Dr. Tom F. Lue (New England Journal of Medicine)** separated t
 4. **Venocclusion (The Hydraulic Lock):** Engorging sinusoids compress the subtunical venular plexus against the rigid outer collagen sleeve (**Tunica Albuginea**), trapping blood and elevating intracavernosal pressure to **100–120 mmHg** (matching systolic pressure).
 
 <figure class="article-inline-diagram">
- <img src="images/DM_MH_01_figure.png" alt="Erection hemodynamics and veno-occlusion diagram" loading="lazy">
- <figcaption>📊 <strong>Veno-Occlusive Anatomy:</strong> Rigidity depends on complete sinusoidal expansion compressing venules against the tunica; incomplete smooth muscle relaxation allows blood leakage, collapsing hardness. <a href="https://commons.wikimedia.org/wiki/File:Erection_mechanism.svg" target="_blank" rel="noopener">Diagram source: Wikimedia Commons ↗</a></figcaption>
+ <img src="images/MW_SXO_02_figure.png" alt="Molecular pathway of vasodilation mediated by cGMP: Nitric oxide activates soluble guanylyl cyclase to produce cGMP, relaxing vascular smooth muscle." loading="lazy">
+ <figcaption>📊 <strong>Scientific Figure:</strong> Molecular pathway of vasodilation mediated by cGMP: Nitric oxide activates soluble guanylyl cyclase to produce cGMP, relaxing vascular smooth muscle. <a href="https://commons.wikimedia.org/wiki/File:Molecular_pathway_of_vasodilation_mediated_by_cGMP.jpg" target="_blank" rel="noopener">Diagram source: Wikimedia Commons ↗</a></figcaption>
 </figure>
 
 ---

@@ -3,8 +3,8 @@
 **Screen:** Sleep & Recovery Analytics Screen 
 **Metric:** Overnight RHR, Sleep Architecture (REM Suppression) & Recovery Score 
 **Reading Time:** 8 phút đọc / 8 min 
-**Hero Image:** ![Rượu Bia Tàn Phá Phục Hồi Thế Nào? Cơ Chế Ức Chế Hormone T & Đứt Gãy Giấc Ngủ REM](images/DM_SL_02_hero.jpg) *(Source: [https://images.unsplash.com/photo-1510812431401-41d2bd2722f3?auto=format&fit=crop&w=1200&q=85](https://images.unsplash.com/photo-1510812431401-41d2bd2722f3?auto=format&fit=crop&w=1200&q=85))* 
-**Inline Figure:** ![Biến thiên nhịp tim (HRV) và dẫn truyền tim mạch: Cồn kích hoạt hệ thần kinh giao cảm suốt đêm, làm nhịp tim nghỉ ngơi tăng vọt và làm phẳng các khoảng biến thiên R-R trên điện tâm đồ.](images/LM_RC_01_figure.png) *(Source: [https://commons.wikimedia.org/wiki/File:ECG_Principle_fast.svg](https://commons.wikimedia.org/wiki/File:ECG_Principle_fast.svg))* 
+**Hero Image:** ![Con đường chuyển hóa Ethanol qua gan: Quá trình phân giải rượu sinh ra các gốc oxy hóa gây ức chế cấp tính tế bào Leydig sản xuất testosterone.](images/MW_NUT_04_hero.jpg) *(Source: [https://images.unsplash.com/photo-1551024709-8f23befc6f87?auto=format&fit=crop&w=1200&q=85](https://images.unsplash.com/photo-1551024709-8f23befc6f87?auto=format&fit=crop&w=1200&q=85))* 
+**Inline Figure:** ![Con đường chuyển hóa Ethanol qua gan: Quá trình phân giải rượu sinh ra các gốc oxy hóa gây ức chế cấp tính tế bào Leydig sản xuất testosterone.](images/MW_NUT_04_figure.png) *(Source: [https://commons.wikimedia.org/wiki/File:Ethanol_metabolism.png](https://commons.wikimedia.org/wiki/File:Ethanol_metabolism.png))* 
 **Clinical Source:** [Alcoholism: Clinical and Experimental Research & Sports Medicine](https://pubmed.ncbi.nlm.nih.gov/24533518/) 
 
 ---
@@ -27,8 +27,8 @@ Nhiều người lầm tưởng rượu bia chỉ ảnh hưởng đến gan và 
 Nghiên cứu lâm sàng (**Vingren et al., Sports Medicine**) cho thấy việc tiêu thụ lượng cồn tương đương 1.5g/kg thể trọng (khoảng 4–5 ly bia) sau tập luyện làm **sụt giảm nồng độ Testosterone từ 20% đến 40%** kéo dài suốt 24 giờ tiếp theo.
 
 <figure class="article-inline-diagram">
- <img src="images/LM_RC_01_figure.png" alt="Sơ đồ điện tâm đồ và biến thiên nhịp tim" loading="lazy">
- <figcaption>📊 <strong>Sự Sụt Giảm Đột Ngột Của HRV Sau Khi Uống Rượu:</strong> Gan phải làm việc cật lực để oxy hóa cồn, giữ cơ thể ở trạng thái căng thẳng giao cảm; nhịp tim nghỉ ngơi ban đêm tăng vọt từ 8–15 bpm. <a href="https://commons.wikimedia.org/wiki/File:ECG_Principle_fast.svg" target="_blank" rel="noopener">Nguồn sơ đồ: Wikimedia Commons ↗</a></figcaption>
+ <img src="images/MW_NUT_04_figure.png" alt="Con đường chuyển hóa Ethanol qua gan: Quá trình phân giải rượu sinh ra các gốc oxy hóa gây ức chế cấp tính tế bào Leydig sản xuất testosterone." loading="lazy">
+ <figcaption>📊 <strong>Sơ đồ y khoa:</strong> Con đường chuyển hóa Ethanol qua gan: Quá trình phân giải rượu sinh ra các gốc oxy hóa gây ức chế cấp tính tế bào Leydig sản xuất testosterone. <a href="https://commons.wikimedia.org/wiki/File:Ethanol_metabolism.png" target="_blank" rel="noopener">Nguồn sơ đồ: Wikimedia Commons ↗</a></figcaption>
 </figure>
 
 ---
@@ -89,8 +89,8 @@ Alcohol is frequently mischaracterized as merely a liver and gastrointestinal bu
 Clinical trials (**Vingren et al., Sports Medicine**) show that consuming 1.5g alcohol/kg (~4–5 beers) post-workout **slashes serum testosterone by 20% to 40%** over the subsequent 24 hours.
 
 <figure class="article-inline-diagram">
- <img src="images/LM_RC_01_figure.png" alt="ECG rhythm and autonomic HRV suppression diagram" loading="lazy">
- <figcaption>📊 <strong>Catastrophic Post-Alcohol HRV Collapse:</strong> As the liver metabolizes ethanol overnight, sympathetic hyperarousal spikes resting heart rate by 8–15 bpm and crushes parasympathetic vagal tone. <a href="https://commons.wikimedia.org/wiki/File:ECG_Principle_fast.svg" target="_blank" rel="noopener">Diagram source: Wikimedia Commons ↗</a></figcaption>
+ <img src="images/MW_NUT_04_figure.png" alt="Ethanol metabolic pathway: Alcohol breakdown by alcohol dehydrogenase creates metabolic byproducts that acutely suppress Leydig cell steroidogenesis." loading="lazy">
+ <figcaption>📊 <strong>Scientific Figure:</strong> Ethanol metabolic pathway: Alcohol breakdown by alcohol dehydrogenase creates metabolic byproducts that acutely suppress Leydig cell steroidogenesis. <a href="https://commons.wikimedia.org/wiki/File:Ethanol_metabolism.png" target="_blank" rel="noopener">Diagram source: Wikimedia Commons ↗</a></figcaption>
 </figure>
 
 ---

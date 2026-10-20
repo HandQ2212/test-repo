@@ -3,8 +3,8 @@
 **Screen:** Hormone & Endocrine Profile Screen 
 **Metric:** Circadian Diurnal Testosterone Curve, Free vs Total T & SHBG 
 **Reading Time:** 8 phút đọc / 8 min 
-**Hero Image:** ![Nồng Độ Testosterone Chuẩn Là Bao Nhiêu? Hiểu Về Dao Động Sinh Học 24 Giờ & Chỉ Số Free T](images/LM_MH_01_hero.jpg) *(Source: [https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?auto=format&fit=crop&w=1200&q=85](https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?auto=format&fit=crop&w=1200&q=85))* 
-**Inline Figure:** ![Đường cong nhịp sinh học nội tiết 24 giờ: Nồng độ testosterone ở nam giới đạt đỉnh cao nhất vào sáng sớm (07:00–09:00) và hạ dần về mức đáy vào lúc 20:00 tối.](images/DM_SL_02_figure.png) *(Source: [https://commons.wikimedia.org/wiki/File:Biological_clock_human.svg](https://commons.wikimedia.org/wiki/File:Biological_clock_human.svg))* 
+**Hero Image:** ![Đồng hồ sinh học 24 giờ ở người: Nồng độ testosterone huyết thanh biến thiên theo nhịp sinh học ngày đêm, đạt nồng độ đỉnh vào 7:00 - 9:00 sáng.](images/MW_SXH_01_hero.jpg) *(Source: [https://images.unsplash.com/photo-1495344517868-8ebaf0a2044a?auto=format&fit=crop&w=1200&q=85](https://images.unsplash.com/photo-1495344517868-8ebaf0a2044a?auto=format&fit=crop&w=1200&q=85))* 
+**Inline Figure:** ![Đồng hồ sinh học 24 giờ ở người: Nồng độ testosterone huyết thanh biến thiên theo nhịp sinh học ngày đêm, đạt nồng độ đỉnh vào 7:00 - 9:00 sáng.](images/MW_SXH_01_figure.png) *(Source: [https://commons.wikimedia.org/wiki/File:Biological_clock_human.svg](https://commons.wikimedia.org/wiki/File:Biological_clock_human.svg))* 
 **Clinical Source:** [Journal of Clinical Endocrinology & Metabolism (JCEM / Endocrine Society)](https://pubmed.ncbi.nlm.nih.gov/29562364/) 
 
 ---
@@ -26,8 +26,8 @@ Testosterone ở nam giới không phải là một hằng số bất biến. C�
 Chính vì lý do này, hướng dẫn thực hành lâm sàng quốc tế (**Bhasin et al., JCEM**) quy định: **Mọi xét nghiệm chẩn đoán Testosterone đều phải được lấy mẫu máu vào buổi sáng (trước 10:00 AM) sau một giấc ngủ ngon tối thiểu 7 tiếng**. Đo testosterone vào buổi chiều sẽ dẫn đến kết luận chẩn đoán sai lệch về bệnh suy sinh dục!
 
 <figure class="article-inline-diagram">
- <img src="images/DM_SL_02_figure.png" alt="Sơ đồ nhịp sinh học hormone 24 giờ" loading="lazy">
- <figcaption>📊 <strong>Động Học Testosterone 24 Giờ:</strong> Đỉnh nội tiết buổi sáng là lý do sinh lý giải thích vì sao nam giới thường cảm thấy tràn đầy sinh lực và có hiện tượng cương cứng tự nhiên khi thức dậy. <a href="https://commons.wikimedia.org/wiki/File:Biological_clock_human.svg" target="_blank" rel="noopener">Nguồn sơ đồ: Wikimedia Commons ↗</a></figcaption>
+ <img src="images/MW_SXH_01_figure.png" alt="Đồng hồ sinh học 24 giờ ở người: Nồng độ testosterone huyết thanh biến thiên theo nhịp sinh học ngày đêm, đạt nồng độ đỉnh vào 7:00 - 9:00 sáng." loading="lazy">
+ <figcaption>📊 <strong>Sơ đồ y khoa:</strong> Đồng hồ sinh học 24 giờ ở người: Nồng độ testosterone huyết thanh biến thiên theo nhịp sinh học ngày đêm, đạt nồng độ đỉnh vào 7:00 - 9:00 sáng. <a href="https://commons.wikimedia.org/wiki/File:Biological_clock_human.svg" target="_blank" rel="noopener">Nguồn sơ đồ: Wikimedia Commons ↗</a></figcaption>
 </figure>
 
 ---
@@ -91,8 +91,8 @@ Male testosterone is not a static constant. The human body synthesizes androgens
 Consequently, international clinical guidelines (**Bhasin et al., JCEM**) mandate: **All diagnostic testosterone evaluations must be drawn early in the morning (strictly before 10:00 AM) after a minimum of 7 hours of restorative sleep**. An afternoon blood draw produces a falsely depressed value that can lead to misdiagnosed hypogonadism!
 
 <figure class="article-inline-diagram">
- <img src="images/DM_SL_02_figure.png" alt="24-hour circadian hormone rhythm diagram" loading="lazy">
- <figcaption>📊 <strong>Circadian Androgen Dynamics:</strong> The morning endocrine surge provides the biological explanation for peak morning alertness, vigor, and spontaneous nocturnal erections. <a href="https://commons.wikimedia.org/wiki/File:Biological_clock_human.svg" target="_blank" rel="noopener">Diagram source: Wikimedia Commons ↗</a></figcaption>
+ <img src="images/MW_SXH_01_figure.png" alt="Human circadian biological clock: Serum testosterone follows a circadian diurnal cycle, reaching physiological peak levels between 7:00 AM and 9:00 AM." loading="lazy">
+ <figcaption>📊 <strong>Scientific Figure:</strong> Human circadian biological clock: Serum testosterone follows a circadian diurnal cycle, reaching physiological peak levels between 7:00 AM and 9:00 AM. <a href="https://commons.wikimedia.org/wiki/File:Biological_clock_human.svg" target="_blank" rel="noopener">Diagram source: Wikimedia Commons ↗</a></figcaption>
 </figure>
 
 ---

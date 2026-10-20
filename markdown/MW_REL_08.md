@@ -3,8 +3,8 @@
 **Screen:** Sleep Analytics & Interpersonal Dynamics Screen 
 **Metric:** Sleep Debt Spillover, Empathy Circuitry & Conflict Escalation 
 **Reading Time:** 8 phút đọc / 8 min 
-**Hero Image:** ![Giấc Ngủ & Hạnh Phúc Lứa Đôi: Thiếu Ngủ Làm Giảm Sự Thấu Cảm & Tăng Xung Đột Thế Nào?](images/DM_SL_02_hero.jpg) *(Source: [https://images.unsplash.com/photo-1541781774459-bb2af2f05b55?auto=format&fit=crop&w=1200&q=85](https://images.unsplash.com/photo-1541781774459-bb2af2f05b55?auto=format&fit=crop&w=1200&q=85))* 
-**Inline Figure:** ![Cấu trúc giấc ngủ và sự điều hòa cảm xúc thùy trán: Mất ngủ làm suy yếu kết nối ức chế giữa vỏ não trước trán (mPFC) và hạch hạnh nhân, làm gia tăng xung đột cặp đôi lên gấp đôi.](images/LM_SL_01_figure.jpg) *(Source: [https://commons.wikimedia.org/wiki/File:Sleep_Hypnogram.svg](https://commons.wikimedia.org/wiki/File:Sleep_Hypnogram.svg))* 
+**Hero Image:** ![Giải phẫu chức năng não bộ: Thiếu ngủ làm mất kết nối ức chế giữa thùy trán và hạch hạnh nhân, khiến phản xạ tự vệ bùng phát và nhân đôi nguy cơ xung đột vợ chồng.](images/MW_REL_08_hero.jpg) *(Source: [https://images.unsplash.com/photo-1505691938895-1758d7feb511?auto=format&fit=crop&w=1200&q=85](https://images.unsplash.com/photo-1505691938895-1758d7feb511?auto=format&fit=crop&w=1200&q=85))* 
+**Inline Figure:** ![Giải phẫu chức năng não bộ: Thiếu ngủ làm mất kết nối ức chế giữa thùy trán và hạch hạnh nhân, khiến phản xạ tự vệ bùng phát và nhân đôi nguy cơ xung đột vợ chồng.](images/MW_REL_08_figure.png) *(Source: [https://commons.wikimedia.org/wiki/File:Brain_anatomy.svg](https://commons.wikimedia.org/wiki/File:Brain_anatomy.svg))* 
 **Clinical Source:** [Social Psychological and Personality Science & Sleep Medicine Reviews](https://pubmed.ncbi.nlm.nih.gov/24838689/) 
 
 ---
@@ -25,8 +25,8 @@ Trong một nghiên cứu tâm lý học - sinh học thần kinh được tríc
 - **Mất Khả Năng Thấu Cảm (Empathic Inaccuracy):** Người thiếu ngủ bị suy giảm nghiêm trọng khả năng đọc chính xác biểu cảm vi mô trên gương mặt của bạn đời. Khi đối phương thể hiện vẻ mặt mệt mỏi hoặc trầm tư, người thiếu ngủ thường diễn giải sai lệch thành: *"Cô ấy đang khinh thường mình"* hoặc *"Anh ta đang chống đối mình"*.
 
 <figure class="article-inline-diagram">
- <img src="images/LM_SL_01_figure.jpg" alt="Sơ đồ mạch thần kinh thùy trán và hạch hạnh nhân khi thiếu ngủ" loading="lazy">
- <figcaption>📊 <strong>Đứt Gãy Kết Nối Thần Kinh (Fronto-Amygdalar Decoupling):</strong> Khi thiếu ngủ, hạch hạnh nhân (trung tâm cảm xúc nguyên thủy) hoạt động quá mức 60%, trong khi vỏ não trước trán mất hoàn toàn khả năng phanh hãm lý trí. <a href="https://commons.wikimedia.org/wiki/File:Sleep_Hypnogram.svg" target="_blank" rel="noopener">Nguồn sơ đồ: Wikimedia Commons ↗</a></figcaption>
+ <img src="images/MW_REL_08_figure.png" alt="Giải phẫu chức năng não bộ: Thiếu ngủ làm mất kết nối ức chế giữa thùy trán và hạch hạnh nhân, khiến phản xạ tự vệ bùng phát và nhân đôi nguy cơ xung đột vợ chồng." loading="lazy">
+ <figcaption>📊 <strong>Sơ đồ y khoa:</strong> Giải phẫu chức năng não bộ: Thiếu ngủ làm mất kết nối ức chế giữa thùy trán và hạch hạnh nhân, khiến phản xạ tự vệ bùng phát và nhân đôi nguy cơ xung đột vợ chồng. <a href="https://commons.wikimedia.org/wiki/File:Brain_anatomy.svg" target="_blank" rel="noopener">Nguồn sơ đồ: Wikimedia Commons ↗</a></figcaption>
 </figure>
 
 ---
@@ -84,8 +84,8 @@ In an influential neuro-behavioral study by **Gordon & Chen (Social Psychologica
 - **Empathic Inaccuracy:** Sleep debt severely impairs facial micro-expression recognition. Sleep-deprived partners systematically misinterpret neutral facial expressions as hostile, condescending, or rebellious threats.
 
 <figure class="article-inline-diagram">
- <img src="images/LM_SL_01_figure.png" alt="Fronto-amygdalar decoupling under sleep deprivation diagram" loading="lazy">
- <figcaption>📊 <strong>Fronto-Amygdalar Disconnect:</strong> Sleep deprivation triggers a 60% hyper-reactivity surge in the primitive amygdala while severing inhibitory prefrontal emotional governance. <a href="https://commons.wikimedia.org/wiki/File:Sleep_Hypnogram.svg" target="_blank" rel="noopener">Diagram source: Wikimedia Commons ↗</a></figcaption>
+ <img src="images/MW_REL_08_figure.png" alt="Functional brain regions: Sleep deprivation uncouples top-down prefrontal inhibition of the amygdala, elevating perceived interpersonal threat and hostility." loading="lazy">
+ <figcaption>📊 <strong>Scientific Figure:</strong> Functional brain regions: Sleep deprivation uncouples top-down prefrontal inhibition of the amygdala, elevating perceived interpersonal threat and hostility. <a href="https://commons.wikimedia.org/wiki/File:Brain_anatomy.svg" target="_blank" rel="noopener">Diagram source: Wikimedia Commons ↗</a></figcaption>
 </figure>
 
 ---

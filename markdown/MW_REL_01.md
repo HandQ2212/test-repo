@@ -3,8 +3,8 @@
 **Screen:** Relationship & Stress Screen 
 **Metric:** Autonomic Safety, Polyvagal Tone & Gottman 5:1 Ratio 
 **Reading Time:** 8 phút đọc / 8 min 
-**Hero Image:** ![Nghệ Thuật Giao Tiếp Cặp Đôi: Giải Mã Tỷ Lệ Vàng 5:1 & Cơ Chế An Toàn Sinh Học Thần Kinh](images/DM_HW_01_hero.jpg) *(Source: [https://images.unsplash.com/photo-1516589178581-6cd7833ae3b2?auto=format&fit=crop&w=1200&q=85](https://images.unsplash.com/photo-1516589178581-6cd7833ae3b2?auto=format&fit=crop&w=1200&q=85))* 
-**Inline Figure:** ![Thần kinh tự chủ và sự gắn kết xã hội: Nhánh phó giao cảm mặt bụng (Ventral Vagal) điều khiển biểu cảm gương mặt, giọng nói và tạo ra cảm giác an toàn sinh học.](images/LM_HW_01_figure.png) *(Source: [https://commons.wikimedia.org/wiki/File:Autonomic_Nervous_System.svg](https://commons.wikimedia.org/wiki/File:Autonomic_Nervous_System.svg))* 
+**Hero Image:** ![Hệ thần kinh tự chủ ở người: Giao tiếp tôn trọng và giọng điệu êm dịu kích hoạt nhánh phó giao cảm dây thần kinh X, mang lại trạng thái an toàn sinh học giữa hai người.](images/MW_REL_01_hero.jpg) *(Source: [https://images.unsplash.com/photo-1522071820081-009f0129c71c?auto=format&fit=crop&w=1200&q=85](https://images.unsplash.com/photo-1522071820081-009f0129c71c?auto=format&fit=crop&w=1200&q=85))* 
+**Inline Figure:** ![Hệ thần kinh tự chủ ở người: Giao tiếp tôn trọng và giọng điệu êm dịu kích hoạt nhánh phó giao cảm dây thần kinh X, mang lại trạng thái an toàn sinh học giữa hai người.](images/MW_REL_01_figure.png) *(Source: [https://commons.wikimedia.org/wiki/File:The_Autonomic_Nervous_System.png](https://commons.wikimedia.org/wiki/File:The_Autonomic_Nervous_System.png))* 
 **Clinical Source:** [Journal of Marriage and Family (Gottman Institute) & Frontiers in Psychology](https://pmc.ncbi.nlm.nih.gov/articles/PMC9153093/) 
 
 ---
@@ -25,8 +25,8 @@ Tại Viện Nghiên cứu Gottman (Seattle), các nhà tâm lý học đã gắ
 - Ngược lại, ở những cặp đôi **tiến dần đến bờ vực tan vỡ**: Tỷ lệ này tụt xuống mức **0.8 : 1**—nghĩa là số lượng lời chỉ trích, miệt thị nhiều hơn cả những cử chỉ yêu thương.
 
 <figure class="article-inline-diagram">
- <img src="images/LM_HW_01_figure.png" alt="Sơ đồ tương tác thần kinh giao cảm và gắn kết" loading="lazy">
- <figcaption>📊 <strong>Hiện Tượng Ngập Lụt Cảm Xúc (Flooding):</strong> Khi nhịp tim vượt ngưỡng 100 bpm, vỏ não trước trán bị phong tỏa, nhường quyền kiểm soát cho phản ứng chiến đấu của hạch hạnh nhân. <a href="https://commons.wikimedia.org/wiki/File:Autonomic_Nervous_System.svg" target="_blank" rel="noopener">Nguồn sơ đồ: Wikimedia Commons ↗</a></figcaption>
+ <img src="images/MW_REL_01_figure.png" alt="Hệ thần kinh tự chủ ở người: Giao tiếp tôn trọng và giọng điệu êm dịu kích hoạt nhánh phó giao cảm dây thần kinh X, mang lại trạng thái an toàn sinh học giữa hai người." loading="lazy">
+ <figcaption>📊 <strong>Sơ đồ y khoa:</strong> Hệ thần kinh tự chủ ở người: Giao tiếp tôn trọng và giọng điệu êm dịu kích hoạt nhánh phó giao cảm dây thần kinh X, mang lại trạng thái an toàn sinh học giữa hai người. <a href="https://commons.wikimedia.org/wiki/File:The_Autonomic_Nervous_System.png" target="_blank" rel="noopener">Nguồn sơ đồ: Wikimedia Commons ↗</a></figcaption>
 </figure>
 
 ---
@@ -86,8 +86,8 @@ At the Gottman Institute in Seattle, psychologists wired couples to heart monito
 - In **couples heading toward divorce**: The ratio drops to **0.8 : 1**—meaning critical, contemptuous exchanges actively outnumber moments of kindness.
 
 <figure class="article-inline-diagram">
- <img src="images/LM_HW_01_figure.png" alt="Autonomic nervous system and social engagement diagram" loading="lazy">
- <figcaption>📊 <strong>Physiological Flooding Mechanics:</strong> When heart rate surpasses 100 bpm during conflict, prefrontal empathy decouples, surrendering behavioral control to the primal amygdala. <a href="https://commons.wikimedia.org/wiki/File:Autonomic_Nervous_System.svg" target="_blank" rel="noopener">Diagram source: Wikimedia Commons ↗</a></figcaption>
+ <img src="images/MW_REL_01_figure.png" alt="The human Autonomic Nervous System: Calming communication cues activate parasympathetic vagal pathways, establishing physiological safety during partner interactions." loading="lazy">
+ <figcaption>📊 <strong>Scientific Figure:</strong> The human Autonomic Nervous System: Calming communication cues activate parasympathetic vagal pathways, establishing physiological safety during partner interactions. <a href="https://commons.wikimedia.org/wiki/File:The_Autonomic_Nervous_System.png" target="_blank" rel="noopener">Diagram source: Wikimedia Commons ↗</a></figcaption>
 </figure>
 
 ---

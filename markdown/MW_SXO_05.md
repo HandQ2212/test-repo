@@ -3,8 +3,8 @@
 **Screen:** Sexology & Autonomic Reflex Screen 
 **Metric:** Spinal Ejaculatory Generator, Prolactin Surge & Refractory Period 
 **Reading Time:** 8 phút đọc / 8 min 
-**Hero Image:** ![Khoa Học Cực Khoái & Xuất Tinh: Hai Cơ Chế Thần Kinh Riêng Biệt & Thời Kỳ Trơ Sinh Lý](images/DM_MH_01_hero.jpg) *(Source: [https://images.unsplash.com/photo-1517838277536-f5f99be501cd?auto=format&fit=crop&w=1200&q=85](https://images.unsplash.com/photo-1517838277536-f5f99be501cd?auto=format&fit=crop&w=1200&q=85))* 
-**Inline Figure:** ![Cung phản xạ xuất tinh và cơ sàn chậu: Các co bóp nhịp nhàng của cơ hành hang (Bulbospongiosus) cách nhau 0.8 giây tống xuất tinh dịch, trong khi khoái cảm cực khoái được giải mã tại vùng dưới đồi não bộ.](images/DM_MH_01_figure.png) *(Source: [https://commons.wikimedia.org/wiki/File:Pelvic_floor_male.svg](https://commons.wikimedia.org/wiki/File:Pelvic_floor_male.svg))* 
+**Hero Image:** ![Các cơ nông đáy chậu nam giới (OpenStax): Sự co bóp nhịp nhàng của cơ hành hang (Bulbospongiosus) và cơ ngồi hang tống xuất tinh dịch trong cực khoái.](images/MW_SXO_05_hero.jpg) *(Source: [https://images.unsplash.com/photo-1530549387789-4c1017266635?auto=format&fit=crop&w=1200&q=85](https://images.unsplash.com/photo-1530549387789-4c1017266635?auto=format&fit=crop&w=1200&q=85))* 
+**Inline Figure:** ![Các cơ nông đáy chậu nam giới (OpenStax): Sự co bóp nhịp nhàng của cơ hành hang (Bulbospongiosus) và cơ ngồi hang tống xuất tinh dịch trong cực khoái.](images/MW_SXO_05_figure.png) *(Source: [https://commons.wikimedia.org/wiki/File:1116_Muscle_of_the_Male_Perineum.png](https://commons.wikimedia.org/wiki/File:1116_Muscle_of_the_Male_Perineum.png))* 
 **Clinical Source:** [Neuroscience & Biobehavioral Reviews & World Journal of Urology](https://pubmed.ncbi.nlm.nih.gov/12470685/) 
 
 ---
@@ -25,8 +25,8 @@ Trong thực tế y khoa, hai hiện tượng này hoàn toàn có thể xảy r
 - *Bằng chứng lâm sàng:* Những bệnh nhân bị tổn thương tủy sống hoặc sau phẫu thuật cắt bỏ tuyến tiền liệt vẫn có thể đạt được cảm giác cực khoái trọn vẹn trong não bộ dù **hoàn toàn không có một giọt tinh dịch nào được phóng ra (Cực khoái khô - Dry Orgasm)**. Ngược lại, một số phản xạ xuất tinh bệnh lý có thể xảy ra mà không hề đem lại bất kỳ khoái cảm nào.
 
 <figure class="article-inline-diagram">
- <img src="images/DM_MH_01_figure.png" alt="Sơ đồ cơ sàn chậu và cơ chế xuất tinh" loading="lazy">
- <figcaption>📊 <strong>Giải Phẫu Vận Động Của Sự Xuất Tinh:</strong> Các đợt co bóp nhịp nhàng của cơ hành hang (Bulbospongiosus) và cơ ngồi hang tạo ra áp lực thủy lực tống tinh dịch ra khỏi niệu đạo. <a href="https://commons.wikimedia.org/wiki/File:Pelvic_floor_male.svg" target="_blank" rel="noopener">Nguồn sơ đồ: Wikimedia Commons ↗</a></figcaption>
+ <img src="images/MW_SXO_05_figure.png" alt="Các cơ nông đáy chậu nam giới (OpenStax): Sự co bóp nhịp nhàng của cơ hành hang (Bulbospongiosus) và cơ ngồi hang tống xuất tinh dịch trong cực khoái." loading="lazy">
+ <figcaption>📊 <strong>Sơ đồ y khoa:</strong> Các cơ nông đáy chậu nam giới (OpenStax): Sự co bóp nhịp nhàng của cơ hành hang (Bulbospongiosus) và cơ ngồi hang tống xuất tinh dịch trong cực khoái. <a href="https://commons.wikimedia.org/wiki/File:1116_Muscle_of_the_Male_Perineum.png" target="_blank" rel="noopener">Nguồn sơ đồ: Wikimedia Commons ↗</a></figcaption>
 </figure>
 
 ---
@@ -89,8 +89,8 @@ In clinical medicine, orgasm and ejaculation are neurobiologically independent p
 - *Clinical Reality:* Patients with complete spinal cord injuries or following radical prostatectomy achieve full, ecstatic orgasmic sensation without expelling fluid (**Dry Orgasm**). Conversely, pathological spinal reflexes can trigger ejaculation without orgasmic pleasure.
 
 <figure class="article-inline-diagram">
- <img src="images/DM_MH_01_figure.png" alt="Pelvic floor anatomy and ejaculatory reflex arc diagram" loading="lazy">
- <figcaption>📊 <strong>Neuromuscular Ejaculatory Motor Arc:</strong> Rhythmic 0.8-second contractions of the bulbospongiosus and ischiocavernosus muscles generate hydraulic pressure to propel seminal fluid. <a href="https://commons.wikimedia.org/wiki/File:Pelvic_floor_male.svg" target="_blank" rel="noopener">Diagram source: Wikimedia Commons ↗</a></figcaption>
+ <img src="images/MW_SXO_05_figure.png" alt="Superficial muscles of the male perineum (OpenStax): Rhythmic contractions of bulbospongiosus and ischiocavernosus muscles drive forceful seminal expulsion." loading="lazy">
+ <figcaption>📊 <strong>Scientific Figure:</strong> Superficial muscles of the male perineum (OpenStax): Rhythmic contractions of bulbospongiosus and ischiocavernosus muscles drive forceful seminal expulsion. <a href="https://commons.wikimedia.org/wiki/File:1116_Muscle_of_the_Male_Perineum.png" target="_blank" rel="noopener">Diagram source: Wikimedia Commons ↗</a></figcaption>
 </figure>
 
 ---

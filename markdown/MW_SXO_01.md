@@ -3,8 +3,8 @@
 **Screen:** Sexology & Neuroendocrine Screen 
 **Metric:** Mesolimbic Dopamine Circuit, Hypothalamic MPOA & Androgen Priming 
 **Reading Time:** 8 phút đọc / 8 min 
-**Hero Image:** ![Khoa Học Ham Muốn Nam Giới: Trục Thần Kinh - Nội Tiết, Dopamine & Động Lực Sinh Học](images/LM_MH_02_hero.jpg) *(Source: [https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?auto=format&fit=crop&w=1200&q=85](https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?auto=format&fit=crop&w=1200&q=85))* 
-**Inline Figure:** ![Con đường dẫn truyền Dopamine tại não bộ: Vùng chất đen (Substantia Nigra) và vùng trần bụng (VTA) phóng chiếu đến thể vân và hạch hạnh nhân, thúc đẩy động lực ham muốn.](images/DM_SL_01_figure.jpg) *(Source: [https://commons.wikimedia.org/wiki/File:Dopaminergic_pathways.svg](https://commons.wikimedia.org/wiki/File:Dopaminergic_pathways.svg))* 
+**Hero Image:** ![Các con đường dẫn truyền dopamine trong não bộ: Trục trung não - viền từ VTA đến nhân accumbens chỉ huy động lực tìm kiếm phần thưởng và ham muốn tình dục.](images/MW_SXO_01_hero.jpg) *(Source: [https://images.unsplash.com/photo-1500648767791-00dcc994a43e?auto=format&fit=crop&w=1200&q=85](https://images.unsplash.com/photo-1500648767791-00dcc994a43e?auto=format&fit=crop&w=1200&q=85))* 
+**Inline Figure:** ![Các con đường dẫn truyền dopamine trong não bộ: Trục trung não - viền từ VTA đến nhân accumbens chỉ huy động lực tìm kiếm phần thưởng và ham muốn tình dục.](images/MW_SXO_01_figure.png) *(Source: [https://commons.wikimedia.org/wiki/File:Dopaminergic_pathways.svg](https://commons.wikimedia.org/wiki/File:Dopaminergic_pathways.svg))* 
 **Clinical Source:** [Behavioral Brain Research & Annual Review of Sex Research](https://pubmed.ncbi.nlm.nih.gov/17397950/) 
 
 ---
@@ -28,8 +28,8 @@ Trục ham muốn vận hành theo cơ chế hợp đồng sinh học giữa hai
 Không có Dopamine, testosterone cao đến mấy cũng không thể sinh ra ham muốn!
 
 <figure class="article-inline-diagram">
- <img src="images/DM_SL_01_figure.jpg" alt="Sơ đồ con đường dẫn truyền thần kinh Dopamine" loading="lazy">
- <figcaption>📊 <strong>Hệ Thống Khen Thưởng Trung Tâm (Mesolimbic Reward Circuit):</strong> Dopamine chi phối cảm giác mong đợi khoái cảm (Anticipation), là động lực sinh học hàng đầu thúc đẩy hành vi tiếp cận của phái mạnh. <a href="https://commons.wikimedia.org/wiki/File:Dopaminergic_pathways.svg" target="_blank" rel="noopener">Nguồn sơ đồ: Wikimedia Commons ↗</a></figcaption>
+ <img src="images/MW_SXO_01_figure.png" alt="Các con đường dẫn truyền dopamine trong não bộ: Trục trung não - viền từ VTA đến nhân accumbens chỉ huy động lực tìm kiếm phần thưởng và ham muốn tình dục." loading="lazy">
+ <figcaption>📊 <strong>Sơ đồ y khoa:</strong> Các con đường dẫn truyền dopamine trong não bộ: Trục trung não - viền từ VTA đến nhân accumbens chỉ huy động lực tìm kiếm phần thưởng và ham muốn tình dục. <a href="https://commons.wikimedia.org/wiki/File:Dopaminergic_pathways.svg" target="_blank" rel="noopener">Nguồn sơ đồ: Wikimedia Commons ↗</a></figcaption>
 </figure>
 
 ---
@@ -90,8 +90,8 @@ Desire operates as a biological partnership between two distinct forces:
 Without dopamine, even supranormal testosterone cannot ignite desire!
 
 <figure class="article-inline-diagram">
- <img src="images/DM_SL_01_figure.jpg" alt="Mesolimbic dopamine reward pathway diagram" loading="lazy">
- <figcaption>📊 <strong>The Central Reward Circuitry:</strong> Dopamine dictates anticipatory desire, acting as the primary neurochemical driver of male sexual pursuit. <a href="https://commons.wikimedia.org/wiki/File:Dopaminergic_pathways.svg" target="_blank" rel="noopener">Diagram source: Wikimedia Commons ↗</a></figcaption>
+ <img src="images/MW_SXO_01_figure.png" alt="Central dopaminergic pathways: Mesolimbic projection from the ventral tegmental area to the nucleus accumbens drives sexual motivation and anticipatory arousal." loading="lazy">
+ <figcaption>📊 <strong>Scientific Figure:</strong> Central dopaminergic pathways: Mesolimbic projection from the ventral tegmental area to the nucleus accumbens drives sexual motivation and anticipatory arousal. <a href="https://commons.wikimedia.org/wiki/File:Dopaminergic_pathways.svg" target="_blank" rel="noopener">Diagram source: Wikimedia Commons ↗</a></figcaption>
 </figure>
 
 ---

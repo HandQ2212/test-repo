@@ -3,8 +3,8 @@
 **Screen:** Sexual Desire Dynamics & Intimacy Screen 
 **Metric:** Spontaneous vs Responsive Desire, Basson Model & Erotic Context 
 **Reading Time:** 8 phút đọc / 8 min 
-**Hero Image:** ![Hóa Giải Sự Lệch Pha Ham Muốn: Hiểu Về Ham Muốn Tự Phát (Spontaneous) So Với Đáp Ứng (Responsive)](images/DM_MH_01_hero.jpg) *(Source: [https://images.unsplash.com/photo-1522543558187-768b6df7c25c?auto=format&fit=crop&w=1200&q=85](https://images.unsplash.com/photo-1522543558187-768b6df7c25c?auto=format&fit=crop&w=1200&q=85))* 
-**Inline Figure:** ![Mô hình phản ứng tình dục vòng tròn của Rosemary Basson: Ở các mối quan hệ lâu năm, ham muốn thường xuất hiện sau khi đã có sự thân mật và kích thích ban đầu (Responsive Desire), thay vì tự nhiên bộc phát.](images/DM_SL_02_photo.jpg) *(Source: [https://commons.wikimedia.org/wiki/File:Basson_sexual_response_cycle.svg](https://commons.wikimedia.org/wiki/File:Basson_sexual_response_cycle.svg))* 
+**Hero Image:** ![Chu kỳ phản ứng tình dục ở người: Nhận biết sự khác biệt giữa ham muốn tự phát (spontaneous) và ham muốn đáp ứng (responsive) giúp hòa hợp lệch pha ham muốn lứa đôi.](images/MW_REL_06_hero.jpg) *(Source: [https://images.unsplash.com/photo-1529333166437-7750a6dd5a70?auto=format&fit=crop&w=1200&q=85](https://images.unsplash.com/photo-1529333166437-7750a6dd5a70?auto=format&fit=crop&w=1200&q=85))* 
+**Inline Figure:** ![Chu kỳ phản ứng tình dục ở người: Nhận biết sự khác biệt giữa ham muốn tự phát (spontaneous) và ham muốn đáp ứng (responsive) giúp hòa hợp lệch pha ham muốn lứa đôi.](images/MW_REL_06_figure.png) *(Source: [https://commons.wikimedia.org/wiki/File:Sexual-response-cycle.svg](https://commons.wikimedia.org/wiki/File:Sexual-response-cycle.svg))* 
 **Clinical Source:** [The Lancet & Journal of Sex & Marital Therapy](https://pubmed.ncbi.nlm.nih.gov/11454441/) 
 
 ---
@@ -34,8 +34,8 @@ Tuy nhiên, công trình đột phá của **Tiến sĩ Rosemary Basson (The Lan
 Nghiên cứu từ **Tiến sĩ Emily Nagoski** cho thấy: Khoảng **15% nam giới và 30% phụ nữ** có ham muốn chủ yếu là Đáp Ứng; trong khi đa số mọi người là sự pha trộn linh hoạt của cả hai tùy theo độ tuổi và mức độ căng thẳng.
 
 <figure class="article-inline-diagram">
- <img src="images/DM_SL_02_photo.jpg" alt="Sơ đồ mô hình phản ứng tình dục vòng tròn Basson" loading="lazy">
- <figcaption>📊 <strong>Vòng Tròn Phản Ứng Tình Dục Basson:</strong> Điểm khởi đầu không phải là ham muốn tự phát, mà là sự cởi mở sẵn lòng (Willingness); từ sự gần gũi cảm xúc dẫn tới kích thích sinh lý, và lúc này ham muốn mới thực sự được đánh thức. <a href="https://commons.wikimedia.org/wiki/File:Basson_sexual_response_cycle.svg" target="_blank" rel="noopener">Nguồn sơ đồ: Wikimedia Commons ↗</a></figcaption>
+ <img src="images/MW_REL_06_figure.png" alt="Chu kỳ phản ứng tình dục ở người: Nhận biết sự khác biệt giữa ham muốn tự phát (spontaneous) và ham muốn đáp ứng (responsive) giúp hòa hợp lệch pha ham muốn lứa đôi." loading="lazy">
+ <figcaption>📊 <strong>Sơ đồ y khoa:</strong> Chu kỳ phản ứng tình dục ở người: Nhận biết sự khác biệt giữa ham muốn tự phát (spontaneous) và ham muốn đáp ứng (responsive) giúp hòa hợp lệch pha ham muốn lứa đôi. <a href="https://commons.wikimedia.org/wiki/File:Sexual-response-cycle.svg" target="_blank" rel="noopener">Nguồn sơ đồ: Wikimedia Commons ↗</a></figcaption>
 </figure>
 
 ---
@@ -102,8 +102,8 @@ Seminal research by **Dr. Rosemary Basson (The Lancet, 2001)** shattered this as
 Data from **Dr. Emily Nagoski** shows that ~**15% of men and 30% of women** possess predominantly Responsive desire, while most exist along a flexible hybrid spectrum.
 
 <figure class="article-inline-diagram">
- <img src="images/DM_SL_02_photo.jpg" alt="Basson circular model of sexual response diagram" loading="lazy">
- <figcaption>📊 <strong>The Circular Basson Sexual Cycle:</strong> The starting point is emotional willingness (receptivity); emotional connection transitions into physiological arousal, which subsequently awakens genuine desire. <a href="https://commons.wikimedia.org/wiki/File:Basson_sexual_response_cycle.svg" target="_blank" rel="noopener">Diagram source: Wikimedia Commons ↗</a></figcaption>
+ <img src="images/MW_REL_06_figure.png" alt="Human sexual response cycle: Understanding spontaneous versus responsive desire reconciles partner libido pacing differences in established relationships." loading="lazy">
+ <figcaption>📊 <strong>Scientific Figure:</strong> Human sexual response cycle: Understanding spontaneous versus responsive desire reconciles partner libido pacing differences in established relationships. <a href="https://commons.wikimedia.org/wiki/File:Sexual-response-cycle.svg" target="_blank" rel="noopener">Diagram source: Wikimedia Commons ↗</a></figcaption>
 </figure>
 
 ---

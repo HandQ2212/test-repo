@@ -3,8 +3,8 @@
 **Screen:** Sleep Analysis & Endocrine Screen 
 **Metric:** Deep Sleep Duration, REM Fragmentation & Sleep Debt 
 **Reading Time:** 8 phút đọc / 8 min 
-**Hero Image:** ![Giấc Ngủ & Hormone Nam: Vì Sao Mất 1 Tuần Ngủ Thiếu Khiến Testosterone Tụt Dốc Như Già Đi 10 Tuổi?](images/DM_SL_01_hero.jpg) *(Source: [https://images.unsplash.com/photo-1541781774459-bb2af2f05b55?auto=format&fit=crop&w=1200&q=85](https://images.unsplash.com/photo-1541781774459-bb2af2f05b55?auto=format&fit=crop&w=1200&q=85))* 
-**Inline Figure:** ![Biểu đồ cấu trúc giấc ngủ (Hypnogram): Các đợt giải phóng testosterone và hormone tăng trưởng (GH) diễn ra dồn dập nhất trong các chu kỳ ngủ sâu (N3/Slow-Wave Sleep) đầu đêm.](images/LM_SL_02_figure.png) *(Source: [https://commons.wikimedia.org/wiki/File:Sleep_Hypnogram.svg](https://commons.wikimedia.org/wiki/File:Sleep_Hypnogram.svg))* 
+**Hero Image:** ![Biểu đồ kiến trúc chu kỳ giấc ngủ (Hypnogram): Các xung giải phóng testosterone ban đêm phụ thuộc vào các pha ngủ sâu sóng chậm và giấc ngủ REM không bị đứt gãy.](images/MW_SXH_03_hero.jpg) *(Source: [https://images.unsplash.com/photo-1517849845537-4d257902454a?auto=format&fit=crop&w=1200&q=85](https://images.unsplash.com/photo-1517849845537-4d257902454a?auto=format&fit=crop&w=1200&q=85))* 
+**Inline Figure:** ![Biểu đồ kiến trúc chu kỳ giấc ngủ (Hypnogram): Các xung giải phóng testosterone ban đêm phụ thuộc vào các pha ngủ sâu sóng chậm và giấc ngủ REM không bị đứt gãy.](images/MW_SXH_03_figure.png) *(Source: [https://commons.wikimedia.org/wiki/File:Sleep_Hypnogram.svg](https://commons.wikimedia.org/wiki/File:Sleep_Hypnogram.svg))* 
 **Clinical Source:** [Journal of the American Medical Association (JAMA) & Sleep Medicine Reviews](https://pubmed.ncbi.nlm.nih.gov/21632481/) 
 
 ---
@@ -30,8 +30,8 @@ Kết quả đo đạc nồng độ testosterone mỗi 15 đến 30 phút trong 
 - Để so sánh: Trong quá trình lão hóa tự nhiên, testosterone của nam giới chỉ giảm khoảng **1% đến 2% mỗi năm**. Việc mất ngủ 1 tuần đã ép hệ nội tiết của một chàng trai 24 tuổi tụt xuống tương đương với một người đàn ông 35–40 tuổi!
 
 <figure class="article-inline-diagram">
- <img src="images/LM_SL_02_figure.png" alt="Biểu đồ cấu trúc các chu kỳ giấc ngủ" loading="lazy">
- <figcaption>📊 <strong>Chu Kỳ Ngủ Sâu & Xung Tiết Hormone:</strong> Khi thời lượng ngủ bị cắt ngắn xuống 5 tiếng, các chu kỳ ngủ sâu cuối đêm bị triệt tiêu hoàn toàn, khiến tinh hoàn mất đi cửa sổ phục hồi quan trọng nhất. <a href="https://commons.wikimedia.org/wiki/File:Sleep_Hypnogram.svg" target="_blank" rel="noopener">Nguồn sơ đồ: Wikimedia Commons ↗</a></figcaption>
+ <img src="images/MW_SXH_03_figure.png" alt="Biểu đồ kiến trúc chu kỳ giấc ngủ (Hypnogram): Các xung giải phóng testosterone ban đêm phụ thuộc vào các pha ngủ sâu sóng chậm và giấc ngủ REM không bị đứt gãy." loading="lazy">
+ <figcaption>📊 <strong>Sơ đồ y khoa:</strong> Biểu đồ kiến trúc chu kỳ giấc ngủ (Hypnogram): Các xung giải phóng testosterone ban đêm phụ thuộc vào các pha ngủ sâu sóng chậm và giấc ngủ REM không bị đứt gãy. <a href="https://commons.wikimedia.org/wiki/File:Sleep_Hypnogram.svg" target="_blank" rel="noopener">Nguồn sơ đồ: Wikimedia Commons ↗</a></figcaption>
 </figure>
 
 ---
@@ -94,8 +94,8 @@ Measuring 24-hour profiles sampled every 15 to 30 minutes revealed:
 - For biological context: Natural aging contracts male testosterone by approximately **1% to 2% per year**. Restricting sleep for just one week aged a 24-year-old's endocrine profile by 10 to 15 years!
 
 <figure class="article-inline-diagram">
- <img src="images/LM_SL_02_figure.png" alt="Slow-wave sleep cycles and testosterone pulses diagram" loading="lazy">
- <figcaption>📊 <strong>Deep Sleep & Androgen Pulsatility:</strong> Cutting sleep to 5 hours eliminates terminal slow-wave and REM cycles, robbing testicular tissue of its primary repair window. <a href="https://commons.wikimedia.org/wiki/File:Sleep_Hypnogram.svg" target="_blank" rel="noopener">Diagram source: Wikimedia Commons ↗</a></figcaption>
+ <img src="images/MW_SXH_03_figure.png" alt="Architecture of human sleep hypnogram: Nocturnal testosterone pulses require consolidated deep slow-wave sleep and uninterrupted REM cycles." loading="lazy">
+ <figcaption>📊 <strong>Scientific Figure:</strong> Architecture of human sleep hypnogram: Nocturnal testosterone pulses require consolidated deep slow-wave sleep and uninterrupted REM cycles. <a href="https://commons.wikimedia.org/wiki/File:Sleep_Hypnogram.svg" target="_blank" rel="noopener">Diagram source: Wikimedia Commons ↗</a></figcaption>
 </figure>
 
 ---

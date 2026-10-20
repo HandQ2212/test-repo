@@ -3,8 +3,8 @@
 **Screen:** Aging Dynamics & Andropause Screen 
 **Metric:** Age-Related Androgen Decline (-1%/year), SHBG Elevation & Redefining Intimacy 
 **Reading Time:** 8 phút đọc / 8 min 
-**Hero Image:** ![Ham Muốn & Tuổi Tác: Thích Ứng Với Sự Giảm Testosterone Tự Nhiên & Nâng Tầm Chất Lượng](images/LM_MH_03_hero.jpg) *(Source: [https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?auto=format&fit=crop&w=1200&q=85](https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?auto=format&fit=crop&w=1200&q=85))* 
-**Inline Figure:** ![Đường cong suy giảm hormone theo tuổi tác: Từ sau 30 tuổi, Total Testosterone giảm khoảng 1%/năm trong khi protein SHBG tăng 1.2%/năm, làm chỉ số Free T suy giảm nhanh gấp đôi.](images/LM_MH_02_figure.jpg) *(Source: [https://commons.wikimedia.org/wiki/File:Male_Aging_Hormone_Curve.svg](https://commons.wikimedia.org/wiki/File:Male_Aging_Hormone_Curve.svg))* 
+**Hero Image:** ![Hệ sinh sản nam giới qua các giai đoạn cuộc đời (OpenStax): Sự suy giảm testosterone tự nhiên và biến đổi tuyến tiền liệt theo tuổi tác cần thích ứng lối sống khoa học.](images/MW_SXO_08_hero.jpg) *(Source: [https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?auto=format&fit=crop&w=1200&q=85](https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?auto=format&fit=crop&w=1200&q=85))* 
+**Inline Figure:** ![Hệ sinh sản nam giới qua các giai đoạn cuộc đời (OpenStax): Sự suy giảm testosterone tự nhiên và biến đổi tuyến tiền liệt theo tuổi tác cần thích ứng lối sống khoa học.](images/MW_SXO_08_figure.png) *(Source: [https://commons.wikimedia.org/wiki/File:Figure_28_01_01.jpg](https://commons.wikimedia.org/wiki/File:Figure_28_01_01.jpg))* 
 **Clinical Source:** [New England Journal of Medicine (NEJM) & Massachusetts Male Aging Study (MMAS)](https://pubmed.ncbi.nlm.nih.gov/11836290/) 
 
 ---
@@ -25,8 +25,8 @@ Dữ liệu dịch tễ học từ **Nghiên cứu Lão hóa Nam giới Massachu
 3. **Mô Thể Hang Dương Vật Bị Mất Tính Đàn Hồi:** Lớp cơ trơn thể hang giảm dần và bị thay thế một phần bởi các sợi collagen xơ cứng, khiến dòng máu đổ về cần nhiều thời gian hơn và áp lực khóa tĩnh mạch dễ bị rò rỉ hơn.
 
 <figure class="article-inline-diagram">
- <img src="images/LM_MH_02_figure.jpg" alt="Sơ đồ đường cong hormone nam giới theo độ tuổi" loading="lazy">
- <figcaption>📊 <strong>Động Học Lão Hóa Nội Tiết:</strong> Đường cong suy giảm testosterone ở nam giới là một đường dốc thoai thoải, hoàn toàn có thể được làm chậm lại nhờ duy trì khối cơ nạc và thể lực tim mạch. <a href="https://commons.wikimedia.org/wiki/File:Male_Aging_Hormone_Curve.svg" target="_blank" rel="noopener">Nguồn sơ đồ: Wikimedia Commons ↗</a></figcaption>
+ <img src="images/MW_SXO_08_figure.png" alt="Hệ sinh sản nam giới qua các giai đoạn cuộc đời (OpenStax): Sự suy giảm testosterone tự nhiên và biến đổi tuyến tiền liệt theo tuổi tác cần thích ứng lối sống khoa học." loading="lazy">
+ <figcaption>📊 <strong>Sơ đồ y khoa:</strong> Hệ sinh sản nam giới qua các giai đoạn cuộc đời (OpenStax): Sự suy giảm testosterone tự nhiên và biến đổi tuyến tiền liệt theo tuổi tác cần thích ứng lối sống khoa học. <a href="https://commons.wikimedia.org/wiki/File:Figure_28_01_01.jpg" target="_blank" rel="noopener">Nguồn sơ đồ: Wikimedia Commons ↗</a></figcaption>
 </figure>
 
 ---
@@ -87,8 +87,8 @@ Data from the **Massachusetts Male Aging Study (Feldman et al., MMAS)** on 1,709
 3. **Cavernosal Trabecular Remodeling:** Trabecular smooth muscle fibers gradually diminish, replaced by stiffer collagenous connective tissue, slowing arterial filling times.
 
 <figure class="article-inline-diagram">
- <img src="images/LM_MH_02_figure.jpg" alt="Male aging hormone curves and androgen decline diagram" loading="lazy">
- <figcaption>📊 <strong>Andropause Kinetics:</strong> Male reproductive aging is a gradual slope, highly responsive to preservation of lean skeletal muscle and cardiorespiratory fitness. <a href="https://commons.wikimedia.org/wiki/File:Male_Aging_Hormone_Curve.svg" target="_blank" rel="noopener">Diagram source: Wikimedia Commons ↗</a></figcaption>
+ <img src="images/MW_SXO_08_figure.png" alt="The male reproductive system across lifespan (OpenStax): Normal age-related hormonal and prostate changes require proactive lifestyle adaptations." loading="lazy">
+ <figcaption>📊 <strong>Scientific Figure:</strong> The male reproductive system across lifespan (OpenStax): Normal age-related hormonal and prostate changes require proactive lifestyle adaptations. <a href="https://commons.wikimedia.org/wiki/File:Figure_28_01_01.jpg" target="_blank" rel="noopener">Diagram source: Wikimedia Commons ↗</a></figcaption>
 </figure>
 
 ---

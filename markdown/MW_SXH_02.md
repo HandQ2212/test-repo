@@ -3,8 +3,8 @@
 **Screen:** Cardiovascular Health & Recovery Screen 
 **Metric:** Endothelial Health, Arterial Compliance & Resting Heart Rate 
 **Reading Time:** 8 phút đọc / 8 min 
-**Hero Image:** ![Rối Loạn Cương Dương (ED): Tín Hiệu Báo Động Sớm Của Hệ Tuần Hoàn & Sức Khỏe Chuyển Hóa](images/LM_MH_03_hero.jpg) *(Source: [https://images.unsplash.com/photo-1576091160399-112ba8d25d1d?auto=format&fit=crop&w=1200&q=85](https://images.unsplash.com/photo-1576091160399-112ba8d25d1d?auto=format&fit=crop&w=1200&q=85))* 
-**Inline Figure:** ![Tiến trình xơ vữa động mạch: Động mạch hang dương vật có kích thước siêu nhỏ nên tắc nghẽn xuất hiện sớm hơn 3–5 năm trước động mạch vành tim.](images/DM_MH_02_figure.png) *(Source: [https://commons.wikimedia.org/wiki/File:Atherosclerosis.svg](https://commons.wikimedia.org/wiki/File:Atherosclerosis.svg))* 
+**Hero Image:** ![Quá trình hẹp lòng động mạch do mảng vữa xơ: Do động mạch hang có đường kính chỉ 1–2 mm, rối loạn cương dương thường là dấu hiệu cảnh báo sớm trước biến cố mạch vành 3–5 năm.](images/MW_SXH_02_hero.jpg) *(Source: [https://images.unsplash.com/photo-1584515979956-d9f6e5d09982?auto=format&fit=crop&w=1200&q=85](https://images.unsplash.com/photo-1584515979956-d9f6e5d09982?auto=format&fit=crop&w=1200&q=85))* 
+**Inline Figure:** ![Quá trình hẹp lòng động mạch do mảng vữa xơ: Do động mạch hang có đường kính chỉ 1–2 mm, rối loạn cương dương thường là dấu hiệu cảnh báo sớm trước biến cố mạch vành 3–5 năm.](images/MW_SXH_02_figure.png) *(Source: [https://commons.wikimedia.org/wiki/File:Carotid_artery_stenosis_by_hariadhi.svg](https://commons.wikimedia.org/wiki/File:Carotid_artery_stenosis_by_hariadhi.svg))* 
 **Clinical Source:** [European Urology & American Heart Association (Circulation)](https://pubmed.ncbi.nlm.nih.gov/16530932/) 
 
 ---
@@ -30,8 +30,8 @@ Khi cơ thể bắt đầu xuất hiện tình trạng viêm nội mô mạn tí
 Vì vậy, **Rối loạn cương do căn nguyên mạch máu chính là dấu hiệu cảnh báo bệnh mạch vành đi trước thời gian từ 24 đến 60 tháng!**
 
 <figure class="article-inline-diagram">
- <img src="images/DM_MH_02_figure.png" alt="Sơ đồ xơ vữa động mạch và mạch máu hang" loading="lazy">
- <figcaption>📊 <strong>Giả Thuyết Kích Thước Động Mạch:</strong> Mạch máu nhỏ tắc trước, mạch máu lớn tắc sau. Nhận diện sớm ED giúp người đàn ông kịp thời đảo ngược nguy cơ nhồi máu cơ tim. <a href="https://commons.wikimedia.org/wiki/File:Atherosclerosis.svg" target="_blank" rel="noopener">Nguồn sơ đồ: Wikimedia Commons ↗</a></figcaption>
+ <img src="images/MW_SXH_02_figure.png" alt="Quá trình hẹp lòng động mạch do mảng vữa xơ: Do động mạch hang có đường kính chỉ 1–2 mm, rối loạn cương dương thường là dấu hiệu cảnh báo sớm trước biến cố mạch vành 3–5 năm." loading="lazy">
+ <figcaption>📊 <strong>Sơ đồ y khoa:</strong> Quá trình hẹp lòng động mạch do mảng vữa xơ: Do động mạch hang có đường kính chỉ 1–2 mm, rối loạn cương dương thường là dấu hiệu cảnh báo sớm trước biến cố mạch vành 3–5 năm. <a href="https://commons.wikimedia.org/wiki/File:Carotid_artery_stenosis_by_hariadhi.svg" target="_blank" rel="noopener">Nguồn sơ đồ: Wikimedia Commons ↗</a></figcaption>
 </figure>
 
 ---
@@ -94,8 +94,8 @@ When chronic endothelial inflammation or atheromatous plaque begins forming: an 
 Thus, **Vascular Erectile Dysfunction is the primary early warning sign of coronary artery disease, preceding major cardiovascular events by 24 to 60 months!**
 
 <figure class="article-inline-diagram">
- <img src="images/DM_MH_02_figure.png" alt="Atherosclerosis and cavernosal artery cross-section diagram" loading="lazy">
- <figcaption>📊 <strong>The Artery Size Hypothesis:</strong> Smaller arteries occlude first. Detecting ED early provides an invaluable clinical window to reverse heart attack and stroke risks. <a href="https://commons.wikimedia.org/wiki/File:Atherosclerosis.svg" target="_blank" rel="noopener">Diagram source: Wikimedia Commons ↗</a></figcaption>
+ <img src="images/MW_SXH_02_figure.png" alt="Arterial stenosis and atheromatous plaque progression: Because penile cavernosal arteries are 1–2 mm wide, vascular obstruction causes erectile symptoms years before larger vessels." loading="lazy">
+ <figcaption>📊 <strong>Scientific Figure:</strong> Arterial stenosis and atheromatous plaque progression: Because penile cavernosal arteries are 1–2 mm wide, vascular obstruction causes erectile symptoms years before larger vessels. <a href="https://commons.wikimedia.org/wiki/File:Carotid_artery_stenosis_by_hariadhi.svg" target="_blank" rel="noopener">Diagram source: Wikimedia Commons ↗</a></figcaption>
 </figure>
 
 ---

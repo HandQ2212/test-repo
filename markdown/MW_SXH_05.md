@@ -3,8 +3,8 @@
 **Screen:** Sleep Architecture & Urological Screen 
 **Metric:** REM Sleep Episodes, Sympathetic Inhibition & Morning Erections (NPT) 
 **Reading Time:** 8 phút đọc / 8 min 
-**Hero Image:** ![Hiện Tượng Cương Buổi Sáng (NPT): Dấu Ấn Sinh Học Của Chu Kỳ Giấc Ngủ REM & Sức Khỏe Mạch Máu](images/DM_SL_01_hero.jpg) *(Source: [https://images.unsplash.com/photo-1541781774459-bb2af2f05b55?auto=format&fit=crop&w=1200&q=85](https://images.unsplash.com/photo-1541781774459-bb2af2f05b55?auto=format&fit=crop&w=1200&q=85))* 
-**Inline Figure:** ![Các đợt cương ban đêm (NPT) đồng nhịp với chu kỳ ngủ REM: Ở nam giới khỏe mạnh, có từ 3–5 đợt cương tự nhiên diễn ra xuyên suốt ban đêm với tổng thời lượng từ 90 đến 180 phút.](images/LM_SL_02_figure.png) *(Source: [https://commons.wikimedia.org/wiki/File:Sleep_Hypnogram.svg](https://commons.wikimedia.org/wiki/File:Sleep_Hypnogram.svg))* 
+**Hero Image:** ![Giải phẫu cắt ngang dương vật (OpenStax): Sự cương tụ máu giàu oxy tại hai thể hang trong các pha ngủ REM giúp duy trì độ đàn hồi và nuôi dưỡng vi mạch hang (hiện tượng NPT).](images/MW_SXH_05_hero.jpg) *(Source: [https://images.unsplash.com/photo-1507652313519-d4e9174996dd?auto=format&fit=crop&w=1200&q=85](https://images.unsplash.com/photo-1507652313519-d4e9174996dd?auto=format&fit=crop&w=1200&q=85))* 
+**Inline Figure:** ![Giải phẫu cắt ngang dương vật (OpenStax): Sự cương tụ máu giàu oxy tại hai thể hang trong các pha ngủ REM giúp duy trì độ đàn hồi và nuôi dưỡng vi mạch hang (hiện tượng NPT).](images/MW_SXH_05_figure.png) *(Source: [https://commons.wikimedia.org/wiki/File:Figure_28_01_06.jpg](https://commons.wikimedia.org/wiki/File:Figure_28_01_06.jpg))* 
 **Clinical Source:** [Sleep Medicine Reviews & The Journal of Urology](https://pubmed.ncbi.nlm.nih.gov/12495694/) 
 
 ---
@@ -26,8 +26,8 @@ Trong một đêm ngủ bình thường kéo dài 7–8 tiếng:
 - "Cương buổi sáng" (Morning Wood) mà bạn thấy khi thức giấc thực chất chỉ là **đợt cương NPT của chu kỳ ngủ REM cuối cùng** trước khi chuông báo thức reo!
 
 <figure class="article-inline-diagram">
- <img src="images/LM_SL_02_figure.png" alt="Sơ đồ chu kỳ giấc ngủ REM và cương ban đêm" loading="lazy">
- <figcaption>📊 <strong>Sự Đồng Bộ Giữa Não Bộ & Thể Hang:</strong> Khi não bộ chuyển sang pha ngủ REM, trung tâm ức chế Noradrenaline tại nhân Locus Coeruleus tạm ngừng hoạt động, cho phép các tín hiệu phó giao cảm kích hoạt cương cứng tự nhiên. <a href="https://commons.wikimedia.org/wiki/File:Sleep_Hypnogram.svg" target="_blank" rel="noopener">Nguồn sơ đồ: Wikimedia Commons ↗</a></figcaption>
+ <img src="images/MW_SXH_05_figure.png" alt="Giải phẫu cắt ngang dương vật (OpenStax): Sự cương tụ máu giàu oxy tại hai thể hang trong các pha ngủ REM giúp duy trì độ đàn hồi và nuôi dưỡng vi mạch hang (hiện tượng NPT)." loading="lazy">
+ <figcaption>📊 <strong>Sơ đồ y khoa:</strong> Giải phẫu cắt ngang dương vật (OpenStax): Sự cương tụ máu giàu oxy tại hai thể hang trong các pha ngủ REM giúp duy trì độ đàn hồi và nuôi dưỡng vi mạch hang (hiện tượng NPT). <a href="https://commons.wikimedia.org/wiki/File:Figure_28_01_06.jpg" target="_blank" rel="noopener">Nguồn sơ đồ: Wikimedia Commons ↗</a></figcaption>
 </figure>
 
 ---
@@ -95,8 +95,8 @@ During an ordinary 7–8 hour night of sleep:
 - "Morning wood" upon waking is simply **the final NPT episode coinciding with the terminal REM cycle** before morning alarm arousal!
 
 <figure class="article-inline-diagram">
- <img src="images/LM_SL_02_figure.png" alt="REM sleep hypnogram and nocturnal erections diagram" loading="lazy">
- <figcaption>📊 <strong>Brain-Cavernosal REM Synchronization:</strong> As the brain transitions into REM sleep, noradrenergic tone in the locus coeruleus pauses, allowing parasympathetic outflow to trigger erection. <a href="https://commons.wikimedia.org/wiki/File:Sleep_Hypnogram.svg" target="_blank" rel="noopener">Diagram source: Wikimedia Commons ↗</a></figcaption>
+ <img src="images/MW_SXH_05_figure.png" alt="Cross-sectional anatomy of the human penis (OpenStax): Corpora cavernosa engorgement during nocturnal REM sleep delivers oxygenated blood to maintain penile tissue elasticity." loading="lazy">
+ <figcaption>📊 <strong>Scientific Figure:</strong> Cross-sectional anatomy of the human penis (OpenStax): Corpora cavernosa engorgement during nocturnal REM sleep delivers oxygenated blood to maintain penile tissue elasticity. <a href="https://commons.wikimedia.org/wiki/File:Figure_28_01_06.jpg" target="_blank" rel="noopener">Diagram source: Wikimedia Commons ↗</a></figcaption>
 </figure>
 
 ---

@@ -3,8 +3,8 @@
 **Screen:** Endocrine Diagnostic & Laboratory Screen 
 **Metric:** Diurnal Blood Sampling, Total/Free T, SHBG, LH & Prolactin Differential 
 **Reading Time:** 8 phút đọc / 8 min 
-**Hero Image:** ![Khi Nào Nam Giới Cần Kiểm Tra Hormone? Hướng Dẫn Đọc Bảng Xét Nghiệm Chuẩn Y Khoa](images/DM_HW_02_hero.jpg) *(Source: [https://images.unsplash.com/photo-1579154204601-01588f351e67?auto=format&fit=crop&w=1200&q=85](https://images.unsplash.com/photo-1579154204601-01588f351e67?auto=format&fit=crop&w=1200&q=85))* 
-**Inline Figure:** ![Trục Hạ đồi - Tuyến yên - Tinh hoàn (Trục HPTA): Xét nghiệm nồng độ LH và FSH đồng thời giúp bác sĩ phân biệt chính xác giữa suy sinh dục nguyên phát tại tinh hoàn hay thứ phát tại não bộ.](images/LM_MH_01_figure.jpg) *(Source: [https://commons.wikimedia.org/wiki/File:Hypothalamic%E2%80%93pituitary%E2%80%93gonadal_axis.svg](https://commons.wikimedia.org/wiki/File:Hypothalamic%E2%80%93pituitary%E2%80%93gonadal_axis.svg))* 
+**Hero Image:** ![Trục nội tiết Hạ đồi - Tuyến yên - Tinh hoàn: Vòng phản hồi sinh học của GnRH, LH, FSH và Testosterone phục vụ chẩn đoán phân biệt suy sinh dục nguyên phát hay thứ phát.](images/MW_SXH_08_hero.jpg) *(Source: [https://images.unsplash.com/photo-1532187863486-abf9dbad1b69?auto=format&fit=crop&w=1200&q=85](https://images.unsplash.com/photo-1532187863486-abf9dbad1b69?auto=format&fit=crop&w=1200&q=85))* 
+**Inline Figure:** ![Trục nội tiết Hạ đồi - Tuyến yên - Tinh hoàn: Vòng phản hồi sinh học của GnRH, LH, FSH và Testosterone phục vụ chẩn đoán phân biệt suy sinh dục nguyên phát hay thứ phát.](images/MW_SXH_08_figure.png) *(Source: [https://commons.wikimedia.org/wiki/File:Hypothalamus-Hypophysis-Testicle-Hormone-Axis_(engl.).svg](https://commons.wikimedia.org/wiki/File:Hypothalamus-Hypophysis-Testicle-Hormone-Axis_(engl.).svg))* 
 **Clinical Source:** [The Journal of Clinical Endocrinology & Metabolism & European Association of Urology (EAU Guidelines)](https://pubmed.ncbi.nlm.nih.gov/29562364/) 
 
 ---
@@ -28,8 +28,8 @@ Không phải ai cảm thấy mệt mỏi sau một tuần thức khuya làm vi�
 - **Các Triệu Chứng Không Đặc Hiệu Kèm Theo:** Mệt mỏi mãn tính dù ngủ đủ giấc, suy giảm khả năng tập trung (sương mù não), tâm trạng trầm cảm cáu bẳn và tăng tích tụ mỡ bụng dưới.
 
 <figure class="article-inline-diagram">
- <img src="images/LM_MH_01_figure.jpg" alt="Sơ đồ trục Hạ đồi - Tuyến yên - Tinh hoàn" loading="lazy">
- <figcaption>📊 <strong>Sơ Đồ Trục HPTA:</strong> Đánh giá toàn diện nồng độ hormone tuyến yên LH/FSH là chìa khóa vàng để tìm ra gốc rễ vấn đề nằm ở não bộ hay tại tinh hoàn. <a href="https://commons.wikimedia.org/wiki/File:Hypothalamic%E2%80%93pituitary%E2%80%93gonadal_axis.svg" target="_blank" rel="noopener">Nguồn sơ đồ: Wikimedia Commons ↗</a></figcaption>
+ <img src="images/MW_SXH_08_figure.png" alt="Trục nội tiết Hạ đồi - Tuyến yên - Tinh hoàn: Vòng phản hồi sinh học của GnRH, LH, FSH và Testosterone phục vụ chẩn đoán phân biệt suy sinh dục nguyên phát hay thứ phát." loading="lazy">
+ <figcaption>📊 <strong>Sơ đồ y khoa:</strong> Trục nội tiết Hạ đồi - Tuyến yên - Tinh hoàn: Vòng phản hồi sinh học của GnRH, LH, FSH và Testosterone phục vụ chẩn đoán phân biệt suy sinh dục nguyên phát hay thứ phát. <a href="https://commons.wikimedia.org/wiki/File:Hypothalamus-Hypophysis-Testicle-Hormone-Axis_(engl.).svg" target="_blank" rel="noopener">Nguồn sơ đồ: Wikimedia Commons ↗</a></figcaption>
 </figure>
 
 ---
@@ -96,8 +96,8 @@ Transient fatigue after a demanding workweek is not an indication for hormone pa
 - **Secondary Corroborating Clues:** Chronic refractory fatigue, brain fog, depressive irritability, and expanding visceral waist circumference.
 
 <figure class="article-inline-diagram">
- <img src="images/LM_MH_01_figure.jpg" alt="Hypothalamic-Pituitary-Gonadal axis diagram" loading="lazy">
- <figcaption>📊 <strong>The HPGA Diagnostic Axis:</strong> Evaluating LH and FSH alongside androgens determines whether dysfunction originates within the pituitary gland or the testes. <a href="https://commons.wikimedia.org/wiki/File:Hypothalamic%E2%80%93pituitary%E2%80%93gonadal_axis.svg" target="_blank" rel="noopener">Diagram source: Wikimedia Commons ↗</a></figcaption>
+ <img src="images/MW_SXH_08_figure.png" alt="Hypothalamus-Hypophysis-Testicle hormone axis: Endocrine feedback loop detailing GnRH, LH, FSH, Testosterone, and Inhibin for clinical hypogonadism diagnostics." loading="lazy">
+ <figcaption>📊 <strong>Scientific Figure:</strong> Hypothalamus-Hypophysis-Testicle hormone axis: Endocrine feedback loop detailing GnRH, LH, FSH, Testosterone, and Inhibin for clinical hypogonadism diagnostics. <a href="https://commons.wikimedia.org/wiki/File:Hypothalamus-Hypophysis-Testicle-Hormone-Axis_(engl.).svg" target="_blank" rel="noopener">Diagram source: Wikimedia Commons ↗</a></figcaption>
 </figure>
 
 ---

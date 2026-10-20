@@ -3,8 +3,8 @@
 **Screen:** Reproductive Health & Sperm Analysis Screen 
 **Metric:** Spermatogenic Cycle (74 Days), DNA Fragmentation & Semen Parameters 
 **Reading Time:** 8 phút đọc / 8 min 
-**Hero Image:** ![Dinh Dưỡng Nâng Cao Chất Lượng Tinh Trùng: Bảo Vệ DNA & Tăng Khả Năng Vận Động](images/DM_HW_01_hero.jpg) *(Source: [https://images.unsplash.com/photo-1579684385127-1ef15d508118?auto=format&fit=crop&w=1200&q=85](https://images.unsplash.com/photo-1579684385127-1ef15d508118?auto=format&fit=crop&w=1200&q=85))* 
-**Inline Figure:** ![Tiến trình sinh tinh (Spermatogenesis): Mất trung bình 74 ngày để một tế bào mầm tinh trùng biệt hóa thành tinh trùng trưởng thành; bất kỳ thay đổi dinh dưỡng nào cũng cần tối thiểu 2.5–3 tháng để phản ánh kết quả.](images/LM_MH_03_figure.jpg) *(Source: [https://commons.wikimedia.org/wiki/File:Spermatogenesis.svg](https://commons.wikimedia.org/wiki/File:Spermatogenesis.svg))* 
+**Hero Image:** ![Sơ đồ giải phẫu hoàn chỉnh tinh trùng người: Các vi chất chống oxy hóa bảo vệ màng lipid cực đầu và DNA ty thể khỏi tổn thương gốc tự do.](images/MW_NUT_06_hero.jpg) *(Source: [https://images.unsplash.com/photo-1509358271058-acd22cc93898?auto=format&fit=crop&w=1200&q=85](https://images.unsplash.com/photo-1509358271058-acd22cc93898?auto=format&fit=crop&w=1200&q=85))* 
+**Inline Figure:** ![Sơ đồ giải phẫu hoàn chỉnh tinh trùng người: Các vi chất chống oxy hóa bảo vệ màng lipid cực đầu và DNA ty thể khỏi tổn thương gốc tự do.](images/MW_NUT_06_figure.png) *(Source: [https://commons.wikimedia.org/wiki/File:Complete_diagram_of_a_human_spermatozoa_en.svg](https://commons.wikimedia.org/wiki/File:Complete_diagram_of_a_human_spermatozoa_en.svg))* 
 **Clinical Source:** [Human Reproduction Update & World Health Organization (WHO Semen Manual 6th Ed)](https://pubmed.ncbi.nlm.nih.gov/28333357/) 
 
 ---
@@ -28,8 +28,8 @@ Tuy nhiên, có một tin vui tuyệt vời từ góc độ sinh học tế bào
 Điều này có nghĩa là: **Những gì bạn ăn, uống, hít thở và tập luyện trong 3 tháng hôm nay sẽ quyết định 100% chất lượng của những chú tinh binh chào đời sau 90 ngày nữa!**
 
 <figure class="article-inline-diagram">
- <img src="images/LM_MH_03_figure.jpg" alt="Sơ đồ chu kỳ sinh tinh 74 ngày" loading="lazy">
- <figcaption>📊 <strong>Tiến Trình Sinh Tinh Học:</strong> Màng tế bào tinh trùng chứa nồng độ axit béo không bão hòa đa (PUFA) cực cao, khiến chúng trở thành miếng mồi ngon cho stress oxy hóa nếu thiếu vi chất bảo vệ. <a href="https://commons.wikimedia.org/wiki/File:Spermatogenesis.svg" target="_blank" rel="noopener">Nguồn sơ đồ: Wikimedia Commons ↗</a></figcaption>
+ <img src="images/MW_NUT_06_figure.png" alt="Sơ đồ giải phẫu hoàn chỉnh tinh trùng người: Các vi chất chống oxy hóa bảo vệ màng lipid cực đầu và DNA ty thể khỏi tổn thương gốc tự do." loading="lazy">
+ <figcaption>📊 <strong>Sơ đồ y khoa:</strong> Sơ đồ giải phẫu hoàn chỉnh tinh trùng người: Các vi chất chống oxy hóa bảo vệ màng lipid cực đầu và DNA ty thể khỏi tổn thương gốc tự do. <a href="https://commons.wikimedia.org/wiki/File:Complete_diagram_of_a_human_spermatozoa_en.svg" target="_blank" rel="noopener">Nguồn sơ đồ: Wikimedia Commons ↗</a></figcaption>
 </figure>
 
 ---
@@ -94,8 +94,8 @@ However, cellular biology offers tremendous hope:
 This biological reality means: **Your nutrition, hydration, sleep, and lifestyle choices over the past 3 months determine the viability of the sperm you produce today!**
 
 <figure class="article-inline-diagram">
- <img src="images/LM_MH_03_figure.jpg" alt="Spermatogenesis 74-day timeline diagram" loading="lazy">
- <figcaption>📊 <strong>Spermatogenic Maturation:</strong> High polyunsaturated fatty acid content renders sperm cell membranes uniquely vulnerable to oxidative reactive oxygen species without antioxidant cofactors. <a href="https://commons.wikimedia.org/wiki/File:Spermatogenesis.svg" target="_blank" rel="noopener">Diagram source: Wikimedia Commons ↗</a></figcaption>
+ <img src="images/MW_NUT_06_figure.png" alt="Anatomical schematic of a human spermatozoon: Antioxidants and micronutrients safeguard sperm membrane lipids and mitochondrial DNA integrity." loading="lazy">
+ <figcaption>📊 <strong>Scientific Figure:</strong> Anatomical schematic of a human spermatozoon: Antioxidants and micronutrients safeguard sperm membrane lipids and mitochondrial DNA integrity. <a href="https://commons.wikimedia.org/wiki/File:Complete_diagram_of_a_human_spermatozoa_en.svg" target="_blank" rel="noopener">Diagram source: Wikimedia Commons ↗</a></figcaption>
 </figure>
 
 ---

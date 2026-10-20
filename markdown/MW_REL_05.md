@@ -3,8 +3,8 @@
 **Screen:** Relationship Dynamics & Stress Recovery Screen 
 **Metric:** Autonomic Flooding (>100 bpm), Physiological Timeout & Repair Attempts 
 **Reading Time:** 8 phút đọc / 8 min 
-**Hero Image:** ![Xung Đột Lành Mạnh: Chuyển Hóa Tranh Cãi Thành Sự Thấu Hiểu Bằng Kỹ Thuật Tự Hạ Hỏa Thần Kinh](images/DM_HW_01_hero.jpg) *(Source: [https://images.unsplash.com/photo-1516589178581-6cd7833ae3b2?auto=format&fit=crop&w=1200&q=85](https://images.unsplash.com/photo-1516589178581-6cd7833ae3b2?auto=format&fit=crop&w=1200&q=85))* 
-**Inline Figure:** ![Phản xạ chiến đấu hoặc bỏ chạy trong tranh cãi: Nhịp tim vượt 100 bpm khóa chặt khả năng xử lý ngôn ngữ logic của thùy trán, buộc cơ thể cần tối thiểu 20 phút để chuyển hóa adrenaline.](images/LM_HW_01_figure.png) *(Source: [https://commons.wikimedia.org/wiki/File:Autonomic_Nervous_System.svg](https://commons.wikimedia.org/wiki/File:Autonomic_Nervous_System.svg))* 
+**Hero Image:** ![Hệ viền não bộ và hạch hạnh nhân (Blausen Medical): Phản ứng tràn ngập cảm xúc khi nhịp tim vượt 100 bpm khóa chặt vỏ não logic, cần tối thiểu 20 phút hạ hỏa thần kinh.](images/MW_REL_05_hero.jpg) *(Source: [https://images.unsplash.com/photo-1573496359142-b8d87734a5a2?auto=format&fit=crop&w=1200&q=85](https://images.unsplash.com/photo-1573496359142-b8d87734a5a2?auto=format&fit=crop&w=1200&q=85))* 
+**Inline Figure:** ![Hệ viền não bộ và hạch hạnh nhân (Blausen Medical): Phản ứng tràn ngập cảm xúc khi nhịp tim vượt 100 bpm khóa chặt vỏ não logic, cần tối thiểu 20 phút hạ hỏa thần kinh.](images/MW_REL_05_figure.png) *(Source: [https://commons.wikimedia.org/wiki/File:Blausen_0614_LimbicSystem.png](https://commons.wikimedia.org/wiki/File:Blausen_0614_LimbicSystem.png))* 
 **Clinical Source:** [Journal of Marriage and Family (Gottman Institute) & Psychophysiology](https://pubmed.ncbi.nlm.nih.gov/6620126/) 
 
 ---
@@ -30,8 +30,8 @@ Trạng thái này được các nhà khoa học gọi là **Ngập Lụt Cảm 
 Mọi nỗ lực "giải quyết vấn đề bằng lý lẽ" trong lúc một trong hai người đang bị ngập lụt sinh lý **chắc chắn 100% sẽ thất bại** và chỉ làm tổn thương mối quan hệ sâu sắc hơn!
 
 <figure class="article-inline-diagram">
- <img src="images/LM_HW_01_figure.png" alt="Sơ đồ phản ứng thần kinh giao cảm khi tranh cãi" loading="lazy">
- <figcaption>📊 <strong>Sinh Lý Học Của Cơn Nóng Giận:</strong> Thiết bị đeo (Apple Watch/Garmin) sẽ phát cảnh báo nhịp tim tăng bất thường trong lúc cãi vã; đây là tín hiệu sinh học bắt buộc phải dừng cuộc đối thoại. <a href="https://commons.wikimedia.org/wiki/File:Autonomic_Nervous_System.svg" target="_blank" rel="noopener">Nguồn sơ đồ: Wikimedia Commons ↗</a></figcaption>
+ <img src="images/MW_REL_05_figure.png" alt="Hệ viền não bộ và hạch hạnh nhân (Blausen Medical): Phản ứng tràn ngập cảm xúc khi nhịp tim vượt 100 bpm khóa chặt vỏ não logic, cần tối thiểu 20 phút hạ hỏa thần kinh." loading="lazy">
+ <figcaption>📊 <strong>Sơ đồ y khoa:</strong> Hệ viền não bộ và hạch hạnh nhân (Blausen Medical): Phản ứng tràn ngập cảm xúc khi nhịp tim vượt 100 bpm khóa chặt vỏ não logic, cần tối thiểu 20 phút hạ hỏa thần kinh. <a href="https://commons.wikimedia.org/wiki/File:Blausen_0614_LimbicSystem.png" target="_blank" rel="noopener">Nguồn sơ đồ: Wikimedia Commons ↗</a></figcaption>
 </figure>
 
 ---
@@ -100,8 +100,8 @@ This state is clinically termed **Emotional Flooding**. When flooded, the prefro
 Attempting to resolve interpersonal problems logically during physiological flooding **fails 100% of the time** and inflicts severe relational scarring.
 
 <figure class="article-inline-diagram">
- <img src="images/LM_HW_01_figure.png" alt="Sympathetic activation during argument diagram" loading="lazy">
- <figcaption>📊 <strong>Physiological Flooding Dynamics:</strong> Wearable sensors alert to abnormal resting heart rate spikes during marital arguments, signaling an urgent mandatory time-out. <a href="https://commons.wikimedia.org/wiki/File:Autonomic_Nervous_System.svg" target="_blank" rel="noopener">Diagram source: Wikimedia Commons ↗</a></figcaption>
+ <img src="images/MW_REL_05_figure.png" alt="The limbic system and amygdala (Blausen Medical): Emotional flooding during arguments overrides prefrontal logic, necessitating physiological self-soothing breaks." loading="lazy">
+ <figcaption>📊 <strong>Scientific Figure:</strong> The limbic system and amygdala (Blausen Medical): Emotional flooding during arguments overrides prefrontal logic, necessitating physiological self-soothing breaks. <a href="https://commons.wikimedia.org/wiki/File:Blausen_0614_LimbicSystem.png" target="_blank" rel="noopener">Diagram source: Wikimedia Commons ↗</a></figcaption>
 </figure>
 
 ---

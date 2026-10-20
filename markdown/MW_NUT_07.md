@@ -3,8 +3,8 @@
 **Screen:** Metabolic Health & Endocrine Fasting Screen 
 **Metric:** Insulin Sensitivity, Growth Hormone Pulsatility & LH/Testosterone 
 **Reading Time:** 8 phút đọc / 8 min 
-**Hero Image:** ![Nhịn Ăn Gián Đoạn (IF) & Nội Tiết Tố Nam: Lợi Ích Nhạy Insulin So Với Rủi Ro Tụt Testosterone](images/LM_AC_02_hero.jpg) *(Source: [https://images.unsplash.com/photo-1490645935967-10de6ba17061?auto=format&fit=crop&w=1200&q=85](https://images.unsplash.com/photo-1490645935967-10de6ba17061?auto=format&fit=crop&w=1200&q=85))* 
-**Inline Figure:** ![Chuyển hóa Insulin và độ nhạy tế bào: Nhịn ăn gián đoạn giúp hạ thấp nồng độ insulin nền, tạo điều kiện thuận lợi cho hormone tăng trưởng (GH) và quá trình tự thực bào (Autophagy).](images/DM_AC_02_figure.png) *(Source: [https://commons.wikimedia.org/wiki/File:Insulin_glucose_metabolism.svg](https://commons.wikimedia.org/wiki/File:Insulin_glucose_metabolism.svg))* 
+**Hero Image:** ![Dòng thác tín hiệu Insulin và điều hòa glucose: Nhịn ăn gián đoạn hợp lý tối ưu hóa độ nhạy insulin mà vẫn bảo tồn năng lượng cho trục nội tiết nam.](images/MW_NUT_07_hero.jpg) *(Source: [https://images.unsplash.com/photo-1498837167922-ddd27525d352?auto=format&fit=crop&w=1200&q=85](https://images.unsplash.com/photo-1498837167922-ddd27525d352?auto=format&fit=crop&w=1200&q=85))* 
+**Inline Figure:** ![Dòng thác tín hiệu Insulin và điều hòa glucose: Nhịn ăn gián đoạn hợp lý tối ưu hóa độ nhạy insulin mà vẫn bảo tồn năng lượng cho trục nội tiết nam.](images/MW_NUT_07_figure.png) *(Source: [https://commons.wikimedia.org/wiki/File:Insulin_glucose_metabolism_ZP.svg](https://commons.wikimedia.org/wiki/File:Insulin_glucose_metabolism_ZP.svg))* 
 **Clinical Source:** [Journal of Translational Medicine & The Journal of Clinical Endocrinology & Metabolism](https://pubmed.ncbi.nlm.nih.gov/27737674/) 
 
 ---
@@ -31,8 +31,8 @@ Sau 8 tuần, kết quả cho thấy:
 Điều này chứng minh: Nhịn ăn gián đoạn không phải là một "phép màu" hoàn hảo không tì vết, mà là một sự đánh đổi sinh học tùy thuộc vào mục tiêu và lượng mỡ cơ thể hiện tại của bạn.
 
 <figure class="article-inline-diagram">
- <img src="images/DM_AC_02_figure.png" alt="Sơ đồ chuyển hóa năng lượng và nhạy insulin" loading="lazy">
- <figcaption>📊 <strong>Chuyển Hóa Năng Lượng Giữa Đường & Mỡ:</strong> Nhịn ăn 16 tiếng buộc cơ thể chuyển sang trạng thái đốt axit béo (Metabolic Flexibility), nhưng nếu kéo dài quá mức sẽ kích hoạt trục stress sinh tồn. <a href="https://commons.wikimedia.org/wiki/File:Insulin_glucose_metabolism.svg" target="_blank" rel="noopener">Nguồn sơ đồ: Wikimedia Commons ↗</a></figcaption>
+ <img src="images/MW_NUT_07_figure.png" alt="Dòng thác tín hiệu Insulin và điều hòa glucose: Nhịn ăn gián đoạn hợp lý tối ưu hóa độ nhạy insulin mà vẫn bảo tồn năng lượng cho trục nội tiết nam." loading="lazy">
+ <figcaption>📊 <strong>Sơ đồ y khoa:</strong> Dòng thác tín hiệu Insulin và điều hòa glucose: Nhịn ăn gián đoạn hợp lý tối ưu hóa độ nhạy insulin mà vẫn bảo tồn năng lượng cho trục nội tiết nam. <a href="https://commons.wikimedia.org/wiki/File:Insulin_glucose_metabolism_ZP.svg" target="_blank" rel="noopener">Nguồn sơ đồ: Wikimedia Commons ↗</a></figcaption>
 </figure>
 
 ---
@@ -95,8 +95,8 @@ After 8 weeks:
 Intermittent fasting is not a cost-free panacea; it represents a physiological trade-off dependent on your baseline body composition and athletic demands.
 
 <figure class="article-inline-diagram">
- <img src="images/DM_AC_02_figure.png" alt="Insulin dynamics and metabolic flexibility diagram" loading="lazy">
- <figcaption>📊 <strong>Fuel Switching Under Fasting:</strong> Fasting forces cellular adaptation toward free fatty acid oxidation, but prolonged fasting in lean individuals triggers energy-conservation stress responses. <a href="https://commons.wikimedia.org/wiki/File:Insulin_glucose_metabolism.svg" target="_blank" rel="noopener">Diagram source: Wikimedia Commons ↗</a></figcaption>
+ <img src="images/MW_NUT_07_figure.png" alt="Insulin signaling and cellular glucose homeostasis: Time-restricted feeding optimizes insulin sensitivity while preserving energy availability for endocrine axes." loading="lazy">
+ <figcaption>📊 <strong>Scientific Figure:</strong> Insulin signaling and cellular glucose homeostasis: Time-restricted feeding optimizes insulin sensitivity while preserving energy availability for endocrine axes. <a href="https://commons.wikimedia.org/wiki/File:Insulin_glucose_metabolism_ZP.svg" target="_blank" rel="noopener">Diagram source: Wikimedia Commons ↗</a></figcaption>
 </figure>
 
 ---

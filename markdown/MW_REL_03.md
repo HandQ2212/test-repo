@@ -3,8 +3,8 @@
 **Screen:** Emotional Health & Hormonal Bonding Screen 
 **Metric:** Oxytocin Signaling, Ventral Striatum Activation & Vagal Attunement 
 **Reading Time:** 8 phút đọc / 8 min 
-**Hero Image:** ![Sự Thân Mật Cảm Xúc: Nền Móng Oxytocin Vượt Ra Ngoài Sự Cuốn Hút Thể Xác Thuần Túy](images/DM_SL_01_photo.jpg) *(Source: [https://images.unsplash.com/photo-1516589178581-6cd7833ae3b2?auto=format&fit=crop&w=1200&q=85](https://images.unsplash.com/photo-1516589178581-6cd7833ae3b2?auto=format&fit=crop&w=1200&q=85))* 
-**Inline Figure:** ![Cấu trúc peptide Oxytocin: Hormone gắn kết được tổng hợp tại nhân cận thất vùng dưới đồi, đóng vai trò ức chế nỗi sợ hạch hạnh nhân và củng cố sự gắn bó lâu dài.](images/DM_HW_01_figure.jpg) *(Source: [https://commons.wikimedia.org/wiki/File:Oxytocin_structure.svg](https://commons.wikimedia.org/wiki/File:Oxytocin_structure.svg))* 
+**Hero Image:** ![Cấu trúc hóa học phân tử Oxytocin: Peptide 9 axit amin được tổng hợp tại vùng dưới đồi, đóng vai trò nền tảng tạo sự gắn kết tình cảm, niềm tin và sự thư giãn lứa đôi.](images/MW_REL_03_hero.jpg) *(Source: [https://images.unsplash.com/photo-1494774157365-9e04c6720e47?auto=format&fit=crop&w=1200&q=85](https://images.unsplash.com/photo-1494774157365-9e04c6720e47?auto=format&fit=crop&w=1200&q=85))* 
+**Inline Figure:** ![Cấu trúc hóa học phân tử Oxytocin: Peptide 9 axit amin được tổng hợp tại vùng dưới đồi, đóng vai trò nền tảng tạo sự gắn kết tình cảm, niềm tin và sự thư giãn lứa đôi.](images/MW_REL_03_figure.png) *(Source: [https://commons.wikimedia.org/wiki/File:Oxytocin_color.svg](https://commons.wikimedia.org/wiki/File:Oxytocin_color.svg))* 
 **Clinical Source:** [Psychoneuroendocrinology & Nature Reviews Neuroscience](https://pubmed.ncbi.nlm.nih.gov/18652807/) 
 
 ---
@@ -26,8 +26,8 @@ Não bộ loài người được lập trình với hai hệ thống hóa học
 Nếu một cặp đôi chỉ dựa vào sức hút ngoại hình mà không bồi đắp sự thân mật cảm xúc, họ sẽ nhanh chóng rơi vào cảm giác "hết yêu" khi dopamine cạn kiệt.
 
 <figure class="article-inline-diagram">
- <img src="images/DM_HW_01_figure.jpg" alt="Sơ đồ phân tử hormone gắn kết Oxytocin" loading="lazy">
- <figcaption>📊 <strong>Kiến Trúc Sư Của Lòng Tin:</strong> Oxytocin trực tiếp làm dịu phản ứng báo động của hạch hạnh nhân (Amygdala), cho phép con người cảm thấy an toàn tuyệt đối khi ở cạnh người bạn đời. <a href="https://commons.wikimedia.org/wiki/File:Oxytocin_structure.svg" target="_blank" rel="noopener">Nguồn sơ đồ: Wikimedia Commons ↗</a></figcaption>
+ <img src="images/MW_REL_03_figure.png" alt="Cấu trúc hóa học phân tử Oxytocin: Peptide 9 axit amin được tổng hợp tại vùng dưới đồi, đóng vai trò nền tảng tạo sự gắn kết tình cảm, niềm tin và sự thư giãn lứa đôi." loading="lazy">
+ <figcaption>📊 <strong>Sơ đồ y khoa:</strong> Cấu trúc hóa học phân tử Oxytocin: Peptide 9 axit amin được tổng hợp tại vùng dưới đồi, đóng vai trò nền tảng tạo sự gắn kết tình cảm, niềm tin và sự thư giãn lứa đôi. <a href="https://commons.wikimedia.org/wiki/File:Oxytocin_color.svg" target="_blank" rel="noopener">Nguồn sơ đồ: Wikimedia Commons ↗</a></figcaption>
 </figure>
 
 ---
@@ -90,8 +90,8 @@ Human neural architecture utilizes two distinct biochemical systems to secure re
 Couples who rely solely on physical infatuation without nurturing emotional intimacy inevitably hit an existential crisis when early dopamine habituates.
 
 <figure class="article-inline-diagram">
- <img src="images/DM_HW_01_figure.jpg" alt="Oxytocin neuropeptide molecular structure diagram" loading="lazy">
- <figcaption>📊 <strong>The Neurochemistry of Trust:</strong> Oxytocin directly suppresses amygdalar fear circuits, generating visceral psychological safety between partners. <a href="https://commons.wikimedia.org/wiki/File:Oxytocin_structure.svg" target="_blank" rel="noopener">Diagram source: Wikimedia Commons ↗</a></figcaption>
+ <img src="images/MW_REL_03_figure.png" alt="Color-coded molecular structure of Oxytocin: The nonapeptide synthesized in the hypothalamus fosters emotional bonding, trust, and reduction of social anxiety." loading="lazy">
+ <figcaption>📊 <strong>Scientific Figure:</strong> Color-coded molecular structure of Oxytocin: The nonapeptide synthesized in the hypothalamus fosters emotional bonding, trust, and reduction of social anxiety. <a href="https://commons.wikimedia.org/wiki/File:Oxytocin_color.svg" target="_blank" rel="noopener">Diagram source: Wikimedia Commons ↗</a></figcaption>
 </figure>
 
 ---

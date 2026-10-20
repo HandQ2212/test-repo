@@ -3,8 +3,8 @@
 **Screen:** Sexology & Psychosexual Assessment Screen 
 **Metric:** Dual Control Model (SIS/SES), Contextual Arousal & Libido Diversity 
 **Reading Time:** 8 phút đọc / 8 min 
-**Hero Image:** ![Có Mức Ham Muốn Chuẩn Không? Mô Hình Hai Cơ Chế Kiểm Soát (Dual Control) & Tính Đa Dạng](images/DM_MH_03_hero.jpg) *(Source: [https://images.unsplash.com/photo-1517838277536-f5f99be501cd?auto=format&fit=crop&w=1200&q=85](https://images.unsplash.com/photo-1517838277536-f5f99be501cd?auto=format&fit=crop&w=1200&q=85))* 
-**Inline Figure:** ![Mô hình hai cơ chế kiểm soát (Dual Control Model): Ham muốn là sự cân bằng giữa chân ga kích thích (SES) và chân phanh ức chế (SIS) của hệ thần kinh trung ương.](images/LM_HW_01_figure.png) *(Source: [https://commons.wikimedia.org/wiki/File:Dual_control_model.svg](https://commons.wikimedia.org/wiki/File:Dual_control_model.svg))* 
+**Hero Image:** ![Mô hình hai cơ chế kiểm soát (Dual Control Model): Sự cân bằng tương hỗ giữa Hệ Kích thích tình dục (chân ga) và Hệ Ức chế tình dục (chân phanh).](images/MW_SXO_04_hero.jpg) *(Source: [https://images.unsplash.com/photo-1447752875215-b2761acb3c5d?auto=format&fit=crop&w=1200&q=85](https://images.unsplash.com/photo-1447752875215-b2761acb3c5d?auto=format&fit=crop&w=1200&q=85))* 
+**Inline Figure:** ![Mô hình hai cơ chế kiểm soát (Dual Control Model): Sự cân bằng tương hỗ giữa Hệ Kích thích tình dục (chân ga) và Hệ Ức chế tình dục (chân phanh).](images/MW_SXO_04_figure.png) *(Source: [https://commons.wikimedia.org/wiki/File:Dual_control_model_of_sexual_response.svg](https://commons.wikimedia.org/wiki/File:Dual_control_model_of_sexual_response.svg))* 
 **Clinical Source:** [Kinsey Institute & Journal of Sex Research](https://pubmed.ncbi.nlm.nih.gov/10704733/) 
 
 ---
@@ -26,8 +26,8 @@ Các nghiên cứu dịch tễ học tình dục quy mô lớn của **Viện Ki
 - Tất cả các mức tần suất trên đều hoàn toàn **bình thường và khỏe mạnh** về mặt y khoa, miễn là nó không gây đau khổ chủ quan cho bản thân người đó hoặc làm đổ vỡ mối quan hệ lứa đôi.
 
 <figure class="article-inline-diagram">
- <img src="images/LM_HW_01_figure.png" alt="Sơ đồ mô hình kiểm soát kép SES và SIS" loading="lazy">
- <figcaption>📊 <strong>Chân Ga (SES) & Chân Phanh (SIS):</strong> Ham muốn không chỉ phụ thuộc vào việc có bao nhiêu kích thích, mà phụ thuộc vào việc hệ ức chế của não bộ có đang ghì chặt chân phanh hay không. <a href="https://commons.wikimedia.org/wiki/File:Dual_control_model.svg" target="_blank" rel="noopener">Nguồn sơ đồ: Wikimedia Commons ↗</a></figcaption>
+ <img src="images/MW_SXO_04_figure.png" alt="Mô hình hai cơ chế kiểm soát (Dual Control Model): Sự cân bằng tương hỗ giữa Hệ Kích thích tình dục (chân ga) và Hệ Ức chế tình dục (chân phanh)." loading="lazy">
+ <figcaption>📊 <strong>Sơ đồ y khoa:</strong> Mô hình hai cơ chế kiểm soát (Dual Control Model): Sự cân bằng tương hỗ giữa Hệ Kích thích tình dục (chân ga) và Hệ Ức chế tình dục (chân phanh). <a href="https://commons.wikimedia.org/wiki/File:Dual_control_model_of_sexual_response.svg" target="_blank" rel="noopener">Nguồn sơ đồ: Wikimedia Commons ↗</a></figcaption>
 </figure>
 
 ---
@@ -94,8 +94,8 @@ Epidemiological research from the **Kinsey Institute** proves:
 - All points along this spectrum are physiologically healthy provided they cause no personal distress or relational fracture.
 
 <figure class="article-inline-diagram">
- <img src="images/LM_HW_01_figure.png" alt="Dual control model of sexual excitation and inhibition diagram" loading="lazy">
- <figcaption>📊 <strong>The Dual Control Model:</strong> Arousal is not just about pressing the gas pedal; it requires the brain to release inhibitory brakes. <a href="https://commons.wikimedia.org/wiki/File:Dual_control_model.svg" target="_blank" rel="noopener">Diagram source: Wikimedia Commons ↗</a></figcaption>
+ <img src="images/MW_SXO_04_figure.png" alt="Dual Control Model of sexual response: Balance between sexual excitation system (SES) and sexual inhibition system (SIS) determining individual arousal patterns." loading="lazy">
+ <figcaption>📊 <strong>Scientific Figure:</strong> Dual Control Model of sexual response: Balance between sexual excitation system (SES) and sexual inhibition system (SIS) determining individual arousal patterns. <a href="https://commons.wikimedia.org/wiki/File:Dual_control_model_of_sexual_response.svg" target="_blank" rel="noopener">Diagram source: Wikimedia Commons ↗</a></figcaption>
 </figure>
 
 ---

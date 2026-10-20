@@ -250,5 +250,284 @@
     "figure_ext": "jpg",
     "hero_local": "images/DM_MH_03_hero.jpg",
     "figure_local": "images/DM_MH_03_figure.jpg"
+  },
+  "MW_NUT_01": {
+    "hero_url": "https://images.unsplash.com/photo-1540420773420-3366772f4999?auto=format&fit=crop&w=1200&q=85",
+    "hero_source_page": "https://unsplash.com/photos/photo-1540420773420-3366772f4999",
+    "figure_url": "https://commons.wikimedia.org/wiki/File:Steroidogenesis.svg",
+    "figure_source_page": "https://commons.wikimedia.org/wiki/File:Steroidogenesis.svg",
+    "figure_ext": "png",
+    "hero_local": "images/MW_NUT_01_hero.jpg",
+    "figure_local": "images/MW_NUT_01_figure.png"
+  },
+  "MW_NUT_02": {
+    "hero_url": "https://images.unsplash.com/photo-1543339308-43e59d6b73a6?auto=format&fit=crop&w=1200&q=85",
+    "hero_source_page": "https://unsplash.com/photos/photo-1543339308-43e59d6b73a6",
+    "figure_url": "https://commons.wikimedia.org/wiki/File:Atherosclerosis_timeline_-_endothelial_dysfunction.svg",
+    "figure_source_page": "https://commons.wikimedia.org/wiki/File:Atherosclerosis_timeline_-_endothelial_dysfunction.svg",
+    "figure_ext": "png",
+    "hero_local": "images/MW_NUT_02_hero.jpg",
+    "figure_local": "images/MW_NUT_02_figure.png"
+  },
+  "MW_NUT_03": {
+    "hero_url": "https://images.unsplash.com/photo-1532550907401-a500c9a57435?auto=format&fit=crop&w=1200&q=85",
+    "hero_source_page": "https://unsplash.com/photos/photo-1532550907401-a500c9a57435",
+    "figure_url": "https://commons.wikimedia.org/wiki/File:Sarcomere.svg",
+    "figure_source_page": "https://commons.wikimedia.org/wiki/File:Sarcomere.svg",
+    "figure_ext": "png",
+    "hero_local": "images/MW_NUT_03_hero.jpg",
+    "figure_local": "images/MW_NUT_03_figure.png"
+  },
+  "MW_NUT_04": {
+    "hero_url": "https://images.unsplash.com/photo-1551024709-8f23befc6f87?auto=format&fit=crop&w=1200&q=85",
+    "hero_source_page": "https://unsplash.com/photos/photo-1551024709-8f23befc6f87",
+    "figure_url": "https://commons.wikimedia.org/wiki/File:Ethanol_metabolism.png",
+    "figure_source_page": "https://commons.wikimedia.org/wiki/File:Ethanol_metabolism.png",
+    "figure_ext": "png",
+    "hero_local": "images/MW_NUT_04_hero.jpg",
+    "figure_local": "images/MW_NUT_04_figure.png"
+  },
+  "MW_NUT_05": {
+    "hero_url": "https://images.unsplash.com/photo-1507525428034-b723cf961d3e?auto=format&fit=crop&w=1200&q=85",
+    "hero_source_page": "https://unsplash.com/photos/photo-1507525428034-b723cf961d3e",
+    "figure_url": "https://commons.wikimedia.org/wiki/File:Zinc_finger_rendered.png",
+    "figure_source_page": "https://commons.wikimedia.org/wiki/File:Zinc_finger_rendered.png",
+    "figure_ext": "png",
+    "hero_local": "images/MW_NUT_05_hero.jpg",
+    "figure_local": "images/MW_NUT_05_figure.png"
+  },
+  "MW_NUT_06": {
+    "hero_url": "https://images.unsplash.com/photo-1509358271058-acd22cc93898?auto=format&fit=crop&w=1200&q=85",
+    "hero_source_page": "https://unsplash.com/photos/photo-1509358271058-acd22cc93898",
+    "figure_url": "https://commons.wikimedia.org/wiki/File:Complete_diagram_of_a_human_spermatozoa_en.svg",
+    "figure_source_page": "https://commons.wikimedia.org/wiki/File:Complete_diagram_of_a_human_spermatozoa_en.svg",
+    "figure_ext": "png",
+    "hero_local": "images/MW_NUT_06_hero.jpg",
+    "figure_local": "images/MW_NUT_06_figure.png"
+  },
+  "MW_NUT_07": {
+    "hero_url": "https://images.unsplash.com/photo-1498837167922-ddd27525d352?auto=format&fit=crop&w=1200&q=85",
+    "hero_source_page": "https://unsplash.com/photos/photo-1498837167922-ddd27525d352",
+    "figure_url": "https://commons.wikimedia.org/wiki/File:Insulin_glucose_metabolism_ZP.svg",
+    "figure_source_page": "https://commons.wikimedia.org/wiki/File:Insulin_glucose_metabolism_ZP.svg",
+    "figure_ext": "png",
+    "hero_local": "images/MW_NUT_07_hero.jpg",
+    "figure_local": "images/MW_NUT_07_figure.png"
+  },
+  "MW_NUT_08": {
+    "hero_url": "https://images.unsplash.com/photo-1523362628745-0c100150b504?auto=format&fit=crop&w=1200&q=85",
+    "hero_source_page": "https://unsplash.com/photos/photo-1523362628745-0c100150b504",
+    "figure_url": "https://commons.wikimedia.org/wiki/File:Renin-angiotensin-aldosterone_system.svg",
+    "figure_source_page": "https://commons.wikimedia.org/wiki/File:Renin-angiotensin-aldosterone_system.svg",
+    "figure_ext": "png",
+    "hero_local": "images/MW_NUT_08_hero.jpg",
+    "figure_local": "images/MW_NUT_08_figure.png"
+  },
+  "MW_SXH_01": {
+    "hero_url": "https://images.unsplash.com/photo-1495344517868-8ebaf0a2044a?auto=format&fit=crop&w=1200&q=85",
+    "hero_source_page": "https://unsplash.com/photos/photo-1495344517868-8ebaf0a2044a",
+    "figure_url": "https://commons.wikimedia.org/wiki/File:Biological_clock_human.svg",
+    "figure_source_page": "https://commons.wikimedia.org/wiki/File:Biological_clock_human.svg",
+    "figure_ext": "png",
+    "hero_local": "images/MW_SXH_01_hero.jpg",
+    "figure_local": "images/MW_SXH_01_figure.png"
+  },
+  "MW_SXH_02": {
+    "hero_url": "https://images.unsplash.com/photo-1584515979956-d9f6e5d09982?auto=format&fit=crop&w=1200&q=85",
+    "hero_source_page": "https://unsplash.com/photos/photo-1584515979956-d9f6e5d09982",
+    "figure_url": "https://commons.wikimedia.org/wiki/File:Carotid_artery_stenosis_by_hariadhi.svg",
+    "figure_source_page": "https://commons.wikimedia.org/wiki/File:Carotid_artery_stenosis_by_hariadhi.svg",
+    "figure_ext": "png",
+    "hero_local": "images/MW_SXH_02_hero.jpg",
+    "figure_local": "images/MW_SXH_02_figure.png"
+  },
+  "MW_SXH_03": {
+    "hero_url": "https://images.unsplash.com/photo-1517849845537-4d257902454a?auto=format&fit=crop&w=1200&q=85",
+    "hero_source_page": "https://unsplash.com/photos/photo-1517849845537-4d257902454a",
+    "figure_url": "https://commons.wikimedia.org/wiki/File:Sleep_Hypnogram.svg",
+    "figure_source_page": "https://commons.wikimedia.org/wiki/File:Sleep_Hypnogram.svg",
+    "figure_ext": "png",
+    "hero_local": "images/MW_SXH_03_hero.jpg",
+    "figure_local": "images/MW_SXH_03_figure.png"
+  },
+  "MW_SXH_04": {
+    "hero_url": "https://images.unsplash.com/photo-1506784983877-45594efa4cbe?auto=format&fit=crop&w=1200&q=85",
+    "hero_source_page": "https://unsplash.com/photos/photo-1506784983877-45594efa4cbe",
+    "figure_url": "https://commons.wikimedia.org/wiki/File:HPA_Axis_Diagram_(Brian_M_Sweis_2012).svg",
+    "figure_source_page": "https://commons.wikimedia.org/wiki/File:HPA_Axis_Diagram_(Brian_M_Sweis_2012).svg",
+    "figure_ext": "png",
+    "hero_local": "images/MW_SXH_04_hero.jpg",
+    "figure_local": "images/MW_SXH_04_figure.png"
+  },
+  "MW_SXH_05": {
+    "hero_url": "https://images.unsplash.com/photo-1507652313519-d4e9174996dd?auto=format&fit=crop&w=1200&q=85",
+    "hero_source_page": "https://unsplash.com/photos/photo-1507652313519-d4e9174996dd",
+    "figure_url": "https://commons.wikimedia.org/wiki/File:Figure_28_01_06.jpg",
+    "figure_source_page": "https://commons.wikimedia.org/wiki/File:Figure_28_01_06.jpg",
+    "figure_ext": "png",
+    "hero_local": "images/MW_SXH_05_hero.jpg",
+    "figure_local": "images/MW_SXH_05_figure.png"
+  },
+  "MW_SXH_06": {
+    "hero_url": "https://images.unsplash.com/photo-1452626212852-811d58933cae?auto=format&fit=crop&w=1200&q=85",
+    "hero_source_page": "https://unsplash.com/photos/photo-1452626212852-811d58933cae",
+    "figure_url": "https://commons.wikimedia.org/wiki/File:Exercise_zones_Fox_and_Haskell.svg",
+    "figure_source_page": "https://commons.wikimedia.org/wiki/File:Exercise_zones_Fox_and_Haskell.svg",
+    "figure_ext": "png",
+    "hero_local": "images/MW_SXH_06_hero.jpg",
+    "figure_local": "images/MW_SXH_06_figure.png"
+  },
+  "MW_SXH_07": {
+    "hero_url": "https://images.unsplash.com/photo-1574680096145-d05b474e2155?auto=format&fit=crop&w=1200&q=85",
+    "hero_source_page": "https://unsplash.com/photos/photo-1574680096145-d05b474e2155",
+    "figure_url": "https://commons.wikimedia.org/wiki/File:Figure_28_01_03.jpg",
+    "figure_source_page": "https://commons.wikimedia.org/wiki/File:Figure_28_01_03.jpg",
+    "figure_ext": "png",
+    "hero_local": "images/MW_SXH_07_hero.jpg",
+    "figure_local": "images/MW_SXH_07_figure.png"
+  },
+  "MW_SXH_08": {
+    "hero_url": "https://images.unsplash.com/photo-1532187863486-abf9dbad1b69?auto=format&fit=crop&w=1200&q=85",
+    "hero_source_page": "https://unsplash.com/photos/photo-1532187863486-abf9dbad1b69",
+    "figure_url": "https://commons.wikimedia.org/wiki/File:Hypothalamus-Hypophysis-Testicle-Hormone-Axis_(engl.).svg",
+    "figure_source_page": "https://commons.wikimedia.org/wiki/File:Hypothalamus-Hypophysis-Testicle-Hormone-Axis_(engl.).svg",
+    "figure_ext": "png",
+    "hero_local": "images/MW_SXH_08_hero.jpg",
+    "figure_local": "images/MW_SXH_08_figure.png"
+  },
+  "MW_REL_01": {
+    "hero_url": "https://images.unsplash.com/photo-1522071820081-009f0129c71c?auto=format&fit=crop&w=1200&q=85",
+    "hero_source_page": "https://unsplash.com/photos/photo-1522071820081-009f0129c71c",
+    "figure_url": "https://commons.wikimedia.org/wiki/File:The_Autonomic_Nervous_System.png",
+    "figure_source_page": "https://commons.wikimedia.org/wiki/File:The_Autonomic_Nervous_System.png",
+    "figure_ext": "png",
+    "hero_local": "images/MW_REL_01_hero.jpg",
+    "figure_local": "images/MW_REL_01_figure.png"
+  },
+  "MW_REL_02": {
+    "hero_url": "https://images.unsplash.com/photo-1529156069898-49953e39b3ac?auto=format&fit=crop&w=1200&q=85",
+    "hero_source_page": "https://unsplash.com/photos/photo-1529156069898-49953e39b3ac",
+    "figure_url": "https://commons.wikimedia.org/wiki/File:Empathy.png",
+    "figure_source_page": "https://commons.wikimedia.org/wiki/File:Empathy.png",
+    "figure_ext": "png",
+    "hero_local": "images/MW_REL_02_hero.jpg",
+    "figure_local": "images/MW_REL_02_figure.png"
+  },
+  "MW_REL_03": {
+    "hero_url": "https://images.unsplash.com/photo-1494774157365-9e04c6720e47?auto=format&fit=crop&w=1200&q=85",
+    "hero_source_page": "https://unsplash.com/photos/photo-1494774157365-9e04c6720e47",
+    "figure_url": "https://commons.wikimedia.org/wiki/File:Oxytocin_color.svg",
+    "figure_source_page": "https://commons.wikimedia.org/wiki/File:Oxytocin_color.svg",
+    "figure_ext": "png",
+    "hero_local": "images/MW_REL_03_hero.jpg",
+    "figure_local": "images/MW_REL_03_figure.png"
+  },
+  "MW_REL_04": {
+    "hero_url": "https://images.unsplash.com/photo-1469571486292-0ba58a3f068b?auto=format&fit=crop&w=1200&q=85",
+    "hero_source_page": "https://unsplash.com/photos/photo-1469571486292-0ba58a3f068b",
+    "figure_url": "https://commons.wikimedia.org/wiki/File:HebbianYerkesDodson.svg",
+    "figure_source_page": "https://commons.wikimedia.org/wiki/File:HebbianYerkesDodson.svg",
+    "figure_ext": "png",
+    "hero_local": "images/MW_REL_04_hero.jpg",
+    "figure_local": "images/MW_REL_04_figure.png"
+  },
+  "MW_REL_05": {
+    "hero_url": "https://images.unsplash.com/photo-1573496359142-b8d87734a5a2?auto=format&fit=crop&w=1200&q=85",
+    "hero_source_page": "https://unsplash.com/photos/photo-1573496359142-b8d87734a5a2",
+    "figure_url": "https://commons.wikimedia.org/wiki/File:Blausen_0614_LimbicSystem.png",
+    "figure_source_page": "https://commons.wikimedia.org/wiki/File:Blausen_0614_LimbicSystem.png",
+    "figure_ext": "png",
+    "hero_local": "images/MW_REL_05_hero.jpg",
+    "figure_local": "images/MW_REL_05_figure.png"
+  },
+  "MW_REL_06": {
+    "hero_url": "https://images.unsplash.com/photo-1529333166437-7750a6dd5a70?auto=format&fit=crop&w=1200&q=85",
+    "hero_source_page": "https://unsplash.com/photos/photo-1529333166437-7750a6dd5a70",
+    "figure_url": "https://commons.wikimedia.org/wiki/File:Sexual-response-cycle.svg",
+    "figure_source_page": "https://commons.wikimedia.org/wiki/File:Sexual-response-cycle.svg",
+    "figure_ext": "png",
+    "hero_local": "images/MW_REL_06_hero.jpg",
+    "figure_local": "images/MW_REL_06_figure.png"
+  },
+  "MW_REL_07": {
+    "hero_url": "https://images.unsplash.com/photo-1518199266791-5375a83190b7?auto=format&fit=crop&w=1200&q=85",
+    "hero_source_page": "https://unsplash.com/photos/photo-1518199266791-5375a83190b7",
+    "figure_url": "https://commons.wikimedia.org/wiki/File:Adult_attachment_patterns.svg",
+    "figure_source_page": "https://commons.wikimedia.org/wiki/File:Adult_attachment_patterns.svg",
+    "figure_ext": "png",
+    "hero_local": "images/MW_REL_07_hero.jpg",
+    "figure_local": "images/MW_REL_07_figure.png"
+  },
+  "MW_REL_08": {
+    "hero_url": "https://images.unsplash.com/photo-1505691938895-1758d7feb511?auto=format&fit=crop&w=1200&q=85",
+    "hero_source_page": "https://unsplash.com/photos/photo-1505691938895-1758d7feb511",
+    "figure_url": "https://commons.wikimedia.org/wiki/File:Brain_anatomy.svg",
+    "figure_source_page": "https://commons.wikimedia.org/wiki/File:Brain_anatomy.svg",
+    "figure_ext": "png",
+    "hero_local": "images/MW_REL_08_hero.jpg",
+    "figure_local": "images/MW_REL_08_figure.png"
+  },
+  "MW_SXO_01": {
+    "hero_url": "https://images.unsplash.com/photo-1500648767791-00dcc994a43e?auto=format&fit=crop&w=1200&q=85",
+    "hero_source_page": "https://unsplash.com/photos/photo-1500648767791-00dcc994a43e",
+    "figure_url": "https://commons.wikimedia.org/wiki/File:Dopaminergic_pathways.svg",
+    "figure_source_page": "https://commons.wikimedia.org/wiki/File:Dopaminergic_pathways.svg",
+    "figure_ext": "png",
+    "hero_local": "images/MW_SXO_01_hero.jpg",
+    "figure_local": "images/MW_SXO_01_figure.png"
+  },
+  "MW_SXO_02": {
+    "hero_url": "https://images.unsplash.com/photo-1517931524326-bdd55a541177?auto=format&fit=crop&w=1200&q=85",
+    "hero_source_page": "https://unsplash.com/photos/photo-1517931524326-bdd55a541177",
+    "figure_url": "https://commons.wikimedia.org/wiki/File:Molecular_pathway_of_vasodilation_mediated_by_cGMP.jpg",
+    "figure_source_page": "https://commons.wikimedia.org/wiki/File:Molecular_pathway_of_vasodilation_mediated_by_cGMP.jpg",
+    "figure_ext": "png",
+    "hero_local": "images/MW_SXO_02_hero.jpg",
+    "figure_local": "images/MW_SXO_02_figure.png"
+  },
+  "MW_SXO_03": {
+    "hero_url": "https://images.unsplash.com/photo-1483721310020-03333e577078?auto=format&fit=crop&w=1200&q=85",
+    "hero_source_page": "https://unsplash.com/photos/photo-1483721310020-03333e577078",
+    "figure_url": "https://commons.wikimedia.org/wiki/File:Androgen_receptor.png",
+    "figure_source_page": "https://commons.wikimedia.org/wiki/File:Androgen_receptor.png",
+    "figure_ext": "png",
+    "hero_local": "images/MW_SXO_03_hero.jpg",
+    "figure_local": "images/MW_SXO_03_figure.png"
+  },
+  "MW_SXO_04": {
+    "hero_url": "https://images.unsplash.com/photo-1447752875215-b2761acb3c5d?auto=format&fit=crop&w=1200&q=85",
+    "hero_source_page": "https://unsplash.com/photos/photo-1447752875215-b2761acb3c5d",
+    "figure_url": "https://commons.wikimedia.org/wiki/File:Dual_control_model_of_sexual_response.svg",
+    "figure_source_page": "https://commons.wikimedia.org/wiki/File:Dual_control_model_of_sexual_response.svg",
+    "figure_ext": "png",
+    "hero_local": "images/MW_SXO_04_hero.jpg",
+    "figure_local": "images/MW_SXO_04_figure.png"
+  },
+  "MW_SXO_05": {
+    "hero_url": "https://images.unsplash.com/photo-1530549387789-4c1017266635?auto=format&fit=crop&w=1200&q=85",
+    "hero_source_page": "https://unsplash.com/photos/photo-1530549387789-4c1017266635",
+    "figure_url": "https://commons.wikimedia.org/wiki/File:1116_Muscle_of_the_Male_Perineum.png",
+    "figure_source_page": "https://commons.wikimedia.org/wiki/File:1116_Muscle_of_the_Male_Perineum.png",
+    "figure_ext": "png",
+    "hero_local": "images/MW_SXO_05_hero.jpg",
+    "figure_local": "images/MW_SXO_05_figure.png"
+  },
+  "MW_SXO_06": {
+    "hero_url": "https://images.unsplash.com/photo-1499750310107-5fef28a66643?auto=format&fit=crop&w=1200&q=85",
+    "hero_source_page": "https://unsplash.com/photos/photo-1499750310107-5fef28a66643",
+    "figure_url": "https://commons.wikimedia.org/wiki/File:Blausen_0346_EndocrineSystem_Male2.png",
+    "figure_source_page": "https://commons.wikimedia.org/wiki/File:Blausen_0346_EndocrineSystem_Male2.png",
+    "figure_ext": "png",
+    "hero_local": "images/MW_SXO_06_hero.jpg",
+    "figure_local": "images/MW_SXO_06_figure.png"
+  },
+  "MW_SXO_08": {
+    "hero_url": "https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?auto=format&fit=crop&w=1200&q=85",
+    "hero_source_page": "https://unsplash.com/photos/photo-1472099645785-5658abf4ff4e",
+    "figure_url": "https://commons.wikimedia.org/wiki/File:Figure_28_01_01.jpg",
+    "figure_source_page": "https://commons.wikimedia.org/wiki/File:Figure_28_01_01.jpg",
+    "figure_ext": "png",
+    "hero_local": "images/MW_SXO_08_hero.jpg",
+    "figure_local": "images/MW_SXO_08_figure.png"
   }
 }

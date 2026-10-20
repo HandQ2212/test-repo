@@ -3,8 +3,8 @@
 **Screen:** Nutrition & Metabolic Health Screen 
 **Metric:** Daily Caloric Balance, Macronutrient Split & Androgen Profile 
 **Reading Time:** 8 phút đọc / 8 min 
-**Hero Image:** ![Chế Độ Ăn & Testosterone: Khoa Học Về Chất Béo, Calo & Sự Thần Thoại Hóa Thực Phẩm](images/DM_HW_02_hero.jpg) *(Source: [https://images.unsplash.com/photo-1544367567-0f2fcb009e0b?auto=format&fit=crop&w=1200&q=85](https://images.unsplash.com/photo-1544367567-0f2fcb009e0b?auto=format&fit=crop&w=1200&q=85))* 
-**Inline Figure:** ![Sơ đồ chuyển hóa sinh tổng hợp steroid (Steroidogenesis): Cholesterol được vận chuyển vào ty thể tế bào Leydig dưới tác động của enzyme StAR để tổng hợp nên Testosterone.](images/LM_MH_01_figure.jpg) *(Source: [https://commons.wikimedia.org/wiki/File:Steroidogenesis.svg](https://commons.wikimedia.org/wiki/File:Steroidogenesis.svg))* 
+**Hero Image:** ![Sơ đồ sinh tổng hợp steroid (Steroidogenesis): Cholesterol được vận chuyển vào ty thể tế bào Leydig dưới tác động của enzyme StAR để tổng hợp nên Testosterone.](images/MW_NUT_01_hero.jpg) *(Source: [https://images.unsplash.com/photo-1540420773420-3366772f4999?auto=format&fit=crop&w=1200&q=85](https://images.unsplash.com/photo-1540420773420-3366772f4999?auto=format&fit=crop&w=1200&q=85))* 
+**Inline Figure:** ![Sơ đồ sinh tổng hợp steroid (Steroidogenesis): Cholesterol được vận chuyển vào ty thể tế bào Leydig dưới tác động của enzyme StAR để tổng hợp nên Testosterone.](images/MW_NUT_01_figure.png) *(Source: [https://commons.wikimedia.org/wiki/File:Steroidogenesis.svg](https://commons.wikimedia.org/wiki/File:Steroidogenesis.svg))* 
 **Clinical Source:** [Journal of Clinical Endocrinology & Metabolism (Endocrine Society) & Sports Medicine](https://pubmed.ncbi.nlm.nih.gov/29562364/) 
 
 ---
@@ -26,8 +26,8 @@ Khi nam giới áp dụng chế độ ăn kiêng quá nghiêm ngặt với hàm 
 - Nồng độ protein mang **SHBG (Sex Hormone-Binding Globulin)** biến động bất thường, làm giảm lượng **Free Testosterone**—dạng hormone tự do duy nhất có khả năng gắn vào thụ thể Androgen tại mô cơ và não bộ.
 
 <figure class="article-inline-diagram">
- <img src="images/LM_MH_01_figure.jpg" alt="Sơ đồ chuyển hóa sinh tổng hợp steroid" loading="lazy">
- <figcaption>📊 <strong>Chuỗi Chuyển Hóa Steroidogenesis:</strong> Không có đủ chất béo bão hòa đơn và bão hòa lành mạnh, tế bào Leydig thiếu hụt cơ chất cholesterol để duy trì tốc độ sinh tổng hợp testosterone tối ưu. <a href="https://commons.wikimedia.org/wiki/File:Steroidogenesis.svg" target="_blank" rel="noopener">Nguồn sơ đồ: Wikimedia Commons ↗</a></figcaption>
+ <img src="images/MW_NUT_01_figure.png" alt="Sơ đồ sinh tổng hợp steroid (Steroidogenesis): Cholesterol được vận chuyển vào ty thể tế bào Leydig dưới tác động của enzyme StAR để tổng hợp nên Testosterone." loading="lazy">
+ <figcaption>📊 <strong>Sơ đồ y khoa:</strong> Sơ đồ sinh tổng hợp steroid (Steroidogenesis): Cholesterol được vận chuyển vào ty thể tế bào Leydig dưới tác động của enzyme StAR để tổng hợp nên Testosterone. <a href="https://commons.wikimedia.org/wiki/File:Steroidogenesis.svg" target="_blank" rel="noopener">Nguồn sơ đồ: Wikimedia Commons ↗</a></figcaption>
 </figure>
 
 ---
@@ -91,8 +91,8 @@ When men adopt an overly restrictive diet slashing dietary fat below 15% of tota
 - Sex Hormone-Binding Globulin (**SHBG**) shifts unfavorably, curtailing **Free Testosterone**—the biologically active fraction responsible for activating androgen receptors in skeletal muscle and neuroendocrine pathways.
 
 <figure class="article-inline-diagram">
- <img src="images/LM_MH_01_figure.jpg" alt="Steroidogenesis cascade diagram" loading="lazy">
- <figcaption>📊 <strong>The Steroidogenesis Pathway:</strong> Without adequate mono- and polyunsaturated fatty acids and dietary cholesterol, testicular Leydig cells face substrate starvation, dampening peak daily androgen production. <a href="https://commons.wikimedia.org/wiki/File:Steroidogenesis.svg" target="_blank" rel="noopener">Diagram source: Wikimedia Commons ↗</a></figcaption>
+ <img src="images/MW_NUT_01_figure.png" alt="Steroidogenesis biochemical pathway: Cholesterol is cleaved by mitochondrial StAR and CYP enzymes in Leydig cells to synthesize testosterone." loading="lazy">
+ <figcaption>📊 <strong>Scientific Figure:</strong> Steroidogenesis biochemical pathway: Cholesterol is cleaved by mitochondrial StAR and CYP enzymes in Leydig cells to synthesize testosterone. <a href="https://commons.wikimedia.org/wiki/File:Steroidogenesis.svg" target="_blank" rel="noopener">Diagram source: Wikimedia Commons ↗</a></figcaption>
 </figure>
 
 ---

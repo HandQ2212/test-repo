@@ -3,8 +3,8 @@
 **Screen:** Fertility Blueprint & Environmental Health Screen 
 **Metric:** Scrotal Thermoregulation, Endocrine Disruptors (EDCs) & Oxidative Stress 
 **Reading Time:** 8 phút đọc / 8 min 
-**Hero Image:** ![Bản Đồ Sinh Sản Nam Giới: Nhiệt Độ Bìu, Ô Nhiễm Môi Trường, Vi Chất & Chu Kỳ Sinh Tinh](images/DM_HW_01_hero.jpg) *(Source: [https://images.unsplash.com/photo-1579684385127-1ef15d508118?auto=format&fit=crop&w=1200&q=85](https://images.unsplash.com/photo-1579684385127-1ef15d508118?auto=format&fit=crop&w=1200&q=85))* 
-**Inline Figure:** ![Giải phẫu học tinh hoàn và cơ bìu (Dartos & Cremaster): Cơ chế điều hòa nhiệt độ sinh học giữ tinh hoàn luôn mát hơn thân nhiệt cơ thể 2°C đến 4°C để bảo vệ tế bào mầm.](images/LM_MH_03_figure.jpg) *(Source: [https://commons.wikimedia.org/wiki/File:Testis_anatomy.svg](https://commons.wikimedia.org/wiki/File:Testis_anatomy.svg))* 
+**Hero Image:** ![Giải phẫu tinh hoàn và ống sinh tinh (OpenStax): Hệ cơ bìu và đám rối tĩnh mạch hình dây leo điều hòa nhiệt độ tinh hoàn luôn thấp hơn thân nhiệt 2°C–4°C để nuôi dưỡng tinh trùng.](images/MW_SXH_07_hero.jpg) *(Source: [https://images.unsplash.com/photo-1574680096145-d05b474e2155?auto=format&fit=crop&w=1200&q=85](https://images.unsplash.com/photo-1574680096145-d05b474e2155?auto=format&fit=crop&w=1200&q=85))* 
+**Inline Figure:** ![Giải phẫu tinh hoàn và ống sinh tinh (OpenStax): Hệ cơ bìu và đám rối tĩnh mạch hình dây leo điều hòa nhiệt độ tinh hoàn luôn thấp hơn thân nhiệt 2°C–4°C để nuôi dưỡng tinh trùng.](images/MW_SXH_07_figure.png) *(Source: [https://commons.wikimedia.org/wiki/File:Figure_28_01_03.jpg](https://commons.wikimedia.org/wiki/File:Figure_28_01_03.jpg))* 
 **Clinical Source:** [Philosophical Transactions of the Royal Society B & Human Reproduction Update](https://pubmed.ncbi.nlm.nih.gov/20308044/) 
 
 ---
@@ -28,8 +28,8 @@ Lý do tiến hóa duy nhất cho sự sắp đặt này là **Nhiệt Độ (Th
 Nếu nhiệt độ tinh hoàn bị đẩy lên mức 37°C kéo dài: Quá trình sinh tinh bị đình trệ ngay lập tức, các tế bào mầm rơi vào quá trình chết rụng theo chương trình (Apoptosis) và tỷ lệ tinh trùng dị dạng tăng vọt.
 
 <figure class="article-inline-diagram">
- <img src="images/LM_MH_03_figure.jpg" alt="Sơ đồ giải phẫu điều hòa nhiệt độ tinh hoàn" loading="lazy">
- <figcaption>📊 <strong>Hệ Thống Mạng Mạch Dây Leo (Pampiniform Plexus):</strong> Hệ thống tĩnh mạch cuộn xoắn quanh động mạch tinh hoàn hoạt động như một bộ tản nhiệt trao đổi nhiệt ngược dòng (Countercurrent heat exchanger) làm mát máu trước khi đi vào tinh hoàn. <a href="https://commons.wikimedia.org/wiki/File:Testis_anatomy.svg" target="_blank" rel="noopener">Nguồn sơ đồ: Wikimedia Commons ↗</a></figcaption>
+ <img src="images/MW_SXH_07_figure.png" alt="Giải phẫu tinh hoàn và ống sinh tinh (OpenStax): Hệ cơ bìu và đám rối tĩnh mạch hình dây leo điều hòa nhiệt độ tinh hoàn luôn thấp hơn thân nhiệt 2°C–4°C để nuôi dưỡng tinh trùng." loading="lazy">
+ <figcaption>📊 <strong>Sơ đồ y khoa:</strong> Giải phẫu tinh hoàn và ống sinh tinh (OpenStax): Hệ cơ bìu và đám rối tĩnh mạch hình dây leo điều hòa nhiệt độ tinh hoàn luôn thấp hơn thân nhiệt 2°C–4°C để nuôi dưỡng tinh trùng. <a href="https://commons.wikimedia.org/wiki/File:Figure_28_01_03.jpg" target="_blank" rel="noopener">Nguồn sơ đồ: Wikimedia Commons ↗</a></figcaption>
 </figure>
 
 ---
@@ -90,8 +90,8 @@ The sole evolutionary driver is **Thermoregulation**:
 Sustained elevation to core temperature (37°C) triggers germ cell apoptosis and spikes sperm DNA fragmentation.
 
 <figure class="article-inline-diagram">
- <img src="images/LM_MH_03_figure.jpg" alt="Pampiniform plexus testicular thermoregulation diagram" loading="lazy">
- <figcaption>📊 <strong>Countercurrent Heat Exchange:</strong> The pampiniform venous plexus cools incoming testicular arterial blood before it reaches the seminiferous tubules. <a href="https://commons.wikimedia.org/wiki/File:Testis_anatomy.svg" target="_blank" rel="noopener">Diagram source: Wikimedia Commons ↗</a></figcaption>
+ <img src="images/MW_SXH_07_figure.png" alt="Structure of the human testis (OpenStax): Scrotal thermoregulation and seminiferous tubule microenvironment maintain testicular temperatures 2°C–4°C below core body temperature." loading="lazy">
+ <figcaption>📊 <strong>Scientific Figure:</strong> Structure of the human testis (OpenStax): Scrotal thermoregulation and seminiferous tubule microenvironment maintain testicular temperatures 2°C–4°C below core body temperature. <a href="https://commons.wikimedia.org/wiki/File:Figure_28_01_03.jpg" target="_blank" rel="noopener">Diagram source: Wikimedia Commons ↗</a></figcaption>
 </figure>
 
 ---
