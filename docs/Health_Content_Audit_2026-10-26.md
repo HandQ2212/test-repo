@@ -52,6 +52,7 @@ Các sơ đồ được giữ gồm khoảng R–R trên ECG, cấu trúc giấc
 - Kiểm tra JSON/JS/Markdown/Excel/HTML khớp nhau, ba workbook local và bản tải xuống có nội dung byte giống nhau, toàn bộ ảnh đang dùng tồn tại, các hình tóm tắt chữ không còn được tham chiếu, ảnh có alt và đường dẫn HTML tương đối đúng.
 - Chrome: mở toàn bộ 83 bài trong SPA ở cả hai ngôn ngữ; kiểm tra 105 ảnh đang dùng, 83 trang HTML, tìm kiếm, popup và chuyển ngôn ngữ. Kiểm tra mobile 390 px, không tràn ngang trang và không có lỗi JavaScript.
 - Sửa lỗi CSS cũ thiếu quy tắc `.hidden`, khiến trang HTML hiện cả Việt lẫn Anh và phần bài mẫu trên trang chủ. Gắn sự kiện tìm kiếm trước khi tải dữ liệu để thao tác sớm không bị bỏ qua.
+- Kiểm tra riêng MW_NUT_07 và toàn bộ dữ liệu/Excel: không có chú thích hay liên kết hình tóm tắt chữ. Thêm chặn hình chữ từ metadata cũ trong trang bài và popup; tải dữ liệu không dùng cache, đổi URL script và trả 404 cho ảnh đã xóa thay vì trả HTML trang blog.
 - Kiểm tra cú pháp JavaScript và Git diff whitespace. Kiểm tra lại bản live sau khi đẩy lên Render được ghi riêng trong workspace.
 
 ## Giới hạn còn lại

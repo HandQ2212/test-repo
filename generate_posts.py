@@ -54,7 +54,7 @@ def render_article_markdown(md_text, inline_img_src, inline_caption, inline_sour
 
     body_html = re.sub(r'<pre><code class="(?:language-)?mermaid">([\s\S]*?)</code></pre>', repl_mermaid, body_html)
 
-    if "article-inline-diagram" not in body_html and inline_img_src:
+    if "article-inline-diagram" not in body_html and inline_img_src and not re.search(r'(^|/)images/editorial/', inline_img_src):
         src_label = "View figure ↗" if lang == "en" else "Xem hình và sơ đồ ↗"
         inline_diagram_html = f"""
         <figure class="article-inline-diagram">

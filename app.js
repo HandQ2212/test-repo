@@ -182,6 +182,10 @@ function getContent(art) {
 function getInlineCaption(art) {
   return (currentLang === 'vi' && art.inline_caption_vi) ? art.inline_caption_vi : art.inline_caption;
 }
+function hasInlineFigure(art) {
+  // Old cached article records must not reinsert retired text-card images.
+  return Boolean(art.inline_image) && !/(^|\/)images\/editorial\//i.test(art.inline_image);
+}
 function getCatLabel(cat) {
   return (categoryNameOnly[currentLang] && categoryNameOnly[currentLang][cat]) || cat;
 }
@@ -296,7 +300,7 @@ async function init() {
     allArticles = window.ARTICLES_DATA;
   } else {
     try {
-      const res = await fetch('articles.json');
+      const res = await fetch('articles.json', { cache: 'no-store' });
       allArticles = await res.json();
     } catch (err) {
       console.error('Failed to load articles.json:', err);
@@ -542,7 +546,7 @@ function openFullArticleView(art, updateHash = true) {
 
   // Render Markdown Body with Injected Inline Diagram Image (if not already embedded in markdown)
   let parsedHtml = marked.parse(contentMd);
-  if (art.inline_image && !parsedHtml.includes('article-inline-diagram')) {
+  if (hasInlineFigure(art) && !parsedHtml.includes('article-inline-diagram')) {
     const figSourceUrl = art.inline_image_source_url || art.inline_image;
     const inlineDiagramHtml = `
       <figure class="article-inline-diagram">
@@ -702,7 +706,7 @@ function openInAppModal(art) {
   inappTitle.textContent = getTitle(art);
   inappTakeaway.textContent = getTakeaway(art);
   let parsed = marked.parse(getContent(art));
-  if (art.inline_image) {
+  if (hasInlineFigure(art)) {
     parsed += `<figure class="article-inline-diagram"><img src="${art.inline_image}" alt="${getInlineCaption(art)}" loading="lazy"><figcaption>${getInlineCaption(art)}</figcaption></figure>`;
   }
   parsed = processMermaidDiagrams(parsed);

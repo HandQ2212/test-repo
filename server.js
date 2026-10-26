@@ -20,6 +20,10 @@ const MIME_TYPES = {
 const server = http.createServer((req, res) => {
   let reqPath = decodeURI(req.url.split('?')[0]);
   if (reqPath === '/') reqPath = '/index.html';
+  const ext = path.extname(reqPath).toLowerCase();
+  if (!ext || ['.html', '.js', '.json', '.xlsx'].includes(ext)) {
+    res.setHeader('Cache-Control', 'no-store');
+  }
 
   const filePath = path.join(__dirname, reqPath);
 
@@ -31,6 +35,11 @@ const server = http.createServer((req, res) => {
 
   fs.stat(filePath, (err, stats) => {
     if (err || !stats.isFile()) {
+      // A removed image or document must not return the blog HTML as a 200.
+      if (ext) {
+        res.writeHead(404, { 'Content-Type': 'text/plain; charset=utf-8', 'Cache-Control': 'no-store' });
+        return res.end('404 Not Found');
+      }
       // Fallback: serve index.html for SPA hash routes
       const fallbackPath = path.join(__dirname, 'index.html');
       fs.readFile(fallbackPath, (fallbackErr, content) => {
@@ -44,7 +53,6 @@ const server = http.createServer((req, res) => {
       return;
     }
 
-    const ext = path.extname(filePath).toLowerCase();
     const contentType = MIME_TYPES[ext] || 'application/octet-stream';
 
     res.writeHead(200, { 'Content-Type': contentType });

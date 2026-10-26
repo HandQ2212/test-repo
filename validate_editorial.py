@@ -55,6 +55,9 @@ def main():
             assert '|---' in body.replace(' ',''),(aid,'missing comparison')
             for r in refs:assert r['url'] in body
             assert not re.search(r'TODO|TBD|Lorem ipsum|\[INSERT|example\.com',body)
+            assert 'Sơ đồ tóm tắt do biên tập tạo' not in body
+            assert 'Original editorial summary' not in body
+            assert 'images/editorial/' not in body
         for field in ['hero_image','inline_image']:
             if field=='inline_image' and not a[field]:
                 assert not any(a[k] for k in ['inline_caption','inline_caption_vi','inline_image_source_url'])
@@ -67,6 +70,8 @@ def main():
         assert a['title'] in page and a['title_vi'] in page
         assert len(parser.images)==2*(1+bool(a['inline_image'])),(aid,'unexpected image count')
         assert 'images/editorial/' not in page
+        assert 'Sơ đồ tóm tắt do biên tập tạo' not in page
+        assert 'Original editorial summary' not in page
         for im in parser.images:
             assert im.get('alt'),(aid,'missing alt')
             src=im.get('src','')

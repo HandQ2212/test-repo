@@ -26,7 +26,7 @@ node --check articles_data.js
 node server.js
 ```
 
-The server runs at `http://localhost:3000`. Rebuild uses the sibling `Fitness IOS` directory when present, otherwise the workbooks in `docs/`. Do not use historical batch builders or reference-upgrade scripts in `Fitness IOS/data` to rebuild this edition; they contain superseded drafts.
+The server runs at `http://localhost:3000`. HTML, article data, scripts and workbook responses use `Cache-Control: no-store`; missing file paths return 404 rather than the SPA HTML. The renderer also rejects retired `images/editorial/` text cards if stale article metadata is supplied. Rebuild uses the sibling `Fitness IOS` directory when present, otherwise the workbooks in `docs/`. Do not use historical batch builders or reference-upgrade scripts in `Fitness IOS/data` to rebuild this edition; they contain superseded drafts.
 
 ## Evidence and image provenance
 
