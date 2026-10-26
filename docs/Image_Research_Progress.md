@@ -9,10 +9,10 @@ Từ phiên 02, mỗi phiên xử lý tối đa 15 bài. Phiên 01 đã hoàn t�
 | 03 | 15 | Đã chọn và đối chiếu ảnh | DM_MH_01, DM_MH_02, DM_MH_03, WH_04, WH_06, WH_07, WH_09, WH_10, WH_11, WH_12, WH_13, WH_15, WH_16, WH_17, WH_18 |
 | 04 | 15 | Đã chọn và đối chiếu ảnh | WH_19, WH_20, WH_21, WH_22, WH_23, WH_24, WH_25, WH_26, WH_27, WH_28, WH_29, WH_30, MW_NUT_01, MW_NUT_02, MW_NUT_03 |
 | 05 | 15 | Đã chọn và đối chiếu ảnh | MW_NUT_04, MW_SXH_01, MW_SXH_02, MW_SXH_03, MW_SXH_04, MW_REL_01, MW_REL_02, MW_REL_03, MW_REL_04, MW_SXO_01, MW_SXO_02, MW_SXO_03, MW_SXO_04, MW_NUT_05, MW_NUT_06 |
-| 06 | 13 | Chưa thực hiện | MW_NUT_07, MW_NUT_08, MW_SXH_05, MW_SXH_06, MW_SXH_07, MW_SXH_08, MW_REL_05, MW_REL_06, MW_REL_07, MW_REL_08, MW_SXO_05, MW_SXO_06, MW_SXO_08 |
+| 06 | 13 | Đã chọn và đối chiếu ảnh | MW_NUT_07, MW_NUT_08, MW_SXH_05, MW_SXH_06, MW_SXH_07, MW_SXH_08, MW_REL_05, MW_REL_06, MW_REL_07, MW_REL_08, MW_SXO_05, MW_SXO_06, MW_SXO_08 |
 
-Đã chọn 124 vị trí hình cho 70/83 bài. Một số hình giải phẫu/dụng cụ được dùng lại khi phù hợp, với nguồn và giấy phép giữ nguyên. Các bài còn lại giữ trạng thái chưa rà soát trong quy trình này.
+Đã chọn 143 vị trí hình cho 83/83 bài. Một số hình giải phẫu/dụng cụ được dùng lại khi phù hợp, với nguồn và giấy phép giữ nguyên. Toàn bộ danh mục đã hoàn tất các phiên rà soát ảnh.
 
-Nguồn và metadata: `data/image_selections.json`. Bảng Excel: sheet `Image_Register`. Bộ xem trước: [Đợt 01](Image_Research_Batch_01.html), [Đợt 02](Image_Research_Batch_02.html), [Đợt 03](Image_Research_Batch_03.html), [Đợt 04](Image_Research_Batch_04.html), [Đợt 05](Image_Research_Batch_05.html).
+Nguồn và metadata: `data/image_selections.json`. Bảng Excel: sheet `Image_Register`. Bộ xem trước: [Đợt 01](Image_Research_Batch_01.html), [Đợt 02](Image_Research_Batch_02.html), [Đợt 03](Image_Research_Batch_03.html), [Đợt 04](Image_Research_Batch_04.html), [Đợt 05](Image_Research_Batch_05.html), [Đợt 06](Image_Research_Batch_06.html).
 
 Ảnh tóm tắt chỉ có chữ không được đưa trở lại. Ảnh không tải được không hiển thị khung hoặc chú thích. Không suy chẩn đoán, hormone, điểm số hay cường độ vận động từ một bức ảnh.

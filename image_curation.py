@@ -69,7 +69,9 @@ def write_review_docs(articles):
         (BASE/'docs'/f"Image_Research_Batch_{batch['batch']:02d}.html").write_text(document,encoding='utf-8')
     galleries = ', '.join(f"[Đợt {b['batch']:02d}](Image_Research_Batch_{b['batch']:02d}.html)"
                           for b in progress['batches'] if b['status'] == 'image research completed')
-    lines += ['', f'Đã chọn {len(assets)} vị trí hình cho {len(covered)}/83 bài. Một số hình giải phẫu/dụng cụ được dùng lại khi phù hợp, với nguồn và giấy phép giữ nguyên. Các bài còn lại giữ trạng thái chưa rà soát trong quy trình này.', '',
+    remaining_note = ('Toàn bộ danh mục đã hoàn tất các phiên rà soát ảnh.' if len(covered) == len(articles)
+                      else 'Các bài còn lại giữ trạng thái chưa rà soát trong quy trình này.')
+    lines += ['', f'Đã chọn {len(assets)} vị trí hình cho {len(covered)}/83 bài. Một số hình giải phẫu/dụng cụ được dùng lại khi phù hợp, với nguồn và giấy phép giữ nguyên. {remaining_note}', '',
               f'Nguồn và metadata: `data/image_selections.json`. Bảng Excel: sheet `Image_Register`. Bộ xem trước: {galleries}.', '',
               'Ảnh tóm tắt chỉ có chữ không được đưa trở lại. Ảnh không tải được không hiển thị khung hoặc chú thích. Không suy chẩn đoán, hormone, điểm số hay cường độ vận động từ một bức ảnh.']
     (BASE/'docs/Image_Research_Progress.md').write_text('\n'.join(lines)+'\n',encoding='utf-8')
