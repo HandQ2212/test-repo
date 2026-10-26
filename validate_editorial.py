@@ -30,6 +30,8 @@ def main():
         expected_sources=list(csv.DictReader(f,delimiter='\t'))
     assert len(sources)==len(registry)==len(expected_sources)==82
     developed=json.loads((BASE/'data/longform_articles.json').read_text())
+    assert (BASE/'article_figures.js').is_file()
+    assert 'article_figures.js?' in (BASE/'index.html').read_text()
     baseline={a['id']:a for a in load_baseline()}
     catalog={}
     for name in ['editorial_articles.tsv','editorial_women.tsv','editorial_men.tsv']:
@@ -68,6 +70,7 @@ def main():
         assert a['baseline_revision']=='f68c786'
         page=(BASE/'posts'/f'{aid}.html').read_text();parser=Links();parser.feed(page)
         assert a['title'] in page and a['title_vi'] in page
+        assert '../article_figures.js?' in page
         assert len(parser.images)==2*(1+bool(a['inline_image'])),(aid,'unexpected image count')
         assert 'images/editorial/' not in page
         assert 'Sơ đồ tóm tắt do biên tập tạo' not in page

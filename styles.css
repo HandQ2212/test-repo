@@ -1436,6 +1436,12 @@ body {
   color: #1E3A8A;
 }
 
+.article-inline-diagram:not(.image-ready) figcaption,
+.article-featured-hero:not(.image-ready) figcaption,
+.article-inline-diagram:has(img[src*="images/editorial/"]) {
+  display: none;
+}
+
 /* Interactive Mermaid Diagram Container */
 .mermaid {
   display: flex;

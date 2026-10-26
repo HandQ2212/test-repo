@@ -14,6 +14,7 @@ Production: [test-repo-y1wb.onrender.com](https://test-repo-y1wb.onrender.com/).
 - `data/editorial_sources.tsv`: 82 source titles, URLs, types and support scopes. Manufacturer documentation explains a product; it is not clinical efficacy evidence. One retracted paper is cited solely to explain why its testosterone claim is excluded.
 - `rebuild_editorial.py`: rebuild article JSON/JS, Markdown, master workbook, roadmaps, workbook copies in `docs/`, and all standalone HTML.
 - `generate_posts.py`: regenerate standalone HTML from the current JSON only.
+- `article_figures.js`: show captions after image loading succeeds, discard broken inline figures, and remove retired summary figures embedded in article HTML.
 - `validate_editorial.py`: coverage, references, images, bibliographic identity and parity across outputs.
 
 With Python 3, `openpyxl` and `markdown` installed:

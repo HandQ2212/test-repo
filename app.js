@@ -573,6 +573,7 @@ function openFullArticleView(art, updateHash = true) {
   // Convert mermaid code blocks to <div class="mermaid"> with decoded entities
   parsedHtml = processMermaidDiagrams(parsedHtml);
   document.getElementById('art-view-body').innerHTML = parsedHtml;
+  window.refreshArticleFigures(articleView);
   renderMermaidNodes('#art-view-body');
 
   // Set Canonical Citation
@@ -711,6 +712,7 @@ function openInAppModal(art) {
   }
   parsed = processMermaidDiagrams(parsed);
   inappContentBody.innerHTML = parsed;
+  window.refreshArticleFigures(inappContentBody);
   renderMermaidNodes('#inapp-content-body');
   inappSource.textContent = `Source: ${art.source_name}`;
   inappModal.classList.remove('hidden');
