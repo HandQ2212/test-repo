@@ -1436,6 +1436,15 @@ body {
   color: #1E3A8A;
 }
 
+.image-attribution {
+  display: block;
+  margin-top: 0.4rem;
+  font-size: 0.78rem;
+  line-height: 1.5;
+  color: #64748b;
+  overflow-wrap: anywhere;
+}
+
 .article-inline-diagram:not(.image-ready) figcaption,
 .article-featured-hero:not(.image-ready) figcaption,
 .article-inline-diagram:has(img[src*="images/editorial/"]) {

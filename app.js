@@ -103,8 +103,8 @@ const uiStrings = {
     relatedHeading: (cat) => `Related Reads in ${cat}`,
     returnHubBottom: '← Back to Knowledge Hub & Search',
     scrollTopBottom: '↑ Back to Top',
-    heroPhotoSourceLabel: 'View full image ↗',
-    inlineFigSourceLabel: 'View figure ↗',
+    heroPhotoSourceLabel: 'Image source ↗',
+    inlineFigSourceLabel: 'Figure source ↗',
     gotIt: 'Got It'
   },
   vi: {
@@ -144,8 +144,8 @@ const uiStrings = {
     relatedHeading: (cat) => `Bài viết liên quan thuộc chủ đề ${cat}`,
     returnHubBottom: '← Quay lại Trang chủ & Tìm kiếm',
     scrollTopBottom: '↑ Lên đầu trang',
-    heroPhotoSourceLabel: 'Xem ảnh lớn ↗',
-    inlineFigSourceLabel: 'Xem hình và sơ đồ ↗',
+    heroPhotoSourceLabel: 'Nguồn ảnh ↗',
+    inlineFigSourceLabel: 'Nguồn hình ↗',
     gotIt: 'Đã hiểu'
   }
 };
@@ -185,6 +185,13 @@ function getInlineCaption(art) {
 function hasInlineFigure(art) {
   // Old cached article records must not reinsert retired text-card images.
   return Boolean(art.inline_image) && !/(^|\/)images\/editorial\//i.test(art.inline_image);
+}
+function imageCreditHTML(art, role) {
+  const credit = (art.image_attributions || []).find(a => a.role === role);
+  if (!credit) return '';
+  const escape = value => String(value).replace(/[&<>"']/g, c => ({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]));
+  const note = currentLang === 'vi' ? credit.modifications_vi : credit.modifications_en;
+  return `<span class="image-attribution"><a href="${escape(credit.source_page)}" target="_blank" rel="noopener noreferrer">${escape(credit.author)}</a> · <a href="${escape(credit.license_url)}" target="_blank" rel="noopener noreferrer">${escape(credit.license)}</a> · ${escape(note)}</span>`;
 }
 function getCatLabel(cat) {
   return (categoryNameOnly[currentLang] && categoryNameOnly[currentLang][cat]) || cat;
@@ -528,9 +535,11 @@ function openFullArticleView(art, updateHash = true) {
   const heroCaption = document.getElementById('art-view-hero-caption');
   if (heroImg && art.hero_image) {
     heroImg.src = art.hero_image;
-    heroImg.alt = title;
+    const photoCaption = currentLang === 'vi' ? (art.hero_caption_vi || title) : (art.hero_caption || title);
+    heroImg.alt = photoCaption;
+    heroImg.style.objectFit = art.hero_image_fit || 'cover';
     const heroSourceUrl = art.hero_image_source_url || art.hero_image;
-    heroCaption.innerHTML = `${title} • <a href="${heroSourceUrl}" target="_blank" rel="noopener noreferrer" class="img-source-badge">${t.heroPhotoSourceLabel}</a>`;
+    heroCaption.innerHTML = `${photoCaption} • <a href="${heroSourceUrl}" target="_blank" rel="noopener noreferrer" class="img-source-badge">${t.heroPhotoSourceLabel}</a>${imageCreditHTML(art, 'hero')}`;
   }
 
   // Set Meta details
@@ -551,7 +560,7 @@ function openFullArticleView(art, updateHash = true) {
     const inlineDiagramHtml = `
       <figure class="article-inline-diagram">
         <img src="${art.inline_image}" alt="${inlineCaption}" loading="lazy">
-        <figcaption>📊 <strong>${inlineCaption}</strong> <a href="${figSourceUrl}" target="_blank" rel="noopener noreferrer" class="img-source-badge">(${t.inlineFigSourceLabel})</a></figcaption>
+        <figcaption><strong>${inlineCaption}</strong> <a href="${figSourceUrl}" target="_blank" rel="noopener noreferrer" class="img-source-badge">(${t.inlineFigSourceLabel})</a>${imageCreditHTML(art, 'inline')}</figcaption>
       </figure>
     `;
 
@@ -708,7 +717,7 @@ function openInAppModal(art) {
   inappTakeaway.textContent = getTakeaway(art);
   let parsed = marked.parse(getContent(art));
   if (hasInlineFigure(art)) {
-    parsed += `<figure class="article-inline-diagram"><img src="${art.inline_image}" alt="${getInlineCaption(art)}" loading="lazy"><figcaption>${getInlineCaption(art)}</figcaption></figure>`;
+    parsed += `<figure class="article-inline-diagram"><img src="${art.inline_image}" alt="${getInlineCaption(art)}" loading="lazy"><figcaption>${getInlineCaption(art)}${imageCreditHTML(art, 'inline')}</figcaption></figure>`;
   }
   parsed = processMermaidDiagrams(parsed);
   inappContentBody.innerHTML = parsed;

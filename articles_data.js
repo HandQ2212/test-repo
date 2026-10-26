@@ -13,19 +13,19 @@ const articles = [
     "content": "A sleep score summarizes signals such as movement and pulse using a manufacturer's algorithm. Different devices can give the same night different scores; the number does not directly measure how fully your brain has recovered.\n\n**Illustrative situation:** You spend eight hours in bed but wake tired despite a high score. Separate actual sleep duration, daytime functioning and symptoms such as snoring or awakenings. A high score should not invalidate fatigue, while one low score does not prove the night failed.\n\n## From sensor signals to a score: three different layers\n\nA wearable does not directly observe “recovery quality.” It moves through three layers: **recorded signals**, **algorithmic estimates**, and a **summary score**. Optical sensors record light changes related to blood flow; accelerometers record movement. Software uses these inputs to estimate pulse and sleep–wake patterns. The final score is another interpretation, rather than an independent measurement.\n\nThis explains why two devices can disagree about the same night. Signal quality, sampling windows and model training all matter. Quiet wakefulness can be mistaken for sleep, and sleep stages can be confused with one another.\n\nClinical polysomnography adds brain activity, eye movements and muscle activity. Most consumer watches do not record those channels. Their graphs can support a discussion of patterns, but a colored segment cannot establish the precise amount of recovery your brain received. A medically regulated feature must still be interpreted within its particular indication.\n\n### Sleep efficiency is not the sleep score\n\nSuppose eight hours in bed contain seven estimated hours asleep. The arithmetic is `7 / 8 × 100 = 87.5%` efficiency. That defined ratio does not determine the app's score. Another night with the same efficiency but different timing, awakenings or other signals can score differently.\n\nThis is a calculation example, not a diagnostic threshold. Separating time in bed, estimated sleep and the summary helps identify the right question. Optimizing a ratio alone can overlook inadequate sleep opportunity or symptoms requiring assessment. [1](https://pubmed.ncbi.nlm.nih.gov/34314344/) [2](https://www.nhlbi.nih.gov/health/sleep/how-much-sleep)\n\n## Sleep architecture changes across the night\n\nSleep alternates between NREM and REM. NREM includes N1, N2 and N3; consumer displays often combine N1 and N2 as “light sleep.” N3 is deep or slow-wave sleep. These stages recur in cycles, but not on an exact 90-minute timer. Their timing varies with age, people and nights.\n\nDeep sleep is usually more prominent earlier, and REM periods generally lengthen later. This helps explain why duration alone is incomplete. It does not establish a universal 10 p.m.–2 a.m. deep-sleep window, or make light sleep wasted time. N2 is a normal, important component.\n\nMemory, endocrine function and recovery involve interacting processes. “Deep sleep repairs the body; REM repairs the brain” is too rigid. Findings about brainwaves or animal experiments cannot be translated directly into mandatory watch percentages. Adequate sleep opportunity, daytime functioning and troublesome symptoms remain more practical measures.\n\n### Brain activity and movement are different signals\n\nClinical staging combines features of brain, eye and muscle activity rather than stillness alone. A quiet person reading can therefore be misclassified, while a brief movement does not always indicate fully remembered wakefulness.\n\nIn validation research, check the reference standard and outcome. Sensitivity for sleep detection differs from identifying wakefulness and from correctly classifying individual stages. A good sleep–wake result cannot stand in for REM or N3 accuracy, and healthy-participant findings do not automatically generalize to sleep disorders. [4](https://www.nhlbi.nih.gov/health/sleep/stages-of-sleep) [1](https://pubmed.ncbi.nlm.nih.gov/34314344/)\n\n## Sleep pressure and circadian timing are different\n\nTwo processes help organize sleep. **Sleep pressure** builds during wakefulness, with adenosine contributing to this system. **Circadian timing** influences alertness across the day and responds to light and routines. Because they interact, exhaustion does not guarantee easy sleep at any chosen time.\n\nCaffeine can mask sleepiness through adenosine receptors without replacing lost sleep. A late nap may improve immediate alertness while making nighttime sleep more difficult. Effects vary with dose, individual sensitivity and schedule; there is no universally reliable caffeine cut-off.\n\nWhen adjusting sleep, consider waking time, light exposure and daytime functioning together. Spending much longer in bed does not necessarily create more sleep. Persistent insomnia calls for appropriate assessment and treatment rather than forcing sleep or adding supplements to achieve a desired graph. [5](https://www.nhlbi.nih.gov/health/sleep/sleep-wake-cycle) [6](https://www.nhlbi.nih.gov/health/sleep-deprivation/healthy-sleep-habits)\n\n## Sleep debt is useful, but not an exact invoice\n\nRepeatedly allowing less sleep than needed can have cumulative effects. Completing familiar tasks does not establish preserved attention, reaction time or driving safety. Feeling accustomed to a short schedule is not the same as demonstrating unimpaired performance.\n\nApps estimate both sleep need and actual sleep, so their debt totals depend on a model. There is no universal formula that adds precise minutes for Strain and yesterday's deficit to predict complete recovery. Different apps should not be treated as interchangeable laboratory tests.\n\nAdditional sleep can help after restriction, but recovery depends on the prior deficit and the outcome considered. Large weekend shifts in both bedtime and waking time can complicate the return to a usual schedule. That does not make all catch-up sleep harmful, nor establish a fixed number of nights that erase every effect. [2](https://www.nhlbi.nih.gov/health/sleep/how-much-sleep) [5](https://www.nhlbi.nih.gov/health/sleep/sleep-wake-cycle)\n\n## A comparison for practical interpretation\n\n| Common component | Useful information | Interpretation limit |\n|---|---|---|\n| Sleep duration | Estimated sleep quantity | Different from time in bed |\n| Sleep efficiency | Sleep relative to time in bed | Quiet wakefulness may be misclassified |\n| Disturbances | Possible interruptions | Does not identify each cause |\n| Sleep stages | Estimated NREM/REM pattern | Not a replacement for EEG |\n| Timing | Schedule consistency | Not one ideal bedtime for everyone |\n| Overall score | Manufacturer's summary | No shared weighting across brands |\n\n## Putting this into practice and evaluating the response\n\nFor the next week, record bedtime, waking time and daytime alertness alongside the score. Check your schedule, alcohol and device fit before changing training. Allow enough sleep for your age.\n\n1. **Define the real problem.** Daytime sleepiness, difficulty sleeping and worry about a metric need different questions.\n2. **Make a purposeful adjustment.** Choose one feasible routine or environment change rather than changing everything or buying several products.\n3. **Record experience too.** Note alertness and context, not just scores from different brands.\n4. **Review against the goal.** A better graph with persistent sleepiness is not enough. Do not delay advice for concerning symptoms.\n\n## When to seek support\n\nThere are no shared 25%–20% weights across brands. A score of 85 is not medical clearance for hard exercise; consumer sleep stages are estimates.\n\nSeek assessment for persistent daytime sleepiness, loud snoring with breathing pauses or insomnia affecting daily life, even with a good score.\n\n## References and what they support\n\n1. [Schutte-Rodin et al. (2021) — Evaluating consumer and clinical sleep technologies: an American Academy of Sleep Medicine update](https://pubmed.ncbi.nlm.nih.gov/34314344/) — Professional society review. Supports: Evaluation and validation limits of sleep technologies.\n\n2. [NHLBI — How Much Sleep Is Enough?](https://www.nhlbi.nih.gov/health/sleep/how-much-sleep) — Public health guidance. Supports: Age-related sleep needs; sleep debt.\n\n3. [NHLBI — Sleep Apnea Symptoms](https://www.nhlbi.nih.gov/health/sleep-apnea/symptoms) — Public health guidance. Supports: Snoring, breathing pauses and daytime sleepiness.\n\n4. [NHLBI — Sleep Phases and Stages](https://www.nhlbi.nih.gov/health/sleep/stages-of-sleep) — Public health guidance. Supports: NREM, REM and age-related variation.\n\n5. [NHLBI — Your Sleep/Wake Cycle](https://www.nhlbi.nih.gov/health/sleep/sleep-wake-cycle) — Public health guidance. Supports: Circadian timing, light and sleep pressure.\n\n6. [NHLBI — Healthy Sleep Habits](https://www.nhlbi.nih.gov/health/sleep-deprivation/healthy-sleep-habits) — Public health guidance. Supports: Sleep habits and consistent schedules.\n\n> Content and sources updated: 26 October 2026. Educational content; clinical sign-off has not been recorded.\n",
     "takeaway": "For the next week, record bedtime, waking time and daytime alertness alongside the score. Check your schedule, alcohol and device fit before changing training. Allow enough sleep for your age.",
     "reading_time": "7 min",
-    "thumbnail": "images/LM_SL_01_hero.jpg",
+    "thumbnail": "images/researched/batch-01/LM_SL_01_hero.jpg",
     "source_name": "Schutte-Rodin et al. (2021) — Evaluating consumer and clinical sleep technologies: an American Academy of Sleep Medicine update",
     "source_url": "https://pubmed.ncbi.nlm.nih.gov/34314344/",
-    "hero_image": "images/LM_SL_01_hero.jpg",
-    "inline_image": "images/LM_SL_01_figure.jpg",
-    "inline_caption": "A polysomnography recording setup; different from ordinary watch sensors.",
+    "hero_image": "images/researched/batch-01/LM_SL_01_hero.jpg",
+    "inline_image": "images/researched/batch-01/LM_SL_01_inline.jpg",
+    "inline_caption": "NHLBI diagram of polysomnography sensors and recordings, distinguishing a sleep study from a watch estimate.",
     "title_vi": "Hiểu điểm giấc ngủ: đọc xu hướng thay vì chạy theo điểm số",
     "description_vi": "Điểm ngủ là bản tóm tắt do từng hãng thiết kế từ tín hiệu như chuyển động và nhịp tim.",
     "takeaway_vi": "Trong tuần tới, ghi giờ lên giường, giờ thức và mức tỉnh táo ban ngày bên cạnh điểm ngủ. Nếu điểm giảm, kiểm tra lịch ngủ, rượu bia và cách đeo trước khi đổi lịch tập. Dành đủ thời gian ngủ phù hợp với tuổi.",
     "reading_time_vi": "11 phút",
-    "hero_image_source_url": "https://test-repo-y1wb.onrender.com/images/LM_SL_01_hero.jpg",
-    "inline_image_source_url": "https://test-repo-y1wb.onrender.com/images/LM_SL_01_figure.jpg",
-    "inline_caption_vi": "Thiết lập ghi đa ký giấc ngủ; khác với cảm biến đồng hồ phổ thông.",
+    "hero_image_source_url": "https://commons.wikimedia.org/wiki/File:Fitbit_Versa_Lite_No_-_7%EF%BC%9A%E5%BA%95%E9%9D%A2%E3%81%AE%E8%84%88%E6%8B%8D%E6%B8%AC%E5%AE%9A%E8%A3%85%E7%BD%AE.jpg",
+    "inline_image_source_url": "https://commons.wikimedia.org/wiki/File:Sleep_studies.jpg",
+    "inline_caption_vi": "Sơ đồ NHLBI về cảm biến và bản ghi đa ký giấc ngủ, dùng để phân biệt xét nghiệm tại phòng ngủ với ước tính từ đồng hồ.",
     "content_vi": "Điểm ngủ là bản tóm tắt do từng hãng thiết kế từ tín hiệu như chuyển động và nhịp tim. Một điểm thấp có thể gợi ý đêm ngủ khác thường, nhưng không cho biết chính xác não đã phục hồi bao nhiêu. Hai thiết bị có thể chấm khác nhau cho cùng một đêm.\n\n**Tình huống minh họa:** Bạn dành tám giờ trên giường nhưng sáng vẫn mệt, trong khi đồng hồ chấm điểm khá cao. Hãy tách ba câu hỏi: thực sự ngủ được bao lâu, ban ngày hoạt động thế nào, và có triệu chứng như ngáy hoặc thức giấc không. Đừng dùng điểm cao để bác bỏ cảm giác mệt, cũng đừng coi một điểm thấp là bằng chứng đêm ngủ đã thất bại.\n\n## Từ tín hiệu cảm biến đến một điểm số: ba tầng thông tin\n\nThiết bị không quan sát trực tiếp “chất lượng phục hồi”. Nó đi qua ba tầng: **tín hiệu đo được**, **trạng thái được thuật toán suy đoán**, rồi **điểm tổng hợp**. Cảm biến quang học ghi thay đổi ánh sáng liên quan dòng máu; gia tốc kế ghi chuyển động. Từ đó, phần mềm ước tính nhịp tim, lúc ngủ và lúc thức. Điểm ngủ là bước diễn giải tiếp theo, không phải một phép đo độc lập.\n\nSự phân biệt này giải thích vì sao hai thiết bị có thể báo khác nhau dù bạn chỉ trải qua một đêm. Sai số ở tín hiệu, cách chọn cửa sổ đo và cách huấn luyện thuật toán đều có thể góp phần. Đặc biệt, nằm yên khi chưa ngủ dễ bị nhận thành ngủ; các giai đoạn ngủ cũng có thể bị phân loại nhầm.\n\nTrong đa ký giấc ngủ, bác sĩ có thêm tín hiệu điện não, chuyển động mắt và trương lực cơ. Đồng hồ phổ thông thường không có các kênh đó. Vì vậy, dùng biểu đồ để nhận ra xu hướng là hợp lý; dùng một đoạn màu để kết luận chính xác não đang thiếu phục hồi hoặc tự chẩn đoán bệnh thì vượt quá khả năng của dữ liệu. Một thiết bị có tính năng y tế được cấp phép cũng chỉ được hiểu trong phạm vi chỉ định của tính năng đó.\n\n### Ví dụ: hiệu suất ngủ không phải điểm ngủ\n\nGiả sử bạn ở giường tám giờ, còn thời gian ngủ được ước tính là bảy giờ. Hiệu suất theo phép tính này là `7 / 8 × 100 = 87,5%`. Đó là một tỷ lệ có định nghĩa rõ; nó không cho biết thuật toán sẽ chấm bao nhiêu điểm. Đêm khác có cùng hiệu suất nhưng giờ ngủ, thời gian thức hoặc tín hiệu khác thay đổi vẫn có thể nhận điểm khác.\n\nĐây là ví dụ tính toán, không phải ngưỡng chẩn đoán. Lúc đọc báo cáo, tách thời gian ở giường, thời gian ngủ ước tính và điểm tổng hợp sẽ giúp bạn hỏi đúng vấn đề. Nếu chỉ cố tối ưu một tỷ lệ, bạn có thể bỏ qua chuyện cơ hội ngủ vẫn chưa đủ hoặc đang có triệu chứng cần kiểm tra. [1](https://pubmed.ncbi.nlm.nih.gov/34314344/) [2](https://www.nhlbi.nih.gov/health/sleep/how-much-sleep)\n\n## Giấc ngủ là một cấu trúc thay đổi trong đêm\n\nGiấc ngủ gồm NREM và REM. NREM có các giai đoạn N1, N2 và N3; thiết bị thường gộp N1 và N2 thành “ngủ nông”. N3 được gọi là ngủ sâu hay ngủ sóng chậm. Các giai đoạn lặp lại thành chu kỳ, nhưng không phải chiếc đồng hồ cứ đúng 90 phút lại đổi trạng thái. Thời lượng và cấu trúc có thể khác nhau giữa người, theo tuổi và giữa các đêm.\n\nNgủ sâu thường tập trung hơn ở phần đầu đêm, còn REM thường dài hơn về gần sáng. Điều đó giúp giải thích vì sao chỉ xem tổng số giờ chưa kể hết câu chuyện. Tuy nhiên, không thể quy giờ ngủ sâu cố định thành 22 giờ–2 giờ cho mọi lịch sinh hoạt, hoặc cho rằng mỗi phút ngủ nông là thời gian bị lãng phí. N2 là thành phần bình thường, quan trọng của giấc ngủ.\n\nCác nghiên cứu về trí nhớ, nội tiết và phục hồi xem xét nhiều quá trình tương tác. Không nên chia quá cứng thành “ngủ sâu chỉ sửa cơ, REM chỉ sửa não”. Cũng không thể chuyển kết quả về sóng não hoặc động vật sang một mục tiêu phần trăm bắt buộc trên đồng hồ. Điều đáng theo dõi là cơ hội ngủ đủ, mức tỉnh táo và những triệu chứng ảnh hưởng cuộc sống.\n\n### Điện não và cảm biến chuyển động không nhận diện cùng một dấu hiệu\n\nPhân loại giấc ngủ lâm sàng dựa trên tổ hợp đặc điểm như hoạt động điện não, mắt và cơ, thay vì chỉ mức nằm yên. Điều này giải thích vì sao một người có thể thức yên trong lúc đọc mà đồng hồ chưa phân biệt đúng. Ngược lại, một chuyển động ngắn không luôn có nghĩa đã thức hoàn toàn và nhớ được sự kiện đó.\n\nKhi đọc một nghiên cứu xác thực thiết bị, cần xem nó so với tiêu chuẩn nào và đo kết quả gì. Độ nhạy nhận ra ngủ khác với khả năng nhận đúng lúc thức; cả hai cũng khác độ chính xác phân loại từng giai đoạn. Một tỷ lệ tốt cho “ngủ hay thức” không được dùng thay cho tỷ lệ nhận đúng REM hoặc N3, và kết quả ở người khỏe mạnh không tự áp cho người có rối loạn ngủ. [4](https://www.nhlbi.nih.gov/health/sleep/stages-of-sleep) [1](https://pubmed.ncbi.nlm.nih.gov/34314344/)\n\n## Áp lực ngủ và nhịp sinh học không phải một thứ\n\nHai quá trình giúp điều phối giấc ngủ. **Áp lực ngủ** tăng trong thời gian thức; adenosine là một phần của cơ chế này. **Nhịp sinh học** tạo xu hướng tỉnh hoặc buồn ngủ theo thời điểm, chịu ảnh hưởng của ánh sáng và lịch sinh hoạt. Vì hai quá trình tương tác, rất mệt không đồng nghĩa sẽ ngủ dễ vào bất kỳ giờ nào.\n\nCaffeine có thể che bớt cảm giác buồn ngủ bằng tác động lên thụ thể adenosine, nhưng không thay thế thời gian ngủ đã thiếu. Một giấc ngủ trưa muộn có thể làm bạn tỉnh hơn ngay lúc đó và đồng thời khiến buổi tối khó buồn ngủ hơn. Mức ảnh hưởng tùy liều caffeine, cơ địa và lịch ngủ; không có một giờ cắt caffeine bảo đảm phù hợp tất cả.\n\nĐây cũng là lý do nên quan sát cả giờ thức, tiếp xúc ánh sáng và cảm giác ban ngày khi điều chỉnh lịch. Nếu chỉ cố nằm thêm thật lâu, bạn có thể tăng thời gian trên giường mà chưa tăng được thời gian ngủ. Với mất ngủ kéo dài, cần đánh giá và can thiệp phù hợp, thay vì tự ép ngủ hoặc tăng chất bổ sung để đạt biểu đồ mong muốn. [5](https://www.nhlbi.nih.gov/health/sleep/sleep-wake-cycle) [6](https://www.nhlbi.nih.gov/health/sleep-deprivation/healthy-sleep-habits)\n\n## Nợ ngủ là khái niệm hữu ích, không phải hóa đơn chính xác\n\nNếu liên tục dành ít thời gian ngủ hơn nhu cầu, ảnh hưởng có thể tích lũy. Một người vẫn hoàn thành công việc quen thuộc không có nghĩa khả năng chú ý, phản ứng hoặc an toàn lái xe đã được bảo toàn. Cảm giác “quen rồi” và hiệu suất đo được không nhất thiết thay đổi cùng nhau.\n\nỨng dụng phải ước tính cả nhu cầu lẫn thời gian ngủ thực tế, nên con số nợ ngủ phụ thuộc mô hình. Không có công thức dùng chung giữa mọi hãng cho phép cộng chính xác một số phút từ Strain, thêm số phút thiếu từ hôm qua rồi dự báo đầy đủ khả năng hồi phục. So sánh hai ứng dụng như hai phép xét nghiệm tương đương sẽ dễ gây hiểu nhầm.\n\nNgủ thêm có thể hữu ích khi thiếu ngủ, song khả năng hồi phục tùy mức thiếu trước đó và chức năng đang xét. Cũng cần cân bằng cơ hội ngủ thêm với lịch sinh học. Nếu cuối tuần đổi cả giờ đi ngủ và thức dậy rất nhiều, việc quay lại lịch thường ngày có thể khó hơn. Không cần vì vậy mà xem mọi giấc ngủ bù là có hại, hoặc cam kết một số đêm cố định sẽ xóa hết ảnh hưởng. [2](https://www.nhlbi.nih.gov/health/sleep/how-much-sleep) [5](https://www.nhlbi.nih.gov/health/sleep/sleep-wake-cycle)\n\n## Bảng đối chiếu để đọc đúng thông tin\n\n| Thành phần thường được xem | Thông tin hữu ích | Giới hạn diễn giải |\n|---|---|---|\n| Thời gian ngủ | Ước tính lượng ngủ trong đêm | Không đồng nhất với thời gian nằm giường |\n| Hiệu suất ngủ | Tỷ lệ thời gian ngủ trên thời gian ở giường | Chịu sai số nhận diện lúc thức yên |\n| Thức giấc, chuyển động | Gợi ý đêm bị gián đoạn | Không xác định nguyên nhân từng lần |\n| Giai đoạn ngủ | Mô tả mẫu ước tính NREM/REM | Không thay ghi điện não |\n| Lịch ngủ | Cho thấy tính đều đặn của giờ ngủ và thức | Không chứng minh một giờ cố định hợp với tất cả |\n| Điểm tổng hợp | Tóm tắt theo mô hình của hãng | Không có trọng số chung giữa mọi hãng |\n\n## Ứng dụng thực tế: làm gì và đánh giá bằng cách nào?\n\nTrong tuần tới, ghi giờ lên giường, giờ thức và mức tỉnh táo ban ngày bên cạnh điểm ngủ. Nếu điểm giảm, kiểm tra lịch ngủ, rượu bia và cách đeo trước khi đổi lịch tập. Dành đủ thời gian ngủ phù hợp với tuổi.\n\n1. **Xác định vấn đề thật.** Phân biệt buồn ngủ ban ngày, khó ngủ, hay chỉ lo một chỉ số. Câu hỏi khác nhau cần cách theo dõi khác nhau.\n2. **Thử điều chỉnh có mục đích.** Chọn một thay đổi khả thi trong lịch hoặc môi trường, thay vì đổi nhiều yếu tố và mua nhiều sản phẩm cùng lúc.\n3. **Ghi cả trải nghiệm.** Thêm mức tỉnh táo và hoàn cảnh vào dữ liệu; đừng chỉ so hai điểm số hoặc hai hãng.\n4. **Đánh giá lại theo mục tiêu.** Một biểu đồ đẹp hơn nhưng vẫn buồn ngủ nhiều chưa phải kết quả đủ. Không trì hoãn tư vấn khi có triệu chứng đáng lo.\n\n## Khi nào nên tìm hỗ trợ?\n\nKhông có bảng trọng số 25%–20% dùng chung cho Oura, Garmin và WHOOP. Điểm 85 không phải giấy xác nhận đủ sức tập nặng; các giai đoạn ngủ trên thiết bị phổ thông là ước tính.\n\nĐi khám nếu buồn ngủ ban ngày kéo dài, ngáy to kèm ngưng thở hoặc mất ngủ ảnh hưởng sinh hoạt, dù điểm ngủ vẫn đẹp.\n\n## Nguồn tham khảo và phạm vi hỗ trợ\n\n1. [Schutte-Rodin et al. (2021) — Evaluating consumer and clinical sleep technologies: an American Academy of Sleep Medicine update](https://pubmed.ncbi.nlm.nih.gov/34314344/) — Professional society review. Hỗ trợ: Giới hạn đánh giá và xác thực công nghệ theo dõi giấc ngủ.\n\n2. [NHLBI — How Much Sleep Is Enough?](https://www.nhlbi.nih.gov/health/sleep/how-much-sleep) — Public health guidance. Hỗ trợ: Thời lượng ngủ theo tuổi; nợ ngủ.\n\n3. [NHLBI — Sleep Apnea Symptoms](https://www.nhlbi.nih.gov/health/sleep-apnea/symptoms) — Public health guidance. Hỗ trợ: Ngáy, ngưng thở và buồn ngủ ban ngày.\n\n4. [NHLBI — Sleep Phases and Stages](https://www.nhlbi.nih.gov/health/sleep/stages-of-sleep) — Public health guidance. Hỗ trợ: NREM, REM và thay đổi theo tuổi.\n\n5. [NHLBI — Your Sleep/Wake Cycle](https://www.nhlbi.nih.gov/health/sleep/sleep-wake-cycle) — Public health guidance. Hỗ trợ: Nhịp sinh học, ánh sáng và áp lực ngủ.\n\n6. [NHLBI — Healthy Sleep Habits](https://www.nhlbi.nih.gov/health/sleep-deprivation/healthy-sleep-habits) — Public health guidance. Hỗ trợ: Thói quen ngủ và lịch sinh hoạt.\n\n> Cập nhật nội dung và nguồn: 26/10/2026. Nội dung giáo dục; chưa có xác nhận duyệt bởi bác sĩ.\n",
     "references": [
       {
@@ -88,7 +88,7 @@ const articles = [
     "source_checked_date": "2026-10-26",
     "editorial_review_status": "Long-form development of original outline; sources checked",
     "clinical_review_status": "Not recorded",
-    "image_provenance": "Hero restored from the original project library. Retained diagrams are illustrations, not study outcome data. Summary guidance is article text, not an image.",
+    "image_provenance": "Image research batch 01: visible subject, source metadata and reuse terms checked. See image_attributions for each asset.",
     "public_url": "https://test-repo-y1wb.onrender.com/posts/LM_SL_01.html",
     "baseline_revision": "f68c786",
     "content_edition": "Long-form development of the original topic outline",
@@ -106,7 +106,66 @@ const articles = [
       "sleep_architecture",
       "sleep_pressure",
       "sleep_debt"
-    ]
+    ],
+    "hero_caption": "Optical sensor on the underside of a Fitbit Versa Lite watch.",
+    "hero_caption_vi": "Cảm biến quang học ở mặt dưới đồng hồ Fitbit Versa Lite.",
+    "hero_image_fit": "contain",
+    "image_attributions": [
+      {
+        "article_id": "LM_SL_01",
+        "role": "hero",
+        "asset": "images/researched/batch-01/LM_SL_01_hero.jpg",
+        "title": "Fitbit Versa Lite No - 7：底面の脈拍測定装置.jpg",
+        "source_page": "https://commons.wikimedia.org/wiki/File:Fitbit_Versa_Lite_No_-_7%EF%BC%9A%E5%BA%95%E9%9D%A2%E3%81%AE%E8%84%88%E6%8B%8D%E6%B8%AC%E5%AE%9A%E8%A3%85%E7%BD%AE.jpg",
+        "source_asset_url": "https://upload.wikimedia.org/wikipedia/commons/f/f0/Fitbit_Versa_Lite_No_-_7%EF%BC%9A%E5%BA%95%E9%9D%A2%E3%81%AE%E8%84%88%E6%8B%8D%E6%B8%AC%E5%AE%9A%E8%A3%85%E7%BD%AE.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "download_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f0/Fitbit_Versa_Lite_No_-_7%EF%BC%9A%E5%BA%95%E9%9D%A2%E3%81%AE%E8%84%88%E6%8B%8D%E6%B8%AC%E5%AE%9A%E8%A3%85%E7%BD%AE.jpg/1280px-Fitbit_Versa_Lite_No_-_7%EF%BC%9A%E5%BA%95%E9%9D%A2%E3%81%AE%E8%84%88%E6%8B%8D%E6%B8%AC%E5%AE%9A%E8%A3%85%E7%BD%AE.jpg",
+        "author": "Kyu3",
+        "license": "CC BY-SA 4.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+        "caption_vi": "Cảm biến quang học ở mặt dưới đồng hồ Fitbit Versa Lite.",
+        "caption_en": "Optical sensor on the underside of a Fitbit Versa Lite watch.",
+        "alt_vi": "Cảm biến quang học ở mặt dưới đồng hồ Fitbit Versa Lite.",
+        "alt_en": "Optical sensor on the underside of a Fitbit Versa Lite watch.",
+        "relevance_vi": "Cho thấy tín hiệu phần cứng mà thuật toán thiết bị đeo dùng; không giả làm ảnh chụp điểm ngủ.",
+        "modifications_vi": "Bản thu nhỏ; giữ nguyên nội dung.",
+        "modifications_en": "Thumbnail; image content unchanged.",
+        "fit": "contain",
+        "width": 1280,
+        "height": 1280,
+        "sha256": "37320f8e16a7415442aecd1c4c77a23bac4dd2a20d869d12f3c8d5386b0f9061",
+        "checked_date": "2026-10-26",
+        "review_status": "Subject, source and licence checked",
+        "batch": 1
+      },
+      {
+        "article_id": "LM_SL_01",
+        "role": "inline",
+        "asset": "images/researched/batch-01/LM_SL_01_inline.jpg",
+        "title": "Sleep studies.jpg",
+        "source_page": "https://commons.wikimedia.org/wiki/File:Sleep_studies.jpg",
+        "source_asset_url": "https://upload.wikimedia.org/wikipedia/commons/e/e1/Sleep_studies.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "download_url": "https://upload.wikimedia.org/wikipedia/commons/e/e1/Sleep_studies.jpg",
+        "author": "National Heart Lung and Blood Institute (NIH)",
+        "license": "Public domain",
+        "license_url": "https://commons.wikimedia.org/wiki/File:Sleep_studies.jpg#Licensing",
+        "caption_vi": "Sơ đồ NHLBI về cảm biến và bản ghi đa ký giấc ngủ, dùng để phân biệt xét nghiệm tại phòng ngủ với ước tính từ đồng hồ.",
+        "caption_en": "NHLBI diagram of polysomnography sensors and recordings, distinguishing a sleep study from a watch estimate.",
+        "alt_vi": "Sơ đồ NHLBI về cảm biến và bản ghi đa ký giấc ngủ, dùng để phân biệt xét nghiệm tại phòng ngủ với ước tính từ đồng hồ.",
+        "alt_en": "NHLBI diagram of polysomnography sensors and recordings, distinguishing a sleep study from a watch estimate.",
+        "relevance_vi": "Hỗ trợ phần phân biệt đa ký với thiết bị đeo; không mô tả một điểm ngủ hay dữ liệu của người đọc.",
+        "modifications_vi": "Giữ nguyên nội dung file ảnh gốc.",
+        "modifications_en": "Original image file content unchanged.",
+        "fit": "contain",
+        "width": 475,
+        "height": 592,
+        "sha256": "d42439287d97350e4210d070d65db9ba9da36cf6c502b54959d03d8ec67f59d4",
+        "checked_date": "2026-10-26",
+        "review_status": "Subject, source and licence checked",
+        "batch": 1
+      }
+    ],
+    "image_review_batch": 1,
+    "image_review_status": "Subject, source and licence checked — batch 01"
   },
   {
     "id": "LM_SL_02",
@@ -122,19 +181,19 @@ const articles = [
     "content": "When you look at the sleep details screen on your **WHOOP**, **Oura Ring**, **Garmin**, or **Apple Watch** each morning, you see a colorful timeline of blocks shifting between **Awake**, **Light Sleep**, **Deep Sleep**, and **REM Sleep**. In clinical sleep medicine, this timeline chart is called a **Hypnogram**.\n\nSleep cycles through NREM and REM. Deep sleep is usually more prominent early in the night and REM later. Light sleep is a normal part of sleep architecture, rather than wasted time.\n\n**Illustrative situation:** A large light-sleep share makes you want to convert it all into deep sleep. Stages are not interchangeable quality levels. Consider total sleep, remembered awakenings and daytime function; do not cut the end of the night to improve the N3 percentage.\n\n## Sleep architecture changes across the night\n\nSleep alternates between NREM and REM. NREM includes N1, N2 and N3; consumer displays often combine N1 and N2 as “light sleep.” N3 is deep or slow-wave sleep. These stages recur in cycles, but not on an exact 90-minute timer. Their timing varies with age, people and nights.\n\nDeep sleep is usually more prominent earlier, and REM periods generally lengthen later. This helps explain why duration alone is incomplete. It does not establish a universal 10 p.m.–2 a.m. deep-sleep window, or make light sleep wasted time. N2 is a normal, important component.\n\nMemory, endocrine function and recovery involve interacting processes. “Deep sleep repairs the body; REM repairs the brain” is too rigid. Findings about brainwaves or animal experiments cannot be translated directly into mandatory watch percentages. Adequate sleep opportunity, daytime functioning and troublesome symptoms remain more practical measures.\n\n### Brain activity and movement are different signals\n\nClinical staging combines features of brain, eye and muscle activity rather than stillness alone. A quiet person reading can therefore be misclassified, while a brief movement does not always indicate fully remembered wakefulness.\n\nIn validation research, check the reference standard and outcome. Sensitivity for sleep detection differs from identifying wakefulness and from correctly classifying individual stages. A good sleep–wake result cannot stand in for REM or N3 accuracy, and healthy-participant findings do not automatically generalize to sleep disorders. [1](https://www.nhlbi.nih.gov/health/sleep/stages-of-sleep) [2](https://pubmed.ncbi.nlm.nih.gov/34314344/)\n\n## From sensor signals to a score: three different layers\n\nA wearable does not directly observe “recovery quality.” It moves through three layers: **recorded signals**, **algorithmic estimates**, and a **summary score**. Optical sensors record light changes related to blood flow; accelerometers record movement. Software uses these inputs to estimate pulse and sleep–wake patterns. The final score is another interpretation, rather than an independent measurement.\n\nThis explains why two devices can disagree about the same night. Signal quality, sampling windows and model training all matter. Quiet wakefulness can be mistaken for sleep, and sleep stages can be confused with one another.\n\nClinical polysomnography adds brain activity, eye movements and muscle activity. Most consumer watches do not record those channels. Their graphs can support a discussion of patterns, but a colored segment cannot establish the precise amount of recovery your brain received. A medically regulated feature must still be interpreted within its particular indication.\n\n### Sleep efficiency is not the sleep score\n\nSuppose eight hours in bed contain seven estimated hours asleep. The arithmetic is `7 / 8 × 100 = 87.5%` efficiency. That defined ratio does not determine the app's score. Another night with the same efficiency but different timing, awakenings or other signals can score differently.\n\nThis is a calculation example, not a diagnostic threshold. Separating time in bed, estimated sleep and the summary helps identify the right question. Optimizing a ratio alone can overlook inadequate sleep opportunity or symptoms requiring assessment. [2](https://pubmed.ncbi.nlm.nih.gov/34314344/) [4](https://www.nhlbi.nih.gov/health/sleep/how-much-sleep)\n\n## Sleep pressure and circadian timing are different\n\nTwo processes help organize sleep. **Sleep pressure** builds during wakefulness, with adenosine contributing to this system. **Circadian timing** influences alertness across the day and responds to light and routines. Because they interact, exhaustion does not guarantee easy sleep at any chosen time.\n\nCaffeine can mask sleepiness through adenosine receptors without replacing lost sleep. A late nap may improve immediate alertness while making nighttime sleep more difficult. Effects vary with dose, individual sensitivity and schedule; there is no universally reliable caffeine cut-off.\n\nWhen adjusting sleep, consider waking time, light exposure and daytime functioning together. Spending much longer in bed does not necessarily create more sleep. Persistent insomnia calls for appropriate assessment and treatment rather than forcing sleep or adding supplements to achieve a desired graph. [5](https://www.nhlbi.nih.gov/health/sleep/sleep-wake-cycle) [6](https://www.nhlbi.nih.gov/health/sleep-deprivation/healthy-sleep-habits)\n\n## Sleep debt is useful, but not an exact invoice\n\nRepeatedly allowing less sleep than needed can have cumulative effects. Completing familiar tasks does not establish preserved attention, reaction time or driving safety. Feeling accustomed to a short schedule is not the same as demonstrating unimpaired performance.\n\nApps estimate both sleep need and actual sleep, so their debt totals depend on a model. There is no universal formula that adds precise minutes for Strain and yesterday's deficit to predict complete recovery. Different apps should not be treated as interchangeable laboratory tests.\n\nAdditional sleep can help after restriction, but recovery depends on the prior deficit and the outcome considered. Large weekend shifts in both bedtime and waking time can complicate the return to a usual schedule. That does not make all catch-up sleep harmful, nor establish a fixed number of nights that erase every effect. [4](https://www.nhlbi.nih.gov/health/sleep/how-much-sleep) [5](https://www.nhlbi.nih.gov/health/sleep/sleep-wake-cycle)\n\n## A comparison for practical interpretation\n\n| Stage | Interpretation | Avoid concluding |\n|---|---|---|\n| N1 | Wake-to-sleep transition | Entirely wasted time |\n| N2 | Normal NREM sleep | It should all become N3 |\n| N3 | Slow-wave sleep, often earlier | One mandatory percentage for every age |\n| REM | Often lengthens later | A display color establishes mental health |\n\n## Putting this into practice and evaluating the response\n\nPrioritize enough sleep and regular timing. Compare several nights on the same device alongside alertness. Shortening the morning to improve a deep-sleep percentage can remove useful sleep.\n\n1. **Define the real problem.** Daytime sleepiness, difficulty sleeping and worry about a metric need different questions.\n2. **Make a purposeful adjustment.** Choose one feasible routine or environment change rather than changing everything or buying several products.\n3. **Record experience too.** Note alertness and context, not just scores from different brands.\n4. **Review against the goal.** A better graph with persistent sleepiness is not enough. Do not delay advice for concerning symptoms.\n\n## When to seek support\n\nStage proportions vary with age and across nights. A watch does not record a clinical sleep EEG; its percentages cannot establish a diagnosis.\n\nConsult a clinician if adequate sleep still leaves marked sleepiness, or someone notices breathing pauses.\n\n## References and what they support\n\n1. [NHLBI — Sleep Phases and Stages](https://www.nhlbi.nih.gov/health/sleep/stages-of-sleep) — Public health guidance. Supports: NREM, REM and age-related variation.\n\n2. [Schutte-Rodin et al. (2021) — Evaluating consumer and clinical sleep technologies: an American Academy of Sleep Medicine update](https://pubmed.ncbi.nlm.nih.gov/34314344/) — Professional society review. Supports: Evaluation and validation limits of sleep technologies.\n\n3. [NHLBI — Sleep Apnea Symptoms](https://www.nhlbi.nih.gov/health/sleep-apnea/symptoms) — Public health guidance. Supports: Snoring, breathing pauses and daytime sleepiness.\n\n4. [NHLBI — How Much Sleep Is Enough?](https://www.nhlbi.nih.gov/health/sleep/how-much-sleep) — Public health guidance. Supports: Age-related sleep needs; sleep debt.\n\n5. [NHLBI — Your Sleep/Wake Cycle](https://www.nhlbi.nih.gov/health/sleep/sleep-wake-cycle) — Public health guidance. Supports: Circadian timing, light and sleep pressure.\n\n6. [NHLBI — Healthy Sleep Habits](https://www.nhlbi.nih.gov/health/sleep-deprivation/healthy-sleep-habits) — Public health guidance. Supports: Sleep habits and consistent schedules.\n\n> Content and sources updated: 26 October 2026. Educational content; clinical sign-off has not been recorded.\n",
     "takeaway": "Prioritize enough sleep and regular timing. Compare several nights on the same device alongside alertness. Shortening the morning to improve a deep-sleep percentage can remove useful sleep.",
     "reading_time": "7 min",
-    "thumbnail": "images/LM_SL_02_hero.jpg",
+    "thumbnail": "images/researched/batch-01/LM_SL_02_hero.jpg",
     "source_name": "NHLBI — Sleep Phases and Stages",
     "source_url": "https://www.nhlbi.nih.gov/health/sleep/stages-of-sleep",
-    "hero_image": "images/LM_SL_02_hero.jpg",
-    "inline_image": "images/LM_SL_02_figure.png",
-    "inline_caption": "An example hypnogram illustrating stages, not the reader's measurements.",
+    "hero_image": "images/researched/batch-01/LM_SL_02_hero.jpg",
+    "inline_image": "images/researched/batch-01/LM_SL_02_inline.png",
+    "inline_caption": "Illustrative hypnogram showing transitions between wakefulness, REM and NREM stages 1–3.",
     "title_vi": "Ngủ nông, ngủ sâu và REM: mỗi giai đoạn có vai trò gì?",
     "description_vi": "Giấc ngủ gồm NREM và REM, lặp lại nhiều lần trong đêm.",
     "takeaway_vi": "Ưu tiên thời gian ngủ đủ và lịch đều trước khi tối ưu từng giai đoạn. Khi xem biểu đồ, so nhiều đêm trên cùng thiết bị, kèm cảm giác tỉnh táo; tránh cắt ngắn buổi sáng chỉ để tăng tỷ lệ ngủ sâu.",
     "reading_time_vi": "11 phút",
-    "hero_image_source_url": "https://test-repo-y1wb.onrender.com/images/LM_SL_02_hero.jpg",
-    "inline_image_source_url": "https://test-repo-y1wb.onrender.com/images/LM_SL_02_figure.png",
-    "inline_caption_vi": "Ví dụ hypnogram minh họa các giai đoạn; không phải dữ liệu của người đọc.",
+    "hero_image_source_url": "https://commons.wikimedia.org/wiki/File:Polysomnography_model_on_his_side.jpg",
+    "inline_image_source_url": "https://commons.wikimedia.org/wiki/File:Sleep_Hypnogram.svg",
+    "inline_caption_vi": "Hypnogram minh họa các lần chuyển giữa thức, REM và NREM 1–3 trong một đêm.",
     "content_vi": "Mỗi buổi sáng, khi mở màn hình chi tiết giấc ngủ trên **WHOOP**, **Oura Ring**, **Garmin**, hoặc **Apple Watch**, bạn sẽ thấy một biểu đồ dòng thời gian nhiều màu sắc chuyển đổi liên tục giữa **Thức (Awake)**, **Ngủ Nông (Light Sleep)**, **Ngủ Sâu (Deep Sleep)** và **Ngủ Mơ (REM Sleep)**. Trong y học giấc ngủ lâm sàng, biểu đồ này được gọi là **Biểu đồ cấu trúc giấc ngủ (Hypnogram)**.\n\nGiấc ngủ gồm NREM và REM, lặp lại nhiều lần trong đêm. Ngủ sâu thường nhiều hơn đầu đêm, REM thường nhiều hơn về sáng. Ngủ nông là phần bình thường của cấu trúc giấc ngủ; không cần cố loại bỏ giai đoạn này.\n\n**Tình huống minh họa:** Biểu đồ báo nhiều ngủ nông khiến bạn muốn tìm cách chuyển hết sang ngủ sâu. Nhưng các giai đoạn không phải những loại chất lượng có thể đổi ngang nhau. Trước khi thay lịch, hãy xem tổng thời gian, các lần thức giấc bạn nhớ và cảm giác ban ngày; không cắt phần cuối đêm chỉ vì muốn tỷ lệ N3 lớn hơn.\n\n## Giấc ngủ là một cấu trúc thay đổi trong đêm\n\nGiấc ngủ gồm NREM và REM. NREM có các giai đoạn N1, N2 và N3; thiết bị thường gộp N1 và N2 thành “ngủ nông”. N3 được gọi là ngủ sâu hay ngủ sóng chậm. Các giai đoạn lặp lại thành chu kỳ, nhưng không phải chiếc đồng hồ cứ đúng 90 phút lại đổi trạng thái. Thời lượng và cấu trúc có thể khác nhau giữa người, theo tuổi và giữa các đêm.\n\nNgủ sâu thường tập trung hơn ở phần đầu đêm, còn REM thường dài hơn về gần sáng. Điều đó giúp giải thích vì sao chỉ xem tổng số giờ chưa kể hết câu chuyện. Tuy nhiên, không thể quy giờ ngủ sâu cố định thành 22 giờ–2 giờ cho mọi lịch sinh hoạt, hoặc cho rằng mỗi phút ngủ nông là thời gian bị lãng phí. N2 là thành phần bình thường, quan trọng của giấc ngủ.\n\nCác nghiên cứu về trí nhớ, nội tiết và phục hồi xem xét nhiều quá trình tương tác. Không nên chia quá cứng thành “ngủ sâu chỉ sửa cơ, REM chỉ sửa não”. Cũng không thể chuyển kết quả về sóng não hoặc động vật sang một mục tiêu phần trăm bắt buộc trên đồng hồ. Điều đáng theo dõi là cơ hội ngủ đủ, mức tỉnh táo và những triệu chứng ảnh hưởng cuộc sống.\n\n### Điện não và cảm biến chuyển động không nhận diện cùng một dấu hiệu\n\nPhân loại giấc ngủ lâm sàng dựa trên tổ hợp đặc điểm như hoạt động điện não, mắt và cơ, thay vì chỉ mức nằm yên. Điều này giải thích vì sao một người có thể thức yên trong lúc đọc mà đồng hồ chưa phân biệt đúng. Ngược lại, một chuyển động ngắn không luôn có nghĩa đã thức hoàn toàn và nhớ được sự kiện đó.\n\nKhi đọc một nghiên cứu xác thực thiết bị, cần xem nó so với tiêu chuẩn nào và đo kết quả gì. Độ nhạy nhận ra ngủ khác với khả năng nhận đúng lúc thức; cả hai cũng khác độ chính xác phân loại từng giai đoạn. Một tỷ lệ tốt cho “ngủ hay thức” không được dùng thay cho tỷ lệ nhận đúng REM hoặc N3, và kết quả ở người khỏe mạnh không tự áp cho người có rối loạn ngủ. [1](https://www.nhlbi.nih.gov/health/sleep/stages-of-sleep) [2](https://pubmed.ncbi.nlm.nih.gov/34314344/)\n\n## Từ tín hiệu cảm biến đến một điểm số: ba tầng thông tin\n\nThiết bị không quan sát trực tiếp “chất lượng phục hồi”. Nó đi qua ba tầng: **tín hiệu đo được**, **trạng thái được thuật toán suy đoán**, rồi **điểm tổng hợp**. Cảm biến quang học ghi thay đổi ánh sáng liên quan dòng máu; gia tốc kế ghi chuyển động. Từ đó, phần mềm ước tính nhịp tim, lúc ngủ và lúc thức. Điểm ngủ là bước diễn giải tiếp theo, không phải một phép đo độc lập.\n\nSự phân biệt này giải thích vì sao hai thiết bị có thể báo khác nhau dù bạn chỉ trải qua một đêm. Sai số ở tín hiệu, cách chọn cửa sổ đo và cách huấn luyện thuật toán đều có thể góp phần. Đặc biệt, nằm yên khi chưa ngủ dễ bị nhận thành ngủ; các giai đoạn ngủ cũng có thể bị phân loại nhầm.\n\nTrong đa ký giấc ngủ, bác sĩ có thêm tín hiệu điện não, chuyển động mắt và trương lực cơ. Đồng hồ phổ thông thường không có các kênh đó. Vì vậy, dùng biểu đồ để nhận ra xu hướng là hợp lý; dùng một đoạn màu để kết luận chính xác não đang thiếu phục hồi hoặc tự chẩn đoán bệnh thì vượt quá khả năng của dữ liệu. Một thiết bị có tính năng y tế được cấp phép cũng chỉ được hiểu trong phạm vi chỉ định của tính năng đó.\n\n### Ví dụ: hiệu suất ngủ không phải điểm ngủ\n\nGiả sử bạn ở giường tám giờ, còn thời gian ngủ được ước tính là bảy giờ. Hiệu suất theo phép tính này là `7 / 8 × 100 = 87,5%`. Đó là một tỷ lệ có định nghĩa rõ; nó không cho biết thuật toán sẽ chấm bao nhiêu điểm. Đêm khác có cùng hiệu suất nhưng giờ ngủ, thời gian thức hoặc tín hiệu khác thay đổi vẫn có thể nhận điểm khác.\n\nĐây là ví dụ tính toán, không phải ngưỡng chẩn đoán. Lúc đọc báo cáo, tách thời gian ở giường, thời gian ngủ ước tính và điểm tổng hợp sẽ giúp bạn hỏi đúng vấn đề. Nếu chỉ cố tối ưu một tỷ lệ, bạn có thể bỏ qua chuyện cơ hội ngủ vẫn chưa đủ hoặc đang có triệu chứng cần kiểm tra. [2](https://pubmed.ncbi.nlm.nih.gov/34314344/) [4](https://www.nhlbi.nih.gov/health/sleep/how-much-sleep)\n\n## Áp lực ngủ và nhịp sinh học không phải một thứ\n\nHai quá trình giúp điều phối giấc ngủ. **Áp lực ngủ** tăng trong thời gian thức; adenosine là một phần của cơ chế này. **Nhịp sinh học** tạo xu hướng tỉnh hoặc buồn ngủ theo thời điểm, chịu ảnh hưởng của ánh sáng và lịch sinh hoạt. Vì hai quá trình tương tác, rất mệt không đồng nghĩa sẽ ngủ dễ vào bất kỳ giờ nào.\n\nCaffeine có thể che bớt cảm giác buồn ngủ bằng tác động lên thụ thể adenosine, nhưng không thay thế thời gian ngủ đã thiếu. Một giấc ngủ trưa muộn có thể làm bạn tỉnh hơn ngay lúc đó và đồng thời khiến buổi tối khó buồn ngủ hơn. Mức ảnh hưởng tùy liều caffeine, cơ địa và lịch ngủ; không có một giờ cắt caffeine bảo đảm phù hợp tất cả.\n\nĐây cũng là lý do nên quan sát cả giờ thức, tiếp xúc ánh sáng và cảm giác ban ngày khi điều chỉnh lịch. Nếu chỉ cố nằm thêm thật lâu, bạn có thể tăng thời gian trên giường mà chưa tăng được thời gian ngủ. Với mất ngủ kéo dài, cần đánh giá và can thiệp phù hợp, thay vì tự ép ngủ hoặc tăng chất bổ sung để đạt biểu đồ mong muốn. [5](https://www.nhlbi.nih.gov/health/sleep/sleep-wake-cycle) [6](https://www.nhlbi.nih.gov/health/sleep-deprivation/healthy-sleep-habits)\n\n## Nợ ngủ là khái niệm hữu ích, không phải hóa đơn chính xác\n\nNếu liên tục dành ít thời gian ngủ hơn nhu cầu, ảnh hưởng có thể tích lũy. Một người vẫn hoàn thành công việc quen thuộc không có nghĩa khả năng chú ý, phản ứng hoặc an toàn lái xe đã được bảo toàn. Cảm giác “quen rồi” và hiệu suất đo được không nhất thiết thay đổi cùng nhau.\n\nỨng dụng phải ước tính cả nhu cầu lẫn thời gian ngủ thực tế, nên con số nợ ngủ phụ thuộc mô hình. Không có công thức dùng chung giữa mọi hãng cho phép cộng chính xác một số phút từ Strain, thêm số phút thiếu từ hôm qua rồi dự báo đầy đủ khả năng hồi phục. So sánh hai ứng dụng như hai phép xét nghiệm tương đương sẽ dễ gây hiểu nhầm.\n\nNgủ thêm có thể hữu ích khi thiếu ngủ, song khả năng hồi phục tùy mức thiếu trước đó và chức năng đang xét. Cũng cần cân bằng cơ hội ngủ thêm với lịch sinh học. Nếu cuối tuần đổi cả giờ đi ngủ và thức dậy rất nhiều, việc quay lại lịch thường ngày có thể khó hơn. Không cần vì vậy mà xem mọi giấc ngủ bù là có hại, hoặc cam kết một số đêm cố định sẽ xóa hết ảnh hưởng. [4](https://www.nhlbi.nih.gov/health/sleep/how-much-sleep) [5](https://www.nhlbi.nih.gov/health/sleep/sleep-wake-cycle)\n\n## Bảng đối chiếu để đọc đúng thông tin\n\n| Giai đoạn | Cách hiểu | Điều không nên suy ra |\n|---|---|---|\n| N1 | Chuyển tiếp từ thức sang ngủ | Thời gian hoàn toàn vô ích |\n| N2 | Thành phần bình thường của giấc ngủ NREM | Phải chuyển hết thành N3 |\n| N3 | Ngủ sóng chậm, thường nhiều hơn đầu đêm | Một tỷ lệ tối ưu bắt buộc cho mọi tuổi |\n| REM | Giai đoạn thường dài hơn về gần sáng | Một màu biểu đồ xác định chính xác sức khỏe tâm lý |\n\n## Ứng dụng thực tế: làm gì và đánh giá bằng cách nào?\n\nƯu tiên thời gian ngủ đủ và lịch đều trước khi tối ưu từng giai đoạn. Khi xem biểu đồ, so nhiều đêm trên cùng thiết bị, kèm cảm giác tỉnh táo; tránh cắt ngắn buổi sáng chỉ để tăng tỷ lệ ngủ sâu.\n\n1. **Xác định vấn đề thật.** Phân biệt buồn ngủ ban ngày, khó ngủ, hay chỉ lo một chỉ số. Câu hỏi khác nhau cần cách theo dõi khác nhau.\n2. **Thử điều chỉnh có mục đích.** Chọn một thay đổi khả thi trong lịch hoặc môi trường, thay vì đổi nhiều yếu tố và mua nhiều sản phẩm cùng lúc.\n3. **Ghi cả trải nghiệm.** Thêm mức tỉnh táo và hoàn cảnh vào dữ liệu; đừng chỉ so hai điểm số hoặc hai hãng.\n4. **Đánh giá lại theo mục tiêu.** Một biểu đồ đẹp hơn nhưng vẫn buồn ngủ nhiều chưa phải kết quả đủ. Không trì hoãn tư vấn khi có triệu chứng đáng lo.\n\n## Khi nào nên tìm hỗ trợ?\n\nTỷ lệ các giai đoạn thay đổi theo tuổi và từng đêm. Đồng hồ không ghi điện não như đa ký giấc ngủ; không dùng tỷ lệ REM hoặc ngủ sâu để tự chẩn đoán.\n\nTrao đổi với bác sĩ nếu ngủ đủ giờ mà vẫn buồn ngủ rõ, hoặc người ngủ cùng nhận thấy ngưng thở.\n\n## Nguồn tham khảo và phạm vi hỗ trợ\n\n1. [NHLBI — Sleep Phases and Stages](https://www.nhlbi.nih.gov/health/sleep/stages-of-sleep) — Public health guidance. Hỗ trợ: NREM, REM và thay đổi theo tuổi.\n\n2. [Schutte-Rodin et al. (2021) — Evaluating consumer and clinical sleep technologies: an American Academy of Sleep Medicine update](https://pubmed.ncbi.nlm.nih.gov/34314344/) — Professional society review. Hỗ trợ: Giới hạn đánh giá và xác thực công nghệ theo dõi giấc ngủ.\n\n3. [NHLBI — Sleep Apnea Symptoms](https://www.nhlbi.nih.gov/health/sleep-apnea/symptoms) — Public health guidance. Hỗ trợ: Ngáy, ngưng thở và buồn ngủ ban ngày.\n\n4. [NHLBI — How Much Sleep Is Enough?](https://www.nhlbi.nih.gov/health/sleep/how-much-sleep) — Public health guidance. Hỗ trợ: Thời lượng ngủ theo tuổi; nợ ngủ.\n\n5. [NHLBI — Your Sleep/Wake Cycle](https://www.nhlbi.nih.gov/health/sleep/sleep-wake-cycle) — Public health guidance. Hỗ trợ: Nhịp sinh học, ánh sáng và áp lực ngủ.\n\n6. [NHLBI — Healthy Sleep Habits](https://www.nhlbi.nih.gov/health/sleep-deprivation/healthy-sleep-habits) — Public health guidance. Hỗ trợ: Thói quen ngủ và lịch sinh hoạt.\n\n> Cập nhật nội dung và nguồn: 26/10/2026. Nội dung giáo dục; chưa có xác nhận duyệt bởi bác sĩ.\n",
     "references": [
       {
@@ -197,7 +256,7 @@ const articles = [
     "source_checked_date": "2026-10-26",
     "editorial_review_status": "Long-form development of original outline; sources checked",
     "clinical_review_status": "Not recorded",
-    "image_provenance": "Hero restored from the original project library. Retained diagrams are illustrations, not study outcome data. Summary guidance is article text, not an image.",
+    "image_provenance": "Image research batch 01: visible subject, source metadata and reuse terms checked. See image_attributions for each asset.",
     "public_url": "https://test-repo-y1wb.onrender.com/posts/LM_SL_02.html",
     "baseline_revision": "f68c786",
     "content_edition": "Long-form development of the original topic outline",
@@ -216,7 +275,66 @@ const articles = [
       "sleep_sensors",
       "sleep_pressure",
       "sleep_debt"
-    ]
+    ],
+    "hero_caption": "A model wearing sleep-recording equipment while lying on his side.",
+    "hero_caption_vi": "Người mẫu đeo thiết bị ghi giấc ngủ ở tư thế nằm nghiêng.",
+    "hero_image_fit": "cover",
+    "image_attributions": [
+      {
+        "article_id": "LM_SL_02",
+        "role": "hero",
+        "asset": "images/researched/batch-01/LM_SL_02_hero.jpg",
+        "title": "Polysomnography model on his side.jpg",
+        "source_page": "https://commons.wikimedia.org/wiki/File:Polysomnography_model_on_his_side.jpg",
+        "source_asset_url": "https://upload.wikimedia.org/wikipedia/commons/2/2e/Polysomnography_model_on_his_side.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "download_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2e/Polysomnography_model_on_his_side.jpg/1280px-Polysomnography_model_on_his_side.jpg",
+        "author": "Clinique Somnomed",
+        "license": "CC BY-SA 4.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+        "caption_vi": "Người mẫu đeo thiết bị ghi giấc ngủ ở tư thế nằm nghiêng.",
+        "caption_en": "A model wearing sleep-recording equipment while lying on his side.",
+        "alt_vi": "Người mẫu đeo thiết bị ghi giấc ngủ ở tư thế nằm nghiêng.",
+        "alt_en": "A model wearing sleep-recording equipment while lying on his side.",
+        "relevance_vi": "Minh họa việc ghi nhiều tín hiệu để phân loại giấc ngủ, không suy giai đoạn chỉ từ tư thế.",
+        "modifications_vi": "Bản thu nhỏ; giữ nguyên nội dung.",
+        "modifications_en": "Thumbnail; image content unchanged.",
+        "fit": "cover",
+        "width": 1280,
+        "height": 960,
+        "sha256": "73e8c48b5713541d6938f94b6b288f9d53bc3e290b66552622cd69f061cd308c",
+        "checked_date": "2026-10-26",
+        "review_status": "Subject, source and licence checked",
+        "batch": 1
+      },
+      {
+        "article_id": "LM_SL_02",
+        "role": "inline",
+        "asset": "images/researched/batch-01/LM_SL_02_inline.png",
+        "title": "Sleep Hypnogram.svg",
+        "source_page": "https://commons.wikimedia.org/wiki/File:Sleep_Hypnogram.svg",
+        "source_asset_url": "https://upload.wikimedia.org/wikipedia/commons/3/3e/Sleep_Hypnogram.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "download_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3e/Sleep_Hypnogram.svg/1280px-Sleep_Hypnogram.svg.png",
+        "author": "RazerM at English Wikipedia",
+        "license": "CC BY-SA 3.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/3.0/",
+        "caption_vi": "Hypnogram minh họa các lần chuyển giữa thức, REM và NREM 1–3 trong một đêm.",
+        "caption_en": "Illustrative hypnogram showing transitions between wakefulness, REM and NREM stages 1–3.",
+        "alt_vi": "Hypnogram minh họa các lần chuyển giữa thức, REM và NREM 1–3 trong một đêm.",
+        "alt_en": "Illustrative hypnogram showing transitions between wakefulness, REM and NREM stages 1–3.",
+        "relevance_vi": "Trục giai đoạn và thời gian đã xem trực tiếp; đây là ví dụ, không phải lịch ngủ bắt buộc.",
+        "modifications_vi": "PNG kết xuất từ SVG; giữ nguyên nội dung.",
+        "modifications_en": "PNG rendering of SVG; content unchanged.",
+        "fit": "contain",
+        "width": 1280,
+        "height": 645,
+        "sha256": "db4e846fe771741226ca6b1e048eb8187aafeec44735ef9733f7a962133c9768",
+        "checked_date": "2026-10-26",
+        "review_status": "Subject, source and licence checked",
+        "batch": 1
+      }
+    ],
+    "image_review_batch": 1,
+    "image_review_status": "Subject, source and licence checked — batch 01"
   },
   {
     "id": "DM_SL_01",
@@ -232,19 +350,19 @@ const articles = [
     "content": "Deep sleep changes with age and between nights. A low watch estimate can reflect classification error, disrupted sleep or a changed routine; the number alone does not identify a cause.\n\n**Illustrative situation:** After one low deep-sleep estimate, changing the room and buying several products makes it hard to identify anything useful. Start with timing, comfort and caffeine, then observe multiple nights. Concerning symptoms need assessment without waiting for a better graph.\n\n## Sleep architecture changes across the night\n\nSleep alternates between NREM and REM. NREM includes N1, N2 and N3; consumer displays often combine N1 and N2 as “light sleep.” N3 is deep or slow-wave sleep. These stages recur in cycles, but not on an exact 90-minute timer. Their timing varies with age, people and nights.\n\nDeep sleep is usually more prominent earlier, and REM periods generally lengthen later. This helps explain why duration alone is incomplete. It does not establish a universal 10 p.m.–2 a.m. deep-sleep window, or make light sleep wasted time. N2 is a normal, important component.\n\nMemory, endocrine function and recovery involve interacting processes. “Deep sleep repairs the body; REM repairs the brain” is too rigid. Findings about brainwaves or animal experiments cannot be translated directly into mandatory watch percentages. Adequate sleep opportunity, daytime functioning and troublesome symptoms remain more practical measures.\n\n### Brain activity and movement are different signals\n\nClinical staging combines features of brain, eye and muscle activity rather than stillness alone. A quiet person reading can therefore be misclassified, while a brief movement does not always indicate fully remembered wakefulness.\n\nIn validation research, check the reference standard and outcome. Sensitivity for sleep detection differs from identifying wakefulness and from correctly classifying individual stages. A good sleep–wake result cannot stand in for REM or N3 accuracy, and healthy-participant findings do not automatically generalize to sleep disorders. [1](https://www.nhlbi.nih.gov/health/sleep/stages-of-sleep) [4](https://pubmed.ncbi.nlm.nih.gov/34314344/)\n\n## Sleep pressure and circadian timing are different\n\nTwo processes help organize sleep. **Sleep pressure** builds during wakefulness, with adenosine contributing to this system. **Circadian timing** influences alertness across the day and responds to light and routines. Because they interact, exhaustion does not guarantee easy sleep at any chosen time.\n\nCaffeine can mask sleepiness through adenosine receptors without replacing lost sleep. A late nap may improve immediate alertness while making nighttime sleep more difficult. Effects vary with dose, individual sensitivity and schedule; there is no universally reliable caffeine cut-off.\n\nWhen adjusting sleep, consider waking time, light exposure and daytime functioning together. Spending much longer in bed does not necessarily create more sleep. Persistent insomnia calls for appropriate assessment and treatment rather than forcing sleep or adding supplements to achieve a desired graph. [5](https://www.nhlbi.nih.gov/health/sleep/sleep-wake-cycle) [2](https://www.nhlbi.nih.gov/health/sleep-deprivation/healthy-sleep-habits)\n\n## From sensor signals to a score: three different layers\n\nA wearable does not directly observe “recovery quality.” It moves through three layers: **recorded signals**, **algorithmic estimates**, and a **summary score**. Optical sensors record light changes related to blood flow; accelerometers record movement. Software uses these inputs to estimate pulse and sleep–wake patterns. The final score is another interpretation, rather than an independent measurement.\n\nThis explains why two devices can disagree about the same night. Signal quality, sampling windows and model training all matter. Quiet wakefulness can be mistaken for sleep, and sleep stages can be confused with one another.\n\nClinical polysomnography adds brain activity, eye movements and muscle activity. Most consumer watches do not record those channels. Their graphs can support a discussion of patterns, but a colored segment cannot establish the precise amount of recovery your brain received. A medically regulated feature must still be interpreted within its particular indication.\n\n### Sleep efficiency is not the sleep score\n\nSuppose eight hours in bed contain seven estimated hours asleep. The arithmetic is `7 / 8 × 100 = 87.5%` efficiency. That defined ratio does not determine the app's score. Another night with the same efficiency but different timing, awakenings or other signals can score differently.\n\nThis is a calculation example, not a diagnostic threshold. Separating time in bed, estimated sleep and the summary helps identify the right question. Optimizing a ratio alone can overlook inadequate sleep opportunity or symptoms requiring assessment. [4](https://pubmed.ncbi.nlm.nih.gov/34314344/) [6](https://www.nhlbi.nih.gov/health/sleep/how-much-sleep)\n\n## Sleep debt is useful, but not an exact invoice\n\nRepeatedly allowing less sleep than needed can have cumulative effects. Completing familiar tasks does not establish preserved attention, reaction time or driving safety. Feeling accustomed to a short schedule is not the same as demonstrating unimpaired performance.\n\nApps estimate both sleep need and actual sleep, so their debt totals depend on a model. There is no universal formula that adds precise minutes for Strain and yesterday's deficit to predict complete recovery. Different apps should not be treated as interchangeable laboratory tests.\n\nAdditional sleep can help after restriction, but recovery depends on the prior deficit and the outcome considered. Large weekend shifts in both bedtime and waking time can complicate the return to a usual schedule. That does not make all catch-up sleep harmful, nor establish a fixed number of nights that erase every effect. [6](https://www.nhlbi.nih.gov/health/sleep/how-much-sleep) [5](https://www.nhlbi.nih.gov/health/sleep/sleep-wake-cycle)\n\n## A comparison for practical interpretation\n\n| Stage | Interpretation | Avoid concluding |\n|---|---|---|\n| N1 | Wake-to-sleep transition | Entirely wasted time |\n| N2 | Normal NREM sleep | It should all become N3 |\n| N3 | Slow-wave sleep, often earlier | One mandatory percentage for every age |\n| REM | Often lengthens later | A display color establishes mental health |\n\n## Putting this into practice and evaluating the response\n\nTrack total sleep, alertness and timing for one to two weeks. Keep the room dark, quiet and comfortable, limit late caffeine and avoid using alcohol as a sleep aid.\n\n1. **Define the real problem.** Daytime sleepiness, difficulty sleeping and worry about a metric need different questions.\n2. **Make a purposeful adjustment.** Choose one feasible routine or environment change rather than changing everything or buying several products.\n3. **Record experience too.** Note alertness and context, not just scores from different brands.\n4. **Review against the goal.** A better graph with persistent sleepiness is not enough. Do not delay advice for concerning symptoms.\n\n## When to seek support\n\nThere is no universal ideal deep-sleep percentage. A supplement, food or exact room temperature cannot be promised to increase it.\n\nLoud snoring, gasping or sleepiness while driving warrant assessment. Do not drive while sleepy.\n\n## References and what they support\n\n1. [NHLBI — Sleep Phases and Stages](https://www.nhlbi.nih.gov/health/sleep/stages-of-sleep) — Public health guidance. Supports: NREM, REM and age-related variation.\n\n2. [NHLBI — Healthy Sleep Habits](https://www.nhlbi.nih.gov/health/sleep-deprivation/healthy-sleep-habits) — Public health guidance. Supports: Sleep habits and consistent schedules.\n\n3. [NHLBI — Sleep Apnea Symptoms](https://www.nhlbi.nih.gov/health/sleep-apnea/symptoms) — Public health guidance. Supports: Snoring, breathing pauses and daytime sleepiness.\n\n4. [Schutte-Rodin et al. (2021) — Evaluating consumer and clinical sleep technologies: an American Academy of Sleep Medicine update](https://pubmed.ncbi.nlm.nih.gov/34314344/) — Professional society review. Supports: Evaluation and validation limits of sleep technologies.\n\n5. [NHLBI — Your Sleep/Wake Cycle](https://www.nhlbi.nih.gov/health/sleep/sleep-wake-cycle) — Public health guidance. Supports: Circadian timing, light and sleep pressure.\n\n6. [NHLBI — How Much Sleep Is Enough?](https://www.nhlbi.nih.gov/health/sleep/how-much-sleep) — Public health guidance. Supports: Age-related sleep needs; sleep debt.\n\n> Content and sources updated: 26 October 2026. Educational content; clinical sign-off has not been recorded.\n",
     "takeaway": "Track total sleep, alertness and timing for one to two weeks. Keep the room dark, quiet and comfortable, limit late caffeine and avoid using alcohol as a sleep aid.",
     "reading_time": "6 min",
-    "thumbnail": "images/DM_SL_01_hero.jpg",
+    "thumbnail": "images/researched/batch-01/DM_SL_01_hero.jpg",
     "source_name": "NHLBI — Sleep Phases and Stages",
     "source_url": "https://www.nhlbi.nih.gov/health/sleep/stages-of-sleep",
-    "hero_image": "images/DM_SL_01_hero.jpg",
-    "inline_image": "images/DM_SL_01_figure.jpg",
-    "inline_caption": "Illustrative slow-wave sleep EEG; stage labels may reflect an older classification.",
+    "hero_image": "images/researched/batch-01/DM_SL_01_hero.jpg",
+    "inline_image": "images/researched/batch-01/DM_SL_01_inline.png",
+    "inline_caption": "Example N3 polysomnography recording with EEG, eye-movement and other physiological channels.",
     "title_vi": "Đồng hồ báo ít ngủ sâu: khi nào cần chú ý?",
     "description_vi": "Thời gian ngủ sâu có thể giảm theo tuổi và thay đổi tự nhiên giữa các đêm.",
     "takeaway_vi": "Theo dõi thời gian ngủ tổng, mức tỉnh táo và lịch ngủ trong một đến hai tuần. Giữ phòng ngủ tối, yên tĩnh, thoải mái; hạn chế caffeine sát giờ ngủ và tránh dùng rượu để dễ ngủ.",
     "reading_time_vi": "10 phút",
-    "hero_image_source_url": "https://test-repo-y1wb.onrender.com/images/DM_SL_01_hero.jpg",
-    "inline_image_source_url": "https://test-repo-y1wb.onrender.com/images/DM_SL_01_figure.jpg",
-    "inline_caption_vi": "Minh họa tín hiệu điện não giấc ngủ sóng chậm; tên giai đoạn trong hình có thể theo phân loại cũ.",
+    "hero_image_source_url": "https://commons.wikimedia.org/wiki/File:Polysomnography_model.jpg",
+    "inline_image_source_url": "https://commons.wikimedia.org/wiki/File:Sleep_Stage_N3.png",
+    "inline_caption_vi": "Ví dụ bản ghi đa ký ở giai đoạn N3, gồm các kênh điện não, điện mắt và tín hiệu sinh lý khác.",
     "content_vi": "Thời gian ngủ sâu có thể giảm theo tuổi và thay đổi tự nhiên giữa các đêm. Một đêm thiết bị báo thấp có thể do sai số phân loại, giấc ngủ bị gián đoạn hoặc lịch sinh hoạt khác thường; riêng số phút này chưa xác định nguyên nhân.\n\n**Tình huống minh họa:** Sau một đêm đồng hồ báo ít ngủ sâu, bạn định đổi cả phòng ngủ và mua nhiều sản phẩm cùng lúc. Cách đó khiến khó biết điều gì hữu ích. Hãy bắt đầu bằng lịch ngủ, mức thoải mái và caffeine, rồi quan sát nhiều đêm; nếu có triệu chứng đáng lo, việc khám không cần chờ tới khi dữ liệu đủ đẹp.\n\n## Giấc ngủ là một cấu trúc thay đổi trong đêm\n\nGiấc ngủ gồm NREM và REM. NREM có các giai đoạn N1, N2 và N3; thiết bị thường gộp N1 và N2 thành “ngủ nông”. N3 được gọi là ngủ sâu hay ngủ sóng chậm. Các giai đoạn lặp lại thành chu kỳ, nhưng không phải chiếc đồng hồ cứ đúng 90 phút lại đổi trạng thái. Thời lượng và cấu trúc có thể khác nhau giữa người, theo tuổi và giữa các đêm.\n\nNgủ sâu thường tập trung hơn ở phần đầu đêm, còn REM thường dài hơn về gần sáng. Điều đó giúp giải thích vì sao chỉ xem tổng số giờ chưa kể hết câu chuyện. Tuy nhiên, không thể quy giờ ngủ sâu cố định thành 22 giờ–2 giờ cho mọi lịch sinh hoạt, hoặc cho rằng mỗi phút ngủ nông là thời gian bị lãng phí. N2 là thành phần bình thường, quan trọng của giấc ngủ.\n\nCác nghiên cứu về trí nhớ, nội tiết và phục hồi xem xét nhiều quá trình tương tác. Không nên chia quá cứng thành “ngủ sâu chỉ sửa cơ, REM chỉ sửa não”. Cũng không thể chuyển kết quả về sóng não hoặc động vật sang một mục tiêu phần trăm bắt buộc trên đồng hồ. Điều đáng theo dõi là cơ hội ngủ đủ, mức tỉnh táo và những triệu chứng ảnh hưởng cuộc sống.\n\n### Điện não và cảm biến chuyển động không nhận diện cùng một dấu hiệu\n\nPhân loại giấc ngủ lâm sàng dựa trên tổ hợp đặc điểm như hoạt động điện não, mắt và cơ, thay vì chỉ mức nằm yên. Điều này giải thích vì sao một người có thể thức yên trong lúc đọc mà đồng hồ chưa phân biệt đúng. Ngược lại, một chuyển động ngắn không luôn có nghĩa đã thức hoàn toàn và nhớ được sự kiện đó.\n\nKhi đọc một nghiên cứu xác thực thiết bị, cần xem nó so với tiêu chuẩn nào và đo kết quả gì. Độ nhạy nhận ra ngủ khác với khả năng nhận đúng lúc thức; cả hai cũng khác độ chính xác phân loại từng giai đoạn. Một tỷ lệ tốt cho “ngủ hay thức” không được dùng thay cho tỷ lệ nhận đúng REM hoặc N3, và kết quả ở người khỏe mạnh không tự áp cho người có rối loạn ngủ. [1](https://www.nhlbi.nih.gov/health/sleep/stages-of-sleep) [4](https://pubmed.ncbi.nlm.nih.gov/34314344/)\n\n## Áp lực ngủ và nhịp sinh học không phải một thứ\n\nHai quá trình giúp điều phối giấc ngủ. **Áp lực ngủ** tăng trong thời gian thức; adenosine là một phần của cơ chế này. **Nhịp sinh học** tạo xu hướng tỉnh hoặc buồn ngủ theo thời điểm, chịu ảnh hưởng của ánh sáng và lịch sinh hoạt. Vì hai quá trình tương tác, rất mệt không đồng nghĩa sẽ ngủ dễ vào bất kỳ giờ nào.\n\nCaffeine có thể che bớt cảm giác buồn ngủ bằng tác động lên thụ thể adenosine, nhưng không thay thế thời gian ngủ đã thiếu. Một giấc ngủ trưa muộn có thể làm bạn tỉnh hơn ngay lúc đó và đồng thời khiến buổi tối khó buồn ngủ hơn. Mức ảnh hưởng tùy liều caffeine, cơ địa và lịch ngủ; không có một giờ cắt caffeine bảo đảm phù hợp tất cả.\n\nĐây cũng là lý do nên quan sát cả giờ thức, tiếp xúc ánh sáng và cảm giác ban ngày khi điều chỉnh lịch. Nếu chỉ cố nằm thêm thật lâu, bạn có thể tăng thời gian trên giường mà chưa tăng được thời gian ngủ. Với mất ngủ kéo dài, cần đánh giá và can thiệp phù hợp, thay vì tự ép ngủ hoặc tăng chất bổ sung để đạt biểu đồ mong muốn. [5](https://www.nhlbi.nih.gov/health/sleep/sleep-wake-cycle) [2](https://www.nhlbi.nih.gov/health/sleep-deprivation/healthy-sleep-habits)\n\n## Từ tín hiệu cảm biến đến một điểm số: ba tầng thông tin\n\nThiết bị không quan sát trực tiếp “chất lượng phục hồi”. Nó đi qua ba tầng: **tín hiệu đo được**, **trạng thái được thuật toán suy đoán**, rồi **điểm tổng hợp**. Cảm biến quang học ghi thay đổi ánh sáng liên quan dòng máu; gia tốc kế ghi chuyển động. Từ đó, phần mềm ước tính nhịp tim, lúc ngủ và lúc thức. Điểm ngủ là bước diễn giải tiếp theo, không phải một phép đo độc lập.\n\nSự phân biệt này giải thích vì sao hai thiết bị có thể báo khác nhau dù bạn chỉ trải qua một đêm. Sai số ở tín hiệu, cách chọn cửa sổ đo và cách huấn luyện thuật toán đều có thể góp phần. Đặc biệt, nằm yên khi chưa ngủ dễ bị nhận thành ngủ; các giai đoạn ngủ cũng có thể bị phân loại nhầm.\n\nTrong đa ký giấc ngủ, bác sĩ có thêm tín hiệu điện não, chuyển động mắt và trương lực cơ. Đồng hồ phổ thông thường không có các kênh đó. Vì vậy, dùng biểu đồ để nhận ra xu hướng là hợp lý; dùng một đoạn màu để kết luận chính xác não đang thiếu phục hồi hoặc tự chẩn đoán bệnh thì vượt quá khả năng của dữ liệu. Một thiết bị có tính năng y tế được cấp phép cũng chỉ được hiểu trong phạm vi chỉ định của tính năng đó.\n\n### Ví dụ: hiệu suất ngủ không phải điểm ngủ\n\nGiả sử bạn ở giường tám giờ, còn thời gian ngủ được ước tính là bảy giờ. Hiệu suất theo phép tính này là `7 / 8 × 100 = 87,5%`. Đó là một tỷ lệ có định nghĩa rõ; nó không cho biết thuật toán sẽ chấm bao nhiêu điểm. Đêm khác có cùng hiệu suất nhưng giờ ngủ, thời gian thức hoặc tín hiệu khác thay đổi vẫn có thể nhận điểm khác.\n\nĐây là ví dụ tính toán, không phải ngưỡng chẩn đoán. Lúc đọc báo cáo, tách thời gian ở giường, thời gian ngủ ước tính và điểm tổng hợp sẽ giúp bạn hỏi đúng vấn đề. Nếu chỉ cố tối ưu một tỷ lệ, bạn có thể bỏ qua chuyện cơ hội ngủ vẫn chưa đủ hoặc đang có triệu chứng cần kiểm tra. [4](https://pubmed.ncbi.nlm.nih.gov/34314344/) [6](https://www.nhlbi.nih.gov/health/sleep/how-much-sleep)\n\n## Nợ ngủ là khái niệm hữu ích, không phải hóa đơn chính xác\n\nNếu liên tục dành ít thời gian ngủ hơn nhu cầu, ảnh hưởng có thể tích lũy. Một người vẫn hoàn thành công việc quen thuộc không có nghĩa khả năng chú ý, phản ứng hoặc an toàn lái xe đã được bảo toàn. Cảm giác “quen rồi” và hiệu suất đo được không nhất thiết thay đổi cùng nhau.\n\nỨng dụng phải ước tính cả nhu cầu lẫn thời gian ngủ thực tế, nên con số nợ ngủ phụ thuộc mô hình. Không có công thức dùng chung giữa mọi hãng cho phép cộng chính xác một số phút từ Strain, thêm số phút thiếu từ hôm qua rồi dự báo đầy đủ khả năng hồi phục. So sánh hai ứng dụng như hai phép xét nghiệm tương đương sẽ dễ gây hiểu nhầm.\n\nNgủ thêm có thể hữu ích khi thiếu ngủ, song khả năng hồi phục tùy mức thiếu trước đó và chức năng đang xét. Cũng cần cân bằng cơ hội ngủ thêm với lịch sinh học. Nếu cuối tuần đổi cả giờ đi ngủ và thức dậy rất nhiều, việc quay lại lịch thường ngày có thể khó hơn. Không cần vì vậy mà xem mọi giấc ngủ bù là có hại, hoặc cam kết một số đêm cố định sẽ xóa hết ảnh hưởng. [6](https://www.nhlbi.nih.gov/health/sleep/how-much-sleep) [5](https://www.nhlbi.nih.gov/health/sleep/sleep-wake-cycle)\n\n## Bảng đối chiếu để đọc đúng thông tin\n\n| Giai đoạn | Cách hiểu | Điều không nên suy ra |\n|---|---|---|\n| N1 | Chuyển tiếp từ thức sang ngủ | Thời gian hoàn toàn vô ích |\n| N2 | Thành phần bình thường của giấc ngủ NREM | Phải chuyển hết thành N3 |\n| N3 | Ngủ sóng chậm, thường nhiều hơn đầu đêm | Một tỷ lệ tối ưu bắt buộc cho mọi tuổi |\n| REM | Giai đoạn thường dài hơn về gần sáng | Một màu biểu đồ xác định chính xác sức khỏe tâm lý |\n\n## Ứng dụng thực tế: làm gì và đánh giá bằng cách nào?\n\nTheo dõi thời gian ngủ tổng, mức tỉnh táo và lịch ngủ trong một đến hai tuần. Giữ phòng ngủ tối, yên tĩnh, thoải mái; hạn chế caffeine sát giờ ngủ và tránh dùng rượu để dễ ngủ.\n\n1. **Xác định vấn đề thật.** Phân biệt buồn ngủ ban ngày, khó ngủ, hay chỉ lo một chỉ số. Câu hỏi khác nhau cần cách theo dõi khác nhau.\n2. **Thử điều chỉnh có mục đích.** Chọn một thay đổi khả thi trong lịch hoặc môi trường, thay vì đổi nhiều yếu tố và mua nhiều sản phẩm cùng lúc.\n3. **Ghi cả trải nghiệm.** Thêm mức tỉnh táo và hoàn cảnh vào dữ liệu; đừng chỉ so hai điểm số hoặc hai hãng.\n4. **Đánh giá lại theo mục tiêu.** Một biểu đồ đẹp hơn nhưng vẫn buồn ngủ nhiều chưa phải kết quả đủ. Không trì hoãn tư vấn khi có triệu chứng đáng lo.\n\n## Khi nào nên tìm hỗ trợ?\n\nKhông có mức phần trăm ngủ sâu tối ưu duy nhất cho mọi người. Chưa có cơ sở để hứa một thực phẩm, viên bổ sung hay nhiệt độ phòng cụ thể sẽ tăng chắc chắn ngủ sâu.\n\nNgáy to, nghẹt thở lúc ngủ hoặc buồn ngủ khi lái xe cần được đánh giá. Không lái xe khi buồn ngủ.\n\n## Nguồn tham khảo và phạm vi hỗ trợ\n\n1. [NHLBI — Sleep Phases and Stages](https://www.nhlbi.nih.gov/health/sleep/stages-of-sleep) — Public health guidance. Hỗ trợ: NREM, REM và thay đổi theo tuổi.\n\n2. [NHLBI — Healthy Sleep Habits](https://www.nhlbi.nih.gov/health/sleep-deprivation/healthy-sleep-habits) — Public health guidance. Hỗ trợ: Thói quen ngủ và lịch sinh hoạt.\n\n3. [NHLBI — Sleep Apnea Symptoms](https://www.nhlbi.nih.gov/health/sleep-apnea/symptoms) — Public health guidance. Hỗ trợ: Ngáy, ngưng thở và buồn ngủ ban ngày.\n\n4. [Schutte-Rodin et al. (2021) — Evaluating consumer and clinical sleep technologies: an American Academy of Sleep Medicine update](https://pubmed.ncbi.nlm.nih.gov/34314344/) — Professional society review. Hỗ trợ: Giới hạn đánh giá và xác thực công nghệ theo dõi giấc ngủ.\n\n5. [NHLBI — Your Sleep/Wake Cycle](https://www.nhlbi.nih.gov/health/sleep/sleep-wake-cycle) — Public health guidance. Hỗ trợ: Nhịp sinh học, ánh sáng và áp lực ngủ.\n\n6. [NHLBI — How Much Sleep Is Enough?](https://www.nhlbi.nih.gov/health/sleep/how-much-sleep) — Public health guidance. Hỗ trợ: Thời lượng ngủ theo tuổi; nợ ngủ.\n\n> Cập nhật nội dung và nguồn: 26/10/2026. Nội dung giáo dục; chưa có xác nhận duyệt bởi bác sĩ.\n",
     "references": [
       {
@@ -307,7 +425,7 @@ const articles = [
     "source_checked_date": "2026-10-26",
     "editorial_review_status": "Long-form development of original outline; sources checked",
     "clinical_review_status": "Not recorded",
-    "image_provenance": "Hero restored from the original project library. Retained diagrams are illustrations, not study outcome data. Summary guidance is article text, not an image.",
+    "image_provenance": "Image research batch 01: visible subject, source metadata and reuse terms checked. See image_attributions for each asset.",
     "public_url": "https://test-repo-y1wb.onrender.com/posts/DM_SL_01.html",
     "baseline_revision": "f68c786",
     "content_edition": "Long-form development of the original topic outline",
@@ -324,7 +442,66 @@ const articles = [
       "sleep_pressure",
       "sleep_sensors",
       "sleep_debt"
-    ]
+    ],
+    "hero_caption": "A model with wires and sensors used for a sleep recording.",
+    "hero_caption_vi": "Người mẫu với các dây và cảm biến của một bản ghi giấc ngủ.",
+    "hero_image_fit": "cover",
+    "image_attributions": [
+      {
+        "article_id": "DM_SL_01",
+        "role": "hero",
+        "asset": "images/researched/batch-01/DM_SL_01_hero.jpg",
+        "title": "Polysomnography model.jpg",
+        "source_page": "https://commons.wikimedia.org/wiki/File:Polysomnography_model.jpg",
+        "source_asset_url": "https://upload.wikimedia.org/wikipedia/commons/4/43/Polysomnography_model.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "download_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/43/Polysomnography_model.jpg/1280px-Polysomnography_model.jpg",
+        "author": "Clinique Somnomed",
+        "license": "CC BY-SA 4.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+        "caption_vi": "Người mẫu với các dây và cảm biến của một bản ghi giấc ngủ.",
+        "caption_en": "A model with wires and sensors used for a sleep recording.",
+        "alt_vi": "Người mẫu với các dây và cảm biến của một bản ghi giấc ngủ.",
+        "alt_en": "A model with wires and sensors used for a sleep recording.",
+        "relevance_vi": "Đặt đúng bối cảnh phép đo dùng phân loại ngủ sâu; người trong ảnh không được gán chẩn đoán.",
+        "modifications_vi": "Bản thu nhỏ; giữ nguyên nội dung.",
+        "modifications_en": "Thumbnail; image content unchanged.",
+        "fit": "cover",
+        "width": 1280,
+        "height": 960,
+        "sha256": "d10f534c74858aa21547f05c58fed0dc994e7cf1db3f413f58a73b7d7c4703ff",
+        "checked_date": "2026-10-26",
+        "review_status": "Subject, source and licence checked",
+        "batch": 1
+      },
+      {
+        "article_id": "DM_SL_01",
+        "role": "inline",
+        "asset": "images/researched/batch-01/DM_SL_01_inline.png",
+        "title": "Sleep Stage N3.png",
+        "source_page": "https://commons.wikimedia.org/wiki/File:Sleep_Stage_N3.png",
+        "source_asset_url": "https://upload.wikimedia.org/wikipedia/commons/9/95/Sleep_Stage_N3.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "download_url": "https://upload.wikimedia.org/wikipedia/commons/9/95/Sleep_Stage_N3.png",
+        "author": "NascarEd",
+        "license": "CC BY-SA 3.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+        "caption_vi": "Ví dụ bản ghi đa ký ở giai đoạn N3, gồm các kênh điện não, điện mắt và tín hiệu sinh lý khác.",
+        "caption_en": "Example N3 polysomnography recording with EEG, eye-movement and other physiological channels.",
+        "alt_vi": "Ví dụ bản ghi đa ký ở giai đoạn N3, gồm các kênh điện não, điện mắt và tín hiệu sinh lý khác.",
+        "alt_en": "Example N3 polysomnography recording with EEG, eye-movement and other physiological channels.",
+        "relevance_vi": "Nguồn ghi rõ N3, thay hình mang phân loại Stage 4 cũ; không áp các số trong ảnh cho người đọc.",
+        "modifications_vi": "Giữ nguyên nội dung file ảnh gốc.",
+        "modifications_en": "Original image file content unchanged.",
+        "fit": "contain",
+        "width": 840,
+        "height": 609,
+        "sha256": "88d54b085ad58a28e2f08f56ed2bf27913a56c83710eb06c43ce81198e3f4bfd",
+        "checked_date": "2026-10-26",
+        "review_status": "Subject, source and licence checked",
+        "batch": 1
+      }
+    ],
+    "image_review_batch": 1,
+    "image_review_status": "Subject, source and licence checked — batch 01"
   },
   {
     "id": "DM_SL_02",
@@ -340,19 +517,19 @@ const articles = [
     "content": "Sleep debt builds when sleep repeatedly falls short of need. Extra sleep can ease sleepiness, but a weekend does not guarantee reversal of all effects of chronic restriction. Large schedule shifts can also make returning to workday sleep difficult.\n\n**Illustrative situation:** Short workday sleep and very late weekends involve both inadequate opportunity and shifted timing. Address both rather than simply totaling hours. Sustainable additional sleep and reasonably stable timing are more useful than treating Sunday as full repayment.\n\n## Sleep debt is useful, but not an exact invoice\n\nRepeatedly allowing less sleep than needed can have cumulative effects. Completing familiar tasks does not establish preserved attention, reaction time or driving safety. Feeling accustomed to a short schedule is not the same as demonstrating unimpaired performance.\n\nApps estimate both sleep need and actual sleep, so their debt totals depend on a model. There is no universal formula that adds precise minutes for Strain and yesterday's deficit to predict complete recovery. Different apps should not be treated as interchangeable laboratory tests.\n\nAdditional sleep can help after restriction, but recovery depends on the prior deficit and the outcome considered. Large weekend shifts in both bedtime and waking time can complicate the return to a usual schedule. That does not make all catch-up sleep harmful, nor establish a fixed number of nights that erase every effect. [1](https://www.nhlbi.nih.gov/health/sleep/how-much-sleep) [2](https://www.nhlbi.nih.gov/health/sleep/sleep-wake-cycle)\n\n## Sleep pressure and circadian timing are different\n\nTwo processes help organize sleep. **Sleep pressure** builds during wakefulness, with adenosine contributing to this system. **Circadian timing** influences alertness across the day and responds to light and routines. Because they interact, exhaustion does not guarantee easy sleep at any chosen time.\n\nCaffeine can mask sleepiness through adenosine receptors without replacing lost sleep. A late nap may improve immediate alertness while making nighttime sleep more difficult. Effects vary with dose, individual sensitivity and schedule; there is no universally reliable caffeine cut-off.\n\nWhen adjusting sleep, consider waking time, light exposure and daytime functioning together. Spending much longer in bed does not necessarily create more sleep. Persistent insomnia calls for appropriate assessment and treatment rather than forcing sleep or adding supplements to achieve a desired graph. [2](https://www.nhlbi.nih.gov/health/sleep/sleep-wake-cycle) [3](https://www.nhlbi.nih.gov/health/sleep-deprivation/healthy-sleep-habits)\n\n## From sensor signals to a score: three different layers\n\nA wearable does not directly observe “recovery quality.” It moves through three layers: **recorded signals**, **algorithmic estimates**, and a **summary score**. Optical sensors record light changes related to blood flow; accelerometers record movement. Software uses these inputs to estimate pulse and sleep–wake patterns. The final score is another interpretation, rather than an independent measurement.\n\nThis explains why two devices can disagree about the same night. Signal quality, sampling windows and model training all matter. Quiet wakefulness can be mistaken for sleep, and sleep stages can be confused with one another.\n\nClinical polysomnography adds brain activity, eye movements and muscle activity. Most consumer watches do not record those channels. Their graphs can support a discussion of patterns, but a colored segment cannot establish the precise amount of recovery your brain received. A medically regulated feature must still be interpreted within its particular indication.\n\n### Sleep efficiency is not the sleep score\n\nSuppose eight hours in bed contain seven estimated hours asleep. The arithmetic is `7 / 8 × 100 = 87.5%` efficiency. That defined ratio does not determine the app's score. Another night with the same efficiency but different timing, awakenings or other signals can score differently.\n\nThis is a calculation example, not a diagnostic threshold. Separating time in bed, estimated sleep and the summary helps identify the right question. Optimizing a ratio alone can overlook inadequate sleep opportunity or symptoms requiring assessment. [4](https://pubmed.ncbi.nlm.nih.gov/34314344/) [1](https://www.nhlbi.nih.gov/health/sleep/how-much-sleep)\n\n## Sleep architecture changes across the night\n\nSleep alternates between NREM and REM. NREM includes N1, N2 and N3; consumer displays often combine N1 and N2 as “light sleep.” N3 is deep or slow-wave sleep. These stages recur in cycles, but not on an exact 90-minute timer. Their timing varies with age, people and nights.\n\nDeep sleep is usually more prominent earlier, and REM periods generally lengthen later. This helps explain why duration alone is incomplete. It does not establish a universal 10 p.m.–2 a.m. deep-sleep window, or make light sleep wasted time. N2 is a normal, important component.\n\nMemory, endocrine function and recovery involve interacting processes. “Deep sleep repairs the body; REM repairs the brain” is too rigid. Findings about brainwaves or animal experiments cannot be translated directly into mandatory watch percentages. Adequate sleep opportunity, daytime functioning and troublesome symptoms remain more practical measures.\n\n### Brain activity and movement are different signals\n\nClinical staging combines features of brain, eye and muscle activity rather than stillness alone. A quiet person reading can therefore be misclassified, while a brief movement does not always indicate fully remembered wakefulness.\n\nIn validation research, check the reference standard and outcome. Sensitivity for sleep detection differs from identifying wakefulness and from correctly classifying individual stages. A good sleep–wake result cannot stand in for REM or N3 accuracy, and healthy-participant findings do not automatically generalize to sleep disorders. [5](https://www.nhlbi.nih.gov/health/sleep/stages-of-sleep) [4](https://pubmed.ncbi.nlm.nih.gov/34314344/)\n\n## A comparison for practical interpretation\n\n| Common component | Useful information | Interpretation limit |\n|---|---|---|\n| Sleep duration | Estimated sleep quantity | Different from time in bed |\n| Sleep efficiency | Sleep relative to time in bed | Quiet wakefulness may be misclassified |\n| Disturbances | Possible interruptions | Does not identify each cause |\n| Sleep stages | Estimated NREM/REM pattern | Not a replacement for EEG |\n| Timing | Schedule consistency | Not one ideal bedtime for everyone |\n| Overall score | Manufacturer's summary | No shared weighting across brands |\n\n## Putting this into practice and evaluating the response\n\nChoose a sustainable waking time and allow an earlier bedtime when short of sleep. If napping, avoid timing or duration that disrupts nighttime sleep. Reassess alertness after several nights with adequate opportunity.\n\n1. **Define the real problem.** Daytime sleepiness, difficulty sleeping and worry about a metric need different questions.\n2. **Make a purposeful adjustment.** Choose one feasible routine or environment change rather than changing everything or buying several products.\n3. **Record experience too.** Note alertness and context, not just scores from different brands.\n4. **Review against the goal.** A better graph with persistent sleepiness is not enough. Do not delay advice for concerning symptoms.\n\n## When to seek support\n\nThere is no exact hour-for-hour repayment formula. Catch-up sleep is neither useless nor guaranteed to erase every consequence.\n\nPersistent sleepiness despite adequate opportunity warrants evaluation rather than simply more time in bed.\n\n## References and what they support\n\n1. [NHLBI — How Much Sleep Is Enough?](https://www.nhlbi.nih.gov/health/sleep/how-much-sleep) — Public health guidance. Supports: Age-related sleep needs; sleep debt.\n\n2. [NHLBI — Your Sleep/Wake Cycle](https://www.nhlbi.nih.gov/health/sleep/sleep-wake-cycle) — Public health guidance. Supports: Circadian timing, light and sleep pressure.\n\n3. [NHLBI — Healthy Sleep Habits](https://www.nhlbi.nih.gov/health/sleep-deprivation/healthy-sleep-habits) — Public health guidance. Supports: Sleep habits and consistent schedules.\n\n4. [Schutte-Rodin et al. (2021) — Evaluating consumer and clinical sleep technologies: an American Academy of Sleep Medicine update](https://pubmed.ncbi.nlm.nih.gov/34314344/) — Professional society review. Supports: Evaluation and validation limits of sleep technologies.\n\n5. [NHLBI — Sleep Phases and Stages](https://www.nhlbi.nih.gov/health/sleep/stages-of-sleep) — Public health guidance. Supports: NREM, REM and age-related variation.\n\n> Content and sources updated: 26 October 2026. Educational content; clinical sign-off has not been recorded.\n",
     "takeaway": "Choose a sustainable waking time and allow an earlier bedtime when short of sleep. If napping, avoid timing or duration that disrupts nighttime sleep. Reassess alertness after several nights with adequate opportunity.",
     "reading_time": "7 min",
-    "thumbnail": "images/DM_SL_02_hero.jpg",
+    "thumbnail": "images/researched/batch-01/DM_SL_02_hero.jpg",
     "source_name": "NHLBI — How Much Sleep Is Enough?",
     "source_url": "https://www.nhlbi.nih.gov/health/sleep/how-much-sleep",
-    "hero_image": "images/DM_SL_02_hero.jpg",
-    "inline_image": "",
-    "inline_caption": "",
+    "hero_image": "images/researched/batch-01/DM_SL_02_hero.jpg",
+    "inline_image": "images/researched/batch-01/DM_SL_02_inline.png",
+    "inline_caption": "Blank sleep-diary grid arranged by day and time.",
     "title_vi": "Nợ ngủ và ngủ bù cuối tuần: điều gì giúp phục hồi?",
     "description_vi": "Nợ ngủ tích lũy khi thời gian ngủ liên tục ít hơn nhu cầu.",
     "takeaway_vi": "Chọn giờ thức có thể duy trì, rồi dành thời gian lên giường sớm hơn khi đang thiếu ngủ. Nếu cần ngủ trưa, tránh quá muộn hoặc kéo dài đến mức khó ngủ ban đêm. Đánh giá lại mức tỉnh táo sau vài ngày có cơ hội ngủ đầy đủ.",
     "reading_time_vi": "11 phút",
-    "hero_image_source_url": "https://test-repo-y1wb.onrender.com/images/DM_SL_02_hero.jpg",
-    "inline_image_source_url": "",
-    "inline_caption_vi": "",
+    "hero_image_source_url": "https://www.pexels.com/photo/man-lying-on-bed-10260854/",
+    "inline_image_source_url": "https://commons.wikimedia.org/wiki/File:Sleep_diary.svg",
+    "inline_caption_vi": "Mẫu lưới nhật ký giấc ngủ theo ngày và giờ; các ô chưa được điền dữ liệu.",
     "content_vi": "Nợ ngủ tích lũy khi thời gian ngủ liên tục ít hơn nhu cầu. Ngủ thêm có thể giúp giảm buồn ngủ, nhưng một cuối tuần không bảo đảm đảo ngược mọi ảnh hưởng của thiếu ngủ kéo dài. Lịch ngủ lệch nhiều giữa ngày làm việc và ngày nghỉ cũng có thể gây khó ngủ lại.\n\n**Tình huống minh họa:** Trong tuần bạn ngủ ngắn vì công việc, cuối tuần lại ngủ muộn và dậy rất trễ. Cần xử lý cả thiếu cơ hội ngủ lẫn sự lệch lịch, thay vì chỉ tính tổng giờ. Tăng cơ hội ngủ một cách khả thi và giữ lịch tương đối ổn định thường hữu ích hơn việc coi chủ nhật là một lần thanh toán toàn bộ nợ ngủ.\n\n## Nợ ngủ là khái niệm hữu ích, không phải hóa đơn chính xác\n\nNếu liên tục dành ít thời gian ngủ hơn nhu cầu, ảnh hưởng có thể tích lũy. Một người vẫn hoàn thành công việc quen thuộc không có nghĩa khả năng chú ý, phản ứng hoặc an toàn lái xe đã được bảo toàn. Cảm giác “quen rồi” và hiệu suất đo được không nhất thiết thay đổi cùng nhau.\n\nỨng dụng phải ước tính cả nhu cầu lẫn thời gian ngủ thực tế, nên con số nợ ngủ phụ thuộc mô hình. Không có công thức dùng chung giữa mọi hãng cho phép cộng chính xác một số phút từ Strain, thêm số phút thiếu từ hôm qua rồi dự báo đầy đủ khả năng hồi phục. So sánh hai ứng dụng như hai phép xét nghiệm tương đương sẽ dễ gây hiểu nhầm.\n\nNgủ thêm có thể hữu ích khi thiếu ngủ, song khả năng hồi phục tùy mức thiếu trước đó và chức năng đang xét. Cũng cần cân bằng cơ hội ngủ thêm với lịch sinh học. Nếu cuối tuần đổi cả giờ đi ngủ và thức dậy rất nhiều, việc quay lại lịch thường ngày có thể khó hơn. Không cần vì vậy mà xem mọi giấc ngủ bù là có hại, hoặc cam kết một số đêm cố định sẽ xóa hết ảnh hưởng. [1](https://www.nhlbi.nih.gov/health/sleep/how-much-sleep) [2](https://www.nhlbi.nih.gov/health/sleep/sleep-wake-cycle)\n\n## Áp lực ngủ và nhịp sinh học không phải một thứ\n\nHai quá trình giúp điều phối giấc ngủ. **Áp lực ngủ** tăng trong thời gian thức; adenosine là một phần của cơ chế này. **Nhịp sinh học** tạo xu hướng tỉnh hoặc buồn ngủ theo thời điểm, chịu ảnh hưởng của ánh sáng và lịch sinh hoạt. Vì hai quá trình tương tác, rất mệt không đồng nghĩa sẽ ngủ dễ vào bất kỳ giờ nào.\n\nCaffeine có thể che bớt cảm giác buồn ngủ bằng tác động lên thụ thể adenosine, nhưng không thay thế thời gian ngủ đã thiếu. Một giấc ngủ trưa muộn có thể làm bạn tỉnh hơn ngay lúc đó và đồng thời khiến buổi tối khó buồn ngủ hơn. Mức ảnh hưởng tùy liều caffeine, cơ địa và lịch ngủ; không có một giờ cắt caffeine bảo đảm phù hợp tất cả.\n\nĐây cũng là lý do nên quan sát cả giờ thức, tiếp xúc ánh sáng và cảm giác ban ngày khi điều chỉnh lịch. Nếu chỉ cố nằm thêm thật lâu, bạn có thể tăng thời gian trên giường mà chưa tăng được thời gian ngủ. Với mất ngủ kéo dài, cần đánh giá và can thiệp phù hợp, thay vì tự ép ngủ hoặc tăng chất bổ sung để đạt biểu đồ mong muốn. [2](https://www.nhlbi.nih.gov/health/sleep/sleep-wake-cycle) [3](https://www.nhlbi.nih.gov/health/sleep-deprivation/healthy-sleep-habits)\n\n## Từ tín hiệu cảm biến đến một điểm số: ba tầng thông tin\n\nThiết bị không quan sát trực tiếp “chất lượng phục hồi”. Nó đi qua ba tầng: **tín hiệu đo được**, **trạng thái được thuật toán suy đoán**, rồi **điểm tổng hợp**. Cảm biến quang học ghi thay đổi ánh sáng liên quan dòng máu; gia tốc kế ghi chuyển động. Từ đó, phần mềm ước tính nhịp tim, lúc ngủ và lúc thức. Điểm ngủ là bước diễn giải tiếp theo, không phải một phép đo độc lập.\n\nSự phân biệt này giải thích vì sao hai thiết bị có thể báo khác nhau dù bạn chỉ trải qua một đêm. Sai số ở tín hiệu, cách chọn cửa sổ đo và cách huấn luyện thuật toán đều có thể góp phần. Đặc biệt, nằm yên khi chưa ngủ dễ bị nhận thành ngủ; các giai đoạn ngủ cũng có thể bị phân loại nhầm.\n\nTrong đa ký giấc ngủ, bác sĩ có thêm tín hiệu điện não, chuyển động mắt và trương lực cơ. Đồng hồ phổ thông thường không có các kênh đó. Vì vậy, dùng biểu đồ để nhận ra xu hướng là hợp lý; dùng một đoạn màu để kết luận chính xác não đang thiếu phục hồi hoặc tự chẩn đoán bệnh thì vượt quá khả năng của dữ liệu. Một thiết bị có tính năng y tế được cấp phép cũng chỉ được hiểu trong phạm vi chỉ định của tính năng đó.\n\n### Ví dụ: hiệu suất ngủ không phải điểm ngủ\n\nGiả sử bạn ở giường tám giờ, còn thời gian ngủ được ước tính là bảy giờ. Hiệu suất theo phép tính này là `7 / 8 × 100 = 87,5%`. Đó là một tỷ lệ có định nghĩa rõ; nó không cho biết thuật toán sẽ chấm bao nhiêu điểm. Đêm khác có cùng hiệu suất nhưng giờ ngủ, thời gian thức hoặc tín hiệu khác thay đổi vẫn có thể nhận điểm khác.\n\nĐây là ví dụ tính toán, không phải ngưỡng chẩn đoán. Lúc đọc báo cáo, tách thời gian ở giường, thời gian ngủ ước tính và điểm tổng hợp sẽ giúp bạn hỏi đúng vấn đề. Nếu chỉ cố tối ưu một tỷ lệ, bạn có thể bỏ qua chuyện cơ hội ngủ vẫn chưa đủ hoặc đang có triệu chứng cần kiểm tra. [4](https://pubmed.ncbi.nlm.nih.gov/34314344/) [1](https://www.nhlbi.nih.gov/health/sleep/how-much-sleep)\n\n## Giấc ngủ là một cấu trúc thay đổi trong đêm\n\nGiấc ngủ gồm NREM và REM. NREM có các giai đoạn N1, N2 và N3; thiết bị thường gộp N1 và N2 thành “ngủ nông”. N3 được gọi là ngủ sâu hay ngủ sóng chậm. Các giai đoạn lặp lại thành chu kỳ, nhưng không phải chiếc đồng hồ cứ đúng 90 phút lại đổi trạng thái. Thời lượng và cấu trúc có thể khác nhau giữa người, theo tuổi và giữa các đêm.\n\nNgủ sâu thường tập trung hơn ở phần đầu đêm, còn REM thường dài hơn về gần sáng. Điều đó giúp giải thích vì sao chỉ xem tổng số giờ chưa kể hết câu chuyện. Tuy nhiên, không thể quy giờ ngủ sâu cố định thành 22 giờ–2 giờ cho mọi lịch sinh hoạt, hoặc cho rằng mỗi phút ngủ nông là thời gian bị lãng phí. N2 là thành phần bình thường, quan trọng của giấc ngủ.\n\nCác nghiên cứu về trí nhớ, nội tiết và phục hồi xem xét nhiều quá trình tương tác. Không nên chia quá cứng thành “ngủ sâu chỉ sửa cơ, REM chỉ sửa não”. Cũng không thể chuyển kết quả về sóng não hoặc động vật sang một mục tiêu phần trăm bắt buộc trên đồng hồ. Điều đáng theo dõi là cơ hội ngủ đủ, mức tỉnh táo và những triệu chứng ảnh hưởng cuộc sống.\n\n### Điện não và cảm biến chuyển động không nhận diện cùng một dấu hiệu\n\nPhân loại giấc ngủ lâm sàng dựa trên tổ hợp đặc điểm như hoạt động điện não, mắt và cơ, thay vì chỉ mức nằm yên. Điều này giải thích vì sao một người có thể thức yên trong lúc đọc mà đồng hồ chưa phân biệt đúng. Ngược lại, một chuyển động ngắn không luôn có nghĩa đã thức hoàn toàn và nhớ được sự kiện đó.\n\nKhi đọc một nghiên cứu xác thực thiết bị, cần xem nó so với tiêu chuẩn nào và đo kết quả gì. Độ nhạy nhận ra ngủ khác với khả năng nhận đúng lúc thức; cả hai cũng khác độ chính xác phân loại từng giai đoạn. Một tỷ lệ tốt cho “ngủ hay thức” không được dùng thay cho tỷ lệ nhận đúng REM hoặc N3, và kết quả ở người khỏe mạnh không tự áp cho người có rối loạn ngủ. [5](https://www.nhlbi.nih.gov/health/sleep/stages-of-sleep) [4](https://pubmed.ncbi.nlm.nih.gov/34314344/)\n\n## Bảng đối chiếu để đọc đúng thông tin\n\n| Thành phần thường được xem | Thông tin hữu ích | Giới hạn diễn giải |\n|---|---|---|\n| Thời gian ngủ | Ước tính lượng ngủ trong đêm | Không đồng nhất với thời gian nằm giường |\n| Hiệu suất ngủ | Tỷ lệ thời gian ngủ trên thời gian ở giường | Chịu sai số nhận diện lúc thức yên |\n| Thức giấc, chuyển động | Gợi ý đêm bị gián đoạn | Không xác định nguyên nhân từng lần |\n| Giai đoạn ngủ | Mô tả mẫu ước tính NREM/REM | Không thay ghi điện não |\n| Lịch ngủ | Cho thấy tính đều đặn của giờ ngủ và thức | Không chứng minh một giờ cố định hợp với tất cả |\n| Điểm tổng hợp | Tóm tắt theo mô hình của hãng | Không có trọng số chung giữa mọi hãng |\n\n## Ứng dụng thực tế: làm gì và đánh giá bằng cách nào?\n\nChọn giờ thức có thể duy trì, rồi dành thời gian lên giường sớm hơn khi đang thiếu ngủ. Nếu cần ngủ trưa, tránh quá muộn hoặc kéo dài đến mức khó ngủ ban đêm. Đánh giá lại mức tỉnh táo sau vài ngày có cơ hội ngủ đầy đủ.\n\n1. **Xác định vấn đề thật.** Phân biệt buồn ngủ ban ngày, khó ngủ, hay chỉ lo một chỉ số. Câu hỏi khác nhau cần cách theo dõi khác nhau.\n2. **Thử điều chỉnh có mục đích.** Chọn một thay đổi khả thi trong lịch hoặc môi trường, thay vì đổi nhiều yếu tố và mua nhiều sản phẩm cùng lúc.\n3. **Ghi cả trải nghiệm.** Thêm mức tỉnh táo và hoàn cảnh vào dữ liệu; đừng chỉ so hai điểm số hoặc hai hãng.\n4. **Đánh giá lại theo mục tiêu.** Một biểu đồ đẹp hơn nhưng vẫn buồn ngủ nhiều chưa phải kết quả đủ. Không trì hoãn tư vấn khi có triệu chứng đáng lo.\n\n## Khi nào nên tìm hỗ trợ?\n\nKhông quy đổi mỗi giờ thiếu ngủ thành một số giờ ngủ bù bắt buộc. Cũng không đúng khi nói ngủ bù hoàn toàn vô ích hoặc một đêm ngủ tốt xóa hết nợ ngủ.\n\nNếu vẫn buồn ngủ đáng kể dù có thời gian ngủ đủ, cần tìm nguyên nhân thay vì chỉ tăng thời gian nằm giường.\n\n## Nguồn tham khảo và phạm vi hỗ trợ\n\n1. [NHLBI — How Much Sleep Is Enough?](https://www.nhlbi.nih.gov/health/sleep/how-much-sleep) — Public health guidance. Hỗ trợ: Thời lượng ngủ theo tuổi; nợ ngủ.\n\n2. [NHLBI — Your Sleep/Wake Cycle](https://www.nhlbi.nih.gov/health/sleep/sleep-wake-cycle) — Public health guidance. Hỗ trợ: Nhịp sinh học, ánh sáng và áp lực ngủ.\n\n3. [NHLBI — Healthy Sleep Habits](https://www.nhlbi.nih.gov/health/sleep-deprivation/healthy-sleep-habits) — Public health guidance. Hỗ trợ: Thói quen ngủ và lịch sinh hoạt.\n\n4. [Schutte-Rodin et al. (2021) — Evaluating consumer and clinical sleep technologies: an American Academy of Sleep Medicine update](https://pubmed.ncbi.nlm.nih.gov/34314344/) — Professional society review. Hỗ trợ: Giới hạn đánh giá và xác thực công nghệ theo dõi giấc ngủ.\n\n5. [NHLBI — Sleep Phases and Stages](https://www.nhlbi.nih.gov/health/sleep/stages-of-sleep) — Public health guidance. Hỗ trợ: NREM, REM và thay đổi theo tuổi.\n\n> Cập nhật nội dung và nguồn: 26/10/2026. Nội dung giáo dục; chưa có xác nhận duyệt bởi bác sĩ.\n",
     "references": [
       {
@@ -406,7 +583,7 @@ const articles = [
     "source_checked_date": "2026-10-26",
     "editorial_review_status": "Long-form development of original outline; sources checked",
     "clinical_review_status": "Not recorded",
-    "image_provenance": "Hero restored from the original project library. Retained diagrams are illustrations, not study outcome data. Summary guidance is article text, not an image.",
+    "image_provenance": "Image research batch 01: visible subject, source metadata and reuse terms checked. See image_attributions for each asset.",
     "public_url": "https://test-repo-y1wb.onrender.com/posts/DM_SL_02.html",
     "baseline_revision": "f68c786",
     "content_edition": "Long-form development of the original topic outline",
@@ -423,7 +600,66 @@ const articles = [
       "sleep_pressure",
       "sleep_sensors",
       "sleep_architecture"
-    ]
+    ],
+    "hero_caption": "Illustrative photograph of a person resting in bed.",
+    "hero_caption_vi": "Ảnh minh họa một người đang nằm nghỉ trên giường.",
+    "hero_image_fit": "cover",
+    "image_attributions": [
+      {
+        "article_id": "DM_SL_02",
+        "role": "hero",
+        "asset": "images/researched/batch-01/DM_SL_02_hero.jpg",
+        "title": "Man Lying on Bed",
+        "source_page": "https://www.pexels.com/photo/man-lying-on-bed-10260854/",
+        "source_asset_url": "https://images.pexels.com/photos/10260854/pexels-photo-10260854.jpeg",
+        "download_url": "https://images.pexels.com/photos/10260854/pexels-photo-10260854.jpeg?auto=compress&cs=tinysrgb&w=1600",
+        "author": "Ron Lach",
+        "license": "Pexels License",
+        "license_url": "https://www.pexels.com/license/",
+        "caption_vi": "Ảnh minh họa một người đang nằm nghỉ trên giường.",
+        "caption_en": "Illustrative photograph of a person resting in bed.",
+        "alt_vi": "Ảnh minh họa một người đang nằm nghỉ trên giường.",
+        "alt_en": "Illustrative photograph of a person resting in bed.",
+        "relevance_vi": "Đúng chủ đề cơ hội ngủ và nghỉ, không suy rằng người mẫu mắc thiếu ngủ.",
+        "modifications_vi": "Pexels thu nhỏ/nén JPEG; không sửa nội dung.",
+        "modifications_en": "Pexels resized/compressed JPEG; no content changes.",
+        "fit": "cover",
+        "width": 1600,
+        "height": 2400,
+        "sha256": "214d612d5353828b0b45827d1469e2b851178dab39a544ba9d255588c101574a",
+        "checked_date": "2026-10-26",
+        "review_status": "Subject, source and licence checked",
+        "batch": 1
+      },
+      {
+        "article_id": "DM_SL_02",
+        "role": "inline",
+        "asset": "images/researched/batch-01/DM_SL_02_inline.png",
+        "title": "Sleep diary.svg",
+        "source_page": "https://commons.wikimedia.org/wiki/File:Sleep_diary.svg",
+        "source_asset_url": "https://upload.wikimedia.org/wikipedia/commons/7/7a/Sleep_diary.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "download_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7a/Sleep_diary.svg/1280px-Sleep_diary.svg.png",
+        "author": "Sleep_diary.jpg: User:Hordaland from the English Wikipedia\nderivative work: Beao",
+        "license": "Public domain",
+        "license_url": "https://commons.wikimedia.org/wiki/File:Sleep_diary.svg#Licensing",
+        "caption_vi": "Mẫu lưới nhật ký giấc ngủ theo ngày và giờ; các ô chưa được điền dữ liệu.",
+        "caption_en": "Blank sleep-diary grid arranged by day and time.",
+        "alt_vi": "Mẫu lưới nhật ký giấc ngủ theo ngày và giờ; các ô chưa được điền dữ liệu.",
+        "alt_en": "Blank sleep-diary grid arranged by day and time.",
+        "relevance_vi": "Phục vụ lời khuyên ghi giờ ngủ/thức để xem nợ ngủ; đây là biểu mẫu theo dõi, không phải hình tóm tắt văn bản.",
+        "modifications_vi": "PNG kết xuất từ SVG; giữ nguyên nội dung.",
+        "modifications_en": "PNG rendering of SVG; content unchanged.",
+        "fit": "contain",
+        "width": 1280,
+        "height": 968,
+        "sha256": "65d9d412816100de090d4ad833e2b499df860b9a1518a29890eecf4be705611b",
+        "checked_date": "2026-10-26",
+        "review_status": "Subject, source and licence checked",
+        "batch": 1
+      }
+    ],
+    "image_review_batch": 1,
+    "image_review_status": "Subject, source and licence checked — batch 01"
   },
   {
     "id": "LM_RC_01",
@@ -439,19 +675,19 @@ const articles = [
     "content": "If your resting heart rate is **60 beats per minute (bpm)**, it is tempting to assume your heart beats exactly once every **1.000 second** like a quartz clock. In reality, a healthy human heart never beats with robotic regularity.\n\nHRV describes variation in intervals between heartbeats, rather than average pulse. Age, posture, breathing, timing and measurement method matter. Overnight RMSSD and all-day SDNN are not interchangeable.\n\n**Illustrative situation:** Your HRV is lower than a gym friend's despite both feeling well. That does not identify who is better recovered. Check the metric, recording window and method, then return to personal trends rather than adopting someone else's number as a target.\n\n## RMSSD, SDNN and why the numbers are not interchangeable\n\nAverage pulse counts beats over time; HRV describes variation in intervals between beats. As an illustration, intervals of 980, 1,050 and 1,000 milliseconds can coexist with a fairly steady average pulse. They are different descriptions of cardiovascular activity.\n\n**RMSSD** uses successive interval differences: square them, average them and take the square root. **SDNN** is the standard deviation of normal intervals in the recording window. Short windows and all-day recordings capture different information, so an SDNN result cannot be read using an RMSSD reference table.\n\nEven with the same metric, posture, breathing, timing, window length and artifact filtering matter. Optical pulse timing also differs from electrical ECG measurements. Compare consistent methods with a personal baseline, without treating RMSSD as a pure measurement of one nerve or a complete stress scale.\n\n### Equal mean pulse can coexist with different HRV\n\nConsider invented intervals `1000, 1040, 1000, 960 ms`. Their mean is 1000 ms, corresponding approximately to 60 bpm by simple conversion. Successive differences are `40, −40, −40 ms`, giving `RMSSD = sqrt((1600 + 1600 + 1600) / 3) = 40 ms`.\n\nFour identical 1000-ms intervals have the same mean but zero RMSSD in this example. Average pulse therefore cannot replace variability. These are teaching data, not a normal recording, diagnostic standard or personal target. Real recordings require attention to artifacts and abnormal beats before calculation. [1](https://pubmed.ncbi.nlm.nih.gov/29034226/) [2](https://pubmed.ncbi.nlm.nih.gov/27680542/)\n\n## Interpreting an HRV change as a question\n\nHRV reflects autonomic and respiratory influences alongside many other factors. Sleep, illness, medication, training and cycle changes can overlap. A low result cannot identify one cause, and a high result does not guarantee ideal health.\n\nA useful sequence is **measurement quality → personal baseline → symptoms → context**. Address poor contact or interrupted recordings first. If several nights differ from baseline, consider what changed before choosing an adjustment or seeking advice. A universal millisecond threshold misses this context.\n\nA decrease after a late night may fit sleep loss without proving increased cortisol or infection. Marked weakness or palpitations still deserve attention with a green app score. Raising HRV by changing breathing during measurement is not evidence of lasting training adaptation. [1](https://pubmed.ncbi.nlm.nih.gov/29034226/) [2](https://pubmed.ncbi.nlm.nih.gov/27680542/) [3](https://www.heart.org/en/health-topics/high-blood-pressure/the-facts-about-high-blood-pressure/all-about-heart-rate-pulse)\n\n## Heart rate, stroke volume and interpretation limits\n\nCardiac output depends on both heart rate and stroke volume: **cardiac output = heart rate × stroke volume**. Two people can therefore have different pulse rates while meeting similar circulatory needs. Endurance training can contribute to adaptation, but wrist pulse cannot directly reveal heart size or the blood volume ejected per beat.\n\nPosture, temperature, fever, emotions and medicines also influence pulse. A trained person's lower rate differs from a new low rate accompanied by dizziness. An elevated rate after activity or during anxiety does not independently establish disease. Awake resting reference ranges are not mandatory targets throughout sleep.\n\nFor overnight graphs, check whether the device reports an average, a minimum or a selected window. A hammock or downward curve describes shape; it does not identify exactly when metabolism or tissue repair finishes.\n\n### A calculation, not a watch-based heart-health test\n\nWith hypothetical values of 70 beats/min and 70 mL/beat, output is `70 × 70 = 4900 mL/min`. Knowing pulse alone does not supply stroke volume. A watch does not measure the missing component through this multiplication.\n\nThis prevents “lower always means healthier” interpretations. Pulse reflects demand and regulation, while circulatory adequacy requires broader context. With symptoms, ask what changed and how it affects functioning rather than whether your number is lower than someone else's. [3](https://www.heart.org/en/health-topics/high-blood-pressure/the-facts-about-high-blood-pressure/all-about-heart-rate-pulse) [4](https://pubmed.ncbi.nlm.nih.gov/29345524/) [5](https://pubmed.ncbi.nlm.nih.gov/27881567/)\n\n## How breathing and heart rhythm interact\n\nPulse can vary with breathing, commonly accelerating on inhalation and slowing on exhalation at rest. Respiratory sinus arrhythmia involves interacting neural control, chest pressure and circulatory reflexes. It is not simply an inhale switching the vagus off and an exhale switching it on.\n\nDeliberate slow breathing changes a factor that directly affects HRV measurement. An immediate increase therefore does not establish relief of every kind of stress or improved fitness. Resonance frequency varies; 5.5 breaths per minute is also different from a 5.5-second inhale followed by a 5.5-second exhale.\n\nSlower does not mean maximally deep. Forceful repeated inhalations can cause dizziness or discomfort. Relaxation practice should feel gentle and sustainable, with permission to stop. New cardiac or respiratory symptoms require assessment rather than self-treatment through breath control. [6](https://pubmed.ncbi.nlm.nih.gov/30245619/) [2](https://pubmed.ncbi.nlm.nih.gov/27680542/)\n\n## A comparison for practical interpretation\n\n| Information | What it describes | Comparison consideration |\n|---|---|---|\n| Pulse | Beats over time | Rest, activity, medicines and symptoms |\n| RMSSD | Successive interval differences | Recording window and filtering |\n| SDNN | Dispersion of normal intervals | Recording duration matters |\n| Personal baseline | Repeated individual pattern | Not a disease threshold |\n\n## Keeping research findings in context\n\nHigher is not always better. Sensor error or irregular beats can increase variability. HRV does not precisely quantify hormones, psychological stress or recovery. [1](https://pubmed.ncbi.nlm.nih.gov/29034226/) [2](https://pubmed.ncbi.nlm.nih.gov/27680542/) [3](https://www.heart.org/en/health-topics/high-blood-pressure/the-facts-about-high-blood-pressure/all-about-heart-rate-pulse)\n\n## Putting this into practice and evaluating the response\n\nCompare with your own baseline on the same device under similar conditions. Interpret changes with sleep, fatigue, recent illness and training; trends are more useful than one reading.\n\n1. **Identify the measurement.** Check the metric, sampling and conditions before comparing.\n2. **Add context.** Sleep, activity, illness, medicines and feelings can change together.\n3. **Choose an appropriate response.** Support health or comfort rather than forcing a graph toward a target.\n4. **Review the course.** Repeated observations are useful, but new or substantial symptoms need not wait for enough tracking days.\n\n## When to seek support\n\nHigher is not always better. Sensor error or irregular beats can increase variability. HRV does not precisely quantify hormones, psychological stress or recovery.\n\nPalpitations with dizziness, fainting, chest pain or breathlessness need medical attention rather than an HRV check.\n\n## References and what they support\n\n1. [Shaffer & Ginsberg (2017) — An Overview of Heart Rate Variability Metrics and Norms](https://pubmed.ncbi.nlm.nih.gov/29034226/) — Narrative review. Supports: HRV metrics, recording context and comparability limits.\n\n2. [Draghici & Taylor (2016) — The physiological basis and measurement of heart rate variability in humans](https://pubmed.ncbi.nlm.nih.gov/27680542/) — Physiology review. Supports: Mechanisms and interpretation limits of HRV.\n\n3. [American Heart Association — All About Heart Rate](https://www.heart.org/en/health-topics/high-blood-pressure/the-facts-about-high-blood-pressure/all-about-heart-rate-pulse) — Professional patient guidance. Supports: Resting pulse, influencing factors and warning symptoms.\n\n4. [Kellmann et al. (2018) — Recovery and Performance in Sport: Consensus Statement](https://pubmed.ncbi.nlm.nih.gov/29345524/) — Consensus statement. Supports: Individual recovery, training load and life demands.\n\n5. [Ross et al. (2016) — Importance of Assessing Cardiorespiratory Fitness in Clinical Practice](https://pubmed.ncbi.nlm.nih.gov/27881567/) — AHA scientific statement. Supports: Cardiorespiratory fitness and health risk assessment.\n\n6. [Zaccaro et al. (2018) — How Breath-Control Can Change Your Life: A Systematic Review on Psycho-Physiological Correlates of Slow Breathing](https://pubmed.ncbi.nlm.nih.gov/30245619/) — Systematic review. Supports: Slow breathing, HRV and heterogeneous evidence.\n\n> Content and sources updated: 26 October 2026. Educational content; clinical sign-off has not been recorded.\n",
     "takeaway": "Compare with your own baseline on the same device under similar conditions. Interpret changes with sleep, fatigue, recent illness and training; trends are more useful than one reading.",
     "reading_time": "6 min",
-    "thumbnail": "images/LM_RC_01_hero.jpg",
+    "thumbnail": "images/researched/batch-01/LM_RC_01_hero.jpg",
     "source_name": "Shaffer & Ginsberg (2017) — An Overview of Heart Rate Variability Metrics and Norms",
     "source_url": "https://pubmed.ncbi.nlm.nih.gov/29034226/",
-    "hero_image": "images/LM_RC_01_hero.jpg",
-    "inline_image": "images/LM_RC_01_figure.png",
-    "inline_caption": "An ECG R–R interval illustrating beat timing.",
+    "hero_image": "images/researched/batch-01/LM_RC_01_hero.jpg",
+    "inline_image": "images/researched/batch-01/LM_RC_01_inline.png",
+    "inline_caption": "An R–R interval between successive R peaks in an ECG schematic.",
     "title_vi": "HRV là gì và nên đọc thế nào trên thiết bị đeo?",
     "description_vi": "HRV mô tả sự thay đổi khoảng thời gian giữa các nhịp tim, không phải nhịp tim trung bình.",
     "takeaway_vi": "So với nền của chính bạn trên cùng thiết bị và cùng điều kiện. Khi HRV đổi, đối chiếu thêm giấc ngủ, cảm giác mệt, bệnh gần đây và tải tập; ưu tiên xu hướng hơn một số đo đơn lẻ.",
     "reading_time_vi": "10 phút",
-    "hero_image_source_url": "https://test-repo-y1wb.onrender.com/images/LM_RC_01_hero.jpg",
-    "inline_image_source_url": "https://test-repo-y1wb.onrender.com/images/LM_RC_01_figure.png",
-    "inline_caption_vi": "Khoảng R–R trên điện tim, minh họa khái niệm khoảng nhịp.",
+    "hero_image_source_url": "https://commons.wikimedia.org/wiki/File:Polar_H10.jpg",
+    "inline_image_source_url": "https://commons.wikimedia.org/wiki/File:ECG-RRinterval.svg",
+    "inline_caption_vi": "Khoảng R–R nằm giữa hai đỉnh R liên tiếp trên sơ đồ ECG.",
     "content_vi": "Nếu nhịp tim nghỉ của bạn là **60 nhịp/phút (bpm)**, rất dễ lầm tưởng rằng trái tim đập chính xác mỗi **1.000 giây** một lần giống như đồng hồ thạch anh. Trên thực tế, một trái tim con người khỏe mạnh không bao giờ đập cứng nhắc như máy móc.\n\nHRV mô tả sự thay đổi khoảng thời gian giữa các nhịp tim, không phải nhịp tim trung bình. Chỉ số phụ thuộc tuổi, tư thế, hô hấp, thời điểm và phương pháp đo. Giá trị RMSSD ban đêm không thể so trực tiếp với SDNN đo cả ngày.\n\n**Tình huống minh họa:** HRV của bạn thấp hơn bạn tập cùng phòng dù cả hai cảm thấy khỏe. Điều đó chưa cho biết ai hồi phục tốt hơn. Trước hết kiểm tra hai người đang xem cùng chỉ số, cùng cửa sổ và cùng cách đo hay không; sau đó quay về xu hướng riêng, thay vì biến con số của người khác thành mục tiêu bắt buộc.\n\n## RMSSD, SDNN và vì sao các con số không hoán đổi được\n\nNhịp tim trung bình cho biết có bao nhiêu nhịp trong một khoảng thời gian. HRV xem xét sự biến thiên của khoảng cách giữa các nhịp. Ví dụ minh họa: một chuỗi khoảng cách 980, 1.050 và 1.000 mili giây có thể tạo nhịp tim trung bình tương đối ổn định nhưng vẫn có biến thiên từng nhịp. Đây là hai cách mô tả khác nhau của cùng hệ thống tim mạch.\n\n**RMSSD** được tính từ chênh lệch giữa các khoảng nhịp liên tiếp: bình phương các chênh lệch, lấy trung bình rồi lấy căn. **SDNN** là độ lệch chuẩn của các khoảng nhịp bình thường trong cửa sổ đo. Cửa sổ ngắn, dài hoặc cả ngày không phản ánh cùng một tập thông tin, nên một giá trị SDNN không thể được đọc theo bảng RMSSD.\n\nNgay cả khi cùng tên chỉ số, tư thế, nhịp thở, thời điểm, độ dài cửa sổ và lọc nhiễu vẫn ảnh hưởng kết quả. Tín hiệu quang học đo xung mạch cũng khác với điện tim đo hoạt động điện. Vì vậy, nên so cùng phương pháp với nền cá nhân, đồng thời tránh mô tả RMSSD như phép đo tinh khiết của riêng dây phế vị hay thang đo toàn bộ stress.\n\n### Hai chuỗi có thể cùng nhịp tim trung bình nhưng HRV khác nhau\n\nDùng một ví dụ giả lập để hiểu phép tính: chuỗi khoảng nhịp `1000, 1040, 1000, 960 ms` có khoảng trung bình là 1000 ms, tương ứng khoảng 60 nhịp/phút theo phép quy đổi đơn giản. Các chênh lệch liên tiếp là `40, −40, −40 ms`; RMSSD là `căn((1600 + 1600 + 1600) / 3) = 40 ms`.\n\nChuỗi bốn khoảng đều 1000 ms có cùng trung bình nhưng RMSSD bằng 0 trong ví dụ. Điều đó minh họa vì sao mạch trung bình không thay được HRV. Đây là dữ liệu tự tạo để giải thích công thức, không phải bản ghi sinh lý bình thường, tiêu chuẩn chẩn đoán hay mục tiêu phải đạt. Trong dữ liệu thật, nhận diện nhịp bất thường và loại nhiễu còn quan trọng trước khi tính. [1](https://pubmed.ncbi.nlm.nih.gov/29034226/) [2](https://pubmed.ncbi.nlm.nih.gov/27680542/)\n\n## Đọc biến động HRV như một tín hiệu cần giải thích\n\nHRV chịu ảnh hưởng của hoạt động thần kinh tự chủ, hô hấp và nhiều yếu tố khác. Các yếu tố như giấc ngủ, bệnh, thuốc, lịch tập và chu kỳ có thể thay đổi cùng lúc. Một số thấp không chỉ ra được nguyên nhân duy nhất; một số cao cũng không bảo đảm cơ thể đang ở trạng thái tốt nhất.\n\nĐể đọc có ích, hãy đi từ **chất lượng phép đo → nền cá nhân → triệu chứng → bối cảnh**. Nếu dây đeo lỏng hoặc tín hiệu gián đoạn, cần giải quyết vấn đề đo trước. Nếu nhiều đêm cùng lệch nền, hãy xem điều gì mới thay đổi. Sau đó mới cân nhắc điều chỉnh tải tập hoặc tìm tư vấn, thay vì đặt ra một ngưỡng mili giây dùng cho mọi người.\n\nVí dụ, HRV giảm sau một đêm thức muộn có thể phù hợp với bối cảnh thiếu ngủ, nhưng chưa chứng minh cortisol tăng hay bạn bị nhiễm trùng. Ngược lại, cảm thấy yếu rõ hoặc có hồi hộp vẫn đáng quan tâm dù ứng dụng báo xanh. Không dùng việc điều khiển nhịp thở để làm HRV tăng ngay trong phép đo như bằng chứng chương trình tập đã cải thiện sức khỏe lâu dài. [1](https://pubmed.ncbi.nlm.nih.gov/29034226/) [2](https://pubmed.ncbi.nlm.nih.gov/27680542/) [3](https://www.heart.org/en/health-topics/high-blood-pressure/the-facts-about-high-blood-pressure/all-about-heart-rate-pulse)\n\n## Nhịp tim, thể tích nhát bóp và giới hạn suy luận\n\nMột nhịp tim là một lần co bóp, nhưng lượng máu bơm đi còn phụ thuộc thể tích nhát bóp. Ở mức khái quát, **cung lượng tim = nhịp tim × thể tích nhát bóp**. Đây là lý do hai người có thể cần nhịp tim khác nhau để đáp ứng cùng một nhu cầu tuần hoàn. Tập bền có thể góp phần tạo những thích nghi tim mạch, nhưng không thể suy trực tiếp kích thước tim hay thể tích mỗi nhát bóp từ một số mạch trên cổ tay.\n\nNhịp tim còn thay đổi do tư thế, nhiệt, sốt, cảm xúc và thuốc. Mạch thấp ở người tập luyện không được hiểu giống mạch thấp mới xuất hiện kèm choáng. Ngược lại, một lần mạch cao sau vận động hoặc khi lo lắng không tự xác định bệnh. Phạm vi thường được nêu cho người lớn lúc thức và nghỉ không phải mục tiêu bắt buộc trong mọi giai đoạn ngủ.\n\nKhi xem biểu đồ ban đêm, nên hỏi cách thiết bị định nghĩa “nhịp tim nghỉ”: trung bình, giá trị thấp hoặc một cửa sổ cụ thể. Một hình võng hay đường giảm dần chỉ là mô tả của đường cong; nó không cho biết chính xác lúc nào gan ngừng chuyển hóa hoặc lúc nào cơ thể hoàn tất sửa chữa.\n\n### Một phép tính minh họa, không phải cách suy tim khỏe từ đồng hồ\n\nNếu dùng các số giả định 70 nhịp/phút và 70 mL mỗi nhát bóp, cung lượng theo phép nhân là `70 × 70 = 4900 mL/phút`. Hai thành phần có thể thay đổi, nên chỉ biết nhịp 70 chưa cho biết kết quả còn lại. Đồng hồ ghi mạch cũng không đồng thời đo thể tích nhát bóp bằng phép nhân này.\n\nPhân biệt như vậy giúp tránh ngộ nhận “mạch càng thấp thì tim chắc chắn càng khỏe”. Mạch chịu cả nhu cầu hoạt động và điều hòa, trong khi khả năng đáp ứng tuần hoàn cần bối cảnh rộng hơn. Với triệu chứng, câu hỏi quan trọng là điều gì đang thay đổi và ảnh hưởng ra sao, không phải liệu số của bạn có thấp hơn người khác. [3](https://www.heart.org/en/health-topics/high-blood-pressure/the-facts-about-high-blood-pressure/all-about-heart-rate-pulse) [4](https://pubmed.ncbi.nlm.nih.gov/29345524/) [5](https://pubmed.ncbi.nlm.nih.gov/27881567/)\n\n## Hô hấp thay đổi nhịp tim bằng nhiều đường tương tác\n\nNhịp tim có thể thay đổi theo hô hấp, thường tăng khi hít vào và giảm khi thở ra trong điều kiện nghỉ. Hiện tượng này được gọi là biến thiên nhịp tim theo hô hấp. Nó liên quan sự phối hợp giữa điều khiển thần kinh, áp lực trong lồng ngực và các phản xạ tuần hoàn; không nên rút gọn thành “hít vào tắt dây phế vị, thở ra bật lại”.\n\nKhi chủ động thở chậm, bạn đang thay đổi một yếu tố vốn ảnh hưởng chính phép đo HRV. Bởi vậy, một mức HRV tăng ngay trong buổi thực hành không đồng nghĩa đã giảm mọi dạng stress hoặc cải thiện thể lực. Tần số cộng hưởng cũng không nhất thiết giống nhau ở tất cả mọi người. Nhịp 5,5 lần/phút và hít 5,5 giây–thở 5,5 giây là hai mô tả cần phân biệt.\n\nThở chậm không có nghĩa thở càng sâu càng tốt. Hít quá mạnh hoặc liên tục có thể gây choáng và khó chịu. Mục tiêu thực hành thư giãn là hơi thở nhẹ, đủ thoải mái để duy trì, với quyền dừng ngay khi thấy không phù hợp. Người có triệu chứng tim phổi mới xuất hiện cần được đánh giá thay vì cố tự điều khiển bằng một bài thở. [6](https://pubmed.ncbi.nlm.nih.gov/30245619/) [2](https://pubmed.ncbi.nlm.nih.gov/27680542/)\n\n## Bảng đối chiếu để đọc đúng thông tin\n\n| Thông tin | Đo hoặc mô tả gì? | Khi so sánh cần chú ý |\n|---|---|---|\n| Nhịp tim | Số nhịp trong một khoảng thời gian | Lúc nghỉ, vận động, thuốc và triệu chứng |\n| RMSSD | Biến thiên từ chênh lệch các khoảng nhịp liên tiếp | Cùng cách lọc và cửa sổ đo |\n| SDNN | Độ phân tán các khoảng nhịp bình thường | Độ dài bản ghi đặc biệt quan trọng |\n| Nền cá nhân | Mẫu riêng qua nhiều lần đo | Không phải ngưỡng chẩn đoán bệnh |\n\n## Điểm cần giữ khi đọc kết quả nghiên cứu\n\nHRV cao hơn không luôn tốt hơn. Sai số cảm biến hoặc nhịp bất thường có thể làm biến thiên tăng; không dùng HRV để kết luận hormone, mức stress tâm lý hay mức hồi phục chính xác. [1](https://pubmed.ncbi.nlm.nih.gov/29034226/) [2](https://pubmed.ncbi.nlm.nih.gov/27680542/) [3](https://www.heart.org/en/health-topics/high-blood-pressure/the-facts-about-high-blood-pressure/all-about-heart-rate-pulse)\n\n## Ứng dụng thực tế: làm gì và đánh giá bằng cách nào?\n\nSo với nền của chính bạn trên cùng thiết bị và cùng điều kiện. Khi HRV đổi, đối chiếu thêm giấc ngủ, cảm giác mệt, bệnh gần đây và tải tập; ưu tiên xu hướng hơn một số đo đơn lẻ.\n\n1. **Kiểm tra bạn đang xem gì.** Xác định tên chỉ số, cách thiết bị lấy mẫu và điều kiện đo trước khi so sánh.\n2. **Đặt cạnh bối cảnh.** Ghi giấc ngủ, vận động, bệnh gần đây, thuốc và cảm giác; nhiều yếu tố có thể thay đổi cùng lúc.\n3. **Chọn phản ứng phù hợp.** Điều chỉnh để hỗ trợ sức khỏe hoặc sự dễ chịu, không để ép một đường cong đạt mục tiêu.\n4. **Xem diễn biến.** Mẫu nhiều lần đo hữu ích hơn một điểm đơn lẻ, nhưng triệu chứng mới hoặc nặng không cần chờ đủ số ngày mới được đánh giá.\n\n## Khi nào nên tìm hỗ trợ?\n\nHRV cao hơn không luôn tốt hơn. Sai số cảm biến hoặc nhịp bất thường có thể làm biến thiên tăng; không dùng HRV để kết luận hormone, mức stress tâm lý hay mức hồi phục chính xác.\n\nNếu có hồi hộp kèm chóng mặt, ngất, đau ngực hoặc khó thở, cần chăm sóc y tế thay vì chỉ kiểm tra HRV.\n\n## Nguồn tham khảo và phạm vi hỗ trợ\n\n1. [Shaffer & Ginsberg (2017) — An Overview of Heart Rate Variability Metrics and Norms](https://pubmed.ncbi.nlm.nih.gov/29034226/) — Narrative review. Hỗ trợ: Chỉ số HRV, bối cảnh đo và giới hạn so sánh.\n\n2. [Draghici & Taylor (2016) — The physiological basis and measurement of heart rate variability in humans](https://pubmed.ncbi.nlm.nih.gov/27680542/) — Physiology review. Hỗ trợ: Cơ chế và giới hạn diễn giải HRV.\n\n3. [American Heart Association — All About Heart Rate](https://www.heart.org/en/health-topics/high-blood-pressure/the-facts-about-high-blood-pressure/all-about-heart-rate-pulse) — Professional patient guidance. Hỗ trợ: Nhịp tim nghỉ, yếu tố ảnh hưởng và triệu chứng cần khám.\n\n4. [Kellmann et al. (2018) — Recovery and Performance in Sport: Consensus Statement](https://pubmed.ncbi.nlm.nih.gov/29345524/) — Consensus statement. Hỗ trợ: Phục hồi cần cá nhân hóa, gồm tải tập và áp lực cuộc sống.\n\n5. [Ross et al. (2016) — Importance of Assessing Cardiorespiratory Fitness in Clinical Practice](https://pubmed.ncbi.nlm.nih.gov/27881567/) — AHA scientific statement. Hỗ trợ: Thể lực tim phổi và đánh giá nguy cơ sức khỏe.\n\n6. [Zaccaro et al. (2018) — How Breath-Control Can Change Your Life: A Systematic Review on Psycho-Physiological Correlates of Slow Breathing](https://pubmed.ncbi.nlm.nih.gov/30245619/) — Systematic review. Hỗ trợ: Thở chậm, HRV và nghiên cứu không đồng nhất.\n\n> Cập nhật nội dung và nguồn: 26/10/2026. Nội dung giáo dục; chưa có xác nhận duyệt bởi bác sĩ.\n",
     "references": [
       {
@@ -514,7 +750,7 @@ const articles = [
     "source_checked_date": "2026-10-26",
     "editorial_review_status": "Long-form development of original outline; sources checked",
     "clinical_review_status": "Not recorded",
-    "image_provenance": "Hero restored from the original project library. Retained diagrams are illustrations, not study outcome data. Summary guidance is article text, not an image.",
+    "image_provenance": "Image research batch 01: visible subject, source metadata and reuse terms checked. See image_attributions for each asset.",
     "public_url": "https://test-repo-y1wb.onrender.com/posts/LM_RC_01.html",
     "baseline_revision": "f68c786",
     "content_edition": "Long-form development of the original topic outline",
@@ -531,7 +767,66 @@ const articles = [
       "hrv_context",
       "heart_output",
       "breathing_physiology"
-    ]
+    ],
+    "hero_caption": "A Polar H10 heart-rate sensor with a chest strap.",
+    "hero_caption_vi": "Cảm biến nhịp tim Polar H10 gắn với đai ngực.",
+    "hero_image_fit": "contain",
+    "image_attributions": [
+      {
+        "article_id": "LM_RC_01",
+        "role": "hero",
+        "asset": "images/researched/batch-01/LM_RC_01_hero.jpg",
+        "title": "Polar H10.jpg",
+        "source_page": "https://commons.wikimedia.org/wiki/File:Polar_H10.jpg",
+        "source_asset_url": "https://upload.wikimedia.org/wikipedia/commons/4/4a/Polar_H10.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "download_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4a/Polar_H10.jpg/1280px-Polar_H10.jpg",
+        "author": "Tiia Monto",
+        "license": "CC BY-SA 3.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+        "caption_vi": "Cảm biến nhịp tim Polar H10 gắn với đai ngực.",
+        "caption_en": "A Polar H10 heart-rate sensor with a chest strap.",
+        "alt_vi": "Cảm biến nhịp tim Polar H10 gắn với đai ngực.",
+        "alt_en": "A Polar H10 heart-rate sensor with a chest strap.",
+        "relevance_vi": "Minh họa một cách thu tín hiệu nhịp tim; không khẳng định đai ngực và đồng hồ cho HRV giống nhau.",
+        "modifications_vi": "Bản thu nhỏ; giữ nguyên nội dung.",
+        "modifications_en": "Thumbnail; image content unchanged.",
+        "fit": "contain",
+        "width": 1280,
+        "height": 1208,
+        "sha256": "4f1708611507b0bc46f0b9d99d81cc259bb45480bd23965acc941d0caf54f21b",
+        "checked_date": "2026-10-26",
+        "review_status": "Subject, source and licence checked",
+        "batch": 1
+      },
+      {
+        "article_id": "LM_RC_01",
+        "role": "inline",
+        "asset": "images/researched/batch-01/LM_RC_01_inline.png",
+        "title": "ECG-RRinterval.svg",
+        "source_page": "https://commons.wikimedia.org/wiki/File:ECG-RRinterval.svg",
+        "source_asset_url": "https://upload.wikimedia.org/wikipedia/commons/c/c1/ECG-RRinterval.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "download_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c1/ECG-RRinterval.svg/1280px-ECG-RRinterval.svg.png",
+        "author": "Anthony Atkielski (Agateller), atom and Kychot",
+        "license": "Copyrighted free use",
+        "license_url": "https://commons.wikimedia.org/wiki/File:ECG-RRinterval.svg#Licensing",
+        "caption_vi": "Khoảng R–R nằm giữa hai đỉnh R liên tiếp trên sơ đồ ECG.",
+        "caption_en": "An R–R interval between successive R peaks in an ECG schematic.",
+        "alt_vi": "Khoảng R–R nằm giữa hai đỉnh R liên tiếp trên sơ đồ ECG.",
+        "alt_en": "An R–R interval between successive R peaks in an ECG schematic.",
+        "relevance_vi": "Sơ đồ mô tả khoảng nhịp, không tự chứng minh biến thiên hay mức stress; tác giả và quyền sử dụng đã đối chiếu.",
+        "modifications_vi": "PNG kết xuất từ SVG; giữ nguyên nội dung.",
+        "modifications_en": "PNG rendering of SVG; content unchanged.",
+        "fit": "contain",
+        "width": 1280,
+        "height": 960,
+        "sha256": "c63807e248b4d5d6303585ede658d77794c0cbd489328326196dd4e920a073dd",
+        "checked_date": "2026-10-26",
+        "review_status": "Subject, source and licence checked",
+        "batch": 1
+      }
+    ],
+    "image_review_batch": 1,
+    "image_review_status": "Subject, source and licence checked — batch 01"
   },
   {
     "id": "LM_RC_02",
@@ -547,19 +842,19 @@ const articles = [
     "content": "In the past, checking your **Resting Heart Rate (RHR)** meant sitting quietly at a kitchen table or doctor's office and counting your pulse for 60 seconds. Today, wearables like **Oura Ring**, **WHOOP**, **Garmin**, and **Fitbit** measure your **nocturnal (overnight) RHR** while you are completely asleep.\n\nPulse often falls during sleep, but brands calculate resting heart rate differently. Temperature, medication, illness, alcohol and activity can affect it. A curve alone cannot show exactly what your body is doing.\n\n**Illustrative situation:** After heat, a late meal and irregular sleep, overnight pulse rises. Several factors may contribute; illness or overtraining should not be assumed. Check fit, note context and symptoms, and discuss a persistent change with its history.\n\n## Heart rate, stroke volume and interpretation limits\n\nCardiac output depends on both heart rate and stroke volume: **cardiac output = heart rate × stroke volume**. Two people can therefore have different pulse rates while meeting similar circulatory needs. Endurance training can contribute to adaptation, but wrist pulse cannot directly reveal heart size or the blood volume ejected per beat.\n\nPosture, temperature, fever, emotions and medicines also influence pulse. A trained person's lower rate differs from a new low rate accompanied by dizziness. An elevated rate after activity or during anxiety does not independently establish disease. Awake resting reference ranges are not mandatory targets throughout sleep.\n\nFor overnight graphs, check whether the device reports an average, a minimum or a selected window. A hammock or downward curve describes shape; it does not identify exactly when metabolism or tissue repair finishes.\n\n### A calculation, not a watch-based heart-health test\n\nWith hypothetical values of 70 beats/min and 70 mL/beat, output is `70 × 70 = 4900 mL/min`. Knowing pulse alone does not supply stroke volume. A watch does not measure the missing component through this multiplication.\n\nThis prevents “lower always means healthier” interpretations. Pulse reflects demand and regulation, while circulatory adequacy requires broader context. With symptoms, ask what changed and how it affects functioning rather than whether your number is lower than someone else's. [1](https://www.heart.org/en/health-topics/high-blood-pressure/the-facts-about-high-blood-pressure/all-about-heart-rate-pulse) [2](https://pubmed.ncbi.nlm.nih.gov/29345524/) [3](https://pubmed.ncbi.nlm.nih.gov/27881567/)\n\n## Interpreting an HRV change as a question\n\nHRV reflects autonomic and respiratory influences alongside many other factors. Sleep, illness, medication, training and cycle changes can overlap. A low result cannot identify one cause, and a high result does not guarantee ideal health.\n\nA useful sequence is **measurement quality → personal baseline → symptoms → context**. Address poor contact or interrupted recordings first. If several nights differ from baseline, consider what changed before choosing an adjustment or seeking advice. A universal millisecond threshold misses this context.\n\nA decrease after a late night may fit sleep loss without proving increased cortisol or infection. Marked weakness or palpitations still deserve attention with a green app score. Raising HRV by changing breathing during measurement is not evidence of lasting training adaptation. [4](https://pubmed.ncbi.nlm.nih.gov/29034226/) [5](https://pubmed.ncbi.nlm.nih.gov/27680542/) [1](https://www.heart.org/en/health-topics/high-blood-pressure/the-facts-about-high-blood-pressure/all-about-heart-rate-pulse)\n\n## Lactate clearance, soreness and recovery are different\n\nRecovery includes circulatory adjustment, fuel use and replacement, tissue responses, sleep and perceived fatigue. Immediate comfort does not establish faster recovery of every system. Feeling better and being ready to repeat a hard session are different outcomes.\n\nLactate participates in metabolism and can serve as fuel; it is not a toxin trapped for days that causes delayed soreness. Light activity can accelerate clearance in some circumstances without demonstrating less next-day soreness or faster tissue repair.\n\nActive recovery should remain genuinely easy. Turning a rest day into cardio to earn app points adds load. Complete rest can suit illness, substantial fatigue or injury protection. The choice should fit symptoms and the wider training plan rather than a claim that one method always wins. [6](https://pubmed.ncbi.nlm.nih.gov/29663142/) [2](https://pubmed.ncbi.nlm.nih.gov/29345524/)\n\n## From the Fick principle to a watch estimate\n\nMaximal oxygen use depends on oxygen delivery and tissue extraction. The Fick principle relates oxygen consumption to cardiac output and the arterial–venous oxygen difference. It explains why circulation and muscles both matter; it does not mean a watch separately measures those components.\n\nGas-exchange exercise testing analyzes inhaled and exhaled gases as workload increases. A consumer device generally estimates fitness from pulse together with speed, movement or other supported inputs. Sharing the VO2 max label does not make the procedures equivalent.\n\nLower cardiorespiratory fitness is associated with health risk, making trends useful. Population associations cannot promise a number of extra years when a score rises. Sensor error, heat, entered weight and activity type can affect estimates. A genuine loss of exercise capacity needs attention even before the score changes.\n\n### Absolute and relative oxygen uptake\n\nResults can be expressed in liters per minute or milliliters per kilogram per minute. A hypothetical 3.5 L/min at 70 kg becomes `3500 / 70 = 50 mL/kg/min`. These are different expressions of the same measurement.\n\nChanging entered weight can alter a relative value without changing absolute uptake. Real weight and training changes have other effects too, so this is not advice to lose weight for a score. It explains the denominator and helps distinguish fitness changes from input changes. [3](https://pubmed.ncbi.nlm.nih.gov/27881567/) [7](https://www.who.int/news-room/fact-sheets/detail/physical-activity)\n\n## A comparison for practical interpretation\n\n| Situation | Pulse context | Approach |\n|---|---|---|\n| Heat, activity, posture | Changing circulatory demand | Note context and reassess appropriately |\n| Medicines or training | Different individual baseline | Avoid one universal target |\n| Persistent unexplained change | Other causes need consideration | Discuss course and symptoms |\n| Chest pain, breathlessness, fainting | More than a score issue | Obtain appropriate urgent care |\n\n## Putting this into practice and evaluating the response\n\nTrack several nights with notes on changes. Check fit and measure your awake resting pulse if a reading seems unusual. Include how you feel when deciding whether to train.\n\n1. **Identify the measurement.** Check the metric, sampling and conditions before comparing.\n2. **Add context.** Sleep, activity, illness, medicines and feelings can change together.\n3. **Choose an appropriate response.** Support health or comfort rather than forcing a graph toward a target.\n4. **Review the course.** Repeated observations are useful, but new or substantial symptoms need not wait for enough tracking days.\n\n## When to seek support\n\nThe commonly cited 60–100 bpm range refers to awake resting adults, not a required sleeping target. Training and medication can lower pulse.\n\nA sudden major pulse change with chest pain, breathlessness or fainting needs emergency care. Persistent unexplained change warrants assessment.\n\n## References and what they support\n\n1. [American Heart Association — All About Heart Rate](https://www.heart.org/en/health-topics/high-blood-pressure/the-facts-about-high-blood-pressure/all-about-heart-rate-pulse) — Professional patient guidance. Supports: Resting pulse, influencing factors and warning symptoms.\n\n2. [Kellmann et al. (2018) — Recovery and Performance in Sport: Consensus Statement](https://pubmed.ncbi.nlm.nih.gov/29345524/) — Consensus statement. Supports: Individual recovery, training load and life demands.\n\n3. [Ross et al. (2016) — Importance of Assessing Cardiorespiratory Fitness in Clinical Practice](https://pubmed.ncbi.nlm.nih.gov/27881567/) — AHA scientific statement. Supports: Cardiorespiratory fitness and health risk assessment.\n\n4. [Shaffer & Ginsberg (2017) — An Overview of Heart Rate Variability Metrics and Norms](https://pubmed.ncbi.nlm.nih.gov/29034226/) — Narrative review. Supports: HRV metrics, recording context and comparability limits.\n\n5. [Draghici & Taylor (2016) — The physiological basis and measurement of heart rate variability in humans](https://pubmed.ncbi.nlm.nih.gov/27680542/) — Physiology review. Supports: Mechanisms and interpretation limits of HRV.\n\n6. [Van Hooren & Peake (2018) — Do We Need a Cool-Down After Exercise?](https://pubmed.ncbi.nlm.nih.gov/29663142/) — Narrative review. Supports: Limited evidence for active cool-down effects on soreness and recovery.\n\n7. [WHO — Physical activity](https://www.who.int/news-room/fact-sheets/detail/physical-activity) — Public health guideline summary. Supports: Activity recommendations by population.\n\n> Content and sources updated: 26 October 2026. Educational content; clinical sign-off has not been recorded.\n",
     "takeaway": "Track several nights with notes on changes. Check fit and measure your awake resting pulse if a reading seems unusual. Include how you feel when deciding whether to train.",
     "reading_time": "6 min",
-    "thumbnail": "images/LM_RC_02_hero.jpg",
+    "thumbnail": "images/researched/batch-01/LM_RC_02_hero.jpg",
     "source_name": "American Heart Association — All About Heart Rate",
     "source_url": "https://www.heart.org/en/health-topics/high-blood-pressure/the-facts-about-high-blood-pressure/all-about-heart-rate-pulse",
-    "hero_image": "images/LM_RC_02_hero.jpg",
-    "inline_image": "images/LM_RC_02_figure.jpg",
-    "inline_caption": "Cardiac-output factors, not separately measured from wrist pulse.",
+    "hero_image": "images/researched/batch-01/LM_RC_02_hero.jpg",
+    "inline_image": "images/researched/batch-01/LM_RC_02_inline.png",
+    "inline_caption": "Illustrative R–R timing and heart rate: 800 ms corresponds to 75 beats per minute.",
     "title_vi": "Nhịp tim nghỉ ban đêm: xem nền cá nhân và triệu chứng",
     "description_vi": "Nhịp tim thường thấp hơn khi ngủ, nhưng cách tính nhịp tim nghỉ khác nhau giữa các hãng.",
     "takeaway_vi": "Theo dõi nền qua nhiều đêm và ghi các yếu tố thay đổi. Nếu kết quả bất thường, kiểm tra cách đeo và đo mạch lúc nghỉ khi thức. Kết hợp cảm giác cơ thể trước khi quyết định tập luyện.",
     "reading_time_vi": "10 phút",
-    "hero_image_source_url": "https://test-repo-y1wb.onrender.com/images/LM_RC_02_hero.jpg",
-    "inline_image_source_url": "https://test-repo-y1wb.onrender.com/images/LM_RC_02_figure.jpg",
-    "inline_caption_vi": "Các yếu tố của cung lượng tim; không suy trực tiếp từng yếu tố từ mạch cổ tay.",
+    "hero_image_source_url": "https://commons.wikimedia.org/wiki/File:Polar_RS400_Heart_Rate_Monitor.jpg",
+    "inline_image_source_url": "https://commons.wikimedia.org/wiki/File:Fr%C3%A9quence_cardiaque_%C3%A0_partir_d%27un_%C3%A9lectrocardiogramme.png",
+    "inline_caption_vi": "Ví dụ minh họa cách khoảng R–R liên hệ với nhịp tim: 800 ms tương ứng 75 nhịp/phút.",
     "content_vi": "Trước đây, việc kiểm tra **Nhịp tim nghỉ (Resting Heart Rate - RHR)** đồng nghĩa với việc ngồi yên tại bàn làm việc hoặc phòng khám và đếm mạch đập trong 60 giây. Ngày nay, các thiết bị đeo tiên tiến như **Oura Ring**, **WHOOP**, **Garmin**, và **Fitbit** đo **Nhịp tim nghỉ ban đêm (Nocturnal / Overnight RHR)** khi bạn đang chìm sâu vào giấc ngủ.\n\nNhịp tim thường thấp hơn khi ngủ, nhưng cách tính nhịp tim nghỉ khác nhau giữa các hãng. Nhiệt độ, thuốc, bệnh, rượu và vận động đều có thể ảnh hưởng. Một đường nhịp tim không đủ để xác định cơ thể đang tiêu hóa hay đã phục hồi xong.\n\n**Tình huống minh họa:** Sau một ngày nóng, bữa tối muộn và ngủ không đều, mạch đêm cao hơn nền. Có nhiều yếu tố có thể cùng giải thích, nên không chọn ngay một kết luận như nhiễm bệnh hay quá sức. Kiểm tra cách đeo, ghi hoàn cảnh và đối chiếu triệu chứng; nếu thay đổi kéo dài, mang cả diễn biến khi trao đổi y tế.\n\n## Nhịp tim, thể tích nhát bóp và giới hạn suy luận\n\nMột nhịp tim là một lần co bóp, nhưng lượng máu bơm đi còn phụ thuộc thể tích nhát bóp. Ở mức khái quát, **cung lượng tim = nhịp tim × thể tích nhát bóp**. Đây là lý do hai người có thể cần nhịp tim khác nhau để đáp ứng cùng một nhu cầu tuần hoàn. Tập bền có thể góp phần tạo những thích nghi tim mạch, nhưng không thể suy trực tiếp kích thước tim hay thể tích mỗi nhát bóp từ một số mạch trên cổ tay.\n\nNhịp tim còn thay đổi do tư thế, nhiệt, sốt, cảm xúc và thuốc. Mạch thấp ở người tập luyện không được hiểu giống mạch thấp mới xuất hiện kèm choáng. Ngược lại, một lần mạch cao sau vận động hoặc khi lo lắng không tự xác định bệnh. Phạm vi thường được nêu cho người lớn lúc thức và nghỉ không phải mục tiêu bắt buộc trong mọi giai đoạn ngủ.\n\nKhi xem biểu đồ ban đêm, nên hỏi cách thiết bị định nghĩa “nhịp tim nghỉ”: trung bình, giá trị thấp hoặc một cửa sổ cụ thể. Một hình võng hay đường giảm dần chỉ là mô tả của đường cong; nó không cho biết chính xác lúc nào gan ngừng chuyển hóa hoặc lúc nào cơ thể hoàn tất sửa chữa.\n\n### Một phép tính minh họa, không phải cách suy tim khỏe từ đồng hồ\n\nNếu dùng các số giả định 70 nhịp/phút và 70 mL mỗi nhát bóp, cung lượng theo phép nhân là `70 × 70 = 4900 mL/phút`. Hai thành phần có thể thay đổi, nên chỉ biết nhịp 70 chưa cho biết kết quả còn lại. Đồng hồ ghi mạch cũng không đồng thời đo thể tích nhát bóp bằng phép nhân này.\n\nPhân biệt như vậy giúp tránh ngộ nhận “mạch càng thấp thì tim chắc chắn càng khỏe”. Mạch chịu cả nhu cầu hoạt động và điều hòa, trong khi khả năng đáp ứng tuần hoàn cần bối cảnh rộng hơn. Với triệu chứng, câu hỏi quan trọng là điều gì đang thay đổi và ảnh hưởng ra sao, không phải liệu số của bạn có thấp hơn người khác. [1](https://www.heart.org/en/health-topics/high-blood-pressure/the-facts-about-high-blood-pressure/all-about-heart-rate-pulse) [2](https://pubmed.ncbi.nlm.nih.gov/29345524/) [3](https://pubmed.ncbi.nlm.nih.gov/27881567/)\n\n## Đọc biến động HRV như một tín hiệu cần giải thích\n\nHRV chịu ảnh hưởng của hoạt động thần kinh tự chủ, hô hấp và nhiều yếu tố khác. Các yếu tố như giấc ngủ, bệnh, thuốc, lịch tập và chu kỳ có thể thay đổi cùng lúc. Một số thấp không chỉ ra được nguyên nhân duy nhất; một số cao cũng không bảo đảm cơ thể đang ở trạng thái tốt nhất.\n\nĐể đọc có ích, hãy đi từ **chất lượng phép đo → nền cá nhân → triệu chứng → bối cảnh**. Nếu dây đeo lỏng hoặc tín hiệu gián đoạn, cần giải quyết vấn đề đo trước. Nếu nhiều đêm cùng lệch nền, hãy xem điều gì mới thay đổi. Sau đó mới cân nhắc điều chỉnh tải tập hoặc tìm tư vấn, thay vì đặt ra một ngưỡng mili giây dùng cho mọi người.\n\nVí dụ, HRV giảm sau một đêm thức muộn có thể phù hợp với bối cảnh thiếu ngủ, nhưng chưa chứng minh cortisol tăng hay bạn bị nhiễm trùng. Ngược lại, cảm thấy yếu rõ hoặc có hồi hộp vẫn đáng quan tâm dù ứng dụng báo xanh. Không dùng việc điều khiển nhịp thở để làm HRV tăng ngay trong phép đo như bằng chứng chương trình tập đã cải thiện sức khỏe lâu dài. [4](https://pubmed.ncbi.nlm.nih.gov/29034226/) [5](https://pubmed.ncbi.nlm.nih.gov/27680542/) [1](https://www.heart.org/en/health-topics/high-blood-pressure/the-facts-about-high-blood-pressure/all-about-heart-rate-pulse)\n\n## Lactate, đau cơ muộn và phục hồi không phải cùng một việc\n\nSau một buổi tập, nhiều quá trình diễn ra đồng thời: điều chỉnh tuần hoàn, sử dụng và tái tạo nhiên liệu, đáp ứng mô cơ, ngủ và cảm giác mệt. Vì vậy, một biện pháp làm bạn thấy dễ chịu ngay không tự chứng minh đã tăng tốc mọi phần phục hồi. “Cảm thấy đỡ” và “sẵn sàng lặp lại buổi nặng” là hai kết quả khác nhau.\n\nLactate là một phần của chuyển hóa và có thể được dùng làm nhiên liệu; nó không phải chất độc nằm lại trong cơ nhiều ngày gây đau cơ muộn. Vận động nhẹ có thể thúc đẩy xử lý lactate trong một số bối cảnh, nhưng điều đó không đủ để kết luận sẽ giảm đau cơ ngày hôm sau hoặc sửa chữa mô nhanh hơn.\n\nPhục hồi chủ động phù hợp khi mức vận động thật sự nhẹ và bạn thấy dễ chịu. Nếu biến ngày nghỉ thành một buổi cardio để tăng điểm app, bạn đã tạo thêm tải. Ngược lại, nghỉ hoàn toàn có thể phù hợp khi đang bệnh, rất mệt hoặc cần bảo vệ chấn thương. Chọn phương án dựa trên triệu chứng và kế hoạch chung, thay vì xem một bên luôn vượt trội. [6](https://pubmed.ncbi.nlm.nih.gov/29663142/) [2](https://pubmed.ncbi.nlm.nih.gov/29345524/)\n\n## Từ phương trình Fick đến phép ước tính trên đồng hồ\n\nKhả năng sử dụng oxy tối đa phụ thuộc hệ vận chuyển oxy và khả năng mô lấy oxy khỏi máu. Nguyên lý Fick diễn đạt quan hệ giữa tiêu thụ oxy, cung lượng tim và chênh lệch oxy động–tĩnh mạch. Nó giúp hiểu vì sao tim, tuần hoàn và cơ đều tham gia thể lực tim phổi; không có nghĩa đồng hồ đã đo riêng từng thành phần đó.\n\nTrong kiểm tra gắng sức có đo trao đổi khí, thiết bị phân tích khí hít vào và thở ra khi công việc tăng dần. Trong đời thường, đồng hồ thường phải ước tính từ nhịp tim kết hợp tốc độ, vận động hoặc những thông tin khác mà thuật toán hỗ trợ. Tên gọi cùng là VO2 max nhưng hai quy trình không tương đương.\n\nThể lực tim phổi thấp có liên hệ với nguy cơ sức khỏe, nên theo dõi xu hướng có giá trị. Tuy nhiên, liên hệ ở một quần thể không trở thành lời hứa bạn sẽ sống thêm một số năm nếu điểm tăng. Sai số cảm biến, điều kiện trời nóng, dữ liệu cân nặng và loại buổi tập có thể ảnh hưởng ước tính. Khi có sự sụt khả năng vận động thực sự, triệu chứng cần được đánh giá ngay cả khi điểm chưa thay đổi.\n\n### VO2 tuyệt đối và tương đối: cùng khả năng nhưng đơn vị khác\n\nKết quả có thể biểu diễn bằng lít oxy mỗi phút hoặc bằng mL mỗi kg mỗi phút. Ví dụ giả định một phép đo là 3,5 L/phút và khối lượng 70 kg: `3500 / 70 = 50 mL/kg/phút`. Đó là đổi đơn vị và chuẩn hóa theo khối lượng, không phải hai lần đo khác nhau.\n\nNếu thông tin cân nặng nhập thay đổi, giá trị tương đối có thể đổi dù lượng oxy tuyệt đối không đổi. Trong thực tế, thay đổi cân nặng và huấn luyện còn có những tác động khác, nên không dùng ví dụ này để khuyên giảm cân chỉ nhằm tăng điểm. Nó giúp đọc đúng mẫu số và hỏi liệu một thay đổi đang phản ánh thể lực, thông tin đầu vào hay cả hai. [3](https://pubmed.ncbi.nlm.nih.gov/27881567/) [7](https://www.who.int/news-room/fact-sheets/detail/physical-activity)\n\n## Bảng đối chiếu để đọc đúng thông tin\n\n| Tình huống | Có thể ảnh hưởng mạch | Cách tiếp cận |\n|---|---|---|\n| Nóng, vận động, thay tư thế | Nhu cầu tuần hoàn thay đổi | Ghi hoàn cảnh và đo lại khi phù hợp |\n| Thuốc hoặc nền tập luyện | Có thể làm nền cá nhân khác | Không so theo một chuẩn duy nhất |\n| Thay đổi kéo dài không rõ lý do | Cần xem thêm nguyên nhân | Trao đổi diễn biến và triệu chứng |\n| Đau ngực, khó thở, ngất | Không chỉ là vấn đề điểm số | Tìm chăm sóc y tế khẩn khi phù hợp |\n\n## Ứng dụng thực tế: làm gì và đánh giá bằng cách nào?\n\nTheo dõi nền qua nhiều đêm và ghi các yếu tố thay đổi. Nếu kết quả bất thường, kiểm tra cách đeo và đo mạch lúc nghỉ khi thức. Kết hợp cảm giác cơ thể trước khi quyết định tập luyện.\n\n1. **Kiểm tra bạn đang xem gì.** Xác định tên chỉ số, cách thiết bị lấy mẫu và điều kiện đo trước khi so sánh.\n2. **Đặt cạnh bối cảnh.** Ghi giấc ngủ, vận động, bệnh gần đây, thuốc và cảm giác; nhiều yếu tố có thể thay đổi cùng lúc.\n3. **Chọn phản ứng phù hợp.** Điều chỉnh để hỗ trợ sức khỏe hoặc sự dễ chịu, không để ép một đường cong đạt mục tiêu.\n4. **Xem diễn biến.** Mẫu nhiều lần đo hữu ích hơn một điểm đơn lẻ, nhưng triệu chứng mới hoặc nặng không cần chờ đủ số ngày mới được đánh giá.\n\n## Khi nào nên tìm hỗ trợ?\n\nKhoảng 60–100 nhịp/phút thường dùng cho người lớn lúc thức và nghỉ, không phải mục tiêu bắt buộc khi ngủ. Người tập bền hoặc dùng thuốc có thể có mạch thấp hơn.\n\nMạch đột ngột rất khác nền kèm đau ngực, khó thở hoặc ngất cần cấp cứu. Thay đổi kéo dài cần được khám.\n\n## Nguồn tham khảo và phạm vi hỗ trợ\n\n1. [American Heart Association — All About Heart Rate](https://www.heart.org/en/health-topics/high-blood-pressure/the-facts-about-high-blood-pressure/all-about-heart-rate-pulse) — Professional patient guidance. Hỗ trợ: Nhịp tim nghỉ, yếu tố ảnh hưởng và triệu chứng cần khám.\n\n2. [Kellmann et al. (2018) — Recovery and Performance in Sport: Consensus Statement](https://pubmed.ncbi.nlm.nih.gov/29345524/) — Consensus statement. Hỗ trợ: Phục hồi cần cá nhân hóa, gồm tải tập và áp lực cuộc sống.\n\n3. [Ross et al. (2016) — Importance of Assessing Cardiorespiratory Fitness in Clinical Practice](https://pubmed.ncbi.nlm.nih.gov/27881567/) — AHA scientific statement. Hỗ trợ: Thể lực tim phổi và đánh giá nguy cơ sức khỏe.\n\n4. [Shaffer & Ginsberg (2017) — An Overview of Heart Rate Variability Metrics and Norms](https://pubmed.ncbi.nlm.nih.gov/29034226/) — Narrative review. Hỗ trợ: Chỉ số HRV, bối cảnh đo và giới hạn so sánh.\n\n5. [Draghici & Taylor (2016) — The physiological basis and measurement of heart rate variability in humans](https://pubmed.ncbi.nlm.nih.gov/27680542/) — Physiology review. Hỗ trợ: Cơ chế và giới hạn diễn giải HRV.\n\n6. [Van Hooren & Peake (2018) — Do We Need a Cool-Down After Exercise?](https://pubmed.ncbi.nlm.nih.gov/29663142/) — Narrative review. Hỗ trợ: Hạn chế bằng chứng về giảm đau cơ và phục hồi nhờ hạ nhiệt chủ động.\n\n7. [WHO — Physical activity](https://www.who.int/news-room/fact-sheets/detail/physical-activity) — Public health guideline summary. Hỗ trợ: Khuyến nghị vận động theo nhóm đối tượng.\n\n> Cập nhật nội dung và nguồn: 26/10/2026. Nội dung giáo dục; chưa có xác nhận duyệt bởi bác sĩ.\n",
     "references": [
       {
@@ -631,7 +926,7 @@ const articles = [
     "source_checked_date": "2026-10-26",
     "editorial_review_status": "Long-form development of original outline; sources checked",
     "clinical_review_status": "Not recorded",
-    "image_provenance": "Hero restored from the original project library. Retained diagrams are illustrations, not study outcome data. Summary guidance is article text, not an image.",
+    "image_provenance": "Image research batch 01: visible subject, source metadata and reuse terms checked. See image_attributions for each asset.",
     "public_url": "https://test-repo-y1wb.onrender.com/posts/LM_RC_02.html",
     "baseline_revision": "f68c786",
     "content_edition": "Long-form development of the original topic outline",
@@ -648,7 +943,66 @@ const articles = [
       "hrv_context",
       "recovery_mechanism",
       "vo2_physiology"
-    ]
+    ],
+    "hero_caption": "A watch and chest-strap heart-rate monitor; the displayed value is an example device reading.",
+    "hero_caption_vi": "Đồng hồ và đai ngực đo nhịp tim; con số trên ảnh là ví dụ hiển thị của thiết bị.",
+    "hero_image_fit": "contain",
+    "image_attributions": [
+      {
+        "article_id": "LM_RC_02",
+        "role": "hero",
+        "asset": "images/researched/batch-01/LM_RC_02_hero.jpg",
+        "title": "Polar RS400 Heart Rate Monitor.jpg",
+        "source_page": "https://commons.wikimedia.org/wiki/File:Polar_RS400_Heart_Rate_Monitor.jpg",
+        "source_asset_url": "https://upload.wikimedia.org/wikipedia/commons/a/ac/Polar_RS400_Heart_Rate_Monitor.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "download_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ac/Polar_RS400_Heart_Rate_Monitor.jpg/1280px-Polar_RS400_Heart_Rate_Monitor.jpg",
+        "author": "Bill Ebbesen, aka Atomicbre at English Wikipedia",
+        "license": "Public domain",
+        "license_url": "https://commons.wikimedia.org/wiki/File:Polar_RS400_Heart_Rate_Monitor.jpg#Licensing",
+        "caption_vi": "Đồng hồ và đai ngực đo nhịp tim; con số trên ảnh là ví dụ hiển thị của thiết bị.",
+        "caption_en": "A watch and chest-strap heart-rate monitor; the displayed value is an example device reading.",
+        "alt_vi": "Đồng hồ và đai ngực đo nhịp tim; con số trên ảnh là ví dụ hiển thị của thiết bị.",
+        "alt_en": "A watch and chest-strap heart-rate monitor; the displayed value is an example device reading.",
+        "relevance_vi": "Đúng nội dung cách đọc mạch; giá trị hiển thị không được gọi là nhịp tim nghỉ đêm của người đọc.",
+        "modifications_vi": "Bản thu nhỏ; giữ nguyên nội dung.",
+        "modifications_en": "Thumbnail; image content unchanged.",
+        "fit": "contain",
+        "width": 1280,
+        "height": 1144,
+        "sha256": "668e921d342bfbdbcc99fe0ec41fd032393bebadf10c9277f3779dd42551d69b",
+        "checked_date": "2026-10-26",
+        "review_status": "Subject, source and licence checked",
+        "batch": 1
+      },
+      {
+        "article_id": "LM_RC_02",
+        "role": "inline",
+        "asset": "images/researched/batch-01/LM_RC_02_inline.png",
+        "title": "Fréquence cardiaque à partir d'un électrocardiogramme.png",
+        "source_page": "https://commons.wikimedia.org/wiki/File:Fr%C3%A9quence_cardiaque_%C3%A0_partir_d%27un_%C3%A9lectrocardiogramme.png",
+        "source_asset_url": "https://upload.wikimedia.org/wikipedia/commons/a/a2/Fr%C3%A9quence_cardiaque_%C3%A0_partir_d%27un_%C3%A9lectrocardiogramme.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "download_url": "https://upload.wikimedia.org/wikipedia/commons/a/a2/Fr%C3%A9quence_cardiaque_%C3%A0_partir_d%27un_%C3%A9lectrocardiogramme.png",
+        "author": "Erdé51",
+        "license": "CC0",
+        "license_url": "https://creativecommons.org/publicdomain/zero/1.0/deed.en",
+        "caption_vi": "Ví dụ minh họa cách khoảng R–R liên hệ với nhịp tim: 800 ms tương ứng 75 nhịp/phút.",
+        "caption_en": "Illustrative R–R timing and heart rate: 800 ms corresponds to 75 beats per minute.",
+        "alt_vi": "Ví dụ minh họa cách khoảng R–R liên hệ với nhịp tim: 800 ms tương ứng 75 nhịp/phút.",
+        "alt_en": "Illustrative R–R timing and heart rate: 800 ms corresponds to 75 beats per minute.",
+        "relevance_vi": "Đã kiểm tra phép tính 60/0,800=75; các giá trị khác là số minh họa, không phải mục tiêu sức khỏe.",
+        "modifications_vi": "Giữ nguyên nội dung file ảnh gốc.",
+        "modifications_en": "Original image file content unchanged.",
+        "fit": "contain",
+        "width": 1261,
+        "height": 413,
+        "sha256": "b7c3ee6433a93089650dd2972c8642a8d05236d23f0f63249e2afcbf337ee998",
+        "checked_date": "2026-10-26",
+        "review_status": "Subject, source and licence checked",
+        "batch": 1
+      }
+    ],
+    "image_review_batch": 1,
+    "image_review_status": "Subject, source and licence checked — batch 01"
   },
   {
     "id": "DM_RC_01",
@@ -664,19 +1018,19 @@ const articles = [
     "content": "Slow breathing can alter HRV during practice and help some people relax. Comfortable pacing varies. Inhaling and exhaling for 5.5 seconds each is one option rather than a universal optimum.\n\n**Illustrative situation:** HRV rises while you practice slow breathing. That may reflect the breathing change rather than improved fitness or health. Judge comfort and sustainability instead of holding your breath or inhaling harder to raise the number.\n\n## How breathing and heart rhythm interact\n\nPulse can vary with breathing, commonly accelerating on inhalation and slowing on exhalation at rest. Respiratory sinus arrhythmia involves interacting neural control, chest pressure and circulatory reflexes. It is not simply an inhale switching the vagus off and an exhale switching it on.\n\nDeliberate slow breathing changes a factor that directly affects HRV measurement. An immediate increase therefore does not establish relief of every kind of stress or improved fitness. Resonance frequency varies; 5.5 breaths per minute is also different from a 5.5-second inhale followed by a 5.5-second exhale.\n\nSlower does not mean maximally deep. Forceful repeated inhalations can cause dizziness or discomfort. Relaxation practice should feel gentle and sustainable, with permission to stop. New cardiac or respiratory symptoms require assessment rather than self-treatment through breath control. [1](https://pubmed.ncbi.nlm.nih.gov/30245619/) [2](https://pubmed.ncbi.nlm.nih.gov/27680542/)\n\n## RMSSD, SDNN and why the numbers are not interchangeable\n\nAverage pulse counts beats over time; HRV describes variation in intervals between beats. As an illustration, intervals of 980, 1,050 and 1,000 milliseconds can coexist with a fairly steady average pulse. They are different descriptions of cardiovascular activity.\n\n**RMSSD** uses successive interval differences: square them, average them and take the square root. **SDNN** is the standard deviation of normal intervals in the recording window. Short windows and all-day recordings capture different information, so an SDNN result cannot be read using an RMSSD reference table.\n\nEven with the same metric, posture, breathing, timing, window length and artifact filtering matter. Optical pulse timing also differs from electrical ECG measurements. Compare consistent methods with a personal baseline, without treating RMSSD as a pure measurement of one nerve or a complete stress scale.\n\n### Equal mean pulse can coexist with different HRV\n\nConsider invented intervals `1000, 1040, 1000, 960 ms`. Their mean is 1000 ms, corresponding approximately to 60 bpm by simple conversion. Successive differences are `40, −40, −40 ms`, giving `RMSSD = sqrt((1600 + 1600 + 1600) / 3) = 40 ms`.\n\nFour identical 1000-ms intervals have the same mean but zero RMSSD in this example. Average pulse therefore cannot replace variability. These are teaching data, not a normal recording, diagnostic standard or personal target. Real recordings require attention to artifacts and abnormal beats before calculation. [3](https://pubmed.ncbi.nlm.nih.gov/29034226/) [2](https://pubmed.ncbi.nlm.nih.gov/27680542/)\n\n## Interpreting an HRV change as a question\n\nHRV reflects autonomic and respiratory influences alongside many other factors. Sleep, illness, medication, training and cycle changes can overlap. A low result cannot identify one cause, and a high result does not guarantee ideal health.\n\nA useful sequence is **measurement quality → personal baseline → symptoms → context**. Address poor contact or interrupted recordings first. If several nights differ from baseline, consider what changed before choosing an adjustment or seeking advice. A universal millisecond threshold misses this context.\n\nA decrease after a late night may fit sleep loss without proving increased cortisol or infection. Marked weakness or palpitations still deserve attention with a green app score. Raising HRV by changing breathing during measurement is not evidence of lasting training adaptation. [3](https://pubmed.ncbi.nlm.nih.gov/29034226/) [2](https://pubmed.ncbi.nlm.nih.gov/27680542/) [4](https://www.heart.org/en/health-topics/high-blood-pressure/the-facts-about-high-blood-pressure/all-about-heart-rate-pulse)\n\n## A comparison for practical interpretation\n\n| Practice | Practical purpose | Limit |\n|---|---|---|\n| Observe natural breathing | Notice comfort | No immediate score target |\n| Gentle slower breathing | Possible relaxation support | Not maximal inhalation |\n| Double inhale, extended exhale | An optional practice | No guaranteed one-minute pulse effect |\n| HRV during paced breathing | Observe measurement response | Not proof of long-term adaptation |\n\n## Keeping research findings in context\n\nAn immediate HRV rise does not prove lasting health improvement. Avoid forceful deep breaths or chasing a score; studies use varied methods. [1](https://pubmed.ncbi.nlm.nih.gov/30245619/) [2](https://pubmed.ncbi.nlm.nih.gov/27680542/) [3](https://pubmed.ncbi.nlm.nih.gov/29034226/)\n\n## Putting this into practice and evaluating the response\n\nSit comfortably, relax your shoulders and breathe gently a little slower for a few minutes. A four-second inhale and six-second exhale is an optional starting point. Return to natural breathing if uncomfortable.\n\n1. **Identify the measurement.** Check the metric, sampling and conditions before comparing.\n2. **Add context.** Sleep, activity, illness, medicines and feelings can change together.\n3. **Choose an appropriate response.** Support health or comfort rather than forcing a graph toward a target.\n4. **Review the course.** Repeated observations are useful, but new or substantial symptoms need not wait for enough tracking days.\n\n## When to seek support\n\nAn immediate HRV rise does not prove lasting health improvement. Avoid forceful deep breaths or chasing a score; studies use varied methods.\n\nStop for dizziness, tingling or breathlessness. New chest pain or breathing difficulty needs medical assessment.\n\n## References and what they support\n\n1. [Zaccaro et al. (2018) — How Breath-Control Can Change Your Life: A Systematic Review on Psycho-Physiological Correlates of Slow Breathing](https://pubmed.ncbi.nlm.nih.gov/30245619/) — Systematic review. Supports: Slow breathing, HRV and heterogeneous evidence.\n\n2. [Draghici & Taylor (2016) — The physiological basis and measurement of heart rate variability in humans](https://pubmed.ncbi.nlm.nih.gov/27680542/) — Physiology review. Supports: Mechanisms and interpretation limits of HRV.\n\n3. [Shaffer & Ginsberg (2017) — An Overview of Heart Rate Variability Metrics and Norms](https://pubmed.ncbi.nlm.nih.gov/29034226/) — Narrative review. Supports: HRV metrics, recording context and comparability limits.\n\n4. [American Heart Association — All About Heart Rate](https://www.heart.org/en/health-topics/high-blood-pressure/the-facts-about-high-blood-pressure/all-about-heart-rate-pulse) — Professional patient guidance. Supports: Resting pulse, influencing factors and warning symptoms.\n\n> Content and sources updated: 26 October 2026. Educational content; clinical sign-off has not been recorded.\n",
     "takeaway": "Sit comfortably, relax your shoulders and breathe gently a little slower for a few minutes. A four-second inhale and six-second exhale is an optional starting point. Return to natural breathing if uncomfortable.",
     "reading_time": "5 min",
-    "thumbnail": "images/DM_RC_01_hero.jpg",
+    "thumbnail": "images/researched/batch-01/DM_RC_01_hero.jpg",
     "source_name": "Zaccaro et al. (2018) — How Breath-Control Can Change Your Life: A Systematic Review on Psycho-Physiological Correlates of Slow Breathing",
     "source_url": "https://pubmed.ncbi.nlm.nih.gov/30245619/",
-    "hero_image": "images/DM_RC_01_hero.jpg",
-    "inline_image": "",
-    "inline_caption": "",
+    "hero_image": "images/researched/batch-01/DM_RC_01_hero.jpg",
+    "inline_image": "images/researched/batch-01/DM_RC_01_inline.jpg",
+    "inline_caption": "Diaphragm and rib-cage changes during inhalation and exhalation.",
     "title_vi": "Thở chậm để thư giãn: thực hành thoải mái, không ép nhịp",
     "description_vi": "Thở chậm có thể thay đổi HRV trong lúc tập và giúp một số người thư giãn.",
     "takeaway_vi": "Ngồi vững, thả vai và bắt đầu bằng hơi thở nhẹ, chậm hơn bình thường trong một vài phút. Có thể thử hít khoảng 4 giây, thở 6 giây nếu dễ chịu. Trở về thở tự nhiên nếu thấy khó chịu.",
     "reading_time_vi": "8 phút",
-    "hero_image_source_url": "https://test-repo-y1wb.onrender.com/images/DM_RC_01_hero.jpg",
-    "inline_image_source_url": "",
-    "inline_caption_vi": "",
+    "hero_image_source_url": "https://commons.wikimedia.org/wiki/File:Prepara%C3%A7%C3%A3o_para_Pranayamas.jpg",
+    "inline_image_source_url": "https://commons.wikimedia.org/wiki/File:2316_Inspiration_and_Expiration.jpg",
+    "inline_caption_vi": "Cơ hoành và lồng ngực thay đổi giữa hít vào và thở ra.",
     "content_vi": "Thở chậm có thể thay đổi HRV trong lúc tập và giúp một số người thư giãn. Nhịp hô hấp phù hợp khác nhau; hít 5,5 giây và thở 5,5 giây là một cách thử, không phải tần số tối ưu được xác định cho tất cả.\n\n**Tình huống minh họa:** Bạn thử thở chậm và thấy HRV tăng ngay trên màn hình. Đây có thể là phản ứng với việc đổi hô hấp, chưa phải chứng minh thể lực hay sức khỏe đã tăng. Đánh giá bài tập trước hết bằng sự dễ chịu và khả năng duy trì; không nín thở hoặc hít mạnh hơn chỉ để đưa số lên cao.\n\n## Hô hấp thay đổi nhịp tim bằng nhiều đường tương tác\n\nNhịp tim có thể thay đổi theo hô hấp, thường tăng khi hít vào và giảm khi thở ra trong điều kiện nghỉ. Hiện tượng này được gọi là biến thiên nhịp tim theo hô hấp. Nó liên quan sự phối hợp giữa điều khiển thần kinh, áp lực trong lồng ngực và các phản xạ tuần hoàn; không nên rút gọn thành “hít vào tắt dây phế vị, thở ra bật lại”.\n\nKhi chủ động thở chậm, bạn đang thay đổi một yếu tố vốn ảnh hưởng chính phép đo HRV. Bởi vậy, một mức HRV tăng ngay trong buổi thực hành không đồng nghĩa đã giảm mọi dạng stress hoặc cải thiện thể lực. Tần số cộng hưởng cũng không nhất thiết giống nhau ở tất cả mọi người. Nhịp 5,5 lần/phút và hít 5,5 giây–thở 5,5 giây là hai mô tả cần phân biệt.\n\nThở chậm không có nghĩa thở càng sâu càng tốt. Hít quá mạnh hoặc liên tục có thể gây choáng và khó chịu. Mục tiêu thực hành thư giãn là hơi thở nhẹ, đủ thoải mái để duy trì, với quyền dừng ngay khi thấy không phù hợp. Người có triệu chứng tim phổi mới xuất hiện cần được đánh giá thay vì cố tự điều khiển bằng một bài thở. [1](https://pubmed.ncbi.nlm.nih.gov/30245619/) [2](https://pubmed.ncbi.nlm.nih.gov/27680542/)\n\n## RMSSD, SDNN và vì sao các con số không hoán đổi được\n\nNhịp tim trung bình cho biết có bao nhiêu nhịp trong một khoảng thời gian. HRV xem xét sự biến thiên của khoảng cách giữa các nhịp. Ví dụ minh họa: một chuỗi khoảng cách 980, 1.050 và 1.000 mili giây có thể tạo nhịp tim trung bình tương đối ổn định nhưng vẫn có biến thiên từng nhịp. Đây là hai cách mô tả khác nhau của cùng hệ thống tim mạch.\n\n**RMSSD** được tính từ chênh lệch giữa các khoảng nhịp liên tiếp: bình phương các chênh lệch, lấy trung bình rồi lấy căn. **SDNN** là độ lệch chuẩn của các khoảng nhịp bình thường trong cửa sổ đo. Cửa sổ ngắn, dài hoặc cả ngày không phản ánh cùng một tập thông tin, nên một giá trị SDNN không thể được đọc theo bảng RMSSD.\n\nNgay cả khi cùng tên chỉ số, tư thế, nhịp thở, thời điểm, độ dài cửa sổ và lọc nhiễu vẫn ảnh hưởng kết quả. Tín hiệu quang học đo xung mạch cũng khác với điện tim đo hoạt động điện. Vì vậy, nên so cùng phương pháp với nền cá nhân, đồng thời tránh mô tả RMSSD như phép đo tinh khiết của riêng dây phế vị hay thang đo toàn bộ stress.\n\n### Hai chuỗi có thể cùng nhịp tim trung bình nhưng HRV khác nhau\n\nDùng một ví dụ giả lập để hiểu phép tính: chuỗi khoảng nhịp `1000, 1040, 1000, 960 ms` có khoảng trung bình là 1000 ms, tương ứng khoảng 60 nhịp/phút theo phép quy đổi đơn giản. Các chênh lệch liên tiếp là `40, −40, −40 ms`; RMSSD là `căn((1600 + 1600 + 1600) / 3) = 40 ms`.\n\nChuỗi bốn khoảng đều 1000 ms có cùng trung bình nhưng RMSSD bằng 0 trong ví dụ. Điều đó minh họa vì sao mạch trung bình không thay được HRV. Đây là dữ liệu tự tạo để giải thích công thức, không phải bản ghi sinh lý bình thường, tiêu chuẩn chẩn đoán hay mục tiêu phải đạt. Trong dữ liệu thật, nhận diện nhịp bất thường và loại nhiễu còn quan trọng trước khi tính. [3](https://pubmed.ncbi.nlm.nih.gov/29034226/) [2](https://pubmed.ncbi.nlm.nih.gov/27680542/)\n\n## Đọc biến động HRV như một tín hiệu cần giải thích\n\nHRV chịu ảnh hưởng của hoạt động thần kinh tự chủ, hô hấp và nhiều yếu tố khác. Các yếu tố như giấc ngủ, bệnh, thuốc, lịch tập và chu kỳ có thể thay đổi cùng lúc. Một số thấp không chỉ ra được nguyên nhân duy nhất; một số cao cũng không bảo đảm cơ thể đang ở trạng thái tốt nhất.\n\nĐể đọc có ích, hãy đi từ **chất lượng phép đo → nền cá nhân → triệu chứng → bối cảnh**. Nếu dây đeo lỏng hoặc tín hiệu gián đoạn, cần giải quyết vấn đề đo trước. Nếu nhiều đêm cùng lệch nền, hãy xem điều gì mới thay đổi. Sau đó mới cân nhắc điều chỉnh tải tập hoặc tìm tư vấn, thay vì đặt ra một ngưỡng mili giây dùng cho mọi người.\n\nVí dụ, HRV giảm sau một đêm thức muộn có thể phù hợp với bối cảnh thiếu ngủ, nhưng chưa chứng minh cortisol tăng hay bạn bị nhiễm trùng. Ngược lại, cảm thấy yếu rõ hoặc có hồi hộp vẫn đáng quan tâm dù ứng dụng báo xanh. Không dùng việc điều khiển nhịp thở để làm HRV tăng ngay trong phép đo như bằng chứng chương trình tập đã cải thiện sức khỏe lâu dài. [3](https://pubmed.ncbi.nlm.nih.gov/29034226/) [2](https://pubmed.ncbi.nlm.nih.gov/27680542/) [4](https://www.heart.org/en/health-topics/high-blood-pressure/the-facts-about-high-blood-pressure/all-about-heart-rate-pulse)\n\n## Bảng đối chiếu để đọc đúng thông tin\n\n| Cách thực hành | Mục đích thực tế | Giới hạn |\n|---|---|---|\n| Thở tự nhiên, chú ý cảm giác | Làm quen nhịp và mức thoải mái | Không cần đổi số ngay |\n| Thở chậm nhẹ nhàng | Có thể hỗ trợ thư giãn | Không đồng nghĩa hít tối đa |\n| Hít kép và thở ra dài | Một lựa chọn thực hành | Không bảo đảm hạ mạch trong một phút |\n| Ghi HRV khi đổi nhịp thở | Quan sát đáp ứng trong phép đo | Không chứng minh thích nghi dài hạn |\n\n## Điểm cần giữ khi đọc kết quả nghiên cứu\n\nTăng HRV ngay trong buổi thở không chứng minh sức khỏe dài hạn đã tốt hơn. Không cần hít thật sâu, nín thở hoặc cố đạt điểm số; các nghiên cứu có phương pháp và kết quả khác nhau. [1](https://pubmed.ncbi.nlm.nih.gov/30245619/) [2](https://pubmed.ncbi.nlm.nih.gov/27680542/) [3](https://pubmed.ncbi.nlm.nih.gov/29034226/)\n\n## Ứng dụng thực tế: làm gì và đánh giá bằng cách nào?\n\nNgồi vững, thả vai và bắt đầu bằng hơi thở nhẹ, chậm hơn bình thường trong một vài phút. Có thể thử hít khoảng 4 giây, thở 6 giây nếu dễ chịu. Trở về thở tự nhiên nếu thấy khó chịu.\n\n1. **Kiểm tra bạn đang xem gì.** Xác định tên chỉ số, cách thiết bị lấy mẫu và điều kiện đo trước khi so sánh.\n2. **Đặt cạnh bối cảnh.** Ghi giấc ngủ, vận động, bệnh gần đây, thuốc và cảm giác; nhiều yếu tố có thể thay đổi cùng lúc.\n3. **Chọn phản ứng phù hợp.** Điều chỉnh để hỗ trợ sức khỏe hoặc sự dễ chịu, không để ép một đường cong đạt mục tiêu.\n4. **Xem diễn biến.** Mẫu nhiều lần đo hữu ích hơn một điểm đơn lẻ, nhưng triệu chứng mới hoặc nặng không cần chờ đủ số ngày mới được đánh giá.\n\n## Khi nào nên tìm hỗ trợ?\n\nTăng HRV ngay trong buổi thở không chứng minh sức khỏe dài hạn đã tốt hơn. Không cần hít thật sâu, nín thở hoặc cố đạt điểm số; các nghiên cứu có phương pháp và kết quả khác nhau.\n\nDừng nếu chóng mặt, tê tay hoặc khó thở. Đau ngực hay khó thở mới xuất hiện cần được đánh giá y tế.\n\n## Nguồn tham khảo và phạm vi hỗ trợ\n\n1. [Zaccaro et al. (2018) — How Breath-Control Can Change Your Life: A Systematic Review on Psycho-Physiological Correlates of Slow Breathing](https://pubmed.ncbi.nlm.nih.gov/30245619/) — Systematic review. Hỗ trợ: Thở chậm, HRV và nghiên cứu không đồng nhất.\n\n2. [Draghici & Taylor (2016) — The physiological basis and measurement of heart rate variability in humans](https://pubmed.ncbi.nlm.nih.gov/27680542/) — Physiology review. Hỗ trợ: Cơ chế và giới hạn diễn giải HRV.\n\n3. [Shaffer & Ginsberg (2017) — An Overview of Heart Rate Variability Metrics and Norms](https://pubmed.ncbi.nlm.nih.gov/29034226/) — Narrative review. Hỗ trợ: Chỉ số HRV, bối cảnh đo và giới hạn so sánh.\n\n4. [American Heart Association — All About Heart Rate](https://www.heart.org/en/health-topics/high-blood-pressure/the-facts-about-high-blood-pressure/all-about-heart-rate-pulse) — Professional patient guidance. Hỗ trợ: Nhịp tim nghỉ, yếu tố ảnh hưởng và triệu chứng cần khám.\n\n> Cập nhật nội dung và nguồn: 26/10/2026. Nội dung giáo dục; chưa có xác nhận duyệt bởi bác sĩ.\n",
     "references": [
       {
@@ -721,7 +1075,7 @@ const articles = [
     "source_checked_date": "2026-10-26",
     "editorial_review_status": "Long-form development of original outline; sources checked",
     "clinical_review_status": "Not recorded",
-    "image_provenance": "Hero restored from the original project library. Retained diagrams are illustrations, not study outcome data. Summary guidance is article text, not an image.",
+    "image_provenance": "Image research batch 01: visible subject, source metadata and reuse terms checked. See image_attributions for each asset.",
     "public_url": "https://test-repo-y1wb.onrender.com/posts/DM_RC_01.html",
     "baseline_revision": "f68c786",
     "content_edition": "Long-form development of the original topic outline",
@@ -736,7 +1090,66 @@ const articles = [
       "breathing_physiology",
       "hrv_math",
       "hrv_context"
-    ]
+    ],
+    "hero_caption": "A resting supine posture used while preparing for breathing practice.",
+    "hero_caption_vi": "Tư thế nằm nghỉ được dùng trong một buổi chuẩn bị thực hành thở.",
+    "hero_image_fit": "cover",
+    "image_attributions": [
+      {
+        "article_id": "DM_RC_01",
+        "role": "hero",
+        "asset": "images/researched/batch-01/DM_RC_01_hero.jpg",
+        "title": "Preparação para Pranayamas.jpg",
+        "source_page": "https://commons.wikimedia.org/wiki/File:Prepara%C3%A7%C3%A3o_para_Pranayamas.jpg",
+        "source_asset_url": "https://upload.wikimedia.org/wikipedia/commons/0/02/Prepara%C3%A7%C3%A3o_para_Pranayamas.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "download_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/02/Prepara%C3%A7%C3%A3o_para_Pranayamas.jpg/1280px-Prepara%C3%A7%C3%A3o_para_Pranayamas.jpg",
+        "author": "Ericacastex",
+        "license": "CC BY-SA 4.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+        "caption_vi": "Tư thế nằm nghỉ được dùng trong một buổi chuẩn bị thực hành thở.",
+        "caption_en": "A resting supine posture used while preparing for breathing practice.",
+        "alt_vi": "Tư thế nằm nghỉ được dùng trong một buổi chuẩn bị thực hành thở.",
+        "alt_en": "A resting supine posture used while preparing for breathing practice.",
+        "relevance_vi": "Nguồn ghi Preparation for Pranayamas; ảnh cho thấy tư thế thư giãn, không thể hiện nín thở hay khẳng định tốc độ thở.",
+        "modifications_vi": "Bản thu nhỏ; giữ nguyên nội dung.",
+        "modifications_en": "Thumbnail; image content unchanged.",
+        "fit": "cover",
+        "width": 1280,
+        "height": 960,
+        "sha256": "e356ab86fa27b2101e5bfbdd4fa322fcbcddddc63317a8c13d54d353a14391ca",
+        "checked_date": "2026-10-26",
+        "review_status": "Subject, source and licence checked",
+        "batch": 1
+      },
+      {
+        "article_id": "DM_RC_01",
+        "role": "inline",
+        "asset": "images/researched/batch-01/DM_RC_01_inline.jpg",
+        "title": "2316 Inspiration and Expiration.jpg",
+        "source_page": "https://commons.wikimedia.org/wiki/File:2316_Inspiration_and_Expiration.jpg",
+        "source_asset_url": "https://upload.wikimedia.org/wikipedia/commons/8/8c/2316_Inspiration_and_Expiration.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "download_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8c/2316_Inspiration_and_Expiration.jpg/1280px-2316_Inspiration_and_Expiration.jpg",
+        "author": "OpenStax College",
+        "license": "CC BY 3.0",
+        "license_url": "https://creativecommons.org/licenses/by/3.0",
+        "caption_vi": "Cơ hoành và lồng ngực thay đổi giữa hít vào và thở ra.",
+        "caption_en": "Diaphragm and rib-cage changes during inhalation and exhalation.",
+        "alt_vi": "Cơ hoành và lồng ngực thay đổi giữa hít vào và thở ra.",
+        "alt_en": "Diaphragm and rib-cage changes during inhalation and exhalation.",
+        "relevance_vi": "Kiểm tra mũi tên hít vào/thở ra và cơ hoành; không dùng tốc độ GIF làm nhịp hướng dẫn.",
+        "modifications_vi": "Bản thu nhỏ; giữ nguyên nội dung.",
+        "modifications_en": "Thumbnail; image content unchanged.",
+        "fit": "contain",
+        "width": 1280,
+        "height": 946,
+        "sha256": "6cb279dcb76250435d11a3b8e0d1bd0613eb1d013b2fd0763c803f3ae23db8ac",
+        "checked_date": "2026-10-26",
+        "review_status": "Subject, source and licence checked",
+        "batch": 1
+      }
+    ],
+    "image_review_batch": 1,
+    "image_review_status": "Subject, source and licence checked — batch 01"
   },
   {
     "id": "DM_RC_02",
@@ -752,19 +1165,19 @@ const articles = [
     "content": "Easy walking or cycling can feel pleasant after exercise. Faster lactate clearance does not necessarily reduce next-day soreness or speed muscle repair. Lactate is not a lingering toxin responsible for delayed soreness.\n\n**Illustrative situation:** Easy walking may suit mild soreness after leg training. Localized pain or worsening pain with movement changes the situation. Decide from the response rather than believing activity is required to flush toxins from muscle.\n\n## Lactate clearance, soreness and recovery are different\n\nRecovery includes circulatory adjustment, fuel use and replacement, tissue responses, sleep and perceived fatigue. Immediate comfort does not establish faster recovery of every system. Feeling better and being ready to repeat a hard session are different outcomes.\n\nLactate participates in metabolism and can serve as fuel; it is not a toxin trapped for days that causes delayed soreness. Light activity can accelerate clearance in some circumstances without demonstrating less next-day soreness or faster tissue repair.\n\nActive recovery should remain genuinely easy. Turning a rest day into cardio to earn app points adds load. Complete rest can suit illness, substantial fatigue or injury protection. The choice should fit symptoms and the wider training plan rather than a claim that one method always wins. [1](https://pubmed.ncbi.nlm.nih.gov/29663142/) [2](https://pubmed.ncbi.nlm.nih.gov/29345524/)\n\n## Adaptation, excessive load and exclusion diagnosis\n\nTraining creates stimulus and fatigue; recovery contributes to adaptation. A supercompensation diagram illustrates a concept rather than predicting each person's precise performance curve or the day a personal record should occur.\n\nThe ECSS/ACSM consensus distinguishes functional overreaching, non-functional overreaching and overtraining syndrome through performance, recovery and clinical assessment, not a fixed HRV decline. Fatigue, poor sleep and falling performance can also occur with low energy availability, anaemia, infection or other conditions.\n\nReducing load is a programming adjustment rather than a diagnostic test. Failure to recover after a few days does not establish a “parasympathetic exhaustion” stage. Consider trends, food intake, life pressures and symptoms. Persistent problems require investigation before increasingly elaborate training prescriptions. [3](https://pubmed.ncbi.nlm.nih.gov/23247672/) [2](https://pubmed.ncbi.nlm.nih.gov/29345524/) [4](https://bjsm.bmj.com/content/57/17/1073)\n\n## The talk test, HRmax and HRR are not equivalent\n\nIntensity can describe external work, such as speed, or internal responses, such as pulse and perceived effort. The same running pace can be easy for one person and hard for another. Heat, fatigue and medication can also alter the relationship.\n\n**Percentage of maximum heart rate** and **percentage of heart-rate reserve** use different denominators. Reserve is the difference between maximum and resting rates. A percentage from one system cannot be read using the other's table. Age-based maximum-pulse formulas estimate rather than measure an individual's threshold.\n\nThe talk test provides a practical check: moderate work generally permits conversation, while vigorous work limits continuous speech. It does not precisely establish a lactate threshold or Zone 2 across every three- or five-zone model. Identify the zone system and combine it with experience instead of treating display colors as absolute boundaries. [5](https://www.cdc.gov/physicalactivity/basics/measuring/index.html) [6](https://www.who.int/news-room/fact-sheets/detail/physical-activity)\n\n## A comparison for practical interpretation\n\n| Option | Potential fit | Reconsider when |\n|---|---|---|\n| Light movement | Mild soreness with comfort | Pain increases or effort becomes hard |\n| Complete rest | Illness, substantial fatigue or protection | Unexplained symptoms persist |\n| Weekly load adjustment | Accumulating fatigue | Sleep and food are being ignored |\n| Professional assessment | Local pain, injury or persistence | No HRV threshold is required first |\n\n## Putting this into practice and evaluating the response\n\nFor mild soreness, try comfortable movement and stop if pain increases. Complete rest can be appropriate with marked fatigue, poor sleep or illness. Prioritize sleep, adequate food and adjustment of the next session.\n\n1. **Identify the measurement.** Check the metric, sampling and conditions before comparing.\n2. **Add context.** Sleep, activity, illness, medicines and feelings can change together.\n3. **Choose an appropriate response.** Support health or comfort rather than forcing a graph toward a target.\n4. **Review the course.** Repeated observations are useful, but new or substantial symptoms need not wait for enough tracking days.\n\n## When to seek support\n\nThere is no universally best recovery method. Evidence for active cool-down effects on soreness and later performance is limited.\n\nLocalized pain, swelling or unusual weakness warrant assessment. Do not push through a suspected injury.\n\n## References and what they support\n\n1. [Van Hooren & Peake (2018) — Do We Need a Cool-Down After Exercise?](https://pubmed.ncbi.nlm.nih.gov/29663142/) — Narrative review. Supports: Limited evidence for active cool-down effects on soreness and recovery.\n\n2. [Kellmann et al. (2018) — Recovery and Performance in Sport: Consensus Statement](https://pubmed.ncbi.nlm.nih.gov/29345524/) — Consensus statement. Supports: Individual recovery, training load and life demands.\n\n3. [Meeusen et al. (2013) — Prevention, diagnosis, and treatment of the overtraining syndrome](https://pubmed.ncbi.nlm.nih.gov/23247672/) — Joint consensus statement. Supports: Overtraining, exclusion diagnosis and absence of a single marker.\n\n4. [Mountjoy et al. (2023) — IOC consensus statement on Relative Energy Deficiency in Sport (REDs)](https://bjsm.bmj.com/content/57/17/1073) — Consensus statement. Supports: Low energy availability, bone, menstrual health and multidisciplinary assessment.\n\n5. [CDC — Measuring Physical Activity Intensity](https://www.cdc.gov/physicalactivity/basics/measuring/index.html) — Public health guidance. Supports: Talk test for moderate and vigorous activity.\n\n6. [WHO — Physical activity](https://www.who.int/news-room/fact-sheets/detail/physical-activity) — Public health guideline summary. Supports: Activity recommendations by population.\n\n> Content and sources updated: 26 October 2026. Educational content; clinical sign-off has not been recorded.\n",
     "takeaway": "For mild soreness, try comfortable movement and stop if pain increases. Complete rest can be appropriate with marked fatigue, poor sleep or illness. Prioritize sleep, adequate food and adjustment of the next session.",
     "reading_time": "4 min",
-    "thumbnail": "images/DM_RC_02_hero.jpg",
+    "thumbnail": "images/researched/batch-01/DM_RC_02_hero.jpg",
     "source_name": "Van Hooren & Peake (2018) — Do We Need a Cool-Down After Exercise?",
     "source_url": "https://pubmed.ncbi.nlm.nih.gov/29663142/",
-    "hero_image": "images/DM_RC_02_hero.jpg",
-    "inline_image": "",
-    "inline_caption": "",
+    "hero_image": "images/researched/batch-01/DM_RC_02_hero.jpg",
+    "inline_image": "images/researched/batch-01/DM_RC_02_inline.jpg",
+    "inline_caption": "Cycling is one activity option; effort depends on speed and circumstances.",
     "title_vi": "Phục hồi chủ động hay nghỉ hoàn toàn: chọn theo cảm giác",
     "description_vi": "Đi bộ nhẹ hoặc đạp xe chậm có thể tạo cảm giác dễ chịu sau tập.",
     "takeaway_vi": "Nếu chỉ mỏi nhẹ, thử vận động dễ chịu và dừng khi đau tăng. Khi mệt rõ, ngủ kém hoặc đang bệnh, nghỉ hoàn toàn có thể phù hợp hơn. Ưu tiên ngủ, ăn đủ và điều chỉnh buổi tập kế tiếp.",
     "reading_time_vi": "7 phút",
-    "hero_image_source_url": "https://test-repo-y1wb.onrender.com/images/DM_RC_02_hero.jpg",
-    "inline_image_source_url": "",
-    "inline_caption_vi": "",
+    "hero_image_source_url": "https://www.pexels.com/photo/woman-and-man-walking-in-park-15913972/",
+    "inline_image_source_url": "https://commons.wikimedia.org/wiki/File:Urban_cycling_III.jpg",
+    "inline_caption_vi": "Đạp xe là một lựa chọn vận động; mức gắng sức tùy tốc độ và hoàn cảnh.",
     "content_vi": "Đi bộ nhẹ hoặc đạp xe chậm có thể tạo cảm giác dễ chịu sau tập. Thải lactate nhanh hơn không đồng nghĩa giảm đau cơ ngày hôm sau hay tăng tốc sửa chữa cơ; lactate không phải chất độc tồn đọng gây đau cơ muộn.\n\n**Tình huống minh họa:** Hôm sau buổi tập chân, bạn chỉ mỏi nhẹ và muốn đi bộ. Một hoạt động dễ chịu có thể phù hợp, nhưng nếu đau khu trú hoặc đi lại làm đau tăng, tình huống đã khác. Quyết định nên dựa trên phản ứng thực tế, không dựa vào niềm tin phải vận động để thải chất độc còn nằm trong cơ.\n\n## Lactate, đau cơ muộn và phục hồi không phải cùng một việc\n\nSau một buổi tập, nhiều quá trình diễn ra đồng thời: điều chỉnh tuần hoàn, sử dụng và tái tạo nhiên liệu, đáp ứng mô cơ, ngủ và cảm giác mệt. Vì vậy, một biện pháp làm bạn thấy dễ chịu ngay không tự chứng minh đã tăng tốc mọi phần phục hồi. “Cảm thấy đỡ” và “sẵn sàng lặp lại buổi nặng” là hai kết quả khác nhau.\n\nLactate là một phần của chuyển hóa và có thể được dùng làm nhiên liệu; nó không phải chất độc nằm lại trong cơ nhiều ngày gây đau cơ muộn. Vận động nhẹ có thể thúc đẩy xử lý lactate trong một số bối cảnh, nhưng điều đó không đủ để kết luận sẽ giảm đau cơ ngày hôm sau hoặc sửa chữa mô nhanh hơn.\n\nPhục hồi chủ động phù hợp khi mức vận động thật sự nhẹ và bạn thấy dễ chịu. Nếu biến ngày nghỉ thành một buổi cardio để tăng điểm app, bạn đã tạo thêm tải. Ngược lại, nghỉ hoàn toàn có thể phù hợp khi đang bệnh, rất mệt hoặc cần bảo vệ chấn thương. Chọn phương án dựa trên triệu chứng và kế hoạch chung, thay vì xem một bên luôn vượt trội. [1](https://pubmed.ncbi.nlm.nih.gov/29663142/) [2](https://pubmed.ncbi.nlm.nih.gov/29345524/)\n\n## Thích nghi, quá tải và chẩn đoán loại trừ\n\nTập luyện tạo kích thích và mệt mỏi; thời gian hồi phục giúp chuyển kích thích đó thành thích nghi. Sơ đồ siêu bù trừ là cách minh họa khái niệm, không phải đường cong dự báo chính xác hiệu suất của mỗi người sau từng buổi. Không thể chỉ đọc một đồ thị để biết ngày nào bắt buộc phải đạt kỷ lục.\n\nĐồng thuận ECSS/ACSM phân biệt quá tải chức năng, quá tải không chức năng và hội chứng tập quá sức bằng diễn biến hiệu suất, khả năng hồi phục và đánh giá lâm sàng. Ranh giới không được xác định bằng một tỷ lệ HRV giảm cố định. Những biểu hiện như mệt, ngủ kém và giảm thành tích cũng có thể gặp khi thiếu năng lượng, thiếu máu, nhiễm bệnh hoặc có vấn đề sức khỏe khác.\n\nVì vậy, giảm tải là một cách điều chỉnh chương trình, không phải phép thử tự chẩn đoán: nếu nghỉ vài ngày vẫn chưa tốt, chưa đủ kết luận bạn đang ở một giai đoạn “suy kiệt đối giao cảm”. Hãy nhìn vào xu hướng, mức ăn uống, áp lực cuộc sống và triệu chứng. Người có dấu hiệu kéo dài cần được tìm nguyên nhân trước khi tiếp tục thử những lịch tập ngày càng phức tạp. [3](https://pubmed.ncbi.nlm.nih.gov/23247672/) [2](https://pubmed.ncbi.nlm.nih.gov/29345524/) [4](https://bjsm.bmj.com/content/57/17/1073)\n\n## Talk test, HRmax và HRR: ba cách không hoàn toàn giống nhau\n\nCường độ có thể được mô tả theo công việc bên ngoài như tốc độ, hoặc phản ứng bên trong như nhịp tim và cảm giác gắng sức. Cùng một tốc độ chạy có thể nhẹ với người này và nặng với người khác. Nhiệt, mệt và thuốc cũng có thể làm quan hệ giữa tốc độ và mạch thay đổi.\n\n**Phần trăm nhịp tim tối đa** và **phần trăm dự trữ nhịp tim** dùng mẫu số khác nhau. Dự trữ nhịp tim là chênh lệch giữa nhịp tối đa và lúc nghỉ. Vì vậy, không lấy một phần trăm của hệ này để đọc bảng của hệ kia. Công thức dự đoán nhịp tối đa theo tuổi chỉ là ước lượng, không phải ngưỡng sinh lý được đo của riêng bạn.\n\nTalk test cung cấp cách kiểm tra thực tế hơn khi không có đo chuyên sâu: ở mức vừa thường còn trò chuyện được, trong khi mức mạnh khiến bạn khó nói nhiều từ liền. Tuy nhiên, nó không xác nhận chính xác ngưỡng lactate hoặc “Zone 2” trong mọi mô hình ba hay năm vùng. Nên ghi rõ hệ vùng đang dùng rồi kết hợp phản ứng thực tế, thay vì biến màu trên đồng hồ thành ranh giới tuyệt đối. [5](https://www.cdc.gov/physicalactivity/basics/measuring/index.html) [6](https://www.who.int/news-room/fact-sheets/detail/physical-activity)\n\n## Bảng đối chiếu để đọc đúng thông tin\n\n| Lựa chọn | Khi có thể phù hợp | Khi nên xem lại |\n|---|---|---|\n| Vận động nhẹ | Mỏi nhẹ, thấy dễ chịu khi di chuyển | Đau tăng hoặc biến thành buổi tập nặng |\n| Nghỉ hoàn toàn | Rất mệt, đang bệnh hoặc cần bảo vệ mô | Triệu chứng kéo dài chưa rõ nguyên nhân |\n| Điều chỉnh tải tuần | Mệt tích lũy hoặc hiệu suất giảm | Chỉ giảm điểm app mà không xem ngủ và ăn |\n| Đánh giá chuyên môn | Đau khu trú, chấn thương, diễn biến kéo dài | Không cần chờ đạt ngưỡng HRV |\n\n## Ứng dụng thực tế: làm gì và đánh giá bằng cách nào?\n\nNếu chỉ mỏi nhẹ, thử vận động dễ chịu và dừng khi đau tăng. Khi mệt rõ, ngủ kém hoặc đang bệnh, nghỉ hoàn toàn có thể phù hợp hơn. Ưu tiên ngủ, ăn đủ và điều chỉnh buổi tập kế tiếp.\n\n1. **Kiểm tra bạn đang xem gì.** Xác định tên chỉ số, cách thiết bị lấy mẫu và điều kiện đo trước khi so sánh.\n2. **Đặt cạnh bối cảnh.** Ghi giấc ngủ, vận động, bệnh gần đây, thuốc và cảm giác; nhiều yếu tố có thể thay đổi cùng lúc.\n3. **Chọn phản ứng phù hợp.** Điều chỉnh để hỗ trợ sức khỏe hoặc sự dễ chịu, không để ép một đường cong đạt mục tiêu.\n4. **Xem diễn biến.** Mẫu nhiều lần đo hữu ích hơn một điểm đơn lẻ, nhưng triệu chứng mới hoặc nặng không cần chờ đủ số ngày mới được đánh giá.\n\n## Khi nào nên tìm hỗ trợ?\n\nKhông có phương pháp phục hồi tốt nhất cho mọi người. Bằng chứng về hạ nhiệt chủ động đối với đau cơ và hiệu suất buổi sau còn hạn chế.\n\nĐau khu trú, sưng hoặc yếu bất thường cần kiểm tra; không cố vận động xuyên qua chấn thương nghi ngờ.\n\n## Nguồn tham khảo và phạm vi hỗ trợ\n\n1. [Van Hooren & Peake (2018) — Do We Need a Cool-Down After Exercise?](https://pubmed.ncbi.nlm.nih.gov/29663142/) — Narrative review. Hỗ trợ: Hạn chế bằng chứng về giảm đau cơ và phục hồi nhờ hạ nhiệt chủ động.\n\n2. [Kellmann et al. (2018) — Recovery and Performance in Sport: Consensus Statement](https://pubmed.ncbi.nlm.nih.gov/29345524/) — Consensus statement. Hỗ trợ: Phục hồi cần cá nhân hóa, gồm tải tập và áp lực cuộc sống.\n\n3. [Meeusen et al. (2013) — Prevention, diagnosis, and treatment of the overtraining syndrome](https://pubmed.ncbi.nlm.nih.gov/23247672/) — Joint consensus statement. Hỗ trợ: Quá tải, chẩn đoán loại trừ và thiếu chỉ dấu đơn lẻ.\n\n4. [Mountjoy et al. (2023) — IOC consensus statement on Relative Energy Deficiency in Sport (REDs)](https://bjsm.bmj.com/content/57/17/1073) — Consensus statement. Hỗ trợ: Thiếu năng lượng, xương, kinh nguyệt và đánh giá đa chuyên ngành.\n\n5. [CDC — Measuring Physical Activity Intensity](https://www.cdc.gov/physicalactivity/basics/measuring/index.html) — Public health guidance. Hỗ trợ: Talk test phân biệt vận động vừa và mạnh.\n\n6. [WHO — Physical activity](https://www.who.int/news-room/fact-sheets/detail/physical-activity) — Public health guideline summary. Hỗ trợ: Khuyến nghị vận động theo nhóm đối tượng.\n\n> Cập nhật nội dung và nguồn: 26/10/2026. Nội dung giáo dục; chưa có xác nhận duyệt bởi bác sĩ.\n",
     "references": [
       {
@@ -827,7 +1240,7 @@ const articles = [
     "source_checked_date": "2026-10-26",
     "editorial_review_status": "Long-form development of original outline; sources checked",
     "clinical_review_status": "Not recorded",
-    "image_provenance": "Hero restored from the original project library. Retained diagrams are illustrations, not study outcome data. Summary guidance is article text, not an image.",
+    "image_provenance": "Image research batch 01: visible subject, source metadata and reuse terms checked. See image_attributions for each asset.",
     "public_url": "https://test-repo-y1wb.onrender.com/posts/DM_RC_02.html",
     "baseline_revision": "f68c786",
     "content_edition": "Long-form development of the original topic outline",
@@ -842,7 +1255,66 @@ const articles = [
       "recovery_mechanism",
       "overload_assessment",
       "intensity_methods"
-    ]
+    ],
+    "hero_caption": "Two people walking on a path in a park.",
+    "hero_caption_vi": "Hai người đi bộ trên lối đi trong công viên.",
+    "hero_image_fit": "cover",
+    "image_attributions": [
+      {
+        "article_id": "DM_RC_02",
+        "role": "hero",
+        "asset": "images/researched/batch-01/DM_RC_02_hero.jpg",
+        "title": "Woman and Man Walking in Park",
+        "source_page": "https://www.pexels.com/photo/woman-and-man-walking-in-park-15913972/",
+        "source_asset_url": "https://images.pexels.com/photos/15913972/pexels-photo-15913972.png",
+        "download_url": "https://images.pexels.com/photos/15913972/pexels-photo-15913972.png?auto=compress&cs=tinysrgb&w=1600&fm=jpg",
+        "author": "David Brown",
+        "license": "Pexels License",
+        "license_url": "https://www.pexels.com/license/",
+        "caption_vi": "Hai người đi bộ trên lối đi trong công viên.",
+        "caption_en": "Two people walking on a path in a park.",
+        "alt_vi": "Hai người đi bộ trên lối đi trong công viên.",
+        "alt_en": "Two people walking on a path in a park.",
+        "relevance_vi": "Chủ thể đi bộ rõ hơn ảnh công viên chụp xa; minh họa một lựa chọn vận động, không suy mức gắng sức hay tình trạng phục hồi của người trong ảnh.",
+        "modifications_vi": "Pexels thu nhỏ/chuyển JPEG; không sửa nội dung.",
+        "modifications_en": "Pexels resized/JPEG rendering; no content changes.",
+        "fit": "cover",
+        "width": 1600,
+        "height": 1067,
+        "sha256": "1a64d6ba30bfa79a575dd4c3a6285d4ff6685980e5a466cca43ddfab543feb3b",
+        "checked_date": "2026-10-26",
+        "review_status": "Subject, source and licence checked",
+        "batch": 1
+      },
+      {
+        "article_id": "DM_RC_02",
+        "role": "inline",
+        "asset": "images/researched/batch-01/DM_RC_02_inline.jpg",
+        "title": "Urban cycling III.jpg",
+        "source_page": "https://commons.wikimedia.org/wiki/File:Urban_cycling_III.jpg",
+        "source_asset_url": "https://upload.wikimedia.org/wikipedia/commons/6/62/Urban_cycling_III.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "download_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/62/Urban_cycling_III.jpg/1280px-Urban_cycling_III.jpg",
+        "author": "KF from en.wiki",
+        "license": "Public domain",
+        "license_url": "https://commons.wikimedia.org/wiki/File:Urban_cycling_III.jpg#Licensing",
+        "caption_vi": "Đạp xe là một lựa chọn vận động; mức gắng sức tùy tốc độ và hoàn cảnh.",
+        "caption_en": "Cycling is one activity option; effort depends on speed and circumstances.",
+        "alt_vi": "Đạp xe là một lựa chọn vận động; mức gắng sức tùy tốc độ và hoàn cảnh.",
+        "alt_en": "Cycling is one activity option; effort depends on speed and circumstances.",
+        "relevance_vi": "Minh họa loại hoạt động để cân nhắc phục hồi chủ động, không gán cường độ từ ảnh.",
+        "modifications_vi": "Bản thu nhỏ; giữ nguyên nội dung.",
+        "modifications_en": "Thumbnail; image content unchanged.",
+        "fit": "contain",
+        "width": 1280,
+        "height": 960,
+        "sha256": "942ea2bce79479e9a498dd1544090e1a4fbfef5289f305494d0eead8ac9201fa",
+        "checked_date": "2026-10-26",
+        "review_status": "Subject, source and licence checked",
+        "batch": 1
+      }
+    ],
+    "image_review_batch": 1,
+    "image_review_status": "Subject, source and licence checked — batch 01"
   },
   {
     "id": "LM_AC_01",
@@ -858,19 +1330,19 @@ const articles = [
     "content": "Fitbit Active Zone Minutes count activity using heart-rate intensity. A moderate-zone minute generally earns one AZM; vigorous or peak-zone minutes earn two. AZM can therefore exceed elapsed workout time.\n\n**Illustrative situation:** AZM exceeding elapsed workout time can reflect Fitbit's double credit for vigorous zones rather than a timing error. Compare duration and activity type too; a low-AZM day may still include useful light movement or strength work.\n\n## The talk test, HRmax and HRR are not equivalent\n\nIntensity can describe external work, such as speed, or internal responses, such as pulse and perceived effort. The same running pace can be easy for one person and hard for another. Heat, fatigue and medication can also alter the relationship.\n\n**Percentage of maximum heart rate** and **percentage of heart-rate reserve** use different denominators. Reserve is the difference between maximum and resting rates. A percentage from one system cannot be read using the other's table. Age-based maximum-pulse formulas estimate rather than measure an individual's threshold.\n\nThe talk test provides a practical check: moderate work generally permits conversation, while vigorous work limits continuous speech. It does not precisely establish a lactate threshold or Zone 2 across every three- or five-zone model. Identify the zone system and combine it with experience instead of treating display colors as absolute boundaries. [3](https://www.cdc.gov/physicalactivity/basics/measuring/index.html) [2](https://www.who.int/news-room/fact-sheets/detail/physical-activity)\n\n## Why load scores do not add like workout minutes\n\nWHOOP describes Strain as a non-linear 0–21 score reflecting cardiovascular and muscular load. Its increase is not a minute counter, and two activity scores do not simply add to produce the daily score.\n\nCardiovascular load relates to heart-rate response, while muscular load depends on information about activity and muscle work. Lifting can produce substantial local fatigue without continuously high pulse. Conversely, an elevated daily pulse does not establish a muscle-building stimulus. The software is combining different aspects of exertion.\n\nManufacturer documentation explains a product rather than a biological unit shared with other brands. A Strain point cannot be converted into cortisol or tissue damage. Keep the actual training record—activities, duration, sets, effort and subsequent response—alongside the score. The summary complements that record rather than replacing it. [4](https://support.whoop.com/s/article/WHOOP-Strain) [5](https://pubmed.ncbi.nlm.nih.gov/29345524/)\n\n## Lactate clearance, soreness and recovery are different\n\nRecovery includes circulatory adjustment, fuel use and replacement, tissue responses, sleep and perceived fatigue. Immediate comfort does not establish faster recovery of every system. Feeling better and being ready to repeat a hard session are different outcomes.\n\nLactate participates in metabolism and can serve as fuel; it is not a toxin trapped for days that causes delayed soreness. Light activity can accelerate clearance in some circumstances without demonstrating less next-day soreness or faster tissue repair.\n\nActive recovery should remain genuinely easy. Turning a rest day into cardio to earn app points adds load. Complete rest can suit illness, substantial fatigue or injury protection. The choice should fit symptoms and the wider training plan rather than a claim that one method always wins. [6](https://pubmed.ncbi.nlm.nih.gov/29663142/) [5](https://pubmed.ncbi.nlm.nih.gov/29345524/)\n\n## A comparison for practical interpretation\n\n| Method | Useful role | Not equivalent to |\n|---|---|---|\n| Talk test | Practical effort estimate | Laboratory lactate testing |\n| Percentage HRmax | Maximum-pulse zones | The same percentage HRR |\n| Percentage HRR | Accounts for resting pulse | A precise threshold with estimated HRmax |\n| Perceived effort | Actual experience | A hormone or tissue-damage test |\n\n## Checking the original sources: findings and limits\n\nA Fitbit calculation example is **10 moderate minutes + 10 vigorous minutes = 30 AZM**, although elapsed activity is 20 minutes. This explains product arithmetic, not a clinical trial result. Public activity guidance and AZM scoring are related concepts but different types of evidence.\n\n[1](https://support.google.com/googlehealth/answer/14236509?hl=en)\n\n## Putting this into practice and evaluating the response\n\nReview duration, perceived effort and activity type together. Beginners can build up from short sessions. Do not neglect strength work just because it earns fewer AZM.\n\n1. **State the session purpose.** Endurance, strength and recovery do not require identical effort.\n2. **Keep the actual work record.** Add activity, time or sets and effort alongside load scores.\n3. **Respond to conditions.** Heat, poor sleep, pain or illness can change a suitable workload.\n4. **Consider sustainability.** Easier function and appropriate recovery matter; more points are not an independent health goal.\n\n## When to seek support\n\nAZM is a product metric, not a complete medical measure of exercise benefit. Light walking and less sitting still matter without zone credit.\n\nHeart conditions or pulse-altering medicines may make automatic zones unsuitable. Ask about an appropriate exercise intensity.\n\n## References and what they support\n\n1. [Google Health Help — Track Active Zone Minutes or active minutes on your Fitbit device and Pixel Watch](https://support.google.com/googlehealth/answer/14236509?hl=en) — Manufacturer documentation. Supports: Fitbit AZM calculation; not a clinical efficacy study.\n\n2. [WHO — Physical activity](https://www.who.int/news-room/fact-sheets/detail/physical-activity) — Public health guideline summary. Supports: Activity recommendations by population.\n\n3. [CDC — Measuring Physical Activity Intensity](https://www.cdc.gov/physicalactivity/basics/measuring/index.html) — Public health guidance. Supports: Talk test for moderate and vigorous activity.\n\n4. [WHOOP — WHOOP Strain](https://support.whoop.com/s/article/WHOOP-Strain) — Manufacturer documentation. Supports: WHOOP-specific non-linear 0–21 load score.\n\n5. [Kellmann et al. (2018) — Recovery and Performance in Sport: Consensus Statement](https://pubmed.ncbi.nlm.nih.gov/29345524/) — Consensus statement. Supports: Individual recovery, training load and life demands.\n\n6. [Van Hooren & Peake (2018) — Do We Need a Cool-Down After Exercise?](https://pubmed.ncbi.nlm.nih.gov/29663142/) — Narrative review. Supports: Limited evidence for active cool-down effects on soreness and recovery.\n\n> Content and sources updated: 26 October 2026. Educational content; clinical sign-off has not been recorded.\n",
     "takeaway": "Review duration, perceived effort and activity type together. Beginners can build up from short sessions. Do not neglect strength work just because it earns fewer AZM.",
     "reading_time": "5 min",
-    "thumbnail": "images/LM_AC_01_hero.jpg",
+    "thumbnail": "images/researched/batch-01/LM_AC_01_hero.jpg",
     "source_name": "Google Health Help — Track Active Zone Minutes or active minutes on your Fitbit device and Pixel Watch",
     "source_url": "https://support.google.com/googlehealth/answer/14236509?hl=en",
-    "hero_image": "images/LM_AC_01_hero.jpg",
-    "inline_image": "",
-    "inline_caption": "",
+    "hero_image": "images/researched/batch-01/LM_AC_01_hero.jpg",
+    "inline_image": "images/researched/batch-01/LM_AC_01_inline.jpg",
+    "inline_caption": "Brisk walking is an activity example; zone minutes also depend on heart rate and the device calculation.",
     "title_vi": "Active Zone Minutes: hiểu đúng phút vận động của Fitbit",
     "description_vi": "Active Zone Minutes là cách Fitbit ghi nhận vận động theo cường độ nhịp tim.",
     "takeaway_vi": "Xem đồng thời thời lượng, mức gắng sức và loại hoạt động. Người mới có thể bắt đầu từ những buổi ngắn, tăng dần theo khả năng; đừng bỏ qua bài tập sức mạnh chỉ vì chúng tạo ít AZM.",
     "reading_time_vi": "7 phút",
-    "hero_image_source_url": "https://test-repo-y1wb.onrender.com/images/LM_AC_01_hero.jpg",
-    "inline_image_source_url": "",
-    "inline_caption_vi": "",
+    "hero_image_source_url": "https://commons.wikimedia.org/wiki/File:Fitbit_inspire_3_(55322650282).jpg",
+    "inline_image_source_url": "https://commons.wikimedia.org/wiki/File:Brisk_Walking_-_Shimla_2014-05-08_1498.JPG",
+    "inline_caption_vi": "Đi bộ nhanh là một ví dụ vận động; số phút vùng hoạt động còn phụ thuộc nhịp tim và cách tính của thiết bị.",
     "content_vi": "Active Zone Minutes là cách Fitbit ghi nhận vận động theo cường độ nhịp tim. Một phút vùng vừa thường được tính một AZM; vùng mạnh hoặc đỉnh được tính hai. Do đó tổng AZM có thể lớn hơn thời gian buổi tập thực tế.\n\n**Tình huống minh họa:** Một buổi tập có AZM cao hơn số phút trên đồng hồ không có nghĩa thiết bị cộng sai thời gian. Fitbit có thể tính gấp đôi phút ở vùng mạnh. Khi so các tuần, hãy giữ cả thời lượng và loại vận động; một ngày có ít AZM vẫn có thể bao gồm vận động nhẹ hoặc tập sức mạnh có ích.\n\n## Talk test, HRmax và HRR: ba cách không hoàn toàn giống nhau\n\nCường độ có thể được mô tả theo công việc bên ngoài như tốc độ, hoặc phản ứng bên trong như nhịp tim và cảm giác gắng sức. Cùng một tốc độ chạy có thể nhẹ với người này và nặng với người khác. Nhiệt, mệt và thuốc cũng có thể làm quan hệ giữa tốc độ và mạch thay đổi.\n\n**Phần trăm nhịp tim tối đa** và **phần trăm dự trữ nhịp tim** dùng mẫu số khác nhau. Dự trữ nhịp tim là chênh lệch giữa nhịp tối đa và lúc nghỉ. Vì vậy, không lấy một phần trăm của hệ này để đọc bảng của hệ kia. Công thức dự đoán nhịp tối đa theo tuổi chỉ là ước lượng, không phải ngưỡng sinh lý được đo của riêng bạn.\n\nTalk test cung cấp cách kiểm tra thực tế hơn khi không có đo chuyên sâu: ở mức vừa thường còn trò chuyện được, trong khi mức mạnh khiến bạn khó nói nhiều từ liền. Tuy nhiên, nó không xác nhận chính xác ngưỡng lactate hoặc “Zone 2” trong mọi mô hình ba hay năm vùng. Nên ghi rõ hệ vùng đang dùng rồi kết hợp phản ứng thực tế, thay vì biến màu trên đồng hồ thành ranh giới tuyệt đối. [3](https://www.cdc.gov/physicalactivity/basics/measuring/index.html) [2](https://www.who.int/news-room/fact-sheets/detail/physical-activity)\n\n## Vì sao điểm tải không cộng như thời gian tập?\n\nWHOOP mô tả Strain là thang phi tuyến từ 0 đến 21, phản ánh tải tim mạch và tải cơ bắp. Khi cường độ và thời gian thay đổi, cách điểm tăng không giống một bộ đếm phút. Vì vậy, hai buổi có điểm riêng bằng nhau không có nghĩa tổng ngày là phép cộng hai con số đó.\n\nTải tim mạch liên quan phản ứng nhịp tim, trong khi tải cơ bắp cần thông tin về loại vận động và hoạt động cơ. Nâng tạ có thể tạo mỏi cơ đáng kể dù nhịp tim không cao liên tục như chạy. Cũng không nên hiểu chiều ngược lại rằng nhịp tim cao trong ngày đã chứng minh có kích thích tăng cơ. Đây là những thành phần khác nhau mà phần mềm cố tổng hợp.\n\nTài liệu hãng hữu ích để hiểu tính năng hiện hành, nhưng không cung cấp một đơn vị sinh học dùng chung với hãng khác. Không đổi một điểm Strain sang một lượng cortisol hay mức tổn thương mô. Khi đánh giá một tuần, hãy giữ cả dữ liệu công việc thực tế: bài tập, thời lượng, số hiệp, cảm giác gắng sức và phản ứng ngày kế tiếp. Điểm số bổ sung cho nhật ký đó, không thay thế nó. [4](https://support.whoop.com/s/article/WHOOP-Strain) [5](https://pubmed.ncbi.nlm.nih.gov/29345524/)\n\n## Lactate, đau cơ muộn và phục hồi không phải cùng một việc\n\nSau một buổi tập, nhiều quá trình diễn ra đồng thời: điều chỉnh tuần hoàn, sử dụng và tái tạo nhiên liệu, đáp ứng mô cơ, ngủ và cảm giác mệt. Vì vậy, một biện pháp làm bạn thấy dễ chịu ngay không tự chứng minh đã tăng tốc mọi phần phục hồi. “Cảm thấy đỡ” và “sẵn sàng lặp lại buổi nặng” là hai kết quả khác nhau.\n\nLactate là một phần của chuyển hóa và có thể được dùng làm nhiên liệu; nó không phải chất độc nằm lại trong cơ nhiều ngày gây đau cơ muộn. Vận động nhẹ có thể thúc đẩy xử lý lactate trong một số bối cảnh, nhưng điều đó không đủ để kết luận sẽ giảm đau cơ ngày hôm sau hoặc sửa chữa mô nhanh hơn.\n\nPhục hồi chủ động phù hợp khi mức vận động thật sự nhẹ và bạn thấy dễ chịu. Nếu biến ngày nghỉ thành một buổi cardio để tăng điểm app, bạn đã tạo thêm tải. Ngược lại, nghỉ hoàn toàn có thể phù hợp khi đang bệnh, rất mệt hoặc cần bảo vệ chấn thương. Chọn phương án dựa trên triệu chứng và kế hoạch chung, thay vì xem một bên luôn vượt trội. [6](https://pubmed.ncbi.nlm.nih.gov/29663142/) [5](https://pubmed.ncbi.nlm.nih.gov/29345524/)\n\n## Bảng đối chiếu để đọc đúng thông tin\n\n| Cách mô tả | Giá trị sử dụng | Không được đồng nhất với |\n|---|---|---|\n| Talk test | Ước lượng mức gắng sức khi hoạt động | Đo ngưỡng lactate trong lab |\n| Phần trăm HRmax | Vùng theo nhịp tim tối đa | Cùng phần trăm HRR |\n| Phần trăm HRR | Tính cả nền lúc nghỉ | Một ngưỡng chính xác nếu HRmax chỉ là dự đoán |\n| Cảm giác gắng sức | Phản hồi thực tế của người tập | Phép đo hormone hoặc tổn thương cơ |\n\n## Đối chiếu tài liệu gốc: kết quả và giới hạn\n\nVí dụ tính điểm theo tài liệu Fitbit: **10 phút ở vùng vừa + 10 phút ở vùng mạnh = 30 AZM**, dù thời gian vận động là 20 phút. Đây là phép minh họa cách sản phẩm tính điểm, không phải kết quả một thử nghiệm sức khỏe. Khuyến nghị vận động và thuật toán tính AZM liên quan nhau ở cách quy đổi cường độ, nhưng không phải cùng một loại nguồn bằng chứng.\n\n[1](https://support.google.com/googlehealth/answer/14236509?hl=en)\n\n## Ứng dụng thực tế: làm gì và đánh giá bằng cách nào?\n\nXem đồng thời thời lượng, mức gắng sức và loại hoạt động. Người mới có thể bắt đầu từ những buổi ngắn, tăng dần theo khả năng; đừng bỏ qua bài tập sức mạnh chỉ vì chúng tạo ít AZM.\n\n1. **Nêu mục đích buổi tập.** Phát triển sức bền, sức mạnh hoặc phục hồi không cần cùng một mức gắng sức.\n2. **Giữ dữ liệu công việc thực tế.** Ghi loại bài, thời lượng hoặc số hiệp cùng cảm giác, để điểm tải không tách khỏi điều đã làm.\n3. **Điều chỉnh theo phản ứng.** Nóng, ngủ kém, đau hoặc bệnh có thể khiến mức phù hợp hôm nay khác hôm trước.\n4. **Xem khả năng duy trì.** Tiến triển có ý nghĩa gồm hoạt động dễ hơn và hồi phục phù hợp; tăng điểm không phải mục tiêu sức khỏe độc lập.\n\n## Khi nào nên tìm hỗ trợ?\n\nAZM là tính năng sản phẩm, không phải đơn vị y khoa đo toàn bộ lợi ích vận động. Đi bộ nhẹ và giảm thời gian ngồi vẫn có giá trị, dù chưa đạt vùng nhịp tim.\n\nThuốc ảnh hưởng nhịp tim hoặc bệnh tim có thể làm vùng tính sẵn không phù hợp; hỏi bác sĩ về cường độ tập.\n\n## Nguồn tham khảo và phạm vi hỗ trợ\n\n1. [Google Health Help — Track Active Zone Minutes or active minutes on your Fitbit device and Pixel Watch](https://support.google.com/googlehealth/answer/14236509?hl=en) — Manufacturer documentation. Hỗ trợ: Cách tính AZM riêng của Fitbit; không phải nghiên cứu hiệu quả lâm sàng.\n\n2. [WHO — Physical activity](https://www.who.int/news-room/fact-sheets/detail/physical-activity) — Public health guideline summary. Hỗ trợ: Khuyến nghị vận động theo nhóm đối tượng.\n\n3. [CDC — Measuring Physical Activity Intensity](https://www.cdc.gov/physicalactivity/basics/measuring/index.html) — Public health guidance. Hỗ trợ: Talk test phân biệt vận động vừa và mạnh.\n\n4. [WHOOP — WHOOP Strain](https://support.whoop.com/s/article/WHOOP-Strain) — Manufacturer documentation. Hỗ trợ: Thang tải 0–21 phi tuyến riêng của WHOOP.\n\n5. [Kellmann et al. (2018) — Recovery and Performance in Sport: Consensus Statement](https://pubmed.ncbi.nlm.nih.gov/29345524/) — Consensus statement. Hỗ trợ: Phục hồi cần cá nhân hóa, gồm tải tập và áp lực cuộc sống.\n\n6. [Van Hooren & Peake (2018) — Do We Need a Cool-Down After Exercise?](https://pubmed.ncbi.nlm.nih.gov/29663142/) — Narrative review. Hỗ trợ: Hạn chế bằng chứng về giảm đau cơ và phục hồi nhờ hạ nhiệt chủ động.\n\n> Cập nhật nội dung và nguồn: 26/10/2026. Nội dung giáo dục; chưa có xác nhận duyệt bởi bác sĩ.\n",
     "references": [
       {
@@ -933,7 +1405,7 @@ const articles = [
     "source_checked_date": "2026-10-26",
     "editorial_review_status": "Long-form development of original outline; sources checked",
     "clinical_review_status": "Not recorded",
-    "image_provenance": "Hero restored from the original project library. Retained diagrams are illustrations, not study outcome data. Summary guidance is article text, not an image.",
+    "image_provenance": "Image research batch 01: visible subject, source metadata and reuse terms checked. See image_attributions for each asset.",
     "public_url": "https://test-repo-y1wb.onrender.com/posts/LM_AC_01.html",
     "baseline_revision": "f68c786",
     "content_edition": "Long-form development of the original topic outline",
@@ -949,7 +1421,66 @@ const articles = [
       "intensity_methods",
       "strain_product",
       "recovery_mechanism"
-    ]
+    ],
+    "hero_caption": "A Fitbit Inspire 3 device; a product photograph rather than an Active Zone Minutes report.",
+    "hero_caption_vi": "Thiết bị Fitbit Inspire 3; ảnh minh họa sản phẩm, không phải báo cáo Active Zone Minutes.",
+    "hero_image_fit": "contain",
+    "image_attributions": [
+      {
+        "article_id": "LM_AC_01",
+        "role": "hero",
+        "asset": "images/researched/batch-01/LM_AC_01_hero.jpg",
+        "title": "Fitbit inspire 3 (55322650282).jpg",
+        "source_page": "https://commons.wikimedia.org/wiki/File:Fitbit_inspire_3_(55322650282).jpg",
+        "source_asset_url": "https://upload.wikimedia.org/wikipedia/commons/2/2f/Fitbit_inspire_3_%2855322650282%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "download_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2f/Fitbit_inspire_3_%2855322650282%29.jpg/1280px-Fitbit_inspire_3_%2855322650282%29.jpg",
+        "author": "Tatsuo Yamashita",
+        "license": "CC BY 4.0",
+        "license_url": "https://creativecommons.org/licenses/by/4.0",
+        "caption_vi": "Thiết bị Fitbit Inspire 3; ảnh minh họa sản phẩm, không phải báo cáo Active Zone Minutes.",
+        "caption_en": "A Fitbit Inspire 3 device; a product photograph rather than an Active Zone Minutes report.",
+        "alt_vi": "Thiết bị Fitbit Inspire 3; ảnh minh họa sản phẩm, không phải báo cáo Active Zone Minutes.",
+        "alt_en": "A Fitbit Inspire 3 device; a product photograph rather than an Active Zone Minutes report.",
+        "relevance_vi": "Đúng hãng và mẫu thiết bị; không nhầm số giờ trên màn hình thành AZM.",
+        "modifications_vi": "Bản thu nhỏ; giữ nguyên nội dung.",
+        "modifications_en": "Thumbnail; image content unchanged.",
+        "fit": "contain",
+        "width": 1280,
+        "height": 960,
+        "sha256": "18bd5347b07332c3042d248e04dcc90bb765b120e5a699f367b8d600f15dcd70",
+        "checked_date": "2026-10-26",
+        "review_status": "Subject, source and licence checked",
+        "batch": 1
+      },
+      {
+        "article_id": "LM_AC_01",
+        "role": "inline",
+        "asset": "images/researched/batch-01/LM_AC_01_inline.jpg",
+        "title": "Brisk Walking - Shimla 2014-05-08 1498.JPG",
+        "source_page": "https://commons.wikimedia.org/wiki/File:Brisk_Walking_-_Shimla_2014-05-08_1498.JPG",
+        "source_asset_url": "https://upload.wikimedia.org/wikipedia/commons/a/a1/Brisk_Walking_-_Shimla_2014-05-08_1498.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "download_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a1/Brisk_Walking_-_Shimla_2014-05-08_1498.JPG/1280px-Brisk_Walking_-_Shimla_2014-05-08_1498.JPG",
+        "author": "Biswarup Ganguly",
+        "license": "CC BY 3.0",
+        "license_url": "https://creativecommons.org/licenses/by/3.0",
+        "caption_vi": "Đi bộ nhanh là một ví dụ vận động; số phút vùng hoạt động còn phụ thuộc nhịp tim và cách tính của thiết bị.",
+        "caption_en": "Brisk walking is an activity example; zone minutes also depend on heart rate and the device calculation.",
+        "alt_vi": "Đi bộ nhanh là một ví dụ vận động; số phút vùng hoạt động còn phụ thuộc nhịp tim và cách tính của thiết bị.",
+        "alt_en": "Brisk walking is an activity example; zone minutes also depend on heart rate and the device calculation.",
+        "relevance_vi": "Nguồn ảnh ghi Brisk Walking; không suy người mẫu chắc chắn đạt vùng nhịp tim nào.",
+        "modifications_vi": "Bản thu nhỏ; giữ nguyên nội dung.",
+        "modifications_en": "Thumbnail; image content unchanged.",
+        "fit": "contain",
+        "width": 1280,
+        "height": 1925,
+        "sha256": "44decc5faac69ca5816fbd422408c83223b13ac6dc5288d2adcce19cce556dcb",
+        "checked_date": "2026-10-26",
+        "review_status": "Subject, source and licence checked",
+        "batch": 1
+      }
+    ],
+    "image_review_batch": 1,
+    "image_review_status": "Subject, source and licence checked — batch 01"
   },
   {
     "id": "LM_AC_02",
@@ -965,17 +1496,17 @@ const articles = [
     "content": "WHOOP Strain is a proprietary, non-linear 0–21 summary of cardiovascular and muscular load. Moving from 10 to 14 does not represent the same effort as 0 to 4. Day Strain is not a simple sum of activity scores.\n\n**Illustrative situation:** Adding two activity scores is not appropriate for a non-linear daily scale. Read the app's daily total alongside actual work, effort and next-day response. A high score is not independently a health achievement.\n\n## Why load scores do not add like workout minutes\n\nWHOOP describes Strain as a non-linear 0–21 score reflecting cardiovascular and muscular load. Its increase is not a minute counter, and two activity scores do not simply add to produce the daily score.\n\nCardiovascular load relates to heart-rate response, while muscular load depends on information about activity and muscle work. Lifting can produce substantial local fatigue without continuously high pulse. Conversely, an elevated daily pulse does not establish a muscle-building stimulus. The software is combining different aspects of exertion.\n\nManufacturer documentation explains a product rather than a biological unit shared with other brands. A Strain point cannot be converted into cortisol or tissue damage. Keep the actual training record—activities, duration, sets, effort and subsequent response—alongside the score. The summary complements that record rather than replacing it. [1](https://support.whoop.com/s/article/WHOOP-Strain) [2](https://pubmed.ncbi.nlm.nih.gov/29345524/)\n\n## The talk test, HRmax and HRR are not equivalent\n\nIntensity can describe external work, such as speed, or internal responses, such as pulse and perceived effort. The same running pace can be easy for one person and hard for another. Heat, fatigue and medication can also alter the relationship.\n\n**Percentage of maximum heart rate** and **percentage of heart-rate reserve** use different denominators. Reserve is the difference between maximum and resting rates. A percentage from one system cannot be read using the other's table. Age-based maximum-pulse formulas estimate rather than measure an individual's threshold.\n\nThe talk test provides a practical check: moderate work generally permits conversation, while vigorous work limits continuous speech. It does not precisely establish a lactate threshold or Zone 2 across every three- or five-zone model. Identify the zone system and combine it with experience instead of treating display colors as absolute boundaries. [4](https://www.cdc.gov/physicalactivity/basics/measuring/index.html) [5](https://www.who.int/news-room/fact-sheets/detail/physical-activity)\n\n## Adaptation, excessive load and exclusion diagnosis\n\nTraining creates stimulus and fatigue; recovery contributes to adaptation. A supercompensation diagram illustrates a concept rather than predicting each person's precise performance curve or the day a personal record should occur.\n\nThe ECSS/ACSM consensus distinguishes functional overreaching, non-functional overreaching and overtraining syndrome through performance, recovery and clinical assessment, not a fixed HRV decline. Fatigue, poor sleep and falling performance can also occur with low energy availability, anaemia, infection or other conditions.\n\nReducing load is a programming adjustment rather than a diagnostic test. Failure to recover after a few days does not establish a “parasympathetic exhaustion” stage. Consider trends, food intake, life pressures and symptoms. Persistent problems require investigation before increasingly elaborate training prescriptions. [3](https://pubmed.ncbi.nlm.nih.gov/23247672/) [2](https://pubmed.ncbi.nlm.nih.gov/29345524/) [6](https://bjsm.bmj.com/content/57/17/1073)\n\n## Lactate clearance, soreness and recovery are different\n\nRecovery includes circulatory adjustment, fuel use and replacement, tissue responses, sleep and perceived fatigue. Immediate comfort does not establish faster recovery of every system. Feeling better and being ready to repeat a hard session are different outcomes.\n\nLactate participates in metabolism and can serve as fuel; it is not a toxin trapped for days that causes delayed soreness. Light activity can accelerate clearance in some circumstances without demonstrating less next-day soreness or faster tissue repair.\n\nActive recovery should remain genuinely easy. Turning a rest day into cardio to earn app points adds load. Complete rest can suit illness, substantial fatigue or injury protection. The choice should fit symptoms and the wider training plan rather than a claim that one method always wins. [7](https://pubmed.ncbi.nlm.nih.gov/29663142/) [2](https://pubmed.ncbi.nlm.nih.gov/29345524/)\n\n## A comparison for practical interpretation\n\n| Data | Useful interpretation | Not directly established |\n|---|---|---|\n| AZM | Fitbit zone-based minutes | Every benefit of all movement |\n| Day Strain | WHOOP load model | Linear sum of activity scores |\n| Muscular load | One aspect of work | Guaranteed muscle gain |\n| Recovery score | Context alongside symptoms | Medical clearance for hard exercise |\n\n## Putting this into practice and evaluating the response\n\nCompare similar days within your own history. Add perceived effort, soreness and actual performance. Modify training for fatigue or pain even when the app suggests more load.\n\n1. **State the session purpose.** Endurance, strength and recovery do not require identical effort.\n2. **Keep the actual work record.** Add activity, time or sets and effort alongside load scores.\n3. **Respond to conditions.** Heat, poor sleep, pain or illness can change a suitable workload.\n4. **Consider sustainability.** Easier function and appropriate recovery matter; more points are not an independent health goal.\n\n## When to seek support\n\nManufacturer documentation explains the product, not a guarantee of injury prevention or muscle growth. Do not convert points into calories, cortisol or tissue damage.\n\nPersistent fatigue and falling performance warrant review of health, nutrition and training with a qualified professional.\n\n## References and what they support\n\n1. [WHOOP — WHOOP Strain](https://support.whoop.com/s/article/WHOOP-Strain) — Manufacturer documentation. Supports: WHOOP-specific non-linear 0–21 load score.\n\n2. [Kellmann et al. (2018) — Recovery and Performance in Sport: Consensus Statement](https://pubmed.ncbi.nlm.nih.gov/29345524/) — Consensus statement. Supports: Individual recovery, training load and life demands.\n\n3. [Meeusen et al. (2013) — Prevention, diagnosis, and treatment of the overtraining syndrome](https://pubmed.ncbi.nlm.nih.gov/23247672/) — Joint consensus statement. Supports: Overtraining, exclusion diagnosis and absence of a single marker.\n\n4. [CDC — Measuring Physical Activity Intensity](https://www.cdc.gov/physicalactivity/basics/measuring/index.html) — Public health guidance. Supports: Talk test for moderate and vigorous activity.\n\n5. [WHO — Physical activity](https://www.who.int/news-room/fact-sheets/detail/physical-activity) — Public health guideline summary. Supports: Activity recommendations by population.\n\n6. [Mountjoy et al. (2023) — IOC consensus statement on Relative Energy Deficiency in Sport (REDs)](https://bjsm.bmj.com/content/57/17/1073) — Consensus statement. Supports: Low energy availability, bone, menstrual health and multidisciplinary assessment.\n\n7. [Van Hooren & Peake (2018) — Do We Need a Cool-Down After Exercise?](https://pubmed.ncbi.nlm.nih.gov/29663142/) — Narrative review. Supports: Limited evidence for active cool-down effects on soreness and recovery.\n\n> Content and sources updated: 26 October 2026. Educational content; clinical sign-off has not been recorded.\n",
     "takeaway": "Compare similar days within your own history. Add perceived effort, soreness and actual performance. Modify training for fatigue or pain even when the app suggests more load.",
     "reading_time": "5 min",
-    "thumbnail": "images/LM_AC_02_hero.jpg",
+    "thumbnail": "images/researched/batch-01/LM_AC_02_hero.jpg",
     "source_name": "WHOOP — WHOOP Strain",
     "source_url": "https://support.whoop.com/s/article/WHOOP-Strain",
-    "hero_image": "images/LM_AC_02_hero.jpg",
+    "hero_image": "images/researched/batch-01/LM_AC_02_hero.jpg",
     "inline_image": "",
     "inline_caption": "",
     "title_vi": "Day Strain 0–21: hiểu thang tải riêng của WHOOP",
     "description_vi": "WHOOP Strain là thang 0–21 phi tuyến do hãng xây dựng để tóm tắt tải tim mạch và cơ bắp.",
     "takeaway_vi": "Dùng điểm để xem tải ngày này so với những ngày tương tự của chính bạn. Ghi thêm mức gắng sức, đau cơ và hiệu suất thực tế. Điều chỉnh bài tập khi thấy mệt hoặc đau, ngay cả khi ứng dụng còn đề xuất tăng tải.",
     "reading_time_vi": "8 phút",
-    "hero_image_source_url": "https://test-repo-y1wb.onrender.com/images/LM_AC_02_hero.jpg",
+    "hero_image_source_url": "https://commons.wikimedia.org/wiki/File:Ella_Seidel,_May_2026,_Roma.jpg",
     "inline_image_source_url": "",
     "inline_caption_vi": "",
     "content_vi": "WHOOP Strain là thang 0–21 phi tuyến do hãng xây dựng để tóm tắt tải tim mạch và cơ bắp. Đi từ 10 lên 14 không tương đương cùng một lượng công sức như đi từ 0 lên 4. Day Strain không đơn giản là cộng điểm từng buổi.\n\n**Tình huống minh họa:** Bạn hoàn thành hai hoạt động và muốn cộng điểm để biết Day Strain cuối ngày. Với thang phi tuyến, cách cộng đó không phù hợp. Thay vào đó, xem tổng do ứng dụng báo cùng nhật ký buổi tập, cảm giác gắng sức và phản ứng ngày hôm sau; điểm cao không tự là một thành tích sức khỏe.\n\n## Vì sao điểm tải không cộng như thời gian tập?\n\nWHOOP mô tả Strain là thang phi tuyến từ 0 đến 21, phản ánh tải tim mạch và tải cơ bắp. Khi cường độ và thời gian thay đổi, cách điểm tăng không giống một bộ đếm phút. Vì vậy, hai buổi có điểm riêng bằng nhau không có nghĩa tổng ngày là phép cộng hai con số đó.\n\nTải tim mạch liên quan phản ứng nhịp tim, trong khi tải cơ bắp cần thông tin về loại vận động và hoạt động cơ. Nâng tạ có thể tạo mỏi cơ đáng kể dù nhịp tim không cao liên tục như chạy. Cũng không nên hiểu chiều ngược lại rằng nhịp tim cao trong ngày đã chứng minh có kích thích tăng cơ. Đây là những thành phần khác nhau mà phần mềm cố tổng hợp.\n\nTài liệu hãng hữu ích để hiểu tính năng hiện hành, nhưng không cung cấp một đơn vị sinh học dùng chung với hãng khác. Không đổi một điểm Strain sang một lượng cortisol hay mức tổn thương mô. Khi đánh giá một tuần, hãy giữ cả dữ liệu công việc thực tế: bài tập, thời lượng, số hiệp, cảm giác gắng sức và phản ứng ngày kế tiếp. Điểm số bổ sung cho nhật ký đó, không thay thế nó. [1](https://support.whoop.com/s/article/WHOOP-Strain) [2](https://pubmed.ncbi.nlm.nih.gov/29345524/)\n\n## Talk test, HRmax và HRR: ba cách không hoàn toàn giống nhau\n\nCường độ có thể được mô tả theo công việc bên ngoài như tốc độ, hoặc phản ứng bên trong như nhịp tim và cảm giác gắng sức. Cùng một tốc độ chạy có thể nhẹ với người này và nặng với người khác. Nhiệt, mệt và thuốc cũng có thể làm quan hệ giữa tốc độ và mạch thay đổi.\n\n**Phần trăm nhịp tim tối đa** và **phần trăm dự trữ nhịp tim** dùng mẫu số khác nhau. Dự trữ nhịp tim là chênh lệch giữa nhịp tối đa và lúc nghỉ. Vì vậy, không lấy một phần trăm của hệ này để đọc bảng của hệ kia. Công thức dự đoán nhịp tối đa theo tuổi chỉ là ước lượng, không phải ngưỡng sinh lý được đo của riêng bạn.\n\nTalk test cung cấp cách kiểm tra thực tế hơn khi không có đo chuyên sâu: ở mức vừa thường còn trò chuyện được, trong khi mức mạnh khiến bạn khó nói nhiều từ liền. Tuy nhiên, nó không xác nhận chính xác ngưỡng lactate hoặc “Zone 2” trong mọi mô hình ba hay năm vùng. Nên ghi rõ hệ vùng đang dùng rồi kết hợp phản ứng thực tế, thay vì biến màu trên đồng hồ thành ranh giới tuyệt đối. [4](https://www.cdc.gov/physicalactivity/basics/measuring/index.html) [5](https://www.who.int/news-room/fact-sheets/detail/physical-activity)\n\n## Thích nghi, quá tải và chẩn đoán loại trừ\n\nTập luyện tạo kích thích và mệt mỏi; thời gian hồi phục giúp chuyển kích thích đó thành thích nghi. Sơ đồ siêu bù trừ là cách minh họa khái niệm, không phải đường cong dự báo chính xác hiệu suất của mỗi người sau từng buổi. Không thể chỉ đọc một đồ thị để biết ngày nào bắt buộc phải đạt kỷ lục.\n\nĐồng thuận ECSS/ACSM phân biệt quá tải chức năng, quá tải không chức năng và hội chứng tập quá sức bằng diễn biến hiệu suất, khả năng hồi phục và đánh giá lâm sàng. Ranh giới không được xác định bằng một tỷ lệ HRV giảm cố định. Những biểu hiện như mệt, ngủ kém và giảm thành tích cũng có thể gặp khi thiếu năng lượng, thiếu máu, nhiễm bệnh hoặc có vấn đề sức khỏe khác.\n\nVì vậy, giảm tải là một cách điều chỉnh chương trình, không phải phép thử tự chẩn đoán: nếu nghỉ vài ngày vẫn chưa tốt, chưa đủ kết luận bạn đang ở một giai đoạn “suy kiệt đối giao cảm”. Hãy nhìn vào xu hướng, mức ăn uống, áp lực cuộc sống và triệu chứng. Người có dấu hiệu kéo dài cần được tìm nguyên nhân trước khi tiếp tục thử những lịch tập ngày càng phức tạp. [3](https://pubmed.ncbi.nlm.nih.gov/23247672/) [2](https://pubmed.ncbi.nlm.nih.gov/29345524/) [6](https://bjsm.bmj.com/content/57/17/1073)\n\n## Lactate, đau cơ muộn và phục hồi không phải cùng một việc\n\nSau một buổi tập, nhiều quá trình diễn ra đồng thời: điều chỉnh tuần hoàn, sử dụng và tái tạo nhiên liệu, đáp ứng mô cơ, ngủ và cảm giác mệt. Vì vậy, một biện pháp làm bạn thấy dễ chịu ngay không tự chứng minh đã tăng tốc mọi phần phục hồi. “Cảm thấy đỡ” và “sẵn sàng lặp lại buổi nặng” là hai kết quả khác nhau.\n\nLactate là một phần của chuyển hóa và có thể được dùng làm nhiên liệu; nó không phải chất độc nằm lại trong cơ nhiều ngày gây đau cơ muộn. Vận động nhẹ có thể thúc đẩy xử lý lactate trong một số bối cảnh, nhưng điều đó không đủ để kết luận sẽ giảm đau cơ ngày hôm sau hoặc sửa chữa mô nhanh hơn.\n\nPhục hồi chủ động phù hợp khi mức vận động thật sự nhẹ và bạn thấy dễ chịu. Nếu biến ngày nghỉ thành một buổi cardio để tăng điểm app, bạn đã tạo thêm tải. Ngược lại, nghỉ hoàn toàn có thể phù hợp khi đang bệnh, rất mệt hoặc cần bảo vệ chấn thương. Chọn phương án dựa trên triệu chứng và kế hoạch chung, thay vì xem một bên luôn vượt trội. [7](https://pubmed.ncbi.nlm.nih.gov/29663142/) [2](https://pubmed.ncbi.nlm.nih.gov/29345524/)\n\n## Bảng đối chiếu để đọc đúng thông tin\n\n| Dữ liệu | Dùng để hiểu | Không suy ra trực tiếp |\n|---|---|---|\n| AZM | Phút được tính theo vùng của Fitbit | Toàn bộ lợi ích của mọi hoạt động |\n| Day Strain | Tổng tải theo mô hình WHOOP | Tổng cộng tuyến tính điểm từng buổi |\n| Tải cơ bắp | Một khía cạnh của vận động | Số lượng mô cơ chắc chắn tăng |\n| Điểm hồi phục | Thông tin để tham khảo cùng triệu chứng | Giấy xác nhận an toàn tập nặng |\n\n## Ứng dụng thực tế: làm gì và đánh giá bằng cách nào?\n\nDùng điểm để xem tải ngày này so với những ngày tương tự của chính bạn. Ghi thêm mức gắng sức, đau cơ và hiệu suất thực tế. Điều chỉnh bài tập khi thấy mệt hoặc đau, ngay cả khi ứng dụng còn đề xuất tăng tải.\n\n1. **Nêu mục đích buổi tập.** Phát triển sức bền, sức mạnh hoặc phục hồi không cần cùng một mức gắng sức.\n2. **Giữ dữ liệu công việc thực tế.** Ghi loại bài, thời lượng hoặc số hiệp cùng cảm giác, để điểm tải không tách khỏi điều đã làm.\n3. **Điều chỉnh theo phản ứng.** Nóng, ngủ kém, đau hoặc bệnh có thể khiến mức phù hợp hôm nay khác hôm trước.\n4. **Xem khả năng duy trì.** Tiến triển có ý nghĩa gồm hoạt động dễ hơn và hồi phục phù hợp; tăng điểm không phải mục tiêu sức khỏe độc lập.\n\n## Khi nào nên tìm hỗ trợ?\n\nTài liệu WHOOP giải thích sản phẩm, không chứng minh một mức Strain ngăn chấn thương hoặc bảo đảm tăng cơ. Không tự dựng công thức chuyển điểm sang calo, cortisol hay tổn thương cơ.\n\nHiệu suất giảm kéo dài cùng mệt mỏi cần xem lại cả sức khỏe, dinh dưỡng và tải tập với người có chuyên môn.\n\n## Nguồn tham khảo và phạm vi hỗ trợ\n\n1. [WHOOP — WHOOP Strain](https://support.whoop.com/s/article/WHOOP-Strain) — Manufacturer documentation. Hỗ trợ: Thang tải 0–21 phi tuyến riêng của WHOOP.\n\n2. [Kellmann et al. (2018) — Recovery and Performance in Sport: Consensus Statement](https://pubmed.ncbi.nlm.nih.gov/29345524/) — Consensus statement. Hỗ trợ: Phục hồi cần cá nhân hóa, gồm tải tập và áp lực cuộc sống.\n\n3. [Meeusen et al. (2013) — Prevention, diagnosis, and treatment of the overtraining syndrome](https://pubmed.ncbi.nlm.nih.gov/23247672/) — Joint consensus statement. Hỗ trợ: Quá tải, chẩn đoán loại trừ và thiếu chỉ dấu đơn lẻ.\n\n4. [CDC — Measuring Physical Activity Intensity](https://www.cdc.gov/physicalactivity/basics/measuring/index.html) — Public health guidance. Hỗ trợ: Talk test phân biệt vận động vừa và mạnh.\n\n5. [WHO — Physical activity](https://www.who.int/news-room/fact-sheets/detail/physical-activity) — Public health guideline summary. Hỗ trợ: Khuyến nghị vận động theo nhóm đối tượng.\n\n6. [Mountjoy et al. (2023) — IOC consensus statement on Relative Energy Deficiency in Sport (REDs)](https://bjsm.bmj.com/content/57/17/1073) — Consensus statement. Hỗ trợ: Thiếu năng lượng, xương, kinh nguyệt và đánh giá đa chuyên ngành.\n\n7. [Van Hooren & Peake (2018) — Do We Need a Cool-Down After Exercise?](https://pubmed.ncbi.nlm.nih.gov/29663142/) — Narrative review. Hỗ trợ: Hạn chế bằng chứng về giảm đau cơ và phục hồi nhờ hạ nhiệt chủ động.\n\n> Cập nhật nội dung và nguồn: 26/10/2026. Nội dung giáo dục; chưa có xác nhận duyệt bởi bác sĩ.\n",
@@ -1049,7 +1580,7 @@ const articles = [
     "source_checked_date": "2026-10-26",
     "editorial_review_status": "Long-form development of original outline; sources checked",
     "clinical_review_status": "Not recorded",
-    "image_provenance": "Hero restored from the original project library. Retained diagrams are illustrations, not study outcome data. Summary guidance is article text, not an image.",
+    "image_provenance": "Image research batch 01: visible subject, source metadata and reuse terms checked. See image_attributions for each asset.",
     "public_url": "https://test-repo-y1wb.onrender.com/posts/LM_AC_02.html",
     "baseline_revision": "f68c786",
     "content_edition": "Long-form development of the original topic outline",
@@ -1066,7 +1597,40 @@ const articles = [
       "intensity_methods",
       "overload_assessment",
       "recovery_mechanism"
-    ]
+    ],
+    "hero_caption": "Tennis player Ella Seidel wearing a WHOOP band in Rome in 2026.",
+    "hero_caption_vi": "Vận động viên Ella Seidel với vòng đeo WHOOP trên sân quần vợt ở Roma năm 2026.",
+    "hero_image_fit": "cover",
+    "image_attributions": [
+      {
+        "article_id": "LM_AC_02",
+        "role": "hero",
+        "asset": "images/researched/batch-01/LM_AC_02_hero.jpg",
+        "title": "Ella Seidel, May 2026, Roma.jpg",
+        "source_page": "https://commons.wikimedia.org/wiki/File:Ella_Seidel,_May_2026,_Roma.jpg",
+        "source_asset_url": "https://upload.wikimedia.org/wikipedia/commons/9/99/Ella_Seidel%2C_May_2026%2C_Roma.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "download_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/99/Ella_Seidel%2C_May_2026%2C_Roma.jpg/1280px-Ella_Seidel%2C_May_2026%2C_Roma.jpg",
+        "author": "Raffaele Di Buono",
+        "license": "CC0",
+        "license_url": "https://creativecommons.org/publicdomain/zero/1.0/deed.en",
+        "caption_vi": "Vận động viên Ella Seidel với vòng đeo WHOOP trên sân quần vợt ở Roma năm 2026.",
+        "caption_en": "Tennis player Ella Seidel wearing a WHOOP band in Rome in 2026.",
+        "alt_vi": "Vận động viên Ella Seidel với vòng đeo WHOOP trên sân quần vợt ở Roma năm 2026.",
+        "alt_en": "Tennis player Ella Seidel wearing a WHOOP band in Rome in 2026.",
+        "relevance_vi": "Nguồn Commons phân loại People wearing Whoop bands; không suy ra Strain, HRV hay sức khỏe từ ảnh.",
+        "modifications_vi": "Bản thu nhỏ; giữ nguyên nội dung.",
+        "modifications_en": "Thumbnail; image content unchanged.",
+        "fit": "cover",
+        "width": 1280,
+        "height": 961,
+        "sha256": "33869b06a227253a982dc86cd44b382c71ca5f1dd4ef99d41c517ec0a0af07f8",
+        "checked_date": "2026-10-26",
+        "review_status": "Subject, source and licence checked",
+        "batch": 1
+      }
+    ],
+    "image_review_batch": 1,
+    "image_review_status": "Subject, source and licence checked — batch 01"
   },
   {
     "id": "DM_AC_01",
@@ -1164,7 +1728,13 @@ const articles = [
       "intensity_methods",
       "vo2_physiology",
       "recovery_mechanism"
-    ]
+    ],
+    "hero_caption": "",
+    "hero_caption_vi": "",
+    "hero_image_fit": "cover",
+    "image_attributions": [],
+    "image_review_batch": 0,
+    "image_review_status": "Pending image research session"
   },
   {
     "id": "DM_AC_02",
@@ -1262,7 +1832,13 @@ const articles = [
       "overload_assessment",
       "energy_availability",
       "recovery_mechanism"
-    ]
+    ],
+    "hero_caption": "",
+    "hero_caption_vi": "",
+    "hero_image_fit": "cover",
+    "image_attributions": [],
+    "image_review_batch": 0,
+    "image_review_status": "Pending image research session"
   },
   {
     "id": "LM_HW_01",
@@ -1368,7 +1944,13 @@ const articles = [
       "stress_sensors",
       "hrv_context",
       "breathing_physiology"
-    ]
+    ],
+    "hero_caption": "",
+    "hero_caption_vi": "",
+    "hero_image_fit": "cover",
+    "image_attributions": [],
+    "image_review_batch": 0,
+    "image_review_status": "Pending image research session"
   },
   {
     "id": "LM_HW_02",
@@ -1466,7 +2048,13 @@ const articles = [
       "vo2_physiology",
       "intensity_methods",
       "heart_output"
-    ]
+    ],
+    "hero_caption": "",
+    "hero_caption_vi": "",
+    "hero_image_fit": "cover",
+    "image_attributions": [],
+    "image_review_batch": 0,
+    "image_review_status": "Pending image research session"
   },
   {
     "id": "DM_HW_01",
@@ -1583,7 +2171,13 @@ const articles = [
       "breathing_physiology",
       "stress_sensors",
       "hrv_context"
-    ]
+    ],
+    "hero_caption": "",
+    "hero_caption_vi": "",
+    "hero_image_fit": "cover",
+    "image_attributions": [],
+    "image_review_batch": 0,
+    "image_review_status": "Pending image research session"
   },
   {
     "id": "DM_HW_02",
@@ -1699,7 +2293,13 @@ const articles = [
       "thermal_evidence",
       "heart_output",
       "recovery_mechanism"
-    ]
+    ],
+    "hero_caption": "",
+    "hero_caption_vi": "",
+    "hero_image_fit": "cover",
+    "image_attributions": [],
+    "image_review_batch": 0,
+    "image_review_status": "Pending image research session"
   },
   {
     "id": "LM_WH_01",
@@ -1833,7 +2433,13 @@ const articles = [
       "cycle_physiology",
       "temperature_physiology",
       "cycle_performance"
-    ]
+    ],
+    "hero_caption": "",
+    "hero_caption_vi": "",
+    "hero_image_fit": "cover",
+    "image_attributions": [],
+    "image_review_batch": 0,
+    "image_review_status": "Pending image research session"
   },
   {
     "id": "LM_WH_02",
@@ -1941,7 +2547,13 @@ const articles = [
       "mucus_physiology",
       "cycle_physiology",
       "vaginal_ecology"
-    ]
+    ],
+    "hero_caption": "",
+    "hero_caption_vi": "",
+    "hero_image_fit": "cover",
+    "image_attributions": [],
+    "image_review_batch": 0,
+    "image_review_status": "Pending image research session"
   },
   {
     "id": "LM_WH_03",
@@ -2039,7 +2651,13 @@ const articles = [
       "temperature_physiology",
       "mucus_physiology",
       "pregnancy_signs"
-    ]
+    ],
+    "hero_caption": "",
+    "hero_caption_vi": "",
+    "hero_image_fit": "cover",
+    "image_attributions": [],
+    "image_review_batch": 0,
+    "image_review_status": "Pending image research session"
   },
   {
     "id": "DM_WH_01",
@@ -2165,7 +2783,13 @@ const articles = [
       "cycle_performance",
       "cycle_physiology",
       "energy_availability"
-    ]
+    ],
+    "hero_caption": "",
+    "hero_caption_vi": "",
+    "hero_image_fit": "cover",
+    "image_attributions": [],
+    "image_review_batch": 0,
+    "image_review_status": "Pending image research session"
   },
   {
     "id": "DM_WH_02",
@@ -2289,7 +2913,13 @@ const articles = [
       "mucus_physiology",
       "temperature_physiology",
       "cycle_physiology"
-    ]
+    ],
+    "hero_caption": "",
+    "hero_caption_vi": "",
+    "hero_image_fit": "cover",
+    "image_attributions": [],
+    "image_review_batch": 0,
+    "image_review_status": "Pending image research session"
   },
   {
     "id": "DM_WH_03",
@@ -2414,7 +3044,13 @@ const articles = [
       "pms_physiology",
       "cycle_physiology",
       "sleep_pressure"
-    ]
+    ],
+    "hero_caption": "",
+    "hero_caption_vi": "",
+    "hero_image_fit": "cover",
+    "image_attributions": [],
+    "image_review_batch": 0,
+    "image_review_status": "Pending image research session"
   },
   {
     "id": "LM_MH_01",
@@ -2566,7 +3202,13 @@ const articles = [
       "pelvic_function",
       "erection_physiology",
       "breathing_physiology"
-    ]
+    ],
+    "hero_caption": "",
+    "hero_caption_vi": "",
+    "hero_image_fit": "cover",
+    "image_attributions": [],
+    "image_review_batch": 0,
+    "image_review_status": "Pending image research session"
   },
   {
     "id": "LM_MH_02",
@@ -2700,7 +3342,13 @@ const articles = [
       "pelvic_function",
       "breathing_physiology",
       "recovery_mechanism"
-    ]
+    ],
+    "hero_caption": "",
+    "hero_caption_vi": "",
+    "hero_image_fit": "cover",
+    "image_attributions": [],
+    "image_review_batch": 0,
+    "image_review_status": "Pending image research session"
   },
   {
     "id": "LM_MH_03",
@@ -2862,7 +3510,13 @@ const articles = [
       "pelvic_function",
       "erection_physiology",
       "ejaculation_physiology"
-    ]
+    ],
+    "hero_caption": "",
+    "hero_caption_vi": "",
+    "hero_image_fit": "cover",
+    "image_attributions": [],
+    "image_review_batch": 0,
+    "image_review_status": "Pending image research session"
   },
   {
     "id": "DM_MH_01",
@@ -3004,7 +3658,13 @@ const articles = [
       "ejaculation_physiology",
       "pelvic_function",
       "desire_arousal"
-    ]
+    ],
+    "hero_caption": "",
+    "hero_caption_vi": "",
+    "hero_image_fit": "cover",
+    "image_attributions": [],
+    "image_review_batch": 0,
+    "image_review_status": "Pending image research session"
   },
   {
     "id": "DM_MH_02",
@@ -3164,7 +3824,13 @@ const articles = [
       "pelvic_function",
       "recovery_mechanism",
       "erection_physiology"
-    ]
+    ],
+    "hero_caption": "",
+    "hero_caption_vi": "",
+    "hero_image_fit": "cover",
+    "image_attributions": [],
+    "image_review_batch": 0,
+    "image_review_status": "Pending image research session"
   },
   {
     "id": "DM_MH_03",
@@ -3279,7 +3945,13 @@ const articles = [
       "erection_physiology",
       "relationship_models",
       "desire_arousal"
-    ]
+    ],
+    "hero_caption": "",
+    "hero_caption_vi": "",
+    "hero_image_fit": "cover",
+    "image_attributions": [],
+    "image_review_batch": 0,
+    "image_review_status": "Pending image research session"
   },
   {
     "id": "WH_04",
@@ -3403,7 +4075,13 @@ const articles = [
       "cycle_physiology",
       "energy_availability",
       "pregnancy_signs"
-    ]
+    ],
+    "hero_caption": "",
+    "hero_caption_vi": "",
+    "hero_image_fit": "cover",
+    "image_attributions": [],
+    "image_review_batch": 0,
+    "image_review_status": "Pending image research session"
   },
   {
     "id": "WH_06",
@@ -3536,7 +4214,13 @@ const articles = [
       "cycle_physiology",
       "menopause_context",
       "temperature_physiology"
-    ]
+    ],
+    "hero_caption": "",
+    "hero_caption_vi": "",
+    "hero_image_fit": "cover",
+    "image_attributions": [],
+    "image_review_batch": 0,
+    "image_review_status": "Pending image research session"
   },
   {
     "id": "WH_07",
@@ -3651,7 +4335,13 @@ const articles = [
       "pms_physiology",
       "cycle_physiology",
       "sleep_pressure"
-    ]
+    ],
+    "hero_caption": "",
+    "hero_caption_vi": "",
+    "hero_image_fit": "cover",
+    "image_attributions": [],
+    "image_review_batch": 0,
+    "image_review_status": "Pending image research session"
   },
   {
     "id": "WH_09",
@@ -3757,7 +4447,13 @@ const articles = [
       "desire_arousal",
       "vaginal_ecology",
       "relationship_models"
-    ]
+    ],
+    "hero_caption": "",
+    "hero_caption_vi": "",
+    "hero_image_fit": "cover",
+    "image_attributions": [],
+    "image_review_batch": 0,
+    "image_review_status": "Pending image research session"
   },
   {
     "id": "WH_10",
@@ -3881,7 +4577,13 @@ const articles = [
       "cycle_physiology",
       "pms_physiology",
       "desire_arousal"
-    ]
+    ],
+    "hero_caption": "",
+    "hero_caption_vi": "",
+    "hero_image_fit": "cover",
+    "image_attributions": [],
+    "image_review_batch": 0,
+    "image_review_status": "Pending image research session"
   },
   {
     "id": "WH_11",
@@ -3988,7 +4690,13 @@ const articles = [
       "vaginal_ecology",
       "mucus_physiology",
       "cycle_physiology"
-    ]
+    ],
+    "hero_caption": "",
+    "hero_caption_vi": "",
+    "hero_image_fit": "cover",
+    "image_attributions": [],
+    "image_review_batch": 0,
+    "image_review_status": "Pending image research session"
   },
   {
     "id": "WH_12",
@@ -4131,7 +4839,13 @@ const articles = [
       "pelvic_function",
       "vaginal_ecology",
       "desire_arousal"
-    ]
+    ],
+    "hero_caption": "",
+    "hero_caption_vi": "",
+    "hero_image_fit": "cover",
+    "image_attributions": [],
+    "image_review_batch": 0,
+    "image_review_status": "Pending image research session"
   },
   {
     "id": "WH_13",
@@ -4265,7 +4979,13 @@ const articles = [
       "pelvic_function",
       "postpartum_function",
       "breathing_physiology"
-    ]
+    ],
+    "hero_caption": "",
+    "hero_caption_vi": "",
+    "hero_image_fit": "cover",
+    "image_attributions": [],
+    "image_review_batch": 0,
+    "image_review_status": "Pending image research session"
   },
   {
     "id": "WH_15",
@@ -4381,7 +5101,13 @@ const articles = [
       "cycle_performance",
       "pms_physiology",
       "energy_availability"
-    ]
+    ],
+    "hero_caption": "",
+    "hero_caption_vi": "",
+    "hero_image_fit": "cover",
+    "image_attributions": [],
+    "image_review_batch": 0,
+    "image_review_status": "Pending image research session"
   },
   {
     "id": "WH_16",
@@ -4506,7 +5232,13 @@ const articles = [
       "hrv_math",
       "hrv_context",
       "cycle_physiology"
-    ]
+    ],
+    "hero_caption": "",
+    "hero_caption_vi": "",
+    "hero_image_fit": "cover",
+    "image_attributions": [],
+    "image_review_batch": 0,
+    "image_review_status": "Pending image research session"
   },
   {
     "id": "WH_17",
@@ -4631,7 +5363,13 @@ const articles = [
       "protein_adaptation",
       "cycle_performance",
       "energy_availability"
-    ]
+    ],
+    "hero_caption": "",
+    "hero_caption_vi": "",
+    "hero_image_fit": "cover",
+    "image_attributions": [],
+    "image_review_batch": 0,
+    "image_review_status": "Pending image research session"
   },
   {
     "id": "WH_18",
@@ -4756,7 +5494,13 @@ const articles = [
       "energy_availability",
       "cycle_physiology",
       "overload_assessment"
-    ]
+    ],
+    "hero_caption": "",
+    "hero_caption_vi": "",
+    "hero_image_fit": "cover",
+    "image_attributions": [],
+    "image_review_batch": 0,
+    "image_review_status": "Pending image research session"
   },
   {
     "id": "WH_19",
@@ -4863,7 +5607,13 @@ const articles = [
       "pms_physiology",
       "sleep_architecture",
       "sleep_pressure"
-    ]
+    ],
+    "hero_caption": "",
+    "hero_caption_vi": "",
+    "hero_image_fit": "cover",
+    "image_attributions": [],
+    "image_review_batch": 0,
+    "image_review_status": "Pending image research session"
   },
   {
     "id": "WH_20",
@@ -4988,7 +5738,13 @@ const articles = [
       "cycle_physiology",
       "energy_availability",
       "pregnancy_signs"
-    ]
+    ],
+    "hero_caption": "",
+    "hero_caption_vi": "",
+    "hero_image_fit": "cover",
+    "image_attributions": [],
+    "image_review_batch": 0,
+    "image_review_status": "Pending image research session"
   },
   {
     "id": "WH_21",
@@ -5104,7 +5860,13 @@ const articles = [
       "diet_pattern",
       "energy_availability",
       "pms_physiology"
-    ]
+    ],
+    "hero_caption": "",
+    "hero_caption_vi": "",
+    "hero_image_fit": "cover",
+    "image_attributions": [],
+    "image_review_batch": 0,
+    "image_review_status": "Pending image research session"
   },
   {
     "id": "WH_22",
@@ -5238,7 +6000,13 @@ const articles = [
       "iron_tests",
       "energy_availability",
       "cycle_physiology"
-    ]
+    ],
+    "hero_caption": "",
+    "hero_caption_vi": "",
+    "hero_image_fit": "cover",
+    "image_attributions": [],
+    "image_review_batch": 0,
+    "image_review_status": "Pending image research session"
   },
   {
     "id": "WH_23",
@@ -5363,7 +6131,13 @@ const articles = [
       "mucus_physiology",
       "temperature_physiology",
       "cycle_physiology"
-    ]
+    ],
+    "hero_caption": "",
+    "hero_caption_vi": "",
+    "hero_image_fit": "cover",
+    "image_attributions": [],
+    "image_review_batch": 0,
+    "image_review_status": "Pending image research session"
   },
   {
     "id": "WH_24",
@@ -5470,7 +6244,13 @@ const articles = [
       "pregnancy_signs",
       "temperature_physiology",
       "cycle_physiology"
-    ]
+    ],
+    "hero_caption": "",
+    "hero_caption_vi": "",
+    "hero_image_fit": "cover",
+    "image_attributions": [],
+    "image_review_batch": 0,
+    "image_review_status": "Pending image research session"
   },
   {
     "id": "WH_25",
@@ -5604,7 +6384,13 @@ const articles = [
       "pregnancy_activity",
       "heart_output",
       "temperature_physiology"
-    ]
+    ],
+    "hero_caption": "",
+    "hero_caption_vi": "",
+    "hero_image_fit": "cover",
+    "image_attributions": [],
+    "image_review_batch": 0,
+    "image_review_status": "Pending image research session"
   },
   {
     "id": "WH_26",
@@ -5720,7 +6506,13 @@ const articles = [
       "pregnancy_activity",
       "intensity_methods",
       "heart_output"
-    ]
+    ],
+    "hero_caption": "",
+    "hero_caption_vi": "",
+    "hero_image_fit": "cover",
+    "image_attributions": [],
+    "image_review_batch": 0,
+    "image_review_status": "Pending image research session"
   },
   {
     "id": "WH_27",
@@ -5846,7 +6638,13 @@ const articles = [
       "postpartum_function",
       "pelvic_function",
       "energy_availability"
-    ]
+    ],
+    "hero_caption": "",
+    "hero_caption_vi": "",
+    "hero_image_fit": "cover",
+    "image_attributions": [],
+    "image_review_batch": 0,
+    "image_review_status": "Pending image research session"
   },
   {
     "id": "WH_28",
@@ -5972,7 +6770,13 @@ const articles = [
       "pcos_diagnosis",
       "cycle_physiology",
       "energy_availability"
-    ]
+    ],
+    "hero_caption": "",
+    "hero_caption_vi": "",
+    "hero_image_fit": "cover",
+    "image_attributions": [],
+    "image_review_batch": 0,
+    "image_review_status": "Pending image research session"
   },
   {
     "id": "WH_29",
@@ -6124,7 +6928,13 @@ const articles = [
       "endometriosis_assessment",
       "pelvic_function",
       "cycle_physiology"
-    ]
+    ],
+    "hero_caption": "",
+    "hero_caption_vi": "",
+    "hero_image_fit": "cover",
+    "image_attributions": [],
+    "image_review_batch": 0,
+    "image_review_status": "Pending image research session"
   },
   {
     "id": "WH_30",
@@ -6232,7 +7042,13 @@ const articles = [
       "menopause_context",
       "sleep_pressure",
       "vaginal_ecology"
-    ]
+    ],
+    "hero_caption": "",
+    "hero_caption_vi": "",
+    "hero_image_fit": "cover",
+    "image_attributions": [],
+    "image_review_batch": 0,
+    "image_review_status": "Pending image research session"
   },
   {
     "id": "MW_NUT_01",
@@ -6356,7 +7172,13 @@ const articles = [
       "diet_pattern",
       "testosterone_system",
       "energy_availability"
-    ]
+    ],
+    "hero_caption": "",
+    "hero_caption_vi": "",
+    "hero_image_fit": "cover",
+    "image_attributions": [],
+    "image_review_batch": 0,
+    "image_review_status": "Pending image research session"
   },
   {
     "id": "MW_NUT_02",
@@ -6480,7 +7302,13 @@ const articles = [
       "diet_pattern",
       "erection_physiology",
       "alcohol_effects"
-    ]
+    ],
+    "hero_caption": "",
+    "hero_caption_vi": "",
+    "hero_image_fit": "cover",
+    "image_attributions": [],
+    "image_review_batch": 0,
+    "image_review_status": "Pending image research session"
   },
   {
     "id": "MW_NUT_03",
@@ -6596,7 +7424,13 @@ const articles = [
       "protein_adaptation",
       "energy_availability",
       "micronutrient_context"
-    ]
+    ],
+    "hero_caption": "",
+    "hero_caption_vi": "",
+    "hero_image_fit": "cover",
+    "image_attributions": [],
+    "image_review_batch": 0,
+    "image_review_status": "Pending image research session"
   },
   {
     "id": "MW_NUT_04",
@@ -6720,7 +7554,13 @@ const articles = [
       "alcohol_effects",
       "sleep_architecture",
       "testosterone_system"
-    ]
+    ],
+    "hero_caption": "",
+    "hero_caption_vi": "",
+    "hero_image_fit": "cover",
+    "image_attributions": [],
+    "image_review_batch": 0,
+    "image_review_status": "Pending image research session"
   },
   {
     "id": "MW_SXH_01",
@@ -6853,7 +7693,13 @@ const articles = [
       "testosterone_system",
       "desire_arousal",
       "energy_availability"
-    ]
+    ],
+    "hero_caption": "",
+    "hero_caption_vi": "",
+    "hero_image_fit": "cover",
+    "image_attributions": [],
+    "image_review_batch": 0,
+    "image_review_status": "Pending image research session"
   },
   {
     "id": "MW_SXH_02",
@@ -7004,7 +7850,13 @@ const articles = [
       "erection_physiology",
       "testosterone_system",
       "heart_output"
-    ]
+    ],
+    "hero_caption": "",
+    "hero_caption_vi": "",
+    "hero_image_fit": "cover",
+    "image_attributions": [],
+    "image_review_batch": 0,
+    "image_review_status": "Pending image research session"
   },
   {
     "id": "MW_SXH_03",
@@ -7146,7 +7998,13 @@ const articles = [
       "sleep_architecture",
       "sleep_debt",
       "testosterone_system"
-    ]
+    ],
+    "hero_caption": "",
+    "hero_caption_vi": "",
+    "hero_image_fit": "cover",
+    "image_attributions": [],
+    "image_review_batch": 0,
+    "image_review_status": "Pending image research session"
   },
   {
     "id": "MW_SXH_04",
@@ -7270,7 +8128,13 @@ const articles = [
       "erection_physiology",
       "stress_sensors",
       "relationship_models"
-    ]
+    ],
+    "hero_caption": "",
+    "hero_caption_vi": "",
+    "hero_image_fit": "cover",
+    "image_attributions": [],
+    "image_review_batch": 0,
+    "image_review_status": "Pending image research session"
   },
   {
     "id": "MW_REL_01",
@@ -7385,7 +8249,13 @@ const articles = [
       "relationship_models",
       "desire_arousal",
       "stress_sensors"
-    ]
+    ],
+    "hero_caption": "",
+    "hero_caption_vi": "",
+    "hero_image_fit": "cover",
+    "image_attributions": [],
+    "image_review_batch": 0,
+    "image_review_status": "Pending image research session"
   },
   {
     "id": "MW_REL_02",
@@ -7518,7 +8388,13 @@ const articles = [
       "desire_arousal",
       "relationship_models",
       "pelvic_function"
-    ]
+    ],
+    "hero_caption": "",
+    "hero_caption_vi": "",
+    "hero_image_fit": "cover",
+    "image_attributions": [],
+    "image_review_batch": 0,
+    "image_review_status": "Pending image research session"
   },
   {
     "id": "MW_REL_03",
@@ -7624,7 +8500,13 @@ const articles = [
       "relationship_models",
       "desire_arousal",
       "stress_sensors"
-    ]
+    ],
+    "hero_caption": "",
+    "hero_caption_vi": "",
+    "hero_image_fit": "cover",
+    "image_attributions": [],
+    "image_review_batch": 0,
+    "image_review_status": "Pending image research session"
   },
   {
     "id": "MW_REL_04",
@@ -7739,7 +8621,13 @@ const articles = [
       "relationship_models",
       "sleep_debt",
       "stress_sensors"
-    ]
+    ],
+    "hero_caption": "",
+    "hero_caption_vi": "",
+    "hero_image_fit": "cover",
+    "image_attributions": [],
+    "image_review_batch": 0,
+    "image_review_status": "Pending image research session"
   },
   {
     "id": "MW_SXO_01",
@@ -7863,7 +8751,13 @@ const articles = [
       "desire_arousal",
       "testosterone_system",
       "relationship_models"
-    ]
+    ],
+    "hero_caption": "",
+    "hero_caption_vi": "",
+    "hero_image_fit": "cover",
+    "image_attributions": [],
+    "image_review_batch": 0,
+    "image_review_status": "Pending image research session"
   },
   {
     "id": "MW_SXO_02",
@@ -8014,7 +8908,13 @@ const articles = [
       "erection_physiology",
       "desire_arousal",
       "pelvic_function"
-    ]
+    ],
+    "hero_caption": "",
+    "hero_caption_vi": "",
+    "hero_image_fit": "cover",
+    "image_attributions": [],
+    "image_review_batch": 0,
+    "image_review_status": "Pending image research session"
   },
   {
     "id": "MW_SXO_03",
@@ -8156,7 +9056,13 @@ const articles = [
       "testosterone_system",
       "desire_arousal",
       "erection_physiology"
-    ]
+    ],
+    "hero_caption": "",
+    "hero_caption_vi": "",
+    "hero_image_fit": "cover",
+    "image_attributions": [],
+    "image_review_batch": 0,
+    "image_review_status": "Pending image research session"
   },
   {
     "id": "MW_SXO_04",
@@ -8280,7 +9186,13 @@ const articles = [
       "desire_arousal",
       "relationship_models",
       "testosterone_system"
-    ]
+    ],
+    "hero_caption": "",
+    "hero_caption_vi": "",
+    "hero_image_fit": "cover",
+    "image_attributions": [],
+    "image_review_batch": 0,
+    "image_review_status": "Pending image research session"
   },
   {
     "id": "MW_NUT_05",
@@ -8404,7 +9316,13 @@ const articles = [
       "micronutrient_context",
       "testosterone_system",
       "energy_availability"
-    ]
+    ],
+    "hero_caption": "",
+    "hero_caption_vi": "",
+    "hero_image_fit": "cover",
+    "image_attributions": [],
+    "image_review_batch": 0,
+    "image_review_status": "Pending image research session"
   },
   {
     "id": "MW_NUT_06",
@@ -8537,7 +9455,13 @@ const articles = [
       "sperm_assessment",
       "micronutrient_context",
       "energy_availability"
-    ]
+    ],
+    "hero_caption": "",
+    "hero_caption_vi": "",
+    "hero_image_fit": "cover",
+    "image_attributions": [],
+    "image_review_batch": 0,
+    "image_review_status": "Pending image research session"
   },
   {
     "id": "MW_NUT_07",
@@ -8661,7 +9585,13 @@ const articles = [
       "fasting_context",
       "energy_availability",
       "testosterone_system"
-    ]
+    ],
+    "hero_caption": "",
+    "hero_caption_vi": "",
+    "hero_image_fit": "cover",
+    "image_attributions": [],
+    "image_review_batch": 0,
+    "image_review_status": "Pending image research session"
   },
   {
     "id": "MW_NUT_08",
@@ -8767,7 +9697,13 @@ const articles = [
       "hydration_physiology",
       "heart_output",
       "intensity_methods"
-    ]
+    ],
+    "hero_caption": "",
+    "hero_caption_vi": "",
+    "hero_image_fit": "cover",
+    "image_attributions": [],
+    "image_review_batch": 0,
+    "image_review_status": "Pending image research session"
   },
   {
     "id": "MW_SXH_05",
@@ -8910,7 +9846,13 @@ const articles = [
       "erection_physiology",
       "sleep_architecture",
       "testosterone_system"
-    ]
+    ],
+    "hero_caption": "",
+    "hero_caption_vi": "",
+    "hero_image_fit": "cover",
+    "image_attributions": [],
+    "image_review_batch": 0,
+    "image_review_status": "Pending image research session"
   },
   {
     "id": "MW_SXH_06",
@@ -9070,7 +10012,13 @@ const articles = [
       "erection_physiology",
       "intensity_methods",
       "pelvic_function"
-    ]
+    ],
+    "hero_caption": "",
+    "hero_caption_vi": "",
+    "hero_image_fit": "cover",
+    "image_attributions": [],
+    "image_review_batch": 0,
+    "image_review_status": "Pending image research session"
   },
   {
     "id": "MW_SXH_07",
@@ -9194,7 +10142,13 @@ const articles = [
       "sperm_assessment",
       "testosterone_system",
       "sleep_debt"
-    ]
+    ],
+    "hero_caption": "",
+    "hero_caption_vi": "",
+    "hero_image_fit": "cover",
+    "image_attributions": [],
+    "image_review_batch": 0,
+    "image_review_status": "Pending image research session"
   },
   {
     "id": "MW_SXH_08",
@@ -9318,7 +10272,13 @@ const articles = [
       "testosterone_system",
       "sperm_assessment",
       "desire_arousal"
-    ]
+    ],
+    "hero_caption": "",
+    "hero_caption_vi": "",
+    "hero_image_fit": "cover",
+    "image_attributions": [],
+    "image_review_batch": 0,
+    "image_review_status": "Pending image research session"
   },
   {
     "id": "MW_REL_05",
@@ -9415,7 +10375,13 @@ const articles = [
       "relationship_models",
       "stress_sensors",
       "breathing_physiology"
-    ]
+    ],
+    "hero_caption": "",
+    "hero_caption_vi": "",
+    "hero_image_fit": "cover",
+    "image_attributions": [],
+    "image_review_batch": 0,
+    "image_review_status": "Pending image research session"
   },
   {
     "id": "MW_REL_06",
@@ -9530,7 +10496,13 @@ const articles = [
       "desire_arousal",
       "relationship_models",
       "erection_physiology"
-    ]
+    ],
+    "hero_caption": "",
+    "hero_caption_vi": "",
+    "hero_image_fit": "cover",
+    "image_attributions": [],
+    "image_review_batch": 0,
+    "image_review_status": "Pending image research session"
   },
   {
     "id": "MW_REL_07",
@@ -9636,7 +10608,13 @@ const articles = [
       "relationship_models",
       "desire_arousal",
       "stress_sensors"
-    ]
+    ],
+    "hero_caption": "",
+    "hero_caption_vi": "",
+    "hero_image_fit": "cover",
+    "image_attributions": [],
+    "image_review_batch": 0,
+    "image_review_status": "Pending image research session"
   },
   {
     "id": "MW_REL_08",
@@ -9751,7 +10729,13 @@ const articles = [
       "sleep_debt",
       "relationship_models",
       "sleep_pressure"
-    ]
+    ],
+    "hero_caption": "",
+    "hero_caption_vi": "",
+    "hero_image_fit": "cover",
+    "image_attributions": [],
+    "image_review_batch": 0,
+    "image_review_status": "Pending image research session"
   },
   {
     "id": "MW_SXO_05",
@@ -9884,7 +10868,13 @@ const articles = [
       "ejaculation_physiology",
       "pelvic_function",
       "desire_arousal"
-    ]
+    ],
+    "hero_caption": "",
+    "hero_caption_vi": "",
+    "hero_image_fit": "cover",
+    "image_attributions": [],
+    "image_review_batch": 0,
+    "image_review_status": "Pending image research session"
   },
   {
     "id": "MW_SXO_06",
@@ -10027,7 +11017,13 @@ const articles = [
       "desire_arousal",
       "testosterone_system",
       "ejaculation_physiology"
-    ]
+    ],
+    "hero_caption": "",
+    "hero_caption_vi": "",
+    "hero_image_fit": "cover",
+    "image_attributions": [],
+    "image_review_batch": 0,
+    "image_review_status": "Pending image research session"
   },
   {
     "id": "MW_SXO_08",
@@ -10169,6 +11165,12 @@ const articles = [
       "desire_arousal",
       "testosterone_system",
       "erection_physiology"
-    ]
+    ],
+    "hero_caption": "",
+    "hero_caption_vi": "",
+    "hero_image_fit": "cover",
+    "image_attributions": [],
+    "image_review_batch": 0,
+    "image_review_status": "Pending image research session"
   }
 ];

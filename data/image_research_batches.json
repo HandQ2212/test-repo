@@ -1,0 +1,244 @@
+{
+  "batch_size": 10,
+  "total_articles": 83,
+  "batches": [
+    {
+      "batch": 1,
+      "article_ids": [
+        "LM_SL_01",
+        "LM_SL_02",
+        "DM_SL_01",
+        "DM_SL_02",
+        "LM_RC_01",
+        "LM_RC_02",
+        "DM_RC_01",
+        "DM_RC_02",
+        "LM_AC_01",
+        "LM_AC_02"
+      ],
+      "titles_vi": [
+        "Hiểu điểm giấc ngủ: đọc xu hướng thay vì chạy theo điểm số",
+        "Ngủ nông, ngủ sâu và REM: mỗi giai đoạn có vai trò gì?",
+        "Đồng hồ báo ít ngủ sâu: khi nào cần chú ý?",
+        "Nợ ngủ và ngủ bù cuối tuần: điều gì giúp phục hồi?",
+        "HRV là gì và nên đọc thế nào trên thiết bị đeo?",
+        "Nhịp tim nghỉ ban đêm: xem nền cá nhân và triệu chứng",
+        "Thở chậm để thư giãn: thực hành thoải mái, không ép nhịp",
+        "Phục hồi chủ động hay nghỉ hoàn toàn: chọn theo cảm giác",
+        "Active Zone Minutes: hiểu đúng phút vận động của Fitbit",
+        "Day Strain 0–21: hiểu thang tải riêng của WHOOP"
+      ],
+      "status": "image research completed"
+    },
+    {
+      "batch": 2,
+      "article_ids": [
+        "DM_AC_01",
+        "DM_AC_02",
+        "LM_HW_01",
+        "LM_HW_02",
+        "DM_HW_01",
+        "DM_HW_02",
+        "LM_WH_01",
+        "LM_WH_02",
+        "LM_WH_03",
+        "DM_WH_01"
+      ],
+      "titles_vi": [
+        "Cardio Zone 2: bắt đầu bằng cường độ có thể trò chuyện",
+        "Mệt vì tập luyện: phân biệt quá tải ngắn hạn và vấn đề kéo dài",
+        "Điểm stress của đồng hồ nói được gì?",
+        "VO2 max trên đồng hồ: ước tính thể lực, không dự báo tuổi thọ cá nhân",
+        "Thở dài sinh lý: bằng chứng thực tế và cách thử an toàn",
+        "Sauna và ngâm lạnh: lợi ích tiềm năng, giới hạn và rủi ro",
+        "Chu kỳ kinh nguyệt: hiểu các giai đoạn mà không đóng khung bản thân",
+        "Dịch nhầy cổ tử cung: theo dõi thế nào cho hữu ích?",
+        "BBT và nhiệt độ da: gợi ý rụng trứng, không xác nhận thai",
+        "Tập theo chu kỳ: ưu tiên triệu chứng hơn lịch pha cố định"
+      ],
+      "status": "pending"
+    },
+    {
+      "batch": 3,
+      "article_ids": [
+        "DM_WH_02",
+        "DM_WH_03",
+        "LM_MH_01",
+        "LM_MH_02",
+        "LM_MH_03",
+        "DM_MH_01",
+        "DM_MH_02",
+        "DM_MH_03",
+        "WH_04",
+        "WH_06"
+      ],
+      "titles_vi": [
+        "Cửa sổ thụ thai: dùng dự đoán với mức chắc chắn phù hợp",
+        "PMS, đau bụng kinh và thèm ăn: chăm sóc theo triệu chứng",
+        "Sàn chậu nam: hỗ trợ tiểu tiện và chức năng tình dục",
+        "Kegel cho nam: co nhẹ, thở đều và thả lỏng đủ",
+        "Kegel có chữa rối loạn cương hoặc xuất tinh sớm không?",
+        "Xuất tinh sớm: giảm áp lực và tìm cách hỗ trợ phù hợp",
+        "Giãn cơ vùng háng và đau chậu: biết khi nào nên dừng",
+        "Lo âu khi quan hệ: bớt tự đánh giá, tăng giao tiếp",
+        "Kinh nguyệt không đều: ghi nhận gì và khi nào đi khám?",
+        "Estrogen và progesterone: vai trò và giới hạn tự theo dõi"
+      ],
+      "status": "pending"
+    },
+    {
+      "batch": 4,
+      "article_ids": [
+        "WH_07",
+        "WH_09",
+        "WH_10",
+        "WH_11",
+        "WH_12",
+        "WH_13",
+        "WH_15",
+        "WH_16",
+        "WH_17",
+        "WH_18"
+      ],
+      "titles_vi": [
+        "Tập trung và cảm xúc quanh kỳ kinh: theo dõi trải nghiệm thực tế",
+        "Ham muốn nữ giới: nhiều yếu tố cùng góp phần",
+        "Cảm xúc theo chu kỳ: không phải ai cũng có đỉnh hưng phấn lúc rụng trứng",
+        "Dịch tiết âm đạo và pH: dấu hiệu nào đáng chú ý?",
+        "Đau khi quan hệ: không cần cố chịu đựng",
+        "Sàn chậu nữ: sức mạnh cần đi cùng khả năng thả lỏng",
+        "Tập khi có kinh: chọn cường độ theo mức dễ chịu",
+        "HRV thay đổi theo chu kỳ: so với nền riêng của bạn",
+        "Tập sức mạnh cho nữ: xây thói quen lâu dài",
+        "REDs: khi ăn không đủ so với nhu cầu tập luyện"
+      ],
+      "status": "pending"
+    },
+    {
+      "batch": 5,
+      "article_ids": [
+        "WH_19",
+        "WH_20",
+        "WH_21",
+        "WH_22",
+        "WH_23",
+        "WH_24",
+        "WH_25",
+        "WH_26",
+        "WH_27",
+        "WH_28"
+      ],
+      "titles_vi": [
+        "Khó ngủ trước kỳ kinh: chăm sóc triệu chứng, không chạy theo REM",
+        "Stress và trễ kinh: cần xem xét những nguyên nhân nào?",
+        "Dinh dưỡng quanh chu kỳ: đủ năng lượng trước khi theo thực đơn theo pha",
+        "Kinh nhiều và thiếu sắt: xét nghiệm trước khi tự bổ sung",
+        "Canh thời điểm thụ thai: giảm áp lực phải đúng một ngày",
+        "Dấu hiệu thai sớm: dùng que thử thay vì suy từ thiết bị đeo",
+        "Cơ thể thay đổi khi mang thai: theo dõi triệu chứng quan trọng",
+        "Vận động trong thai kỳ: trao đổi trước và theo dõi dấu hiệu dừng",
+        "Trở lại vận động sau sinh: phục hồi theo triệu chứng",
+        "PCOS/PMOS: chẩn đoán và chăm sóc vượt ra ngoài hình ảnh buồng trứng"
+      ],
+      "status": "pending"
+    },
+    {
+      "batch": 6,
+      "article_ids": [
+        "WH_29",
+        "WH_30",
+        "MW_NUT_01",
+        "MW_NUT_02",
+        "MW_NUT_03",
+        "MW_NUT_04",
+        "MW_SXH_01",
+        "MW_SXH_02",
+        "MW_SXH_03",
+        "MW_SXH_04"
+      ],
+      "titles_vi": [
+        "Lạc nội mạc tử cung: đau nhiều cần được lắng nghe",
+        "Tiền mãn kinh và mãn kinh: nhận biết và chọn cách chăm sóc",
+        "Ăn uống và testosterone: ưu tiên đủ chất, tránh lời hứa tăng hormone",
+        "Ăn kiểu Địa Trung Hải: một cách xây bữa ăn lành mạnh",
+        "Cần bao nhiêu protein khi tập sức mạnh?",
+        "Rượu bia và phục hồi: giảm rủi ro thay vì tìm liều có lợi",
+        "Testosterone thấp: chẩn đoán cần hơn một con số",
+        "Rối loạn cương: dấu hiệu nên được đánh giá toàn diện",
+        "Thiếu ngủ và testosterone: không quy đổi thành số năm già đi",
+        "Stress và chức năng tình dục nam: tránh tự chẩn đoán cortisol"
+      ],
+      "status": "pending"
+    },
+    {
+      "batch": 7,
+      "article_ids": [
+        "MW_REL_01",
+        "MW_REL_02",
+        "MW_REL_03",
+        "MW_REL_04",
+        "MW_SXO_01",
+        "MW_SXO_02",
+        "MW_SXO_03",
+        "MW_SXO_04",
+        "MW_NUT_05",
+        "MW_NUT_06"
+      ],
+      "titles_vi": [
+        "Giao tiếp cặp đôi: bắt đầu từ một cuộc trò chuyện cụ thể",
+        "Mở lời về tình dục: mong muốn, ranh giới và sự đồng thuận",
+        "Thân mật cảm xúc: xây từ sự quan tâm hằng ngày",
+        "Khi stress lan vào mối quan hệ: nói rõ nhu cầu hỗ trợ",
+        "Ham muốn nam giới: không chỉ là testosterone",
+        "Hưng phấn và cương: phản ứng cơ thể không thay cho đồng thuận",
+        "Ham muốn thấp có luôn là testosterone thấp?",
+        "Có mức ham muốn bình thường cho tất cả không?",
+        "Kẽm và vitamin D: bổ sung theo nhu cầu, không theo lời hứa tăng T",
+        "Dinh dưỡng và chất lượng tinh trùng: hiểu giới hạn bằng chứng"
+      ],
+      "status": "pending"
+    },
+    {
+      "batch": 8,
+      "article_ids": [
+        "MW_NUT_07",
+        "MW_NUT_08",
+        "MW_SXH_05",
+        "MW_SXH_06",
+        "MW_SXH_07",
+        "MW_SXH_08",
+        "MW_REL_05",
+        "MW_REL_06",
+        "MW_REL_07",
+        "MW_REL_08"
+      ],
+      "titles_vi": [
+        "Nhịn ăn gián đoạn và hormone nam: còn nhiều điều chưa chắc chắn",
+        "Bù nước khi vận động: đáp ứng nhu cầu thay vì ép một công thức",
+        "Cương buổi sáng: một dấu hiệu, không phải bài kiểm tra hormone",
+        "Vận động và chức năng cương: hỗ trợ sức khỏe chung",
+        "Sinh sản nam: chú ý sức khỏe, thuốc và đánh giá phù hợp",
+        "Khi nào nên xét nghiệm testosterone?",
+        "Tranh luận ít gây tổn thương hơn: tạm dừng và quay lại vấn đề",
+        "Khi hai người có mức ham muốn khác nhau",
+        "Lòng tin: bắt đầu bằng hành vi có thể quan sát",
+        "Giấc ngủ và mối quan hệ: cùng tìm cách nghỉ phù hợp"
+      ],
+      "status": "pending"
+    },
+    {
+      "batch": 9,
+      "article_ids": [
+        "MW_SXO_05",
+        "MW_SXO_06",
+        "MW_SXO_08"
+      ],
+      "titles_vi": [
+        "Cực khoái và xuất tinh: có liên quan nhưng không hoàn toàn giống nhau",
+        "Thủ dâm và testosterone: tránh suy diễn từ biến động ngắn hạn",
+        "Ham muốn và tuổi tác: thay đổi không đồng nghĩa phải chịu đựng"
+      ],
+      "status": "pending"
+    }
+  ]
+}

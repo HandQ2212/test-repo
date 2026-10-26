@@ -10,7 +10,7 @@ Bản cũ **chưa đáp ứng yêu cầu chính xác và hữu ích để xuất
 - Xác nhận ít nhất 29 **bài có PMID nguồn chính không liên quan** bằng tên nghiên cứu thực tế; bảng chi tiết ở cuối báo cáo.
 - Thay danh mục hoạt động bằng 82 nguồn: hướng dẫn cơ quan y tế, hội chuyên môn, tổng quan, nghiên cứu gốc và tài liệu hãng. Ghi rõ loại và phạm vi hỗ trợ. Không gọi mọi tài liệu hãng là nghiên cứu lâm sàng.
 - Kiểm tra 82 URL nguồn hiện tại: 46 trả HTTP 200, 28 PubMed trả HTTP 203/challenge, 8 trả 403 từ bộ kiểm tra tự động; không có 404 trong danh mục mới. PMID được đối chiếu riêng với metadata, không dựa vào HTTP 203. Các nguồn bị chặn tự động được kiểm tra bằng trang chính thức hoặc nội dung chỉ mục tương ứng; không tuyên bố đã đọc toàn bộ full text của mọi nghiên cứu.
-- Khôi phục 83 ảnh đầu bài từ thư viện gốc và giữ 22 sơ đồ liên quan với chú thích đã sửa. 61 hình tóm tắt dạng chữ đã được bỏ; các ý “hiểu đúng”, “thực hành” và “giới hạn” được giữ trong văn bản Việt/Anh của từng bài. Liên kết ảnh mở đúng asset; không tự gắn xác nhận tác giả hoặc giấy phép ngoài dự án.
+- Ở bước khôi phục bản dài, đã giữ 83 ảnh đầu bài và 22 sơ đồ gốc với chú thích sửa lại. Trạng thái ảnh hiện tại sau nghiên cứu theo phiên được ghi ở mục đợt 01 bên dưới. 61 hình tóm tắt dạng chữ đã được bỏ; các ý “hiểu đúng”, “thực hành” và “giới hạn” được giữ trong văn bản Việt/Anh của từng bài. Liên kết ảnh mở đúng asset; không tự gắn xác nhận tác giả hoặc giấy phép ngoài dự án.
 - Cập nhật master Excel, hai roadmap và ba bản tải xuống trong website. Các sheet cũ được giữ, trường nội dung/nguồn được sửa; thêm bảng audit và nguồn.
 
 ## Nội dung đã sửa
@@ -35,6 +35,12 @@ Bản cũ **chưa đáp ứng yêu cầu chính xác và hữu ích để xuất
 
 Các sơ đồ được giữ gồm khoảng R–R trên ECG, cấu trúc giấc ngủ, đo trao đổi khí, chuyển hóa sắt, sinh lý chu kỳ và giải phẫu sàn chậu. Chú thích phân biệt hình minh họa với dữ liệu của người đọc hoặc kết quả nghiên cứu. Ảnh đầu bài được khôi phục từ thư viện dự án gốc; việc giữ asset không tạo xác nhận mới về tác giả hoặc giấy phép ngoài dự án. Các hình sai chủ đề nêu trên được bỏ. Tóm tắt chỉ có chữ được trình bày trực tiếp trong nội dung bài, không xuất thành hình.
 
+## Nghiên cứu ảnh theo phiên — đợt 01
+
+Đợt đầu xử lý đúng 10 bài đầu tiên: LM_SL_01, LM_SL_02, DM_SL_01, DM_SL_02, LM_RC_01, LM_RC_02, DM_RC_01, DM_RC_02, LM_AC_01, LM_AC_02. Đã chọn 19 hình, ghi nguồn/tác giả/giấy phép và chú thích Việt/Anh theo nội dung thực sự nhìn thấy. Có 10 ảnh đầu bài và 9 hình trong bài. Hình đa ký N3 thay nhãn Stage 4 cũ; sơ đồ R–R không được gọi là dữ liệu của người đọc; ảnh Fitbit không được gọi là ảnh chụp AZM. Bài WHOOP chưa thêm hình thứ hai khi chưa có ứng viên đủ phù hợp và rõ quyền dùng.
+
+Bộ mới dùng các ảnh Commons với giấy phép tương ứng và các ảnh Pexels được đối chiếu với trang ảnh/tác giả và giấy phép. Thông tin nguồn được lưu trong `data/image_selections.json`, sheet `Image_Register` của master Excel và hiển thị cạnh ảnh. 73 bài còn lại chưa được rà soát ảnh trong quy trình theo phiên; không gắn trạng thái hoàn tất cho các bài đó. Xem [tiến độ từng đợt](Image_Research_Progress.md) và [bộ ảnh đợt 01](Image_Research_Batch_01.html).
+
 ## File và khả năng kiểm tra lại
 
 - `Master_Content_MVP`: 83 hàng nội dung đã sửa, danh mục nguồn JSON, giới hạn bằng chứng, ngày rà soát, trạng thái duyệt và URL bài.
@@ -50,7 +56,7 @@ Các sơ đồ được giữ gồm khoảng R–R trên ECG, cấu trúc giấc
 
 - Kiểm tra 83 ID duy nhất, đủ nội dung Việt/Anh, nguồn chính thuộc danh mục đầy đủ, URL nghiên cứu khớp tên metadata, và các PMID sai xác nhận không quay lại bài tương ứng.
 - Kiểm tra JSON/JS/Markdown/Excel/HTML khớp nhau, ba workbook local và bản tải xuống có nội dung byte giống nhau, toàn bộ ảnh đang dùng tồn tại, các hình tóm tắt chữ không còn được tham chiếu, ảnh có alt và đường dẫn HTML tương đối đúng.
-- Chrome: mở toàn bộ 83 bài trong SPA ở cả hai ngôn ngữ; kiểm tra 105 ảnh đang dùng, 83 trang HTML, tìm kiếm, popup và chuyển ngôn ngữ. Kiểm tra mobile 390 px, không tràn ngang trang và không có lỗi JavaScript.
+- Chrome: mở toàn bộ 83 bài trong SPA ở cả hai ngôn ngữ; kiểm tra 109 ảnh đang dùng, 83 trang HTML, tìm kiếm, popup và chuyển ngôn ngữ. Kiểm tra mobile 390 px, không tràn ngang trang và không có lỗi JavaScript.
 - Sửa lỗi CSS cũ thiếu quy tắc `.hidden`, khiến trang HTML hiện cả Việt lẫn Anh và phần bài mẫu trên trang chủ. Gắn sự kiện tìm kiếm trước khi tải dữ liệu để thao tác sớm không bị bỏ qua.
 - Kiểm tra riêng MW_NUT_07 và toàn bộ dữ liệu/Excel: không có chú thích hay liên kết hình tóm tắt chữ. Thêm chặn hình chữ từ metadata cũ trong trang bài và popup; tải dữ liệu không dùng cache, đổi URL script và trả 404 cho ảnh đã xóa thay vì trả HTML trang blog. Chú thích chỉ hiển thị sau khi ảnh tải thành công; ảnh lỗi thì bỏ cả khung và chú thích trong trang bài, popup và trang HTML. Đã bổ sung kiểm tra ảnh bị chặn tải, hình chữ nhúng trong HTML cũ và giải mã ảnh thực tế.
 - Kiểm tra cú pháp JavaScript và Git diff whitespace. Kiểm tra lại bản live sau khi đẩy lên Render được ghi riêng trong workspace.

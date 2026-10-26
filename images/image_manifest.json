@@ -1,12 +1,12 @@
 {
   "LM_SL_01": {
-    "hero_local": "images/LM_SL_01_hero.jpg",
-    "figure_local": "images/LM_SL_01_figure.jpg",
-    "hero_source_page": "https://test-repo-y1wb.onrender.com/images/LM_SL_01_hero.jpg",
-    "figure_source_page": "https://test-repo-y1wb.onrender.com/images/LM_SL_01_figure.jpg",
-    "creator": "Original project image library / editorial assets",
-    "provenance": "Hero restored from the original project library. Retained diagrams are illustrations, not study outcome data. Summary guidance is article text, not an image.",
-    "license_note": "Existing project raster assets restored; no new claim of upstream authorship or verified external licensing. Text summaries are part of the article body.",
+    "hero_local": "images/researched/batch-01/LM_SL_01_hero.jpg",
+    "figure_local": "images/researched/batch-01/LM_SL_01_inline.jpg",
+    "hero_source_page": "https://commons.wikimedia.org/wiki/File:Fitbit_Versa_Lite_No_-_7%EF%BC%9A%E5%BA%95%E9%9D%A2%E3%81%AE%E8%84%88%E6%8B%8D%E6%B8%AC%E5%AE%9A%E8%A3%85%E7%BD%AE.jpg",
+    "figure_source_page": "https://commons.wikimedia.org/wiki/File:Sleep_studies.jpg",
+    "creator": "See image_attributions for credited creators",
+    "provenance": "Image research batch 01: visible subject, source metadata and reuse terms checked. See image_attributions for each asset.",
+    "license_note": "Source image licences and authors are recorded per asset in image_attributions.",
     "evidence_urls": [
       "https://pubmed.ncbi.nlm.nih.gov/34314344/",
       "https://www.nhlbi.nih.gov/health/sleep/how-much-sleep",
@@ -14,16 +14,71 @@
       "https://www.nhlbi.nih.gov/health/sleep/stages-of-sleep",
       "https://www.nhlbi.nih.gov/health/sleep/sleep-wake-cycle",
       "https://www.nhlbi.nih.gov/health/sleep-deprivation/healthy-sleep-habits"
-    ]
+    ],
+    "image_attributions": [
+      {
+        "article_id": "LM_SL_01",
+        "role": "hero",
+        "asset": "images/researched/batch-01/LM_SL_01_hero.jpg",
+        "title": "Fitbit Versa Lite No - 7：底面の脈拍測定装置.jpg",
+        "source_page": "https://commons.wikimedia.org/wiki/File:Fitbit_Versa_Lite_No_-_7%EF%BC%9A%E5%BA%95%E9%9D%A2%E3%81%AE%E8%84%88%E6%8B%8D%E6%B8%AC%E5%AE%9A%E8%A3%85%E7%BD%AE.jpg",
+        "source_asset_url": "https://upload.wikimedia.org/wikipedia/commons/f/f0/Fitbit_Versa_Lite_No_-_7%EF%BC%9A%E5%BA%95%E9%9D%A2%E3%81%AE%E8%84%88%E6%8B%8D%E6%B8%AC%E5%AE%9A%E8%A3%85%E7%BD%AE.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "download_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f0/Fitbit_Versa_Lite_No_-_7%EF%BC%9A%E5%BA%95%E9%9D%A2%E3%81%AE%E8%84%88%E6%8B%8D%E6%B8%AC%E5%AE%9A%E8%A3%85%E7%BD%AE.jpg/1280px-Fitbit_Versa_Lite_No_-_7%EF%BC%9A%E5%BA%95%E9%9D%A2%E3%81%AE%E8%84%88%E6%8B%8D%E6%B8%AC%E5%AE%9A%E8%A3%85%E7%BD%AE.jpg",
+        "author": "Kyu3",
+        "license": "CC BY-SA 4.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+        "caption_vi": "Cảm biến quang học ở mặt dưới đồng hồ Fitbit Versa Lite.",
+        "caption_en": "Optical sensor on the underside of a Fitbit Versa Lite watch.",
+        "alt_vi": "Cảm biến quang học ở mặt dưới đồng hồ Fitbit Versa Lite.",
+        "alt_en": "Optical sensor on the underside of a Fitbit Versa Lite watch.",
+        "relevance_vi": "Cho thấy tín hiệu phần cứng mà thuật toán thiết bị đeo dùng; không giả làm ảnh chụp điểm ngủ.",
+        "modifications_vi": "Bản thu nhỏ; giữ nguyên nội dung.",
+        "modifications_en": "Thumbnail; image content unchanged.",
+        "fit": "contain",
+        "width": 1280,
+        "height": 1280,
+        "sha256": "37320f8e16a7415442aecd1c4c77a23bac4dd2a20d869d12f3c8d5386b0f9061",
+        "checked_date": "2026-10-26",
+        "review_status": "Subject, source and licence checked",
+        "batch": 1
+      },
+      {
+        "article_id": "LM_SL_01",
+        "role": "inline",
+        "asset": "images/researched/batch-01/LM_SL_01_inline.jpg",
+        "title": "Sleep studies.jpg",
+        "source_page": "https://commons.wikimedia.org/wiki/File:Sleep_studies.jpg",
+        "source_asset_url": "https://upload.wikimedia.org/wikipedia/commons/e/e1/Sleep_studies.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "download_url": "https://upload.wikimedia.org/wikipedia/commons/e/e1/Sleep_studies.jpg",
+        "author": "National Heart Lung and Blood Institute (NIH)",
+        "license": "Public domain",
+        "license_url": "https://commons.wikimedia.org/wiki/File:Sleep_studies.jpg#Licensing",
+        "caption_vi": "Sơ đồ NHLBI về cảm biến và bản ghi đa ký giấc ngủ, dùng để phân biệt xét nghiệm tại phòng ngủ với ước tính từ đồng hồ.",
+        "caption_en": "NHLBI diagram of polysomnography sensors and recordings, distinguishing a sleep study from a watch estimate.",
+        "alt_vi": "Sơ đồ NHLBI về cảm biến và bản ghi đa ký giấc ngủ, dùng để phân biệt xét nghiệm tại phòng ngủ với ước tính từ đồng hồ.",
+        "alt_en": "NHLBI diagram of polysomnography sensors and recordings, distinguishing a sleep study from a watch estimate.",
+        "relevance_vi": "Hỗ trợ phần phân biệt đa ký với thiết bị đeo; không mô tả một điểm ngủ hay dữ liệu của người đọc.",
+        "modifications_vi": "Giữ nguyên nội dung file ảnh gốc.",
+        "modifications_en": "Original image file content unchanged.",
+        "fit": "contain",
+        "width": 475,
+        "height": 592,
+        "sha256": "d42439287d97350e4210d070d65db9ba9da36cf6c502b54959d03d8ec67f59d4",
+        "checked_date": "2026-10-26",
+        "review_status": "Subject, source and licence checked",
+        "batch": 1
+      }
+    ],
+    "image_review_batch": 1
   },
   "LM_SL_02": {
-    "hero_local": "images/LM_SL_02_hero.jpg",
-    "figure_local": "images/LM_SL_02_figure.png",
-    "hero_source_page": "https://test-repo-y1wb.onrender.com/images/LM_SL_02_hero.jpg",
-    "figure_source_page": "https://test-repo-y1wb.onrender.com/images/LM_SL_02_figure.png",
-    "creator": "Original project image library / editorial assets",
-    "provenance": "Hero restored from the original project library. Retained diagrams are illustrations, not study outcome data. Summary guidance is article text, not an image.",
-    "license_note": "Existing project raster assets restored; no new claim of upstream authorship or verified external licensing. Text summaries are part of the article body.",
+    "hero_local": "images/researched/batch-01/LM_SL_02_hero.jpg",
+    "figure_local": "images/researched/batch-01/LM_SL_02_inline.png",
+    "hero_source_page": "https://commons.wikimedia.org/wiki/File:Polysomnography_model_on_his_side.jpg",
+    "figure_source_page": "https://commons.wikimedia.org/wiki/File:Sleep_Hypnogram.svg",
+    "creator": "See image_attributions for credited creators",
+    "provenance": "Image research batch 01: visible subject, source metadata and reuse terms checked. See image_attributions for each asset.",
+    "license_note": "Source image licences and authors are recorded per asset in image_attributions.",
     "evidence_urls": [
       "https://www.nhlbi.nih.gov/health/sleep/stages-of-sleep",
       "https://pubmed.ncbi.nlm.nih.gov/34314344/",
@@ -31,16 +86,71 @@
       "https://www.nhlbi.nih.gov/health/sleep/how-much-sleep",
       "https://www.nhlbi.nih.gov/health/sleep/sleep-wake-cycle",
       "https://www.nhlbi.nih.gov/health/sleep-deprivation/healthy-sleep-habits"
-    ]
+    ],
+    "image_attributions": [
+      {
+        "article_id": "LM_SL_02",
+        "role": "hero",
+        "asset": "images/researched/batch-01/LM_SL_02_hero.jpg",
+        "title": "Polysomnography model on his side.jpg",
+        "source_page": "https://commons.wikimedia.org/wiki/File:Polysomnography_model_on_his_side.jpg",
+        "source_asset_url": "https://upload.wikimedia.org/wikipedia/commons/2/2e/Polysomnography_model_on_his_side.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "download_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2e/Polysomnography_model_on_his_side.jpg/1280px-Polysomnography_model_on_his_side.jpg",
+        "author": "Clinique Somnomed",
+        "license": "CC BY-SA 4.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+        "caption_vi": "Người mẫu đeo thiết bị ghi giấc ngủ ở tư thế nằm nghiêng.",
+        "caption_en": "A model wearing sleep-recording equipment while lying on his side.",
+        "alt_vi": "Người mẫu đeo thiết bị ghi giấc ngủ ở tư thế nằm nghiêng.",
+        "alt_en": "A model wearing sleep-recording equipment while lying on his side.",
+        "relevance_vi": "Minh họa việc ghi nhiều tín hiệu để phân loại giấc ngủ, không suy giai đoạn chỉ từ tư thế.",
+        "modifications_vi": "Bản thu nhỏ; giữ nguyên nội dung.",
+        "modifications_en": "Thumbnail; image content unchanged.",
+        "fit": "cover",
+        "width": 1280,
+        "height": 960,
+        "sha256": "73e8c48b5713541d6938f94b6b288f9d53bc3e290b66552622cd69f061cd308c",
+        "checked_date": "2026-10-26",
+        "review_status": "Subject, source and licence checked",
+        "batch": 1
+      },
+      {
+        "article_id": "LM_SL_02",
+        "role": "inline",
+        "asset": "images/researched/batch-01/LM_SL_02_inline.png",
+        "title": "Sleep Hypnogram.svg",
+        "source_page": "https://commons.wikimedia.org/wiki/File:Sleep_Hypnogram.svg",
+        "source_asset_url": "https://upload.wikimedia.org/wikipedia/commons/3/3e/Sleep_Hypnogram.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "download_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3e/Sleep_Hypnogram.svg/1280px-Sleep_Hypnogram.svg.png",
+        "author": "RazerM at English Wikipedia",
+        "license": "CC BY-SA 3.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/3.0/",
+        "caption_vi": "Hypnogram minh họa các lần chuyển giữa thức, REM và NREM 1–3 trong một đêm.",
+        "caption_en": "Illustrative hypnogram showing transitions between wakefulness, REM and NREM stages 1–3.",
+        "alt_vi": "Hypnogram minh họa các lần chuyển giữa thức, REM và NREM 1–3 trong một đêm.",
+        "alt_en": "Illustrative hypnogram showing transitions between wakefulness, REM and NREM stages 1–3.",
+        "relevance_vi": "Trục giai đoạn và thời gian đã xem trực tiếp; đây là ví dụ, không phải lịch ngủ bắt buộc.",
+        "modifications_vi": "PNG kết xuất từ SVG; giữ nguyên nội dung.",
+        "modifications_en": "PNG rendering of SVG; content unchanged.",
+        "fit": "contain",
+        "width": 1280,
+        "height": 645,
+        "sha256": "db4e846fe771741226ca6b1e048eb8187aafeec44735ef9733f7a962133c9768",
+        "checked_date": "2026-10-26",
+        "review_status": "Subject, source and licence checked",
+        "batch": 1
+      }
+    ],
+    "image_review_batch": 1
   },
   "DM_SL_01": {
-    "hero_local": "images/DM_SL_01_hero.jpg",
-    "figure_local": "images/DM_SL_01_figure.jpg",
-    "hero_source_page": "https://test-repo-y1wb.onrender.com/images/DM_SL_01_hero.jpg",
-    "figure_source_page": "https://test-repo-y1wb.onrender.com/images/DM_SL_01_figure.jpg",
-    "creator": "Original project image library / editorial assets",
-    "provenance": "Hero restored from the original project library. Retained diagrams are illustrations, not study outcome data. Summary guidance is article text, not an image.",
-    "license_note": "Existing project raster assets restored; no new claim of upstream authorship or verified external licensing. Text summaries are part of the article body.",
+    "hero_local": "images/researched/batch-01/DM_SL_01_hero.jpg",
+    "figure_local": "images/researched/batch-01/DM_SL_01_inline.png",
+    "hero_source_page": "https://commons.wikimedia.org/wiki/File:Polysomnography_model.jpg",
+    "figure_source_page": "https://commons.wikimedia.org/wiki/File:Sleep_Stage_N3.png",
+    "creator": "See image_attributions for credited creators",
+    "provenance": "Image research batch 01: visible subject, source metadata and reuse terms checked. See image_attributions for each asset.",
+    "license_note": "Source image licences and authors are recorded per asset in image_attributions.",
     "evidence_urls": [
       "https://www.nhlbi.nih.gov/health/sleep/stages-of-sleep",
       "https://www.nhlbi.nih.gov/health/sleep-deprivation/healthy-sleep-habits",
@@ -48,32 +158,142 @@
       "https://pubmed.ncbi.nlm.nih.gov/34314344/",
       "https://www.nhlbi.nih.gov/health/sleep/sleep-wake-cycle",
       "https://www.nhlbi.nih.gov/health/sleep/how-much-sleep"
-    ]
+    ],
+    "image_attributions": [
+      {
+        "article_id": "DM_SL_01",
+        "role": "hero",
+        "asset": "images/researched/batch-01/DM_SL_01_hero.jpg",
+        "title": "Polysomnography model.jpg",
+        "source_page": "https://commons.wikimedia.org/wiki/File:Polysomnography_model.jpg",
+        "source_asset_url": "https://upload.wikimedia.org/wikipedia/commons/4/43/Polysomnography_model.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "download_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/43/Polysomnography_model.jpg/1280px-Polysomnography_model.jpg",
+        "author": "Clinique Somnomed",
+        "license": "CC BY-SA 4.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+        "caption_vi": "Người mẫu với các dây và cảm biến của một bản ghi giấc ngủ.",
+        "caption_en": "A model with wires and sensors used for a sleep recording.",
+        "alt_vi": "Người mẫu với các dây và cảm biến của một bản ghi giấc ngủ.",
+        "alt_en": "A model with wires and sensors used for a sleep recording.",
+        "relevance_vi": "Đặt đúng bối cảnh phép đo dùng phân loại ngủ sâu; người trong ảnh không được gán chẩn đoán.",
+        "modifications_vi": "Bản thu nhỏ; giữ nguyên nội dung.",
+        "modifications_en": "Thumbnail; image content unchanged.",
+        "fit": "cover",
+        "width": 1280,
+        "height": 960,
+        "sha256": "d10f534c74858aa21547f05c58fed0dc994e7cf1db3f413f58a73b7d7c4703ff",
+        "checked_date": "2026-10-26",
+        "review_status": "Subject, source and licence checked",
+        "batch": 1
+      },
+      {
+        "article_id": "DM_SL_01",
+        "role": "inline",
+        "asset": "images/researched/batch-01/DM_SL_01_inline.png",
+        "title": "Sleep Stage N3.png",
+        "source_page": "https://commons.wikimedia.org/wiki/File:Sleep_Stage_N3.png",
+        "source_asset_url": "https://upload.wikimedia.org/wikipedia/commons/9/95/Sleep_Stage_N3.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "download_url": "https://upload.wikimedia.org/wikipedia/commons/9/95/Sleep_Stage_N3.png",
+        "author": "NascarEd",
+        "license": "CC BY-SA 3.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+        "caption_vi": "Ví dụ bản ghi đa ký ở giai đoạn N3, gồm các kênh điện não, điện mắt và tín hiệu sinh lý khác.",
+        "caption_en": "Example N3 polysomnography recording with EEG, eye-movement and other physiological channels.",
+        "alt_vi": "Ví dụ bản ghi đa ký ở giai đoạn N3, gồm các kênh điện não, điện mắt và tín hiệu sinh lý khác.",
+        "alt_en": "Example N3 polysomnography recording with EEG, eye-movement and other physiological channels.",
+        "relevance_vi": "Nguồn ghi rõ N3, thay hình mang phân loại Stage 4 cũ; không áp các số trong ảnh cho người đọc.",
+        "modifications_vi": "Giữ nguyên nội dung file ảnh gốc.",
+        "modifications_en": "Original image file content unchanged.",
+        "fit": "contain",
+        "width": 840,
+        "height": 609,
+        "sha256": "88d54b085ad58a28e2f08f56ed2bf27913a56c83710eb06c43ce81198e3f4bfd",
+        "checked_date": "2026-10-26",
+        "review_status": "Subject, source and licence checked",
+        "batch": 1
+      }
+    ],
+    "image_review_batch": 1
   },
   "DM_SL_02": {
-    "hero_local": "images/DM_SL_02_hero.jpg",
-    "figure_local": "",
-    "hero_source_page": "https://test-repo-y1wb.onrender.com/images/DM_SL_02_hero.jpg",
-    "figure_source_page": "",
-    "creator": "Original project image library / editorial assets",
-    "provenance": "Hero restored from the original project library. Retained diagrams are illustrations, not study outcome data. Summary guidance is article text, not an image.",
-    "license_note": "Existing project raster assets restored; no new claim of upstream authorship or verified external licensing. Text summaries are part of the article body.",
+    "hero_local": "images/researched/batch-01/DM_SL_02_hero.jpg",
+    "figure_local": "images/researched/batch-01/DM_SL_02_inline.png",
+    "hero_source_page": "https://www.pexels.com/photo/man-lying-on-bed-10260854/",
+    "figure_source_page": "https://commons.wikimedia.org/wiki/File:Sleep_diary.svg",
+    "creator": "See image_attributions for credited creators",
+    "provenance": "Image research batch 01: visible subject, source metadata and reuse terms checked. See image_attributions for each asset.",
+    "license_note": "Source image licences and authors are recorded per asset in image_attributions.",
     "evidence_urls": [
       "https://www.nhlbi.nih.gov/health/sleep/how-much-sleep",
       "https://www.nhlbi.nih.gov/health/sleep/sleep-wake-cycle",
       "https://www.nhlbi.nih.gov/health/sleep-deprivation/healthy-sleep-habits",
       "https://pubmed.ncbi.nlm.nih.gov/34314344/",
       "https://www.nhlbi.nih.gov/health/sleep/stages-of-sleep"
-    ]
+    ],
+    "image_attributions": [
+      {
+        "article_id": "DM_SL_02",
+        "role": "hero",
+        "asset": "images/researched/batch-01/DM_SL_02_hero.jpg",
+        "title": "Man Lying on Bed",
+        "source_page": "https://www.pexels.com/photo/man-lying-on-bed-10260854/",
+        "source_asset_url": "https://images.pexels.com/photos/10260854/pexels-photo-10260854.jpeg",
+        "download_url": "https://images.pexels.com/photos/10260854/pexels-photo-10260854.jpeg?auto=compress&cs=tinysrgb&w=1600",
+        "author": "Ron Lach",
+        "license": "Pexels License",
+        "license_url": "https://www.pexels.com/license/",
+        "caption_vi": "Ảnh minh họa một người đang nằm nghỉ trên giường.",
+        "caption_en": "Illustrative photograph of a person resting in bed.",
+        "alt_vi": "Ảnh minh họa một người đang nằm nghỉ trên giường.",
+        "alt_en": "Illustrative photograph of a person resting in bed.",
+        "relevance_vi": "Đúng chủ đề cơ hội ngủ và nghỉ, không suy rằng người mẫu mắc thiếu ngủ.",
+        "modifications_vi": "Pexels thu nhỏ/nén JPEG; không sửa nội dung.",
+        "modifications_en": "Pexels resized/compressed JPEG; no content changes.",
+        "fit": "cover",
+        "width": 1600,
+        "height": 2400,
+        "sha256": "214d612d5353828b0b45827d1469e2b851178dab39a544ba9d255588c101574a",
+        "checked_date": "2026-10-26",
+        "review_status": "Subject, source and licence checked",
+        "batch": 1
+      },
+      {
+        "article_id": "DM_SL_02",
+        "role": "inline",
+        "asset": "images/researched/batch-01/DM_SL_02_inline.png",
+        "title": "Sleep diary.svg",
+        "source_page": "https://commons.wikimedia.org/wiki/File:Sleep_diary.svg",
+        "source_asset_url": "https://upload.wikimedia.org/wikipedia/commons/7/7a/Sleep_diary.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "download_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7a/Sleep_diary.svg/1280px-Sleep_diary.svg.png",
+        "author": "Sleep_diary.jpg: User:Hordaland from the English Wikipedia\nderivative work: Beao",
+        "license": "Public domain",
+        "license_url": "https://commons.wikimedia.org/wiki/File:Sleep_diary.svg#Licensing",
+        "caption_vi": "Mẫu lưới nhật ký giấc ngủ theo ngày và giờ; các ô chưa được điền dữ liệu.",
+        "caption_en": "Blank sleep-diary grid arranged by day and time.",
+        "alt_vi": "Mẫu lưới nhật ký giấc ngủ theo ngày và giờ; các ô chưa được điền dữ liệu.",
+        "alt_en": "Blank sleep-diary grid arranged by day and time.",
+        "relevance_vi": "Phục vụ lời khuyên ghi giờ ngủ/thức để xem nợ ngủ; đây là biểu mẫu theo dõi, không phải hình tóm tắt văn bản.",
+        "modifications_vi": "PNG kết xuất từ SVG; giữ nguyên nội dung.",
+        "modifications_en": "PNG rendering of SVG; content unchanged.",
+        "fit": "contain",
+        "width": 1280,
+        "height": 968,
+        "sha256": "65d9d412816100de090d4ad833e2b499df860b9a1518a29890eecf4be705611b",
+        "checked_date": "2026-10-26",
+        "review_status": "Subject, source and licence checked",
+        "batch": 1
+      }
+    ],
+    "image_review_batch": 1
   },
   "LM_RC_01": {
-    "hero_local": "images/LM_RC_01_hero.jpg",
-    "figure_local": "images/LM_RC_01_figure.png",
-    "hero_source_page": "https://test-repo-y1wb.onrender.com/images/LM_RC_01_hero.jpg",
-    "figure_source_page": "https://test-repo-y1wb.onrender.com/images/LM_RC_01_figure.png",
-    "creator": "Original project image library / editorial assets",
-    "provenance": "Hero restored from the original project library. Retained diagrams are illustrations, not study outcome data. Summary guidance is article text, not an image.",
-    "license_note": "Existing project raster assets restored; no new claim of upstream authorship or verified external licensing. Text summaries are part of the article body.",
+    "hero_local": "images/researched/batch-01/LM_RC_01_hero.jpg",
+    "figure_local": "images/researched/batch-01/LM_RC_01_inline.png",
+    "hero_source_page": "https://commons.wikimedia.org/wiki/File:Polar_H10.jpg",
+    "figure_source_page": "https://commons.wikimedia.org/wiki/File:ECG-RRinterval.svg",
+    "creator": "See image_attributions for credited creators",
+    "provenance": "Image research batch 01: visible subject, source metadata and reuse terms checked. See image_attributions for each asset.",
+    "license_note": "Source image licences and authors are recorded per asset in image_attributions.",
     "evidence_urls": [
       "https://pubmed.ncbi.nlm.nih.gov/29034226/",
       "https://pubmed.ncbi.nlm.nih.gov/27680542/",
@@ -81,16 +301,71 @@
       "https://pubmed.ncbi.nlm.nih.gov/29345524/",
       "https://pubmed.ncbi.nlm.nih.gov/27881567/",
       "https://pubmed.ncbi.nlm.nih.gov/30245619/"
-    ]
+    ],
+    "image_attributions": [
+      {
+        "article_id": "LM_RC_01",
+        "role": "hero",
+        "asset": "images/researched/batch-01/LM_RC_01_hero.jpg",
+        "title": "Polar H10.jpg",
+        "source_page": "https://commons.wikimedia.org/wiki/File:Polar_H10.jpg",
+        "source_asset_url": "https://upload.wikimedia.org/wikipedia/commons/4/4a/Polar_H10.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "download_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4a/Polar_H10.jpg/1280px-Polar_H10.jpg",
+        "author": "Tiia Monto",
+        "license": "CC BY-SA 3.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+        "caption_vi": "Cảm biến nhịp tim Polar H10 gắn với đai ngực.",
+        "caption_en": "A Polar H10 heart-rate sensor with a chest strap.",
+        "alt_vi": "Cảm biến nhịp tim Polar H10 gắn với đai ngực.",
+        "alt_en": "A Polar H10 heart-rate sensor with a chest strap.",
+        "relevance_vi": "Minh họa một cách thu tín hiệu nhịp tim; không khẳng định đai ngực và đồng hồ cho HRV giống nhau.",
+        "modifications_vi": "Bản thu nhỏ; giữ nguyên nội dung.",
+        "modifications_en": "Thumbnail; image content unchanged.",
+        "fit": "contain",
+        "width": 1280,
+        "height": 1208,
+        "sha256": "4f1708611507b0bc46f0b9d99d81cc259bb45480bd23965acc941d0caf54f21b",
+        "checked_date": "2026-10-26",
+        "review_status": "Subject, source and licence checked",
+        "batch": 1
+      },
+      {
+        "article_id": "LM_RC_01",
+        "role": "inline",
+        "asset": "images/researched/batch-01/LM_RC_01_inline.png",
+        "title": "ECG-RRinterval.svg",
+        "source_page": "https://commons.wikimedia.org/wiki/File:ECG-RRinterval.svg",
+        "source_asset_url": "https://upload.wikimedia.org/wikipedia/commons/c/c1/ECG-RRinterval.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "download_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c1/ECG-RRinterval.svg/1280px-ECG-RRinterval.svg.png",
+        "author": "Anthony Atkielski (Agateller), atom and Kychot",
+        "license": "Copyrighted free use",
+        "license_url": "https://commons.wikimedia.org/wiki/File:ECG-RRinterval.svg#Licensing",
+        "caption_vi": "Khoảng R–R nằm giữa hai đỉnh R liên tiếp trên sơ đồ ECG.",
+        "caption_en": "An R–R interval between successive R peaks in an ECG schematic.",
+        "alt_vi": "Khoảng R–R nằm giữa hai đỉnh R liên tiếp trên sơ đồ ECG.",
+        "alt_en": "An R–R interval between successive R peaks in an ECG schematic.",
+        "relevance_vi": "Sơ đồ mô tả khoảng nhịp, không tự chứng minh biến thiên hay mức stress; tác giả và quyền sử dụng đã đối chiếu.",
+        "modifications_vi": "PNG kết xuất từ SVG; giữ nguyên nội dung.",
+        "modifications_en": "PNG rendering of SVG; content unchanged.",
+        "fit": "contain",
+        "width": 1280,
+        "height": 960,
+        "sha256": "c63807e248b4d5d6303585ede658d77794c0cbd489328326196dd4e920a073dd",
+        "checked_date": "2026-10-26",
+        "review_status": "Subject, source and licence checked",
+        "batch": 1
+      }
+    ],
+    "image_review_batch": 1
   },
   "LM_RC_02": {
-    "hero_local": "images/LM_RC_02_hero.jpg",
-    "figure_local": "images/LM_RC_02_figure.jpg",
-    "hero_source_page": "https://test-repo-y1wb.onrender.com/images/LM_RC_02_hero.jpg",
-    "figure_source_page": "https://test-repo-y1wb.onrender.com/images/LM_RC_02_figure.jpg",
-    "creator": "Original project image library / editorial assets",
-    "provenance": "Hero restored from the original project library. Retained diagrams are illustrations, not study outcome data. Summary guidance is article text, not an image.",
-    "license_note": "Existing project raster assets restored; no new claim of upstream authorship or verified external licensing. Text summaries are part of the article body.",
+    "hero_local": "images/researched/batch-01/LM_RC_02_hero.jpg",
+    "figure_local": "images/researched/batch-01/LM_RC_02_inline.png",
+    "hero_source_page": "https://commons.wikimedia.org/wiki/File:Polar_RS400_Heart_Rate_Monitor.jpg",
+    "figure_source_page": "https://commons.wikimedia.org/wiki/File:Fr%C3%A9quence_cardiaque_%C3%A0_partir_d%27un_%C3%A9lectrocardiogramme.png",
+    "creator": "See image_attributions for credited creators",
+    "provenance": "Image research batch 01: visible subject, source metadata and reuse terms checked. See image_attributions for each asset.",
+    "license_note": "Source image licences and authors are recorded per asset in image_attributions.",
     "evidence_urls": [
       "https://www.heart.org/en/health-topics/high-blood-pressure/the-facts-about-high-blood-pressure/all-about-heart-rate-pulse",
       "https://pubmed.ncbi.nlm.nih.gov/29345524/",
@@ -99,31 +374,141 @@
       "https://pubmed.ncbi.nlm.nih.gov/27680542/",
       "https://pubmed.ncbi.nlm.nih.gov/29663142/",
       "https://www.who.int/news-room/fact-sheets/detail/physical-activity"
-    ]
+    ],
+    "image_attributions": [
+      {
+        "article_id": "LM_RC_02",
+        "role": "hero",
+        "asset": "images/researched/batch-01/LM_RC_02_hero.jpg",
+        "title": "Polar RS400 Heart Rate Monitor.jpg",
+        "source_page": "https://commons.wikimedia.org/wiki/File:Polar_RS400_Heart_Rate_Monitor.jpg",
+        "source_asset_url": "https://upload.wikimedia.org/wikipedia/commons/a/ac/Polar_RS400_Heart_Rate_Monitor.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "download_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ac/Polar_RS400_Heart_Rate_Monitor.jpg/1280px-Polar_RS400_Heart_Rate_Monitor.jpg",
+        "author": "Bill Ebbesen, aka Atomicbre at English Wikipedia",
+        "license": "Public domain",
+        "license_url": "https://commons.wikimedia.org/wiki/File:Polar_RS400_Heart_Rate_Monitor.jpg#Licensing",
+        "caption_vi": "Đồng hồ và đai ngực đo nhịp tim; con số trên ảnh là ví dụ hiển thị của thiết bị.",
+        "caption_en": "A watch and chest-strap heart-rate monitor; the displayed value is an example device reading.",
+        "alt_vi": "Đồng hồ và đai ngực đo nhịp tim; con số trên ảnh là ví dụ hiển thị của thiết bị.",
+        "alt_en": "A watch and chest-strap heart-rate monitor; the displayed value is an example device reading.",
+        "relevance_vi": "Đúng nội dung cách đọc mạch; giá trị hiển thị không được gọi là nhịp tim nghỉ đêm của người đọc.",
+        "modifications_vi": "Bản thu nhỏ; giữ nguyên nội dung.",
+        "modifications_en": "Thumbnail; image content unchanged.",
+        "fit": "contain",
+        "width": 1280,
+        "height": 1144,
+        "sha256": "668e921d342bfbdbcc99fe0ec41fd032393bebadf10c9277f3779dd42551d69b",
+        "checked_date": "2026-10-26",
+        "review_status": "Subject, source and licence checked",
+        "batch": 1
+      },
+      {
+        "article_id": "LM_RC_02",
+        "role": "inline",
+        "asset": "images/researched/batch-01/LM_RC_02_inline.png",
+        "title": "Fréquence cardiaque à partir d'un électrocardiogramme.png",
+        "source_page": "https://commons.wikimedia.org/wiki/File:Fr%C3%A9quence_cardiaque_%C3%A0_partir_d%27un_%C3%A9lectrocardiogramme.png",
+        "source_asset_url": "https://upload.wikimedia.org/wikipedia/commons/a/a2/Fr%C3%A9quence_cardiaque_%C3%A0_partir_d%27un_%C3%A9lectrocardiogramme.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "download_url": "https://upload.wikimedia.org/wikipedia/commons/a/a2/Fr%C3%A9quence_cardiaque_%C3%A0_partir_d%27un_%C3%A9lectrocardiogramme.png",
+        "author": "Erdé51",
+        "license": "CC0",
+        "license_url": "https://creativecommons.org/publicdomain/zero/1.0/deed.en",
+        "caption_vi": "Ví dụ minh họa cách khoảng R–R liên hệ với nhịp tim: 800 ms tương ứng 75 nhịp/phút.",
+        "caption_en": "Illustrative R–R timing and heart rate: 800 ms corresponds to 75 beats per minute.",
+        "alt_vi": "Ví dụ minh họa cách khoảng R–R liên hệ với nhịp tim: 800 ms tương ứng 75 nhịp/phút.",
+        "alt_en": "Illustrative R–R timing and heart rate: 800 ms corresponds to 75 beats per minute.",
+        "relevance_vi": "Đã kiểm tra phép tính 60/0,800=75; các giá trị khác là số minh họa, không phải mục tiêu sức khỏe.",
+        "modifications_vi": "Giữ nguyên nội dung file ảnh gốc.",
+        "modifications_en": "Original image file content unchanged.",
+        "fit": "contain",
+        "width": 1261,
+        "height": 413,
+        "sha256": "b7c3ee6433a93089650dd2972c8642a8d05236d23f0f63249e2afcbf337ee998",
+        "checked_date": "2026-10-26",
+        "review_status": "Subject, source and licence checked",
+        "batch": 1
+      }
+    ],
+    "image_review_batch": 1
   },
   "DM_RC_01": {
-    "hero_local": "images/DM_RC_01_hero.jpg",
-    "figure_local": "",
-    "hero_source_page": "https://test-repo-y1wb.onrender.com/images/DM_RC_01_hero.jpg",
-    "figure_source_page": "",
-    "creator": "Original project image library / editorial assets",
-    "provenance": "Hero restored from the original project library. Retained diagrams are illustrations, not study outcome data. Summary guidance is article text, not an image.",
-    "license_note": "Existing project raster assets restored; no new claim of upstream authorship or verified external licensing. Text summaries are part of the article body.",
+    "hero_local": "images/researched/batch-01/DM_RC_01_hero.jpg",
+    "figure_local": "images/researched/batch-01/DM_RC_01_inline.jpg",
+    "hero_source_page": "https://commons.wikimedia.org/wiki/File:Prepara%C3%A7%C3%A3o_para_Pranayamas.jpg",
+    "figure_source_page": "https://commons.wikimedia.org/wiki/File:2316_Inspiration_and_Expiration.jpg",
+    "creator": "See image_attributions for credited creators",
+    "provenance": "Image research batch 01: visible subject, source metadata and reuse terms checked. See image_attributions for each asset.",
+    "license_note": "Source image licences and authors are recorded per asset in image_attributions.",
     "evidence_urls": [
       "https://pubmed.ncbi.nlm.nih.gov/30245619/",
       "https://pubmed.ncbi.nlm.nih.gov/27680542/",
       "https://pubmed.ncbi.nlm.nih.gov/29034226/",
       "https://www.heart.org/en/health-topics/high-blood-pressure/the-facts-about-high-blood-pressure/all-about-heart-rate-pulse"
-    ]
+    ],
+    "image_attributions": [
+      {
+        "article_id": "DM_RC_01",
+        "role": "hero",
+        "asset": "images/researched/batch-01/DM_RC_01_hero.jpg",
+        "title": "Preparação para Pranayamas.jpg",
+        "source_page": "https://commons.wikimedia.org/wiki/File:Prepara%C3%A7%C3%A3o_para_Pranayamas.jpg",
+        "source_asset_url": "https://upload.wikimedia.org/wikipedia/commons/0/02/Prepara%C3%A7%C3%A3o_para_Pranayamas.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "download_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/02/Prepara%C3%A7%C3%A3o_para_Pranayamas.jpg/1280px-Prepara%C3%A7%C3%A3o_para_Pranayamas.jpg",
+        "author": "Ericacastex",
+        "license": "CC BY-SA 4.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+        "caption_vi": "Tư thế nằm nghỉ được dùng trong một buổi chuẩn bị thực hành thở.",
+        "caption_en": "A resting supine posture used while preparing for breathing practice.",
+        "alt_vi": "Tư thế nằm nghỉ được dùng trong một buổi chuẩn bị thực hành thở.",
+        "alt_en": "A resting supine posture used while preparing for breathing practice.",
+        "relevance_vi": "Nguồn ghi Preparation for Pranayamas; ảnh cho thấy tư thế thư giãn, không thể hiện nín thở hay khẳng định tốc độ thở.",
+        "modifications_vi": "Bản thu nhỏ; giữ nguyên nội dung.",
+        "modifications_en": "Thumbnail; image content unchanged.",
+        "fit": "cover",
+        "width": 1280,
+        "height": 960,
+        "sha256": "e356ab86fa27b2101e5bfbdd4fa322fcbcddddc63317a8c13d54d353a14391ca",
+        "checked_date": "2026-10-26",
+        "review_status": "Subject, source and licence checked",
+        "batch": 1
+      },
+      {
+        "article_id": "DM_RC_01",
+        "role": "inline",
+        "asset": "images/researched/batch-01/DM_RC_01_inline.jpg",
+        "title": "2316 Inspiration and Expiration.jpg",
+        "source_page": "https://commons.wikimedia.org/wiki/File:2316_Inspiration_and_Expiration.jpg",
+        "source_asset_url": "https://upload.wikimedia.org/wikipedia/commons/8/8c/2316_Inspiration_and_Expiration.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "download_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8c/2316_Inspiration_and_Expiration.jpg/1280px-2316_Inspiration_and_Expiration.jpg",
+        "author": "OpenStax College",
+        "license": "CC BY 3.0",
+        "license_url": "https://creativecommons.org/licenses/by/3.0",
+        "caption_vi": "Cơ hoành và lồng ngực thay đổi giữa hít vào và thở ra.",
+        "caption_en": "Diaphragm and rib-cage changes during inhalation and exhalation.",
+        "alt_vi": "Cơ hoành và lồng ngực thay đổi giữa hít vào và thở ra.",
+        "alt_en": "Diaphragm and rib-cage changes during inhalation and exhalation.",
+        "relevance_vi": "Kiểm tra mũi tên hít vào/thở ra và cơ hoành; không dùng tốc độ GIF làm nhịp hướng dẫn.",
+        "modifications_vi": "Bản thu nhỏ; giữ nguyên nội dung.",
+        "modifications_en": "Thumbnail; image content unchanged.",
+        "fit": "contain",
+        "width": 1280,
+        "height": 946,
+        "sha256": "6cb279dcb76250435d11a3b8e0d1bd0613eb1d013b2fd0763c803f3ae23db8ac",
+        "checked_date": "2026-10-26",
+        "review_status": "Subject, source and licence checked",
+        "batch": 1
+      }
+    ],
+    "image_review_batch": 1
   },
   "DM_RC_02": {
-    "hero_local": "images/DM_RC_02_hero.jpg",
-    "figure_local": "",
-    "hero_source_page": "https://test-repo-y1wb.onrender.com/images/DM_RC_02_hero.jpg",
-    "figure_source_page": "",
-    "creator": "Original project image library / editorial assets",
-    "provenance": "Hero restored from the original project library. Retained diagrams are illustrations, not study outcome data. Summary guidance is article text, not an image.",
-    "license_note": "Existing project raster assets restored; no new claim of upstream authorship or verified external licensing. Text summaries are part of the article body.",
+    "hero_local": "images/researched/batch-01/DM_RC_02_hero.jpg",
+    "figure_local": "images/researched/batch-01/DM_RC_02_inline.jpg",
+    "hero_source_page": "https://www.pexels.com/photo/woman-and-man-walking-in-park-15913972/",
+    "figure_source_page": "https://commons.wikimedia.org/wiki/File:Urban_cycling_III.jpg",
+    "creator": "See image_attributions for credited creators",
+    "provenance": "Image research batch 01: visible subject, source metadata and reuse terms checked. See image_attributions for each asset.",
+    "license_note": "Source image licences and authors are recorded per asset in image_attributions.",
     "evidence_urls": [
       "https://pubmed.ncbi.nlm.nih.gov/29663142/",
       "https://pubmed.ncbi.nlm.nih.gov/29345524/",
@@ -131,16 +516,71 @@
       "https://bjsm.bmj.com/content/57/17/1073",
       "https://www.cdc.gov/physicalactivity/basics/measuring/index.html",
       "https://www.who.int/news-room/fact-sheets/detail/physical-activity"
-    ]
+    ],
+    "image_attributions": [
+      {
+        "article_id": "DM_RC_02",
+        "role": "hero",
+        "asset": "images/researched/batch-01/DM_RC_02_hero.jpg",
+        "title": "Woman and Man Walking in Park",
+        "source_page": "https://www.pexels.com/photo/woman-and-man-walking-in-park-15913972/",
+        "source_asset_url": "https://images.pexels.com/photos/15913972/pexels-photo-15913972.png",
+        "download_url": "https://images.pexels.com/photos/15913972/pexels-photo-15913972.png?auto=compress&cs=tinysrgb&w=1600&fm=jpg",
+        "author": "David Brown",
+        "license": "Pexels License",
+        "license_url": "https://www.pexels.com/license/",
+        "caption_vi": "Hai người đi bộ trên lối đi trong công viên.",
+        "caption_en": "Two people walking on a path in a park.",
+        "alt_vi": "Hai người đi bộ trên lối đi trong công viên.",
+        "alt_en": "Two people walking on a path in a park.",
+        "relevance_vi": "Chủ thể đi bộ rõ hơn ảnh công viên chụp xa; minh họa một lựa chọn vận động, không suy mức gắng sức hay tình trạng phục hồi của người trong ảnh.",
+        "modifications_vi": "Pexels thu nhỏ/chuyển JPEG; không sửa nội dung.",
+        "modifications_en": "Pexels resized/JPEG rendering; no content changes.",
+        "fit": "cover",
+        "width": 1600,
+        "height": 1067,
+        "sha256": "1a64d6ba30bfa79a575dd4c3a6285d4ff6685980e5a466cca43ddfab543feb3b",
+        "checked_date": "2026-10-26",
+        "review_status": "Subject, source and licence checked",
+        "batch": 1
+      },
+      {
+        "article_id": "DM_RC_02",
+        "role": "inline",
+        "asset": "images/researched/batch-01/DM_RC_02_inline.jpg",
+        "title": "Urban cycling III.jpg",
+        "source_page": "https://commons.wikimedia.org/wiki/File:Urban_cycling_III.jpg",
+        "source_asset_url": "https://upload.wikimedia.org/wikipedia/commons/6/62/Urban_cycling_III.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "download_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/62/Urban_cycling_III.jpg/1280px-Urban_cycling_III.jpg",
+        "author": "KF from en.wiki",
+        "license": "Public domain",
+        "license_url": "https://commons.wikimedia.org/wiki/File:Urban_cycling_III.jpg#Licensing",
+        "caption_vi": "Đạp xe là một lựa chọn vận động; mức gắng sức tùy tốc độ và hoàn cảnh.",
+        "caption_en": "Cycling is one activity option; effort depends on speed and circumstances.",
+        "alt_vi": "Đạp xe là một lựa chọn vận động; mức gắng sức tùy tốc độ và hoàn cảnh.",
+        "alt_en": "Cycling is one activity option; effort depends on speed and circumstances.",
+        "relevance_vi": "Minh họa loại hoạt động để cân nhắc phục hồi chủ động, không gán cường độ từ ảnh.",
+        "modifications_vi": "Bản thu nhỏ; giữ nguyên nội dung.",
+        "modifications_en": "Thumbnail; image content unchanged.",
+        "fit": "contain",
+        "width": 1280,
+        "height": 960,
+        "sha256": "942ea2bce79479e9a498dd1544090e1a4fbfef5289f305494d0eead8ac9201fa",
+        "checked_date": "2026-10-26",
+        "review_status": "Subject, source and licence checked",
+        "batch": 1
+      }
+    ],
+    "image_review_batch": 1
   },
   "LM_AC_01": {
-    "hero_local": "images/LM_AC_01_hero.jpg",
-    "figure_local": "",
-    "hero_source_page": "https://test-repo-y1wb.onrender.com/images/LM_AC_01_hero.jpg",
-    "figure_source_page": "",
-    "creator": "Original project image library / editorial assets",
-    "provenance": "Hero restored from the original project library. Retained diagrams are illustrations, not study outcome data. Summary guidance is article text, not an image.",
-    "license_note": "Existing project raster assets restored; no new claim of upstream authorship or verified external licensing. Text summaries are part of the article body.",
+    "hero_local": "images/researched/batch-01/LM_AC_01_hero.jpg",
+    "figure_local": "images/researched/batch-01/LM_AC_01_inline.jpg",
+    "hero_source_page": "https://commons.wikimedia.org/wiki/File:Fitbit_inspire_3_(55322650282).jpg",
+    "figure_source_page": "https://commons.wikimedia.org/wiki/File:Brisk_Walking_-_Shimla_2014-05-08_1498.JPG",
+    "creator": "See image_attributions for credited creators",
+    "provenance": "Image research batch 01: visible subject, source metadata and reuse terms checked. See image_attributions for each asset.",
+    "license_note": "Source image licences and authors are recorded per asset in image_attributions.",
     "evidence_urls": [
       "https://support.google.com/googlehealth/answer/14236509?hl=en",
       "https://www.who.int/news-room/fact-sheets/detail/physical-activity",
@@ -148,16 +588,71 @@
       "https://support.whoop.com/s/article/WHOOP-Strain",
       "https://pubmed.ncbi.nlm.nih.gov/29345524/",
       "https://pubmed.ncbi.nlm.nih.gov/29663142/"
-    ]
+    ],
+    "image_attributions": [
+      {
+        "article_id": "LM_AC_01",
+        "role": "hero",
+        "asset": "images/researched/batch-01/LM_AC_01_hero.jpg",
+        "title": "Fitbit inspire 3 (55322650282).jpg",
+        "source_page": "https://commons.wikimedia.org/wiki/File:Fitbit_inspire_3_(55322650282).jpg",
+        "source_asset_url": "https://upload.wikimedia.org/wikipedia/commons/2/2f/Fitbit_inspire_3_%2855322650282%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "download_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2f/Fitbit_inspire_3_%2855322650282%29.jpg/1280px-Fitbit_inspire_3_%2855322650282%29.jpg",
+        "author": "Tatsuo Yamashita",
+        "license": "CC BY 4.0",
+        "license_url": "https://creativecommons.org/licenses/by/4.0",
+        "caption_vi": "Thiết bị Fitbit Inspire 3; ảnh minh họa sản phẩm, không phải báo cáo Active Zone Minutes.",
+        "caption_en": "A Fitbit Inspire 3 device; a product photograph rather than an Active Zone Minutes report.",
+        "alt_vi": "Thiết bị Fitbit Inspire 3; ảnh minh họa sản phẩm, không phải báo cáo Active Zone Minutes.",
+        "alt_en": "A Fitbit Inspire 3 device; a product photograph rather than an Active Zone Minutes report.",
+        "relevance_vi": "Đúng hãng và mẫu thiết bị; không nhầm số giờ trên màn hình thành AZM.",
+        "modifications_vi": "Bản thu nhỏ; giữ nguyên nội dung.",
+        "modifications_en": "Thumbnail; image content unchanged.",
+        "fit": "contain",
+        "width": 1280,
+        "height": 960,
+        "sha256": "18bd5347b07332c3042d248e04dcc90bb765b120e5a699f367b8d600f15dcd70",
+        "checked_date": "2026-10-26",
+        "review_status": "Subject, source and licence checked",
+        "batch": 1
+      },
+      {
+        "article_id": "LM_AC_01",
+        "role": "inline",
+        "asset": "images/researched/batch-01/LM_AC_01_inline.jpg",
+        "title": "Brisk Walking - Shimla 2014-05-08 1498.JPG",
+        "source_page": "https://commons.wikimedia.org/wiki/File:Brisk_Walking_-_Shimla_2014-05-08_1498.JPG",
+        "source_asset_url": "https://upload.wikimedia.org/wikipedia/commons/a/a1/Brisk_Walking_-_Shimla_2014-05-08_1498.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "download_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a1/Brisk_Walking_-_Shimla_2014-05-08_1498.JPG/1280px-Brisk_Walking_-_Shimla_2014-05-08_1498.JPG",
+        "author": "Biswarup Ganguly",
+        "license": "CC BY 3.0",
+        "license_url": "https://creativecommons.org/licenses/by/3.0",
+        "caption_vi": "Đi bộ nhanh là một ví dụ vận động; số phút vùng hoạt động còn phụ thuộc nhịp tim và cách tính của thiết bị.",
+        "caption_en": "Brisk walking is an activity example; zone minutes also depend on heart rate and the device calculation.",
+        "alt_vi": "Đi bộ nhanh là một ví dụ vận động; số phút vùng hoạt động còn phụ thuộc nhịp tim và cách tính của thiết bị.",
+        "alt_en": "Brisk walking is an activity example; zone minutes also depend on heart rate and the device calculation.",
+        "relevance_vi": "Nguồn ảnh ghi Brisk Walking; không suy người mẫu chắc chắn đạt vùng nhịp tim nào.",
+        "modifications_vi": "Bản thu nhỏ; giữ nguyên nội dung.",
+        "modifications_en": "Thumbnail; image content unchanged.",
+        "fit": "contain",
+        "width": 1280,
+        "height": 1925,
+        "sha256": "44decc5faac69ca5816fbd422408c83223b13ac6dc5288d2adcce19cce556dcb",
+        "checked_date": "2026-10-26",
+        "review_status": "Subject, source and licence checked",
+        "batch": 1
+      }
+    ],
+    "image_review_batch": 1
   },
   "LM_AC_02": {
-    "hero_local": "images/LM_AC_02_hero.jpg",
+    "hero_local": "images/researched/batch-01/LM_AC_02_hero.jpg",
     "figure_local": "",
-    "hero_source_page": "https://test-repo-y1wb.onrender.com/images/LM_AC_02_hero.jpg",
+    "hero_source_page": "https://commons.wikimedia.org/wiki/File:Ella_Seidel,_May_2026,_Roma.jpg",
     "figure_source_page": "",
-    "creator": "Original project image library / editorial assets",
-    "provenance": "Hero restored from the original project library. Retained diagrams are illustrations, not study outcome data. Summary guidance is article text, not an image.",
-    "license_note": "Existing project raster assets restored; no new claim of upstream authorship or verified external licensing. Text summaries are part of the article body.",
+    "creator": "See image_attributions for credited creators",
+    "provenance": "Image research batch 01: visible subject, source metadata and reuse terms checked. See image_attributions for each asset.",
+    "license_note": "Source image licences and authors are recorded per asset in image_attributions.",
     "evidence_urls": [
       "https://support.whoop.com/s/article/WHOOP-Strain",
       "https://pubmed.ncbi.nlm.nih.gov/29345524/",
@@ -166,7 +661,36 @@
       "https://www.who.int/news-room/fact-sheets/detail/physical-activity",
       "https://bjsm.bmj.com/content/57/17/1073",
       "https://pubmed.ncbi.nlm.nih.gov/29663142/"
-    ]
+    ],
+    "image_attributions": [
+      {
+        "article_id": "LM_AC_02",
+        "role": "hero",
+        "asset": "images/researched/batch-01/LM_AC_02_hero.jpg",
+        "title": "Ella Seidel, May 2026, Roma.jpg",
+        "source_page": "https://commons.wikimedia.org/wiki/File:Ella_Seidel,_May_2026,_Roma.jpg",
+        "source_asset_url": "https://upload.wikimedia.org/wikipedia/commons/9/99/Ella_Seidel%2C_May_2026%2C_Roma.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "download_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/99/Ella_Seidel%2C_May_2026%2C_Roma.jpg/1280px-Ella_Seidel%2C_May_2026%2C_Roma.jpg",
+        "author": "Raffaele Di Buono",
+        "license": "CC0",
+        "license_url": "https://creativecommons.org/publicdomain/zero/1.0/deed.en",
+        "caption_vi": "Vận động viên Ella Seidel với vòng đeo WHOOP trên sân quần vợt ở Roma năm 2026.",
+        "caption_en": "Tennis player Ella Seidel wearing a WHOOP band in Rome in 2026.",
+        "alt_vi": "Vận động viên Ella Seidel với vòng đeo WHOOP trên sân quần vợt ở Roma năm 2026.",
+        "alt_en": "Tennis player Ella Seidel wearing a WHOOP band in Rome in 2026.",
+        "relevance_vi": "Nguồn Commons phân loại People wearing Whoop bands; không suy ra Strain, HRV hay sức khỏe từ ảnh.",
+        "modifications_vi": "Bản thu nhỏ; giữ nguyên nội dung.",
+        "modifications_en": "Thumbnail; image content unchanged.",
+        "fit": "cover",
+        "width": 1280,
+        "height": 961,
+        "sha256": "33869b06a227253a982dc86cd44b382c71ca5f1dd4ef99d41c517ec0a0af07f8",
+        "checked_date": "2026-10-26",
+        "review_status": "Subject, source and licence checked",
+        "batch": 1
+      }
+    ],
+    "image_review_batch": 1
   },
   "DM_AC_01": {
     "hero_local": "images/DM_AC_01_hero.jpg",
@@ -182,7 +706,9 @@
       "https://pubmed.ncbi.nlm.nih.gov/27881567/",
       "https://pubmed.ncbi.nlm.nih.gov/29663142/",
       "https://pubmed.ncbi.nlm.nih.gov/29345524/"
-    ]
+    ],
+    "image_attributions": [],
+    "image_review_batch": 0
   },
   "DM_AC_02": {
     "hero_local": "images/DM_AC_02_hero.jpg",
@@ -198,7 +724,9 @@
       "https://bjsm.bmj.com/content/57/17/1073",
       "https://www.nhs.uk/symptoms/missed-or-late-periods/",
       "https://pubmed.ncbi.nlm.nih.gov/29663142/"
-    ]
+    ],
+    "image_attributions": [],
+    "image_review_batch": 0
   },
   "LM_HW_01": {
     "hero_local": "images/LM_HW_01_hero.jpg",
@@ -215,7 +743,9 @@
       "https://support.google.com/product-documentation/answer/14779613?hl=en",
       "https://pubmed.ncbi.nlm.nih.gov/29034226/",
       "https://www.heart.org/en/health-topics/high-blood-pressure/the-facts-about-high-blood-pressure/all-about-heart-rate-pulse"
-    ]
+    ],
+    "image_attributions": [],
+    "image_review_batch": 0
   },
   "LM_HW_02": {
     "hero_local": "images/LM_HW_02_hero.jpg",
@@ -231,7 +761,9 @@
       "https://www.cdc.gov/physicalactivity/basics/measuring/index.html",
       "https://www.heart.org/en/health-topics/high-blood-pressure/the-facts-about-high-blood-pressure/all-about-heart-rate-pulse",
       "https://pubmed.ncbi.nlm.nih.gov/29345524/"
-    ]
+    ],
+    "image_attributions": [],
+    "image_review_batch": 0
   },
   "DM_HW_01": {
     "hero_local": "images/DM_HW_01_hero.jpg",
@@ -249,7 +781,9 @@
       "https://www.nhs.uk/every-mind-matters/lifes-challenges/maintaining-healthy-relationships-and-mental-wellbeing/",
       "https://pubmed.ncbi.nlm.nih.gov/29034226/",
       "https://www.heart.org/en/health-topics/high-blood-pressure/the-facts-about-high-blood-pressure/all-about-heart-rate-pulse"
-    ]
+    ],
+    "image_attributions": [],
+    "image_review_batch": 0
   },
   "DM_HW_02": {
     "hero_local": "images/DM_HW_02_hero.jpg",
@@ -267,7 +801,9 @@
       "https://pubmed.ncbi.nlm.nih.gov/29345524/",
       "https://pubmed.ncbi.nlm.nih.gov/27881567/",
       "https://pubmed.ncbi.nlm.nih.gov/29663142/"
-    ]
+    ],
+    "image_attributions": [],
+    "image_review_batch": 0
   },
   "LM_WH_01": {
     "hero_local": "images/LM_WH_01_hero.jpg",
@@ -287,7 +823,9 @@
       "https://www.nhs.uk/conditions/ectopic-pregnancy/symptoms/",
       "https://pubmed.ncbi.nlm.nih.gov/32661839/",
       "https://pubmed.ncbi.nlm.nih.gov/37033884/"
-    ]
+    ],
+    "image_attributions": [],
+    "image_review_batch": 0
   },
   "LM_WH_02": {
     "hero_local": "images/LM_WH_02_hero.jpg",
@@ -304,7 +842,9 @@
       "https://www.endocrine.org/patient-engagement/endocrine-library/hormones-and-endocrine-function/reproductive-hormones",
       "https://openstax.org/books/biology-2e/pages/43-4-hormonal-control-of-human-reproduction",
       "https://www.acog.org/womens-health/faqs/when-sex-is-painful"
-    ]
+    ],
+    "image_attributions": [],
+    "image_review_batch": 0
   },
   "LM_WH_03": {
     "hero_local": "images/LM_WH_03_hero.jpg",
@@ -320,7 +860,9 @@
       "https://www.nhs.uk/symptoms/missed-or-late-periods/",
       "https://www.nhs.uk/conditions/ectopic-pregnancy/symptoms/",
       "https://www.acog.org/womens-health/faqs/vulvovaginal-health"
-    ]
+    ],
+    "image_attributions": [],
+    "image_review_batch": 0
   },
   "DM_WH_01": {
     "hero_local": "images/DM_WH_01_hero.jpg",
@@ -339,7 +881,9 @@
       "https://www.acog.org/womens-health/faqs/fertility-awareness-based-methods-of-family-planning",
       "https://openstax.org/books/biology-2e/pages/43-4-hormonal-control-of-human-reproduction",
       "https://www.nhs.uk/symptoms/missed-or-late-periods/"
-    ]
+    ],
+    "image_attributions": [],
+    "image_review_batch": 0
   },
   "DM_WH_02": {
     "hero_local": "images/DM_WH_02_hero.jpg",
@@ -358,7 +902,9 @@
       "https://www.nhs.uk/conditions/periods/",
       "https://www.endocrine.org/patient-engagement/endocrine-library/hormones-and-endocrine-function/reproductive-hormones",
       "https://openstax.org/books/biology-2e/pages/43-4-hormonal-control-of-human-reproduction"
-    ]
+    ],
+    "image_attributions": [],
+    "image_review_batch": 0
   },
   "DM_WH_03": {
     "hero_local": "images/DM_WH_03_hero.jpg",
@@ -377,7 +923,9 @@
       "https://openstax.org/books/biology-2e/pages/43-4-hormonal-control-of-human-reproduction",
       "https://www.nhlbi.nih.gov/health/sleep/sleep-wake-cycle",
       "https://www.nhlbi.nih.gov/health/sleep-deprivation/healthy-sleep-habits"
-    ]
+    ],
+    "image_attributions": [],
+    "image_review_batch": 0
   },
   "LM_MH_01": {
     "hero_local": "images/LM_MH_01_hero.jpg",
@@ -399,7 +947,9 @@
       "https://pubmed.ncbi.nlm.nih.gov/10853004/",
       "https://pubmed.ncbi.nlm.nih.gov/30245619/",
       "https://pubmed.ncbi.nlm.nih.gov/27680542/"
-    ]
+    ],
+    "image_attributions": [],
+    "image_review_batch": 0
   },
   "LM_MH_02": {
     "hero_local": "images/LM_MH_02_hero.jpg",
@@ -419,7 +969,9 @@
       "https://pubmed.ncbi.nlm.nih.gov/27680542/",
       "https://pubmed.ncbi.nlm.nih.gov/29663142/",
       "https://pubmed.ncbi.nlm.nih.gov/29345524/"
-    ]
+    ],
+    "image_attributions": [],
+    "image_review_batch": 0
   },
   "LM_MH_03": {
     "hero_local": "images/LM_MH_03_hero.jpg",
@@ -442,7 +994,9 @@
       "https://www.niddk.nih.gov/health-information/urologic-diseases/erectile-dysfunction/symptoms-causes",
       "https://www.devonsexualhealth.nhs.uk/your-sexual-health/relationships-and-intimacy/",
       "https://pubmed.ncbi.nlm.nih.gov/10853004/"
-    ]
+    ],
+    "image_attributions": [],
+    "image_review_batch": 0
   },
   "DM_MH_01": {
     "hero_local": "images/DM_MH_01_hero.jpg",
@@ -463,7 +1017,9 @@
       "https://www.nhs.uk/symptoms/loss-of-libido/",
       "https://pubmed.ncbi.nlm.nih.gov/30777780/",
       "https://pubmed.ncbi.nlm.nih.gov/24883105/"
-    ]
+    ],
+    "image_attributions": [],
+    "image_review_batch": 0
   },
   "DM_MH_02": {
     "hero_local": "images/DM_MH_02_hero.jpg",
@@ -486,7 +1042,9 @@
       "https://www.niddk.nih.gov/health-information/urologic-diseases/erectile-dysfunction/treatment",
       "https://www.devonsexualhealth.nhs.uk/your-sexual-health/relationships-and-intimacy/",
       "https://pubmed.ncbi.nlm.nih.gov/10853004/"
-    ]
+    ],
+    "image_attributions": [],
+    "image_review_batch": 0
   },
   "DM_MH_03": {
     "hero_local": "images/DM_MH_03_hero.jpg",
@@ -504,7 +1062,9 @@
       "https://www.nhs.uk/every-mind-matters/lifes-challenges/maintaining-healthy-relationships-and-mental-wellbeing/",
       "https://www.nhs.uk/symptoms/loss-of-libido/",
       "https://pubmed.ncbi.nlm.nih.gov/30777780/"
-    ]
+    ],
+    "image_attributions": [],
+    "image_review_batch": 0
   },
   "WH_04": {
     "hero_local": "images/WH_04_hero.jpg",
@@ -523,7 +1083,9 @@
       "https://openstax.org/books/biology-2e/pages/43-4-hormonal-control-of-human-reproduction",
       "https://bjsm.bmj.com/content/57/17/1073",
       "https://www.nhs.uk/conditions/ectopic-pregnancy/symptoms/"
-    ]
+    ],
+    "image_attributions": [],
+    "image_review_batch": 0
   },
   "WH_06": {
     "hero_local": "images/WH_06_hero.jpg",
@@ -543,7 +1105,9 @@
       "https://www.acog.org/womens-health/faqs/vulvovaginal-health",
       "https://www.nhs.uk/pregnancy/trying-for-a-baby/doing-a-pregnancy-test/",
       "https://www.nhs.uk/conditions/ectopic-pregnancy/symptoms/"
-    ]
+    ],
+    "image_attributions": [],
+    "image_review_batch": 0
   },
   "WH_07": {
     "hero_local": "images/WH_07_hero.jpg",
@@ -561,7 +1125,9 @@
       "https://openstax.org/books/biology-2e/pages/43-4-hormonal-control-of-human-reproduction",
       "https://www.nhlbi.nih.gov/health/sleep/sleep-wake-cycle",
       "https://www.nhlbi.nih.gov/health/sleep-deprivation/healthy-sleep-habits"
-    ]
+    ],
+    "image_attributions": [],
+    "image_review_batch": 0
   },
   "WH_09": {
     "hero_local": "images/WH_09_hero.jpg",
@@ -578,7 +1144,9 @@
       "https://pubmed.ncbi.nlm.nih.gov/30777780/",
       "https://www.acog.org/womens-health/faqs/vulvovaginal-health",
       "https://www.nhs.uk/every-mind-matters/lifes-challenges/maintaining-healthy-relationships-and-mental-wellbeing/"
-    ]
+    ],
+    "image_attributions": [],
+    "image_review_batch": 0
   },
   "WH_10": {
     "hero_local": "images/WH_10_hero.jpg",
@@ -597,7 +1165,9 @@
       "https://www.nhs.uk/symptoms/loss-of-libido/",
       "https://www.devonsexualhealth.nhs.uk/your-sexual-health/relationships-and-intimacy/",
       "https://pubmed.ncbi.nlm.nih.gov/30777780/"
-    ]
+    ],
+    "image_attributions": [],
+    "image_review_batch": 0
   },
   "WH_11": {
     "hero_local": "images/WH_11_hero.jpg",
@@ -614,7 +1184,9 @@
       "https://www.nhs.uk/conditions/periods/",
       "https://www.endocrine.org/patient-engagement/endocrine-library/hormones-and-endocrine-function/reproductive-hormones",
       "https://openstax.org/books/biology-2e/pages/43-4-hormonal-control-of-human-reproduction"
-    ]
+    ],
+    "image_attributions": [],
+    "image_review_batch": 0
   },
   "WH_12": {
     "hero_local": "images/WH_12_hero.jpg",
@@ -635,7 +1207,9 @@
       "https://www.nhs.uk/symptoms/loss-of-libido/",
       "https://www.devonsexualhealth.nhs.uk/your-sexual-health/relationships-and-intimacy/",
       "https://pubmed.ncbi.nlm.nih.gov/30777780/"
-    ]
+    ],
+    "image_attributions": [],
+    "image_review_batch": 0
   },
   "WH_13": {
     "hero_local": "images/WH_13_hero.jpg",
@@ -655,7 +1229,9 @@
       "https://www.acog.org/womens-health/faqs/exercise-after-pregnancy",
       "https://pubmed.ncbi.nlm.nih.gov/30245619/",
       "https://pubmed.ncbi.nlm.nih.gov/27680542/"
-    ]
+    ],
+    "image_attributions": [],
+    "image_review_batch": 0
   },
   "WH_15": {
     "hero_local": "images/WH_15_hero.jpg",
@@ -673,7 +1249,9 @@
       "https://www.nhs.uk/conditions/periods/",
       "https://bjsm.bmj.com/content/57/17/1073",
       "https://www.nhs.uk/symptoms/missed-or-late-periods/"
-    ]
+    ],
+    "image_attributions": [],
+    "image_review_batch": 0
   },
   "WH_16": {
     "hero_local": "images/WH_16_hero.jpg",
@@ -692,7 +1270,9 @@
       "https://www.endocrine.org/patient-engagement/endocrine-library/hormones-and-endocrine-function/reproductive-hormones",
       "https://www.acog.org/womens-health/faqs/fertility-awareness-based-methods-of-family-planning",
       "https://openstax.org/books/biology-2e/pages/43-4-hormonal-control-of-human-reproduction"
-    ]
+    ],
+    "image_attributions": [],
+    "image_review_batch": 0
   },
   "WH_17": {
     "hero_local": "images/WH_17_hero.jpg",
@@ -711,7 +1291,9 @@
       "https://pubmed.ncbi.nlm.nih.gov/32661839/",
       "https://www.nhs.uk/symptoms/missed-or-late-periods/",
       "https://pubmed.ncbi.nlm.nih.gov/28975661/"
-    ]
+    ],
+    "image_attributions": [],
+    "image_review_batch": 0
   },
   "WH_18": {
     "hero_local": "images/WH_18_hero.jpg",
@@ -730,7 +1312,9 @@
       "https://www.acog.org/womens-health/faqs/fertility-awareness-based-methods-of-family-planning",
       "https://openstax.org/books/biology-2e/pages/43-4-hormonal-control-of-human-reproduction",
       "https://pubmed.ncbi.nlm.nih.gov/29345524/"
-    ]
+    ],
+    "image_attributions": [],
+    "image_review_batch": 0
   },
   "WH_19": {
     "hero_local": "images/WH_19_hero.jpg",
@@ -747,7 +1331,9 @@
       "https://www.nhs.uk/conditions/periods/",
       "https://www.nhlbi.nih.gov/health/sleep/stages-of-sleep",
       "https://www.nhlbi.nih.gov/health/sleep/sleep-wake-cycle"
-    ]
+    ],
+    "image_attributions": [],
+    "image_review_batch": 0
   },
   "WH_20": {
     "hero_local": "images/WH_20_hero.jpg",
@@ -766,7 +1352,9 @@
       "https://www.acog.org/womens-health/faqs/fertility-awareness-based-methods-of-family-planning",
       "https://openstax.org/books/biology-2e/pages/43-4-hormonal-control-of-human-reproduction",
       "https://www.nhs.uk/conditions/ectopic-pregnancy/symptoms/"
-    ]
+    ],
+    "image_attributions": [],
+    "image_review_batch": 0
   },
   "WH_21": {
     "hero_local": "images/WH_21_hero.jpg",
@@ -784,7 +1372,9 @@
       "https://www.who.int/news-room/fact-sheets/detail/alcohol",
       "https://www.nhs.uk/symptoms/missed-or-late-periods/",
       "https://www.nhs.uk/conditions/periods/"
-    ]
+    ],
+    "image_attributions": [],
+    "image_review_batch": 0
   },
   "WH_22": {
     "hero_local": "images/WH_22_hero.jpg",
@@ -804,7 +1394,9 @@
       "https://www.acog.org/womens-health/faqs/fertility-awareness-based-methods-of-family-planning",
       "https://openstax.org/books/biology-2e/pages/43-4-hormonal-control-of-human-reproduction",
       "https://pubmed.ncbi.nlm.nih.gov/34497146/"
-    ]
+    ],
+    "image_attributions": [],
+    "image_review_batch": 0
   },
   "WH_23": {
     "hero_local": "images/WH_23_hero.jpg",
@@ -823,7 +1415,9 @@
       "https://www.nhs.uk/conditions/periods/",
       "https://www.endocrine.org/patient-engagement/endocrine-library/hormones-and-endocrine-function/reproductive-hormones",
       "https://openstax.org/books/biology-2e/pages/43-4-hormonal-control-of-human-reproduction"
-    ]
+    ],
+    "image_attributions": [],
+    "image_review_batch": 0
   },
   "WH_24": {
     "hero_local": "images/WH_24_hero.jpg",
@@ -840,7 +1434,9 @@
       "https://www.nhs.uk/conditions/periods/",
       "https://www.endocrine.org/patient-engagement/endocrine-library/hormones-and-endocrine-function/reproductive-hormones",
       "https://openstax.org/books/biology-2e/pages/43-4-hormonal-control-of-human-reproduction"
-    ]
+    ],
+    "image_attributions": [],
+    "image_review_batch": 0
   },
   "WH_25": {
     "hero_local": "images/WH_25_hero.jpg",
@@ -860,7 +1456,9 @@
       "https://www.acog.org/womens-health/faqs/fertility-awareness-based-methods-of-family-planning",
       "https://www.nhs.uk/pregnancy/trying-for-a-baby/doing-a-pregnancy-test/",
       "https://www.nhs.uk/conditions/ectopic-pregnancy/symptoms/"
-    ]
+    ],
+    "image_attributions": [],
+    "image_review_batch": 0
   },
   "WH_26": {
     "hero_local": "images/WH_26_hero.jpg",
@@ -878,7 +1476,9 @@
       "https://www.heart.org/en/health-topics/high-blood-pressure/the-facts-about-high-blood-pressure/all-about-heart-rate-pulse",
       "https://pubmed.ncbi.nlm.nih.gov/29345524/",
       "https://pubmed.ncbi.nlm.nih.gov/27881567/"
-    ]
+    ],
+    "image_attributions": [],
+    "image_review_batch": 0
   },
   "WH_27": {
     "hero_local": "images/WH_27_hero.jpg",
@@ -897,7 +1497,9 @@
       "https://pubmed.ncbi.nlm.nih.gov/27872005/",
       "https://bjsm.bmj.com/content/57/17/1073",
       "https://www.nhs.uk/symptoms/missed-or-late-periods/"
-    ]
+    ],
+    "image_attributions": [],
+    "image_review_batch": 0
   },
   "WH_28": {
     "hero_local": "images/WH_28_hero.jpg",
@@ -916,7 +1518,9 @@
       "https://www.acog.org/womens-health/faqs/fertility-awareness-based-methods-of-family-planning",
       "https://openstax.org/books/biology-2e/pages/43-4-hormonal-control-of-human-reproduction",
       "https://bjsm.bmj.com/content/57/17/1073"
-    ]
+    ],
+    "image_attributions": [],
+    "image_review_batch": 0
   },
   "WH_29": {
     "hero_local": "images/WH_29_hero.jpg",
@@ -938,7 +1542,9 @@
       "https://www.endocrine.org/patient-engagement/endocrine-library/hormones-and-endocrine-function/reproductive-hormones",
       "https://www.acog.org/womens-health/faqs/fertility-awareness-based-methods-of-family-planning",
       "https://openstax.org/books/biology-2e/pages/43-4-hormonal-control-of-human-reproduction"
-    ]
+    ],
+    "image_attributions": [],
+    "image_review_batch": 0
   },
   "WH_30": {
     "hero_local": "images/WH_30_hero.jpg",
@@ -955,7 +1561,9 @@
       "https://www.nhlbi.nih.gov/health/sleep/sleep-wake-cycle",
       "https://www.nhlbi.nih.gov/health/sleep-deprivation/healthy-sleep-habits",
       "https://www.acog.org/womens-health/faqs/when-sex-is-painful"
-    ]
+    ],
+    "image_attributions": [],
+    "image_review_batch": 0
   },
   "MW_NUT_01": {
     "hero_local": "images/MW_NUT_01_hero.jpg",
@@ -974,7 +1582,9 @@
       "https://integration.asrm.org/practice-guidance/practice-committee-documents/diagnosis-and-treatment-of-infertility-in-men-aua-asrm-guideline-part2/",
       "https://openstax.org/books/anatomy-and-physiology-2e/pages/17-8-gonadal-and-placental-hormones",
       "https://www.nhs.uk/symptoms/missed-or-late-periods/"
-    ]
+    ],
+    "image_attributions": [],
+    "image_review_batch": 0
   },
   "MW_NUT_02": {
     "hero_local": "images/MW_NUT_02_hero.jpg",
@@ -993,7 +1603,9 @@
       "https://pubmed.ncbi.nlm.nih.gov/10853004/",
       "https://www.nhlbi.nih.gov/health/sleep-deprivation/healthy-sleep-habits",
       "https://pubmed.ncbi.nlm.nih.gov/15213209/"
-    ]
+    ],
+    "image_attributions": [],
+    "image_review_batch": 0
   },
   "MW_NUT_03": {
     "hero_local": "images/MW_NUT_03_hero.jpg",
@@ -1011,7 +1623,9 @@
       "https://ods.od.nih.gov/factsheets/Zinc-HealthProfessional/",
       "https://ods.od.nih.gov/factsheets/VitaminD-Consumer/",
       "https://www.endocrine.org/patient-engagement/endocrine-library/hypogonadism"
-    ]
+    ],
+    "image_attributions": [],
+    "image_review_batch": 0
   },
   "MW_NUT_04": {
     "hero_local": "images/MW_NUT_04_hero.jpg",
@@ -1030,7 +1644,9 @@
       "https://www.endocrine.org/patient-engagement/endocrine-library/hypogonadism",
       "https://integration.asrm.org/practice-guidance/practice-committee-documents/diagnosis-and-treatment-of-infertility-in-men-aua-asrm-guideline-part2/",
       "https://openstax.org/books/anatomy-and-physiology-2e/pages/17-8-gonadal-and-placental-hormones"
-    ]
+    ],
+    "image_attributions": [],
+    "image_review_batch": 0
   },
   "MW_SXH_01": {
     "hero_local": "images/MW_SXH_01_hero.jpg",
@@ -1050,7 +1666,9 @@
       "https://pubmed.ncbi.nlm.nih.gov/30777780/",
       "https://bjsm.bmj.com/content/57/17/1073",
       "https://www.nhs.uk/symptoms/missed-or-late-periods/"
-    ]
+    ],
+    "image_attributions": [],
+    "image_review_batch": 0
   },
   "MW_SXH_02": {
     "hero_local": "images/MW_SXH_02_hero.jpg",
@@ -1072,7 +1690,9 @@
       "https://www.heart.org/en/health-topics/high-blood-pressure/the-facts-about-high-blood-pressure/all-about-heart-rate-pulse",
       "https://pubmed.ncbi.nlm.nih.gov/29345524/",
       "https://pubmed.ncbi.nlm.nih.gov/27881567/"
-    ]
+    ],
+    "image_attributions": [],
+    "image_review_batch": 0
   },
   "MW_SXH_03": {
     "hero_local": "images/MW_SXH_03_hero.jpg",
@@ -1093,7 +1713,9 @@
       "https://pubmed.ncbi.nlm.nih.gov/29562364/",
       "https://integration.asrm.org/practice-guidance/practice-committee-documents/diagnosis-and-treatment-of-infertility-in-men-aua-asrm-guideline-part2/",
       "https://openstax.org/books/anatomy-and-physiology-2e/pages/17-8-gonadal-and-placental-hormones"
-    ]
+    ],
+    "image_attributions": [],
+    "image_review_batch": 0
   },
   "MW_SXH_04": {
     "hero_local": "images/MW_SXH_04_hero.jpg",
@@ -1112,7 +1734,9 @@
       "https://support.google.com/product-documentation/answer/14779613?hl=en",
       "https://pubmed.ncbi.nlm.nih.gov/27680542/",
       "https://www.nhs.uk/every-mind-matters/lifes-challenges/maintaining-healthy-relationships-and-mental-wellbeing/"
-    ]
+    ],
+    "image_attributions": [],
+    "image_review_batch": 0
   },
   "MW_REL_01": {
     "hero_local": "images/MW_REL_01_hero.jpg",
@@ -1130,7 +1754,9 @@
       "https://support.google.com/product-documentation/answer/14779613?hl=en",
       "https://pubmed.ncbi.nlm.nih.gov/27680542/",
       "https://www.gottman.com/blog/the-magic-relationship-ratio-according-science/"
-    ]
+    ],
+    "image_attributions": [],
+    "image_review_batch": 0
   },
   "MW_REL_02": {
     "hero_local": "images/MW_REL_02_hero.jpg",
@@ -1150,7 +1776,9 @@
       "https://www.nhs.uk/conditions/urinary-incontinence/treatment/",
       "https://www.cuh.nhs.uk/patient-information/female-pelvic-floor-muscle-exercises/",
       "https://pubmed.ncbi.nlm.nih.gov/27872005/"
-    ]
+    ],
+    "image_attributions": [],
+    "image_review_batch": 0
   },
   "MW_REL_03": {
     "hero_local": "images/MW_REL_03_hero.jpg",
@@ -1167,7 +1795,9 @@
       "https://pubmed.ncbi.nlm.nih.gov/30777780/",
       "https://support.google.com/product-documentation/answer/14779613?hl=en",
       "https://pubmed.ncbi.nlm.nih.gov/27680542/"
-    ]
+    ],
+    "image_attributions": [],
+    "image_review_batch": 0
   },
   "MW_REL_04": {
     "hero_local": "images/MW_REL_04_hero.jpg",
@@ -1185,7 +1815,9 @@
       "https://www.nhlbi.nih.gov/health/sleep/sleep-wake-cycle",
       "https://support.google.com/product-documentation/answer/14779613?hl=en",
       "https://pubmed.ncbi.nlm.nih.gov/27680542/"
-    ]
+    ],
+    "image_attributions": [],
+    "image_review_batch": 0
   },
   "MW_SXO_01": {
     "hero_local": "images/MW_SXO_01_hero.jpg",
@@ -1204,7 +1836,9 @@
       "https://integration.asrm.org/practice-guidance/practice-committee-documents/diagnosis-and-treatment-of-infertility-in-men-aua-asrm-guideline-part2/",
       "https://openstax.org/books/anatomy-and-physiology-2e/pages/17-8-gonadal-and-placental-hormones",
       "https://www.nhs.uk/every-mind-matters/lifes-challenges/maintaining-healthy-relationships-and-mental-wellbeing/"
-    ]
+    ],
+    "image_attributions": [],
+    "image_review_batch": 0
   },
   "MW_SXO_02": {
     "hero_local": "images/MW_SXO_02_hero.jpg",
@@ -1226,7 +1860,9 @@
       "https://www.nhs.uk/conditions/urinary-incontinence/treatment/",
       "https://www.cuh.nhs.uk/patient-information/female-pelvic-floor-muscle-exercises/",
       "https://pubmed.ncbi.nlm.nih.gov/27872005/"
-    ]
+    ],
+    "image_attributions": [],
+    "image_review_batch": 0
   },
   "MW_SXO_03": {
     "hero_local": "images/MW_SXO_03_hero.jpg",
@@ -1247,7 +1883,9 @@
       "https://www.niddk.nih.gov/health-information/urologic-diseases/erectile-dysfunction/symptoms-causes",
       "https://www.niddk.nih.gov/health-information/urologic-diseases/erectile-dysfunction/treatment",
       "https://pubmed.ncbi.nlm.nih.gov/10853004/"
-    ]
+    ],
+    "image_attributions": [],
+    "image_review_batch": 0
   },
   "MW_SXO_04": {
     "hero_local": "images/MW_SXO_04_hero.jpg",
@@ -1266,7 +1904,9 @@
       "https://www.endocrine.org/patient-engagement/endocrine-library/hypogonadism",
       "https://integration.asrm.org/practice-guidance/practice-committee-documents/diagnosis-and-treatment-of-infertility-in-men-aua-asrm-guideline-part2/",
       "https://openstax.org/books/anatomy-and-physiology-2e/pages/17-8-gonadal-and-placental-hormones"
-    ]
+    ],
+    "image_attributions": [],
+    "image_review_batch": 0
   },
   "MW_NUT_05": {
     "hero_local": "images/MW_NUT_05_hero.jpg",
@@ -1285,7 +1925,9 @@
       "https://openstax.org/books/anatomy-and-physiology-2e/pages/17-8-gonadal-and-placental-hormones",
       "https://bjsm.bmj.com/content/57/17/1073",
       "https://www.nhs.uk/symptoms/missed-or-late-periods/"
-    ]
+    ],
+    "image_attributions": [],
+    "image_review_batch": 0
   },
   "MW_NUT_06": {
     "hero_local": "images/MW_NUT_06_hero.jpg",
@@ -1305,7 +1947,9 @@
       "https://bjsm.bmj.com/content/57/17/1073",
       "https://www.nhs.uk/symptoms/missed-or-late-periods/",
       "https://www.who.int/publications/i/item/9789240030787/"
-    ]
+    ],
+    "image_attributions": [],
+    "image_review_batch": 0
   },
   "MW_NUT_07": {
     "hero_local": "images/MW_NUT_07_hero.jpg",
@@ -1324,7 +1968,9 @@
       "https://www.endocrine.org/patient-engagement/endocrine-library/hypogonadism",
       "https://integration.asrm.org/practice-guidance/practice-committee-documents/diagnosis-and-treatment-of-infertility-in-men-aua-asrm-guideline-part2/",
       "https://openstax.org/books/anatomy-and-physiology-2e/pages/17-8-gonadal-and-placental-hormones"
-    ]
+    ],
+    "image_attributions": [],
+    "image_review_batch": 0
   },
   "MW_NUT_08": {
     "hero_local": "images/MW_NUT_08_hero.jpg",
@@ -1341,7 +1987,9 @@
       "https://pubmed.ncbi.nlm.nih.gov/27881567/",
       "https://www.cdc.gov/physicalactivity/basics/measuring/index.html",
       "https://www.who.int/news-room/fact-sheets/detail/physical-activity"
-    ]
+    ],
+    "image_attributions": [],
+    "image_review_batch": 0
   },
   "MW_SXH_05": {
     "hero_local": "images/MW_SXH_05_hero.jpg",
@@ -1362,7 +2010,9 @@
       "https://pubmed.ncbi.nlm.nih.gov/29562364/",
       "https://integration.asrm.org/practice-guidance/practice-committee-documents/diagnosis-and-treatment-of-infertility-in-men-aua-asrm-guideline-part2/",
       "https://openstax.org/books/anatomy-and-physiology-2e/pages/17-8-gonadal-and-placental-hormones"
-    ]
+    ],
+    "image_attributions": [],
+    "image_review_batch": 0
   },
   "MW_SXH_06": {
     "hero_local": "images/MW_SXH_06_hero.jpg",
@@ -1385,7 +2035,9 @@
       "https://www.nhs.uk/conditions/urinary-incontinence/treatment/",
       "https://www.cuh.nhs.uk/patient-information/female-pelvic-floor-muscle-exercises/",
       "https://pubmed.ncbi.nlm.nih.gov/27872005/"
-    ]
+    ],
+    "image_attributions": [],
+    "image_review_batch": 0
   },
   "MW_SXH_07": {
     "hero_local": "images/MW_SXH_07_hero.jpg",
@@ -1404,7 +2056,9 @@
       "https://openstax.org/books/anatomy-and-physiology-2e/pages/17-8-gonadal-and-placental-hormones",
       "https://www.nhlbi.nih.gov/health/sleep/how-much-sleep",
       "https://www.nhlbi.nih.gov/health/sleep/sleep-wake-cycle"
-    ]
+    ],
+    "image_attributions": [],
+    "image_review_batch": 0
   },
   "MW_SXH_08": {
     "hero_local": "images/MW_SXH_08_hero.jpg",
@@ -1423,7 +2077,9 @@
       "https://www.nhs.uk/symptoms/loss-of-libido/",
       "https://www.devonsexualhealth.nhs.uk/your-sexual-health/relationships-and-intimacy/",
       "https://pubmed.ncbi.nlm.nih.gov/30777780/"
-    ]
+    ],
+    "image_attributions": [],
+    "image_review_batch": 0
   },
   "MW_REL_05": {
     "hero_local": "images/MW_REL_05_hero.jpg",
@@ -1439,7 +2095,9 @@
       "https://support.google.com/product-documentation/answer/14779613?hl=en",
       "https://pubmed.ncbi.nlm.nih.gov/27680542/",
       "https://pubmed.ncbi.nlm.nih.gov/30245619/"
-    ]
+    ],
+    "image_attributions": [],
+    "image_review_batch": 0
   },
   "MW_REL_06": {
     "hero_local": "images/MW_REL_06_hero.jpg",
@@ -1457,7 +2115,9 @@
       "https://www.niddk.nih.gov/health-information/urologic-diseases/erectile-dysfunction/symptoms-causes",
       "https://www.niddk.nih.gov/health-information/urologic-diseases/erectile-dysfunction/treatment",
       "https://pubmed.ncbi.nlm.nih.gov/10853004/"
-    ]
+    ],
+    "image_attributions": [],
+    "image_review_batch": 0
   },
   "MW_REL_07": {
     "hero_local": "images/MW_REL_07_hero.jpg",
@@ -1474,7 +2134,9 @@
       "https://pubmed.ncbi.nlm.nih.gov/30777780/",
       "https://support.google.com/product-documentation/answer/14779613?hl=en",
       "https://pubmed.ncbi.nlm.nih.gov/27680542/"
-    ]
+    ],
+    "image_attributions": [],
+    "image_review_batch": 0
   },
   "MW_REL_08": {
     "hero_local": "images/MW_REL_08_hero.jpg",
@@ -1492,7 +2154,9 @@
       "https://www.nhlbi.nih.gov/health/sleep/how-much-sleep",
       "https://www.nhlbi.nih.gov/health/sleep/sleep-wake-cycle",
       "https://www.devonsexualhealth.nhs.uk/your-sexual-health/relationships-and-intimacy/"
-    ]
+    ],
+    "image_attributions": [],
+    "image_review_batch": 0
   },
   "MW_SXO_05": {
     "hero_local": "images/MW_SXO_05_hero.jpg",
@@ -1512,7 +2176,9 @@
       "https://pubmed.ncbi.nlm.nih.gov/27872005/",
       "https://www.nhs.uk/symptoms/loss-of-libido/",
       "https://pubmed.ncbi.nlm.nih.gov/30777780/"
-    ]
+    ],
+    "image_attributions": [],
+    "image_review_batch": 0
   },
   "MW_SXO_06": {
     "hero_local": "images/MW_SXO_06_hero.jpg",
@@ -1533,7 +2199,9 @@
       "https://www.nhs.uk/conditions/ejaculation-problems/",
       "https://www.royalberkshire.nhs.uk/media/avwg3hls/pelvic-floor-strengthening-and-relaxation-exercises-for-men_jun24.pdf",
       "https://pubmed.ncbi.nlm.nih.gov/12659241/"
-    ]
+    ],
+    "image_attributions": [],
+    "image_review_batch": 0
   },
   "MW_SXO_08": {
     "hero_local": "images/MW_SXO_08_hero.jpg",
@@ -1554,6 +2222,8 @@
       "https://openstax.org/books/anatomy-and-physiology-2e/pages/17-8-gonadal-and-placental-hormones",
       "https://www.niddk.nih.gov/health-information/urologic-diseases/erectile-dysfunction/treatment",
       "https://pubmed.ncbi.nlm.nih.gov/10853004/"
-    ]
+    ],
+    "image_attributions": [],
+    "image_review_batch": 0
   }
 }

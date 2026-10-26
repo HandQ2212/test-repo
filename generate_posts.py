@@ -42,7 +42,15 @@ def resolve_post_img_path(path_str):
         return "../" + path_str
     return path_str
 
-def render_article_markdown(md_text, inline_img_src, inline_caption, inline_source_url, lang="en"):
+def image_credit(art, role, lang):
+    credit = next((a for a in art.get('image_attributions', []) if a['role'] == role), None)
+    if not credit:
+        return ''
+    note = credit['modifications_vi' if lang == 'vi' else 'modifications_en']
+    return (f'<span class="image-attribution"><a href="{html.escape(credit["source_page"])}" target="_blank" rel="noopener noreferrer">{html.escape(credit["author"])}</a>'
+            f' · <a href="{html.escape(credit["license_url"])}" target="_blank" rel="noopener noreferrer">{html.escape(credit["license"])}</a> · {html.escape(note)}</span>')
+
+def render_article_markdown(md_text, inline_img_src, inline_caption, inline_source_url, lang="en", credit_html=""):
     body_html = markdown.markdown(
         md_text,
         extensions=['extra', 'tables', 'sane_lists']
@@ -55,11 +63,11 @@ def render_article_markdown(md_text, inline_img_src, inline_caption, inline_sour
     body_html = re.sub(r'<pre><code class="(?:language-)?mermaid">([\s\S]*?)</code></pre>', repl_mermaid, body_html)
 
     if "article-inline-diagram" not in body_html and inline_img_src and not re.search(r'(^|/)images/editorial/', inline_img_src):
-        src_label = "View figure ↗" if lang == "en" else "Xem hình và sơ đồ ↗"
+        src_label = "Figure source ↗" if lang == "en" else "Nguồn hình ↗"
         inline_diagram_html = f"""
         <figure class="article-inline-diagram">
           <img src="{inline_img_src}" alt="{inline_caption}" loading="lazy">
-          <figcaption>📊 <strong>{inline_caption}</strong> <a href="{inline_source_url}" target="_blank" rel="noopener noreferrer" class="img-source-badge">({src_label})</a></figcaption>
+          <figcaption><strong>{inline_caption}</strong> <a href="{inline_source_url}" target="_blank" rel="noopener noreferrer" class="img-source-badge">({src_label})</a>{credit_html}</figcaption>
         </figure>
         """
         if "</h2>" in body_html:
@@ -99,9 +107,14 @@ for i, art in enumerate(articles):
     hero_source_url = art.get("hero_image_source_url", hero_img_src)
     inline_img_src = resolve_post_img_path(art.get("inline_image", ""))
     inline_source_url = art.get("inline_image_source_url", inline_img_src)
+    hero_caption_vi = html.escape(art.get('hero_caption_vi') or title_vi)
+    hero_caption_en = html.escape(art.get('hero_caption') or title_en)
+    hero_credit_vi = image_credit(art, 'hero', 'vi')
+    hero_credit_en = image_credit(art, 'hero', 'en')
+    hero_fit = art.get('hero_image_fit', 'cover')
 
-    body_html_en = render_article_markdown(art["content"], inline_img_src, caption_en, inline_source_url, "en")
-    body_html_vi = render_article_markdown(art.get("content_vi", art["content"]), inline_img_src, caption_vi, inline_source_url, "vi")
+    body_html_en = render_article_markdown(art["content"], inline_img_src, caption_en, inline_source_url, "en", image_credit(art, 'inline', 'en'))
+    body_html_vi = render_article_markdown(art.get("content_vi", art["content"]), inline_img_src, caption_vi, inline_source_url, "vi", image_credit(art, 'inline', 'vi'))
 
     prev_art = articles[i - 1] if i > 0 else None
     next_art = articles[i + 1] if i < len(articles) - 1 else None
@@ -248,8 +261,8 @@ for i, art in enumerate(articles):
       <p class="article-sapo-lead">{desc_vi}</p>
 
       <figure class="article-featured-hero">
-        <img src="{hero_img_src}" alt="{title_vi}">
-        <figcaption>{title_vi} • <a href="{hero_source_url}" target="_blank" rel="noopener noreferrer" class="img-source-badge">Xem ảnh lớn ↗</a></figcaption>
+        <img src="{hero_img_src}" alt="{hero_caption_vi}" style="object-fit: {hero_fit}">
+        <figcaption>{hero_caption_vi} • <a href="{hero_source_url}" target="_blank" rel="noopener noreferrer" class="img-source-badge">Nguồn ảnh ↗</a>{hero_credit_vi}</figcaption>
       </figure>
 
       <div class="article-metadata-card">
@@ -338,8 +351,8 @@ for i, art in enumerate(articles):
       <p class="article-sapo-lead">{desc_en}</p>
 
       <figure class="article-featured-hero">
-        <img src="{hero_img_src}" alt="{title_en}">
-        <figcaption>{title_en} • <a href="{hero_source_url}" target="_blank" rel="noopener noreferrer" class="img-source-badge">View full image ↗</a></figcaption>
+        <img src="{hero_img_src}" alt="{hero_caption_en}" style="object-fit: {hero_fit}">
+        <figcaption>{hero_caption_en} • <a href="{hero_source_url}" target="_blank" rel="noopener noreferrer" class="img-source-badge">Image source ↗</a>{hero_credit_en}</figcaption>
       </figure>
 
       <div class="article-metadata-card">

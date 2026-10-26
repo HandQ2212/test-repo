@@ -2,6 +2,7 @@
 import csv
 from html.parser import HTMLParser
 import json
+import hashlib
 from pathlib import Path
 import re
 import sys
@@ -12,6 +13,7 @@ ROOT=BASE.parent
 sys.path.insert(0,str(BASE))
 from rebuild_editorial import CONFIRMED_MISMATCHES
 from build_longform import baseline as load_baseline
+from image_curation import selections
 
 class Links(HTMLParser):
     def __init__(self):
@@ -33,6 +35,8 @@ def main():
     assert (BASE/'article_figures.js').is_file()
     assert 'article_figures.js?' in (BASE/'index.html').read_text()
     baseline={a['id']:a for a in load_baseline()}
+    selected=selections()
+    curated={(s['article_id'],s['role']):s for s in selected}
     catalog={}
     for name in ['editorial_articles.tsv','editorial_women.tsv','editorial_men.tsv']:
         with (BASE/'data'/name).open(newline='') as f:
@@ -66,7 +70,16 @@ def main():
                 continue
             asset=BASE/a[field]
             assert asset.is_file() and asset.suffix.lower() in ['.jpg','.jpeg','.png','.webp']
-        assert a['hero_image']==baseline[aid]['hero_image']
+        assert a['hero_image']==curated.get((aid,'hero'),{}).get('asset',baseline[aid]['hero_image'])
+        for role in ['hero','inline']:
+            asset=curated.get((aid,role))
+            if not asset:continue
+            assert a[role+'_image']==asset['asset']
+            assert a[role+'_image_source_url']==asset['source_page']
+            assert a[role+'_caption']==asset['caption_en'] and a[role+'_caption_vi']==asset['caption_vi']
+            assert hashlib.sha256((BASE/asset['asset']).read_bytes()).hexdigest()==asset['sha256']
+            assert asset['author'] and asset['license'] and asset['license_url'].startswith('https://')
+            assert asset['relevance_vi'] and asset['source_metadata']
         assert a['baseline_revision']=='f68c786'
         page=(BASE/'posts'/f'{aid}.html').read_text();parser=Links();parser.feed(page)
         assert a['title'] in page and a['title_vi'] in page
@@ -75,6 +88,10 @@ def main():
         assert 'images/editorial/' not in page
         assert 'Sơ đồ tóm tắt do biên tập tạo' not in page
         assert 'Original editorial summary' not in page
+        for credit in a['image_attributions']:
+            from html import escape
+            assert escape(credit['author']) in page
+            assert escape(credit['license_url']) in page and escape(credit['source_page']) in page
         for im in parser.images:
             assert im.get('alt'),(aid,'missing alt')
             src=im.get('src','')
@@ -99,7 +116,9 @@ def main():
                 assert not ws.cell(row,h[col]).value and not ws.cell(row,h[col]).hyperlink,(a['id'],col)
         assert ws.cell(row,h['Source_URL']).hyperlink.target==a['source_url']
         assert json.loads(ws.cell(row,h['Reference_List_JSON']).value)==a['references']
+        assert json.loads(ws.cell(row,h['Image_Attributions_JSON']).value)==a['image_attributions']
     assert wb['Editorial_Audit'].max_row==84 and wb['Source_Register'].max_row==len(sources)+1
+    assert wb['Image_Register'].max_row==len(selected)+1
     for name in ['Master_Health_Articles_MVP.xlsx','Mens_Wellness_Content_Roadmap.xlsx','Master_Health_Articles_MVP - 30 Blog Topics.xlsx']:
         other=ROOT/'Fitness IOS'/name
         if other.exists():assert other.read_bytes()==(BASE/'docs'/name).read_bytes(),name
@@ -128,8 +147,11 @@ def main():
                 title=normalize(s['title'].split(' — ',1)[-1])
                 assert title in normalize(records[match[1]]['title']),(s['id'],records[match[1]]['title'])
     restored=sum(a['inline_image']==baseline[a['id']]['inline_image'] for a in articles)
-    assert restored==22 and sum(not a['inline_image'] for a in articles)==61
-    print(f'PASS: 83 in-depth bilingual articles; {len(sources)} sources; 83 restored hero photos, {restored} retained figures; 83 HTML pages; JS/JSON/Markdown/Excel parity; citation regression checks.')
+    unreviewed=[a for a in articles if not a['image_review_batch']]
+    for a in unreviewed:
+        assert a['hero_image']==baseline[a['id']]['hero_image']
+    assert len(curated)==len(selected)
+    print(f'PASS: 83 bilingual articles; {len(sources)} sources; {len(selected)} licensed image selections for {83-len(unreviewed)} articles; {len(unreviewed)} articles pending image sessions; 83 HTML pages; JS/JSON/Markdown/Excel parity; citation checks.')
     print('HTTP access and editorial assessment are separate. Clinical sign-off has not been recorded.')
 
 if __name__=='__main__':main()

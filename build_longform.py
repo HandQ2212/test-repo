@@ -153,5 +153,7 @@ def build(sources,catalog):
             record.update(inline_image=original['inline_image'],inline_image_source_url='https://test-repo-y1wb.onrender.com/'+original['inline_image'],
                           inline_caption_vi=restored_figures[aid][0],inline_caption=restored_figures[aid][1])
         records[aid]=record
+    from image_curation import apply_image_selections
+    apply_image_selections(records)
     (BASE/'data/longform_articles.json').write_text(json.dumps(records,ensure_ascii=False,indent=2)+'\n',encoding='utf-8')
     return records

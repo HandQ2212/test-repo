@@ -120,6 +120,9 @@ def sync_master(articles, audit_rows, sources, link_results):
         'Evidence_Limitations_EN':'evidence_limitations_en', 'Source_Checked_Date':'source_checked_date',
         'Editorial_Review_Status':'editorial_review_status', 'Clinical_Review_Status':'clinical_review_status',
         'Image_Provenance':'image_provenance', 'Public_Article_URL':'public_url',
+        'Hero_Image_Caption_VI':'hero_caption_vi', 'Hero_Image_Caption_EN':'hero_caption',
+        'Image_Attributions_JSON':'image_attributions', 'Image_Review_Batch':'image_review_batch',
+        'Image_Review_Status':'image_review_status',
     }
     by_id = {a['id']:a for a in articles}
     ws = wb['Master_Content_MVP']
@@ -145,7 +148,7 @@ def sync_master(articles, audit_rows, sources, link_results):
     schema=wb['HDSD_Data_Schema']
     example=articles[0]
     schema_changes={
-        'Hero_Image_Source_URL':('Project image library','Mở ảnh minh họa đang dùng','URL file trong thư viện ban đầu; không tự xác nhận tác giả hoặc giấy phép bên ngoài.'),
+        'Hero_Image_Source_URL':('Image source page','Nguồn gốc của ảnh đầu bài','Ảnh đã nghiên cứu có trang nguồn, tác giả và giấy phép trong Image_Register; ảnh chưa rà soát theo phiên vẫn ghi đúng trạng thái pending.'),
         'Inline_Figure_Source_URL':('Optional illustrative figure','Mở hình hoặc sơ đồ chuyên môn đang dùng','Chỉ điền khi bài có sơ đồ phù hợp. Tóm tắt dạng chữ nằm trong nội dung bài, không xuất thành hình.'),
         'Source_URL':('Primary reference','Nguồn tham khảo chính','Một nguồn chính; xem Reference_List_JSON và Source_Register để biết đầy đủ nguồn và phạm vi hỗ trợ.'),
         'Source_App_Name':('Reference label','Tên nguồn tham khảo chính','Tên cơ quan hoặc nghiên cứu; không hàm ý cơ quan đó bảo trợ website.'),
@@ -183,6 +186,10 @@ def sync_master(articles, audit_rows, sources, link_results):
         [u,r.get('http_status','NETWORK_ERROR'),r.get('final_url',''),r.get('page_title',''),
          'Transport only. 403 / 203 / challenge pages are not proof a source is invalid; title and claim support require separate review.']
         for u,r in sorted(link_results.items())])
+    from image_curation import selections
+    image_fields=['article_id','role','asset','title','source_page','author','license','license_url',
+                  'caption_vi','caption_en','relevance_vi','modifications_vi','width','height','sha256','checked_date']
+    table_sheet(wb,'Image_Register',image_fields,[[asset[k] for k in image_fields] for asset in selections()])
     source_path.parent.mkdir(parents=True,exist_ok=True)
     wb.save(source_path)
     web_copy=BASE/'docs'/source_path.name
@@ -295,9 +302,10 @@ def main():
         manifest[a['id']]={
             'hero_local':a['hero_image'],'figure_local':a['inline_image'],
             'hero_source_page':a['hero_image_source_url'],'figure_source_page':a['inline_image_source_url'],
-            'creator':'Original project image library / editorial assets','provenance':a['image_provenance'],
-            'license_note':'Existing project raster assets restored; no new claim of upstream authorship or verified external licensing. Text summaries are part of the article body.',
+            'creator':'See image_attributions for credited creators' if a['image_attributions'] else 'Original project image library / editorial assets','provenance':a['image_provenance'],
+            'license_note':'Source image licences and authors are recorded per asset in image_attributions.' if a['image_attributions'] else 'Existing project raster assets restored; no new claim of upstream authorship or verified external licensing. Text summaries are part of the article body.',
             'evidence_urls':[r['url'] for r in refs],
+            'image_attributions':a['image_attributions'],'image_review_batch':a['image_review_batch'],
         }
         md=f'# {a["title_vi"]}\n\n## English title\n\n{a["title"]}\n\n---\n\n'+a['content_vi']+'\n---\n\n'+a['content']
         for folder in [BASE/'markdown',FITNESS/'markdown']:
@@ -310,7 +318,7 @@ def main():
             'Finding':'Confirmed unrelated canonical PMID; corrected while developing the original long-form outline' if a['id'] in CONFIRMED_MISMATCHES else 'Original explanatory arc developed as a full article with scientific background, comparisons, worked situations and source limitations',
             'Content_Fix_VI':row['limits_vi'],
             'Image_Finding_VI':FIGURE_EXAMPLES.get(a['id'],'Không giữ nhãn ảnh y khoa xác thực khi chưa có đủ đối chiếu nội dung và quyền sử dụng.'),
-            'Image_Fix':'Original photographic hero and relevant figures retained; text-only summary graphics removed, with guidance preserved in article text',
+            'Image_Fix':f"Image research batch {a['image_review_batch']:02d}: new source-backed assets, licence credits and bilingual captions" if a['image_review_batch'] else 'Original photographic hero and relevant figures retained; text-only summary graphics removed, with guidance preserved in article text',
             'Revised_Source_URL':a['source_url'],'All_Source_URLs':'\n'.join(r['url'] for r in refs),
             'Action_VI':row['action_vi'],'Care_VI':row['care_vi'],
             'Baseline_Revision':a['baseline_revision'],'Current_Words_EN':len(a['content'].split()),
@@ -329,6 +337,8 @@ def main():
     results={u:r for u,r in results.items() if u in valid_original_urls}
     sync_master(articles,audit_rows,sources,results)
     sync_roadmaps(articles)
+    from image_curation import write_review_docs
+    write_review_docs(articles)
     subprocess.run([sys.executable,str(BASE/'generate_posts.py')],check=True)
     print(json.dumps({'articles':len(articles),'sources':len(sources),'confirmed_canonical_mismatches':len(CONFIRMED_MISMATCHES),
                       'original_urls_checked':len(results),'original_http_statuses':dict(Counter(str(r.get('http_status','error')) for r in results.values()))},indent=2))
