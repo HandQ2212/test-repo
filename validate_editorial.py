@@ -5,7 +5,6 @@ import json
 from pathlib import Path
 import re
 import sys
-import xml.etree.ElementTree as ET
 import openpyxl
 
 BASE=Path(__file__).resolve().parent
@@ -57,16 +56,17 @@ def main():
             for r in refs:assert r['url'] in body
             assert not re.search(r'TODO|TBD|Lorem ipsum|\[INSERT|example\.com',body)
         for field in ['hero_image','inline_image']:
+            if field=='inline_image' and not a[field]:
+                assert not any(a[k] for k in ['inline_caption','inline_caption_vi','inline_image_source_url'])
+                continue
             asset=BASE/a[field]
-            assert asset.is_file() and asset.suffix.lower() in ['.svg','.jpg','.jpeg','.png','.webp']
-            if asset.suffix=='.svg':
-                assert ET.parse(asset).getroot().tag.endswith('svg')
-                assert 'Original editorial illustration' in asset.read_text()
+            assert asset.is_file() and asset.suffix.lower() in ['.jpg','.jpeg','.png','.webp']
         assert a['hero_image']==baseline[aid]['hero_image']
         assert a['baseline_revision']=='f68c786'
         page=(BASE/'posts'/f'{aid}.html').read_text();parser=Links();parser.feed(page)
         assert a['title'] in page and a['title_vi'] in page
-        assert len(parser.images)>=4
+        assert len(parser.images)==2*(1+bool(a['inline_image'])),(aid,'unexpected image count')
+        assert 'images/editorial/' not in page
         for im in parser.images:
             assert im.get('alt'),(aid,'missing alt')
             src=im.get('src','')
@@ -85,7 +85,10 @@ def main():
     for row in range(2,ws.max_row+1):
         a=by_id[ws.cell(row,h['Content_ID']).value]
         for col,key in [('Title_VI','title_vi'),('Title_EN','title'),('Full_Content_Markdown_VI','content_vi'),('Full_Content_Markdown','content'),('Source_URL','source_url'),('Hero_Image_Asset','hero_image'),('Inline_Figure_Asset','inline_image')]:
-            assert ws.cell(row,h[col]).value==a[key],(a['id'],col)
+            assert (ws.cell(row,h[col]).value or '')==a[key],(a['id'],col)
+        if not a['inline_image']:
+            for col in ['Inline_Figure_Caption_VI','Inline_Figure_Caption_EN','Inline_Figure_Source_URL']:
+                assert not ws.cell(row,h[col]).value and not ws.cell(row,h[col]).hyperlink,(a['id'],col)
         assert ws.cell(row,h['Source_URL']).hyperlink.target==a['source_url']
         assert json.loads(ws.cell(row,h['Reference_List_JSON']).value)==a['references']
     assert wb['Editorial_Audit'].max_row==84 and wb['Source_Register'].max_row==len(sources)+1
@@ -117,6 +120,7 @@ def main():
                 title=normalize(s['title'].split(' — ',1)[-1])
                 assert title in normalize(records[match[1]]['title']),(s['id'],records[match[1]]['title'])
     restored=sum(a['inline_image']==baseline[a['id']]['inline_image'] for a in articles)
+    assert restored==22 and sum(not a['inline_image'] for a in articles)==61
     print(f'PASS: 83 in-depth bilingual articles; {len(sources)} sources; 83 restored hero photos, {restored} retained figures; 83 HTML pages; JS/JSON/Markdown/Excel parity; citation regression checks.')
     print('HTTP access and editorial assessment are separate. Clinical sign-off has not been recorded.')
 

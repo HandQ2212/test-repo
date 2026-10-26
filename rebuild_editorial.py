@@ -8,7 +8,6 @@ import csv
 from collections import Counter
 from copy import copy
 from datetime import date
-import html
 import json
 import math
 from pathlib import Path
@@ -16,7 +15,6 @@ import re
 import shutil
 import subprocess
 import sys
-import textwrap
 
 import openpyxl
 from openpyxl.styles import Alignment, Font, PatternFill
@@ -57,59 +55,6 @@ def first_sentence(value):
     # Decimal values do not end a sentence.
     return re.split(r'(?<=[.!?])\s+(?=[A-ZÀ-ỸĐ])', value)[0]
 
-def svg_text(value, x, y, width, size=25, fill='#183c3b', line_height=None):
-    line_height = line_height or size * 1.42
-    lines = textwrap.wrap(value, width=width, break_long_words=False, break_on_hyphens=False)
-    return '\n'.join(
-        f'<text x="{x}" y="{y + i * line_height:.1f}" font-size="{size}" fill="{fill}">{html.escape(line)}</text>'
-        for i, line in enumerate(lines)
-    ), len(lines) * line_height
-
-def make_svg(row, category, kind):
-    palette = {
-        'Sleep': ('#293d72', '#ebeffa'), 'Recovery': ('#126453', '#e8f5ef'),
-        'Activity': ('#8a4c14', '#fff3e3'), 'Health & Wellness': ('#145b75', '#e7f4fa'),
-        "Women's Health": ('#843d67', '#fbeef6'), "Men's Health": ('#364d83', '#eef1fb'),
-    }
-    ink, bg = palette[category]
-    if kind == 'hero':
-        vi, _ = svg_text(row['title_vi'], 76, 205, 39, size=44, fill=ink)
-        en, _ = svg_text(row['title_en'], 80, 430, 55, size=29, fill=ink)
-        # Abstract editorial art. No invented measurements or anatomical claims.
-        art = f'''<circle cx="1090" cy="350" r="138" fill="{ink}" opacity=".10"/>
-          <rect x="970" y="250" width="220" height="230" rx="25" fill="white" stroke="{ink}" stroke-width="3"/>
-          <path d="M1005 300h145m-145 35h110m-110 35h125" stroke="{ink}" opacity=".4" stroke-width="8" stroke-linecap="round"/>
-          <path d="M1020 420l28 28 70-70" fill="none" stroke="{ink}" stroke-width="10" stroke-linecap="round" stroke-linejoin="round"/>'''
-        body = f'''<rect width="1280" height="720" fill="{bg}"/>
-          <text x="80" y="90" font-size="22" fill="{ink}" letter-spacing="3">PULSE &amp; VITALITY / {row['id']}</text>
-          {vi}{en}{art}
-          <path d="M80 595h1120" stroke="{ink}" opacity=".2"/>
-          <text x="80" y="642" font-size="20" fill="{ink}">Hiểu bằng chứng • Chọn hành động phù hợp</text>
-          <text x="80" y="677" font-size="17" fill="{ink}">Editorial illustration / Minh họa biên tập</text>'''
-        height = 720
-    else:
-        body = f'<rect width="1280" height="1200" fill="{bg}"/>'
-        title, _ = svg_text(row['title_vi'], 60, 76, 65, size=29, fill=ink)
-        body += title
-        body += f'<text x="62" y="164" font-size="19" fill="{ink}">TÓM TẮT / SUMMARY • {row["id"]} • {REVIEW_DATE}</text>'
-        for i, (key, heading_vi, heading_en) in enumerate([
-            ('facts', 'Hiểu đúng', 'Understand'), ('action', 'Thực hành', 'Try'), ('limits', 'Giới hạn', 'Limits')
-        ]):
-            y = 210 + i * 290
-            body += f'<rect x="50" y="{y}" width="1180" height="270" rx="22" fill="white"/>'
-            body += f'<text x="78" y="{y+42}" font-size="23" font-weight="700" fill="{ink}">{i+1:02d} / {heading_vi} · {heading_en}</text>'
-            vi, vh = svg_text(first_sentence(row[key+'_vi']), 80, y+88, 47, size=21)
-            en, eh = svg_text(first_sentence(row[key+'_en']), 675, y+88, 47, size=21)
-            assert max(vh, eh) <= 175, (row['id'], key, vh, eh)
-            body += vi + en
-            body += f'<path d="M640 {y+66}v175" stroke="{ink}" opacity=".15"/>'
-        body += f'<text x="65" y="1130" font-size="19" fill="{ink}">Minh họa biên tập; không phải dữ liệu đo hoặc hình nghiên cứu gốc.</text>'
-        body += f'<text x="65" y="1165" font-size="18" fill="{ink}">Editorial summary; not measured data or a figure from a cited study. Read the full article for context.</text>'
-        height = 1200
-    return f'''<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 {height}" width="1280" height="{height}" role="img" aria-labelledby="title desc">
-      <title id="title">{html.escape(row['title_vi'])} / {html.escape(row['title_en'])}</title>
-      <desc id="desc">Original editorial illustration. Not clinical data, an anatomical diagram or a reproduction of a study.</desc>
-      <g font-family="Arial, Helvetica, sans-serif">{body}</g></svg>\n'''
 
 def body_markdown(row, refs, lang):
     headings = ['Hiểu đúng', 'Bạn có thể làm gì?', 'Giới hạn cần biết', 'Khi nào cần tư vấn?'] if lang == 'vi' else [
@@ -194,14 +139,14 @@ def sync_master(articles, audit_rows, sources, link_results):
             cell = ws.cell(row, header[column], val)
             # Old Excel hyperlinks must not survive after replacing their display text.
             cell.hyperlink = None
-            if column in ['Source_URL', 'Hero_Image_Source_URL', 'Inline_Figure_Source_URL', 'Public_Article_URL']:
+            if val and column in ['Source_URL', 'Hero_Image_Source_URL', 'Inline_Figure_Source_URL', 'Public_Article_URL']:
                 cell.hyperlink = val
         ws.cell(row, header['Status'], 'Revised — clinical sign-off not recorded')
     schema=wb['HDSD_Data_Schema']
     example=articles[0]
     schema_changes={
         'Hero_Image_Source_URL':('Project image library','Mở ảnh minh họa đang dùng','URL file trong thư viện ban đầu; không tự xác nhận tác giả hoặc giấy phép bên ngoài.'),
-        'Inline_Figure_Source_URL':('Illustrative figure','Mở hình hoặc sơ đồ đang dùng','Hình minh họa phù hợp hoặc SVG biên tập; không phải bằng chứng kết quả nghiên cứu.'),
+        'Inline_Figure_Source_URL':('Optional illustrative figure','Mở hình hoặc sơ đồ chuyên môn đang dùng','Chỉ điền khi bài có sơ đồ phù hợp. Tóm tắt dạng chữ nằm trong nội dung bài, không xuất thành hình.'),
         'Source_URL':('Primary reference','Nguồn tham khảo chính','Một nguồn chính; xem Reference_List_JSON và Source_Register để biết đầy đủ nguồn và phạm vi hỗ trợ.'),
         'Source_App_Name':('Reference label','Tên nguồn tham khảo chính','Tên cơ quan hoặc nghiên cứu; không hàm ý cơ quan đó bảo trợ website.'),
     }
@@ -324,23 +269,13 @@ def main():
                  content=body_markdown(row,refs,'en'),content_vi=body_markdown(row,refs,'vi'),
                  evidence_limitations_vi=row['limits_vi'],evidence_limitations_en=row['limits_en'],
                  source_checked_date=REVIEW_DATE,editorial_review_status='Revised against cited sources',
-                 clinical_review_status='Not recorded',image_provenance='Original project-owned SVG editorial illustration; not a study figure',
-                 public_url=f'{LIVE_URL}/posts/{a["id"]}.html',
-                 inline_caption_vi='Sơ đồ tóm tắt do biên tập tạo. Không phải số liệu đo, hình giải phẫu hay hình lấy từ nghiên cứu trích dẫn.',
-                 inline_caption='Original editorial summary. Not measured data, an anatomical diagram or a figure reproduced from a cited study.')
+                 clinical_review_status='Not recorded',
+                 public_url=f'{LIVE_URL}/posts/{a["id"]}.html')
         for lang,body_key,time_key in [('vi','content_vi','reading_time_vi'),('en','content','reading_time')]:
             # Exclude the bibliography from reading time.
             words=len(' '.join(row[k+'_'+lang] for k in ['facts','action','limits','care']).split())
             mins=max(1,math.ceil(words/180))
             a[time_key]=f'{mins} phút' if lang=='vi' else f'{mins} min'
-        for kind,field in [('hero','hero_image'),('summary','inline_image')]:
-            relative=f'images/editorial/{a["id"]}_{kind}.svg'
-            p=BASE/relative;p.parent.mkdir(parents=True,exist_ok=True)
-            p.write_text(make_svg(row,a['category'],kind),encoding='utf-8')
-            a[field]=relative
-            a['hero_image_source_url' if kind=='hero' else 'inline_image_source_url']=f'{LIVE_URL}/{relative}'
-            if FITNESS.exists():
-                dest=FITNESS/relative;dest.parent.mkdir(parents=True,exist_ok=True);shutil.copy2(p,dest)
         a.update(longform[a['id']])
         refs=a['references']
         a['source_name']=refs[0]['title']
@@ -351,6 +286,7 @@ def main():
             mins=max(1,math.ceil(len(text.split())/180))
             a[time_key]=f'{mins} phút' if lang=='vi' else f'{mins} min'
         for field in ['hero_image','inline_image']:
+            if not a[field]:continue
             src=BASE/a[field]
             assert src.is_file(),src
             if FITNESS.exists():
@@ -360,7 +296,7 @@ def main():
             'hero_local':a['hero_image'],'figure_local':a['inline_image'],
             'hero_source_page':a['hero_image_source_url'],'figure_source_page':a['inline_image_source_url'],
             'creator':'Original project image library / editorial assets','provenance':a['image_provenance'],
-            'license_note':'Existing project raster assets restored; no new claim of upstream authorship or verified external licensing. SVG summaries are project-created.',
+            'license_note':'Existing project raster assets restored; no new claim of upstream authorship or verified external licensing. Text summaries are part of the article body.',
             'evidence_urls':[r['url'] for r in refs],
         }
         md=f'# {a["title_vi"]}\n\n## English title\n\n{a["title"]}\n\n---\n\n'+a['content_vi']+'\n---\n\n'+a['content']
@@ -374,7 +310,7 @@ def main():
             'Finding':'Confirmed unrelated canonical PMID; corrected while developing the original long-form outline' if a['id'] in CONFIRMED_MISMATCHES else 'Original explanatory arc developed as a full article with scientific background, comparisons, worked situations and source limitations',
             'Content_Fix_VI':row['limits_vi'],
             'Image_Finding_VI':FIGURE_EXAMPLES.get(a['id'],'Không giữ nhãn ảnh y khoa xác thực khi chưa có đủ đối chiếu nội dung và quyền sử dụng.'),
-            'Image_Fix':'Original photographic hero restored; relevant explanatory figures retained; mismatched figures excluded',
+            'Image_Fix':'Original photographic hero and relevant figures retained; text-only summary graphics removed, with guidance preserved in article text',
             'Revised_Source_URL':a['source_url'],'All_Source_URLs':'\n'.join(r['url'] for r in refs),
             'Action_VI':row['action_vi'],'Care_VI':row['care_vi'],
             'Baseline_Revision':a['baseline_revision'],'Current_Words_EN':len(a['content'].split()),

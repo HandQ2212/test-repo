@@ -10,7 +10,7 @@ Bản cũ **chưa đáp ứng yêu cầu chính xác và hữu ích để xuất
 - Xác nhận ít nhất 29 **bài có PMID nguồn chính không liên quan** bằng tên nghiên cứu thực tế; bảng chi tiết ở cuối báo cáo.
 - Thay danh mục hoạt động bằng 82 nguồn: hướng dẫn cơ quan y tế, hội chuyên môn, tổng quan, nghiên cứu gốc và tài liệu hãng. Ghi rõ loại và phạm vi hỗ trợ. Không gọi mọi tài liệu hãng là nghiên cứu lâm sàng.
 - Kiểm tra 82 URL nguồn hiện tại: 46 trả HTTP 200, 28 PubMed trả HTTP 203/challenge, 8 trả 403 từ bộ kiểm tra tự động; không có 404 trong danh mục mới. PMID được đối chiếu riêng với metadata, không dựa vào HTTP 203. Các nguồn bị chặn tự động được kiểm tra bằng trang chính thức hoặc nội dung chỉ mục tương ứng; không tuyên bố đã đọc toàn bộ full text của mọi nghiên cứu.
-- Khôi phục 83 ảnh đầu bài từ thư viện gốc và giữ 22 sơ đồ liên quan với chú thích đã sửa. 61 hình trong bài còn lại là SVG tóm tắt do dự án tạo. Liên kết ảnh mở đúng asset; không tự gắn xác nhận tác giả hoặc giấy phép ngoài dự án.
+- Khôi phục 83 ảnh đầu bài từ thư viện gốc và giữ 22 sơ đồ liên quan với chú thích đã sửa. 61 hình tóm tắt dạng chữ đã được bỏ; các ý “hiểu đúng”, “thực hành” và “giới hạn” được giữ trong văn bản Việt/Anh của từng bài. Liên kết ảnh mở đúng asset; không tự gắn xác nhận tác giả hoặc giấy phép ngoài dự án.
 - Cập nhật master Excel, hai roadmap và ba bản tải xuống trong website. Các sheet cũ được giữ, trường nội dung/nguồn được sửa; thêm bảng audit và nguồn.
 
 ## Nội dung đã sửa
@@ -33,7 +33,7 @@ Bản cũ **chưa đáp ứng yêu cầu chính xác và hữu ích để xuất
 - `MW_REL_01`: sơ đồ giải phẫu thần kinh không chứng minh tỷ lệ giao tiếp 5:1.
 - `DM_SL_02`: công thức phân tử melatonin không giải thích nợ ngủ.
 
-Các sơ đồ được giữ gồm khoảng R–R trên ECG, cấu trúc giấc ngủ, đo trao đổi khí, chuyển hóa sắt, sinh lý chu kỳ và giải phẫu sàn chậu. Chú thích phân biệt hình minh họa với dữ liệu của người đọc hoặc kết quả nghiên cứu. Ảnh đầu bài được khôi phục từ thư viện dự án gốc; việc giữ asset không tạo xác nhận mới về tác giả hoặc giấy phép ngoài dự án. Các hình sai chủ đề nêu trên tiếp tục được thay bằng sơ đồ tóm tắt phù hợp.
+Các sơ đồ được giữ gồm khoảng R–R trên ECG, cấu trúc giấc ngủ, đo trao đổi khí, chuyển hóa sắt, sinh lý chu kỳ và giải phẫu sàn chậu. Chú thích phân biệt hình minh họa với dữ liệu của người đọc hoặc kết quả nghiên cứu. Ảnh đầu bài được khôi phục từ thư viện dự án gốc; việc giữ asset không tạo xác nhận mới về tác giả hoặc giấy phép ngoài dự án. Các hình sai chủ đề nêu trên được bỏ. Tóm tắt chỉ có chữ được trình bày trực tiếp trong nội dung bài, không xuất thành hình.
 
 ## File và khả năng kiểm tra lại
 
@@ -49,8 +49,8 @@ Các sơ đồ được giữ gồm khoảng R–R trên ECG, cấu trúc giấc
 ## Kiểm tra kỹ thuật
 
 - Kiểm tra 83 ID duy nhất, đủ nội dung Việt/Anh, nguồn chính thuộc danh mục đầy đủ, URL nghiên cứu khớp tên metadata, và các PMID sai xác nhận không quay lại bài tương ứng.
-- Kiểm tra JSON/JS/Markdown/Excel/HTML khớp nhau, ba workbook local và bản tải xuống có nội dung byte giống nhau, toàn bộ ảnh tồn tại, SVG hợp lệ, ảnh có alt và đường dẫn HTML tương đối đúng.
-- Chrome: mở toàn bộ 83 bài trong SPA ở cả hai ngôn ngữ; kiểm tra 166 ảnh, 83 trang HTML, tìm kiếm, popup và chuyển ngôn ngữ. Kiểm tra mobile 390 px, không tràn ngang trang và không có lỗi JavaScript.
+- Kiểm tra JSON/JS/Markdown/Excel/HTML khớp nhau, ba workbook local và bản tải xuống có nội dung byte giống nhau, toàn bộ ảnh đang dùng tồn tại, các hình tóm tắt chữ không còn được tham chiếu, ảnh có alt và đường dẫn HTML tương đối đúng.
+- Chrome: mở toàn bộ 83 bài trong SPA ở cả hai ngôn ngữ; kiểm tra 105 ảnh đang dùng, 83 trang HTML, tìm kiếm, popup và chuyển ngôn ngữ. Kiểm tra mobile 390 px, không tràn ngang trang và không có lỗi JavaScript.
 - Sửa lỗi CSS cũ thiếu quy tắc `.hidden`, khiến trang HTML hiện cả Việt lẫn Anh và phần bài mẫu trên trang chủ. Gắn sự kiện tìm kiếm trước khi tải dữ liệu để thao tác sớm không bị bỏ qua.
 - Kiểm tra cú pháp JavaScript và Git diff whitespace. Kiểm tra lại bản live sau khi đẩy lên Render được ghi riêng trong workspace.
 
