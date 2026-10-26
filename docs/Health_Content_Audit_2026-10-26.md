@@ -45,7 +45,13 @@ Bộ mới dùng các ảnh Commons với giấy phép tương ứng và các �
 
 Đã loại ảnh thở luân phiên qua mũi khỏi bài thở dài sinh lý và sơ đồ thần kinh cổ Gray844 khỏi bài sàn chậu. Không dùng ảnh găng Galvactivator khi metadata Commons ghi CC BY nhưng trang bảo tàng gốc ghi CC BY-NC-SA cho ảnh; không sao chép hình nghiên cứu Balban có giấy phép NC-ND. Các ảnh cũ được thay ở đầu ra và Excel; văn bản chuyên sâu Việt/Anh giữ nguyên.
 
-Tổng cộng 25/83 bài có 48 vị trí hình đã đối chiếu; 58 bài còn lại chưa được rà soát ảnh trong quy trình theo phiên. Xem [tiến độ từng đợt](Image_Research_Progress.md), [bộ ảnh đợt 01](Image_Research_Batch_01.html) và [bộ ảnh đợt 02](Image_Research_Batch_02.html). Tiến độ này không đồng nghĩa bản live đã cập nhật; việc triển khai được kiểm tra riêng.
+Đợt 03 xử lý 15 bài số 26–40 (DM_MH_01 đến WH_18), với 25 vị trí hình từ 24 nguồn ảnh khác nhau: 15 ảnh đầu bài và 10 hình trong bài. Có 20 nguồn mới; 4 nguồn giải phẫu, chu kỳ, ECG và bữa ăn đã đối chiếu được dùng lại khi phù hợp. Các bài WH_06, WH_07, WH_09, WH_10 và WH_18 dùng một ảnh rõ mục đích, không thêm hình thứ hai chỉ để đạt số lượng. Hình mới gồm sàn chậu nữ có nhãn, ảnh hiển vi nhuộm Pap của mẫu âm đạo, giải phẫu cơ quan sinh dục nam nhìn nghiêng, tư thế giãn háng, cảm biến quang học Garmin và sản phẩm kinh nguyệt.
+
+Ảnh giãn mặt sau đùi không được gọi là giãn háng; đã loại ảnh có người ép gối xuống và bản giải phẫu nguồn bị cắt nhãn. Ảnh hiển vi được mô tả đúng loại mẫu và nhuộm, không dùng như phép đo pH. Không gán rối loạn tình dục, PMS, pha chu kỳ hay REDs cho người mẫu. Ảnh ăn sau vận động không được dùng để kết luận bữa ăn đủ năng lượng cho một cá nhân. Chú thích cảm biến Garmin không khẳng định thiết bị trong ảnh đo hormone hoặc cung cấp điểm HRV theo chu kỳ. Văn bản chuyên sâu của toàn bộ 83 bài Việt/Anh giữ nguyên.
+
+Không chọn hình nang trứng ghép với ảnh mô học ghi bản quyền riêng khi chưa rõ quyền tái sử dụng phần ảnh đó. Sơ đồ đánh số đặt ký hiệu kỳ kinh trong hình buồng trứng cũng bị loại để tránh gây nhầm vị trí chảy máu kinh nguyệt.
+
+Tổng cộng 40/83 bài có 73 vị trí hình đã đối chiếu; 43 bài còn lại chưa được rà soát ảnh trong quy trình theo phiên. Xem [tiến độ từng đợt](Image_Research_Progress.md), [bộ ảnh đợt 01](Image_Research_Batch_01.html), [bộ ảnh đợt 02](Image_Research_Batch_02.html) và [bộ ảnh đợt 03](Image_Research_Batch_03.html). Tiến độ này không đồng nghĩa bản live đã cập nhật; việc triển khai được kiểm tra riêng.
 
 ## File và khả năng kiểm tra lại
 

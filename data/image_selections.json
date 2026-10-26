@@ -5120,6 +5120,1872 @@
       "sha256": "1da019da4beaaa1f4131a27f48562099c343f60a352919e7905d275c1e165eb2",
       "checked_date": "2026-10-26",
       "review_status": "Subject, source and licence checked"
+    },
+    {
+      "title": "Woman and Man on Couch",
+      "source_page": "https://www.pexels.com/photo/woman-and-man-on-couch-7447240/",
+      "source_asset_url": "https://images.pexels.com/photos/7447240/pexels-photo-7447240.jpeg",
+      "download_url": "https://images.pexels.com/photos/7447240/pexels-photo-7447240.jpeg?auto=compress&cs=tinysrgb&w=1600&fm=jpg",
+      "author": "Gustavo Fring",
+      "license": "Pexels License",
+      "license_url": "https://www.pexels.com/license/",
+      "source_metadata": {
+        "source_page": "https://www.pexels.com/photo/woman-and-man-on-couch-7447240/",
+        "license_page": "https://www.pexels.com/license/",
+        "photographer": "Gustavo Fring",
+        "original_dimensions": [
+          5760,
+          3840
+        ]
+      },
+      "article_id": "DM_MH_01",
+      "role": "hero",
+      "asset": "images/researched/batch-03/DM_MH_01_hero.jpg",
+      "batch": 3,
+      "caption_vi": "Ảnh minh họa hai người đang trò chuyện, phù hợp phần trao đổi mong muốn và mức thoải mái với bạn tình.",
+      "caption_en": "An illustrative conversation between two people, accompanying discussion of preferences and comfort with a partner.",
+      "alt_vi": "Ảnh minh họa hai người đang trò chuyện, phù hợp phần trao đổi mong muốn và mức thoải mái với bạn tình.",
+      "alt_en": "An illustrative conversation between two people, accompanying discussion of preferences and comfort with a partner.",
+      "relevance_vi": "Hướng tới hành động hữu ích là giao tiếp; không gán xuất tinh sớm hoặc xung đột cho người mẫu.",
+      "fit": "cover",
+      "modifications_vi": "Pexels thu nhỏ/nén JPEG; không sửa nội dung.",
+      "modifications_en": "Pexels resized/compressed JPEG; no content changes.",
+      "width": 1600,
+      "height": 1067,
+      "sha256": "ce2b5fe10b8b07d652058574683984f92a0f84de345eb9ef1aef3fad5799efc9",
+      "checked_date": "2026-10-26",
+      "review_status": "Subject, source and licence checked"
+    },
+    {
+      "title": "Human male reproductive system en.svg",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Human_male_reproductive_system_en.svg",
+      "source_asset_url": "https://upload.wikimedia.org/wikipedia/commons/e/ea/Human_male_reproductive_system_en.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "download_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ea/Human_male_reproductive_system_en.svg/1280px-Human_male_reproductive_system_en.svg.png",
+      "author": "Wumingbai",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+      "source_metadata": {
+        "file_title": "File:Human male reproductive system en.svg",
+        "page_id": 102958455,
+        "imageinfo": {
+          "size": 98813,
+          "width": 557,
+          "height": 280,
+          "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ea/Human_male_reproductive_system_en.svg/1280px-Human_male_reproductive_system_en.svg.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "thumbwidth": 1280,
+          "thumbheight": 643,
+          "responsiveUrls": {
+            "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ea/Human_male_reproductive_system_en.svg/3840px-Human_male_reproductive_system_en.svg.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+          },
+          "thumbattribs": {
+            "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ea/Human_male_reproductive_system_en.svg/1280px-Human_male_reproductive_system_en.svg.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "decoding": "async",
+            "loading": "lazy",
+            "width": 1280,
+            "height": 643,
+            "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ea/Human_male_reproductive_system_en.svg/3840px-Human_male_reproductive_system_en.svg.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+          },
+          "url": "https://upload.wikimedia.org/wikipedia/commons/e/ea/Human_male_reproductive_system_en.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+          "descriptionurl": "https://commons.wikimedia.org/wiki/File:Human_male_reproductive_system_en.svg",
+          "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=102958455",
+          "extmetadata": {
+            "DateTime": {
+              "value": "2021-09-15 11:48:46",
+              "source": "mediawiki-metadata",
+              "hidden": ""
+            },
+            "ObjectName": {
+              "value": "Human male reproductive system en",
+              "source": "mediawiki-metadata"
+            },
+            "CommonsMetadataExtension": {
+              "value": 1.2,
+              "source": "extension",
+              "hidden": ""
+            },
+            "Categories": {
+              "value": "Self-published work|SVG lateral cross-section of male genitourinary system",
+              "source": "commons-categories",
+              "hidden": ""
+            },
+            "Assessments": {
+              "value": "",
+              "source": "commons-categories",
+              "hidden": ""
+            },
+            "ImageDescription": {
+              "value": "Human male reproductive system",
+              "source": "commons-desc-page"
+            },
+            "DateTimeOriginal": {
+              "value": "2021-04-03",
+              "source": "commons-desc-page"
+            },
+            "Credit": {
+              "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+              "source": "commons-desc-page"
+            },
+            "Artist": {
+              "value": "<a href=\"//commons.wikimedia.org/wiki/User:Wumingbai\" title=\"User:Wumingbai\">Wumingbai</a>",
+              "source": "commons-desc-page"
+            },
+            "LicenseShortName": {
+              "value": "CC BY-SA 4.0",
+              "source": "commons-desc-page",
+              "hidden": ""
+            },
+            "UsageTerms": {
+              "value": "Creative Commons Attribution-Share Alike 4.0",
+              "source": "commons-desc-page"
+            },
+            "AttributionRequired": {
+              "value": "true",
+              "source": "commons-desc-page",
+              "hidden": ""
+            },
+            "LicenseUrl": {
+              "value": "https://creativecommons.org/licenses/by-sa/4.0",
+              "source": "commons-desc-page"
+            },
+            "Copyrighted": {
+              "value": "True",
+              "source": "commons-desc-page",
+              "hidden": ""
+            },
+            "Restrictions": {
+              "value": "",
+              "source": "commons-desc-page",
+              "hidden": ""
+            },
+            "License": {
+              "value": "cc-by-sa-4.0",
+              "source": "commons-templates",
+              "hidden": ""
+            }
+          }
+        }
+      },
+      "article_id": "DM_MH_01",
+      "role": "inline",
+      "asset": "images/researched/batch-03/DM_MH_01_inline.png",
+      "batch": 3,
+      "caption_vi": "Sơ đồ nhìn nghiêng cơ quan sinh dục và đường tiết niệu nam, với ống dẫn tinh, túi tinh, tuyến tiền liệt và niệu đạo.",
+      "caption_en": "A lateral diagram of male reproductive and urinary anatomy, including the vas deferens, seminal vesicle, prostate and urethra.",
+      "alt_vi": "Sơ đồ nhìn nghiêng cơ quan sinh dục và đường tiết niệu nam, với ống dẫn tinh, túi tinh, tuyến tiền liệt và niệu đạo.",
+      "alt_en": "A lateral diagram of male reproductive and urinary anatomy, including the vas deferens, seminal vesicle, prostate and urethra.",
+      "relevance_vi": "Giúp định vị các cấu trúc khi giải thích xuất tinh; sơ đồ không thể xác định nguyên nhân hoặc thời gian xuất tinh của cá nhân.",
+      "fit": "contain",
+      "modifications_vi": "PNG kết xuất từ SVG; giữ nguyên nội dung.",
+      "modifications_en": "PNG rendered from SVG; image content unchanged.",
+      "width": 1280,
+      "height": 645,
+      "sha256": "c9e0b6add90642e7720b29be559b095aa22be0647eab0a6caed29d22e7b79626",
+      "checked_date": "2026-10-26",
+      "review_status": "Subject, source and licence checked"
+    },
+    {
+      "title": "Baddha Koṇāsana-bound angle.jpg",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Baddha_Ko%E1%B9%87%C4%81sana-bound_angle.jpg",
+      "source_asset_url": "https://upload.wikimedia.org/wikipedia/commons/b/b9/Baddha_Ko%E1%B9%87%C4%81sana-bound_angle.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "download_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b9/Baddha_Ko%E1%B9%87%C4%81sana-bound_angle.jpg/1280px-Baddha_Ko%E1%B9%87%C4%81sana-bound_angle.jpg",
+      "author": "Jfbongarçon",
+      "license": "CC BY-SA 3.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+      "source_metadata": {
+        "file_title": "File:Baddha Koṇāsana-bound angle.jpg",
+        "page_id": 17136432,
+        "imageinfo": {
+          "size": 1183777,
+          "width": 1481,
+          "height": 1347,
+          "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b9/Baddha_Ko%E1%B9%87%C4%81sana-bound_angle.jpg/1280px-Baddha_Ko%E1%B9%87%C4%81sana-bound_angle.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "thumbwidth": 1280,
+          "thumbheight": 1164,
+          "responsiveUrls": {
+            "2": "https://upload.wikimedia.org/wikipedia/commons/b/b9/Baddha_Ko%E1%B9%87%C4%81sana-bound_angle.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled"
+          },
+          "thumbattribs": {
+            "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b9/Baddha_Ko%E1%B9%87%C4%81sana-bound_angle.jpg/1280px-Baddha_Ko%E1%B9%87%C4%81sana-bound_angle.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "decoding": "async",
+            "loading": "lazy",
+            "width": 1280,
+            "height": 1164,
+            "srcset": "https://upload.wikimedia.org/wikipedia/commons/b/b9/Baddha_Ko%E1%B9%87%C4%81sana-bound_angle.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled 2x"
+          },
+          "url": "https://upload.wikimedia.org/wikipedia/commons/b/b9/Baddha_Ko%E1%B9%87%C4%81sana-bound_angle.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+          "descriptionurl": "https://commons.wikimedia.org/wiki/File:Baddha_Ko%E1%B9%87%C4%81sana-bound_angle.jpg",
+          "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=17136432",
+          "extmetadata": {
+            "DateTime": {
+              "value": "2012-11-27 14:17:50",
+              "source": "mediawiki-metadata",
+              "hidden": ""
+            },
+            "ObjectName": {
+              "value": "Baddha Koṇāsana-bound angle",
+              "source": "mediawiki-metadata"
+            },
+            "CommonsMetadataExtension": {
+              "value": 1.2,
+              "source": "extension",
+              "hidden": ""
+            },
+            "Categories": {
+              "value": "Baddha Konasana|Self-published work",
+              "source": "commons-categories",
+              "hidden": ""
+            },
+            "Assessments": {
+              "value": "",
+              "source": "commons-categories",
+              "hidden": ""
+            },
+            "ImageDescription": {
+              "value": "Baddha Koṇāsana-bound angle yoga posture",
+              "source": "commons-desc-page"
+            },
+            "DateTimeOriginal": {
+              "value": "2011-10-26",
+              "source": "commons-desc-page"
+            },
+            "Credit": {
+              "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+              "source": "commons-desc-page"
+            },
+            "Artist": {
+              "value": "<a href=\"//commons.wikimedia.org/w/index.php?title=User:Jfbongar%C3%A7on&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"User:Jfbongarçon (page does not exist)\">Jfbongarçon</a>",
+              "source": "commons-desc-page"
+            },
+            "LicenseShortName": {
+              "value": "CC BY-SA 3.0",
+              "source": "commons-desc-page",
+              "hidden": ""
+            },
+            "UsageTerms": {
+              "value": "Creative Commons Attribution-Share Alike 3.0",
+              "source": "commons-desc-page"
+            },
+            "AttributionRequired": {
+              "value": "true",
+              "source": "commons-desc-page",
+              "hidden": ""
+            },
+            "LicenseUrl": {
+              "value": "https://creativecommons.org/licenses/by-sa/3.0",
+              "source": "commons-desc-page"
+            },
+            "Copyrighted": {
+              "value": "True",
+              "source": "commons-desc-page",
+              "hidden": ""
+            },
+            "Restrictions": {
+              "value": "",
+              "source": "commons-desc-page",
+              "hidden": ""
+            },
+            "License": {
+              "value": "cc-by-sa-3.0",
+              "source": "commons-templates",
+              "hidden": ""
+            }
+          }
+        }
+      },
+      "article_id": "DM_MH_02",
+      "role": "hero",
+      "asset": "images/researched/batch-03/DM_MH_02_hero.jpg",
+      "batch": 3,
+      "caption_vi": "Tư thế ngồi chụm hai lòng bàn chân (bound angle). Chọn biên độ dễ chịu, không cố ép đầu gối sát sàn.",
+      "caption_en": "A seated bound-angle position with the soles together. Choose a comfortable range rather than forcing the knees to the floor.",
+      "alt_vi": "Tư thế ngồi chụm hai lòng bàn chân (bound angle). Chọn biên độ dễ chịu, không cố ép đầu gối sát sàn.",
+      "alt_en": "A seated bound-angle position with the soles together. Choose a comfortable range rather than forcing the knees to the floor.",
+      "relevance_vi": "Đúng tư thế mở háng; không dùng ảnh kéo cơ mặt sau đùi như minh họa giãn háng và không gọi động tác này là giải phóng thần kinh thẹn.",
+      "fit": "contain",
+      "modifications_vi": "Bản thu nhỏ; giữ nguyên nội dung.",
+      "modifications_en": "Thumbnail; image content unchanged.",
+      "width": 1280,
+      "height": 1164,
+      "sha256": "36ff4fe681c15acf168f9b9e2c7400947b70c244280eadd4a2506517751e6b19",
+      "checked_date": "2026-10-26",
+      "review_status": "Subject, source and licence checked"
+    },
+    {
+      "title": "Gray404.png",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Gray404.png",
+      "source_asset_url": "https://upload.wikimedia.org/wikipedia/commons/6/63/Gray404.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "download_url": "https://upload.wikimedia.org/wikipedia/commons/6/63/Gray404.png",
+      "author": "Henry Vandyke Carter",
+      "license": "Public domain",
+      "license_url": "https://creativecommons.org/publicdomain/mark/1.0/",
+      "source_metadata": {
+        "file_title": "File:Gray404.png",
+        "page_id": 158672,
+        "imageinfo": {
+          "size": 97762,
+          "width": 500,
+          "height": 520,
+          "thumburl": "https://upload.wikimedia.org/wikipedia/commons/6/63/Gray404.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+          "thumbwidth": 1280,
+          "thumbheight": 1331,
+          "thumbattribs": {
+            "src": "https://upload.wikimedia.org/wikipedia/commons/6/63/Gray404.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+            "decoding": "async",
+            "loading": "lazy",
+            "width": 1280,
+            "height": 1331
+          },
+          "url": "https://upload.wikimedia.org/wikipedia/commons/6/63/Gray404.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+          "descriptionurl": "https://commons.wikimedia.org/wiki/File:Gray404.png",
+          "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=158672",
+          "extmetadata": {
+            "DateTime": {
+              "value": "2005-05-21 05:19:34",
+              "source": "mediawiki-metadata",
+              "hidden": ""
+            },
+            "ObjectName": {
+              "value": "Gray404",
+              "source": "mediawiki-metadata"
+            },
+            "CommonsMetadataExtension": {
+              "value": 1.2,
+              "source": "extension",
+              "hidden": ""
+            },
+            "Categories": {
+              "value": "Pelvic floor|PD-old-100-expired|PD-scan (PD-old-100-expired)|CC-PD-Mark|Muscles of the human pelvis|Gray's Anatomy plates of muscles",
+              "source": "commons-categories",
+              "hidden": ""
+            },
+            "Assessments": {
+              "value": "",
+              "source": "commons-categories",
+              "hidden": ""
+            },
+            "ImageDescription": {
+              "value": "Left Levator ani from within.",
+              "source": "commons-desc-page"
+            },
+            "DateTimeOriginal": {
+              "value": "before 1858<div style=\"display: none;\">date QS:P,+1858-00-00T00:00:00Z/7,P1326,+1858-00-00T00:00:00Z/9</div>",
+              "source": "commons-desc-page"
+            },
+            "Credit": {
+              "value": "<ul><li><cite class=\"book\" style=\"font-style:normal\"><a href=\"https://en.wikipedia.org/wiki/Henry_Gray\" class=\"extiw\" title=\"en:Henry Gray\">Henry Gray</a> (1918)      <i> Anatomy of the Human Body</i>  <small></small></cite> (See \"Book\" section below)</li>\n<li><a href=\"https://en.wikipedia.org/wiki/Bartleby.com\" class=\"extiw\" title=\"en:Bartleby.com\">Bartleby.com</a>: <a rel=\"nofollow\" class=\"external text\" href=\"http://www.bartleby.com/107/\">Gray's Anatomy</a>, <a rel=\"nofollow\" class=\"external text\" href=\"http://www.bartleby.com/107/illus404.html\">Plate 404</a></li></ul>",
+              "source": "commons-desc-page"
+            },
+            "Artist": {
+              "value": "<bdi><a href=\"https://en.wikipedia.org/wiki/en:Henry_Vandyke_Carter\" class=\"extiw\" title=\"w:en:Henry Vandyke Carter\"><span title=\"English anatomist, illustrator of Gray's Anatomy (1831–1897)\">Henry Vandyke Carter</span></a></bdi>",
+              "source": "commons-desc-page"
+            },
+            "AuthorCount": {
+              "value": 2,
+              "source": "commons-desc-page",
+              "hidden": ""
+            },
+            "LicenseShortName": {
+              "value": "Public domain",
+              "source": "commons-desc-page",
+              "hidden": ""
+            },
+            "UsageTerms": {
+              "value": "Public domain",
+              "source": "commons-desc-page"
+            },
+            "AttributionRequired": {
+              "value": "false",
+              "source": "commons-desc-page",
+              "hidden": ""
+            },
+            "Copyrighted": {
+              "value": "False",
+              "source": "commons-desc-page",
+              "hidden": ""
+            },
+            "Restrictions": {
+              "value": "",
+              "source": "commons-desc-page",
+              "hidden": ""
+            },
+            "License": {
+              "value": "pd",
+              "source": "commons-templates",
+              "hidden": ""
+            }
+          }
+        }
+      },
+      "article_id": "DM_MH_02",
+      "role": "inline",
+      "asset": "images/researched/batch-03/DM_MH_02_inline.png",
+      "batch": 3,
+      "caption_vi": "Cơ nâng hậu môn nhìn từ trong khung chậu nam; nhóm cơ này nằm sâu hơn các cơ đùi được kéo giãn từ bên ngoài.",
+      "caption_en": "Levator ani viewed from inside the male pelvis, deeper than the thigh muscles involved in external stretches.",
+      "alt_vi": "Cơ nâng hậu môn nhìn từ trong khung chậu nam; nhóm cơ này nằm sâu hơn các cơ đùi được kéo giãn từ bên ngoài.",
+      "alt_en": "Levator ani viewed from inside the male pelvis, deeper than the thigh muscles involved in external stretches.",
+      "relevance_vi": "Làm rõ vị trí nhóm cơ sàn chậu được bài đề cập, tránh suy vị trí đau hoặc mức kéo giãn từ một ảnh tư thế.",
+      "fit": "contain",
+      "modifications_vi": "Giữ nguyên nội dung file ảnh gốc.",
+      "modifications_en": "Original image content unchanged.",
+      "width": 500,
+      "height": 520,
+      "sha256": "f79980fdcf8ba57c50acaf4645e35cd2d49cd568d9584ab7e2976eeb077c0a5c",
+      "checked_date": "2026-10-26",
+      "review_status": "Subject, source and licence checked"
+    },
+    {
+      "title": "A Woman and a Man Sitting on a Sofa Holding Hands While Talking",
+      "source_page": "https://www.pexels.com/photo/a-woman-and-a-man-sitting-on-a-sofa-holding-hands-while-talking-9064320/",
+      "source_asset_url": "https://images.pexels.com/photos/9064320/pexels-photo-9064320.jpeg",
+      "download_url": "https://images.pexels.com/photos/9064320/pexels-photo-9064320.jpeg?auto=compress&cs=tinysrgb&w=1600&fm=jpg",
+      "author": "RDNE Stock project",
+      "license": "Pexels License",
+      "license_url": "https://www.pexels.com/license/",
+      "source_metadata": {
+        "source_page": "https://www.pexels.com/photo/a-woman-and-a-man-sitting-on-a-sofa-holding-hands-while-talking-9064320/",
+        "license_page": "https://www.pexels.com/license/",
+        "photographer": "RDNE Stock project",
+        "original_dimensions": [
+          6407,
+          4271
+        ]
+      },
+      "article_id": "DM_MH_03",
+      "role": "hero",
+      "asset": "images/researched/batch-03/DM_MH_03_hero.jpg",
+      "batch": 3,
+      "caption_vi": "Hai người nắm tay và trò chuyện: ảnh minh họa cho việc chia sẻ cảm giác và mong muốn.",
+      "caption_en": "Two people holding hands and talking: an illustration of sharing feelings and preferences.",
+      "alt_vi": "Hai người nắm tay và trò chuyện: ảnh minh họa cho việc chia sẻ cảm giác và mong muốn.",
+      "alt_en": "Two people holding hands and talking: an illustration of sharing feelings and preferences.",
+      "relevance_vi": "Đúng phần tăng giao tiếp, không sử dụng hình mất cương hoặc gán lo âu tình dục cho người trong ảnh.",
+      "fit": "cover",
+      "modifications_vi": "Pexels thu nhỏ/nén JPEG; không sửa nội dung.",
+      "modifications_en": "Pexels resized/compressed JPEG; no content changes.",
+      "width": 1600,
+      "height": 1067,
+      "sha256": "e195b66120181ee567572723f7b7f4857ff44dd646259e565b36fc13d2ed95f0",
+      "checked_date": "2026-10-26",
+      "review_status": "Subject, source and licence checked"
+    },
+    {
+      "title": "A Counselor Talking to the Couple in front of Her",
+      "source_page": "https://www.pexels.com/photo/a-counselor-talking-to-the-couple-in-front-of-her-8560649/",
+      "source_asset_url": "https://images.pexels.com/photos/8560649/pexels-photo-8560649.jpeg",
+      "download_url": "https://images.pexels.com/photos/8560649/pexels-photo-8560649.jpeg?auto=compress&cs=tinysrgb&w=1600&fm=jpg",
+      "author": "Timur Weber",
+      "license": "Pexels License",
+      "license_url": "https://www.pexels.com/license/",
+      "source_metadata": {
+        "source_page": "https://www.pexels.com/photo/a-counselor-talking-to-the-couple-in-front-of-her-8560649/",
+        "license_page": "https://www.pexels.com/license/",
+        "photographer": "Timur Weber",
+        "original_dimensions": [
+          4000,
+          6000
+        ]
+      },
+      "article_id": "DM_MH_03",
+      "role": "inline",
+      "asset": "images/researched/batch-03/DM_MH_03_inline.jpg",
+      "batch": 3,
+      "caption_vi": "Ảnh dàn dựng một buổi tư vấn cặp đôi, minh họa lựa chọn tìm hỗ trợ khi lo lắng kéo dài.",
+      "caption_en": "A staged couples-counselling scene illustrating the option of seeking support when anxiety persists.",
+      "alt_vi": "Ảnh dàn dựng một buổi tư vấn cặp đôi, minh họa lựa chọn tìm hỗ trợ khi lo lắng kéo dài.",
+      "alt_en": "A staged couples-counselling scene illustrating the option of seeking support when anxiety persists.",
+      "relevance_vi": "Nguồn mô tả đúng bối cảnh tư vấn, không tự nhận người trong ảnh là bệnh nhân hay nhà trị liệu của nghiên cứu được trích dẫn.",
+      "fit": "contain",
+      "modifications_vi": "Pexels thu nhỏ/nén JPEG; không sửa nội dung.",
+      "modifications_en": "Pexels resized/compressed JPEG; no content changes.",
+      "width": 1600,
+      "height": 2400,
+      "sha256": "b588a35f28c9f4c344c5f2fb639f3612b012e0bf8770c82928690b7024cffbbe",
+      "checked_date": "2026-10-26",
+      "review_status": "Subject, source and licence checked"
+    },
+    {
+      "title": "Crop woman taking notes in calendar",
+      "source_page": "https://www.pexels.com/photo/crop-woman-taking-notes-in-calendar-5239917/",
+      "source_asset_url": "https://images.pexels.com/photos/5239917/pexels-photo-5239917.jpeg",
+      "download_url": "https://images.pexels.com/photos/5239917/pexels-photo-5239917.jpeg?auto=compress&cs=tinysrgb&w=1600&fm=jpg",
+      "author": "Anete Lusina",
+      "license": "Pexels License",
+      "license_url": "https://www.pexels.com/license/",
+      "source_metadata": {
+        "source_page": "https://www.pexels.com/photo/crop-woman-taking-notes-in-calendar-5239917/",
+        "license_page": "https://www.pexels.com/license/",
+        "photographer": "Anete Lusina",
+        "original_dimensions": [
+          6016,
+          4016
+        ]
+      },
+      "article_id": "WH_04",
+      "role": "hero",
+      "asset": "images/researched/batch-03/WH_04_hero.jpg",
+      "batch": 3,
+      "caption_vi": "Ghi chép trên lịch và sổ: có thể ghi ngày bắt đầu kinh, thời gian chảy máu và triệu chứng để trao đổi khi khám.",
+      "caption_en": "Calendar and notebook entries can record period starts, bleeding duration and symptoms for a clinical discussion.",
+      "alt_vi": "Ghi chép trên lịch và sổ: có thể ghi ngày bắt đầu kinh, thời gian chảy máu và triệu chứng để trao đổi khi khám.",
+      "alt_en": "Calendar and notebook entries can record period starts, bleeding duration and symptoms for a clinical discussion.",
+      "relevance_vi": "Minh họa cách ghi nhận thay vì áp một chu kỳ chuẩn; những ngày trên lịch trong ảnh không phải dữ liệu kinh nguyệt thực.",
+      "fit": "cover",
+      "modifications_vi": "Pexels thu nhỏ/nén JPEG; không sửa nội dung.",
+      "modifications_en": "Pexels resized/compressed JPEG; no content changes.",
+      "width": 1600,
+      "height": 1068,
+      "sha256": "badd94006e0b37258104d98aa3277bd72fbc6f2972be2df22dce2cd1c106993e",
+      "checked_date": "2026-10-26",
+      "review_status": "Subject, source and licence checked"
+    },
+    {
+      "title": "Woman Consulting a Doctor",
+      "source_page": "https://www.pexels.com/photo/woman-consulting-a-doctor-5215008/",
+      "source_asset_url": "https://images.pexels.com/photos/5215008/pexels-photo-5215008.jpeg",
+      "download_url": "https://images.pexels.com/photos/5215008/pexels-photo-5215008.jpeg?auto=compress&cs=tinysrgb&w=1600&fm=jpg",
+      "author": "Antoni Shkraba",
+      "license": "Pexels License",
+      "license_url": "https://www.pexels.com/license/",
+      "source_metadata": {
+        "source_page": "https://www.pexels.com/photo/woman-consulting-a-doctor-5215008/",
+        "license_page": "https://www.pexels.com/license/",
+        "photographer": "Antoni Shkraba",
+        "original_dimensions": [
+          4000,
+          6000
+        ]
+      },
+      "article_id": "WH_04",
+      "role": "inline",
+      "asset": "images/researched/batch-03/WH_04_inline.jpg",
+      "batch": 3,
+      "caption_vi": "Ảnh minh họa buổi trao đổi với nhân viên y tế; mang theo ghi chép giúp trình bày diễn biến triệu chứng.",
+      "caption_en": "An illustrative clinical conversation; bringing records can help describe how symptoms have changed.",
+      "alt_vi": "Ảnh minh họa buổi trao đổi với nhân viên y tế; mang theo ghi chép giúp trình bày diễn biến triệu chứng.",
+      "alt_en": "An illustrative clinical conversation; bringing records can help describe how symptoms have changed.",
+      "relevance_vi": "Phù hợp hành động đi khám có chuẩn bị, không dùng một xét nghiệm hoặc hình siêu âm như thể chẩn đoán được mọi nguyên nhân kinh không đều.",
+      "fit": "contain",
+      "modifications_vi": "Pexels thu nhỏ/nén JPEG; không sửa nội dung.",
+      "modifications_en": "Pexels resized/compressed JPEG; no content changes.",
+      "width": 1600,
+      "height": 2400,
+      "sha256": "d43429570a9b0a672a976e05a74fc4686d24afda5a4e971eaae38c3588c663cd",
+      "checked_date": "2026-10-26",
+      "review_status": "Subject, source and licence checked"
+    },
+    {
+      "title": "Menstrual cycle.svg",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Menstrual_cycle.svg",
+      "source_asset_url": "https://upload.wikimedia.org/wikipedia/commons/9/92/Menstrual_cycle.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "download_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/92/Menstrual_cycle.svg/1280px-Menstrual_cycle.svg.png",
+      "author": "Isometrik, Kaldari; Begoon; Marnanel",
+      "license": "CC BY-SA 3.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+      "source_metadata": {
+        "file_title": "File:Menstrual cycle.svg",
+        "page_id": 148851325,
+        "imageinfo": {
+          "size": 104399,
+          "width": 2048,
+          "height": 2048,
+          "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/92/Menstrual_cycle.svg/1280px-Menstrual_cycle.svg.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "thumbwidth": 1280,
+          "thumbheight": 1280,
+          "responsiveUrls": {
+            "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/92/Menstrual_cycle.svg/3840px-Menstrual_cycle.svg.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+          },
+          "thumbattribs": {
+            "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/92/Menstrual_cycle.svg/1280px-Menstrual_cycle.svg.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "decoding": "async",
+            "loading": "lazy",
+            "width": 1280,
+            "height": 1280,
+            "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/92/Menstrual_cycle.svg/3840px-Menstrual_cycle.svg.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+          },
+          "url": "https://upload.wikimedia.org/wikipedia/commons/9/92/Menstrual_cycle.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+          "descriptionurl": "https://commons.wikimedia.org/wiki/File:Menstrual_cycle.svg",
+          "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=148851325",
+          "extmetadata": {
+            "DateTime": {
+              "value": "2026-02-07 17:44:40",
+              "source": "mediawiki-metadata",
+              "hidden": ""
+            },
+            "ObjectName": {
+              "value": "Menstrual cycle",
+              "source": "mediawiki-metadata"
+            },
+            "CommonsMetadataExtension": {
+              "value": 1.2,
+              "source": "extension",
+              "hidden": ""
+            },
+            "Categories": {
+              "value": "Hormones|GFDL|License migration redundant|Basal body temperature|Self-published work|Translation possible - SVG|English-language medical diagrams|Information graphics without data source|SVG menstrual cycle|Medical diagrams by Marnanel|Multilingual SVG with up to 9 languages",
+              "source": "commons-categories",
+              "hidden": ""
+            },
+            "Assessments": {
+              "value": "",
+              "source": "commons-categories",
+              "hidden": ""
+            },
+            "ImageDescription": {
+              "value": "Translatable diagram of the menstrual cycle (based on several different sources)",
+              "source": "commons-desc-page"
+            },
+            "DateTimeOriginal": {
+              "value": "2009-12-08",
+              "source": "commons-desc-page"
+            },
+            "Credit": {
+              "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+              "source": "commons-desc-page"
+            },
+            "Artist": {
+              "value": "<a href=\"//commons.wikimedia.org/wiki/User:Isometrik\" title=\"User:Isometrik\">Isometrik</a>, <a href=\"//commons.wikimedia.org/wiki/User:Kaldari\" title=\"User:Kaldari\">Kaldari</a>; <a href=\"//commons.wikimedia.org/wiki/User:Begoon\" title=\"User:Begoon\">Begoon</a>; <a href=\"//commons.wikimedia.org/wiki/User:Marnanel\" title=\"User:Marnanel\">Marnanel</a>",
+              "source": "commons-desc-page"
+            },
+            "Permission": {
+              "value": "cc-by-sa",
+              "source": "commons-desc-page",
+              "hidden": ""
+            },
+            "LicenseShortName": {
+              "value": "CC BY-SA 3.0",
+              "source": "commons-desc-page",
+              "hidden": ""
+            },
+            "UsageTerms": {
+              "value": "Creative Commons Attribution-Share Alike 3.0",
+              "source": "commons-desc-page"
+            },
+            "AttributionRequired": {
+              "value": "true",
+              "source": "commons-desc-page",
+              "hidden": ""
+            },
+            "LicenseUrl": {
+              "value": "https://creativecommons.org/licenses/by-sa/3.0",
+              "source": "commons-desc-page"
+            },
+            "Copyrighted": {
+              "value": "True",
+              "source": "commons-desc-page",
+              "hidden": ""
+            },
+            "Restrictions": {
+              "value": "",
+              "source": "commons-desc-page",
+              "hidden": ""
+            },
+            "License": {
+              "value": "cc-by-sa-3.0",
+              "source": "commons-templates",
+              "hidden": ""
+            }
+          }
+        }
+      },
+      "article_id": "WH_06",
+      "role": "hero",
+      "asset": "images/researched/batch-03/WH_06_hero.png",
+      "batch": 3,
+      "caption_vi": "Các đường hormone và thay đổi buồng trứng, nội mạc trong một chu kỳ 28 ngày minh họa; lịch thực tế của từng người có thể khác.",
+      "caption_en": "Hormone curves and ovarian and endometrial changes in a schematic 28-day cycle; individual timing can differ.",
+      "alt_vi": "Các đường hormone và thay đổi buồng trứng, nội mạc trong một chu kỳ 28 ngày minh họa; lịch thực tế của từng người có thể khác.",
+      "alt_en": "Hormone curves and ovarian and endometrial changes in a schematic 28-day cycle; individual timing can differ.",
+      "relevance_vi": "Dùng lại hình phù hợp đã kiểm tra ở đợt 02 để giải thích estrogen và progesterone, không trình bày như kết quả xét nghiệm của người đọc.",
+      "fit": "contain",
+      "modifications_vi": "PNG kết xuất từ SVG; giữ nguyên nội dung.",
+      "modifications_en": "PNG rendered from SVG; image content unchanged.",
+      "width": 1280,
+      "height": 1280,
+      "sha256": "60b42d00049ce2fbeeaf1f5038efec85b7f4815286bba41e2f05f5b9e9b4eb61",
+      "checked_date": "2026-10-26",
+      "review_status": "Subject, source and licence checked"
+    },
+    {
+      "title": "Woman Writing on Her Notebook",
+      "source_page": "https://www.pexels.com/photo/woman-writing-on-her-notebook-3059747/",
+      "source_asset_url": "https://images.pexels.com/photos/3059747/pexels-photo-3059747.jpeg",
+      "download_url": "https://images.pexels.com/photos/3059747/pexels-photo-3059747.jpeg?auto=compress&cs=tinysrgb&w=1600&fm=jpg",
+      "author": "RF._.studio _",
+      "license": "Pexels License",
+      "license_url": "https://www.pexels.com/license/",
+      "source_metadata": {
+        "source_page": "https://www.pexels.com/photo/woman-writing-on-her-notebook-3059747/",
+        "license_page": "https://www.pexels.com/license/",
+        "photographer": "RF._.studio _",
+        "original_dimensions": [
+          7822,
+          5217
+        ]
+      },
+      "article_id": "WH_07",
+      "role": "hero",
+      "asset": "images/researched/batch-03/WH_07_hero.jpg",
+      "batch": 3,
+      "caption_vi": "Ghi chép khi làm việc: ảnh minh họa bối cảnh theo dõi sự tập trung, giấc ngủ và triệu chứng của riêng mình.",
+      "caption_en": "Taking notes while working: an illustration for tracking personal concentration, sleep and symptoms.",
+      "alt_vi": "Ghi chép khi làm việc: ảnh minh họa bối cảnh theo dõi sự tập trung, giấc ngủ và triệu chứng của riêng mình.",
+      "alt_en": "Taking notes while working: an illustration for tracking personal concentration, sleep and symptoms.",
+      "relevance_vi": "Không gán khó tập trung hay một pha kinh nguyệt cho người mẫu, tránh củng cố nhận định rằng phụ nữ bắt buộc làm việc kém ở một pha.",
+      "fit": "cover",
+      "modifications_vi": "Pexels thu nhỏ/nén JPEG; không sửa nội dung.",
+      "modifications_en": "Pexels resized/compressed JPEG; no content changes.",
+      "width": 1600,
+      "height": 1067,
+      "sha256": "901e1b94aed7e7f821b9cbf19077b1437f4d76eeb611d52fc215d165c8e823ad",
+      "checked_date": "2026-10-26",
+      "review_status": "Subject, source and licence checked"
+    },
+    {
+      "title": "A Couple Relaxing at Home",
+      "source_page": "https://www.pexels.com/photo/a-couple-relaxing-at-home-6599049/",
+      "source_asset_url": "https://images.pexels.com/photos/6599049/pexels-photo-6599049.jpeg",
+      "download_url": "https://images.pexels.com/photos/6599049/pexels-photo-6599049.jpeg?auto=compress&cs=tinysrgb&w=1600&fm=jpg",
+      "author": "Antoni Shkraba Studio",
+      "license": "Pexels License",
+      "license_url": "https://www.pexels.com/license/",
+      "source_metadata": {
+        "source_page": "https://www.pexels.com/photo/a-couple-relaxing-at-home-6599049/",
+        "license_page": "https://www.pexels.com/license/",
+        "photographer": "Antoni Shkraba Studio",
+        "original_dimensions": [
+          4000,
+          6000
+        ]
+      },
+      "article_id": "WH_09",
+      "role": "hero",
+      "asset": "images/researched/batch-03/WH_09_hero.jpg",
+      "batch": 3,
+      "caption_vi": "Chia sẻ thời gian và trò chuyện khi ở bên nhau; ảnh minh họa sự gần gũi thường ngày.",
+      "caption_en": "Spending time and talking together, illustrating everyday closeness.",
+      "alt_vi": "Chia sẻ thời gian và trò chuyện khi ở bên nhau; ảnh minh họa sự gần gũi thường ngày.",
+      "alt_en": "Spending time and talking together, illustrating everyday closeness.",
+      "relevance_vi": "Đúng bối cảnh quan hệ và giao tiếp; ảnh không được dùng để suy mức ham muốn hoặc sự đồng thuận với hoạt động tình dục.",
+      "fit": "contain",
+      "modifications_vi": "Pexels thu nhỏ/nén JPEG; không sửa nội dung.",
+      "modifications_en": "Pexels resized/compressed JPEG; no content changes.",
+      "width": 1600,
+      "height": 2400,
+      "sha256": "bb2b65b2ed850ba1873583e86f3473acb4882dffbcbe9d4ab4890c57663812ec",
+      "checked_date": "2026-10-26",
+      "review_status": "Subject, source and licence checked"
+    },
+    {
+      "title": "Woman Writing on a Planner",
+      "source_page": "https://www.pexels.com/photo/woman-writing-on-a-planner-6541164/",
+      "source_asset_url": "https://images.pexels.com/photos/6541164/pexels-photo-6541164.jpeg",
+      "download_url": "https://images.pexels.com/photos/6541164/pexels-photo-6541164.jpeg?auto=compress&cs=tinysrgb&w=1600&fm=jpg",
+      "author": "Polina",
+      "license": "Pexels License",
+      "license_url": "https://www.pexels.com/license/",
+      "source_metadata": {
+        "source_page": "https://www.pexels.com/photo/woman-writing-on-a-planner-6541164/",
+        "license_page": "https://www.pexels.com/license/",
+        "photographer": "Polina",
+        "original_dimensions": [
+          3064,
+          4592
+        ]
+      },
+      "article_id": "WH_10",
+      "role": "hero",
+      "asset": "images/researched/batch-03/WH_10_hero.jpg",
+      "batch": 3,
+      "caption_vi": "Viết nhật ký để ghi cảm xúc, giấc ngủ và các sự kiện đáng chú ý theo thời gian.",
+      "caption_en": "Keeping a diary to record mood, sleep and notable events over time.",
+      "alt_vi": "Viết nhật ký để ghi cảm xúc, giấc ngủ và các sự kiện đáng chú ý theo thời gian.",
+      "alt_en": "Keeping a diary to record mood, sleep and notable events over time.",
+      "relevance_vi": "Minh họa thao tác ghi chép; không dùng biểu đồ cảm xúc cố định theo ngày rụng trứng hay gán PMS cho người mẫu.",
+      "fit": "contain",
+      "modifications_vi": "Pexels thu nhỏ/nén JPEG; không sửa nội dung.",
+      "modifications_en": "Pexels resized/compressed JPEG; no content changes.",
+      "width": 1600,
+      "height": 2398,
+      "sha256": "e9bec2a0b5c59c78223d1eac498381c3aa08e21e81fe9d8f918966d986f3f2ed",
+      "checked_date": "2026-10-26",
+      "review_status": "Subject, source and licence checked"
+    },
+    {
+      "title": "Normal vaginal flora on Pap stain.jpg",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Normal_vaginal_flora_on_Pap_stain.jpg",
+      "source_asset_url": "https://upload.wikimedia.org/wikipedia/commons/4/47/Normal_vaginal_flora_on_Pap_stain.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "download_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/47/Normal_vaginal_flora_on_Pap_stain.jpg/1280px-Normal_vaginal_flora_on_Pap_stain.jpg",
+      "author": "Mikael Häggström",
+      "license": "CC0",
+      "license_url": "https://creativecommons.org/publicdomain/zero/1.0/deed.en",
+      "source_metadata": {
+        "file_title": "File:Normal vaginal flora on Pap stain.jpg",
+        "page_id": 122861125,
+        "imageinfo": {
+          "size": 714958,
+          "width": 2453,
+          "height": 2033,
+          "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/47/Normal_vaginal_flora_on_Pap_stain.jpg/1280px-Normal_vaginal_flora_on_Pap_stain.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "thumbwidth": 1280,
+          "thumbheight": 1061,
+          "responsiveUrls": {
+            "2": "https://upload.wikimedia.org/wikipedia/commons/4/47/Normal_vaginal_flora_on_Pap_stain.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled"
+          },
+          "thumbattribs": {
+            "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/47/Normal_vaginal_flora_on_Pap_stain.jpg/1280px-Normal_vaginal_flora_on_Pap_stain.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "decoding": "async",
+            "loading": "lazy",
+            "width": 1280,
+            "height": 1061,
+            "srcset": "https://upload.wikimedia.org/wikipedia/commons/4/47/Normal_vaginal_flora_on_Pap_stain.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled 2x"
+          },
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/47/Normal_vaginal_flora_on_Pap_stain.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+          "descriptionurl": "https://commons.wikimedia.org/wiki/File:Normal_vaginal_flora_on_Pap_stain.jpg",
+          "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=122861125",
+          "extmetadata": {
+            "DateTime": {
+              "value": "2022-09-10 15:08:23",
+              "source": "mediawiki-metadata",
+              "hidden": ""
+            },
+            "ObjectName": {
+              "value": "Normal vaginal flora on Pap stain",
+              "source": "mediawiki-metadata"
+            },
+            "CommonsMetadataExtension": {
+              "value": 1.2,
+              "source": "extension",
+              "hidden": ""
+            },
+            "Categories": {
+              "value": "Lactobacillus|CC-Zero|Pap test cytology|Vaginal flora|Mikael Häggström/Micrographs of the female reproductive system",
+              "source": "commons-categories",
+              "hidden": ""
+            },
+            "Assessments": {
+              "value": "",
+              "source": "commons-categories",
+              "hidden": ""
+            },
+            "ImageDescription": {
+              "value": "Vaginal squamous cell with normal vaginal flora, being predominantly rod-shaped <i>Lactobacilli</i>. Pap stain",
+              "source": "commons-desc-page"
+            },
+            "DateTimeOriginal": {
+              "value": "2022-09-10",
+              "source": "commons-desc-page"
+            },
+            "Credit": {
+              "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+              "source": "commons-desc-page"
+            },
+            "Artist": {
+              "value": "<figure typeof=\"mw:File/Thumb\"><a href=\"//commons.wikimedia.org/wiki/File:Mikael_H%C3%A4ggstr%C3%B6m_at_pathology_in_2019_(crop).jpg\" class=\"mw-file-description\"><img src=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f1/Mikael_H%C3%A4ggstr%C3%B6m_at_pathology_in_2019_%28crop%29.jpg/250px-Mikael_H%C3%A4ggstr%C3%B6m_at_pathology_in_2019_%28crop%29.jpg?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail\" decoding=\"async\" loading=\"lazy\" width=\"135\" height=\"159\" class=\"mw-file-element\" srcset=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f1/Mikael_H%C3%A4ggstr%C3%B6m_at_pathology_in_2019_%28crop%29.jpg/330px-Mikael_H%C3%A4ggstr%C3%B6m_at_pathology_in_2019_%28crop%29.jpg?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail 2x\" data-file-width=\"1439\" data-file-height=\"1697\"></a><figcaption><a href=\"//commons.wikimedia.org/wiki/User:Mikael_H%C3%A4ggstr%C3%B6m\" title=\"User:Mikael Häggström\">Mikael Häggström</a>, <a href=\"https://en.wikipedia.org/wiki/Medical_Doctor\" class=\"extiw\" title=\"en:Medical Doctor\">M.D.</a> <a href=\"//commons.wikimedia.org/wiki/Mikael_H%C3%A4ggstr%C3%B6m\" class=\"mw-redirect\" title=\"Mikael Häggström\">Author info</a><br> - <a href=\"//commons.wikimedia.org/wiki/User:Mikael_H%C3%A4ggstr%C3%B6m#Reusing_images\" title=\"User:Mikael Häggström\">Reusing images</a><br>- Conflicts of interest:<br>  None</figcaption></figure>\n<a href=\"//commons.wikimedia.org/wiki/User:Mikael_H%C3%A4ggstr%C3%B6m\" title=\"User:Mikael Häggström\">Mikael Häggström</a>, <a href=\"https://en.wikipedia.org/wiki/Medical_Doctor\" class=\"extiw\" title=\"en:Medical Doctor\">M.D.</a><br><b>Consent note</b>: Consent from the patient or patient's relatives is regarded as redundant, because of absence of identifiable features (<a rel=\"nofollow\" class=\"external text\" href=\"https://research.ucr.edu/ori/committees/irb-clin/hipaa/hipaa-phi-identifiers\">List of HIPAA identifiers</a>) in the media and case information (<a rel=\"nofollow\" class=\"external text\" href=\"https://research.ucr.edu/media/34266/hipaa_case_reports.pdf\">See also HIPAA case reports guidance</a>).",
+              "source": "commons-desc-page"
+            },
+            "LicenseShortName": {
+              "value": "CC0",
+              "source": "commons-desc-page",
+              "hidden": ""
+            },
+            "UsageTerms": {
+              "value": "Creative Commons Zero, Public Domain Dedication",
+              "source": "commons-desc-page"
+            },
+            "AttributionRequired": {
+              "value": "false",
+              "source": "commons-desc-page",
+              "hidden": ""
+            },
+            "LicenseUrl": {
+              "value": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+              "source": "commons-desc-page"
+            },
+            "Copyrighted": {
+              "value": "True",
+              "source": "commons-desc-page",
+              "hidden": ""
+            },
+            "Restrictions": {
+              "value": "",
+              "source": "commons-desc-page",
+              "hidden": ""
+            },
+            "License": {
+              "value": "cc0",
+              "source": "commons-templates",
+              "hidden": ""
+            }
+          }
+        }
+      },
+      "article_id": "WH_11",
+      "role": "hero",
+      "asset": "images/researched/batch-03/WH_11_hero.jpg",
+      "batch": 3,
+      "caption_vi": "Ảnh hiển vi nhuộm Pap: tế bào biểu mô âm đạo cùng các vi khuẩn dạng que được nguồn mô tả chủ yếu là Lactobacillus.",
+      "caption_en": "Pap-stained micrograph of a vaginal squamous cell with rod-shaped bacteria described by the source as predominantly Lactobacillus.",
+      "alt_vi": "Ảnh hiển vi nhuộm Pap: tế bào biểu mô âm đạo cùng các vi khuẩn dạng que được nguồn mô tả chủ yếu là Lactobacillus.",
+      "alt_en": "Pap-stained micrograph of a vaginal squamous cell with rod-shaped bacteria described by the source as predominantly Lactobacillus.",
+      "relevance_vi": "Đúng mẫu âm đạo, không dùng ảnh vi khuẩn thực phẩm; ảnh hiển vi không đo pH và không phải công cụ tự chẩn đoán từ màu dịch.",
+      "fit": "contain",
+      "modifications_vi": "Bản thu nhỏ; giữ nguyên nội dung.",
+      "modifications_en": "Thumbnail; image content unchanged.",
+      "width": 1280,
+      "height": 1061,
+      "sha256": "a66b11091a5bf6f83852cc5dc33f730a2220661dbc3ea7b9bae05c2b78364482",
+      "checked_date": "2026-10-26",
+      "review_status": "Subject, source and licence checked"
+    },
+    {
+      "title": "Figure 28 02 02.jpg",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Vulva_Figure_28_02_02.jpg",
+      "source_asset_url": "https://upload.wikimedia.org/wikipedia/commons/7/79/Vulva_Figure_28_02_02.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "download_url": "https://upload.wikimedia.org/wikipedia/commons/7/79/Vulva_Figure_28_02_02.jpg",
+      "author": "OpenStax College",
+      "license": "CC BY 3.0",
+      "license_url": "https://creativecommons.org/licenses/by/3.0",
+      "source_metadata": {
+        "file_title": "File:Figure 28 02 02.jpg",
+        "page_id": 109993227,
+        "imageinfo": {
+          "size": 125908,
+          "width": 729,
+          "height": 428,
+          "thumburl": "https://upload.wikimedia.org/wikipedia/commons/7/79/Vulva_Figure_28_02_02.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+          "thumbwidth": 1280,
+          "thumbheight": 751,
+          "thumbattribs": {
+            "src": "https://upload.wikimedia.org/wikipedia/commons/7/79/Vulva_Figure_28_02_02.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+            "decoding": "async",
+            "loading": "lazy",
+            "width": 1280,
+            "height": 751
+          },
+          "url": "https://upload.wikimedia.org/wikipedia/commons/7/79/Vulva_Figure_28_02_02.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+          "descriptionurl": "https://commons.wikimedia.org/wiki/File:Vulva_Figure_28_02_02.jpg",
+          "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=30148635",
+          "extmetadata": {
+            "DateTime": {
+              "value": "2014-05-16 01:36:02",
+              "source": "mediawiki-metadata",
+              "hidden": ""
+            },
+            "ObjectName": {
+              "value": "Vulva Figure 28 02 02",
+              "source": "mediawiki-metadata"
+            },
+            "CommonsMetadataExtension": {
+              "value": 1.2,
+              "source": "extension",
+              "hidden": ""
+            },
+            "Categories": {
+              "value": "CNX missing caption|Human anatomy from CNX Biology Textbook|Clitoris drawings|Corpus cavernosum clitoridis",
+              "source": "commons-categories",
+              "hidden": ""
+            },
+            "Assessments": {
+              "value": "",
+              "source": "commons-categories",
+              "hidden": ""
+            },
+            "ImageDescription": {
+              "value": "Illustration from Anatomy &amp; Physiology, Connexions Web site. <a rel=\"nofollow\" class=\"external free\" href=\"http://cnx.org/content/col11496/1.6/\">http://cnx.org/content/col11496/1.6/</a>, Jun 19, 2013.",
+              "source": "commons-desc-page"
+            },
+            "DateTimeOriginal": {
+              "value": "2013-05-02 15:12:55",
+              "source": "commons-desc-page"
+            },
+            "Credit": {
+              "value": "Anatomy &amp; Physiology, Connexions Web site. <a rel=\"nofollow\" class=\"external free\" href=\"https://cnx.org/contents/FPtK1zmh@6.27:nMy6SWSQ@5/Anatomy-and-Physiology-of-the-\">https://cnx.org/contents/FPtK1zmh@6.27:nMy6SWSQ@5/Anatomy-and-Physiology-of-the-</a>, Jun 19, 2013.",
+              "source": "commons-desc-page"
+            },
+            "Artist": {
+              "value": "OpenStax College",
+              "source": "commons-desc-page"
+            },
+            "LicenseShortName": {
+              "value": "CC BY 3.0",
+              "source": "commons-desc-page",
+              "hidden": ""
+            },
+            "UsageTerms": {
+              "value": "Creative Commons Attribution 3.0",
+              "source": "commons-desc-page"
+            },
+            "AttributionRequired": {
+              "value": "true",
+              "source": "commons-desc-page",
+              "hidden": ""
+            },
+            "LicenseUrl": {
+              "value": "https://creativecommons.org/licenses/by/3.0",
+              "source": "commons-desc-page"
+            },
+            "Copyrighted": {
+              "value": "True",
+              "source": "commons-desc-page",
+              "hidden": ""
+            },
+            "Restrictions": {
+              "value": "",
+              "source": "commons-desc-page",
+              "hidden": ""
+            },
+            "License": {
+              "value": "cc-by-3.0",
+              "source": "commons-templates",
+              "hidden": ""
+            }
+          }
+        }
+      },
+      "article_id": "WH_11",
+      "role": "inline",
+      "asset": "images/researched/batch-03/WH_11_inline.jpg",
+      "batch": 3,
+      "caption_vi": "Sơ đồ âm hộ với lỗ niệu đạo, lỗ âm đạo và các tuyến Bartholin, giúp phân biệt vùng ngoài với bên trong âm đạo.",
+      "caption_en": "Vulvar anatomy showing the urethral opening, vaginal opening and Bartholin glands, distinguishing external structures from the vagina.",
+      "alt_vi": "Sơ đồ âm hộ với lỗ niệu đạo, lỗ âm đạo và các tuyến Bartholin, giúp phân biệt vùng ngoài với bên trong âm đạo.",
+      "alt_en": "Vulvar anatomy showing the urethral opening, vaginal opening and Bartholin glands, distinguishing external structures from the vagina.",
+      "relevance_vi": "Hỗ trợ hướng dẫn vệ sinh phần ngoài và tránh thụt rửa; không gọi toàn bộ âm hộ là âm đạo.",
+      "fit": "contain",
+      "modifications_vi": "Giữ nguyên nội dung file ảnh gốc.",
+      "modifications_en": "Original image content unchanged.",
+      "width": 729,
+      "height": 428,
+      "sha256": "700b4428e3568b38526b5d94fe903499e74f6dc5416b3b0cdaf9d22bf54eea9d",
+      "checked_date": "2026-10-26",
+      "review_status": "Subject, source and licence checked"
+    },
+    {
+      "title": "Medical Professional Sitting on a Chair Holding a Tablet while Talking",
+      "source_page": "https://www.pexels.com/photo/medical-professional-sitting-on-a-chair-holding-a-tablet-while-talking-5327864/",
+      "source_asset_url": "https://images.pexels.com/photos/5327864/pexels-photo-5327864.jpeg",
+      "download_url": "https://images.pexels.com/photos/5327864/pexels-photo-5327864.jpeg?auto=compress&cs=tinysrgb&w=1600&fm=jpg",
+      "author": "Thirdman",
+      "license": "Pexels License",
+      "license_url": "https://www.pexels.com/license/",
+      "source_metadata": {
+        "source_page": "https://www.pexels.com/photo/medical-professional-sitting-on-a-chair-holding-a-tablet-while-talking-5327864/",
+        "license_page": "https://www.pexels.com/license/",
+        "photographer": "Thirdman",
+        "original_dimensions": [
+          4231,
+          6346
+        ]
+      },
+      "article_id": "WH_12",
+      "role": "hero",
+      "asset": "images/researched/batch-03/WH_12_hero.jpg",
+      "batch": 3,
+      "caption_vi": "Ảnh minh họa trao đổi với nhân viên y tế về triệu chứng và mức ảnh hưởng sinh hoạt.",
+      "caption_en": "An illustrative conversation with a healthcare professional about symptoms and their effect on daily life.",
+      "alt_vi": "Ảnh minh họa trao đổi với nhân viên y tế về triệu chứng và mức ảnh hưởng sinh hoạt.",
+      "alt_en": "An illustrative conversation with a healthcare professional about symptoms and their effect on daily life.",
+      "relevance_vi": "Tập trung vào được lắng nghe và đánh giá, không dùng biểu cảm của người mẫu để xác định đau khi quan hệ.",
+      "fit": "contain",
+      "modifications_vi": "Pexels thu nhỏ/nén JPEG; không sửa nội dung.",
+      "modifications_en": "Pexels resized/compressed JPEG; no content changes.",
+      "width": 1600,
+      "height": 2400,
+      "sha256": "00422f83bdc3a281d1a3cd6203c00e0201ed6e28b4651740aa8ebb42dd959d24",
+      "checked_date": "2026-10-26",
+      "review_status": "Subject, source and licence checked"
+    },
+    {
+      "title": "Gray1230.png",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Gray1230.png",
+      "source_asset_url": "https://upload.wikimedia.org/wikipedia/commons/c/c1/Gray1230.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "download_url": "https://upload.wikimedia.org/wikipedia/commons/c/c1/Gray1230.png",
+      "author": "Henry Vandyke Carter",
+      "license": "Public domain",
+      "license_url": "https://creativecommons.org/publicdomain/mark/1.0/",
+      "source_metadata": {
+        "file_title": "File:Gray1230.png",
+        "page_id": 564845,
+        "imageinfo": {
+          "size": 56879,
+          "width": 581,
+          "height": 500,
+          "thumburl": "https://upload.wikimedia.org/wikipedia/commons/c/c1/Gray1230.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+          "thumbwidth": 1280,
+          "thumbheight": 1102,
+          "thumbattribs": {
+            "src": "https://upload.wikimedia.org/wikipedia/commons/c/c1/Gray1230.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+            "decoding": "async",
+            "loading": "lazy",
+            "width": 1280,
+            "height": 1102
+          },
+          "url": "https://upload.wikimedia.org/wikipedia/commons/c/c1/Gray1230.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+          "descriptionurl": "https://commons.wikimedia.org/wiki/File:Gray1230.png",
+          "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=564845",
+          "extmetadata": {
+            "DateTime": {
+              "value": "2007-01-23 20:39:02",
+              "source": "mediawiki-metadata",
+              "hidden": ""
+            },
+            "ObjectName": {
+              "value": "Gray1230",
+              "source": "mediawiki-metadata"
+            },
+            "CommonsMetadataExtension": {
+              "value": 1.2,
+              "source": "extension",
+              "hidden": ""
+            },
+            "Categories": {
+              "value": "PD-old-100-expired|PD-scan (PD-old-100-expired)|Human colon|Lateral cross-section of female genitourinary system|CC-PD-Mark|Gray's Anatomy plates of genitourinary system|Anatomy of uterus",
+              "source": "commons-categories",
+              "hidden": ""
+            },
+            "Assessments": {
+              "value": "",
+              "source": "commons-categories",
+              "hidden": ""
+            },
+            "ImageDescription": {
+              "value": "Median sagittal section of female pelvis.<br><b>Note:</b> very similar to <a href=\"//commons.wikimedia.org/wiki/File:Gray1139.png\" title=\"File:Gray1139.png\">Gray1139.png</a>, but not identical -- two captions are different.",
+              "source": "commons-desc-page"
+            },
+            "DateTimeOriginal": {
+              "value": "before 1858<div style=\"display: none;\">date QS:P,+1858-00-00T00:00:00Z/7,P1326,+1858-00-00T00:00:00Z/9</div>",
+              "source": "commons-desc-page"
+            },
+            "Credit": {
+              "value": "<ul><li><cite class=\"book\" style=\"font-style:normal\"><a href=\"https://en.wikipedia.org/wiki/Henry_Gray\" class=\"extiw\" title=\"en:Henry Gray\">Henry Gray</a> (1918)      <i> Anatomy of the Human Body</i>  <small></small></cite> (See \"Book\" section below)</li>\n<li><a href=\"https://en.wikipedia.org/wiki/Bartleby.com\" class=\"extiw\" title=\"en:Bartleby.com\">Bartleby.com</a>: <a rel=\"nofollow\" class=\"external text\" href=\"http://www.bartleby.com/107/\">Gray's Anatomy</a>, <a rel=\"nofollow\" class=\"external text\" href=\"http://www.bartleby.com/107/illus1230.html\">Plate 1230</a></li></ul>",
+              "source": "commons-desc-page"
+            },
+            "Artist": {
+              "value": "<bdi><a href=\"https://en.wikipedia.org/wiki/en:Henry_Vandyke_Carter\" class=\"extiw\" title=\"w:en:Henry Vandyke Carter\"><span title=\"English anatomist, illustrator of Gray's Anatomy (1831–1897)\">Henry Vandyke Carter</span></a></bdi>",
+              "source": "commons-desc-page"
+            },
+            "AuthorCount": {
+              "value": 2,
+              "source": "commons-desc-page",
+              "hidden": ""
+            },
+            "LicenseShortName": {
+              "value": "Public domain",
+              "source": "commons-desc-page",
+              "hidden": ""
+            },
+            "UsageTerms": {
+              "value": "Public domain",
+              "source": "commons-desc-page"
+            },
+            "AttributionRequired": {
+              "value": "false",
+              "source": "commons-desc-page",
+              "hidden": ""
+            },
+            "Copyrighted": {
+              "value": "False",
+              "source": "commons-desc-page",
+              "hidden": ""
+            },
+            "Restrictions": {
+              "value": "",
+              "source": "commons-desc-page",
+              "hidden": ""
+            },
+            "License": {
+              "value": "pd",
+              "source": "commons-templates",
+              "hidden": ""
+            }
+          }
+        }
+      },
+      "article_id": "WH_12",
+      "role": "inline",
+      "asset": "images/researched/batch-03/WH_12_inline.png",
+      "batch": 3,
+      "caption_vi": "Mặt cắt dọc khung chậu nữ thể hiện bàng quang, tử cung, âm đạo và trực tràng.",
+      "caption_en": "A sagittal section of the female pelvis showing the bladder, uterus, vagina and rectum.",
+      "alt_vi": "Mặt cắt dọc khung chậu nữ thể hiện bàng quang, tử cung, âm đạo và trực tràng.",
+      "alt_en": "A sagittal section of the female pelvis showing the bladder, uterus, vagina and rectum.",
+      "relevance_vi": "Cho thấy tương quan các cơ quan khi trao đổi đau nông hoặc sâu; giải phẫu không chỉ ra nguyên nhân đau của từng người.",
+      "fit": "contain",
+      "modifications_vi": "Giữ nguyên nội dung file ảnh gốc.",
+      "modifications_en": "Original image content unchanged.",
+      "width": 581,
+      "height": 500,
+      "sha256": "15ce181f198f944f021286bbbfb3dc96bc7867ff7aa26d364a9a30415b9cb6cc",
+      "checked_date": "2026-10-26",
+      "review_status": "Subject, source and licence checked"
+    },
+    {
+      "title": "1116 Muscle of the Female Perineum.png",
+      "source_page": "https://commons.wikimedia.org/wiki/File:1116_Muscle_of_the_Female_Perineum.png",
+      "source_asset_url": "https://upload.wikimedia.org/wikipedia/commons/f/f9/1116_Muscle_of_the_Female_Perineum.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "download_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f9/1116_Muscle_of_the_Female_Perineum.png/1280px-1116_Muscle_of_the_Female_Perineum.png",
+      "author": "Openstax",
+      "license": "CC BY 3.0",
+      "license_url": "https://creativecommons.org/licenses/by/3.0",
+      "source_metadata": {
+        "file_title": "File:1116 Muscle of the Female Perineum.png",
+        "page_id": 64290344,
+        "imageinfo": {
+          "size": 997829,
+          "width": 1340,
+          "height": 1102,
+          "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f9/1116_Muscle_of_the_Female_Perineum.png/1280px-1116_Muscle_of_the_Female_Perineum.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "thumbwidth": 1280,
+          "thumbheight": 1053,
+          "responsiveUrls": {
+            "2": "https://upload.wikimedia.org/wikipedia/commons/f/f9/1116_Muscle_of_the_Female_Perineum.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled"
+          },
+          "thumbattribs": {
+            "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f9/1116_Muscle_of_the_Female_Perineum.png/1280px-1116_Muscle_of_the_Female_Perineum.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "decoding": "async",
+            "loading": "lazy",
+            "width": 1280,
+            "height": 1053,
+            "srcset": "https://upload.wikimedia.org/wikipedia/commons/f/f9/1116_Muscle_of_the_Female_Perineum.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled 2x"
+          },
+          "url": "https://upload.wikimedia.org/wikipedia/commons/f/f9/1116_Muscle_of_the_Female_Perineum.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+          "descriptionurl": "https://commons.wikimedia.org/wiki/File:1116_Muscle_of_the_Female_Perineum.png",
+          "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=64290344",
+          "extmetadata": {
+            "DateTime": {
+              "value": "2017-11-23 21:57:42",
+              "source": "mediawiki-metadata",
+              "hidden": ""
+            },
+            "ObjectName": {
+              "value": "1116 Muscle of the Female Perineum",
+              "source": "mediawiki-metadata"
+            },
+            "CommonsMetadataExtension": {
+              "value": 1.2,
+              "source": "extension",
+              "hidden": ""
+            },
+            "Categories": {
+              "value": "Pelvic floor|Biology images that should use vector graphics|PNG that should use vector graphics|Human muscular system from CNX Anatomy & Physiology Textbook|Graphics by OpenStax",
+              "source": "commons-categories",
+              "hidden": ""
+            },
+            "Assessments": {
+              "value": "",
+              "source": "commons-categories",
+              "hidden": ""
+            },
+            "ImageDescription": {
+              "value": "Caption: The perineum muscles play roles in urination in both sexes, ejaculation in men, and vaginal contraction in women.<br> URL: <a rel=\"nofollow\" class=\"external free\" href=\"https://cnx.org/contents/FPtK1zmh@8.108:b3YG6PIp@6/Axial-Muscles-of-the-Abdominal\">https://cnx.org/contents/FPtK1zmh@8.108:b3YG6PIp@6/Axial-Muscles-of-the-Abdominal</a><br> Version 8.25 from the Textbook<br> OpenStax Anatomy and Physiology<br> Published May 18, 2016<br> Other versions: <ul class=\"gallery mw-gallery-traditional\">\n\t\t<li class=\"gallerybox\" style=\"width: 155px\">\n\t\t\t<div class=\"thumb\" style=\"width: 150px; height: 150px;\"><span typeof=\"mw:File\"><a href=\"//commons.wikimedia.org/wiki/File:1116_Muscle_of_the_Perineum.jpg\" class=\"mw-file-description\" title=\"English source\"><img alt=\"English source\" src=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e8/1116_Muscle_of_the_Perineum.jpg/120px-1116_Muscle_of_the_Perineum.jpg?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail\" decoding=\"async\" loading=\"lazy\" width=\"120\" height=\"74\" class=\"mw-file-element\" srcset=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e8/1116_Muscle_of_the_Perineum.jpg/250px-1116_Muscle_of_the_Perineum.jpg?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail 2x\" data-file-width=\"2118\" data-file-height=\"1305\"></a></span></div>\n\t\t\t<div class=\"gallerytext\">English source</div>\n\t\t</li>\n\t\t<li class=\"gallerybox\" style=\"width: 155px\">\n\t\t\t<div class=\"thumb\" style=\"width: 150px; height: 150px;\"><span typeof=\"mw:File\"><a href=\"//commons.wikimedia.org/wiki/File:1116_Muscle_of_the_Male_Perineum.png\" class=\"mw-file-description\" title=\"Male (english)\"><img alt=\"Male (english)\" src=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ea/1116_Muscle_of_the_Male_Perineum.png/120px-1116_Muscle_of_the_Male_Perineum.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail\" decoding=\"async\" loading=\"lazy\" width=\"115\" height=\"120\" class=\"mw-file-element\" srcset=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ea/1116_Muscle_of_the_Male_Perineum.png/250px-1116_Muscle_of_the_Male_Perineum.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail 2x\" data-file-width=\"1176\" data-file-height=\"1226\"></a></span></div>\n\t\t\t<div class=\"gallerytext\">Male (english)</div>\n\t\t</li>\n\t\t<li class=\"gallerybox\" style=\"width: 155px\">\n\t\t\t<div class=\"thumb\" style=\"width: 150px; height: 150px;\"><span typeof=\"mw:File\"><a href=\"//commons.wikimedia.org/wiki/File:1116_Muscle_of_the_Female_Perineum.png\" class=\"mw-file-description\" title=\"Female (english)\"><img alt=\"Female (english)\" src=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f9/1116_Muscle_of_the_Female_Perineum.png/120px-1116_Muscle_of_the_Female_Perineum.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail\" decoding=\"async\" loading=\"lazy\" width=\"120\" height=\"99\" class=\"mw-file-element\" srcset=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f9/1116_Muscle_of_the_Female_Perineum.png/250px-1116_Muscle_of_the_Female_Perineum.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail 2x\" data-file-width=\"1340\" data-file-height=\"1102\"></a></span></div>\n\t\t\t<div class=\"gallerytext\">Female (english)</div>\n\t\t</li>\n</ul>",
+              "source": "commons-desc-page"
+            },
+            "DateTimeOriginal": {
+              "value": "2017-11-23",
+              "source": "commons-desc-page"
+            },
+            "Credit": {
+              "value": "<a rel=\"nofollow\" class=\"external free\" href=\"https://cnx.org/contents/FPtK1zmh@8.25:fEI3C8Ot@10/Preface\">https://cnx.org/contents/FPtK1zmh@8.25:fEI3C8Ot@10/Preface</a>",
+              "source": "commons-desc-page"
+            },
+            "Artist": {
+              "value": "Openstax",
+              "source": "commons-desc-page"
+            },
+            "LicenseShortName": {
+              "value": "CC BY 3.0",
+              "source": "commons-desc-page",
+              "hidden": ""
+            },
+            "UsageTerms": {
+              "value": "Creative Commons Attribution 3.0",
+              "source": "commons-desc-page"
+            },
+            "AttributionRequired": {
+              "value": "true",
+              "source": "commons-desc-page",
+              "hidden": ""
+            },
+            "LicenseUrl": {
+              "value": "https://creativecommons.org/licenses/by/3.0",
+              "source": "commons-desc-page"
+            },
+            "Copyrighted": {
+              "value": "True",
+              "source": "commons-desc-page",
+              "hidden": ""
+            },
+            "Restrictions": {
+              "value": "",
+              "source": "commons-desc-page",
+              "hidden": ""
+            },
+            "License": {
+              "value": "cc-by-3.0",
+              "source": "commons-templates",
+              "hidden": ""
+            }
+          }
+        }
+      },
+      "article_id": "WH_13",
+      "role": "hero",
+      "asset": "images/researched/batch-03/WH_13_hero.png",
+      "batch": 3,
+      "caption_vi": "Các cơ vùng đáy chậu nữ nhìn từ dưới, với nhãn cơ nâng hậu môn, cơ hành xốp và cơ ngồi hang.",
+      "caption_en": "Female perineal muscles viewed from below, including levator ani, bulbospongiosus and ischiocavernosus.",
+      "alt_vi": "Các cơ vùng đáy chậu nữ nhìn từ dưới, với nhãn cơ nâng hậu môn, cơ hành xốp và cơ ngồi hang.",
+      "alt_en": "Female perineal muscles viewed from below, including levator ani, bulbospongiosus and ischiocavernosus.",
+      "relevance_vi": "Đúng giải phẫu nữ và có nhãn nhóm cơ cụ thể; không dùng sơ đồ nam hoặc ảnh động tác nâng hông như thể nhìn thấy co cơ sàn chậu.",
+      "fit": "contain",
+      "modifications_vi": "Bản thu nhỏ; giữ nguyên nội dung.",
+      "modifications_en": "Thumbnail; image content unchanged.",
+      "width": 1280,
+      "height": 1053,
+      "sha256": "875911cf38c761b292a9b4c8bc14660ad0e9ce22e04a2d122c8fca82339459ae",
+      "checked_date": "2026-10-26",
+      "review_status": "Subject, source and licence checked"
+    },
+    {
+      "title": "Gray1230.png",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Gray1230.png",
+      "source_asset_url": "https://upload.wikimedia.org/wikipedia/commons/c/c1/Gray1230.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "download_url": "https://upload.wikimedia.org/wikipedia/commons/c/c1/Gray1230.png",
+      "author": "Henry Vandyke Carter",
+      "license": "Public domain",
+      "license_url": "https://creativecommons.org/publicdomain/mark/1.0/",
+      "source_metadata": {
+        "file_title": "File:Gray1230.png",
+        "page_id": 564845,
+        "imageinfo": {
+          "size": 56879,
+          "width": 581,
+          "height": 500,
+          "thumburl": "https://upload.wikimedia.org/wikipedia/commons/c/c1/Gray1230.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+          "thumbwidth": 1280,
+          "thumbheight": 1102,
+          "thumbattribs": {
+            "src": "https://upload.wikimedia.org/wikipedia/commons/c/c1/Gray1230.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+            "decoding": "async",
+            "loading": "lazy",
+            "width": 1280,
+            "height": 1102
+          },
+          "url": "https://upload.wikimedia.org/wikipedia/commons/c/c1/Gray1230.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+          "descriptionurl": "https://commons.wikimedia.org/wiki/File:Gray1230.png",
+          "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=564845",
+          "extmetadata": {
+            "DateTime": {
+              "value": "2007-01-23 20:39:02",
+              "source": "mediawiki-metadata",
+              "hidden": ""
+            },
+            "ObjectName": {
+              "value": "Gray1230",
+              "source": "mediawiki-metadata"
+            },
+            "CommonsMetadataExtension": {
+              "value": 1.2,
+              "source": "extension",
+              "hidden": ""
+            },
+            "Categories": {
+              "value": "PD-old-100-expired|PD-scan (PD-old-100-expired)|Human colon|Lateral cross-section of female genitourinary system|CC-PD-Mark|Gray's Anatomy plates of genitourinary system|Anatomy of uterus",
+              "source": "commons-categories",
+              "hidden": ""
+            },
+            "Assessments": {
+              "value": "",
+              "source": "commons-categories",
+              "hidden": ""
+            },
+            "ImageDescription": {
+              "value": "Median sagittal section of female pelvis.<br><b>Note:</b> very similar to <a href=\"//commons.wikimedia.org/wiki/File:Gray1139.png\" title=\"File:Gray1139.png\">Gray1139.png</a>, but not identical -- two captions are different.",
+              "source": "commons-desc-page"
+            },
+            "DateTimeOriginal": {
+              "value": "before 1858<div style=\"display: none;\">date QS:P,+1858-00-00T00:00:00Z/7,P1326,+1858-00-00T00:00:00Z/9</div>",
+              "source": "commons-desc-page"
+            },
+            "Credit": {
+              "value": "<ul><li><cite class=\"book\" style=\"font-style:normal\"><a href=\"https://en.wikipedia.org/wiki/Henry_Gray\" class=\"extiw\" title=\"en:Henry Gray\">Henry Gray</a> (1918)      <i> Anatomy of the Human Body</i>  <small></small></cite> (See \"Book\" section below)</li>\n<li><a href=\"https://en.wikipedia.org/wiki/Bartleby.com\" class=\"extiw\" title=\"en:Bartleby.com\">Bartleby.com</a>: <a rel=\"nofollow\" class=\"external text\" href=\"http://www.bartleby.com/107/\">Gray's Anatomy</a>, <a rel=\"nofollow\" class=\"external text\" href=\"http://www.bartleby.com/107/illus1230.html\">Plate 1230</a></li></ul>",
+              "source": "commons-desc-page"
+            },
+            "Artist": {
+              "value": "<bdi><a href=\"https://en.wikipedia.org/wiki/en:Henry_Vandyke_Carter\" class=\"extiw\" title=\"w:en:Henry Vandyke Carter\"><span title=\"English anatomist, illustrator of Gray's Anatomy (1831–1897)\">Henry Vandyke Carter</span></a></bdi>",
+              "source": "commons-desc-page"
+            },
+            "AuthorCount": {
+              "value": 2,
+              "source": "commons-desc-page",
+              "hidden": ""
+            },
+            "LicenseShortName": {
+              "value": "Public domain",
+              "source": "commons-desc-page",
+              "hidden": ""
+            },
+            "UsageTerms": {
+              "value": "Public domain",
+              "source": "commons-desc-page"
+            },
+            "AttributionRequired": {
+              "value": "false",
+              "source": "commons-desc-page",
+              "hidden": ""
+            },
+            "Copyrighted": {
+              "value": "False",
+              "source": "commons-desc-page",
+              "hidden": ""
+            },
+            "Restrictions": {
+              "value": "",
+              "source": "commons-desc-page",
+              "hidden": ""
+            },
+            "License": {
+              "value": "pd",
+              "source": "commons-templates",
+              "hidden": ""
+            }
+          }
+        }
+      },
+      "article_id": "WH_13",
+      "role": "inline",
+      "asset": "images/researched/batch-03/WH_13_inline.png",
+      "batch": 3,
+      "caption_vi": "Vị trí các cơ quan trong khung chậu nữ trên bản vẽ giải phẫu nhìn nghiêng.",
+      "caption_en": "The positions of female pelvic organs in a lateral anatomical drawing.",
+      "alt_vi": "Vị trí các cơ quan trong khung chậu nữ trên bản vẽ giải phẫu nhìn nghiêng.",
+      "alt_en": "The positions of female pelvic organs in a lateral anatomical drawing.",
+      "relevance_vi": "Bổ sung góc nhìn không gian cho hình cơ nhìn từ dưới; không dùng sơ đồ cơ quan để tự đánh giá sa tạng hoặc sức co.",
+      "fit": "contain",
+      "modifications_vi": "Giữ nguyên nội dung file ảnh gốc.",
+      "modifications_en": "Original image content unchanged.",
+      "width": 581,
+      "height": 500,
+      "sha256": "15ce181f198f944f021286bbbfb3dc96bc7867ff7aa26d364a9a30415b9cb6cc",
+      "checked_date": "2026-10-26",
+      "review_status": "Subject, source and licence checked"
+    },
+    {
+      "title": "Slim sportswoman stretching on mat in Child Pose",
+      "source_page": "https://www.pexels.com/photo/slim-sportswoman-stretching-on-mat-in-child-pose-4498172/",
+      "source_asset_url": "https://images.pexels.com/photos/4498172/pexels-photo-4498172.jpeg",
+      "download_url": "https://images.pexels.com/photos/4498172/pexels-photo-4498172.jpeg?auto=compress&cs=tinysrgb&w=1600&fm=jpg",
+      "author": "Kaboompics",
+      "license": "Pexels License",
+      "license_url": "https://www.pexels.com/license/",
+      "source_metadata": {
+        "source_page": "https://www.pexels.com/photo/slim-sportswoman-stretching-on-mat-in-child-pose-4498172/",
+        "license_page": "https://www.pexels.com/license/",
+        "photographer": "Kaboompics",
+        "original_dimensions": [
+          6720,
+          4480
+        ]
+      },
+      "article_id": "WH_15",
+      "role": "hero",
+      "asset": "images/researched/batch-03/WH_15_hero.jpg",
+      "batch": 3,
+      "caption_vi": "Một tư thế nghỉ giãn trên thảm, minh họa lựa chọn vận động theo mức dễ chịu trong ngày.",
+      "caption_en": "A resting stretch on a mat, illustrating activity chosen for comfort on the day.",
+      "alt_vi": "Một tư thế nghỉ giãn trên thảm, minh họa lựa chọn vận động theo mức dễ chịu trong ngày.",
+      "alt_en": "A resting stretch on a mat, illustrating activity chosen for comfort on the day.",
+      "relevance_vi": "Không khẳng định người trong ảnh đang có kinh, hoặc tư thế này phù hợp với mọi người; không quy định một lịch tập theo pha.",
+      "fit": "cover",
+      "modifications_vi": "Pexels thu nhỏ/nén JPEG; không sửa nội dung.",
+      "modifications_en": "Pexels resized/compressed JPEG; no content changes.",
+      "width": 1600,
+      "height": 1067,
+      "sha256": "b7d92a4b9a10760171bbdf38748ae2a01a47181e618d12750d5fb86297930bf9",
+      "checked_date": "2026-10-26",
+      "review_status": "Subject, source and licence checked"
+    },
+    {
+      "title": "Feminine hygienic products on marble table",
+      "source_page": "https://www.pexels.com/photo/feminine-hygienic-products-on-marble-table-4238999/",
+      "source_asset_url": "https://images.pexels.com/photos/4238999/pexels-photo-4238999.jpeg",
+      "download_url": "https://images.pexels.com/photos/4238999/pexels-photo-4238999.jpeg?auto=compress&cs=tinysrgb&w=1600&fm=jpg",
+      "author": "Kaboompics",
+      "license": "Pexels License",
+      "license_url": "https://www.pexels.com/license/",
+      "source_metadata": {
+        "source_page": "https://www.pexels.com/photo/feminine-hygienic-products-on-marble-table-4238999/",
+        "license_page": "https://www.pexels.com/license/",
+        "photographer": "Kaboompics",
+        "original_dimensions": [
+          4480,
+          6720
+        ]
+      },
+      "article_id": "WH_15",
+      "role": "inline",
+      "asset": "images/researched/batch-03/WH_15_inline.jpg",
+      "batch": 3,
+      "caption_vi": "Băng vệ sinh và tampon: chuẩn bị sản phẩm kinh nguyệt phù hợp khi vận động.",
+      "caption_en": "A sanitary pad and tampons: preparing suitable menstrual products for activity.",
+      "alt_vi": "Băng vệ sinh và tampon: chuẩn bị sản phẩm kinh nguyệt phù hợp khi vận động.",
+      "alt_en": "A sanitary pad and tampons: preparing suitable menstrual products for activity.",
+      "relevance_vi": "Đúng vật dụng được nhắc trong phần thực hành, không đưa bảng lượng máu hoặc ngày thay sản phẩm chưa kiểm chứng.",
+      "fit": "contain",
+      "modifications_vi": "Pexels thu nhỏ/nén JPEG; không sửa nội dung.",
+      "modifications_en": "Pexels resized/compressed JPEG; no content changes.",
+      "width": 1600,
+      "height": 2400,
+      "sha256": "373d03f69319c83af421a4879f1b54cc1b9e0ef5235c1539b9ff24bb305a8918",
+      "checked_date": "2026-10-26",
+      "review_status": "Subject, source and licence checked"
+    },
+    {
+      "title": "Garmin Forerunner 35 sensor.jpg",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Garmin_Forerunner_35_sensor.jpg",
+      "source_asset_url": "https://upload.wikimedia.org/wikipedia/commons/f/f0/Garmin_Forerunner_35_sensor.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "download_url": "https://upload.wikimedia.org/wikipedia/commons/f/f0/Garmin_Forerunner_35_sensor.jpg",
+      "author": "Tiia Monto",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+      "source_metadata": {
+        "file_title": "File:Garmin Forerunner 35 sensor.jpg",
+        "page_id": 75956080,
+        "imageinfo": {
+          "size": 138245,
+          "width": 777,
+          "height": 568,
+          "thumburl": "https://upload.wikimedia.org/wikipedia/commons/f/f0/Garmin_Forerunner_35_sensor.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+          "thumbwidth": 1280,
+          "thumbheight": 936,
+          "thumbattribs": {
+            "src": "https://upload.wikimedia.org/wikipedia/commons/f/f0/Garmin_Forerunner_35_sensor.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+            "decoding": "async",
+            "loading": "lazy",
+            "width": 1280,
+            "height": 936
+          },
+          "url": "https://upload.wikimedia.org/wikipedia/commons/f/f0/Garmin_Forerunner_35_sensor.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+          "descriptionurl": "https://commons.wikimedia.org/wiki/File:Garmin_Forerunner_35_sensor.jpg",
+          "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=75956080",
+          "extmetadata": {
+            "DateTime": {
+              "value": "2019-01-19 16:05:13",
+              "source": "mediawiki-metadata",
+              "hidden": ""
+            },
+            "ObjectName": {
+              "value": "Garmin Forerunner 35 sensor",
+              "source": "mediawiki-metadata"
+            },
+            "CommonsMetadataExtension": {
+              "value": 1.2,
+              "source": "extension",
+              "hidden": ""
+            },
+            "Categories": {
+              "value": "Taken with Sony DSC-RX100 III|Images with annotations|Heart rate monitors|Garmin Forerunner 35|Self-published work|Back of watches|Finland photographs taken on 2019-01-13|Octrons",
+              "source": "commons-categories",
+              "hidden": ""
+            },
+            "Assessments": {
+              "value": "",
+              "source": "commons-categories",
+              "hidden": ""
+            },
+            "ImageDescription": {
+              "value": "Garmin Forerunner 35 watch, back side. The heart rate sensor is visible with green light.",
+              "source": "commons-desc-page"
+            },
+            "DateTimeOriginal": {
+              "value": "2019-01-13 13:37:52",
+              "source": "commons-desc-page"
+            },
+            "Credit": {
+              "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+              "source": "commons-desc-page"
+            },
+            "Artist": {
+              "value": "<a href=\"//commons.wikimedia.org/wiki/User:Kulmalukko\" title=\"User:Kulmalukko\">Tiia Monto</a>",
+              "source": "commons-desc-page"
+            },
+            "LicenseShortName": {
+              "value": "CC BY-SA 4.0",
+              "source": "commons-desc-page",
+              "hidden": ""
+            },
+            "UsageTerms": {
+              "value": "Creative Commons Attribution-Share Alike 4.0",
+              "source": "commons-desc-page"
+            },
+            "AttributionRequired": {
+              "value": "true",
+              "source": "commons-desc-page",
+              "hidden": ""
+            },
+            "LicenseUrl": {
+              "value": "https://creativecommons.org/licenses/by-sa/4.0",
+              "source": "commons-desc-page"
+            },
+            "Copyrighted": {
+              "value": "True",
+              "source": "commons-desc-page",
+              "hidden": ""
+            },
+            "Restrictions": {
+              "value": "",
+              "source": "commons-desc-page",
+              "hidden": ""
+            },
+            "License": {
+              "value": "cc-by-sa-4.0",
+              "source": "commons-templates",
+              "hidden": ""
+            }
+          }
+        }
+      },
+      "article_id": "WH_16",
+      "role": "hero",
+      "asset": "images/researched/batch-03/WH_16_hero.jpg",
+      "batch": 3,
+      "caption_vi": "Cảm biến quang học sáng xanh ở mặt dưới Garmin Forerunner 35, minh họa phần cứng thu tín hiệu mạch.",
+      "caption_en": "The green optical sensor under a Garmin Forerunner 35, illustrating pulse-sensing hardware.",
+      "alt_vi": "Cảm biến quang học sáng xanh ở mặt dưới Garmin Forerunner 35, minh họa phần cứng thu tín hiệu mạch.",
+      "alt_en": "The green optical sensor under a Garmin Forerunner 35, illustrating pulse-sensing hardware.",
+      "relevance_vi": "Chỉ mô tả cảm biến nhìn thấy, không khẳng định mẫu đồng hồ này cung cấp điểm HRV theo chu kỳ hoặc đo hormone.",
+      "fit": "contain",
+      "modifications_vi": "Giữ nguyên nội dung file ảnh gốc.",
+      "modifications_en": "Original image content unchanged.",
+      "width": 777,
+      "height": 568,
+      "sha256": "7333b887e28d317be105b3db337a086376ef790e6b14634c329c2dde45b67752",
+      "checked_date": "2026-10-26",
+      "review_status": "Subject, source and licence checked"
+    },
+    {
+      "title": "ECG-RRinterval.svg",
+      "source_page": "https://commons.wikimedia.org/wiki/File:ECG-RRinterval.svg",
+      "source_asset_url": "https://upload.wikimedia.org/wikipedia/commons/c/c1/ECG-RRinterval.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "download_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c1/ECG-RRinterval.svg/1280px-ECG-RRinterval.svg.png",
+      "author": "Anthony Atkielski (Agateller), atom and Kychot",
+      "license": "Copyrighted free use",
+      "license_url": "https://commons.wikimedia.org/wiki/File:ECG-RRinterval.svg#Licensing",
+      "source_metadata": {
+        "file_title": "File:ECG-RRinterval.svg",
+        "page_id": 7875806,
+        "imageinfo": {
+          "size": 18029,
+          "width": 992,
+          "height": 744,
+          "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c1/ECG-RRinterval.svg/1280px-ECG-RRinterval.svg.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "thumbwidth": 1280,
+          "thumbheight": 960,
+          "responsiveUrls": {
+            "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c1/ECG-RRinterval.svg/3840px-ECG-RRinterval.svg.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+          },
+          "thumbattribs": {
+            "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c1/ECG-RRinterval.svg/1280px-ECG-RRinterval.svg.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "decoding": "async",
+            "loading": "lazy",
+            "width": 1280,
+            "height": 960,
+            "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c1/ECG-RRinterval.svg/3840px-ECG-RRinterval.svg.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+          },
+          "url": "https://upload.wikimedia.org/wikipedia/commons/c/c1/ECG-RRinterval.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+          "descriptionurl": "https://commons.wikimedia.org/wiki/File:ECG-RRinterval.svg",
+          "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=7875806",
+          "extmetadata": {
+            "DateTime": {
+              "value": "2009-09-23 10:16:16",
+              "source": "mediawiki-metadata",
+              "hidden": ""
+            },
+            "ObjectName": {
+              "value": "ECG-RRinterval",
+              "source": "mediawiki-metadata"
+            },
+            "CommonsMetadataExtension": {
+              "value": 1.2,
+              "source": "extension",
+              "hidden": ""
+            },
+            "Categories": {
+              "value": "Copyrighted free use|Self-published work|SVG retouched pictures|Uploaded with derivativeFX|SVG ECG entities",
+              "source": "commons-categories",
+              "hidden": ""
+            },
+            "Assessments": {
+              "value": "",
+              "source": "commons-categories",
+              "hidden": ""
+            },
+            "ImageDescription": {
+              "value": "Schematic diagram of normal sinus rhythm for a human heart as seen on ECG, two periods forming a RR-interval.",
+              "source": "commons-desc-page"
+            },
+            "DateTimeOriginal": {
+              "value": "2009-09-23 10:15",
+              "source": "commons-desc-page"
+            },
+            "Credit": {
+              "value": "<ul><li><a href=\"//commons.wikimedia.org/wiki/File:ECG-P%2BQRSkomplex%2BT.svg\" title=\"File:ECG-P+QRSkomplex+T.svg\">ECG-P+QRSkomplex+T.svg</a></li></ul>",
+              "source": "commons-desc-page"
+            },
+            "Artist": {
+              "value": "<ul><li><a href=\"//commons.wikimedia.org/wiki/File:ECG-P%2BQRSkomplex%2BT.svg\" title=\"File:ECG-P+QRSkomplex+T.svg\">ECG-P+QRSkomplex+T.svg</a>: *<a href=\"//commons.wikimedia.org/wiki/File:ECG-PQRST%2Bpopis.svg\" title=\"File:ECG-PQRST+popis.svg\">ECG-PQRST+popis.svg</a>: *<a href=\"//commons.wikimedia.org/wiki/File:SinusRhythmLabels.svg\" title=\"File:SinusRhythmLabels.svg\">SinusRhythmLabels.svg</a>: Created by <a href=\"https://en.wikipedia.org/wiki/User:Agateller\" class=\"extiw\" title=\"en:User:Agateller\">Agateller (Anthony Atkielski)</a>, converted to svg by <a href=\"https://cs.wikipedia.org/wiki/Wikipedista:atom\" class=\"extiw\" title=\"cs:Wikipedista:atom\">atom</a>.</li>\n<li>derivative work: <a href=\"//commons.wikimedia.org/wiki/User:Kychot\" title=\"User:Kychot\">Kychot</a> (<a href=\"//commons.wikimedia.org/wiki/User_talk:Kychot\" title=\"User talk:Kychot\"><span class=\"signature-talk\">talk</span></a>)</li>\n<li>derivative work: <a href=\"//commons.wikimedia.org/wiki/User:Kychot\" title=\"User:Kychot\">Kychot</a> (<a href=\"//commons.wikimedia.org/wiki/User_talk:Kychot\" title=\"User talk:Kychot\"><span class=\"signature-talk\">talk</span></a>)</li>\n<li>derivative work: <a href=\"//commons.wikimedia.org/wiki/User:Kychot\" title=\"User:Kychot\">Kychot</a> (<a href=\"//commons.wikimedia.org/wiki/User_talk:Kychot\" title=\"User talk:Kychot\"><span class=\"signature-talk\">talk</span></a>)</li></ul>",
+              "source": "commons-desc-page"
+            },
+            "LicenseShortName": {
+              "value": "Copyrighted free use",
+              "source": "commons-desc-page",
+              "hidden": ""
+            },
+            "UsageTerms": {
+              "value": "Copyrighted free use",
+              "source": "commons-desc-page"
+            },
+            "AttributionRequired": {
+              "value": "false",
+              "source": "commons-desc-page",
+              "hidden": ""
+            },
+            "Copyrighted": {
+              "value": "True",
+              "source": "commons-desc-page",
+              "hidden": ""
+            },
+            "Restrictions": {
+              "value": "",
+              "source": "commons-desc-page",
+              "hidden": ""
+            }
+          }
+        }
+      },
+      "article_id": "WH_16",
+      "role": "inline",
+      "asset": "images/researched/batch-03/WH_16_inline.png",
+      "batch": 3,
+      "caption_vi": "Khoảng R–R giữa các nhịp trên sơ đồ ECG, làm rõ loại khoảng thời gian dùng khi bàn về HRV.",
+      "caption_en": "R–R intervals between beats on an ECG diagram, clarifying the timing intervals discussed in HRV.",
+      "alt_vi": "Khoảng R–R giữa các nhịp trên sơ đồ ECG, làm rõ loại khoảng thời gian dùng khi bàn về HRV.",
+      "alt_en": "R–R intervals between beats on an ECG diagram, clarifying the timing intervals discussed in HRV.",
+      "relevance_vi": "Minh họa tín hiệu cơ bản; không biến ECG mẫu thành dữ liệu thực đo theo pha kinh nguyệt.",
+      "fit": "contain",
+      "modifications_vi": "PNG kết xuất từ SVG; giữ nguyên nội dung.",
+      "modifications_en": "PNG rendering of SVG; content unchanged.",
+      "width": 1280,
+      "height": 960,
+      "sha256": "c63807e248b4d5d6303585ede658d77794c0cbd489328326196dd4e920a073dd",
+      "checked_date": "2026-10-26",
+      "review_status": "Subject, source and licence checked"
+    },
+    {
+      "title": "A Woman Lifting a Dumbbell",
+      "source_page": "https://www.pexels.com/photo/a-woman-lifting-a-dumbbell-8846492/",
+      "source_asset_url": "https://images.pexels.com/photos/8846492/pexels-photo-8846492.jpeg",
+      "download_url": "https://images.pexels.com/photos/8846492/pexels-photo-8846492.jpeg?auto=compress&cs=tinysrgb&w=1600&fm=jpg",
+      "author": "MART PRODUCTION",
+      "license": "Pexels License",
+      "license_url": "https://www.pexels.com/license/",
+      "source_metadata": {
+        "source_page": "https://www.pexels.com/photo/a-woman-lifting-a-dumbbell-8846492/",
+        "license_page": "https://www.pexels.com/license/",
+        "photographer": "MART PRODUCTION",
+        "original_dimensions": [
+          4000,
+          6000
+        ]
+      },
+      "article_id": "WH_17",
+      "role": "hero",
+      "asset": "images/researched/batch-03/WH_17_hero.jpg",
+      "batch": 3,
+      "caption_vi": "Tập sức mạnh với tạ tay; mức tạ và cách tăng tải cần phù hợp khả năng của mỗi người.",
+      "caption_en": "Dumbbell strength exercise, with load and progression matched to individual ability.",
+      "alt_vi": "Tập sức mạnh với tạ tay; mức tạ và cách tăng tải cần phù hợp khả năng của mỗi người.",
+      "alt_en": "Dumbbell strength exercise, with load and progression matched to individual ability.",
+      "relevance_vi": "Đúng chủ đề tập sức mạnh, không đồng nhất thể hình hoặc mức tạ trong ảnh với chuẩn sức khỏe cho mọi phụ nữ.",
+      "fit": "contain",
+      "modifications_vi": "Pexels thu nhỏ/nén JPEG; không sửa nội dung.",
+      "modifications_en": "Pexels resized/compressed JPEG; no content changes.",
+      "width": 1600,
+      "height": 2400,
+      "sha256": "f9bc3e64943762628da1e4488f32f483713777ade45b904db97f1c05f23f5bf3",
+      "checked_date": "2026-10-26",
+      "review_status": "Subject, source and licence checked"
+    },
+    {
+      "title": "Meat Toppings on Rice Served on White Plate",
+      "source_page": "https://www.pexels.com/photo/meat-toppings-on-rice-served-on-white-plate-5305435/",
+      "source_asset_url": "https://images.pexels.com/photos/5305435/pexels-photo-5305435.jpeg",
+      "download_url": "https://images.pexels.com/photos/5305435/pexels-photo-5305435.jpeg?auto=compress&cs=tinysrgb&w=1600&fm=jpg",
+      "author": "Kai-Chieh Chan",
+      "license": "Pexels License",
+      "license_url": "https://www.pexels.com/license/",
+      "source_metadata": {
+        "source_page": "https://www.pexels.com/photo/meat-toppings-on-rice-served-on-white-plate-5305435/",
+        "license_page": "https://www.pexels.com/license/",
+        "photographer": "Kai-Chieh Chan",
+        "original_dimensions": [
+          6000,
+          4000
+        ]
+      },
+      "article_id": "WH_17",
+      "role": "inline",
+      "asset": "images/researched/batch-03/WH_17_inline.jpg",
+      "batch": 3,
+      "caption_vi": "Bữa ăn có cơm, thịt và rau, minh họa phần ăn đủ chất bên cạnh chương trình tập sức mạnh.",
+      "caption_en": "A meal of rice, meat and vegetables, illustrating food intake alongside strength training.",
+      "alt_vi": "Bữa ăn có cơm, thịt và rau, minh họa phần ăn đủ chất bên cạnh chương trình tập sức mạnh.",
+      "alt_en": "A meal of rice, meat and vegetables, illustrating food intake alongside strength training.",
+      "relevance_vi": "Liên hệ phần protein và năng lượng sẵn có; không tự suy lượng protein, năng lượng hay khẩu phần chuẩn từ ảnh.",
+      "fit": "cover",
+      "modifications_vi": "Pexels thu nhỏ/nén JPEG; không sửa nội dung.",
+      "modifications_en": "Pexels resized/compressed JPEG; no content changes.",
+      "width": 1600,
+      "height": 1067,
+      "sha256": "77b7895cf821c124ee014956590335adb9e4c7e20ebb0bb938bb1eb9b51326c1",
+      "checked_date": "2026-10-26",
+      "review_status": "Subject, source and licence checked"
+    },
+    {
+      "title": "Woman Eating A Balanced Diet",
+      "source_page": "https://www.pexels.com/photo/woman-eating-a-balanced-diet-6740516/",
+      "source_asset_url": "https://images.pexels.com/photos/6740516/pexels-photo-6740516.jpeg",
+      "download_url": "https://images.pexels.com/photos/6740516/pexels-photo-6740516.jpeg?auto=compress&cs=tinysrgb&w=1600&fm=jpg",
+      "author": "Mikhail Nilov",
+      "license": "Pexels License",
+      "license_url": "https://www.pexels.com/license/",
+      "source_metadata": {
+        "source_page": "https://www.pexels.com/photo/woman-eating-a-balanced-diet-6740516/",
+        "license_page": "https://www.pexels.com/license/",
+        "photographer": "Mikhail Nilov",
+        "original_dimensions": [
+          4000,
+          6000
+        ]
+      },
+      "article_id": "WH_18",
+      "role": "hero",
+      "asset": "images/researched/batch-03/WH_18_hero.jpg",
+      "batch": 3,
+      "caption_vi": "Ảnh minh họa ăn sau vận động. Đánh giá đủ năng lượng cần xem tổng lượng ăn và nhu cầu tập luyện theo thời gian.",
+      "caption_en": "An illustrative post-exercise meal. Energy adequacy is assessed from overall intake and training demands over time.",
+      "alt_vi": "Ảnh minh họa ăn sau vận động. Đánh giá đủ năng lượng cần xem tổng lượng ăn và nhu cầu tập luyện theo thời gian.",
+      "alt_en": "An illustrative post-exercise meal. Energy adequacy is assessed from overall intake and training demands over time.",
+      "relevance_vi": "Thể hiện mối liên hệ ăn uống và vận động, không dùng vóc dáng để xác nhận hoặc loại trừ REDs, không gán REDs cho người mẫu.",
+      "fit": "contain",
+      "modifications_vi": "Pexels thu nhỏ/nén JPEG; không sửa nội dung.",
+      "modifications_en": "Pexels resized/compressed JPEG; no content changes.",
+      "width": 1600,
+      "height": 2400,
+      "sha256": "9cd21829e161b606693608b45e671188b38c40b89f9b7a65fb4a614d066aa821",
+      "checked_date": "2026-10-26",
+      "review_status": "Subject, source and licence checked"
     }
   ],
   "rejected": [
@@ -5187,6 +7053,46 @@
       "batch": 2,
       "file": "Pelvic diaphragm.svg",
       "reason_vi": "Nét viền không có nhãn cơ và không xác định đủ mốc giải phẫu; chọn bản vẽ nam có nhãn rõ hơn."
+    },
+    {
+      "batch": 3,
+      "file": "Man Sitting on the Floor and Stretching (4164770)",
+      "reason_vi": "Ảnh chủ yếu kéo giãn mặt sau đùi, không minh họa rõ động tác giãn háng trong bài."
+    },
+    {
+      "batch": 3,
+      "file": "A Man Pressing the Legs of a Woman Doing Yoga Bound Angle Pose (6975792)",
+      "reason_vi": "Có người ấn chân xuống, dễ củng cố hành vi ép biên độ khi bài yêu cầu không đau và biết dừng."
+    },
+    {
+      "batch": 3,
+      "file": "Couple Sitting Together on a Sofa (6071673)",
+      "reason_vi": "Bối cảnh tạo dáng gợi dục và có chai rượu, kém phù hợp hơn ảnh gần gũi và trò chuyện thường ngày."
+    },
+    {
+      "batch": 3,
+      "file": "1116 Muscle of the Male Perineum.png",
+      "reason_vi": "Một nhãn ở mép phải bị cắt trong chính file nguồn; dùng bản giải phẫu khác có nhãn đầy đủ."
+    },
+    {
+      "batch": 3,
+      "file": "Menstrual hygiene products in a school.jpg",
+      "reason_vi": "Khung ảnh chủ yếu là bồn rửa và nhà vệ sinh; thay bằng ảnh sản phẩm kinh nguyệt nhìn rõ."
+    },
+    {
+      "batch": 3,
+      "file": "Generic pH colour charts or photos of food Lactobacillus",
+      "reason_vi": "Không dùng bảng màu để chẩn đoán nhiễm trùng, không lấy mẫu vi khuẩn thực phẩm như thể ảnh vi sinh âm đạo."
+    },
+    {
+      "batch": 3,
+      "file": "Stages of folliculogenesis.jpg",
+      "reason_vi": "Hình ghép kèm ảnh mô học có ghi bản quyền riêng của University of Michigan; chưa xác nhận rõ phạm vi cấp phép phần ảnh đó nên không chọn."
+    },
+    {
+      "batch": 3,
+      "file": "Order of changes in ovary.svg",
+      "reason_vi": "Đánh số giai đoạn thiếu nhãn ngay trong hình; ký hiệu kỳ kinh nằm trong hình buồng trứng dễ gây nhầm vị trí diễn ra chảy máu."
     }
   ]
 }
