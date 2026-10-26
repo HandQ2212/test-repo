@@ -41,7 +41,7 @@ def write_review_docs(articles):
     progress = json.loads(path.read_text())
     covered = {a['article_id'] for a in assets}
     lines = ['# Tiến độ nghiên cứu hình ảnh', '',
-             'Mỗi phiên xử lý khoảng 10 bài. Trạng thái dưới đây là tiến độ chọn và kiểm tra ảnh; trạng thái triển khai Render được kiểm tra riêng.', '',
+             f"Từ phiên 02, mỗi phiên xử lý tối đa {progress['batch_size']} bài. Phiên 01 đã hoàn tất 10 bài được giữ nguyên. Trạng thái dưới đây là tiến độ chọn và kiểm tra ảnh; trạng thái triển khai Render được kiểm tra riêng.", '',
              '| Đợt | Số bài | Trạng thái | Content ID |', '|---|---:|---|---|']
     for batch in progress['batches']:
         done = all(aid in covered for aid in batch['article_ids'])
@@ -62,7 +62,7 @@ def write_review_docs(articles):
             title = html.escape(by_id[aid]['title_vi'])
             chunks.append(f'<section><h2><a href="../posts/{aid}.html?lang=vi">{aid} — {title}</a></h2><div class="image-grid">'+''.join(cards)+'</div></section>')
         document = f'''<!doctype html><html lang="vi"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1">
-          <title>Đợt {batch['batch']:02d}: ảnh đã đối chiếu cho 10 bài</title><link rel="stylesheet" href="../styles.css?v=image-review-1">
+          <title>Đợt {batch['batch']:02d}: ảnh đã đối chiếu cho {len(batch['article_ids'])} bài</title><link rel="stylesheet" href="../styles.css?v=image-review-1">
           <script src="../article_figures.js?v=figure-load-1"></script>
           <style>body{{max-width:1200px;margin:auto;padding:28px;font-family:system-ui,sans-serif}}h1{{font-size:30px}}h2{{font-size:22px;margin-top:40px}}.image-grid{{display:grid;grid-template-columns:repeat(auto-fit,minmax(min(100%,380px),1fr));gap:24px}}.article-inline-diagram{{margin:0}}.article-inline-diagram img{{height:340px;object-fit:contain}}figcaption p{{margin-top:12px}}a{{color:#2443a0}}</style></head>
           <body><h1>Đợt {batch['batch']:02d}: bộ ảnh cho {len(batch['article_ids'])} bài</h1><p>Ảnh và sơ đồ được đối chiếu về chủ thể, nguồn và giấy phép. Bấm tiêu đề để đọc bài; mỗi hình có tác giả, giấy phép và lý do chọn.</p>{''.join(chunks)}</body></html>'''
