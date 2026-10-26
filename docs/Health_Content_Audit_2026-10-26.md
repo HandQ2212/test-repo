@@ -51,7 +51,11 @@ Bộ mới dùng các ảnh Commons với giấy phép tương ứng và các �
 
 Không chọn hình nang trứng ghép với ảnh mô học ghi bản quyền riêng khi chưa rõ quyền tái sử dụng phần ảnh đó. Sơ đồ đánh số đặt ký hiệu kỳ kinh trong hình buồng trứng cũng bị loại để tránh gây nhầm vị trí chảy máu kinh nguyệt.
 
-Tổng cộng 40/83 bài có 73 vị trí hình đã đối chiếu; 43 bài còn lại chưa được rà soát ảnh trong quy trình theo phiên. Xem [tiến độ từng đợt](Image_Research_Progress.md), [bộ ảnh đợt 01](Image_Research_Batch_01.html), [bộ ảnh đợt 02](Image_Research_Batch_02.html) và [bộ ảnh đợt 03](Image_Research_Batch_03.html). Tiến độ này không đồng nghĩa bản live đã cập nhật; việc triển khai được kiểm tra riêng.
+Đợt 04 xử lý 15 bài số 41–55 (WH_19 đến MW_NUT_03), với 28 vị trí hình từ 26 nguồn ảnh: 15 ảnh đầu bài và 13 hình trong bài. Có 22 nguồn mới; 4 nguồn que LH, giải phẫu và tư vấn đã đối chiếu được dùng lại. Hai bài WH_19 và WH_21 dùng một hình rõ mục đích. Các bài có hình trong bài cũ đều được thay bằng hình đã đối chiếu. Bộ mới có que hCG hiển thị chữ và vạch, lấy máu tĩnh mạch, ảnh phết máu thiếu sắt có mô tả ca nguồn, khám thai, đi bộ thai kỳ, đi bộ đẩy xe, tử cung thay đổi qua thai kỳ, sơ đồ PCOS và lạc nội mạc, chăm sóc tuổi trung niên và bữa ăn nhiều nhóm thực phẩm.
+
+Chú thích phân biệt LH với hCG và không suy tuổi thai hoặc diễn biến thai từ độ đậm vạch. Ảnh máu không được gọi là kết quả ferritin; ảnh phết máu là một ca thiếu máu thiếu sắt nặng, không đại diện cho mọi trường hợp thiếu sắt. Sơ đồ PCOS chỉ minh họa hình thái, không thay chẩn đoán tổng hợp. Đã đối chiếu khác biệt với đa nang thận/gan và lạc tuyến cơ tử cung. Không chọn tư thế tập thai kỳ khó làm hình hướng dẫn mặc định. Ảnh xe đẩy không xác định số tuần sau sinh. Ảnh vận động không được gán triệu chứng mãn kinh; đã loại một ứng viên mà trang nguồn chuyển về tìm kiếm dù CDN vẫn trả ảnh. Thực phẩm không được gọi là món tăng testosterone hay định lượng protein từ ảnh. Không dùng rượu vang như phần bắt buộc của mô hình Địa Trung Hải. Toàn bộ văn bản chuyên sâu Việt/Anh giữ nguyên.
+
+Tổng cộng 55/83 bài có 101 vị trí hình đã đối chiếu; 28 bài còn lại chưa được rà soát ảnh trong quy trình theo phiên. Xem [tiến độ từng đợt](Image_Research_Progress.md), [bộ ảnh đợt 01](Image_Research_Batch_01.html), [bộ ảnh đợt 02](Image_Research_Batch_02.html), [bộ ảnh đợt 03](Image_Research_Batch_03.html) và [bộ ảnh đợt 04](Image_Research_Batch_04.html). Tiến độ này không đồng nghĩa bản live đã cập nhật; việc triển khai được kiểm tra riêng.
 
 ## File và khả năng kiểm tra lại
 
