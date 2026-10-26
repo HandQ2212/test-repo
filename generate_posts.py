@@ -55,7 +55,7 @@ def render_article_markdown(md_text, inline_img_src, inline_caption, inline_sour
     body_html = re.sub(r'<pre><code class="(?:language-)?mermaid">([\s\S]*?)</code></pre>', repl_mermaid, body_html)
 
     if "article-inline-diagram" not in body_html and inline_img_src:
-        src_label = "Original Scientific Figure Source ↗" if lang == "en" else "Link sơ đồ y khoa gốc (Wikimedia Commons) ↗"
+        src_label = "Editorial summary artwork ↗" if lang == "en" else "Mở sơ đồ tóm tắt biên tập ↗"
         inline_diagram_html = f"""
         <figure class="article-inline-diagram">
           <img src="{inline_img_src}" alt="{inline_caption}" loading="lazy">
@@ -248,15 +248,15 @@ for i, art in enumerate(articles):
 
       <figure class="article-featured-hero">
         <img src="{hero_img_src}" alt="{title_vi}">
-        <figcaption>{title_vi} • <a href="{hero_source_url}" target="_blank" rel="noopener noreferrer" class="img-source-badge">Link ảnh gốc xác thực (Unsplash) ↗</a></figcaption>
+        <figcaption>{title_vi} • <a href="{hero_source_url}" target="_blank" rel="noopener noreferrer" class="img-source-badge">Mở minh họa biên tập gốc ↗</a></figcaption>
       </figure>
 
       <div class="article-metadata-card">
         <div class="meta-avatar">PV</div>
         <div class="meta-content">
-          <div class="meta-author">Hội Đồng Biên Tập Y Khoa Pulse & Vitality</div>
+          <div class="meta-author">Pulse & Vitality • Nội dung giáo dục sức khỏe</div>
           <div class="meta-details">
-            <span>Nguồn nghiên cứu & Thiết bị: <a href="{art['source_url']}" target="_blank" rel="noopener noreferrer" style="color: inherit; text-decoration: underline; font-weight: 700;">{art['source_name']} ↗</a></span>
+            <span>Nguồn tham khảo chính: <a href="{art['source_url']}" target="_blank" rel="noopener noreferrer" style="color: inherit; text-decoration: underline; font-weight: 700;">{art['source_name']} ↗</a></span>
             <span class="meta-dot">•</span>
             <span>Màn hình App: <strong>{art['screen']}</strong></span>
             <span class="meta-dot">•</span>
@@ -281,8 +281,8 @@ for i, art in enumerate(articles):
     <section class="canonical-citation-card">
       <div class="citation-icon">📚</div>
       <div class="citation-body">
-        <h4>Nguồn Tham Khảo Y Khoa & Nghiên Cứu Gốc</h4>
-        <p>Bài viết này được tổng hợp và kiểm chứng từ các nghiên cứu y sinh học, hướng dẫn lâm sàng và tài liệu khoa học thiết bị đeo của <strong>{art['source_name']}</strong>.</p>
+        <h4>Nguồn tham khảo và giới hạn bằng chứng</h4>
+        <p>Nguồn chính: <strong>{art['source_name']}</strong>. Các nguồn bổ sung và phạm vi hỗ trợ được liệt kê trong bài. Cập nhật 26/10/2026; chưa có xác nhận duyệt bởi bác sĩ.</p>
         <div class="citation-actions">
           <a href="{art['source_url']}" target="_blank" rel="noopener noreferrer" class="btn-canonical-study">
             Truy Cập Nguồn Gốc ({art['source_name'][:40]}...) ↗
@@ -338,15 +338,15 @@ for i, art in enumerate(articles):
 
       <figure class="article-featured-hero">
         <img src="{hero_img_src}" alt="{title_en}">
-        <figcaption>{title_en} • <a href="{hero_source_url}" target="_blank" rel="noopener noreferrer" class="img-source-badge">Verified Original Photo Source (Unsplash) ↗</a></figcaption>
+        <figcaption>{title_en} • <a href="{hero_source_url}" target="_blank" rel="noopener noreferrer" class="img-source-badge">Original editorial artwork ↗</a></figcaption>
       </figure>
 
       <div class="article-metadata-card">
         <div class="meta-avatar">PV</div>
         <div class="meta-content">
-          <div class="meta-author">Pulse & Vitality Clinical Editorial Board</div>
+          <div class="meta-author">Pulse & Vitality • Health education</div>
           <div class="meta-details">
-            <span>Clinical & Wearable Source: <a href="{art['source_url']}" target="_blank" rel="noopener noreferrer" style="color: inherit; text-decoration: underline; font-weight: 700;">{art['source_name']} ↗</a></span>
+            <span>Primary reference: <a href="{art['source_url']}" target="_blank" rel="noopener noreferrer" style="color: inherit; text-decoration: underline; font-weight: 700;">{art['source_name']} ↗</a></span>
             <span class="meta-dot">•</span>
             <span>Mapped Screen: <strong>{art['screen']}</strong></span>
             <span class="meta-dot">•</span>
@@ -371,8 +371,8 @@ for i, art in enumerate(articles):
     <section class="canonical-citation-card">
       <div class="citation-icon">📚</div>
       <div class="citation-body">
-        <h4>Clinical Reference & Scientific Backing</h4>
-        <p>This article is synthesized from peer-reviewed medical literature, clinical guidelines, and wearable biometric validation studies from <strong>{art['source_name']}</strong>.</p>
+        <h4>References and evidence limits</h4>
+        <p>Primary reference: <strong>{art['source_name']}</strong>. Additional sources and their scope appear in the article. Updated 26 October 2026; clinical sign-off has not been recorded.</p>
         <div class="citation-actions">
           <a href="{art['source_url']}" target="_blank" rel="noopener noreferrer" class="btn-canonical-study">
             Access Original Source ({art['source_name'][:40]}...) ↗
@@ -490,6 +490,6 @@ for i, art in enumerate(articles):
 </html>
 """
     with open(os.path.join(posts_dir, f"{art['id']}.html"), "w", encoding="utf-8") as pf:
-        pf.write(html_page)
+        pf.write('\n'.join(line.rstrip() for line in html_page.splitlines()) + '\n')
 
 print(f"Successfully generated all {len(articles)} bilingual (EN + VI) standalone blog post pages!")

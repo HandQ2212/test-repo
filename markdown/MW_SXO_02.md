@@ -1,136 +1,57 @@
-# MW_SXO_02 - Sinh Lý Học Của Sự Hưng Phấn: Dòng Thác Thần Kinh - Mạch Máu Từ Não Bộ Đến Thể Hang
-**Category:** Men's Health 
-**Screen:** Erectile Function & Hemodynamics Screen 
-**Metric:** Pelvic Splanchnic Nerve Discharge, NO/cGMP Cascade & Venous Occlusion 
-**Reading Time:** 8 phút đọc / 8 min 
-**Hero Image:** ![Sinh Lý Học Của Sự Hưng Phấn: Dòng Thác Thần Kinh - Mạch Máu Từ Não Bộ Đến Thể Hang](images/MW_SXO_02_hero.jpg) *(Source: [https://images.unsplash.com/photo-1517931524326-bdd55a541177?auto=format&fit=crop&w=1200&q=85](https://images.unsplash.com/photo-1517931524326-bdd55a541177?auto=format&fit=crop&w=1200&q=85))* 
-**Inline Figure:** ![Dòng thác phân tử giãn mạch qua cGMP: Nitric oxide kích hoạt enzyme guanylyl cyclase chuyển GTP thành cGMP gây giãn cơ trơn mạch máu thể hang để tạo cương cứng.](images/MW_SXO_02_figure.png) *(Source: [https://commons.wikimedia.org/wiki/File:Molecular_pathway_of_vasodilation_mediated_by_cGMP.jpg](https://commons.wikimedia.org/wiki/File:Molecular_pathway_of_vasodilation_mediated_by_cGMP.jpg))* 
-**Clinical Source:** [New England Journal of Medicine (NEJM) & Pharmacological Reviews](https://pubmed.ncbi.nlm.nih.gov/10853004/) 
+# Hưng phấn và cương: phản ứng cơ thể không thay cho đồng thuận
+
+## English title
+
+Arousal, erections and consent
 
 ---
 
-## 🇻🇳 Phiên Bản Tiếng Việt (Vietnamese Edition)
+## Hiểu đúng
 
-# Sinh Lý Học Của Sự Hưng Phấn: Dòng Thác Thần Kinh - Mạch Máu Từ Não Bộ Đến Thể Hang
+Cương là phản ứng phối hợp mạch máu và thần kinh, chịu ảnh hưởng cả yếu tố thể chất và tâm lý. Cảm giác ham muốn, phản ứng cơ thể và lựa chọn tham gia không phải lúc nào cũng trùng nhau. Có cương không tự chứng minh đang muốn quan hệ. [1](https://www.niddk.nih.gov/health-information/urologic-diseases/erectile-dysfunction/symptoms-causes) [2](https://www.devonsexualhealth.nhs.uk/your-sexual-health/relationships-and-intimacy/)
 
-> **Tóm tắt (Sapo):** Sự cương cứng của phái mạnh thường bị lầm tưởng là một khối cơ bắp gồng cứng, nhưng về mặt giải phẫu học, dương vật hoàn toàn không chứa bất kỳ sợi cơ xương nào bên trong. Đó là một kiệt tác thủy lực được vận hành bởi dòng thác phối hợp chính xác đến từng mili-giây giữa hệ thần kinh tự chủ, enzyme Nitric Oxide nội mô và các khoang thể hang xốp.
+## Bạn có thể làm gì?
 
-> 💡 **Điểm Cốt Lõi & Hành Động Thực Tế (Key Takeaway):** Cương cứng là sự thư giãn của cơ trơn thể hang để dòng máu lấp đầy các khoang xốp. Bất kỳ yếu tố nào làm co thắt mạch (nicotine, căng thẳng, mỡ máu cao) đều chặn đứng quá trình này. Cơ chế duy trì độ cứng vững chắc dựa vào hiện tượng chèn ép tĩnh mạch tự nhiên khi áp lực thể hang đạt 100 mmHg.
+Ưu tiên trao đổi rõ sự thoải mái và đồng thuận thay vì đánh giá phản ứng như một bài kiểm tra. Nếu khó cương lặp lại, ghi hoàn cảnh, thuốc và triệu chứng để trao đổi với bác sĩ.
 
-## 4 Giai Đoạn Của Bản Giao Hưởng Thủy Lực Thể Hang
+## Giới hạn cần biết
 
-Công trình kinh điển của **Giáo sư Tom F. Lue (New England Journal of Medicine)** đã phân tách tiến trình cương cứng nam giới thành 4 giai đoạn sinh lý học liên hoàn:
+Một lần không cương không xác định bệnh, thiếu hấp dẫn hay thiếu testosterone. Cũng không thể suy độ cương từ cảm biến nhịp tim phổ thông.
 
-1. **Giai Đoạn Kích Hoạt Thần Kinh (Neural Initiation):** Kích thích hưng phấn từ vỏ não truyền xuống tủy sống vùng cùng (S2–S4). Các sợi thần kinh phó giao cảm (Pelvic Splanchnic Nerves) giải phóng chất dẫn truyền **Nitric Oxide (NO)** từ hai nguồn: đầu mút thần kinh (nNOS) và tế bào nội mô mạch máu (eNOS).
-2. **Giai Đoạn Giãn Nở Cơ Trơn (Smooth Muscle Relaxation):** NO khuếch tán vào cơ trơn thể hang, hoạt hóa Guanylate Cyclase để tạo ra phân tử truyền tin **cGMP**. cGMP đóng các kênh canxi, làm các dải cơ trơn bè thể hang giãn ra tối đa. Các khoang xốp (Sinusoids) mở rộng gấp nhiều lần thể tích ban đầu.
-3. **Giai Đoạn Dòng Máu Đổ Dồn (Arterial Inflow Surge):** Động mạch hang giãn nở gấp đôi đường kính; lưu lượng máu đổ về thể hang tăng vọt từ **2–4 ml/phút lên đến 30–50 ml/phút**. Thể hang phình to nhanh chóng.
-4. **Giai Đoạn Khóa Tĩnh Mạch (Venocclusion - The Hydraulic Lock):** Khi các khoang thể hang căng đầy máu, chúng ép chặt các tiểu tĩnh mạch nằm sát dưới lớp màng bao xơ dày (**Tunica Albuginea - Màng trắng**). Hiện tượng này khóa chặt đường máu thoát về tim, duy trì áp lực nội thể hang lên tới **100–120 mmHg** (tương đương huyết áp tâm thu), tạo nên độ cứng hoàn hảo để quan hệ.
+## Khi nào cần tư vấn?
 
-<figure class="article-inline-diagram">
- <img src="images/MW_SXO_02_figure.png" alt="Dòng thác phân tử giãn mạch qua cGMP: Nitric oxide kích hoạt enzyme guanylyl cyclase chuyển GTP thành cGMP gây giãn cơ trơn mạch máu thể hang để tạo cương cứng." loading="lazy">
- <figcaption>📊 <strong>Dòng thác phân tử giãn mạch qua cGMP: Nitric oxide kích hoạt enzyme guanylyl cyclase chuyển GTP thành cGMP gây giãn cơ trơn mạch máu thể hang để tạo cương cứng.</strong> <a href="https://commons.wikimedia.org/wiki/File:Molecular_pathway_of_vasodilation_mediated_by_cGMP.jpg" target="_blank" rel="noopener">Link sơ đồ y khoa gốc (Wikimedia Commons) ↗</a></figcaption>
-</figure>
+Khó cương thường xuyên, đau hoặc thay đổi đột ngột cần đánh giá; không tự dùng thuốc không rõ thành phần.
 
----
+## Nguồn và phạm vi hỗ trợ
 
-## Vai Trò Của Enzyme PDE-5: Chiếc "Phanh Sinh Học" Của Quá Trình Cương
+1. [NIDDK — Symptoms & Causes of Erectile Dysfunction](https://www.niddk.nih.gov/health-information/urologic-diseases/erectile-dysfunction/symptoms-causes) — Public health guidance. Hỗ trợ: Nguyên nhân mạch máu, thần kinh, thuốc và tâm lý của rối loạn cương.
 
-Cơ thể không thể duy trì sự cương cứng mãi mãi vì điều đó sẽ gây thiếu oxy mô và hoại tử thể hang (chứng Priapism). Để hạ cờ tự nhiên:
-- Enzyme **Phosphodiesterase-5 (PDE-5)** có mặt dày đặc tại thể hang sẽ tiến hành thủy phân cGMP thành GMP bất hoạt.
-- Khi cGMP cạn kiệt, các kênh canxi mở lại, cơ trơn thể hang co thắt trở lại, giải phóng các tĩnh mạch và đưa máu thoát về tuần hoàn chung.
-- *Nguyên lý của các loại thuốc như Sildenafil (Viagra) hay Tadalafil (Cialis):* Chúng không tự tạo ra sự cương cứng, mà chỉ đóng vai trò là **chất ức chế chọn lọc enzyme PDE-5**, ngăn không cho PDE-5 phá hủy cGMP, giúp dòng thác Nitric Oxide tự nhiên duy trì lâu hơn.
+2. [Devon Sexual Health (NHS) — Relationships and intimacy](https://www.devonsexualhealth.nhs.uk/your-sexual-health/relationships-and-intimacy/) — Sexual health service guidance. Hỗ trợ: Đồng thuận, thân mật và thủ dâm.
+
+> Cập nhật nội dung và nguồn: 2026-10-26. Nội dung giáo dục; chưa có xác nhận duyệt bởi bác sĩ.
 
 ---
 
-## Bảng So Sánh Các Cấp Độ Cương Cứng Lâm Sàng (EHS Scale)
+## Understanding the topic
 
-Các bác sĩ nam khoa quốc tế sử dụng Thang điểm Cứng Cương (**Erection Hardness Score - EHS**) để đánh giá chất lượng mạch máu:
+Erections involve vascular and neural processes influenced by physical and psychological factors. Desire, bodily response and the choice to participate do not always align. An erection alone does not establish willingness. [1](https://www.niddk.nih.gov/health-information/urologic-diseases/erectile-dysfunction/symptoms-causes) [2](https://www.devonsexualhealth.nhs.uk/your-sexual-health/relationships-and-intimacy/)
 
-| Cấp Độ EHS | Trạng Thái Lâm Sàng Thực Tế | Mức Độ Giãn Cơ Trơn Thể Hang | Khả Năng Quan Hệ Xâm Nhập |
-| :--- | :--- | :--- | :--- |
-| **Độ 1 (Tương đương đậu hũ non)** | Dương vật to lên nhưng hoàn toàn mềm nhũn. | Cơ trơn hầu như không giãn; thiếu hụt NO nghiêm trọng. | Không thể quan hệ. |
-| **Độ 2 (Tương đương quả chuối bóc vỏ)** | Cương cứng nhưng không đủ cứng vững để thâm nhập. | Khóa tĩnh mạch không hoàn toàn; rò rỉ máu liên tục. | Khó thâm nhập, dễ gập đau. |
-| **Độ 3 (Tương đương xúc xích / xúc xích Đức)** | Cương cứng đủ để quan hệ nhưng chưa đạt độ cứng tối đa. | Áp lực nội thể hang đạt ~70–80 mmHg. | Quan hệ được nhưng dễ mất cương khi đổi tư thế. |
-| **Độ 4 (Tương đương quả dưa chuột)** | **Cương cứng hoàn toàn, vững như đá.** | Áp lực nội thể hang đạt >100 mmHg; van khóa tĩnh mạch kín tuyệt đối. | Thăng hoa tối đa, kiểm soát thời gian hoàn hảo. |
+## What you can do
 
----
+Prioritize comfort and clear consent rather than treating the response as a performance test. Record context, medication and symptoms if erection difficulties recur.
 
-## Giao Thức 4 Bước Tối Ưu Hóa Dòng Thác Sinh Lý Hưng Phấn
+## What the evidence cannot tell you
 
-1. **Khởi Động Bằng Dạo Đầu Chậm Rãi (Parasympathetic Priming):** Dành ít nhất 10–15 phút cho màn dạo đầu nhẹ nhàng. Điều này cho phép enzyme eNOS tại tế bào nội mô có đủ thời gian tổng hợp nồng độ Nitric Oxide bão hòa trước khi tiến hành quan hệ.
-2. **Kích Hoạt Nhóm Cơ Sàn Chậu (Ischiocavernosus):** Sau khi đạt độ cứng cấp 3, việc co siết nhịp nhàng các cơ sàn chậu (cơ hành hang và cơ ngồi hang) sẽ ép thêm dòng máu vào phần quy đầu và đỉnh thể hang, đẩy áp lực lên cấp 4 cứng vững.
-3. **Tránh Bữa Ăn Quá Nhiều Dầu Mỡ Ngay Trước Khi Quan Hệ:** Một bữa ăn giàu chất béo bão hòa công nghiệp làm tăng lipid máu cấp tính, gây rối loạn chức năng nội mô tạm thời (Endothelial Stunning) và làm giảm 40% khả năng giải phóng NO trong 4 tiếng sau ăn.
-4. **Bổ Sung 3–5g L-Citrulline Hàng Ngày:** L-Citrulline sau khi vào thận sẽ chuyển hóa thành L-Arginine trong huyết tương hiệu quả hơn nhiều so với việc uống trực tiếp L-Arginine, giúp hệ mạch máu luôn dự trữ sẵn sàng nguyên liệu tổng hợp Nitric Oxide.
+One absent erection does not diagnose illness, lack of attraction or low testosterone. Consumer pulse sensors do not measure erection quality.
 
----
+## When to seek advice
 
-## Tài Liệu Tham Khảo & Nguồn Y Khoa
+Recurrent difficulties, pain or sudden changes warrant assessment. Avoid products with unclear ingredients.
 
-1. **Lue, T. F. (2000).** *Erectile dysfunction.* The New England Journal of Medicine, 342(24), 1802–1813. [Tạp chí NEJM (PMID: 10853004) ↗](https://pubmed.ncbi.nlm.nih.gov/10853004/)
-2. **Andersson, K. E. (2001).** *Pharmacology of penile erection.* Pharmacological Reviews, 53(3), 417–450. [Tạp chí PharmRev (PMID: 11546836) ↗](https://pubmed.ncbi.nlm.nih.gov/11546836/)
-3. **Burnett, A. L., et al. (1992).** *Nitric oxide: a physiologic mediator of penile erection.* Science, 257(5068), 401–403. [Tạp chí Science (PMID: 1378650) ↗](https://pubmed.ncbi.nlm.nih.gov/1378650/)
-4. **Mulhall, J. P., et al. (2007).** *Validation of the erection hardness score.* The Journal of Sexual Medicine, 4(6), 1626–1634. [Báo Cáo Nghiên Cứu Gốc (NCBI PubMed: 17970976) ↗](https://pubmed.ncbi.nlm.nih.gov/17970976/)
+## Sources and what they support
 
----
+1. [NIDDK — Symptoms & Causes of Erectile Dysfunction](https://www.niddk.nih.gov/health-information/urologic-diseases/erectile-dysfunction/symptoms-causes) — Public health guidance. Supports: Vascular, neurological, medication and psychological causes of ED.
 
-## 🇬🇧 English Edition
+2. [Devon Sexual Health (NHS) — Relationships and intimacy](https://www.devonsexualhealth.nhs.uk/your-sexual-health/relationships-and-intimacy/) — Sexual health service guidance. Supports: Consent, intimacy and masturbation.
 
-# What Happens During Male Sexual Arousal? The Neurovascular Cascade from Cortex to Corpora
-
-> **Abstract (Sapo):** Male erection is frequently mischaracterized as muscle contraction, yet anatomically, the human penis contains zero skeletal muscle within its erectile shafts. It is an extraordinary vascular-hydraulic masterpiece coordinated with millisecond precision between the autonomic nervous system, endothelial nitric oxide enzymes, and trabecular sinusoidal spaces.
-
-> 💡 **Key Takeaway & Clinical Action:** Erection is paradoxical: it requires deep smooth muscle relaxation to permit arterial inflow to engorge sinusoidal caverns. Any vasoconstrictor (nicotine, sympathetic stress, plaque) halts the cascade. Rigidity maintenance depends entirely on passive venous occlusion against the rigid tunica albuginea.
-
-## The 4 Phases of Cavernosal Hydraulic Architecture
-
-Seminal work by **Dr. Tom F. Lue (New England Journal of Medicine)** separated the male erection into four distinct neurovascular stages:
-
-1. **Neural Initiation:** Erotic cues transmit down the sacral parasympathetic plexus (S2–S4), releasing **Nitric Oxide (NO)** from neuronal (nNOS) and endothelial (eNOS) sources.
-2. **Trabecular Smooth Muscle Relaxation:** NO diffuses into cavernosal smooth muscle, activating Guanylate Cyclase to synthesize **cGMP**, closing calcium channels and causing the trabecular meshwork to dilate.
-3. **Arterial Inflow Surge:** Cavernosal helicine arteries expand twofold; blood inflow accelerates from **2–4 mL/min to 30–50 mL/min**, engorging lacunar spaces.
-4. **Venocclusion (The Hydraulic Lock):** Engorging sinusoids compress the subtunical venular plexus against the rigid outer collagen sleeve (**Tunica Albuginea**), trapping blood and elevating intracavernosal pressure to **100–120 mmHg** (matching systolic pressure).
-
-<figure class="article-inline-diagram">
- <img src="images/MW_SXO_02_figure.png" alt="Molecular pathway of vasodilation mediated by cGMP: Nitric oxide activates soluble guanylyl cyclase to produce cGMP, relaxing vascular smooth muscle." loading="lazy">
- <figcaption>📊 <strong>Molecular pathway of vasodilation mediated by cGMP: Nitric oxide activates soluble guanylyl cyclase to produce cGMP, relaxing vascular smooth muscle.</strong> <a href="https://commons.wikimedia.org/wiki/File:Molecular_pathway_of_vasodilation_mediated_by_cGMP.jpg" target="_blank" rel="noopener">Original Image Source: Wikimedia Commons ↗</a></figcaption>
-</figure>
-
----
-
-## PDE-5: The Biological Brake of Erection
-
-Erection cannot endure indefinitely without tissue necrosis (Priapism). To return to flaccidity:
-- The enzyme **Phosphodiesterase-5 (PDE-5)** hydrolyzes cGMP into inactive 5'-GMP.
-- Calcium re-enters smooth muscle cells, triggering vasoconstriction and releasing venular compression.
-- *Mechanism of PDE-5 Inhibitors (Viagra, Cialis):* They do not generate artificial erections; they merely **selectively block PDE-5**, preventing cGMP degradation and allowing natural nitric oxide to sustain rigidity.
-
----
-
-## The Erection Hardness Score (EHS) Clinical Matrix
-
-Urologists worldwide standardize erectile quality using the validated **EHS Scale**:
-
-| EHS Grade | Physical Consistency Equivalent | Degree of Cavernosal Smooth Muscle Relaxation | Vaginal Penetration Capacity |
-| :--- | :--- | :--- | :--- |
-| **Grade 1 (Tofu)** | Larger than flaccid, but completely soft. | Minimal relaxation; profound NO deficiency. | Penetration impossible. |
-| **Grade 2 (Peeled Banana)** | Firm, but insufficient for penetration. | Incomplete venocclusion; active venous leak. | Ineffective, painful buckling. |
-| **Grade 3 (Sausage)** | Hard enough for penetration, but not completely rigid. | Intracavernosal pressure ~70–80 mmHg. | Successful penetration, vulnerable to position changes. |
-| **Grade 4 (Cucumber)** | **Completely hard and fully rigid.** | Pressure >100 mmHg; absolute venous seal. | Optimal stamina and peak performance. |
-
----
-
-## 4-Step Practical Protocol for Arousal Optimization
-
-1. **Engage 10–15 Minutes of Unhurried Foreplay:** Allows endothelial eNOS enzymes sufficient time to produce saturating concentrations of Nitric Oxide before intercourse.
-2. **Engage the Ischiocavernosus Muscle:** Once Grade 3 hardness is reached, rhythmic pelvic floor contractions forcefully compress the crura of the corpora cavernosa, driving pressure to Grade 4.
-3. **Avoid High-Fat Heavy Meals Pre-Intercourse:** Ingesting large amounts of saturated fat triggers transient endothelial stunning, impairing NO release by 40% for up to 4 hours post-meal.
-4. **Supplement 3–5g L-Citrulline Daily:** L-Citrulline bypasses hepatic first-pass metabolism, elevating circulating plasma L-Arginine more efficiently to provide sustained NO substrate reserves.
-
----
-
-## Clinical References & Scientific Sources
-
-1. **Lue, T. F. (2000).** *Erectile dysfunction.* New England Journal of Medicine, 342(24), 1802–1813. [View on NEJM ↗](https://pubmed.ncbi.nlm.nih.gov/10853004/)
-2. **Andersson, K. E. (2001).** *Pharmacology of penile erection.* Pharmacological Reviews, 53(3), 417–450. [View on PharmRev ↗](https://pubmed.ncbi.nlm.nih.gov/11546836/)
-3. **Burnett, A. L., et al. (1992).** *Nitric oxide: a physiologic mediator of penile erection.* Science, 257(5068), 401–403. [View on Science ↗](https://pubmed.ncbi.nlm.nih.gov/1378650/)
-4. **Mulhall, J. P., et al. (2007).** *Validation of the erection hardness score.* J Sex Med, 4(6), 1626–1634. [View on PubMed ↗](https://pubmed.ncbi.nlm.nih.gov/17970976/)
+> Content and sources updated: 2026-10-26. Educational content; clinical sign-off has not been recorded.

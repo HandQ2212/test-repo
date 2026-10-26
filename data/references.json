@@ -1,0 +1,562 @@
+[
+  {
+    "id": "sleep_length",
+    "title": "NHLBI — How Much Sleep Is Enough?",
+    "url": "https://www.nhlbi.nih.gov/health/sleep/how-much-sleep",
+    "kind": "Public health guidance",
+    "support_vi": "Thời lượng ngủ theo tuổi; nợ ngủ",
+    "support_en": "Age-related sleep needs; sleep debt"
+  },
+  {
+    "id": "sleep_habits",
+    "title": "NHLBI — Healthy Sleep Habits",
+    "url": "https://www.nhlbi.nih.gov/health/sleep-deprivation/healthy-sleep-habits",
+    "kind": "Public health guidance",
+    "support_vi": "Thói quen ngủ và lịch sinh hoạt",
+    "support_en": "Sleep habits and consistent schedules"
+  },
+  {
+    "id": "sleep_stages",
+    "title": "NHLBI — Sleep Phases and Stages",
+    "url": "https://www.nhlbi.nih.gov/health/sleep/stages-of-sleep",
+    "kind": "Public health guidance",
+    "support_vi": "NREM, REM và thay đổi theo tuổi",
+    "support_en": "NREM, REM and age-related variation"
+  },
+  {
+    "id": "sleep_clock",
+    "title": "NHLBI — Your Sleep/Wake Cycle",
+    "url": "https://www.nhlbi.nih.gov/health/sleep/sleep-wake-cycle",
+    "kind": "Public health guidance",
+    "support_vi": "Nhịp sinh học, ánh sáng và áp lực ngủ",
+    "support_en": "Circadian timing, light and sleep pressure"
+  },
+  {
+    "id": "sleep_tech",
+    "title": "Schutte-Rodin et al. (2021) — Evaluating consumer and clinical sleep technologies: an American Academy of Sleep Medicine update",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/34314344/",
+    "kind": "Professional society review",
+    "support_vi": "Giới hạn đánh giá và xác thực công nghệ theo dõi giấc ngủ",
+    "support_en": "Evaluation and validation limits of sleep technologies"
+  },
+  {
+    "id": "apnea",
+    "title": "NHLBI — Sleep Apnea Symptoms",
+    "url": "https://www.nhlbi.nih.gov/health/sleep-apnea/symptoms",
+    "kind": "Public health guidance",
+    "support_vi": "Ngáy, ngưng thở và buồn ngủ ban ngày",
+    "support_en": "Snoring, breathing pauses and daytime sleepiness"
+  },
+  {
+    "id": "hrv",
+    "title": "Shaffer & Ginsberg (2017) — An Overview of Heart Rate Variability Metrics and Norms",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/29034226/",
+    "kind": "Narrative review",
+    "support_vi": "Chỉ số HRV, bối cảnh đo và giới hạn so sánh",
+    "support_en": "HRV metrics, recording context and comparability limits"
+  },
+  {
+    "id": "hrv_measure",
+    "title": "Draghici & Taylor (2016) — The physiological basis and measurement of heart rate variability in humans",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/27680542/",
+    "kind": "Physiology review",
+    "support_vi": "Cơ chế và giới hạn diễn giải HRV",
+    "support_en": "Mechanisms and interpretation limits of HRV"
+  },
+  {
+    "id": "pulse",
+    "title": "American Heart Association — All About Heart Rate",
+    "url": "https://www.heart.org/en/health-topics/high-blood-pressure/the-facts-about-high-blood-pressure/all-about-heart-rate-pulse",
+    "kind": "Professional patient guidance",
+    "support_vi": "Nhịp tim nghỉ, yếu tố ảnh hưởng và triệu chứng cần khám",
+    "support_en": "Resting pulse, influencing factors and warning symptoms"
+  },
+  {
+    "id": "breathing",
+    "title": "Zaccaro et al. (2018) — How Breath-Control Can Change Your Life: A Systematic Review on Psycho-Physiological Correlates of Slow Breathing",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/30245619/",
+    "kind": "Systematic review",
+    "support_vi": "Thở chậm, HRV và nghiên cứu không đồng nhất",
+    "support_en": "Slow breathing, HRV and heterogeneous evidence"
+  },
+  {
+    "id": "sigh",
+    "title": "Balban et al. (2023) — Brief structured respiration practices enhance mood and reduce physiological arousal",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/36630953/",
+    "kind": "Randomized remote trial",
+    "support_vi": "Thực hành thở 5 phút mỗi ngày trong một tháng; không phải bằng chứng chữa bệnh tức thì",
+    "support_en": "Five-minute daily breathing over one month; not evidence of an instant cure"
+  },
+  {
+    "id": "recovery",
+    "title": "Kellmann et al. (2018) — Recovery and Performance in Sport: Consensus Statement",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/29345524/",
+    "kind": "Consensus statement",
+    "support_vi": "Phục hồi cần cá nhân hóa, gồm tải tập và áp lực cuộc sống",
+    "support_en": "Individual recovery, training load and life demands"
+  },
+  {
+    "id": "cooldown",
+    "title": "Van Hooren & Peake (2018) — Do We Need a Cool-Down After Exercise?",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/29663142/",
+    "kind": "Narrative review",
+    "support_vi": "Hạn chế bằng chứng về giảm đau cơ và phục hồi nhờ hạ nhiệt chủ động",
+    "support_en": "Limited evidence for active cool-down effects on soreness and recovery"
+  },
+  {
+    "id": "activity",
+    "title": "WHO — Physical activity",
+    "url": "https://www.who.int/news-room/fact-sheets/detail/physical-activity",
+    "kind": "Public health guideline summary",
+    "support_vi": "Khuyến nghị vận động theo nhóm đối tượng",
+    "support_en": "Activity recommendations by population"
+  },
+  {
+    "id": "intensity",
+    "title": "CDC — Measuring Physical Activity Intensity",
+    "url": "https://www.cdc.gov/physicalactivity/basics/measuring/index.html",
+    "kind": "Public health guidance",
+    "support_vi": "Talk test phân biệt vận động vừa và mạnh",
+    "support_en": "Talk test for moderate and vigorous activity"
+  },
+  {
+    "id": "azm",
+    "title": "Google Health Help — Track Active Zone Minutes or active minutes on your Fitbit device and Pixel Watch",
+    "url": "https://support.google.com/googlehealth/answer/14236509?hl=en",
+    "kind": "Manufacturer documentation",
+    "support_vi": "Cách tính AZM riêng của Fitbit; không phải nghiên cứu hiệu quả lâm sàng",
+    "support_en": "Fitbit AZM calculation; not a clinical efficacy study"
+  },
+  {
+    "id": "strain",
+    "title": "WHOOP — WHOOP Strain",
+    "url": "https://support.whoop.com/s/article/WHOOP-Strain",
+    "kind": "Manufacturer documentation",
+    "support_vi": "Thang tải 0–21 phi tuyến riêng của WHOOP",
+    "support_en": "WHOOP-specific non-linear 0–21 load score"
+  },
+  {
+    "id": "overtraining",
+    "title": "Meeusen et al. (2013) — Prevention, diagnosis, and treatment of the overtraining syndrome",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/23247672/",
+    "kind": "Joint consensus statement",
+    "support_vi": "Quá tải, chẩn đoán loại trừ và thiếu chỉ dấu đơn lẻ",
+    "support_en": "Overtraining, exclusion diagnosis and absence of a single marker"
+  },
+  {
+    "id": "fitness",
+    "title": "Ross et al. (2016) — Importance of Assessing Cardiorespiratory Fitness in Clinical Practice",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/27881567/",
+    "kind": "AHA scientific statement",
+    "support_vi": "Thể lực tim phổi và đánh giá nguy cơ sức khỏe",
+    "support_en": "Cardiorespiratory fitness and health risk assessment"
+  },
+  {
+    "id": "sauna",
+    "title": "Laukkanen et al. (2015) — Association between sauna bathing and fatal cardiovascular and all-cause mortality events",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/25705824/",
+    "kind": "Observational cohort",
+    "support_vi": "Liên hệ thống kê ở nam giới Phần Lan; không chứng minh quan hệ nhân quả",
+    "support_en": "Association in Finnish men; does not establish causation"
+  },
+  {
+    "id": "cold",
+    "title": "Roberts et al. (2015) — Post-exercise cold water immersion attenuates acute anabolic signalling and long-term adaptations in muscle to strength training",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/26174323/",
+    "kind": "Small intervention study",
+    "support_vi": "Ngâm lạnh sau tập và thích nghi sức mạnh; không phải mọi cách tiếp xúc lạnh",
+    "support_en": "Post-exercise immersion and training adaptation; not all cold exposure"
+  },
+  {
+    "id": "fertility",
+    "title": "ACOG — Fertility Awareness-Based Methods of Family Planning",
+    "url": "https://www.acog.org/womens-health/faqs/fertility-awareness-based-methods-of-family-planning",
+    "kind": "Professional patient guidance",
+    "support_vi": "Chất nhầy, BBT, thời điểm sinh sản và giới hạn tránh thai",
+    "support_en": "Mucus, BBT, fertile timing and contraceptive limitations"
+  },
+  {
+    "id": "periods",
+    "title": "NHS — Periods",
+    "url": "https://www.nhs.uk/conditions/periods/",
+    "kind": "Public health guidance",
+    "support_vi": "Chu kỳ, triệu chứng và chảy máu bất thường",
+    "support_en": "Cycles, symptoms and abnormal bleeding"
+  },
+  {
+    "id": "missed",
+    "title": "NHS — Missed or late periods",
+    "url": "https://www.nhs.uk/symptoms/missed-or-late-periods/",
+    "kind": "Public health guidance",
+    "support_vi": "Nguyên nhân trễ kinh và thời điểm đi khám",
+    "support_en": "Causes of missed periods and when to seek care"
+  },
+  {
+    "id": "pms",
+    "title": "NHS — PMS (premenstrual syndrome)",
+    "url": "https://www.nhs.uk/conditions/pre-menstrual-syndrome/",
+    "kind": "Public health guidance",
+    "support_vi": "Triệu chứng PMS, nhật ký và lựa chọn chăm sóc",
+    "support_en": "PMS symptoms, symptom diaries and care options"
+  },
+  {
+    "id": "cycle_training",
+    "title": "McNulty et al. (2020) — The Effects of Menstrual Cycle Phase on Exercise Performance in Eumenorrheic Women",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/32661839/",
+    "kind": "Systematic review and meta-analysis",
+    "support_vi": "Hiệu ứng trung bình nhỏ, chất lượng bằng chứng thấp; cần cá nhân hóa",
+    "support_en": "Small average effects and low-quality evidence; individualized approach"
+  },
+  {
+    "id": "strength_cycle",
+    "title": "Colenso-Semple et al. (2023) — Current evidence shows no influence of women's menstrual cycle phase on acute strength performance or adaptations to resistance exercise training",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/37033884/",
+    "kind": "Umbrella review",
+    "support_vi": "Chưa đủ cơ sở kê lịch tập sức mạnh cố định theo pha",
+    "support_en": "Insufficient basis for fixed phase-based resistance programming"
+  },
+  {
+    "id": "cycle_hrv",
+    "title": "Schmalenberger et al. (2019) — A Systematic Review and Meta-Analysis of Within-Person Changes in Cardiac Vagal Activity across the Menstrual Cycle",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/31726666/",
+    "kind": "Systematic review and meta-analysis",
+    "support_vi": "Biến đổi hoạt động phế vị theo chu kỳ ở cấp độ nhóm",
+    "support_en": "Group-level cycle-related changes in cardiac vagal activity"
+  },
+  {
+    "id": "vaginal",
+    "title": "ACOG — Vulvovaginal Health",
+    "url": "https://www.acog.org/womens-health/faqs/vulvovaginal-health",
+    "kind": "Professional patient guidance",
+    "support_vi": "Vệ sinh vùng kín, dịch tiết, thay đổi niêm mạc và điều trị",
+    "support_en": "Vulvovaginal care, discharge, tissue changes and treatments"
+  },
+  {
+    "id": "pain_sex",
+    "title": "ACOG — When Sex Is Painful",
+    "url": "https://www.acog.org/womens-health/faqs/when-sex-is-painful",
+    "kind": "Professional patient guidance",
+    "support_vi": "Nguyên nhân đau khi quan hệ và tiếp cận chăm sóc",
+    "support_en": "Causes and care of painful sex"
+  },
+  {
+    "id": "pelvic_men",
+    "title": "North Tees and Hartlepool NHS — Pelvic Floor Exercises for Men",
+    "url": "https://www.nth.nhs.uk/resources/pelvic-floor-exercises-for-men/",
+    "kind": "Physiotherapy patient guidance",
+    "support_vi": "Nhận biết, co và thả lỏng cơ sàn chậu nam",
+    "support_en": "Identifying, contracting and relaxing male pelvic floor muscles"
+  },
+  {
+    "id": "pelvic_relax",
+    "title": "Royal Berkshire NHS (2024) — Pelvic floor strengthening and relaxation exercises for men",
+    "url": "https://www.royalberkshire.nhs.uk/media/avwg3hls/pelvic-floor-strengthening-and-relaxation-exercises-for-men_jun24.pdf",
+    "kind": "Physiotherapy patient guidance",
+    "support_vi": "Phối hợp tăng sức mạnh và thả lỏng; không kê bài siết cho tất cả",
+    "support_en": "Strengthening and relaxation; not a prescription to tighten for everyone"
+  },
+  {
+    "id": "reds",
+    "title": "Mountjoy et al. (2023) — IOC consensus statement on Relative Energy Deficiency in Sport (REDs)",
+    "url": "https://bjsm.bmj.com/content/57/17/1073",
+    "kind": "Consensus statement",
+    "support_vi": "Thiếu năng lượng, xương, kinh nguyệt và đánh giá đa chuyên ngành",
+    "support_en": "Low energy availability, bone, menstrual health and multidisciplinary assessment"
+  },
+  {
+    "id": "diet",
+    "title": "WHO — Healthy diet",
+    "url": "https://www.who.int/news-room/fact-sheets/detail/healthy-diet",
+    "kind": "Public health guidance",
+    "support_vi": "Chế độ ăn đa dạng và chất lượng thực phẩm",
+    "support_en": "Dietary variety and food quality"
+  },
+  {
+    "id": "heavy",
+    "title": "NHS — Heavy periods",
+    "url": "https://www.nhs.uk/conditions/heavy-periods/",
+    "kind": "Public health guidance",
+    "support_vi": "Nhận biết chảy máu nhiều và các hướng điều trị",
+    "support_en": "Recognizing heavy menstrual bleeding and treatment options"
+  },
+  {
+    "id": "iron",
+    "title": "NHS — Iron deficiency anaemia",
+    "url": "https://www.nhs.uk/conditions/iron-deficiency-anaemia/",
+    "kind": "Public health guidance",
+    "support_vi": "Xét nghiệm thiếu máu và bổ sung sắt theo đánh giá",
+    "support_en": "Anaemia testing and assessed iron replacement"
+  },
+  {
+    "id": "test_pregnancy",
+    "title": "NHS — Doing a pregnancy test",
+    "url": "https://www.nhs.uk/pregnancy/trying-for-a-baby/doing-a-pregnancy-test/",
+    "kind": "Public health guidance",
+    "support_vi": "Thời điểm thử thai và xử trí kết quả âm tính sớm",
+    "support_en": "Pregnancy test timing and early negative results"
+  },
+  {
+    "id": "ectopic",
+    "title": "NHS — Ectopic pregnancy: symptoms",
+    "url": "https://www.nhs.uk/conditions/ectopic-pregnancy/symptoms/",
+    "kind": "Public health guidance",
+    "support_vi": "Đau bụng, chảy máu, đau vai và chăm sóc khẩn",
+    "support_en": "Pain, bleeding, shoulder pain and urgent care"
+  },
+  {
+    "id": "pregnancy",
+    "title": "NHS — Common health problems in pregnancy",
+    "url": "https://www.nhs.uk/pregnancy/common-symptoms/common-health-problems/",
+    "kind": "Public health guidance",
+    "support_vi": "Triệu chứng thường gặp trong thai kỳ",
+    "support_en": "Common pregnancy symptoms"
+  },
+  {
+    "id": "pregnancy_exercise",
+    "title": "ACOG (2020) — Physical Activity and Exercise During Pregnancy and the Postpartum Period",
+    "url": "https://www.acog.org/clinical/clinical-guidance/committee-opinion/articles/2020/04/physical-activity-and-exercise-during-pregnancy-and-the-postpartum-period",
+    "kind": "Committee guidance",
+    "support_vi": "Vận động thai kỳ, cá nhân hóa và dấu hiệu dừng tập",
+    "support_en": "Pregnancy activity, individualization and exercise warning signs"
+  },
+  {
+    "id": "postpartum",
+    "title": "ACOG — Exercise After Pregnancy",
+    "url": "https://www.acog.org/womens-health/faqs/exercise-after-pregnancy",
+    "kind": "Professional patient guidance",
+    "support_vi": "Trở lại vận động sau sinh tùy phương pháp sinh và biến chứng",
+    "support_en": "Postpartum return to activity by delivery and complications"
+  },
+  {
+    "id": "pcos",
+    "title": "Monash University — International evidence-based PCOS / PMOS guideline",
+    "url": "https://www.monash.edu/medicine/mchri/pcos/guideline",
+    "kind": "International guideline",
+    "support_vi": "Chẩn đoán và chăm sóc toàn diện; cập nhật tên PMOS năm 2026",
+    "support_en": "Diagnosis and comprehensive care; PMOS terminology update in 2026"
+  },
+  {
+    "id": "endometriosis",
+    "title": "NHS — Endometriosis",
+    "url": "https://www.nhs.uk/conditions/endometriosis/",
+    "kind": "Public health guidance",
+    "support_vi": "Triệu chứng, chẩn đoán và điều trị lạc nội mạc tử cung",
+    "support_en": "Endometriosis symptoms, assessment and treatment"
+  },
+  {
+    "id": "menopause",
+    "title": "NHS — Symptoms of menopause and perimenopause",
+    "url": "https://www.nhs.uk/conditions/menopause-and-perimenopause/symptoms/",
+    "kind": "Public health guidance",
+    "support_vi": "Triệu chứng tiền mãn kinh và mãn kinh; khi cần khám",
+    "support_en": "Perimenopause and menopause symptoms; seeking care"
+  },
+  {
+    "id": "testosterone",
+    "title": "Bhasin et al. (2018) — Testosterone Therapy in Men With Hypogonadism: An Endocrine Society Clinical Practice Guideline",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/29562364/",
+    "kind": "Clinical practice guideline",
+    "support_vi": "Triệu chứng cộng xét nghiệm buổi sáng lặp lại; tránh testosterone khi muốn có con",
+    "support_en": "Symptoms plus repeated morning tests; avoid testosterone when planning fertility"
+  },
+  {
+    "id": "hypogonadism",
+    "title": "Endocrine Society — Hypogonadism in Men",
+    "url": "https://www.endocrine.org/patient-engagement/endocrine-library/hypogonadism",
+    "kind": "Professional patient guidance",
+    "support_vi": "Chẩn đoán thiếu testosterone và giới hạn xét nghiệm",
+    "support_en": "Low testosterone diagnosis and testing limitations"
+  },
+  {
+    "id": "ed",
+    "title": "NIDDK — Symptoms & Causes of Erectile Dysfunction",
+    "url": "https://www.niddk.nih.gov/health-information/urologic-diseases/erectile-dysfunction/symptoms-causes",
+    "kind": "Public health guidance",
+    "support_vi": "Nguyên nhân mạch máu, thần kinh, thuốc và tâm lý của rối loạn cương",
+    "support_en": "Vascular, neurological, medication and psychological causes of ED"
+  },
+  {
+    "id": "ed_treatment",
+    "title": "NIDDK — Treatment for Erectile Dysfunction",
+    "url": "https://www.niddk.nih.gov/health-information/urologic-diseases/erectile-dysfunction/treatment",
+    "kind": "Public health guidance",
+    "support_vi": "Chăm sóc theo nguyên nhân; thay đổi lối sống và điều trị chuyên môn",
+    "support_en": "Cause-based care, lifestyle changes and professional treatment"
+  },
+  {
+    "id": "libido",
+    "title": "NHS — Low sex drive (loss of libido)",
+    "url": "https://www.nhs.uk/symptoms/loss-of-libido/",
+    "kind": "Public health guidance",
+    "support_vi": "Nhiều yếu tố ảnh hưởng ham muốn và chăm sóc theo nguyên nhân",
+    "support_en": "Multiple influences on desire and cause-based care"
+  },
+  {
+    "id": "ejaculation",
+    "title": "NHS — Ejaculation problems",
+    "url": "https://www.nhs.uk/conditions/ejaculation-problems/",
+    "kind": "Public health guidance",
+    "support_vi": "Các rối loạn xuất tinh và lựa chọn điều trị",
+    "support_en": "Ejaculatory difficulties and treatment options"
+  },
+  {
+    "id": "protein",
+    "title": "Morton et al. (2018) — A systematic review, meta-analysis and meta-regression of the effect of protein supplementation on resistance training-induced gains in muscle mass and strength in healthy adults",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/28698222/",
+    "kind": "Systematic review and meta-analysis",
+    "support_vi": "Protein và tập kháng lực ở người khỏe mạnh; không áp dụng trực tiếp cho bệnh thận",
+    "support_en": "Protein with resistance training in healthy adults; not directly applicable to kidney disease"
+  },
+  {
+    "id": "alcohol",
+    "title": "WHO — Alcohol",
+    "url": "https://www.who.int/news-room/fact-sheets/detail/alcohol",
+    "kind": "Public health evidence summary",
+    "support_vi": "Nguy cơ sức khỏe từ rượu; không có mức uống hoàn toàn không rủi ro",
+    "support_en": "Alcohol-related health risks; no completely risk-free consumption"
+  },
+  {
+    "id": "zinc",
+    "title": "NIH ODS — Zinc: Health Professional Fact Sheet",
+    "url": "https://ods.od.nih.gov/factsheets/Zinc-HealthProfessional/",
+    "kind": "Evidence fact sheet",
+    "support_vi": "Nhu cầu kẽm, thiếu hụt và tác hại khi dư",
+    "support_en": "Zinc needs, deficiency and excess toxicity"
+  },
+  {
+    "id": "vitamin_d",
+    "title": "NIH ODS — Vitamin D: Fact Sheet for Consumers",
+    "url": "https://ods.od.nih.gov/factsheets/VitaminD-Consumer/",
+    "kind": "Evidence fact sheet",
+    "support_vi": "Vai trò vitamin D và nguy cơ dùng quá mức",
+    "support_en": "Vitamin D roles and excessive intake risks"
+  },
+  {
+    "id": "male_fertility",
+    "title": "AUA/ASRM — Diagnosis and treatment of infertility in men: guideline part II",
+    "url": "https://integration.asrm.org/practice-guidance/practice-committee-documents/diagnosis-and-treatment-of-infertility-in-men-aua-asrm-guideline-part2/",
+    "kind": "Clinical practice guideline",
+    "support_vi": "Giới hạn bằng chứng của chất bổ sung và tác động testosterone đến sinh sản",
+    "support_en": "Limited supplement evidence and testosterone-related fertility concerns"
+  },
+  {
+    "id": "fasting",
+    "title": "Cienfuegos et al. (2022) — Effect of Intermittent Fasting on Reproductive Hormone Levels in Females and Males: A Review of Human Trials",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/35684143/",
+    "kind": "Review of human trials",
+    "support_vi": "Nghiên cứu hormone còn ít; không thể hứa tăng testosterone",
+    "support_en": "Limited hormone trials; no basis to promise a testosterone increase"
+  },
+  {
+    "id": "hydration",
+    "title": "NHS — Dehydration",
+    "url": "https://www.nhs.uk/conditions/dehydration/",
+    "kind": "Public health guidance",
+    "support_vi": "Dấu hiệu mất nước và khi cần chăm sóc khẩn",
+    "support_en": "Dehydration symptoms and when urgent care is needed"
+  },
+  {
+    "id": "sleep_t",
+    "title": "Leproult & Van Cauter (2011) — Effect of 1 week of sleep restriction on testosterone levels in young healthy men",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/21632481/",
+    "kind": "Small experimental study",
+    "support_vi": "Thử nghiệm nhỏ ở nam trẻ; không quy đổi thiếu ngủ thành tuổi già",
+    "support_en": "Small study in young men; does not translate sleep loss into years of ageing"
+  },
+  {
+    "id": "relationships",
+    "title": "NHS — Maintaining healthy relationships and mental wellbeing",
+    "url": "https://www.nhs.uk/every-mind-matters/lifes-challenges/maintaining-healthy-relationships-and-mental-wellbeing/",
+    "kind": "Public health guidance",
+    "support_vi": "Giao tiếp, ranh giới và ứng phó bất đồng",
+    "support_en": "Communication, boundaries and managing disagreements"
+  },
+  {
+    "id": "communication",
+    "title": "Mallory et al. (2019) — Couples' Sexual Communication and Dimensions of Sexual Function: A Meta-Analysis",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/30777780/",
+    "kind": "Meta-analysis of associations",
+    "support_vi": "Liên hệ giữa giao tiếp và chức năng tình dục; không chứng minh nhân quả",
+    "support_en": "Association of communication and sexual function; not proof of causation"
+  },
+  {
+    "id": "couple_sleep",
+    "title": "The association between couple relationships and sleep: A systematic review and meta-analysis",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/39514915/",
+    "kind": "Systematic review and meta-analysis",
+    "support_vi": "Liên hệ hai chiều có thể có giữa giấc ngủ và chất lượng quan hệ",
+    "support_en": "Associations between sleep and relationship quality"
+  },
+  {
+    "id": "sexual_health",
+    "title": "Devon Sexual Health (NHS) — Relationships and intimacy",
+    "url": "https://www.devonsexualhealth.nhs.uk/your-sexual-health/relationships-and-intimacy/",
+    "kind": "Sexual health service guidance",
+    "support_vi": "Đồng thuận, thân mật và thủ dâm",
+    "support_en": "Consent, intimacy and masturbation"
+  },
+  {
+    "id": "pelvic_women",
+    "title": "NHS — Urinary incontinence: non-surgical treatment",
+    "url": "https://www.nhs.uk/conditions/urinary-incontinence/treatment/",
+    "kind": "Public health guidance",
+    "support_vi": "Đánh giá sàn chậu và tập có giám sát cho rò tiểu",
+    "support_en": "Pelvic-floor assessment and supervised training for leakage"
+  },
+  {
+    "id": "reproductive_hormones",
+    "title": "Endocrine Society — Reproductive Hormones",
+    "url": "https://www.endocrine.org/patient-engagement/endocrine-library/hormones-and-endocrine-function/reproductive-hormones",
+    "kind": "Professional patient guidance",
+    "support_vi": "Vai trò các hormone sinh sản và xét nghiệm phù hợp",
+    "support_en": "Reproductive hormone roles and appropriate testing"
+  },
+  {
+    "id": "menopause_care",
+    "title": "NHS — Menopause and perimenopause: treatment",
+    "url": "https://www.nhs.uk/conditions/menopause-and-perimenopause/treatment/",
+    "kind": "Public health guidance",
+    "support_vi": "Thảo luận lợi ích và rủi ro điều trị triệu chứng mãn kinh",
+    "support_en": "Discussing benefits and risks of menopause symptom treatment"
+  },
+  {
+    "id": "natural_fertility",
+    "title": "ASRM (2022) — Optimizing natural fertility: a committee opinion",
+    "url": "https://integration.asrm.org/globalassets/_asrm/practice-guidance/practice-guidelines/pdf/optimizing_natural_fertility.pdf",
+    "kind": "Committee opinion",
+    "support_vi": "Thời điểm quan hệ, giới hạn dự đoán và khi đánh giá hiếm muộn",
+    "support_en": "Intercourse timing, prediction limitations and fertility evaluation"
+  },
+  {
+    "id": "testicle",
+    "title": "NHS — Testicle pain",
+    "url": "https://www.nhs.uk/symptoms/testicle-pain/",
+    "kind": "Public health guidance",
+    "support_vi": "Đau tinh hoàn đột ngột hoặc nặng cần chăm sóc khẩn",
+    "support_en": "Sudden or severe testicular pain requires urgent care"
+  },
+  {
+    "id": "cold_safety",
+    "title": "RNLI — Cold water dipping",
+    "url": "https://rnli.org/water-safety/choose-your-activity/cold-water-dipping",
+    "kind": "Water safety service guidance",
+    "support_vi": "Nguy cơ sốc lạnh và không thực hành một mình",
+    "support_en": "Cold-shock risks and never dipping alone"
+  },
+  {
+    "id": "device_stress",
+    "title": "Google — Find out what data Fitbit collects for Fitbit account users",
+    "url": "https://support.google.com/product-documentation/answer/14779613?hl=en",
+    "kind": "Manufacturer documentation",
+    "support_vi": "Các loại dữ liệu, điện dẫn da và điểm stress trên từng thiết bị",
+    "support_en": "Device-specific data types, EDA and stress scores"
+  },
+  {
+    "id": "pelvic_women_relax",
+    "title": "Cambridge University Hospitals — Female pelvic floor muscle exercises",
+    "url": "https://www.cuh.nhs.uk/patient-information/female-pelvic-floor-muscle-exercises/",
+    "kind": "Physiotherapy patient guidance",
+    "support_vi": "Cần thả lỏng đầy đủ giữa các lần co cơ",
+    "support_en": "Full relaxation between pelvic-floor contractions"
+  }
+]

@@ -2207,3 +2207,7 @@ body {
     padding: 1rem 0.85rem;
   }
 }
+/* Shared by the article language containers, SPA views and modal controls. */
+.hidden {
+  display: none !important;
+}
