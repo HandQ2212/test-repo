@@ -92,8 +92,8 @@ const uiStrings = {
     standaloneFile: '📄 Standalone File ↗',
     authorBoard: 'Pulse & Vitality • Health education',
     metaRef: 'Primary reference:',
-    metaScreen: 'Mapped Screen:',
-    metaMetric: 'Biometric:',
+    metaScreen: 'Updated:',
+    metaMetric: 'Clinical review:',
     takeawayHeader: 'Key Actionable Takeaway',
     citationHeader: 'References and evidence limits',
     citationDesc: (source) => `Primary reference: <strong>${source}</strong>. The article lists additional sources and what each supports. Content updated 26 October 2026; clinical sign-off has not been recorded.`,
@@ -133,8 +133,8 @@ const uiStrings = {
     standaloneFile: '📄 Mở trang HTML riêng ↗',
     authorBoard: 'Pulse & Vitality • Nội dung giáo dục sức khỏe',
     metaRef: 'Nguồn tham khảo chính:',
-    metaScreen: 'Màn hình App:',
-    metaMetric: 'Chỉ số đo:',
+    metaScreen: 'Cập nhật:',
+    metaMetric: 'Duyệt lâm sàng:',
     takeawayHeader: 'Điểm Cốt Lõi & Hành Động Thực Tế',
     citationHeader: 'Nguồn tham khảo và giới hạn bằng chứng',
     citationDesc: (source) => `Nguồn chính: <strong>${source}</strong>. Danh mục trong bài ghi rõ các nguồn khác và phạm vi hỗ trợ. Cập nhật 26/10/2026; chưa có xác nhận duyệt bởi bác sĩ.`,
@@ -534,8 +534,8 @@ function openFullArticleView(art, updateHash = true) {
   if (srcEl) {
     srcEl.innerHTML = `<a href="${art.source_url}" target="_blank" rel="noopener noreferrer" style="color: inherit; text-decoration: underline; font-weight: 700;">${art.source_name} ↗</a>`;
   }
-  document.getElementById('art-view-screen').textContent = art.screen;
-  document.getElementById('art-view-metric').textContent = art.metric;
+  document.getElementById('art-view-screen').textContent = art.source_checked_date;
+  document.getElementById('art-view-metric').textContent = currentLang === 'vi' ? 'Chưa có xác nhận' : 'Not recorded';
 
   // Set Takeaway
   document.getElementById('art-view-takeaway').textContent = takeaway;

@@ -258,9 +258,9 @@ for i, art in enumerate(articles):
           <div class="meta-details">
             <span>Nguồn tham khảo chính: <a href="{art['source_url']}" target="_blank" rel="noopener noreferrer" style="color: inherit; text-decoration: underline; font-weight: 700;">{art['source_name']} ↗</a></span>
             <span class="meta-dot">•</span>
-            <span>Màn hình App: <strong>{art['screen']}</strong></span>
+            <span>Cập nhật: <strong>{art['source_checked_date']}</strong></span>
             <span class="meta-dot">•</span>
-            <span>Chỉ số: <strong>{art['metric']}</strong></span>
+            <span>Duyệt lâm sàng: <strong>Chưa có xác nhận</strong></span>
           </div>
         </div>
       </div>
@@ -348,9 +348,9 @@ for i, art in enumerate(articles):
           <div class="meta-details">
             <span>Primary reference: <a href="{art['source_url']}" target="_blank" rel="noopener noreferrer" style="color: inherit; text-decoration: underline; font-weight: 700;">{art['source_name']} ↗</a></span>
             <span class="meta-dot">•</span>
-            <span>Mapped Screen: <strong>{art['screen']}</strong></span>
+            <span>Updated: <strong>{art['source_checked_date']}</strong></span>
             <span class="meta-dot">•</span>
-            <span>Biometric: <strong>{art['metric']}</strong></span>
+            <span>Clinical review: <strong>Not recorded</strong></span>
           </div>
         </div>
       </div>
