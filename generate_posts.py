@@ -55,7 +55,7 @@ def render_article_markdown(md_text, inline_img_src, inline_caption, inline_sour
     body_html = re.sub(r'<pre><code class="(?:language-)?mermaid">([\s\S]*?)</code></pre>', repl_mermaid, body_html)
 
     if "article-inline-diagram" not in body_html and inline_img_src:
-        src_label = "Editorial summary artwork ↗" if lang == "en" else "Mở sơ đồ tóm tắt biên tập ↗"
+        src_label = "View figure ↗" if lang == "en" else "Xem hình và sơ đồ ↗"
         inline_diagram_html = f"""
         <figure class="article-inline-diagram">
           <img src="{inline_img_src}" alt="{inline_caption}" loading="lazy">
@@ -248,7 +248,7 @@ for i, art in enumerate(articles):
 
       <figure class="article-featured-hero">
         <img src="{hero_img_src}" alt="{title_vi}">
-        <figcaption>{title_vi} • <a href="{hero_source_url}" target="_blank" rel="noopener noreferrer" class="img-source-badge">Mở minh họa biên tập gốc ↗</a></figcaption>
+        <figcaption>{title_vi} • <a href="{hero_source_url}" target="_blank" rel="noopener noreferrer" class="img-source-badge">Xem ảnh lớn ↗</a></figcaption>
       </figure>
 
       <div class="article-metadata-card">
@@ -338,7 +338,7 @@ for i, art in enumerate(articles):
 
       <figure class="article-featured-hero">
         <img src="{hero_img_src}" alt="{title_en}">
-        <figcaption>{title_en} • <a href="{hero_source_url}" target="_blank" rel="noopener noreferrer" class="img-source-badge">Original editorial artwork ↗</a></figcaption>
+        <figcaption>{title_en} • <a href="{hero_source_url}" target="_blank" rel="noopener noreferrer" class="img-source-badge">View full image ↗</a></figcaption>
       </figure>
 
       <div class="article-metadata-card">

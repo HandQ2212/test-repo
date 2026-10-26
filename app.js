@@ -70,7 +70,7 @@ const uiStrings = {
     brandSubtitle: 'Health & Human Performance Knowledge Hub',
     heroBadge: 'Health education • Sources and limitations',
     heroTitle: 'Evidence-Based Science for Sleep, Recovery, Activity & Longevity',
-    heroSubtitle: 'Explore 83 bilingual health guides with linked sources, practical advice and clearly labelled editorial illustrations.',
+    heroSubtitle: '83 in-depth bilingual articles with physiological explanations, comparison tables, practical situations and checked references.',
     searchPlaceholder: 'Search by topic, metric (HRV, Deep Sleep, BBT, VO2 Max, Kegel), or keywords...',
     labelCategory: 'Category:',
     labelFormat: 'Format:',
@@ -103,15 +103,15 @@ const uiStrings = {
     relatedHeading: (cat) => `Related Reads in ${cat}`,
     returnHubBottom: '← Back to Knowledge Hub & Search',
     scrollTopBottom: '↑ Back to Top',
-    heroPhotoSourceLabel: 'Original editorial artwork ↗',
-    inlineFigSourceLabel: 'Editorial summary artwork ↗',
+    heroPhotoSourceLabel: 'View full image ↗',
+    inlineFigSourceLabel: 'View figure ↗',
     gotIt: 'Got It'
   },
   vi: {
     brandSubtitle: 'Cẩm Nang Khoa Học Sức Khỏe & Thiết Bị Đeo Thông Minh',
     heroBadge: 'Kiến thức sức khỏe • Nguồn và giới hạn bằng chứng',
     heroTitle: 'Khoa Học Thực Chứng Về Giấc Ngủ, Phục Hồi, Vận Động & Sức Khỏe',
-    heroSubtitle: '83 bài song ngữ với nguồn trích dẫn, hướng dẫn thực tế và minh họa biên tập được ghi rõ xuất xứ.',
+    heroSubtitle: '83 bài chuyên sâu song ngữ: giải thích cơ chế, bảng so sánh, tình huống ứng dụng và nguồn đã đối chiếu.',
     searchPlaceholder: 'Tìm kiếm theo chủ đề, chỉ số (HRV, Ngủ sâu, BBT, VO2 Max, Kegel) hoặc từ khóa...',
     labelCategory: 'Chủ đề:',
     labelFormat: 'Định dạng:',
@@ -144,8 +144,8 @@ const uiStrings = {
     relatedHeading: (cat) => `Bài viết liên quan thuộc chủ đề ${cat}`,
     returnHubBottom: '← Quay lại Trang chủ & Tìm kiếm',
     scrollTopBottom: '↑ Lên đầu trang',
-    heroPhotoSourceLabel: 'Mở minh họa biên tập gốc ↗',
-    inlineFigSourceLabel: 'Mở sơ đồ tóm tắt biên tập ↗',
+    heroPhotoSourceLabel: 'Xem ảnh lớn ↗',
+    inlineFigSourceLabel: 'Xem hình và sơ đồ ↗',
     gotIt: 'Đã hiểu'
   }
 };
@@ -291,6 +291,7 @@ function applyUITranslations() {
 
 // Load Data
 async function init() {
+  setupEventListeners();
   if (window.ARTICLES_DATA && Array.isArray(window.ARTICLES_DATA)) {
     allArticles = window.ARTICLES_DATA;
   } else {
@@ -304,7 +305,6 @@ async function init() {
   }
 
   setLanguage(currentLang);
-  setupEventListeners();
   checkHashRoute();
 }
 

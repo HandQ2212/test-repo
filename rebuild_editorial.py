@@ -200,8 +200,8 @@ def sync_master(articles, audit_rows, sources, link_results):
     schema=wb['HDSD_Data_Schema']
     example=articles[0]
     schema_changes={
-        'Hero_Image_Source_URL':('Original editorial artwork','Mở minh họa gốc do dự án tạo','URL của SVG biên tập; không phải ảnh Unsplash hay bằng chứng y khoa.'),
-        'Inline_Figure_Source_URL':('Original editorial summary','Mở sơ đồ tóm tắt do dự án tạo','URL của SVG biên tập; không phải hình sao chép từ nghiên cứu.'),
+        'Hero_Image_Source_URL':('Project image library','Mở ảnh minh họa đang dùng','URL file trong thư viện ban đầu; không tự xác nhận tác giả hoặc giấy phép bên ngoài.'),
+        'Inline_Figure_Source_URL':('Illustrative figure','Mở hình hoặc sơ đồ đang dùng','Hình minh họa phù hợp hoặc SVG biên tập; không phải bằng chứng kết quả nghiên cứu.'),
         'Source_URL':('Primary reference','Nguồn tham khảo chính','Một nguồn chính; xem Reference_List_JSON và Source_Register để biết đầy đủ nguồn và phạm vi hỗ trợ.'),
         'Source_App_Name':('Reference label','Tên nguồn tham khảo chính','Tên cơ quan hoặc nghiên cứu; không hàm ý cơ quan đó bảo trợ website.'),
     }
@@ -293,6 +293,8 @@ def main():
     sources={s['id']:s for s in read_tsv('editorial_sources.tsv')}
     rows=[r for name in ['editorial_articles.tsv','editorial_women.tsv','editorial_men.tsv'] for r in read_tsv(name)]
     catalog={r['id']:r for r in rows}
+    from build_longform import build as build_longform
+    longform=build_longform(sources,catalog)
     articles=json.loads((BASE/'articles.json').read_text())
     assert len(catalog)==len(rows)==len(articles)==83
     assert set(catalog)=={a['id'] for a in articles}
@@ -339,12 +341,26 @@ def main():
             a['hero_image_source_url' if kind=='hero' else 'inline_image_source_url']=f'{LIVE_URL}/{relative}'
             if FITNESS.exists():
                 dest=FITNESS/relative;dest.parent.mkdir(parents=True,exist_ok=True);shutil.copy2(p,dest)
+        a.update(longform[a['id']])
+        refs=a['references']
+        a['source_name']=refs[0]['title']
+        a['source_url']=refs[0]['url']
+        a['editorial_review_status']='Long-form development of original outline; sources checked'
+        for lang,body_key,time_key in [('vi','content_vi','reading_time_vi'),('en','content','reading_time')]:
+            text=re.split(r'(?m)^## (?:Nguồn tham khảo|References and what)',a[body_key])[0]
+            mins=max(1,math.ceil(len(text.split())/180))
+            a[time_key]=f'{mins} phút' if lang=='vi' else f'{mins} min'
+        for field in ['hero_image','inline_image']:
+            src=BASE/a[field]
+            assert src.is_file(),src
+            if FITNESS.exists():
+                dest=FITNESS/a[field];dest.parent.mkdir(parents=True,exist_ok=True);shutil.copy2(src,dest)
         a['thumbnail']=a['hero_image']
         manifest[a['id']]={
             'hero_local':a['hero_image'],'figure_local':a['inline_image'],
             'hero_source_page':a['hero_image_source_url'],'figure_source_page':a['inline_image_source_url'],
-            'creator':'Pulse & Vitality editorial assets','provenance':a['image_provenance'],
-            'license_note':'Original SVG assets created in this project; no external photo or figure attribution claimed.',
+            'creator':'Original project image library / editorial assets','provenance':a['image_provenance'],
+            'license_note':'Existing project raster assets restored; no new claim of upstream authorship or verified external licensing. SVG summaries are project-created.',
             'evidence_urls':[r['url'] for r in refs],
         }
         md=f'# {a["title_vi"]}\n\n## English title\n\n{a["title"]}\n\n---\n\n'+a['content_vi']+'\n---\n\n'+a['content']
@@ -355,12 +371,14 @@ def main():
         audit_rows.append({
             'Content_ID':a['id'],'Title_VI':a['title_vi'],'Original_Source_URL':previous['source_url'],
             'Original_PMID_Actual_Title':actual,
-            'Finding':'Confirmed unrelated canonical PMID' if a['id'] in CONFIRMED_MISMATCHES else 'Original body and citations replaced with bounded, directly cited guidance; no claim that every original reference was invalid',
+            'Finding':'Confirmed unrelated canonical PMID; corrected while developing the original long-form outline' if a['id'] in CONFIRMED_MISMATCHES else 'Original explanatory arc developed as a full article with scientific background, comparisons, worked situations and source limitations',
             'Content_Fix_VI':row['limits_vi'],
             'Image_Finding_VI':FIGURE_EXAMPLES.get(a['id'],'Không giữ nhãn ảnh y khoa xác thực khi chưa có đủ đối chiếu nội dung và quyền sử dụng.'),
-            'Image_Fix':'Replaced hero and inline figure with original, explicitly labelled editorial SVGs',
+            'Image_Fix':'Original photographic hero restored; relevant explanatory figures retained; mismatched figures excluded',
             'Revised_Source_URL':a['source_url'],'All_Source_URLs':'\n'.join(r['url'] for r in refs),
             'Action_VI':row['action_vi'],'Care_VI':row['care_vi'],
+            'Baseline_Revision':a['baseline_revision'],'Current_Words_EN':len(a['content'].split()),
+            'Current_Words_VI':len(a['content_vi'].split()),
             'Checked_Date':REVIEW_DATE,'Clinical_Review':'Not recorded','Public_URL':a['public_url'],
         })
     save_json(BASE/'articles.json',articles)

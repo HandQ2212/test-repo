@@ -558,5 +558,101 @@
     "kind": "Physiotherapy patient guidance",
     "support_vi": "Cần thả lỏng đầy đủ giữa các lần co cơ",
     "support_en": "Full relaxation between pelvic-floor contractions"
+  },
+  {
+    "id": "dorey_trial",
+    "title": "Dorey et al. (2004) — Randomised controlled trial of pelvic floor muscle exercises and manometric biofeedback for erectile dysfunction",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/15527607/",
+    "kind": "Randomized controlled trial",
+    "support_vi": "Tập sàn chậu kết hợp biofeedback và lối sống ở 55 nam giới có ED; không phải thử nghiệm app đơn lẻ",
+    "support_en": "Combined pelvic-floor training, biofeedback and lifestyle advice in 55 men with ED; not a stand-alone app trial"
+  },
+  {
+    "id": "pastore_study",
+    "title": "Pastore et al. (2014) — Pelvic floor muscle rehabilitation for patients with lifelong premature ejaculation: a novel therapeutic approach",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/24883105/",
+    "kind": "Small uncontrolled intervention study",
+    "support_vi": "Chương trình phục hồi 12 tuần ở 40 người; kết quả hứa hẹn với giới hạn thiết kế",
+    "support_en": "Twelve-week rehabilitation in 40 men; promising findings with design limitations"
+  },
+  {
+    "id": "esposito_trial",
+    "title": "Esposito et al. (2004) — Effect of lifestyle changes on erectile dysfunction in obese men: a randomized controlled trial",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/15213209/",
+    "kind": "Randomized controlled trial",
+    "support_vi": "Can thiệp lối sống phối hợp ở 110 nam giới béo phì; không tách hiệu quả một thực phẩm",
+    "support_en": "Combined lifestyle intervention in 110 obese men; not an isolated food effect"
+  },
+  {
+    "id": "liftmor",
+    "title": "Watson et al. (2018) — High-Intensity Resistance and Impact Training Improves Bone Mineral Density and Physical Function in Postmenopausal Women With Osteopenia and Osteoporosis: The LIFTMOR Randomized Controlled Trial",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/28975661/",
+    "kind": "Supervised randomized controlled trial",
+    "support_vi": "Tập có giám sát ở phụ nữ sau mãn kinh có khối lượng xương thấp",
+    "support_en": "Supervised training in postmenopausal women with low bone mass"
+  },
+  {
+    "id": "iron_bsg",
+    "title": "Snook et al. (2021) — British Society of Gastroenterology guidelines for the management of iron deficiency anaemia in adults",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/34497146/",
+    "kind": "Clinical practice guideline",
+    "support_vi": "Xác nhận thiếu sắt, diễn giải ferritin, tìm nguyên nhân và điều trị theo đáp ứng",
+    "support_en": "Iron deficiency confirmation, ferritin interpretation, cause investigation and response-based treatment"
+  },
+  {
+    "id": "gottman_ratio",
+    "title": "The Gottman Institute — The Magic Relationship Ratio, According to Science",
+    "url": "https://www.gottman.com/blog/the-magic-relationship-ratio-according-science/",
+    "kind": "First-party explanation of an observational relationship model",
+    "support_vi": "Nguồn của mô hình 5:1; không phải ngưỡng chẩn đoán hoặc công thức bảo đảm quan hệ",
+    "support_en": "Origin of the 5:1 model; not a diagnostic threshold or guaranteed relationship formula"
+  },
+  {
+    "id": "semen_who",
+    "title": "WHO (2021) — WHO laboratory manual for the examination and processing of human semen, sixth edition",
+    "url": "https://www.who.int/publications/i/item/9789240030787/",
+    "kind": "Laboratory manual",
+    "support_vi": "Quy trình xét nghiệm và giới hạn diễn giải thông số tinh dịch",
+    "support_en": "Laboratory procedures and limits of semen-parameter interpretation"
+  },
+  {
+    "id": "abstinence_retracted",
+    "title": "Jiang et al. (2003) — A research on the relationship between ejaculation and serum testosterone level in men [RETRACTED]",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/12659241/",
+    "kind": "Retracted paper — cited only to explain exclusion",
+    "support_vi": "Chỉ dẫn để giải thích vì sao loại bỏ lời khuyên dựa trên nghiên cứu đã thu hồi; không dùng làm bằng chứng hiệu quả",
+    "support_en": "Cited only to explain exclusion of an abstinence claim; not efficacy evidence"
+  },
+  {
+    "id": "openstax_cycle",
+    "title": "OpenStax Biology 2e — Hormonal Control of Human Reproduction",
+    "url": "https://openstax.org/books/biology-2e/pages/43-4-hormonal-control-of-human-reproduction",
+    "kind": "Physiology textbook",
+    "support_vi": "FSH, LH, hormone buồng trứng và trình tự sinh lý chu kỳ",
+    "support_en": "FSH, LH, ovarian hormones and the physiological cycle sequence"
+  },
+  {
+    "id": "openstax_gonadal",
+    "title": "OpenStax Anatomy and Physiology 2e — Gonadal and Placental Hormones",
+    "url": "https://openstax.org/books/anatomy-and-physiology-2e/pages/17-8-gonadal-and-placental-hormones",
+    "kind": "Physiology textbook",
+    "support_vi": "Điều hòa hormone sinh dục và phân biệt các chức năng tuyến sinh dục",
+    "support_en": "Gonadal hormone regulation and distinct gonadal functions"
+  },
+  {
+    "id": "pelvic_review",
+    "title": "Cohen et al. (2016) — The Role of Pelvic Floor Muscles in Male Sexual Dysfunction and Pelvic Pain",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/27872005/",
+    "kind": "Clinical review",
+    "support_vi": "Quan hệ giải phẫu, chức năng sàn chậu và tiếp cận sinh học–tâm lý–xã hội",
+    "support_en": "Pelvic anatomy, function and a biopsychosocial approach"
+  },
+  {
+    "id": "lue_review",
+    "title": "Lue (2000) — Erectile dysfunction",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/10853004/",
+    "kind": "Clinical physiology review",
+    "support_vi": "Cơ chế thần kinh–mạch máu của cương và đường NO/cGMP",
+    "support_en": "Neurovascular erection physiology and the NO/cGMP pathway"
   }
 ]

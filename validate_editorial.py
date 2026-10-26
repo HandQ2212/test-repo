@@ -12,6 +12,7 @@ BASE=Path(__file__).resolve().parent
 ROOT=BASE.parent
 sys.path.insert(0,str(BASE))
 from rebuild_editorial import CONFIRMED_MISMATCHES
+from build_longform import baseline as load_baseline
 
 class Links(HTMLParser):
     def __init__(self):
@@ -26,7 +27,11 @@ def main():
     assert json.loads(js.removeprefix('const articles = ').removesuffix(';'))==articles
     registry=json.loads((BASE/'data/references.json').read_text())
     sources={s['id']:s for s in registry}
-    assert len(sources)==len(registry)==70
+    with (BASE/'data/editorial_sources.tsv').open(newline='') as f:
+        expected_sources=list(csv.DictReader(f,delimiter='\t'))
+    assert len(sources)==len(registry)==len(expected_sources)==82
+    developed=json.loads((BASE/'data/longform_articles.json').read_text())
+    baseline={a['id']:a for a in load_baseline()}
     catalog={}
     for name in ['editorial_articles.tsv','editorial_women.tsv','editorial_men.tsv']:
         with (BASE/'data'/name).open(newline='') as f:
@@ -44,14 +49,21 @@ def main():
         for bodykey,lang in [('content_vi','vi'),('content','en')]:
             body=a[bodykey]
             for field in ['facts','action','limits','care']:assert catalog[aid][field+'_'+lang] in body
-            assert len(re.findall(r'^## ',body,re.M))==5
+            assert body==developed[aid][bodykey]
+            assert len(re.findall(r'^## ',body,re.M))>=7
+            prose=body.split('## References and what they support')[0].split('## Nguồn tham khảo và phạm vi hỗ trợ')[0]
+            assert len(prose.split())>=(600 if lang=='en' else 1000),(aid,lang,'insufficient depth')
+            assert '|---' in body.replace(' ',''),(aid,'missing comparison')
             for r in refs:assert r['url'] in body
             assert not re.search(r'TODO|TBD|Lorem ipsum|\[INSERT|example\.com',body)
         for field in ['hero_image','inline_image']:
             asset=BASE/a[field]
-            assert asset.is_file() and asset.suffix=='.svg'
-            assert ET.parse(asset).getroot().tag.endswith('svg')
-            assert 'Original editorial illustration' in asset.read_text()
+            assert asset.is_file() and asset.suffix.lower() in ['.svg','.jpg','.jpeg','.png','.webp']
+            if asset.suffix=='.svg':
+                assert ET.parse(asset).getroot().tag.endswith('svg')
+                assert 'Original editorial illustration' in asset.read_text()
+        assert a['hero_image']==baseline[aid]['hero_image']
+        assert a['baseline_revision']=='f68c786'
         page=(BASE/'posts'/f'{aid}.html').read_text();parser=Links();parser.feed(page)
         assert a['title'] in page and a['title_vi'] in page
         assert len(parser.images)>=4
@@ -76,7 +88,7 @@ def main():
             assert ws.cell(row,h[col]).value==a[key],(a['id'],col)
         assert ws.cell(row,h['Source_URL']).hyperlink.target==a['source_url']
         assert json.loads(ws.cell(row,h['Reference_List_JSON']).value)==a['references']
-    assert wb['Editorial_Audit'].max_row==84 and wb['Source_Register'].max_row==71
+    assert wb['Editorial_Audit'].max_row==84 and wb['Source_Register'].max_row==len(sources)+1
     for name in ['Master_Health_Articles_MVP.xlsx','Mens_Wellness_Content_Roadmap.xlsx','Master_Health_Articles_MVP - 30 Blog Topics.xlsx']:
         other=ROOT/'Fitness IOS'/name
         if other.exists():assert other.read_bytes()==(BASE/'docs'/name).read_bytes(),name
@@ -101,10 +113,11 @@ def main():
         for s in sources.values():
             match=re.search(r'pubmed.ncbi.nlm.nih.gov/(\d+)',s['url'])
             if match:
-                normalize=lambda t:re.sub(r'[^a-z0-9]','',t.lower())
+                normalize=lambda t:re.sub(r'[^a-z0-9]','',re.sub(r'\[retracted\]','',t.lower()))
                 title=normalize(s['title'].split(' — ',1)[-1])
                 assert title in normalize(records[match[1]]['title']),(s['id'],records[match[1]]['title'])
-    print('PASS: 83 bilingual articles; 70 sources; 166 SVG assets; 83 HTML pages; JS/JSON/Markdown/Excel parity; citation regression checks.')
+    restored=sum(a['inline_image']==baseline[a['id']]['inline_image'] for a in articles)
+    print(f'PASS: 83 in-depth bilingual articles; {len(sources)} sources; 83 restored hero photos, {restored} retained figures; 83 HTML pages; JS/JSON/Markdown/Excel parity; citation regression checks.')
     print('HTTP access and editorial assessment are separate. Clinical sign-off has not been recorded.')
 
 if __name__=='__main__':main()

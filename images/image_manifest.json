@@ -1,1131 +1,1559 @@
 {
   "LM_SL_01": {
-    "hero_local": "images/editorial/LM_SL_01_hero.svg",
-    "figure_local": "images/editorial/LM_SL_01_summary.svg",
-    "hero_source_page": "https://test-repo-y1wb.onrender.com/images/editorial/LM_SL_01_hero.svg",
-    "figure_source_page": "https://test-repo-y1wb.onrender.com/images/editorial/LM_SL_01_summary.svg",
-    "creator": "Pulse & Vitality editorial assets",
-    "provenance": "Original project-owned SVG editorial illustration; not a study figure",
-    "license_note": "Original SVG assets created in this project; no external photo or figure attribution claimed.",
+    "hero_local": "images/LM_SL_01_hero.jpg",
+    "figure_local": "images/LM_SL_01_figure.jpg",
+    "hero_source_page": "https://test-repo-y1wb.onrender.com/images/LM_SL_01_hero.jpg",
+    "figure_source_page": "https://test-repo-y1wb.onrender.com/images/LM_SL_01_figure.jpg",
+    "creator": "Original project image library / editorial assets",
+    "provenance": "Hero restored from the original project library. Retained diagrams are illustrations, not study outcome data; other inline visuals are original editorial summaries.",
+    "license_note": "Existing project raster assets restored; no new claim of upstream authorship or verified external licensing. SVG summaries are project-created.",
     "evidence_urls": [
       "https://pubmed.ncbi.nlm.nih.gov/34314344/",
       "https://www.nhlbi.nih.gov/health/sleep/how-much-sleep",
-      "https://www.nhlbi.nih.gov/health/sleep-apnea/symptoms"
+      "https://www.nhlbi.nih.gov/health/sleep-apnea/symptoms",
+      "https://www.nhlbi.nih.gov/health/sleep/stages-of-sleep",
+      "https://www.nhlbi.nih.gov/health/sleep/sleep-wake-cycle",
+      "https://www.nhlbi.nih.gov/health/sleep-deprivation/healthy-sleep-habits"
     ]
   },
   "LM_SL_02": {
-    "hero_local": "images/editorial/LM_SL_02_hero.svg",
-    "figure_local": "images/editorial/LM_SL_02_summary.svg",
-    "hero_source_page": "https://test-repo-y1wb.onrender.com/images/editorial/LM_SL_02_hero.svg",
-    "figure_source_page": "https://test-repo-y1wb.onrender.com/images/editorial/LM_SL_02_summary.svg",
-    "creator": "Pulse & Vitality editorial assets",
-    "provenance": "Original project-owned SVG editorial illustration; not a study figure",
-    "license_note": "Original SVG assets created in this project; no external photo or figure attribution claimed.",
+    "hero_local": "images/LM_SL_02_hero.jpg",
+    "figure_local": "images/LM_SL_02_figure.png",
+    "hero_source_page": "https://test-repo-y1wb.onrender.com/images/LM_SL_02_hero.jpg",
+    "figure_source_page": "https://test-repo-y1wb.onrender.com/images/LM_SL_02_figure.png",
+    "creator": "Original project image library / editorial assets",
+    "provenance": "Hero restored from the original project library. Retained diagrams are illustrations, not study outcome data; other inline visuals are original editorial summaries.",
+    "license_note": "Existing project raster assets restored; no new claim of upstream authorship or verified external licensing. SVG summaries are project-created.",
     "evidence_urls": [
       "https://www.nhlbi.nih.gov/health/sleep/stages-of-sleep",
       "https://pubmed.ncbi.nlm.nih.gov/34314344/",
-      "https://www.nhlbi.nih.gov/health/sleep-apnea/symptoms"
-    ]
-  },
-  "DM_SL_01": {
-    "hero_local": "images/editorial/DM_SL_01_hero.svg",
-    "figure_local": "images/editorial/DM_SL_01_summary.svg",
-    "hero_source_page": "https://test-repo-y1wb.onrender.com/images/editorial/DM_SL_01_hero.svg",
-    "figure_source_page": "https://test-repo-y1wb.onrender.com/images/editorial/DM_SL_01_summary.svg",
-    "creator": "Pulse & Vitality editorial assets",
-    "provenance": "Original project-owned SVG editorial illustration; not a study figure",
-    "license_note": "Original SVG assets created in this project; no external photo or figure attribution claimed.",
-    "evidence_urls": [
-      "https://www.nhlbi.nih.gov/health/sleep/stages-of-sleep",
-      "https://www.nhlbi.nih.gov/health/sleep-deprivation/healthy-sleep-habits",
-      "https://www.nhlbi.nih.gov/health/sleep-apnea/symptoms"
-    ]
-  },
-  "DM_SL_02": {
-    "hero_local": "images/editorial/DM_SL_02_hero.svg",
-    "figure_local": "images/editorial/DM_SL_02_summary.svg",
-    "hero_source_page": "https://test-repo-y1wb.onrender.com/images/editorial/DM_SL_02_hero.svg",
-    "figure_source_page": "https://test-repo-y1wb.onrender.com/images/editorial/DM_SL_02_summary.svg",
-    "creator": "Pulse & Vitality editorial assets",
-    "provenance": "Original project-owned SVG editorial illustration; not a study figure",
-    "license_note": "Original SVG assets created in this project; no external photo or figure attribution claimed.",
-    "evidence_urls": [
+      "https://www.nhlbi.nih.gov/health/sleep-apnea/symptoms",
       "https://www.nhlbi.nih.gov/health/sleep/how-much-sleep",
       "https://www.nhlbi.nih.gov/health/sleep/sleep-wake-cycle",
       "https://www.nhlbi.nih.gov/health/sleep-deprivation/healthy-sleep-habits"
     ]
   },
+  "DM_SL_01": {
+    "hero_local": "images/DM_SL_01_hero.jpg",
+    "figure_local": "images/DM_SL_01_figure.jpg",
+    "hero_source_page": "https://test-repo-y1wb.onrender.com/images/DM_SL_01_hero.jpg",
+    "figure_source_page": "https://test-repo-y1wb.onrender.com/images/DM_SL_01_figure.jpg",
+    "creator": "Original project image library / editorial assets",
+    "provenance": "Hero restored from the original project library. Retained diagrams are illustrations, not study outcome data; other inline visuals are original editorial summaries.",
+    "license_note": "Existing project raster assets restored; no new claim of upstream authorship or verified external licensing. SVG summaries are project-created.",
+    "evidence_urls": [
+      "https://www.nhlbi.nih.gov/health/sleep/stages-of-sleep",
+      "https://www.nhlbi.nih.gov/health/sleep-deprivation/healthy-sleep-habits",
+      "https://www.nhlbi.nih.gov/health/sleep-apnea/symptoms",
+      "https://pubmed.ncbi.nlm.nih.gov/34314344/",
+      "https://www.nhlbi.nih.gov/health/sleep/sleep-wake-cycle",
+      "https://www.nhlbi.nih.gov/health/sleep/how-much-sleep"
+    ]
+  },
+  "DM_SL_02": {
+    "hero_local": "images/DM_SL_02_hero.jpg",
+    "figure_local": "images/editorial/DM_SL_02_summary.svg",
+    "hero_source_page": "https://test-repo-y1wb.onrender.com/images/DM_SL_02_hero.jpg",
+    "figure_source_page": "https://test-repo-y1wb.onrender.com/images/editorial/DM_SL_02_summary.svg",
+    "creator": "Original project image library / editorial assets",
+    "provenance": "Hero restored from the original project library. Retained diagrams are illustrations, not study outcome data; other inline visuals are original editorial summaries.",
+    "license_note": "Existing project raster assets restored; no new claim of upstream authorship or verified external licensing. SVG summaries are project-created.",
+    "evidence_urls": [
+      "https://www.nhlbi.nih.gov/health/sleep/how-much-sleep",
+      "https://www.nhlbi.nih.gov/health/sleep/sleep-wake-cycle",
+      "https://www.nhlbi.nih.gov/health/sleep-deprivation/healthy-sleep-habits",
+      "https://pubmed.ncbi.nlm.nih.gov/34314344/",
+      "https://www.nhlbi.nih.gov/health/sleep/stages-of-sleep"
+    ]
+  },
   "LM_RC_01": {
-    "hero_local": "images/editorial/LM_RC_01_hero.svg",
-    "figure_local": "images/editorial/LM_RC_01_summary.svg",
-    "hero_source_page": "https://test-repo-y1wb.onrender.com/images/editorial/LM_RC_01_hero.svg",
-    "figure_source_page": "https://test-repo-y1wb.onrender.com/images/editorial/LM_RC_01_summary.svg",
-    "creator": "Pulse & Vitality editorial assets",
-    "provenance": "Original project-owned SVG editorial illustration; not a study figure",
-    "license_note": "Original SVG assets created in this project; no external photo or figure attribution claimed.",
+    "hero_local": "images/LM_RC_01_hero.jpg",
+    "figure_local": "images/LM_RC_01_figure.png",
+    "hero_source_page": "https://test-repo-y1wb.onrender.com/images/LM_RC_01_hero.jpg",
+    "figure_source_page": "https://test-repo-y1wb.onrender.com/images/LM_RC_01_figure.png",
+    "creator": "Original project image library / editorial assets",
+    "provenance": "Hero restored from the original project library. Retained diagrams are illustrations, not study outcome data; other inline visuals are original editorial summaries.",
+    "license_note": "Existing project raster assets restored; no new claim of upstream authorship or verified external licensing. SVG summaries are project-created.",
     "evidence_urls": [
       "https://pubmed.ncbi.nlm.nih.gov/29034226/",
       "https://pubmed.ncbi.nlm.nih.gov/27680542/",
-      "https://www.heart.org/en/health-topics/high-blood-pressure/the-facts-about-high-blood-pressure/all-about-heart-rate-pulse"
+      "https://www.heart.org/en/health-topics/high-blood-pressure/the-facts-about-high-blood-pressure/all-about-heart-rate-pulse",
+      "https://pubmed.ncbi.nlm.nih.gov/29345524/",
+      "https://pubmed.ncbi.nlm.nih.gov/27881567/",
+      "https://pubmed.ncbi.nlm.nih.gov/30245619/"
     ]
   },
   "LM_RC_02": {
-    "hero_local": "images/editorial/LM_RC_02_hero.svg",
-    "figure_local": "images/editorial/LM_RC_02_summary.svg",
-    "hero_source_page": "https://test-repo-y1wb.onrender.com/images/editorial/LM_RC_02_hero.svg",
-    "figure_source_page": "https://test-repo-y1wb.onrender.com/images/editorial/LM_RC_02_summary.svg",
-    "creator": "Pulse & Vitality editorial assets",
-    "provenance": "Original project-owned SVG editorial illustration; not a study figure",
-    "license_note": "Original SVG assets created in this project; no external photo or figure attribution claimed.",
+    "hero_local": "images/LM_RC_02_hero.jpg",
+    "figure_local": "images/LM_RC_02_figure.jpg",
+    "hero_source_page": "https://test-repo-y1wb.onrender.com/images/LM_RC_02_hero.jpg",
+    "figure_source_page": "https://test-repo-y1wb.onrender.com/images/LM_RC_02_figure.jpg",
+    "creator": "Original project image library / editorial assets",
+    "provenance": "Hero restored from the original project library. Retained diagrams are illustrations, not study outcome data; other inline visuals are original editorial summaries.",
+    "license_note": "Existing project raster assets restored; no new claim of upstream authorship or verified external licensing. SVG summaries are project-created.",
     "evidence_urls": [
       "https://www.heart.org/en/health-topics/high-blood-pressure/the-facts-about-high-blood-pressure/all-about-heart-rate-pulse",
-      "https://pubmed.ncbi.nlm.nih.gov/29345524/"
-    ]
-  },
-  "DM_RC_01": {
-    "hero_local": "images/editorial/DM_RC_01_hero.svg",
-    "figure_local": "images/editorial/DM_RC_01_summary.svg",
-    "hero_source_page": "https://test-repo-y1wb.onrender.com/images/editorial/DM_RC_01_hero.svg",
-    "figure_source_page": "https://test-repo-y1wb.onrender.com/images/editorial/DM_RC_01_summary.svg",
-    "creator": "Pulse & Vitality editorial assets",
-    "provenance": "Original project-owned SVG editorial illustration; not a study figure",
-    "license_note": "Original SVG assets created in this project; no external photo or figure attribution claimed.",
-    "evidence_urls": [
-      "https://pubmed.ncbi.nlm.nih.gov/30245619/",
-      "https://pubmed.ncbi.nlm.nih.gov/27680542/"
-    ]
-  },
-  "DM_RC_02": {
-    "hero_local": "images/editorial/DM_RC_02_hero.svg",
-    "figure_local": "images/editorial/DM_RC_02_summary.svg",
-    "hero_source_page": "https://test-repo-y1wb.onrender.com/images/editorial/DM_RC_02_hero.svg",
-    "figure_source_page": "https://test-repo-y1wb.onrender.com/images/editorial/DM_RC_02_summary.svg",
-    "creator": "Pulse & Vitality editorial assets",
-    "provenance": "Original project-owned SVG editorial illustration; not a study figure",
-    "license_note": "Original SVG assets created in this project; no external photo or figure attribution claimed.",
-    "evidence_urls": [
+      "https://pubmed.ncbi.nlm.nih.gov/29345524/",
+      "https://pubmed.ncbi.nlm.nih.gov/27881567/",
+      "https://pubmed.ncbi.nlm.nih.gov/29034226/",
+      "https://pubmed.ncbi.nlm.nih.gov/27680542/",
       "https://pubmed.ncbi.nlm.nih.gov/29663142/",
-      "https://pubmed.ncbi.nlm.nih.gov/29345524/"
-    ]
-  },
-  "LM_AC_01": {
-    "hero_local": "images/editorial/LM_AC_01_hero.svg",
-    "figure_local": "images/editorial/LM_AC_01_summary.svg",
-    "hero_source_page": "https://test-repo-y1wb.onrender.com/images/editorial/LM_AC_01_hero.svg",
-    "figure_source_page": "https://test-repo-y1wb.onrender.com/images/editorial/LM_AC_01_summary.svg",
-    "creator": "Pulse & Vitality editorial assets",
-    "provenance": "Original project-owned SVG editorial illustration; not a study figure",
-    "license_note": "Original SVG assets created in this project; no external photo or figure attribution claimed.",
-    "evidence_urls": [
-      "https://support.google.com/googlehealth/answer/14236509?hl=en",
       "https://www.who.int/news-room/fact-sheets/detail/physical-activity"
     ]
   },
-  "LM_AC_02": {
-    "hero_local": "images/editorial/LM_AC_02_hero.svg",
-    "figure_local": "images/editorial/LM_AC_02_summary.svg",
-    "hero_source_page": "https://test-repo-y1wb.onrender.com/images/editorial/LM_AC_02_hero.svg",
-    "figure_source_page": "https://test-repo-y1wb.onrender.com/images/editorial/LM_AC_02_summary.svg",
-    "creator": "Pulse & Vitality editorial assets",
-    "provenance": "Original project-owned SVG editorial illustration; not a study figure",
-    "license_note": "Original SVG assets created in this project; no external photo or figure attribution claimed.",
+  "DM_RC_01": {
+    "hero_local": "images/DM_RC_01_hero.jpg",
+    "figure_local": "images/editorial/DM_RC_01_summary.svg",
+    "hero_source_page": "https://test-repo-y1wb.onrender.com/images/DM_RC_01_hero.jpg",
+    "figure_source_page": "https://test-repo-y1wb.onrender.com/images/editorial/DM_RC_01_summary.svg",
+    "creator": "Original project image library / editorial assets",
+    "provenance": "Hero restored from the original project library. Retained diagrams are illustrations, not study outcome data; other inline visuals are original editorial summaries.",
+    "license_note": "Existing project raster assets restored; no new claim of upstream authorship or verified external licensing. SVG summaries are project-created.",
     "evidence_urls": [
-      "https://support.whoop.com/s/article/WHOOP-Strain",
-      "https://pubmed.ncbi.nlm.nih.gov/29345524/",
-      "https://pubmed.ncbi.nlm.nih.gov/23247672/"
+      "https://pubmed.ncbi.nlm.nih.gov/30245619/",
+      "https://pubmed.ncbi.nlm.nih.gov/27680542/",
+      "https://pubmed.ncbi.nlm.nih.gov/29034226/",
+      "https://www.heart.org/en/health-topics/high-blood-pressure/the-facts-about-high-blood-pressure/all-about-heart-rate-pulse"
     ]
   },
-  "DM_AC_01": {
-    "hero_local": "images/editorial/DM_AC_01_hero.svg",
-    "figure_local": "images/editorial/DM_AC_01_summary.svg",
-    "hero_source_page": "https://test-repo-y1wb.onrender.com/images/editorial/DM_AC_01_hero.svg",
-    "figure_source_page": "https://test-repo-y1wb.onrender.com/images/editorial/DM_AC_01_summary.svg",
-    "creator": "Pulse & Vitality editorial assets",
-    "provenance": "Original project-owned SVG editorial illustration; not a study figure",
-    "license_note": "Original SVG assets created in this project; no external photo or figure attribution claimed.",
+  "DM_RC_02": {
+    "hero_local": "images/DM_RC_02_hero.jpg",
+    "figure_local": "images/editorial/DM_RC_02_summary.svg",
+    "hero_source_page": "https://test-repo-y1wb.onrender.com/images/DM_RC_02_hero.jpg",
+    "figure_source_page": "https://test-repo-y1wb.onrender.com/images/editorial/DM_RC_02_summary.svg",
+    "creator": "Original project image library / editorial assets",
+    "provenance": "Hero restored from the original project library. Retained diagrams are illustrations, not study outcome data; other inline visuals are original editorial summaries.",
+    "license_note": "Existing project raster assets restored; no new claim of upstream authorship or verified external licensing. SVG summaries are project-created.",
     "evidence_urls": [
+      "https://pubmed.ncbi.nlm.nih.gov/29663142/",
+      "https://pubmed.ncbi.nlm.nih.gov/29345524/",
+      "https://pubmed.ncbi.nlm.nih.gov/23247672/",
+      "https://bjsm.bmj.com/content/57/17/1073",
       "https://www.cdc.gov/physicalactivity/basics/measuring/index.html",
       "https://www.who.int/news-room/fact-sheets/detail/physical-activity"
     ]
   },
+  "LM_AC_01": {
+    "hero_local": "images/LM_AC_01_hero.jpg",
+    "figure_local": "images/editorial/LM_AC_01_summary.svg",
+    "hero_source_page": "https://test-repo-y1wb.onrender.com/images/LM_AC_01_hero.jpg",
+    "figure_source_page": "https://test-repo-y1wb.onrender.com/images/editorial/LM_AC_01_summary.svg",
+    "creator": "Original project image library / editorial assets",
+    "provenance": "Hero restored from the original project library. Retained diagrams are illustrations, not study outcome data; other inline visuals are original editorial summaries.",
+    "license_note": "Existing project raster assets restored; no new claim of upstream authorship or verified external licensing. SVG summaries are project-created.",
+    "evidence_urls": [
+      "https://support.google.com/googlehealth/answer/14236509?hl=en",
+      "https://www.who.int/news-room/fact-sheets/detail/physical-activity",
+      "https://www.cdc.gov/physicalactivity/basics/measuring/index.html",
+      "https://support.whoop.com/s/article/WHOOP-Strain",
+      "https://pubmed.ncbi.nlm.nih.gov/29345524/",
+      "https://pubmed.ncbi.nlm.nih.gov/29663142/"
+    ]
+  },
+  "LM_AC_02": {
+    "hero_local": "images/LM_AC_02_hero.jpg",
+    "figure_local": "images/editorial/LM_AC_02_summary.svg",
+    "hero_source_page": "https://test-repo-y1wb.onrender.com/images/LM_AC_02_hero.jpg",
+    "figure_source_page": "https://test-repo-y1wb.onrender.com/images/editorial/LM_AC_02_summary.svg",
+    "creator": "Original project image library / editorial assets",
+    "provenance": "Hero restored from the original project library. Retained diagrams are illustrations, not study outcome data; other inline visuals are original editorial summaries.",
+    "license_note": "Existing project raster assets restored; no new claim of upstream authorship or verified external licensing. SVG summaries are project-created.",
+    "evidence_urls": [
+      "https://support.whoop.com/s/article/WHOOP-Strain",
+      "https://pubmed.ncbi.nlm.nih.gov/29345524/",
+      "https://pubmed.ncbi.nlm.nih.gov/23247672/",
+      "https://www.cdc.gov/physicalactivity/basics/measuring/index.html",
+      "https://www.who.int/news-room/fact-sheets/detail/physical-activity",
+      "https://bjsm.bmj.com/content/57/17/1073",
+      "https://pubmed.ncbi.nlm.nih.gov/29663142/"
+    ]
+  },
+  "DM_AC_01": {
+    "hero_local": "images/DM_AC_01_hero.jpg",
+    "figure_local": "images/editorial/DM_AC_01_summary.svg",
+    "hero_source_page": "https://test-repo-y1wb.onrender.com/images/DM_AC_01_hero.jpg",
+    "figure_source_page": "https://test-repo-y1wb.onrender.com/images/editorial/DM_AC_01_summary.svg",
+    "creator": "Original project image library / editorial assets",
+    "provenance": "Hero restored from the original project library. Retained diagrams are illustrations, not study outcome data; other inline visuals are original editorial summaries.",
+    "license_note": "Existing project raster assets restored; no new claim of upstream authorship or verified external licensing. SVG summaries are project-created.",
+    "evidence_urls": [
+      "https://www.cdc.gov/physicalactivity/basics/measuring/index.html",
+      "https://www.who.int/news-room/fact-sheets/detail/physical-activity",
+      "https://pubmed.ncbi.nlm.nih.gov/27881567/",
+      "https://pubmed.ncbi.nlm.nih.gov/29663142/",
+      "https://pubmed.ncbi.nlm.nih.gov/29345524/"
+    ]
+  },
   "DM_AC_02": {
-    "hero_local": "images/editorial/DM_AC_02_hero.svg",
+    "hero_local": "images/DM_AC_02_hero.jpg",
     "figure_local": "images/editorial/DM_AC_02_summary.svg",
-    "hero_source_page": "https://test-repo-y1wb.onrender.com/images/editorial/DM_AC_02_hero.svg",
+    "hero_source_page": "https://test-repo-y1wb.onrender.com/images/DM_AC_02_hero.jpg",
     "figure_source_page": "https://test-repo-y1wb.onrender.com/images/editorial/DM_AC_02_summary.svg",
-    "creator": "Pulse & Vitality editorial assets",
-    "provenance": "Original project-owned SVG editorial illustration; not a study figure",
-    "license_note": "Original SVG assets created in this project; no external photo or figure attribution claimed.",
+    "creator": "Original project image library / editorial assets",
+    "provenance": "Hero restored from the original project library. Retained diagrams are illustrations, not study outcome data; other inline visuals are original editorial summaries.",
+    "license_note": "Existing project raster assets restored; no new claim of upstream authorship or verified external licensing. SVG summaries are project-created.",
     "evidence_urls": [
       "https://pubmed.ncbi.nlm.nih.gov/23247672/",
       "https://pubmed.ncbi.nlm.nih.gov/29345524/",
-      "https://bjsm.bmj.com/content/57/17/1073"
+      "https://bjsm.bmj.com/content/57/17/1073",
+      "https://www.nhs.uk/symptoms/missed-or-late-periods/",
+      "https://pubmed.ncbi.nlm.nih.gov/29663142/"
     ]
   },
   "LM_HW_01": {
-    "hero_local": "images/editorial/LM_HW_01_hero.svg",
+    "hero_local": "images/LM_HW_01_hero.jpg",
     "figure_local": "images/editorial/LM_HW_01_summary.svg",
-    "hero_source_page": "https://test-repo-y1wb.onrender.com/images/editorial/LM_HW_01_hero.svg",
+    "hero_source_page": "https://test-repo-y1wb.onrender.com/images/LM_HW_01_hero.jpg",
     "figure_source_page": "https://test-repo-y1wb.onrender.com/images/editorial/LM_HW_01_summary.svg",
-    "creator": "Pulse & Vitality editorial assets",
-    "provenance": "Original project-owned SVG editorial illustration; not a study figure",
-    "license_note": "Original SVG assets created in this project; no external photo or figure attribution claimed.",
+    "creator": "Original project image library / editorial assets",
+    "provenance": "Hero restored from the original project library. Retained diagrams are illustrations, not study outcome data; other inline visuals are original editorial summaries.",
+    "license_note": "Existing project raster assets restored; no new claim of upstream authorship or verified external licensing. SVG summaries are project-created.",
     "evidence_urls": [
       "https://pubmed.ncbi.nlm.nih.gov/27680542/",
       "https://pubmed.ncbi.nlm.nih.gov/30245619/",
       "https://www.nhs.uk/every-mind-matters/lifes-challenges/maintaining-healthy-relationships-and-mental-wellbeing/",
-      "https://support.google.com/product-documentation/answer/14779613?hl=en"
-    ]
-  },
-  "LM_HW_02": {
-    "hero_local": "images/editorial/LM_HW_02_hero.svg",
-    "figure_local": "images/editorial/LM_HW_02_summary.svg",
-    "hero_source_page": "https://test-repo-y1wb.onrender.com/images/editorial/LM_HW_02_hero.svg",
-    "figure_source_page": "https://test-repo-y1wb.onrender.com/images/editorial/LM_HW_02_summary.svg",
-    "creator": "Pulse & Vitality editorial assets",
-    "provenance": "Original project-owned SVG editorial illustration; not a study figure",
-    "license_note": "Original SVG assets created in this project; no external photo or figure attribution claimed.",
-    "evidence_urls": [
-      "https://pubmed.ncbi.nlm.nih.gov/27881567/",
-      "https://www.who.int/news-room/fact-sheets/detail/physical-activity"
-    ]
-  },
-  "DM_HW_01": {
-    "hero_local": "images/editorial/DM_HW_01_hero.svg",
-    "figure_local": "images/editorial/DM_HW_01_summary.svg",
-    "hero_source_page": "https://test-repo-y1wb.onrender.com/images/editorial/DM_HW_01_hero.svg",
-    "figure_source_page": "https://test-repo-y1wb.onrender.com/images/editorial/DM_HW_01_summary.svg",
-    "creator": "Pulse & Vitality editorial assets",
-    "provenance": "Original project-owned SVG editorial illustration; not a study figure",
-    "license_note": "Original SVG assets created in this project; no external photo or figure attribution claimed.",
-    "evidence_urls": [
-      "https://pubmed.ncbi.nlm.nih.gov/36630953/",
-      "https://pubmed.ncbi.nlm.nih.gov/30245619/"
-    ]
-  },
-  "DM_HW_02": {
-    "hero_local": "images/editorial/DM_HW_02_hero.svg",
-    "figure_local": "images/editorial/DM_HW_02_summary.svg",
-    "hero_source_page": "https://test-repo-y1wb.onrender.com/images/editorial/DM_HW_02_hero.svg",
-    "figure_source_page": "https://test-repo-y1wb.onrender.com/images/editorial/DM_HW_02_summary.svg",
-    "creator": "Pulse & Vitality editorial assets",
-    "provenance": "Original project-owned SVG editorial illustration; not a study figure",
-    "license_note": "Original SVG assets created in this project; no external photo or figure attribution claimed.",
-    "evidence_urls": [
-      "https://pubmed.ncbi.nlm.nih.gov/25705824/",
-      "https://pubmed.ncbi.nlm.nih.gov/26174323/",
-      "https://rnli.org/water-safety/choose-your-activity/cold-water-dipping"
-    ]
-  },
-  "LM_WH_01": {
-    "hero_local": "images/editorial/LM_WH_01_hero.svg",
-    "figure_local": "images/editorial/LM_WH_01_summary.svg",
-    "hero_source_page": "https://test-repo-y1wb.onrender.com/images/editorial/LM_WH_01_hero.svg",
-    "figure_source_page": "https://test-repo-y1wb.onrender.com/images/editorial/LM_WH_01_summary.svg",
-    "creator": "Pulse & Vitality editorial assets",
-    "provenance": "Original project-owned SVG editorial illustration; not a study figure",
-    "license_note": "Original SVG assets created in this project; no external photo or figure attribution claimed.",
-    "evidence_urls": [
-      "https://www.nhs.uk/conditions/periods/",
-      "https://www.acog.org/womens-health/faqs/fertility-awareness-based-methods-of-family-planning",
-      "https://www.nhs.uk/symptoms/missed-or-late-periods/"
-    ]
-  },
-  "LM_WH_02": {
-    "hero_local": "images/editorial/LM_WH_02_hero.svg",
-    "figure_local": "images/editorial/LM_WH_02_summary.svg",
-    "hero_source_page": "https://test-repo-y1wb.onrender.com/images/editorial/LM_WH_02_hero.svg",
-    "figure_source_page": "https://test-repo-y1wb.onrender.com/images/editorial/LM_WH_02_summary.svg",
-    "creator": "Pulse & Vitality editorial assets",
-    "provenance": "Original project-owned SVG editorial illustration; not a study figure",
-    "license_note": "Original SVG assets created in this project; no external photo or figure attribution claimed.",
-    "evidence_urls": [
-      "https://www.acog.org/womens-health/faqs/fertility-awareness-based-methods-of-family-planning",
-      "https://www.acog.org/womens-health/faqs/vulvovaginal-health"
-    ]
-  },
-  "LM_WH_03": {
-    "hero_local": "images/editorial/LM_WH_03_hero.svg",
-    "figure_local": "images/editorial/LM_WH_03_summary.svg",
-    "hero_source_page": "https://test-repo-y1wb.onrender.com/images/editorial/LM_WH_03_hero.svg",
-    "figure_source_page": "https://test-repo-y1wb.onrender.com/images/editorial/LM_WH_03_summary.svg",
-    "creator": "Pulse & Vitality editorial assets",
-    "provenance": "Original project-owned SVG editorial illustration; not a study figure",
-    "license_note": "Original SVG assets created in this project; no external photo or figure attribution claimed.",
-    "evidence_urls": [
-      "https://www.acog.org/womens-health/faqs/fertility-awareness-based-methods-of-family-planning",
-      "https://www.nhs.uk/pregnancy/trying-for-a-baby/doing-a-pregnancy-test/",
-      "https://www.nhs.uk/symptoms/missed-or-late-periods/"
-    ]
-  },
-  "DM_WH_01": {
-    "hero_local": "images/editorial/DM_WH_01_hero.svg",
-    "figure_local": "images/editorial/DM_WH_01_summary.svg",
-    "hero_source_page": "https://test-repo-y1wb.onrender.com/images/editorial/DM_WH_01_hero.svg",
-    "figure_source_page": "https://test-repo-y1wb.onrender.com/images/editorial/DM_WH_01_summary.svg",
-    "creator": "Pulse & Vitality editorial assets",
-    "provenance": "Original project-owned SVG editorial illustration; not a study figure",
-    "license_note": "Original SVG assets created in this project; no external photo or figure attribution claimed.",
-    "evidence_urls": [
-      "https://pubmed.ncbi.nlm.nih.gov/32661839/",
-      "https://pubmed.ncbi.nlm.nih.gov/37033884/",
-      "https://bjsm.bmj.com/content/57/17/1073"
-    ]
-  },
-  "DM_WH_02": {
-    "hero_local": "images/editorial/DM_WH_02_hero.svg",
-    "figure_local": "images/editorial/DM_WH_02_summary.svg",
-    "hero_source_page": "https://test-repo-y1wb.onrender.com/images/editorial/DM_WH_02_hero.svg",
-    "figure_source_page": "https://test-repo-y1wb.onrender.com/images/editorial/DM_WH_02_summary.svg",
-    "creator": "Pulse & Vitality editorial assets",
-    "provenance": "Original project-owned SVG editorial illustration; not a study figure",
-    "license_note": "Original SVG assets created in this project; no external photo or figure attribution claimed.",
-    "evidence_urls": [
-      "https://www.acog.org/womens-health/faqs/fertility-awareness-based-methods-of-family-planning",
-      "https://www.nhs.uk/symptoms/missed-or-late-periods/"
-    ]
-  },
-  "DM_WH_03": {
-    "hero_local": "images/editorial/DM_WH_03_hero.svg",
-    "figure_local": "images/editorial/DM_WH_03_summary.svg",
-    "hero_source_page": "https://test-repo-y1wb.onrender.com/images/editorial/DM_WH_03_hero.svg",
-    "figure_source_page": "https://test-repo-y1wb.onrender.com/images/editorial/DM_WH_03_summary.svg",
-    "creator": "Pulse & Vitality editorial assets",
-    "provenance": "Original project-owned SVG editorial illustration; not a study figure",
-    "license_note": "Original SVG assets created in this project; no external photo or figure attribution claimed.",
-    "evidence_urls": [
-      "https://www.nhs.uk/conditions/pre-menstrual-syndrome/",
-      "https://www.nhs.uk/conditions/periods/",
-      "https://www.who.int/news-room/fact-sheets/detail/healthy-diet"
-    ]
-  },
-  "LM_MH_01": {
-    "hero_local": "images/editorial/LM_MH_01_hero.svg",
-    "figure_local": "images/editorial/LM_MH_01_summary.svg",
-    "hero_source_page": "https://test-repo-y1wb.onrender.com/images/editorial/LM_MH_01_hero.svg",
-    "figure_source_page": "https://test-repo-y1wb.onrender.com/images/editorial/LM_MH_01_summary.svg",
-    "creator": "Pulse & Vitality editorial assets",
-    "provenance": "Original project-owned SVG editorial illustration; not a study figure",
-    "license_note": "Original SVG assets created in this project; no external photo or figure attribution claimed.",
-    "evidence_urls": [
-      "https://www.nth.nhs.uk/resources/pelvic-floor-exercises-for-men/",
-      "https://www.royalberkshire.nhs.uk/media/avwg3hls/pelvic-floor-strengthening-and-relaxation-exercises-for-men_jun24.pdf",
-      "https://www.niddk.nih.gov/health-information/urologic-diseases/erectile-dysfunction/symptoms-causes"
-    ]
-  },
-  "LM_MH_02": {
-    "hero_local": "images/editorial/LM_MH_02_hero.svg",
-    "figure_local": "images/editorial/LM_MH_02_summary.svg",
-    "hero_source_page": "https://test-repo-y1wb.onrender.com/images/editorial/LM_MH_02_hero.svg",
-    "figure_source_page": "https://test-repo-y1wb.onrender.com/images/editorial/LM_MH_02_summary.svg",
-    "creator": "Pulse & Vitality editorial assets",
-    "provenance": "Original project-owned SVG editorial illustration; not a study figure",
-    "license_note": "Original SVG assets created in this project; no external photo or figure attribution claimed.",
-    "evidence_urls": [
-      "https://www.nth.nhs.uk/resources/pelvic-floor-exercises-for-men/",
-      "https://www.royalberkshire.nhs.uk/media/avwg3hls/pelvic-floor-strengthening-and-relaxation-exercises-for-men_jun24.pdf"
-    ]
-  },
-  "LM_MH_03": {
-    "hero_local": "images/editorial/LM_MH_03_hero.svg",
-    "figure_local": "images/editorial/LM_MH_03_summary.svg",
-    "hero_source_page": "https://test-repo-y1wb.onrender.com/images/editorial/LM_MH_03_hero.svg",
-    "figure_source_page": "https://test-repo-y1wb.onrender.com/images/editorial/LM_MH_03_summary.svg",
-    "creator": "Pulse & Vitality editorial assets",
-    "provenance": "Original project-owned SVG editorial illustration; not a study figure",
-    "license_note": "Original SVG assets created in this project; no external photo or figure attribution claimed.",
-    "evidence_urls": [
-      "https://www.royalberkshire.nhs.uk/media/avwg3hls/pelvic-floor-strengthening-and-relaxation-exercises-for-men_jun24.pdf",
-      "https://www.niddk.nih.gov/health-information/urologic-diseases/erectile-dysfunction/treatment",
-      "https://www.nhs.uk/conditions/ejaculation-problems/"
-    ]
-  },
-  "DM_MH_01": {
-    "hero_local": "images/editorial/DM_MH_01_hero.svg",
-    "figure_local": "images/editorial/DM_MH_01_summary.svg",
-    "hero_source_page": "https://test-repo-y1wb.onrender.com/images/editorial/DM_MH_01_hero.svg",
-    "figure_source_page": "https://test-repo-y1wb.onrender.com/images/editorial/DM_MH_01_summary.svg",
-    "creator": "Pulse & Vitality editorial assets",
-    "provenance": "Original project-owned SVG editorial illustration; not a study figure",
-    "license_note": "Original SVG assets created in this project; no external photo or figure attribution claimed.",
-    "evidence_urls": [
-      "https://www.nhs.uk/conditions/ejaculation-problems/",
-      "https://www.royalberkshire.nhs.uk/media/avwg3hls/pelvic-floor-strengthening-and-relaxation-exercises-for-men_jun24.pdf",
-      "https://www.devonsexualhealth.nhs.uk/your-sexual-health/relationships-and-intimacy/"
-    ]
-  },
-  "DM_MH_02": {
-    "hero_local": "images/editorial/DM_MH_02_hero.svg",
-    "figure_local": "images/editorial/DM_MH_02_summary.svg",
-    "hero_source_page": "https://test-repo-y1wb.onrender.com/images/editorial/DM_MH_02_hero.svg",
-    "figure_source_page": "https://test-repo-y1wb.onrender.com/images/editorial/DM_MH_02_summary.svg",
-    "creator": "Pulse & Vitality editorial assets",
-    "provenance": "Original project-owned SVG editorial illustration; not a study figure",
-    "license_note": "Original SVG assets created in this project; no external photo or figure attribution claimed.",
-    "evidence_urls": [
-      "https://www.royalberkshire.nhs.uk/media/avwg3hls/pelvic-floor-strengthening-and-relaxation-exercises-for-men_jun24.pdf",
-      "https://www.niddk.nih.gov/health-information/urologic-diseases/erectile-dysfunction/symptoms-causes",
-      "https://www.nhs.uk/symptoms/testicle-pain/"
-    ]
-  },
-  "DM_MH_03": {
-    "hero_local": "images/editorial/DM_MH_03_hero.svg",
-    "figure_local": "images/editorial/DM_MH_03_summary.svg",
-    "hero_source_page": "https://test-repo-y1wb.onrender.com/images/editorial/DM_MH_03_hero.svg",
-    "figure_source_page": "https://test-repo-y1wb.onrender.com/images/editorial/DM_MH_03_summary.svg",
-    "creator": "Pulse & Vitality editorial assets",
-    "provenance": "Original project-owned SVG editorial illustration; not a study figure",
-    "license_note": "Original SVG assets created in this project; no external photo or figure attribution claimed.",
-    "evidence_urls": [
-      "https://www.niddk.nih.gov/health-information/urologic-diseases/erectile-dysfunction/symptoms-causes",
-      "https://www.niddk.nih.gov/health-information/urologic-diseases/erectile-dysfunction/treatment",
-      "https://www.devonsexualhealth.nhs.uk/your-sexual-health/relationships-and-intimacy/"
-    ]
-  },
-  "WH_04": {
-    "hero_local": "images/editorial/WH_04_hero.svg",
-    "figure_local": "images/editorial/WH_04_summary.svg",
-    "hero_source_page": "https://test-repo-y1wb.onrender.com/images/editorial/WH_04_hero.svg",
-    "figure_source_page": "https://test-repo-y1wb.onrender.com/images/editorial/WH_04_summary.svg",
-    "creator": "Pulse & Vitality editorial assets",
-    "provenance": "Original project-owned SVG editorial illustration; not a study figure",
-    "license_note": "Original SVG assets created in this project; no external photo or figure attribution claimed.",
-    "evidence_urls": [
-      "https://www.nhs.uk/symptoms/missed-or-late-periods/",
-      "https://www.nhs.uk/conditions/periods/",
-      "https://www.nhs.uk/pregnancy/trying-for-a-baby/doing-a-pregnancy-test/"
-    ]
-  },
-  "WH_06": {
-    "hero_local": "images/editorial/WH_06_hero.svg",
-    "figure_local": "images/editorial/WH_06_summary.svg",
-    "hero_source_page": "https://test-repo-y1wb.onrender.com/images/editorial/WH_06_hero.svg",
-    "figure_source_page": "https://test-repo-y1wb.onrender.com/images/editorial/WH_06_summary.svg",
-    "creator": "Pulse & Vitality editorial assets",
-    "provenance": "Original project-owned SVG editorial illustration; not a study figure",
-    "license_note": "Original SVG assets created in this project; no external photo or figure attribution claimed.",
-    "evidence_urls": [
-      "https://www.endocrine.org/patient-engagement/endocrine-library/hormones-and-endocrine-function/reproductive-hormones",
-      "https://www.nhs.uk/conditions/periods/",
-      "https://www.nhs.uk/conditions/menopause-and-perimenopause/symptoms/"
-    ]
-  },
-  "WH_07": {
-    "hero_local": "images/editorial/WH_07_hero.svg",
-    "figure_local": "images/editorial/WH_07_summary.svg",
-    "hero_source_page": "https://test-repo-y1wb.onrender.com/images/editorial/WH_07_hero.svg",
-    "figure_source_page": "https://test-repo-y1wb.onrender.com/images/editorial/WH_07_summary.svg",
-    "creator": "Pulse & Vitality editorial assets",
-    "provenance": "Original project-owned SVG editorial illustration; not a study figure",
-    "license_note": "Original SVG assets created in this project; no external photo or figure attribution claimed.",
-    "evidence_urls": [
-      "https://www.nhs.uk/conditions/pre-menstrual-syndrome/",
-      "https://www.nhs.uk/conditions/periods/"
-    ]
-  },
-  "WH_09": {
-    "hero_local": "images/editorial/WH_09_hero.svg",
-    "figure_local": "images/editorial/WH_09_summary.svg",
-    "hero_source_page": "https://test-repo-y1wb.onrender.com/images/editorial/WH_09_hero.svg",
-    "figure_source_page": "https://test-repo-y1wb.onrender.com/images/editorial/WH_09_summary.svg",
-    "creator": "Pulse & Vitality editorial assets",
-    "provenance": "Original project-owned SVG editorial illustration; not a study figure",
-    "license_note": "Original SVG assets created in this project; no external photo or figure attribution claimed.",
-    "evidence_urls": [
-      "https://www.nhs.uk/symptoms/loss-of-libido/",
-      "https://www.acog.org/womens-health/faqs/when-sex-is-painful",
-      "https://www.devonsexualhealth.nhs.uk/your-sexual-health/relationships-and-intimacy/"
-    ]
-  },
-  "WH_10": {
-    "hero_local": "images/editorial/WH_10_hero.svg",
-    "figure_local": "images/editorial/WH_10_summary.svg",
-    "hero_source_page": "https://test-repo-y1wb.onrender.com/images/editorial/WH_10_hero.svg",
-    "figure_source_page": "https://test-repo-y1wb.onrender.com/images/editorial/WH_10_summary.svg",
-    "creator": "Pulse & Vitality editorial assets",
-    "provenance": "Original project-owned SVG editorial illustration; not a study figure",
-    "license_note": "Original SVG assets created in this project; no external photo or figure attribution claimed.",
-    "evidence_urls": [
-      "https://www.nhs.uk/conditions/pre-menstrual-syndrome/",
-      "https://www.nhs.uk/conditions/periods/"
-    ]
-  },
-  "WH_11": {
-    "hero_local": "images/editorial/WH_11_hero.svg",
-    "figure_local": "images/editorial/WH_11_summary.svg",
-    "hero_source_page": "https://test-repo-y1wb.onrender.com/images/editorial/WH_11_hero.svg",
-    "figure_source_page": "https://test-repo-y1wb.onrender.com/images/editorial/WH_11_summary.svg",
-    "creator": "Pulse & Vitality editorial assets",
-    "provenance": "Original project-owned SVG editorial illustration; not a study figure",
-    "license_note": "Original SVG assets created in this project; no external photo or figure attribution claimed.",
-    "evidence_urls": [
-      "https://www.acog.org/womens-health/faqs/vulvovaginal-health",
-      "https://www.acog.org/womens-health/faqs/when-sex-is-painful"
-    ]
-  },
-  "WH_12": {
-    "hero_local": "images/editorial/WH_12_hero.svg",
-    "figure_local": "images/editorial/WH_12_summary.svg",
-    "hero_source_page": "https://test-repo-y1wb.onrender.com/images/editorial/WH_12_hero.svg",
-    "figure_source_page": "https://test-repo-y1wb.onrender.com/images/editorial/WH_12_summary.svg",
-    "creator": "Pulse & Vitality editorial assets",
-    "provenance": "Original project-owned SVG editorial illustration; not a study figure",
-    "license_note": "Original SVG assets created in this project; no external photo or figure attribution claimed.",
-    "evidence_urls": [
-      "https://www.acog.org/womens-health/faqs/when-sex-is-painful",
-      "https://www.acog.org/womens-health/faqs/vulvovaginal-health"
-    ]
-  },
-  "WH_13": {
-    "hero_local": "images/editorial/WH_13_hero.svg",
-    "figure_local": "images/editorial/WH_13_summary.svg",
-    "hero_source_page": "https://test-repo-y1wb.onrender.com/images/editorial/WH_13_hero.svg",
-    "figure_source_page": "https://test-repo-y1wb.onrender.com/images/editorial/WH_13_summary.svg",
-    "creator": "Pulse & Vitality editorial assets",
-    "provenance": "Original project-owned SVG editorial illustration; not a study figure",
-    "license_note": "Original SVG assets created in this project; no external photo or figure attribution claimed.",
-    "evidence_urls": [
-      "https://www.nhs.uk/conditions/urinary-incontinence/treatment/",
-      "https://www.acog.org/womens-health/faqs/when-sex-is-painful",
-      "https://www.cuh.nhs.uk/patient-information/female-pelvic-floor-muscle-exercises/"
-    ]
-  },
-  "WH_15": {
-    "hero_local": "images/editorial/WH_15_hero.svg",
-    "figure_local": "images/editorial/WH_15_summary.svg",
-    "hero_source_page": "https://test-repo-y1wb.onrender.com/images/editorial/WH_15_hero.svg",
-    "figure_source_page": "https://test-repo-y1wb.onrender.com/images/editorial/WH_15_summary.svg",
-    "creator": "Pulse & Vitality editorial assets",
-    "provenance": "Original project-owned SVG editorial illustration; not a study figure",
-    "license_note": "Original SVG assets created in this project; no external photo or figure attribution claimed.",
-    "evidence_urls": [
-      "https://pubmed.ncbi.nlm.nih.gov/32661839/",
-      "https://www.nhs.uk/conditions/pre-menstrual-syndrome/",
-      "https://www.nhs.uk/conditions/heavy-periods/"
-    ]
-  },
-  "WH_16": {
-    "hero_local": "images/editorial/WH_16_hero.svg",
-    "figure_local": "images/editorial/WH_16_summary.svg",
-    "hero_source_page": "https://test-repo-y1wb.onrender.com/images/editorial/WH_16_hero.svg",
-    "figure_source_page": "https://test-repo-y1wb.onrender.com/images/editorial/WH_16_summary.svg",
-    "creator": "Pulse & Vitality editorial assets",
-    "provenance": "Original project-owned SVG editorial illustration; not a study figure",
-    "license_note": "Original SVG assets created in this project; no external photo or figure attribution claimed.",
-    "evidence_urls": [
-      "https://pubmed.ncbi.nlm.nih.gov/31726666/",
+      "https://support.google.com/product-documentation/answer/14779613?hl=en",
       "https://pubmed.ncbi.nlm.nih.gov/29034226/",
       "https://www.heart.org/en/health-topics/high-blood-pressure/the-facts-about-high-blood-pressure/all-about-heart-rate-pulse"
     ]
   },
-  "WH_17": {
-    "hero_local": "images/editorial/WH_17_hero.svg",
-    "figure_local": "images/editorial/WH_17_summary.svg",
-    "hero_source_page": "https://test-repo-y1wb.onrender.com/images/editorial/WH_17_hero.svg",
-    "figure_source_page": "https://test-repo-y1wb.onrender.com/images/editorial/WH_17_summary.svg",
-    "creator": "Pulse & Vitality editorial assets",
-    "provenance": "Original project-owned SVG editorial illustration; not a study figure",
-    "license_note": "Original SVG assets created in this project; no external photo or figure attribution claimed.",
+  "LM_HW_02": {
+    "hero_local": "images/LM_HW_02_hero.jpg",
+    "figure_local": "images/LM_HW_02_figure.jpg",
+    "hero_source_page": "https://test-repo-y1wb.onrender.com/images/LM_HW_02_hero.jpg",
+    "figure_source_page": "https://test-repo-y1wb.onrender.com/images/LM_HW_02_figure.jpg",
+    "creator": "Original project image library / editorial assets",
+    "provenance": "Hero restored from the original project library. Retained diagrams are illustrations, not study outcome data; other inline visuals are original editorial summaries.",
+    "license_note": "Existing project raster assets restored; no new claim of upstream authorship or verified external licensing. SVG summaries are project-created.",
     "evidence_urls": [
+      "https://pubmed.ncbi.nlm.nih.gov/27881567/",
       "https://www.who.int/news-room/fact-sheets/detail/physical-activity",
-      "https://pubmed.ncbi.nlm.nih.gov/37033884/",
-      "https://bjsm.bmj.com/content/57/17/1073"
+      "https://www.cdc.gov/physicalactivity/basics/measuring/index.html",
+      "https://www.heart.org/en/health-topics/high-blood-pressure/the-facts-about-high-blood-pressure/all-about-heart-rate-pulse",
+      "https://pubmed.ncbi.nlm.nih.gov/29345524/"
     ]
   },
-  "WH_18": {
-    "hero_local": "images/editorial/WH_18_hero.svg",
-    "figure_local": "images/editorial/WH_18_summary.svg",
-    "hero_source_page": "https://test-repo-y1wb.onrender.com/images/editorial/WH_18_hero.svg",
-    "figure_source_page": "https://test-repo-y1wb.onrender.com/images/editorial/WH_18_summary.svg",
-    "creator": "Pulse & Vitality editorial assets",
-    "provenance": "Original project-owned SVG editorial illustration; not a study figure",
-    "license_note": "Original SVG assets created in this project; no external photo or figure attribution claimed.",
+  "DM_HW_01": {
+    "hero_local": "images/DM_HW_01_hero.jpg",
+    "figure_local": "images/editorial/DM_HW_01_summary.svg",
+    "hero_source_page": "https://test-repo-y1wb.onrender.com/images/DM_HW_01_hero.jpg",
+    "figure_source_page": "https://test-repo-y1wb.onrender.com/images/editorial/DM_HW_01_summary.svg",
+    "creator": "Original project image library / editorial assets",
+    "provenance": "Hero restored from the original project library. Retained diagrams are illustrations, not study outcome data; other inline visuals are original editorial summaries.",
+    "license_note": "Existing project raster assets restored; no new claim of upstream authorship or verified external licensing. SVG summaries are project-created.",
     "evidence_urls": [
-      "https://bjsm.bmj.com/content/57/17/1073",
+      "https://pubmed.ncbi.nlm.nih.gov/36630953/",
+      "https://pubmed.ncbi.nlm.nih.gov/30245619/",
+      "https://pubmed.ncbi.nlm.nih.gov/27680542/",
+      "https://support.google.com/product-documentation/answer/14779613?hl=en",
+      "https://www.nhs.uk/every-mind-matters/lifes-challenges/maintaining-healthy-relationships-and-mental-wellbeing/",
+      "https://pubmed.ncbi.nlm.nih.gov/29034226/",
+      "https://www.heart.org/en/health-topics/high-blood-pressure/the-facts-about-high-blood-pressure/all-about-heart-rate-pulse"
+    ]
+  },
+  "DM_HW_02": {
+    "hero_local": "images/DM_HW_02_hero.jpg",
+    "figure_local": "images/editorial/DM_HW_02_summary.svg",
+    "hero_source_page": "https://test-repo-y1wb.onrender.com/images/DM_HW_02_hero.jpg",
+    "figure_source_page": "https://test-repo-y1wb.onrender.com/images/editorial/DM_HW_02_summary.svg",
+    "creator": "Original project image library / editorial assets",
+    "provenance": "Hero restored from the original project library. Retained diagrams are illustrations, not study outcome data; other inline visuals are original editorial summaries.",
+    "license_note": "Existing project raster assets restored; no new claim of upstream authorship or verified external licensing. SVG summaries are project-created.",
+    "evidence_urls": [
+      "https://pubmed.ncbi.nlm.nih.gov/25705824/",
+      "https://pubmed.ncbi.nlm.nih.gov/26174323/",
+      "https://rnli.org/water-safety/choose-your-activity/cold-water-dipping",
+      "https://www.heart.org/en/health-topics/high-blood-pressure/the-facts-about-high-blood-pressure/all-about-heart-rate-pulse",
+      "https://pubmed.ncbi.nlm.nih.gov/29345524/",
+      "https://pubmed.ncbi.nlm.nih.gov/27881567/",
+      "https://pubmed.ncbi.nlm.nih.gov/29663142/"
+    ]
+  },
+  "LM_WH_01": {
+    "hero_local": "images/LM_WH_01_hero.jpg",
+    "figure_local": "images/LM_WH_01_figure.png",
+    "hero_source_page": "https://test-repo-y1wb.onrender.com/images/LM_WH_01_hero.jpg",
+    "figure_source_page": "https://test-repo-y1wb.onrender.com/images/LM_WH_01_figure.png",
+    "creator": "Original project image library / editorial assets",
+    "provenance": "Hero restored from the original project library. Retained diagrams are illustrations, not study outcome data; other inline visuals are original editorial summaries.",
+    "license_note": "Existing project raster assets restored; no new claim of upstream authorship or verified external licensing. SVG summaries are project-created.",
+    "evidence_urls": [
+      "https://www.nhs.uk/conditions/periods/",
+      "https://www.acog.org/womens-health/faqs/fertility-awareness-based-methods-of-family-planning",
       "https://www.nhs.uk/symptoms/missed-or-late-periods/",
-      "https://pubmed.ncbi.nlm.nih.gov/23247672/"
-    ]
-  },
-  "WH_19": {
-    "hero_local": "images/editorial/WH_19_hero.svg",
-    "figure_local": "images/editorial/WH_19_summary.svg",
-    "hero_source_page": "https://test-repo-y1wb.onrender.com/images/editorial/WH_19_hero.svg",
-    "figure_source_page": "https://test-repo-y1wb.onrender.com/images/editorial/WH_19_summary.svg",
-    "creator": "Pulse & Vitality editorial assets",
-    "provenance": "Original project-owned SVG editorial illustration; not a study figure",
-    "license_note": "Original SVG assets created in this project; no external photo or figure attribution claimed.",
-    "evidence_urls": [
-      "https://www.nhs.uk/conditions/pre-menstrual-syndrome/",
-      "https://www.nhlbi.nih.gov/health/sleep-deprivation/healthy-sleep-habits",
-      "https://pubmed.ncbi.nlm.nih.gov/34314344/"
-    ]
-  },
-  "WH_20": {
-    "hero_local": "images/editorial/WH_20_hero.svg",
-    "figure_local": "images/editorial/WH_20_summary.svg",
-    "hero_source_page": "https://test-repo-y1wb.onrender.com/images/editorial/WH_20_hero.svg",
-    "figure_source_page": "https://test-repo-y1wb.onrender.com/images/editorial/WH_20_summary.svg",
-    "creator": "Pulse & Vitality editorial assets",
-    "provenance": "Original project-owned SVG editorial illustration; not a study figure",
-    "license_note": "Original SVG assets created in this project; no external photo or figure attribution claimed.",
-    "evidence_urls": [
-      "https://www.nhs.uk/symptoms/missed-or-late-periods/",
+      "https://www.endocrine.org/patient-engagement/endocrine-library/hormones-and-endocrine-function/reproductive-hormones",
+      "https://openstax.org/books/biology-2e/pages/43-4-hormonal-control-of-human-reproduction",
       "https://www.nhs.uk/pregnancy/trying-for-a-baby/doing-a-pregnancy-test/",
-      "https://bjsm.bmj.com/content/57/17/1073"
+      "https://www.nhs.uk/conditions/ectopic-pregnancy/symptoms/",
+      "https://pubmed.ncbi.nlm.nih.gov/32661839/",
+      "https://pubmed.ncbi.nlm.nih.gov/37033884/"
     ]
   },
-  "WH_21": {
-    "hero_local": "images/editorial/WH_21_hero.svg",
-    "figure_local": "images/editorial/WH_21_summary.svg",
-    "hero_source_page": "https://test-repo-y1wb.onrender.com/images/editorial/WH_21_hero.svg",
-    "figure_source_page": "https://test-repo-y1wb.onrender.com/images/editorial/WH_21_summary.svg",
-    "creator": "Pulse & Vitality editorial assets",
-    "provenance": "Original project-owned SVG editorial illustration; not a study figure",
-    "license_note": "Original SVG assets created in this project; no external photo or figure attribution claimed.",
+  "LM_WH_02": {
+    "hero_local": "images/LM_WH_02_hero.jpg",
+    "figure_local": "images/LM_WH_02_figure.png",
+    "hero_source_page": "https://test-repo-y1wb.onrender.com/images/LM_WH_02_hero.jpg",
+    "figure_source_page": "https://test-repo-y1wb.onrender.com/images/LM_WH_02_figure.png",
+    "creator": "Original project image library / editorial assets",
+    "provenance": "Hero restored from the original project library. Retained diagrams are illustrations, not study outcome data; other inline visuals are original editorial summaries.",
+    "license_note": "Existing project raster assets restored; no new claim of upstream authorship or verified external licensing. SVG summaries are project-created.",
     "evidence_urls": [
-      "https://www.who.int/news-room/fact-sheets/detail/healthy-diet",
-      "https://www.nhs.uk/conditions/pre-menstrual-syndrome/",
+      "https://www.acog.org/womens-health/faqs/fertility-awareness-based-methods-of-family-planning",
+      "https://www.acog.org/womens-health/faqs/vulvovaginal-health",
+      "https://www.nhs.uk/conditions/periods/",
+      "https://www.endocrine.org/patient-engagement/endocrine-library/hormones-and-endocrine-function/reproductive-hormones",
+      "https://openstax.org/books/biology-2e/pages/43-4-hormonal-control-of-human-reproduction",
+      "https://www.acog.org/womens-health/faqs/when-sex-is-painful"
+    ]
+  },
+  "LM_WH_03": {
+    "hero_local": "images/LM_WH_03_hero.jpg",
+    "figure_local": "images/LM_WH_03_figure.png",
+    "hero_source_page": "https://test-repo-y1wb.onrender.com/images/LM_WH_03_hero.jpg",
+    "figure_source_page": "https://test-repo-y1wb.onrender.com/images/LM_WH_03_figure.png",
+    "creator": "Original project image library / editorial assets",
+    "provenance": "Hero restored from the original project library. Retained diagrams are illustrations, not study outcome data; other inline visuals are original editorial summaries.",
+    "license_note": "Existing project raster assets restored; no new claim of upstream authorship or verified external licensing. SVG summaries are project-created.",
+    "evidence_urls": [
+      "https://www.acog.org/womens-health/faqs/fertility-awareness-based-methods-of-family-planning",
+      "https://www.nhs.uk/pregnancy/trying-for-a-baby/doing-a-pregnancy-test/",
+      "https://www.nhs.uk/symptoms/missed-or-late-periods/",
+      "https://www.nhs.uk/conditions/ectopic-pregnancy/symptoms/",
+      "https://www.acog.org/womens-health/faqs/vulvovaginal-health"
+    ]
+  },
+  "DM_WH_01": {
+    "hero_local": "images/DM_WH_01_hero.jpg",
+    "figure_local": "images/editorial/DM_WH_01_summary.svg",
+    "hero_source_page": "https://test-repo-y1wb.onrender.com/images/DM_WH_01_hero.jpg",
+    "figure_source_page": "https://test-repo-y1wb.onrender.com/images/editorial/DM_WH_01_summary.svg",
+    "creator": "Original project image library / editorial assets",
+    "provenance": "Hero restored from the original project library. Retained diagrams are illustrations, not study outcome data; other inline visuals are original editorial summaries.",
+    "license_note": "Existing project raster assets restored; no new claim of upstream authorship or verified external licensing. SVG summaries are project-created.",
+    "evidence_urls": [
+      "https://pubmed.ncbi.nlm.nih.gov/32661839/",
+      "https://pubmed.ncbi.nlm.nih.gov/37033884/",
       "https://bjsm.bmj.com/content/57/17/1073",
-      "https://www.nhs.uk/conditions/heavy-periods/"
+      "https://www.nhs.uk/conditions/periods/",
+      "https://www.endocrine.org/patient-engagement/endocrine-library/hormones-and-endocrine-function/reproductive-hormones",
+      "https://www.acog.org/womens-health/faqs/fertility-awareness-based-methods-of-family-planning",
+      "https://openstax.org/books/biology-2e/pages/43-4-hormonal-control-of-human-reproduction",
+      "https://www.nhs.uk/symptoms/missed-or-late-periods/"
     ]
   },
-  "WH_22": {
-    "hero_local": "images/editorial/WH_22_hero.svg",
-    "figure_local": "images/editorial/WH_22_summary.svg",
-    "hero_source_page": "https://test-repo-y1wb.onrender.com/images/editorial/WH_22_hero.svg",
-    "figure_source_page": "https://test-repo-y1wb.onrender.com/images/editorial/WH_22_summary.svg",
-    "creator": "Pulse & Vitality editorial assets",
-    "provenance": "Original project-owned SVG editorial illustration; not a study figure",
-    "license_note": "Original SVG assets created in this project; no external photo or figure attribution claimed.",
+  "DM_WH_02": {
+    "hero_local": "images/DM_WH_02_hero.jpg",
+    "figure_local": "images/editorial/DM_WH_02_summary.svg",
+    "hero_source_page": "https://test-repo-y1wb.onrender.com/images/DM_WH_02_hero.jpg",
+    "figure_source_page": "https://test-repo-y1wb.onrender.com/images/editorial/DM_WH_02_summary.svg",
+    "creator": "Original project image library / editorial assets",
+    "provenance": "Hero restored from the original project library. Retained diagrams are illustrations, not study outcome data; other inline visuals are original editorial summaries.",
+    "license_note": "Existing project raster assets restored; no new claim of upstream authorship or verified external licensing. SVG summaries are project-created.",
     "evidence_urls": [
-      "https://www.nhs.uk/conditions/heavy-periods/",
-      "https://www.nhs.uk/conditions/iron-deficiency-anaemia/"
+      "https://www.acog.org/womens-health/faqs/fertility-awareness-based-methods-of-family-planning",
+      "https://www.nhs.uk/symptoms/missed-or-late-periods/",
+      "https://www.acog.org/womens-health/faqs/vulvovaginal-health",
+      "https://www.nhs.uk/pregnancy/trying-for-a-baby/doing-a-pregnancy-test/",
+      "https://www.nhs.uk/conditions/ectopic-pregnancy/symptoms/",
+      "https://www.nhs.uk/conditions/periods/",
+      "https://www.endocrine.org/patient-engagement/endocrine-library/hormones-and-endocrine-function/reproductive-hormones",
+      "https://openstax.org/books/biology-2e/pages/43-4-hormonal-control-of-human-reproduction"
     ]
   },
-  "WH_23": {
-    "hero_local": "images/editorial/WH_23_hero.svg",
-    "figure_local": "images/editorial/WH_23_summary.svg",
-    "hero_source_page": "https://test-repo-y1wb.onrender.com/images/editorial/WH_23_hero.svg",
-    "figure_source_page": "https://test-repo-y1wb.onrender.com/images/editorial/WH_23_summary.svg",
-    "creator": "Pulse & Vitality editorial assets",
-    "provenance": "Original project-owned SVG editorial illustration; not a study figure",
-    "license_note": "Original SVG assets created in this project; no external photo or figure attribution claimed.",
+  "DM_WH_03": {
+    "hero_local": "images/DM_WH_03_hero.jpg",
+    "figure_local": "images/editorial/DM_WH_03_summary.svg",
+    "hero_source_page": "https://test-repo-y1wb.onrender.com/images/DM_WH_03_hero.jpg",
+    "figure_source_page": "https://test-repo-y1wb.onrender.com/images/editorial/DM_WH_03_summary.svg",
+    "creator": "Original project image library / editorial assets",
+    "provenance": "Hero restored from the original project library. Retained diagrams are illustrations, not study outcome data; other inline visuals are original editorial summaries.",
+    "license_note": "Existing project raster assets restored; no new claim of upstream authorship or verified external licensing. SVG summaries are project-created.",
     "evidence_urls": [
-      "https://integration.asrm.org/globalassets/_asrm/practice-guidance/practice-guidelines/pdf/optimizing_natural_fertility.pdf",
-      "https://www.acog.org/womens-health/faqs/fertility-awareness-based-methods-of-family-planning"
+      "https://www.nhs.uk/conditions/pre-menstrual-syndrome/",
+      "https://www.nhs.uk/conditions/periods/",
+      "https://www.who.int/news-room/fact-sheets/detail/healthy-diet",
+      "https://www.endocrine.org/patient-engagement/endocrine-library/hormones-and-endocrine-function/reproductive-hormones",
+      "https://www.acog.org/womens-health/faqs/fertility-awareness-based-methods-of-family-planning",
+      "https://openstax.org/books/biology-2e/pages/43-4-hormonal-control-of-human-reproduction",
+      "https://www.nhlbi.nih.gov/health/sleep/sleep-wake-cycle",
+      "https://www.nhlbi.nih.gov/health/sleep-deprivation/healthy-sleep-habits"
     ]
   },
-  "WH_24": {
-    "hero_local": "images/editorial/WH_24_hero.svg",
-    "figure_local": "images/editorial/WH_24_summary.svg",
-    "hero_source_page": "https://test-repo-y1wb.onrender.com/images/editorial/WH_24_hero.svg",
-    "figure_source_page": "https://test-repo-y1wb.onrender.com/images/editorial/WH_24_summary.svg",
-    "creator": "Pulse & Vitality editorial assets",
-    "provenance": "Original project-owned SVG editorial illustration; not a study figure",
-    "license_note": "Original SVG assets created in this project; no external photo or figure attribution claimed.",
+  "LM_MH_01": {
+    "hero_local": "images/LM_MH_01_hero.jpg",
+    "figure_local": "images/editorial/LM_MH_01_summary.svg",
+    "hero_source_page": "https://test-repo-y1wb.onrender.com/images/LM_MH_01_hero.jpg",
+    "figure_source_page": "https://test-repo-y1wb.onrender.com/images/editorial/LM_MH_01_summary.svg",
+    "creator": "Original project image library / editorial assets",
+    "provenance": "Hero restored from the original project library. Retained diagrams are illustrations, not study outcome data; other inline visuals are original editorial summaries.",
+    "license_note": "Existing project raster assets restored; no new claim of upstream authorship or verified external licensing. SVG summaries are project-created.",
     "evidence_urls": [
+      "https://www.nth.nhs.uk/resources/pelvic-floor-exercises-for-men/",
+      "https://www.royalberkshire.nhs.uk/media/avwg3hls/pelvic-floor-strengthening-and-relaxation-exercises-for-men_jun24.pdf",
+      "https://www.niddk.nih.gov/health-information/urologic-diseases/erectile-dysfunction/symptoms-causes",
+      "https://www.nhs.uk/conditions/urinary-incontinence/treatment/",
+      "https://www.cuh.nhs.uk/patient-information/female-pelvic-floor-muscle-exercises/",
+      "https://pubmed.ncbi.nlm.nih.gov/27872005/",
+      "https://www.niddk.nih.gov/health-information/urologic-diseases/erectile-dysfunction/treatment",
+      "https://www.devonsexualhealth.nhs.uk/your-sexual-health/relationships-and-intimacy/",
+      "https://pubmed.ncbi.nlm.nih.gov/10853004/",
+      "https://pubmed.ncbi.nlm.nih.gov/30245619/",
+      "https://pubmed.ncbi.nlm.nih.gov/27680542/"
+    ]
+  },
+  "LM_MH_02": {
+    "hero_local": "images/LM_MH_02_hero.jpg",
+    "figure_local": "images/editorial/LM_MH_02_summary.svg",
+    "hero_source_page": "https://test-repo-y1wb.onrender.com/images/LM_MH_02_hero.jpg",
+    "figure_source_page": "https://test-repo-y1wb.onrender.com/images/editorial/LM_MH_02_summary.svg",
+    "creator": "Original project image library / editorial assets",
+    "provenance": "Hero restored from the original project library. Retained diagrams are illustrations, not study outcome data; other inline visuals are original editorial summaries.",
+    "license_note": "Existing project raster assets restored; no new claim of upstream authorship or verified external licensing. SVG summaries are project-created.",
+    "evidence_urls": [
+      "https://www.nth.nhs.uk/resources/pelvic-floor-exercises-for-men/",
+      "https://www.royalberkshire.nhs.uk/media/avwg3hls/pelvic-floor-strengthening-and-relaxation-exercises-for-men_jun24.pdf",
+      "https://www.nhs.uk/conditions/urinary-incontinence/treatment/",
+      "https://www.cuh.nhs.uk/patient-information/female-pelvic-floor-muscle-exercises/",
+      "https://pubmed.ncbi.nlm.nih.gov/27872005/",
+      "https://pubmed.ncbi.nlm.nih.gov/30245619/",
+      "https://pubmed.ncbi.nlm.nih.gov/27680542/",
+      "https://pubmed.ncbi.nlm.nih.gov/29663142/",
+      "https://pubmed.ncbi.nlm.nih.gov/29345524/"
+    ]
+  },
+  "LM_MH_03": {
+    "hero_local": "images/LM_MH_03_hero.jpg",
+    "figure_local": "images/editorial/LM_MH_03_summary.svg",
+    "hero_source_page": "https://test-repo-y1wb.onrender.com/images/LM_MH_03_hero.jpg",
+    "figure_source_page": "https://test-repo-y1wb.onrender.com/images/editorial/LM_MH_03_summary.svg",
+    "creator": "Original project image library / editorial assets",
+    "provenance": "Hero restored from the original project library. Retained diagrams are illustrations, not study outcome data; other inline visuals are original editorial summaries.",
+    "license_note": "Existing project raster assets restored; no new claim of upstream authorship or verified external licensing. SVG summaries are project-created.",
+    "evidence_urls": [
+      "https://pubmed.ncbi.nlm.nih.gov/15527607/",
+      "https://pubmed.ncbi.nlm.nih.gov/24883105/",
+      "https://www.royalberkshire.nhs.uk/media/avwg3hls/pelvic-floor-strengthening-and-relaxation-exercises-for-men_jun24.pdf",
+      "https://www.niddk.nih.gov/health-information/urologic-diseases/erectile-dysfunction/treatment",
+      "https://www.nhs.uk/conditions/ejaculation-problems/",
+      "https://www.nth.nhs.uk/resources/pelvic-floor-exercises-for-men/",
+      "https://www.nhs.uk/conditions/urinary-incontinence/treatment/",
+      "https://www.cuh.nhs.uk/patient-information/female-pelvic-floor-muscle-exercises/",
+      "https://pubmed.ncbi.nlm.nih.gov/27872005/",
+      "https://www.niddk.nih.gov/health-information/urologic-diseases/erectile-dysfunction/symptoms-causes",
+      "https://www.devonsexualhealth.nhs.uk/your-sexual-health/relationships-and-intimacy/",
+      "https://pubmed.ncbi.nlm.nih.gov/10853004/"
+    ]
+  },
+  "DM_MH_01": {
+    "hero_local": "images/DM_MH_01_hero.jpg",
+    "figure_local": "images/editorial/DM_MH_01_summary.svg",
+    "hero_source_page": "https://test-repo-y1wb.onrender.com/images/DM_MH_01_hero.jpg",
+    "figure_source_page": "https://test-repo-y1wb.onrender.com/images/editorial/DM_MH_01_summary.svg",
+    "creator": "Original project image library / editorial assets",
+    "provenance": "Hero restored from the original project library. Retained diagrams are illustrations, not study outcome data; other inline visuals are original editorial summaries.",
+    "license_note": "Existing project raster assets restored; no new claim of upstream authorship or verified external licensing. SVG summaries are project-created.",
+    "evidence_urls": [
+      "https://www.nhs.uk/conditions/ejaculation-problems/",
+      "https://www.royalberkshire.nhs.uk/media/avwg3hls/pelvic-floor-strengthening-and-relaxation-exercises-for-men_jun24.pdf",
+      "https://www.devonsexualhealth.nhs.uk/your-sexual-health/relationships-and-intimacy/",
+      "https://www.nth.nhs.uk/resources/pelvic-floor-exercises-for-men/",
+      "https://www.nhs.uk/conditions/urinary-incontinence/treatment/",
+      "https://www.cuh.nhs.uk/patient-information/female-pelvic-floor-muscle-exercises/",
+      "https://pubmed.ncbi.nlm.nih.gov/27872005/",
+      "https://www.nhs.uk/symptoms/loss-of-libido/",
+      "https://pubmed.ncbi.nlm.nih.gov/30777780/",
+      "https://pubmed.ncbi.nlm.nih.gov/24883105/"
+    ]
+  },
+  "DM_MH_02": {
+    "hero_local": "images/DM_MH_02_hero.jpg",
+    "figure_local": "images/editorial/DM_MH_02_summary.svg",
+    "hero_source_page": "https://test-repo-y1wb.onrender.com/images/DM_MH_02_hero.jpg",
+    "figure_source_page": "https://test-repo-y1wb.onrender.com/images/editorial/DM_MH_02_summary.svg",
+    "creator": "Original project image library / editorial assets",
+    "provenance": "Hero restored from the original project library. Retained diagrams are illustrations, not study outcome data; other inline visuals are original editorial summaries.",
+    "license_note": "Existing project raster assets restored; no new claim of upstream authorship or verified external licensing. SVG summaries are project-created.",
+    "evidence_urls": [
+      "https://www.royalberkshire.nhs.uk/media/avwg3hls/pelvic-floor-strengthening-and-relaxation-exercises-for-men_jun24.pdf",
+      "https://www.niddk.nih.gov/health-information/urologic-diseases/erectile-dysfunction/symptoms-causes",
+      "https://www.nhs.uk/symptoms/testicle-pain/",
+      "https://www.nth.nhs.uk/resources/pelvic-floor-exercises-for-men/",
+      "https://www.nhs.uk/conditions/urinary-incontinence/treatment/",
+      "https://www.cuh.nhs.uk/patient-information/female-pelvic-floor-muscle-exercises/",
+      "https://pubmed.ncbi.nlm.nih.gov/27872005/",
+      "https://pubmed.ncbi.nlm.nih.gov/29663142/",
+      "https://pubmed.ncbi.nlm.nih.gov/29345524/",
+      "https://www.niddk.nih.gov/health-information/urologic-diseases/erectile-dysfunction/treatment",
+      "https://www.devonsexualhealth.nhs.uk/your-sexual-health/relationships-and-intimacy/",
+      "https://pubmed.ncbi.nlm.nih.gov/10853004/"
+    ]
+  },
+  "DM_MH_03": {
+    "hero_local": "images/DM_MH_03_hero.jpg",
+    "figure_local": "images/editorial/DM_MH_03_summary.svg",
+    "hero_source_page": "https://test-repo-y1wb.onrender.com/images/DM_MH_03_hero.jpg",
+    "figure_source_page": "https://test-repo-y1wb.onrender.com/images/editorial/DM_MH_03_summary.svg",
+    "creator": "Original project image library / editorial assets",
+    "provenance": "Hero restored from the original project library. Retained diagrams are illustrations, not study outcome data; other inline visuals are original editorial summaries.",
+    "license_note": "Existing project raster assets restored; no new claim of upstream authorship or verified external licensing. SVG summaries are project-created.",
+    "evidence_urls": [
+      "https://www.niddk.nih.gov/health-information/urologic-diseases/erectile-dysfunction/symptoms-causes",
+      "https://www.niddk.nih.gov/health-information/urologic-diseases/erectile-dysfunction/treatment",
+      "https://www.devonsexualhealth.nhs.uk/your-sexual-health/relationships-and-intimacy/",
+      "https://pubmed.ncbi.nlm.nih.gov/10853004/",
+      "https://www.nhs.uk/every-mind-matters/lifes-challenges/maintaining-healthy-relationships-and-mental-wellbeing/",
+      "https://www.nhs.uk/symptoms/loss-of-libido/",
+      "https://pubmed.ncbi.nlm.nih.gov/30777780/"
+    ]
+  },
+  "WH_04": {
+    "hero_local": "images/WH_04_hero.jpg",
+    "figure_local": "images/editorial/WH_04_summary.svg",
+    "hero_source_page": "https://test-repo-y1wb.onrender.com/images/WH_04_hero.jpg",
+    "figure_source_page": "https://test-repo-y1wb.onrender.com/images/editorial/WH_04_summary.svg",
+    "creator": "Original project image library / editorial assets",
+    "provenance": "Hero restored from the original project library. Retained diagrams are illustrations, not study outcome data; other inline visuals are original editorial summaries.",
+    "license_note": "Existing project raster assets restored; no new claim of upstream authorship or verified external licensing. SVG summaries are project-created.",
+    "evidence_urls": [
+      "https://www.nhs.uk/symptoms/missed-or-late-periods/",
+      "https://www.nhs.uk/conditions/periods/",
+      "https://www.nhs.uk/pregnancy/trying-for-a-baby/doing-a-pregnancy-test/",
+      "https://www.endocrine.org/patient-engagement/endocrine-library/hormones-and-endocrine-function/reproductive-hormones",
+      "https://www.acog.org/womens-health/faqs/fertility-awareness-based-methods-of-family-planning",
+      "https://openstax.org/books/biology-2e/pages/43-4-hormonal-control-of-human-reproduction",
+      "https://bjsm.bmj.com/content/57/17/1073",
+      "https://www.nhs.uk/conditions/ectopic-pregnancy/symptoms/"
+    ]
+  },
+  "WH_06": {
+    "hero_local": "images/WH_06_hero.jpg",
+    "figure_local": "images/editorial/WH_06_summary.svg",
+    "hero_source_page": "https://test-repo-y1wb.onrender.com/images/WH_06_hero.jpg",
+    "figure_source_page": "https://test-repo-y1wb.onrender.com/images/editorial/WH_06_summary.svg",
+    "creator": "Original project image library / editorial assets",
+    "provenance": "Hero restored from the original project library. Retained diagrams are illustrations, not study outcome data; other inline visuals are original editorial summaries.",
+    "license_note": "Existing project raster assets restored; no new claim of upstream authorship or verified external licensing. SVG summaries are project-created.",
+    "evidence_urls": [
+      "https://www.endocrine.org/patient-engagement/endocrine-library/hormones-and-endocrine-function/reproductive-hormones",
+      "https://www.nhs.uk/conditions/periods/",
+      "https://www.nhs.uk/conditions/menopause-and-perimenopause/symptoms/",
+      "https://www.acog.org/womens-health/faqs/fertility-awareness-based-methods-of-family-planning",
+      "https://openstax.org/books/biology-2e/pages/43-4-hormonal-control-of-human-reproduction",
+      "https://www.nhs.uk/conditions/menopause-and-perimenopause/treatment/",
+      "https://www.acog.org/womens-health/faqs/vulvovaginal-health",
       "https://www.nhs.uk/pregnancy/trying-for-a-baby/doing-a-pregnancy-test/",
       "https://www.nhs.uk/conditions/ectopic-pregnancy/symptoms/"
     ]
   },
-  "WH_25": {
-    "hero_local": "images/editorial/WH_25_hero.svg",
-    "figure_local": "images/editorial/WH_25_summary.svg",
-    "hero_source_page": "https://test-repo-y1wb.onrender.com/images/editorial/WH_25_hero.svg",
-    "figure_source_page": "https://test-repo-y1wb.onrender.com/images/editorial/WH_25_summary.svg",
-    "creator": "Pulse & Vitality editorial assets",
-    "provenance": "Original project-owned SVG editorial illustration; not a study figure",
-    "license_note": "Original SVG assets created in this project; no external photo or figure attribution claimed.",
+  "WH_07": {
+    "hero_local": "images/WH_07_hero.jpg",
+    "figure_local": "images/editorial/WH_07_summary.svg",
+    "hero_source_page": "https://test-repo-y1wb.onrender.com/images/WH_07_hero.jpg",
+    "figure_source_page": "https://test-repo-y1wb.onrender.com/images/editorial/WH_07_summary.svg",
+    "creator": "Original project image library / editorial assets",
+    "provenance": "Hero restored from the original project library. Retained diagrams are illustrations, not study outcome data; other inline visuals are original editorial summaries.",
+    "license_note": "Existing project raster assets restored; no new claim of upstream authorship or verified external licensing. SVG summaries are project-created.",
     "evidence_urls": [
-      "https://www.nhs.uk/pregnancy/common-symptoms/common-health-problems/",
-      "https://www.acog.org/clinical/clinical-guidance/committee-opinion/articles/2020/04/physical-activity-and-exercise-during-pregnancy-and-the-postpartum-period"
-    ]
-  },
-  "WH_26": {
-    "hero_local": "images/editorial/WH_26_hero.svg",
-    "figure_local": "images/editorial/WH_26_summary.svg",
-    "hero_source_page": "https://test-repo-y1wb.onrender.com/images/editorial/WH_26_hero.svg",
-    "figure_source_page": "https://test-repo-y1wb.onrender.com/images/editorial/WH_26_summary.svg",
-    "creator": "Pulse & Vitality editorial assets",
-    "provenance": "Original project-owned SVG editorial illustration; not a study figure",
-    "license_note": "Original SVG assets created in this project; no external photo or figure attribution claimed.",
-    "evidence_urls": [
-      "https://www.acog.org/clinical/clinical-guidance/committee-opinion/articles/2020/04/physical-activity-and-exercise-during-pregnancy-and-the-postpartum-period",
-      "https://www.cdc.gov/physicalactivity/basics/measuring/index.html"
-    ]
-  },
-  "WH_27": {
-    "hero_local": "images/editorial/WH_27_hero.svg",
-    "figure_local": "images/editorial/WH_27_summary.svg",
-    "hero_source_page": "https://test-repo-y1wb.onrender.com/images/editorial/WH_27_hero.svg",
-    "figure_source_page": "https://test-repo-y1wb.onrender.com/images/editorial/WH_27_summary.svg",
-    "creator": "Pulse & Vitality editorial assets",
-    "provenance": "Original project-owned SVG editorial illustration; not a study figure",
-    "license_note": "Original SVG assets created in this project; no external photo or figure attribution claimed.",
-    "evidence_urls": [
-      "https://www.acog.org/womens-health/faqs/exercise-after-pregnancy",
-      "https://www.nhs.uk/conditions/urinary-incontinence/treatment/",
-      "https://www.cuh.nhs.uk/patient-information/female-pelvic-floor-muscle-exercises/"
-    ]
-  },
-  "WH_28": {
-    "hero_local": "images/editorial/WH_28_hero.svg",
-    "figure_local": "images/editorial/WH_28_summary.svg",
-    "hero_source_page": "https://test-repo-y1wb.onrender.com/images/editorial/WH_28_hero.svg",
-    "figure_source_page": "https://test-repo-y1wb.onrender.com/images/editorial/WH_28_summary.svg",
-    "creator": "Pulse & Vitality editorial assets",
-    "provenance": "Original project-owned SVG editorial illustration; not a study figure",
-    "license_note": "Original SVG assets created in this project; no external photo or figure attribution claimed.",
-    "evidence_urls": [
-      "https://www.monash.edu/medicine/mchri/pcos/guideline",
-      "https://www.nhs.uk/symptoms/missed-or-late-periods/",
-      "https://www.who.int/news-room/fact-sheets/detail/healthy-diet"
-    ]
-  },
-  "WH_29": {
-    "hero_local": "images/editorial/WH_29_hero.svg",
-    "figure_local": "images/editorial/WH_29_summary.svg",
-    "hero_source_page": "https://test-repo-y1wb.onrender.com/images/editorial/WH_29_hero.svg",
-    "figure_source_page": "https://test-repo-y1wb.onrender.com/images/editorial/WH_29_summary.svg",
-    "creator": "Pulse & Vitality editorial assets",
-    "provenance": "Original project-owned SVG editorial illustration; not a study figure",
-    "license_note": "Original SVG assets created in this project; no external photo or figure attribution claimed.",
-    "evidence_urls": [
-      "https://www.nhs.uk/conditions/endometriosis/",
-      "https://www.acog.org/womens-health/faqs/when-sex-is-painful"
-    ]
-  },
-  "WH_30": {
-    "hero_local": "images/editorial/WH_30_hero.svg",
-    "figure_local": "images/editorial/WH_30_summary.svg",
-    "hero_source_page": "https://test-repo-y1wb.onrender.com/images/editorial/WH_30_hero.svg",
-    "figure_source_page": "https://test-repo-y1wb.onrender.com/images/editorial/WH_30_summary.svg",
-    "creator": "Pulse & Vitality editorial assets",
-    "provenance": "Original project-owned SVG editorial illustration; not a study figure",
-    "license_note": "Original SVG assets created in this project; no external photo or figure attribution claimed.",
-    "evidence_urls": [
-      "https://www.nhs.uk/conditions/menopause-and-perimenopause/symptoms/",
-      "https://www.nhs.uk/conditions/menopause-and-perimenopause/treatment/",
-      "https://www.acog.org/womens-health/faqs/vulvovaginal-health"
-    ]
-  },
-  "MW_NUT_01": {
-    "hero_local": "images/editorial/MW_NUT_01_hero.svg",
-    "figure_local": "images/editorial/MW_NUT_01_summary.svg",
-    "hero_source_page": "https://test-repo-y1wb.onrender.com/images/editorial/MW_NUT_01_hero.svg",
-    "figure_source_page": "https://test-repo-y1wb.onrender.com/images/editorial/MW_NUT_01_summary.svg",
-    "creator": "Pulse & Vitality editorial assets",
-    "provenance": "Original project-owned SVG editorial illustration; not a study figure",
-    "license_note": "Original SVG assets created in this project; no external photo or figure attribution claimed.",
-    "evidence_urls": [
-      "https://www.who.int/news-room/fact-sheets/detail/healthy-diet",
-      "https://www.endocrine.org/patient-engagement/endocrine-library/hypogonadism",
-      "https://bjsm.bmj.com/content/57/17/1073"
-    ]
-  },
-  "MW_NUT_02": {
-    "hero_local": "images/editorial/MW_NUT_02_hero.svg",
-    "figure_local": "images/editorial/MW_NUT_02_summary.svg",
-    "hero_source_page": "https://test-repo-y1wb.onrender.com/images/editorial/MW_NUT_02_hero.svg",
-    "figure_source_page": "https://test-repo-y1wb.onrender.com/images/editorial/MW_NUT_02_summary.svg",
-    "creator": "Pulse & Vitality editorial assets",
-    "provenance": "Original project-owned SVG editorial illustration; not a study figure",
-    "license_note": "Original SVG assets created in this project; no external photo or figure attribution claimed.",
-    "evidence_urls": [
-      "https://www.who.int/news-room/fact-sheets/detail/healthy-diet",
-      "https://www.niddk.nih.gov/health-information/urologic-diseases/erectile-dysfunction/symptoms-causes",
-      "https://www.niddk.nih.gov/health-information/urologic-diseases/erectile-dysfunction/treatment"
-    ]
-  },
-  "MW_NUT_03": {
-    "hero_local": "images/editorial/MW_NUT_03_hero.svg",
-    "figure_local": "images/editorial/MW_NUT_03_summary.svg",
-    "hero_source_page": "https://test-repo-y1wb.onrender.com/images/editorial/MW_NUT_03_hero.svg",
-    "figure_source_page": "https://test-repo-y1wb.onrender.com/images/editorial/MW_NUT_03_summary.svg",
-    "creator": "Pulse & Vitality editorial assets",
-    "provenance": "Original project-owned SVG editorial illustration; not a study figure",
-    "license_note": "Original SVG assets created in this project; no external photo or figure attribution claimed.",
-    "evidence_urls": [
-      "https://pubmed.ncbi.nlm.nih.gov/28698222/",
-      "https://www.who.int/news-room/fact-sheets/detail/healthy-diet"
-    ]
-  },
-  "MW_NUT_04": {
-    "hero_local": "images/editorial/MW_NUT_04_hero.svg",
-    "figure_local": "images/editorial/MW_NUT_04_summary.svg",
-    "hero_source_page": "https://test-repo-y1wb.onrender.com/images/editorial/MW_NUT_04_hero.svg",
-    "figure_source_page": "https://test-repo-y1wb.onrender.com/images/editorial/MW_NUT_04_summary.svg",
-    "creator": "Pulse & Vitality editorial assets",
-    "provenance": "Original project-owned SVG editorial illustration; not a study figure",
-    "license_note": "Original SVG assets created in this project; no external photo or figure attribution claimed.",
-    "evidence_urls": [
-      "https://www.who.int/news-room/fact-sheets/detail/alcohol",
+      "https://www.nhs.uk/conditions/pre-menstrual-syndrome/",
+      "https://www.nhs.uk/conditions/periods/",
+      "https://www.endocrine.org/patient-engagement/endocrine-library/hormones-and-endocrine-function/reproductive-hormones",
+      "https://www.acog.org/womens-health/faqs/fertility-awareness-based-methods-of-family-planning",
+      "https://openstax.org/books/biology-2e/pages/43-4-hormonal-control-of-human-reproduction",
+      "https://www.nhlbi.nih.gov/health/sleep/sleep-wake-cycle",
       "https://www.nhlbi.nih.gov/health/sleep-deprivation/healthy-sleep-habits"
     ]
   },
-  "MW_SXH_01": {
-    "hero_local": "images/editorial/MW_SXH_01_hero.svg",
-    "figure_local": "images/editorial/MW_SXH_01_summary.svg",
-    "hero_source_page": "https://test-repo-y1wb.onrender.com/images/editorial/MW_SXH_01_hero.svg",
-    "figure_source_page": "https://test-repo-y1wb.onrender.com/images/editorial/MW_SXH_01_summary.svg",
-    "creator": "Pulse & Vitality editorial assets",
-    "provenance": "Original project-owned SVG editorial illustration; not a study figure",
-    "license_note": "Original SVG assets created in this project; no external photo or figure attribution claimed.",
+  "WH_09": {
+    "hero_local": "images/WH_09_hero.jpg",
+    "figure_local": "images/editorial/WH_09_summary.svg",
+    "hero_source_page": "https://test-repo-y1wb.onrender.com/images/WH_09_hero.jpg",
+    "figure_source_page": "https://test-repo-y1wb.onrender.com/images/editorial/WH_09_summary.svg",
+    "creator": "Original project image library / editorial assets",
+    "provenance": "Hero restored from the original project library. Retained diagrams are illustrations, not study outcome data; other inline visuals are original editorial summaries.",
+    "license_note": "Existing project raster assets restored; no new claim of upstream authorship or verified external licensing. SVG summaries are project-created.",
     "evidence_urls": [
-      "https://pubmed.ncbi.nlm.nih.gov/29562364/",
-      "https://www.endocrine.org/patient-engagement/endocrine-library/hypogonadism",
-      "https://integration.asrm.org/practice-guidance/practice-committee-documents/diagnosis-and-treatment-of-infertility-in-men-aua-asrm-guideline-part2/"
-    ]
-  },
-  "MW_SXH_02": {
-    "hero_local": "images/editorial/MW_SXH_02_hero.svg",
-    "figure_local": "images/editorial/MW_SXH_02_summary.svg",
-    "hero_source_page": "https://test-repo-y1wb.onrender.com/images/editorial/MW_SXH_02_hero.svg",
-    "figure_source_page": "https://test-repo-y1wb.onrender.com/images/editorial/MW_SXH_02_summary.svg",
-    "creator": "Pulse & Vitality editorial assets",
-    "provenance": "Original project-owned SVG editorial illustration; not a study figure",
-    "license_note": "Original SVG assets created in this project; no external photo or figure attribution claimed.",
-    "evidence_urls": [
-      "https://www.niddk.nih.gov/health-information/urologic-diseases/erectile-dysfunction/symptoms-causes",
-      "https://www.niddk.nih.gov/health-information/urologic-diseases/erectile-dysfunction/treatment"
-    ]
-  },
-  "MW_SXH_03": {
-    "hero_local": "images/editorial/MW_SXH_03_hero.svg",
-    "figure_local": "images/editorial/MW_SXH_03_summary.svg",
-    "hero_source_page": "https://test-repo-y1wb.onrender.com/images/editorial/MW_SXH_03_hero.svg",
-    "figure_source_page": "https://test-repo-y1wb.onrender.com/images/editorial/MW_SXH_03_summary.svg",
-    "creator": "Pulse & Vitality editorial assets",
-    "provenance": "Original project-owned SVG editorial illustration; not a study figure",
-    "license_note": "Original SVG assets created in this project; no external photo or figure attribution claimed.",
-    "evidence_urls": [
-      "https://pubmed.ncbi.nlm.nih.gov/21632481/",
-      "https://www.nhlbi.nih.gov/health/sleep/how-much-sleep",
-      "https://www.endocrine.org/patient-engagement/endocrine-library/hypogonadism",
-      "https://www.nhlbi.nih.gov/health/sleep-apnea/symptoms"
-    ]
-  },
-  "MW_SXH_04": {
-    "hero_local": "images/editorial/MW_SXH_04_hero.svg",
-    "figure_local": "images/editorial/MW_SXH_04_summary.svg",
-    "hero_source_page": "https://test-repo-y1wb.onrender.com/images/editorial/MW_SXH_04_hero.svg",
-    "figure_source_page": "https://test-repo-y1wb.onrender.com/images/editorial/MW_SXH_04_summary.svg",
-    "creator": "Pulse & Vitality editorial assets",
-    "provenance": "Original project-owned SVG editorial illustration; not a study figure",
-    "license_note": "Original SVG assets created in this project; no external photo or figure attribution claimed.",
-    "evidence_urls": [
-      "https://www.niddk.nih.gov/health-information/urologic-diseases/erectile-dysfunction/symptoms-causes",
       "https://www.nhs.uk/symptoms/loss-of-libido/",
-      "https://www.niddk.nih.gov/health-information/urologic-diseases/erectile-dysfunction/treatment"
-    ]
-  },
-  "MW_REL_01": {
-    "hero_local": "images/editorial/MW_REL_01_hero.svg",
-    "figure_local": "images/editorial/MW_REL_01_summary.svg",
-    "hero_source_page": "https://test-repo-y1wb.onrender.com/images/editorial/MW_REL_01_hero.svg",
-    "figure_source_page": "https://test-repo-y1wb.onrender.com/images/editorial/MW_REL_01_summary.svg",
-    "creator": "Pulse & Vitality editorial assets",
-    "provenance": "Original project-owned SVG editorial illustration; not a study figure",
-    "license_note": "Original SVG assets created in this project; no external photo or figure attribution claimed.",
-    "evidence_urls": [
-      "https://www.nhs.uk/every-mind-matters/lifes-challenges/maintaining-healthy-relationships-and-mental-wellbeing/",
-      "https://www.devonsexualhealth.nhs.uk/your-sexual-health/relationships-and-intimacy/"
-    ]
-  },
-  "MW_REL_02": {
-    "hero_local": "images/editorial/MW_REL_02_hero.svg",
-    "figure_local": "images/editorial/MW_REL_02_summary.svg",
-    "hero_source_page": "https://test-repo-y1wb.onrender.com/images/editorial/MW_REL_02_hero.svg",
-    "figure_source_page": "https://test-repo-y1wb.onrender.com/images/editorial/MW_REL_02_summary.svg",
-    "creator": "Pulse & Vitality editorial assets",
-    "provenance": "Original project-owned SVG editorial illustration; not a study figure",
-    "license_note": "Original SVG assets created in this project; no external photo or figure attribution claimed.",
-    "evidence_urls": [
+      "https://www.acog.org/womens-health/faqs/when-sex-is-painful",
+      "https://www.devonsexualhealth.nhs.uk/your-sexual-health/relationships-and-intimacy/",
       "https://pubmed.ncbi.nlm.nih.gov/30777780/",
-      "https://www.devonsexualhealth.nhs.uk/your-sexual-health/relationships-and-intimacy/"
+      "https://www.acog.org/womens-health/faqs/vulvovaginal-health",
+      "https://www.nhs.uk/every-mind-matters/lifes-challenges/maintaining-healthy-relationships-and-mental-wellbeing/"
     ]
   },
-  "MW_REL_03": {
-    "hero_local": "images/editorial/MW_REL_03_hero.svg",
-    "figure_local": "images/editorial/MW_REL_03_summary.svg",
-    "hero_source_page": "https://test-repo-y1wb.onrender.com/images/editorial/MW_REL_03_hero.svg",
-    "figure_source_page": "https://test-repo-y1wb.onrender.com/images/editorial/MW_REL_03_summary.svg",
-    "creator": "Pulse & Vitality editorial assets",
-    "provenance": "Original project-owned SVG editorial illustration; not a study figure",
-    "license_note": "Original SVG assets created in this project; no external photo or figure attribution claimed.",
+  "WH_10": {
+    "hero_local": "images/WH_10_hero.jpg",
+    "figure_local": "images/editorial/WH_10_summary.svg",
+    "hero_source_page": "https://test-repo-y1wb.onrender.com/images/WH_10_hero.jpg",
+    "figure_source_page": "https://test-repo-y1wb.onrender.com/images/editorial/WH_10_summary.svg",
+    "creator": "Original project image library / editorial assets",
+    "provenance": "Hero restored from the original project library. Retained diagrams are illustrations, not study outcome data; other inline visuals are original editorial summaries.",
+    "license_note": "Existing project raster assets restored; no new claim of upstream authorship or verified external licensing. SVG summaries are project-created.",
     "evidence_urls": [
-      "https://www.nhs.uk/every-mind-matters/lifes-challenges/maintaining-healthy-relationships-and-mental-wellbeing/",
-      "https://www.devonsexualhealth.nhs.uk/your-sexual-health/relationships-and-intimacy/"
-    ]
-  },
-  "MW_REL_04": {
-    "hero_local": "images/editorial/MW_REL_04_hero.svg",
-    "figure_local": "images/editorial/MW_REL_04_summary.svg",
-    "hero_source_page": "https://test-repo-y1wb.onrender.com/images/editorial/MW_REL_04_hero.svg",
-    "figure_source_page": "https://test-repo-y1wb.onrender.com/images/editorial/MW_REL_04_summary.svg",
-    "creator": "Pulse & Vitality editorial assets",
-    "provenance": "Original project-owned SVG editorial illustration; not a study figure",
-    "license_note": "Original SVG assets created in this project; no external photo or figure attribution claimed.",
-    "evidence_urls": [
-      "https://www.nhs.uk/every-mind-matters/lifes-challenges/maintaining-healthy-relationships-and-mental-wellbeing/",
-      "https://pubmed.ncbi.nlm.nih.gov/39514915/"
-    ]
-  },
-  "MW_SXO_01": {
-    "hero_local": "images/editorial/MW_SXO_01_hero.svg",
-    "figure_local": "images/editorial/MW_SXO_01_summary.svg",
-    "hero_source_page": "https://test-repo-y1wb.onrender.com/images/editorial/MW_SXO_01_hero.svg",
-    "figure_source_page": "https://test-repo-y1wb.onrender.com/images/editorial/MW_SXO_01_summary.svg",
-    "creator": "Pulse & Vitality editorial assets",
-    "provenance": "Original project-owned SVG editorial illustration; not a study figure",
-    "license_note": "Original SVG assets created in this project; no external photo or figure attribution claimed.",
-    "evidence_urls": [
-      "https://www.nhs.uk/symptoms/loss-of-libido/",
-      "https://www.endocrine.org/patient-engagement/endocrine-library/hypogonadism",
-      "https://www.devonsexualhealth.nhs.uk/your-sexual-health/relationships-and-intimacy/"
-    ]
-  },
-  "MW_SXO_02": {
-    "hero_local": "images/editorial/MW_SXO_02_hero.svg",
-    "figure_local": "images/editorial/MW_SXO_02_summary.svg",
-    "hero_source_page": "https://test-repo-y1wb.onrender.com/images/editorial/MW_SXO_02_hero.svg",
-    "figure_source_page": "https://test-repo-y1wb.onrender.com/images/editorial/MW_SXO_02_summary.svg",
-    "creator": "Pulse & Vitality editorial assets",
-    "provenance": "Original project-owned SVG editorial illustration; not a study figure",
-    "license_note": "Original SVG assets created in this project; no external photo or figure attribution claimed.",
-    "evidence_urls": [
-      "https://www.niddk.nih.gov/health-information/urologic-diseases/erectile-dysfunction/symptoms-causes",
-      "https://www.devonsexualhealth.nhs.uk/your-sexual-health/relationships-and-intimacy/"
-    ]
-  },
-  "MW_SXO_03": {
-    "hero_local": "images/editorial/MW_SXO_03_hero.svg",
-    "figure_local": "images/editorial/MW_SXO_03_summary.svg",
-    "hero_source_page": "https://test-repo-y1wb.onrender.com/images/editorial/MW_SXO_03_hero.svg",
-    "figure_source_page": "https://test-repo-y1wb.onrender.com/images/editorial/MW_SXO_03_summary.svg",
-    "creator": "Pulse & Vitality editorial assets",
-    "provenance": "Original project-owned SVG editorial illustration; not a study figure",
-    "license_note": "Original SVG assets created in this project; no external photo or figure attribution claimed.",
-    "evidence_urls": [
-      "https://www.nhs.uk/symptoms/loss-of-libido/",
-      "https://pubmed.ncbi.nlm.nih.gov/29562364/",
-      "https://integration.asrm.org/practice-guidance/practice-committee-documents/diagnosis-and-treatment-of-infertility-in-men-aua-asrm-guideline-part2/"
-    ]
-  },
-  "MW_SXO_04": {
-    "hero_local": "images/editorial/MW_SXO_04_hero.svg",
-    "figure_local": "images/editorial/MW_SXO_04_summary.svg",
-    "hero_source_page": "https://test-repo-y1wb.onrender.com/images/editorial/MW_SXO_04_hero.svg",
-    "figure_source_page": "https://test-repo-y1wb.onrender.com/images/editorial/MW_SXO_04_summary.svg",
-    "creator": "Pulse & Vitality editorial assets",
-    "provenance": "Original project-owned SVG editorial illustration; not a study figure",
-    "license_note": "Original SVG assets created in this project; no external photo or figure attribution claimed.",
-    "evidence_urls": [
-      "https://www.nhs.uk/symptoms/loss-of-libido/",
-      "https://www.devonsexualhealth.nhs.uk/your-sexual-health/relationships-and-intimacy/"
-    ]
-  },
-  "MW_NUT_05": {
-    "hero_local": "images/editorial/MW_NUT_05_hero.svg",
-    "figure_local": "images/editorial/MW_NUT_05_summary.svg",
-    "hero_source_page": "https://test-repo-y1wb.onrender.com/images/editorial/MW_NUT_05_hero.svg",
-    "figure_source_page": "https://test-repo-y1wb.onrender.com/images/editorial/MW_NUT_05_summary.svg",
-    "creator": "Pulse & Vitality editorial assets",
-    "provenance": "Original project-owned SVG editorial illustration; not a study figure",
-    "license_note": "Original SVG assets created in this project; no external photo or figure attribution claimed.",
-    "evidence_urls": [
-      "https://ods.od.nih.gov/factsheets/Zinc-HealthProfessional/",
-      "https://ods.od.nih.gov/factsheets/VitaminD-Consumer/",
-      "https://www.endocrine.org/patient-engagement/endocrine-library/hypogonadism"
-    ]
-  },
-  "MW_NUT_06": {
-    "hero_local": "images/editorial/MW_NUT_06_hero.svg",
-    "figure_local": "images/editorial/MW_NUT_06_summary.svg",
-    "hero_source_page": "https://test-repo-y1wb.onrender.com/images/editorial/MW_NUT_06_hero.svg",
-    "figure_source_page": "https://test-repo-y1wb.onrender.com/images/editorial/MW_NUT_06_summary.svg",
-    "creator": "Pulse & Vitality editorial assets",
-    "provenance": "Original project-owned SVG editorial illustration; not a study figure",
-    "license_note": "Original SVG assets created in this project; no external photo or figure attribution claimed.",
-    "evidence_urls": [
-      "https://integration.asrm.org/practice-guidance/practice-committee-documents/diagnosis-and-treatment-of-infertility-in-men-aua-asrm-guideline-part2/",
-      "https://integration.asrm.org/globalassets/_asrm/practice-guidance/practice-guidelines/pdf/optimizing_natural_fertility.pdf",
-      "https://www.who.int/news-room/fact-sheets/detail/healthy-diet"
-    ]
-  },
-  "MW_NUT_07": {
-    "hero_local": "images/editorial/MW_NUT_07_hero.svg",
-    "figure_local": "images/editorial/MW_NUT_07_summary.svg",
-    "hero_source_page": "https://test-repo-y1wb.onrender.com/images/editorial/MW_NUT_07_hero.svg",
-    "figure_source_page": "https://test-repo-y1wb.onrender.com/images/editorial/MW_NUT_07_summary.svg",
-    "creator": "Pulse & Vitality editorial assets",
-    "provenance": "Original project-owned SVG editorial illustration; not a study figure",
-    "license_note": "Original SVG assets created in this project; no external photo or figure attribution claimed.",
-    "evidence_urls": [
-      "https://pubmed.ncbi.nlm.nih.gov/35684143/",
-      "https://www.who.int/news-room/fact-sheets/detail/healthy-diet",
-      "https://bjsm.bmj.com/content/57/17/1073"
-    ]
-  },
-  "MW_NUT_08": {
-    "hero_local": "images/editorial/MW_NUT_08_hero.svg",
-    "figure_local": "images/editorial/MW_NUT_08_summary.svg",
-    "hero_source_page": "https://test-repo-y1wb.onrender.com/images/editorial/MW_NUT_08_hero.svg",
-    "figure_source_page": "https://test-repo-y1wb.onrender.com/images/editorial/MW_NUT_08_summary.svg",
-    "creator": "Pulse & Vitality editorial assets",
-    "provenance": "Original project-owned SVG editorial illustration; not a study figure",
-    "license_note": "Original SVG assets created in this project; no external photo or figure attribution claimed.",
-    "evidence_urls": [
-      "https://www.nhs.uk/conditions/dehydration/"
-    ]
-  },
-  "MW_SXH_05": {
-    "hero_local": "images/editorial/MW_SXH_05_hero.svg",
-    "figure_local": "images/editorial/MW_SXH_05_summary.svg",
-    "hero_source_page": "https://test-repo-y1wb.onrender.com/images/editorial/MW_SXH_05_hero.svg",
-    "figure_source_page": "https://test-repo-y1wb.onrender.com/images/editorial/MW_SXH_05_summary.svg",
-    "creator": "Pulse & Vitality editorial assets",
-    "provenance": "Original project-owned SVG editorial illustration; not a study figure",
-    "license_note": "Original SVG assets created in this project; no external photo or figure attribution claimed.",
-    "evidence_urls": [
-      "https://www.niddk.nih.gov/health-information/urologic-diseases/erectile-dysfunction/symptoms-causes",
-      "https://www.endocrine.org/patient-engagement/endocrine-library/hypogonadism"
-    ]
-  },
-  "MW_SXH_06": {
-    "hero_local": "images/editorial/MW_SXH_06_hero.svg",
-    "figure_local": "images/editorial/MW_SXH_06_summary.svg",
-    "hero_source_page": "https://test-repo-y1wb.onrender.com/images/editorial/MW_SXH_06_hero.svg",
-    "figure_source_page": "https://test-repo-y1wb.onrender.com/images/editorial/MW_SXH_06_summary.svg",
-    "creator": "Pulse & Vitality editorial assets",
-    "provenance": "Original project-owned SVG editorial illustration; not a study figure",
-    "license_note": "Original SVG assets created in this project; no external photo or figure attribution claimed.",
-    "evidence_urls": [
-      "https://www.niddk.nih.gov/health-information/urologic-diseases/erectile-dysfunction/treatment",
-      "https://www.who.int/news-room/fact-sheets/detail/physical-activity",
-      "https://bjsm.bmj.com/content/57/17/1073"
-    ]
-  },
-  "MW_SXH_07": {
-    "hero_local": "images/editorial/MW_SXH_07_hero.svg",
-    "figure_local": "images/editorial/MW_SXH_07_summary.svg",
-    "hero_source_page": "https://test-repo-y1wb.onrender.com/images/editorial/MW_SXH_07_hero.svg",
-    "figure_source_page": "https://test-repo-y1wb.onrender.com/images/editorial/MW_SXH_07_summary.svg",
-    "creator": "Pulse & Vitality editorial assets",
-    "provenance": "Original project-owned SVG editorial illustration; not a study figure",
-    "license_note": "Original SVG assets created in this project; no external photo or figure attribution claimed.",
-    "evidence_urls": [
-      "https://integration.asrm.org/practice-guidance/practice-committee-documents/diagnosis-and-treatment-of-infertility-in-men-aua-asrm-guideline-part2/",
-      "https://integration.asrm.org/globalassets/_asrm/practice-guidance/practice-guidelines/pdf/optimizing_natural_fertility.pdf",
-      "https://www.nhs.uk/symptoms/testicle-pain/"
-    ]
-  },
-  "MW_SXH_08": {
-    "hero_local": "images/editorial/MW_SXH_08_hero.svg",
-    "figure_local": "images/editorial/MW_SXH_08_summary.svg",
-    "hero_source_page": "https://test-repo-y1wb.onrender.com/images/editorial/MW_SXH_08_hero.svg",
-    "figure_source_page": "https://test-repo-y1wb.onrender.com/images/editorial/MW_SXH_08_summary.svg",
-    "creator": "Pulse & Vitality editorial assets",
-    "provenance": "Original project-owned SVG editorial illustration; not a study figure",
-    "license_note": "Original SVG assets created in this project; no external photo or figure attribution claimed.",
-    "evidence_urls": [
-      "https://pubmed.ncbi.nlm.nih.gov/29562364/",
-      "https://www.endocrine.org/patient-engagement/endocrine-library/hypogonadism"
-    ]
-  },
-  "MW_REL_05": {
-    "hero_local": "images/editorial/MW_REL_05_hero.svg",
-    "figure_local": "images/editorial/MW_REL_05_summary.svg",
-    "hero_source_page": "https://test-repo-y1wb.onrender.com/images/editorial/MW_REL_05_hero.svg",
-    "figure_source_page": "https://test-repo-y1wb.onrender.com/images/editorial/MW_REL_05_summary.svg",
-    "creator": "Pulse & Vitality editorial assets",
-    "provenance": "Original project-owned SVG editorial illustration; not a study figure",
-    "license_note": "Original SVG assets created in this project; no external photo or figure attribution claimed.",
-    "evidence_urls": [
-      "https://www.nhs.uk/every-mind-matters/lifes-challenges/maintaining-healthy-relationships-and-mental-wellbeing/",
-      "https://www.devonsexualhealth.nhs.uk/your-sexual-health/relationships-and-intimacy/"
-    ]
-  },
-  "MW_REL_06": {
-    "hero_local": "images/editorial/MW_REL_06_hero.svg",
-    "figure_local": "images/editorial/MW_REL_06_summary.svg",
-    "hero_source_page": "https://test-repo-y1wb.onrender.com/images/editorial/MW_REL_06_hero.svg",
-    "figure_source_page": "https://test-repo-y1wb.onrender.com/images/editorial/MW_REL_06_summary.svg",
-    "creator": "Pulse & Vitality editorial assets",
-    "provenance": "Original project-owned SVG editorial illustration; not a study figure",
-    "license_note": "Original SVG assets created in this project; no external photo or figure attribution claimed.",
-    "evidence_urls": [
+      "https://www.nhs.uk/conditions/pre-menstrual-syndrome/",
+      "https://www.nhs.uk/conditions/periods/",
+      "https://www.endocrine.org/patient-engagement/endocrine-library/hormones-and-endocrine-function/reproductive-hormones",
+      "https://www.acog.org/womens-health/faqs/fertility-awareness-based-methods-of-family-planning",
+      "https://openstax.org/books/biology-2e/pages/43-4-hormonal-control-of-human-reproduction",
       "https://www.nhs.uk/symptoms/loss-of-libido/",
       "https://www.devonsexualhealth.nhs.uk/your-sexual-health/relationships-and-intimacy/",
       "https://pubmed.ncbi.nlm.nih.gov/30777780/"
     ]
   },
-  "MW_REL_07": {
-    "hero_local": "images/editorial/MW_REL_07_hero.svg",
-    "figure_local": "images/editorial/MW_REL_07_summary.svg",
-    "hero_source_page": "https://test-repo-y1wb.onrender.com/images/editorial/MW_REL_07_hero.svg",
-    "figure_source_page": "https://test-repo-y1wb.onrender.com/images/editorial/MW_REL_07_summary.svg",
-    "creator": "Pulse & Vitality editorial assets",
-    "provenance": "Original project-owned SVG editorial illustration; not a study figure",
-    "license_note": "Original SVG assets created in this project; no external photo or figure attribution claimed.",
+  "WH_11": {
+    "hero_local": "images/WH_11_hero.jpg",
+    "figure_local": "images/editorial/WH_11_summary.svg",
+    "hero_source_page": "https://test-repo-y1wb.onrender.com/images/WH_11_hero.jpg",
+    "figure_source_page": "https://test-repo-y1wb.onrender.com/images/editorial/WH_11_summary.svg",
+    "creator": "Original project image library / editorial assets",
+    "provenance": "Hero restored from the original project library. Retained diagrams are illustrations, not study outcome data; other inline visuals are original editorial summaries.",
+    "license_note": "Existing project raster assets restored; no new claim of upstream authorship or verified external licensing. SVG summaries are project-created.",
+    "evidence_urls": [
+      "https://www.acog.org/womens-health/faqs/vulvovaginal-health",
+      "https://www.acog.org/womens-health/faqs/when-sex-is-painful",
+      "https://www.acog.org/womens-health/faqs/fertility-awareness-based-methods-of-family-planning",
+      "https://www.nhs.uk/conditions/periods/",
+      "https://www.endocrine.org/patient-engagement/endocrine-library/hormones-and-endocrine-function/reproductive-hormones",
+      "https://openstax.org/books/biology-2e/pages/43-4-hormonal-control-of-human-reproduction"
+    ]
+  },
+  "WH_12": {
+    "hero_local": "images/WH_12_hero.jpg",
+    "figure_local": "images/WH_12_figure.png",
+    "hero_source_page": "https://test-repo-y1wb.onrender.com/images/WH_12_hero.jpg",
+    "figure_source_page": "https://test-repo-y1wb.onrender.com/images/WH_12_figure.png",
+    "creator": "Original project image library / editorial assets",
+    "provenance": "Hero restored from the original project library. Retained diagrams are illustrations, not study outcome data; other inline visuals are original editorial summaries.",
+    "license_note": "Existing project raster assets restored; no new claim of upstream authorship or verified external licensing. SVG summaries are project-created.",
+    "evidence_urls": [
+      "https://www.acog.org/womens-health/faqs/when-sex-is-painful",
+      "https://www.acog.org/womens-health/faqs/vulvovaginal-health",
+      "https://www.nth.nhs.uk/resources/pelvic-floor-exercises-for-men/",
+      "https://www.royalberkshire.nhs.uk/media/avwg3hls/pelvic-floor-strengthening-and-relaxation-exercises-for-men_jun24.pdf",
+      "https://www.nhs.uk/conditions/urinary-incontinence/treatment/",
+      "https://www.cuh.nhs.uk/patient-information/female-pelvic-floor-muscle-exercises/",
+      "https://pubmed.ncbi.nlm.nih.gov/27872005/",
+      "https://www.nhs.uk/symptoms/loss-of-libido/",
+      "https://www.devonsexualhealth.nhs.uk/your-sexual-health/relationships-and-intimacy/",
+      "https://pubmed.ncbi.nlm.nih.gov/30777780/"
+    ]
+  },
+  "WH_13": {
+    "hero_local": "images/WH_13_hero.jpg",
+    "figure_local": "images/WH_13_figure.png",
+    "hero_source_page": "https://test-repo-y1wb.onrender.com/images/WH_13_hero.jpg",
+    "figure_source_page": "https://test-repo-y1wb.onrender.com/images/WH_13_figure.png",
+    "creator": "Original project image library / editorial assets",
+    "provenance": "Hero restored from the original project library. Retained diagrams are illustrations, not study outcome data; other inline visuals are original editorial summaries.",
+    "license_note": "Existing project raster assets restored; no new claim of upstream authorship or verified external licensing. SVG summaries are project-created.",
+    "evidence_urls": [
+      "https://www.nhs.uk/conditions/urinary-incontinence/treatment/",
+      "https://www.acog.org/womens-health/faqs/when-sex-is-painful",
+      "https://www.cuh.nhs.uk/patient-information/female-pelvic-floor-muscle-exercises/",
+      "https://www.nth.nhs.uk/resources/pelvic-floor-exercises-for-men/",
+      "https://www.royalberkshire.nhs.uk/media/avwg3hls/pelvic-floor-strengthening-and-relaxation-exercises-for-men_jun24.pdf",
+      "https://pubmed.ncbi.nlm.nih.gov/27872005/",
+      "https://www.acog.org/womens-health/faqs/exercise-after-pregnancy",
+      "https://pubmed.ncbi.nlm.nih.gov/30245619/",
+      "https://pubmed.ncbi.nlm.nih.gov/27680542/"
+    ]
+  },
+  "WH_15": {
+    "hero_local": "images/WH_15_hero.jpg",
+    "figure_local": "images/editorial/WH_15_summary.svg",
+    "hero_source_page": "https://test-repo-y1wb.onrender.com/images/WH_15_hero.jpg",
+    "figure_source_page": "https://test-repo-y1wb.onrender.com/images/editorial/WH_15_summary.svg",
+    "creator": "Original project image library / editorial assets",
+    "provenance": "Hero restored from the original project library. Retained diagrams are illustrations, not study outcome data; other inline visuals are original editorial summaries.",
+    "license_note": "Existing project raster assets restored; no new claim of upstream authorship or verified external licensing. SVG summaries are project-created.",
+    "evidence_urls": [
+      "https://pubmed.ncbi.nlm.nih.gov/32661839/",
+      "https://www.nhs.uk/conditions/pre-menstrual-syndrome/",
+      "https://www.nhs.uk/conditions/heavy-periods/",
+      "https://pubmed.ncbi.nlm.nih.gov/37033884/",
+      "https://www.nhs.uk/conditions/periods/",
+      "https://bjsm.bmj.com/content/57/17/1073",
+      "https://www.nhs.uk/symptoms/missed-or-late-periods/"
+    ]
+  },
+  "WH_16": {
+    "hero_local": "images/WH_16_hero.jpg",
+    "figure_local": "images/editorial/WH_16_summary.svg",
+    "hero_source_page": "https://test-repo-y1wb.onrender.com/images/WH_16_hero.jpg",
+    "figure_source_page": "https://test-repo-y1wb.onrender.com/images/editorial/WH_16_summary.svg",
+    "creator": "Original project image library / editorial assets",
+    "provenance": "Hero restored from the original project library. Retained diagrams are illustrations, not study outcome data; other inline visuals are original editorial summaries.",
+    "license_note": "Existing project raster assets restored; no new claim of upstream authorship or verified external licensing. SVG summaries are project-created.",
+    "evidence_urls": [
+      "https://pubmed.ncbi.nlm.nih.gov/31726666/",
+      "https://pubmed.ncbi.nlm.nih.gov/29034226/",
+      "https://www.heart.org/en/health-topics/high-blood-pressure/the-facts-about-high-blood-pressure/all-about-heart-rate-pulse",
+      "https://pubmed.ncbi.nlm.nih.gov/27680542/",
+      "https://www.nhs.uk/conditions/periods/",
+      "https://www.endocrine.org/patient-engagement/endocrine-library/hormones-and-endocrine-function/reproductive-hormones",
+      "https://www.acog.org/womens-health/faqs/fertility-awareness-based-methods-of-family-planning",
+      "https://openstax.org/books/biology-2e/pages/43-4-hormonal-control-of-human-reproduction"
+    ]
+  },
+  "WH_17": {
+    "hero_local": "images/WH_17_hero.jpg",
+    "figure_local": "images/editorial/WH_17_summary.svg",
+    "hero_source_page": "https://test-repo-y1wb.onrender.com/images/WH_17_hero.jpg",
+    "figure_source_page": "https://test-repo-y1wb.onrender.com/images/editorial/WH_17_summary.svg",
+    "creator": "Original project image library / editorial assets",
+    "provenance": "Hero restored from the original project library. Retained diagrams are illustrations, not study outcome data; other inline visuals are original editorial summaries.",
+    "license_note": "Existing project raster assets restored; no new claim of upstream authorship or verified external licensing. SVG summaries are project-created.",
+    "evidence_urls": [
+      "https://www.who.int/news-room/fact-sheets/detail/physical-activity",
+      "https://pubmed.ncbi.nlm.nih.gov/37033884/",
+      "https://bjsm.bmj.com/content/57/17/1073",
+      "https://pubmed.ncbi.nlm.nih.gov/28698222/",
+      "https://www.who.int/news-room/fact-sheets/detail/healthy-diet",
+      "https://pubmed.ncbi.nlm.nih.gov/32661839/",
+      "https://www.nhs.uk/symptoms/missed-or-late-periods/",
+      "https://pubmed.ncbi.nlm.nih.gov/28975661/"
+    ]
+  },
+  "WH_18": {
+    "hero_local": "images/WH_18_hero.jpg",
+    "figure_local": "images/editorial/WH_18_summary.svg",
+    "hero_source_page": "https://test-repo-y1wb.onrender.com/images/WH_18_hero.jpg",
+    "figure_source_page": "https://test-repo-y1wb.onrender.com/images/editorial/WH_18_summary.svg",
+    "creator": "Original project image library / editorial assets",
+    "provenance": "Hero restored from the original project library. Retained diagrams are illustrations, not study outcome data; other inline visuals are original editorial summaries.",
+    "license_note": "Existing project raster assets restored; no new claim of upstream authorship or verified external licensing. SVG summaries are project-created.",
+    "evidence_urls": [
+      "https://bjsm.bmj.com/content/57/17/1073",
+      "https://www.nhs.uk/symptoms/missed-or-late-periods/",
+      "https://pubmed.ncbi.nlm.nih.gov/23247672/",
+      "https://www.nhs.uk/conditions/periods/",
+      "https://www.endocrine.org/patient-engagement/endocrine-library/hormones-and-endocrine-function/reproductive-hormones",
+      "https://www.acog.org/womens-health/faqs/fertility-awareness-based-methods-of-family-planning",
+      "https://openstax.org/books/biology-2e/pages/43-4-hormonal-control-of-human-reproduction",
+      "https://pubmed.ncbi.nlm.nih.gov/29345524/"
+    ]
+  },
+  "WH_19": {
+    "hero_local": "images/WH_19_hero.jpg",
+    "figure_local": "images/editorial/WH_19_summary.svg",
+    "hero_source_page": "https://test-repo-y1wb.onrender.com/images/WH_19_hero.jpg",
+    "figure_source_page": "https://test-repo-y1wb.onrender.com/images/editorial/WH_19_summary.svg",
+    "creator": "Original project image library / editorial assets",
+    "provenance": "Hero restored from the original project library. Retained diagrams are illustrations, not study outcome data; other inline visuals are original editorial summaries.",
+    "license_note": "Existing project raster assets restored; no new claim of upstream authorship or verified external licensing. SVG summaries are project-created.",
+    "evidence_urls": [
+      "https://www.nhs.uk/conditions/pre-menstrual-syndrome/",
+      "https://www.nhlbi.nih.gov/health/sleep-deprivation/healthy-sleep-habits",
+      "https://pubmed.ncbi.nlm.nih.gov/34314344/",
+      "https://www.nhs.uk/conditions/periods/",
+      "https://www.nhlbi.nih.gov/health/sleep/stages-of-sleep",
+      "https://www.nhlbi.nih.gov/health/sleep/sleep-wake-cycle"
+    ]
+  },
+  "WH_20": {
+    "hero_local": "images/WH_20_hero.jpg",
+    "figure_local": "images/editorial/WH_20_summary.svg",
+    "hero_source_page": "https://test-repo-y1wb.onrender.com/images/WH_20_hero.jpg",
+    "figure_source_page": "https://test-repo-y1wb.onrender.com/images/editorial/WH_20_summary.svg",
+    "creator": "Original project image library / editorial assets",
+    "provenance": "Hero restored from the original project library. Retained diagrams are illustrations, not study outcome data; other inline visuals are original editorial summaries.",
+    "license_note": "Existing project raster assets restored; no new claim of upstream authorship or verified external licensing. SVG summaries are project-created.",
+    "evidence_urls": [
+      "https://www.nhs.uk/symptoms/missed-or-late-periods/",
+      "https://www.nhs.uk/pregnancy/trying-for-a-baby/doing-a-pregnancy-test/",
+      "https://bjsm.bmj.com/content/57/17/1073",
+      "https://www.nhs.uk/conditions/periods/",
+      "https://www.endocrine.org/patient-engagement/endocrine-library/hormones-and-endocrine-function/reproductive-hormones",
+      "https://www.acog.org/womens-health/faqs/fertility-awareness-based-methods-of-family-planning",
+      "https://openstax.org/books/biology-2e/pages/43-4-hormonal-control-of-human-reproduction",
+      "https://www.nhs.uk/conditions/ectopic-pregnancy/symptoms/"
+    ]
+  },
+  "WH_21": {
+    "hero_local": "images/WH_21_hero.jpg",
+    "figure_local": "images/editorial/WH_21_summary.svg",
+    "hero_source_page": "https://test-repo-y1wb.onrender.com/images/WH_21_hero.jpg",
+    "figure_source_page": "https://test-repo-y1wb.onrender.com/images/editorial/WH_21_summary.svg",
+    "creator": "Original project image library / editorial assets",
+    "provenance": "Hero restored from the original project library. Retained diagrams are illustrations, not study outcome data; other inline visuals are original editorial summaries.",
+    "license_note": "Existing project raster assets restored; no new claim of upstream authorship or verified external licensing. SVG summaries are project-created.",
+    "evidence_urls": [
+      "https://www.who.int/news-room/fact-sheets/detail/healthy-diet",
+      "https://www.nhs.uk/conditions/pre-menstrual-syndrome/",
+      "https://bjsm.bmj.com/content/57/17/1073",
+      "https://www.nhs.uk/conditions/heavy-periods/",
+      "https://www.who.int/news-room/fact-sheets/detail/alcohol",
+      "https://www.nhs.uk/symptoms/missed-or-late-periods/",
+      "https://www.nhs.uk/conditions/periods/"
+    ]
+  },
+  "WH_22": {
+    "hero_local": "images/WH_22_hero.jpg",
+    "figure_local": "images/WH_22_figure.png",
+    "hero_source_page": "https://test-repo-y1wb.onrender.com/images/WH_22_hero.jpg",
+    "figure_source_page": "https://test-repo-y1wb.onrender.com/images/WH_22_figure.png",
+    "creator": "Original project image library / editorial assets",
+    "provenance": "Hero restored from the original project library. Retained diagrams are illustrations, not study outcome data; other inline visuals are original editorial summaries.",
+    "license_note": "Existing project raster assets restored; no new claim of upstream authorship or verified external licensing. SVG summaries are project-created.",
+    "evidence_urls": [
+      "https://www.nhs.uk/conditions/heavy-periods/",
+      "https://www.nhs.uk/conditions/iron-deficiency-anaemia/",
+      "https://bjsm.bmj.com/content/57/17/1073",
+      "https://www.nhs.uk/symptoms/missed-or-late-periods/",
+      "https://www.nhs.uk/conditions/periods/",
+      "https://www.endocrine.org/patient-engagement/endocrine-library/hormones-and-endocrine-function/reproductive-hormones",
+      "https://www.acog.org/womens-health/faqs/fertility-awareness-based-methods-of-family-planning",
+      "https://openstax.org/books/biology-2e/pages/43-4-hormonal-control-of-human-reproduction",
+      "https://pubmed.ncbi.nlm.nih.gov/34497146/"
+    ]
+  },
+  "WH_23": {
+    "hero_local": "images/WH_23_hero.jpg",
+    "figure_local": "images/editorial/WH_23_summary.svg",
+    "hero_source_page": "https://test-repo-y1wb.onrender.com/images/WH_23_hero.jpg",
+    "figure_source_page": "https://test-repo-y1wb.onrender.com/images/editorial/WH_23_summary.svg",
+    "creator": "Original project image library / editorial assets",
+    "provenance": "Hero restored from the original project library. Retained diagrams are illustrations, not study outcome data; other inline visuals are original editorial summaries.",
+    "license_note": "Existing project raster assets restored; no new claim of upstream authorship or verified external licensing. SVG summaries are project-created.",
+    "evidence_urls": [
+      "https://integration.asrm.org/globalassets/_asrm/practice-guidance/practice-guidelines/pdf/optimizing_natural_fertility.pdf",
+      "https://www.acog.org/womens-health/faqs/fertility-awareness-based-methods-of-family-planning",
+      "https://www.acog.org/womens-health/faqs/vulvovaginal-health",
+      "https://www.nhs.uk/pregnancy/trying-for-a-baby/doing-a-pregnancy-test/",
+      "https://www.nhs.uk/conditions/ectopic-pregnancy/symptoms/",
+      "https://www.nhs.uk/conditions/periods/",
+      "https://www.endocrine.org/patient-engagement/endocrine-library/hormones-and-endocrine-function/reproductive-hormones",
+      "https://openstax.org/books/biology-2e/pages/43-4-hormonal-control-of-human-reproduction"
+    ]
+  },
+  "WH_24": {
+    "hero_local": "images/WH_24_hero.jpg",
+    "figure_local": "images/WH_24_figure.png",
+    "hero_source_page": "https://test-repo-y1wb.onrender.com/images/WH_24_hero.jpg",
+    "figure_source_page": "https://test-repo-y1wb.onrender.com/images/WH_24_figure.png",
+    "creator": "Original project image library / editorial assets",
+    "provenance": "Hero restored from the original project library. Retained diagrams are illustrations, not study outcome data; other inline visuals are original editorial summaries.",
+    "license_note": "Existing project raster assets restored; no new claim of upstream authorship or verified external licensing. SVG summaries are project-created.",
+    "evidence_urls": [
+      "https://www.nhs.uk/pregnancy/trying-for-a-baby/doing-a-pregnancy-test/",
+      "https://www.nhs.uk/conditions/ectopic-pregnancy/symptoms/",
+      "https://www.acog.org/womens-health/faqs/fertility-awareness-based-methods-of-family-planning",
+      "https://www.nhs.uk/conditions/periods/",
+      "https://www.endocrine.org/patient-engagement/endocrine-library/hormones-and-endocrine-function/reproductive-hormones",
+      "https://openstax.org/books/biology-2e/pages/43-4-hormonal-control-of-human-reproduction"
+    ]
+  },
+  "WH_25": {
+    "hero_local": "images/WH_25_hero.jpg",
+    "figure_local": "images/WH_25_figure.png",
+    "hero_source_page": "https://test-repo-y1wb.onrender.com/images/WH_25_hero.jpg",
+    "figure_source_page": "https://test-repo-y1wb.onrender.com/images/WH_25_figure.png",
+    "creator": "Original project image library / editorial assets",
+    "provenance": "Hero restored from the original project library. Retained diagrams are illustrations, not study outcome data; other inline visuals are original editorial summaries.",
+    "license_note": "Existing project raster assets restored; no new claim of upstream authorship or verified external licensing. SVG summaries are project-created.",
+    "evidence_urls": [
+      "https://www.nhs.uk/pregnancy/common-symptoms/common-health-problems/",
+      "https://www.acog.org/clinical/clinical-guidance/committee-opinion/articles/2020/04/physical-activity-and-exercise-during-pregnancy-and-the-postpartum-period",
+      "https://www.acog.org/womens-health/faqs/exercise-after-pregnancy",
+      "https://www.heart.org/en/health-topics/high-blood-pressure/the-facts-about-high-blood-pressure/all-about-heart-rate-pulse",
+      "https://pubmed.ncbi.nlm.nih.gov/29345524/",
+      "https://pubmed.ncbi.nlm.nih.gov/27881567/",
+      "https://www.acog.org/womens-health/faqs/fertility-awareness-based-methods-of-family-planning",
+      "https://www.nhs.uk/pregnancy/trying-for-a-baby/doing-a-pregnancy-test/",
+      "https://www.nhs.uk/conditions/ectopic-pregnancy/symptoms/"
+    ]
+  },
+  "WH_26": {
+    "hero_local": "images/WH_26_hero.jpg",
+    "figure_local": "images/editorial/WH_26_summary.svg",
+    "hero_source_page": "https://test-repo-y1wb.onrender.com/images/WH_26_hero.jpg",
+    "figure_source_page": "https://test-repo-y1wb.onrender.com/images/editorial/WH_26_summary.svg",
+    "creator": "Original project image library / editorial assets",
+    "provenance": "Hero restored from the original project library. Retained diagrams are illustrations, not study outcome data; other inline visuals are original editorial summaries.",
+    "license_note": "Existing project raster assets restored; no new claim of upstream authorship or verified external licensing. SVG summaries are project-created.",
+    "evidence_urls": [
+      "https://www.acog.org/clinical/clinical-guidance/committee-opinion/articles/2020/04/physical-activity-and-exercise-during-pregnancy-and-the-postpartum-period",
+      "https://www.cdc.gov/physicalactivity/basics/measuring/index.html",
+      "https://www.acog.org/womens-health/faqs/exercise-after-pregnancy",
+      "https://www.who.int/news-room/fact-sheets/detail/physical-activity",
+      "https://www.heart.org/en/health-topics/high-blood-pressure/the-facts-about-high-blood-pressure/all-about-heart-rate-pulse",
+      "https://pubmed.ncbi.nlm.nih.gov/29345524/",
+      "https://pubmed.ncbi.nlm.nih.gov/27881567/"
+    ]
+  },
+  "WH_27": {
+    "hero_local": "images/WH_27_hero.jpg",
+    "figure_local": "images/WH_27_figure.png",
+    "hero_source_page": "https://test-repo-y1wb.onrender.com/images/WH_27_hero.jpg",
+    "figure_source_page": "https://test-repo-y1wb.onrender.com/images/WH_27_figure.png",
+    "creator": "Original project image library / editorial assets",
+    "provenance": "Hero restored from the original project library. Retained diagrams are illustrations, not study outcome data; other inline visuals are original editorial summaries.",
+    "license_note": "Existing project raster assets restored; no new claim of upstream authorship or verified external licensing. SVG summaries are project-created.",
+    "evidence_urls": [
+      "https://www.acog.org/womens-health/faqs/exercise-after-pregnancy",
+      "https://www.nhs.uk/conditions/urinary-incontinence/treatment/",
+      "https://www.cuh.nhs.uk/patient-information/female-pelvic-floor-muscle-exercises/",
+      "https://www.nth.nhs.uk/resources/pelvic-floor-exercises-for-men/",
+      "https://www.royalberkshire.nhs.uk/media/avwg3hls/pelvic-floor-strengthening-and-relaxation-exercises-for-men_jun24.pdf",
+      "https://pubmed.ncbi.nlm.nih.gov/27872005/",
+      "https://bjsm.bmj.com/content/57/17/1073",
+      "https://www.nhs.uk/symptoms/missed-or-late-periods/"
+    ]
+  },
+  "WH_28": {
+    "hero_local": "images/WH_28_hero.jpg",
+    "figure_local": "images/editorial/WH_28_summary.svg",
+    "hero_source_page": "https://test-repo-y1wb.onrender.com/images/WH_28_hero.jpg",
+    "figure_source_page": "https://test-repo-y1wb.onrender.com/images/editorial/WH_28_summary.svg",
+    "creator": "Original project image library / editorial assets",
+    "provenance": "Hero restored from the original project library. Retained diagrams are illustrations, not study outcome data; other inline visuals are original editorial summaries.",
+    "license_note": "Existing project raster assets restored; no new claim of upstream authorship or verified external licensing. SVG summaries are project-created.",
+    "evidence_urls": [
+      "https://www.monash.edu/medicine/mchri/pcos/guideline",
+      "https://www.nhs.uk/symptoms/missed-or-late-periods/",
+      "https://www.who.int/news-room/fact-sheets/detail/healthy-diet",
+      "https://www.nhs.uk/conditions/periods/",
+      "https://www.endocrine.org/patient-engagement/endocrine-library/hormones-and-endocrine-function/reproductive-hormones",
+      "https://www.acog.org/womens-health/faqs/fertility-awareness-based-methods-of-family-planning",
+      "https://openstax.org/books/biology-2e/pages/43-4-hormonal-control-of-human-reproduction",
+      "https://bjsm.bmj.com/content/57/17/1073"
+    ]
+  },
+  "WH_29": {
+    "hero_local": "images/WH_29_hero.jpg",
+    "figure_local": "images/WH_29_figure.png",
+    "hero_source_page": "https://test-repo-y1wb.onrender.com/images/WH_29_hero.jpg",
+    "figure_source_page": "https://test-repo-y1wb.onrender.com/images/WH_29_figure.png",
+    "creator": "Original project image library / editorial assets",
+    "provenance": "Hero restored from the original project library. Retained diagrams are illustrations, not study outcome data; other inline visuals are original editorial summaries.",
+    "license_note": "Existing project raster assets restored; no new claim of upstream authorship or verified external licensing. SVG summaries are project-created.",
+    "evidence_urls": [
+      "https://www.nhs.uk/conditions/endometriosis/",
+      "https://www.acog.org/womens-health/faqs/when-sex-is-painful",
+      "https://www.nth.nhs.uk/resources/pelvic-floor-exercises-for-men/",
+      "https://www.royalberkshire.nhs.uk/media/avwg3hls/pelvic-floor-strengthening-and-relaxation-exercises-for-men_jun24.pdf",
+      "https://www.nhs.uk/conditions/urinary-incontinence/treatment/",
+      "https://www.cuh.nhs.uk/patient-information/female-pelvic-floor-muscle-exercises/",
+      "https://pubmed.ncbi.nlm.nih.gov/27872005/",
+      "https://www.nhs.uk/conditions/periods/",
+      "https://www.endocrine.org/patient-engagement/endocrine-library/hormones-and-endocrine-function/reproductive-hormones",
+      "https://www.acog.org/womens-health/faqs/fertility-awareness-based-methods-of-family-planning",
+      "https://openstax.org/books/biology-2e/pages/43-4-hormonal-control-of-human-reproduction"
+    ]
+  },
+  "WH_30": {
+    "hero_local": "images/WH_30_hero.jpg",
+    "figure_local": "images/editorial/WH_30_summary.svg",
+    "hero_source_page": "https://test-repo-y1wb.onrender.com/images/WH_30_hero.jpg",
+    "figure_source_page": "https://test-repo-y1wb.onrender.com/images/editorial/WH_30_summary.svg",
+    "creator": "Original project image library / editorial assets",
+    "provenance": "Hero restored from the original project library. Retained diagrams are illustrations, not study outcome data; other inline visuals are original editorial summaries.",
+    "license_note": "Existing project raster assets restored; no new claim of upstream authorship or verified external licensing. SVG summaries are project-created.",
+    "evidence_urls": [
+      "https://www.nhs.uk/conditions/menopause-and-perimenopause/symptoms/",
+      "https://www.nhs.uk/conditions/menopause-and-perimenopause/treatment/",
+      "https://www.acog.org/womens-health/faqs/vulvovaginal-health",
+      "https://www.nhlbi.nih.gov/health/sleep/sleep-wake-cycle",
+      "https://www.nhlbi.nih.gov/health/sleep-deprivation/healthy-sleep-habits",
+      "https://www.acog.org/womens-health/faqs/when-sex-is-painful"
+    ]
+  },
+  "MW_NUT_01": {
+    "hero_local": "images/MW_NUT_01_hero.jpg",
+    "figure_local": "images/MW_NUT_01_figure.png",
+    "hero_source_page": "https://test-repo-y1wb.onrender.com/images/MW_NUT_01_hero.jpg",
+    "figure_source_page": "https://test-repo-y1wb.onrender.com/images/MW_NUT_01_figure.png",
+    "creator": "Original project image library / editorial assets",
+    "provenance": "Hero restored from the original project library. Retained diagrams are illustrations, not study outcome data; other inline visuals are original editorial summaries.",
+    "license_note": "Existing project raster assets restored; no new claim of upstream authorship or verified external licensing. SVG summaries are project-created.",
+    "evidence_urls": [
+      "https://www.who.int/news-room/fact-sheets/detail/healthy-diet",
+      "https://www.endocrine.org/patient-engagement/endocrine-library/hypogonadism",
+      "https://bjsm.bmj.com/content/57/17/1073",
+      "https://www.who.int/news-room/fact-sheets/detail/alcohol",
+      "https://pubmed.ncbi.nlm.nih.gov/29562364/",
+      "https://integration.asrm.org/practice-guidance/practice-committee-documents/diagnosis-and-treatment-of-infertility-in-men-aua-asrm-guideline-part2/",
+      "https://openstax.org/books/anatomy-and-physiology-2e/pages/17-8-gonadal-and-placental-hormones",
+      "https://www.nhs.uk/symptoms/missed-or-late-periods/"
+    ]
+  },
+  "MW_NUT_02": {
+    "hero_local": "images/MW_NUT_02_hero.jpg",
+    "figure_local": "images/editorial/MW_NUT_02_summary.svg",
+    "hero_source_page": "https://test-repo-y1wb.onrender.com/images/MW_NUT_02_hero.jpg",
+    "figure_source_page": "https://test-repo-y1wb.onrender.com/images/editorial/MW_NUT_02_summary.svg",
+    "creator": "Original project image library / editorial assets",
+    "provenance": "Hero restored from the original project library. Retained diagrams are illustrations, not study outcome data; other inline visuals are original editorial summaries.",
+    "license_note": "Existing project raster assets restored; no new claim of upstream authorship or verified external licensing. SVG summaries are project-created.",
+    "evidence_urls": [
+      "https://www.who.int/news-room/fact-sheets/detail/healthy-diet",
+      "https://www.niddk.nih.gov/health-information/urologic-diseases/erectile-dysfunction/symptoms-causes",
+      "https://www.niddk.nih.gov/health-information/urologic-diseases/erectile-dysfunction/treatment",
+      "https://www.who.int/news-room/fact-sheets/detail/alcohol",
+      "https://www.devonsexualhealth.nhs.uk/your-sexual-health/relationships-and-intimacy/",
+      "https://pubmed.ncbi.nlm.nih.gov/10853004/",
+      "https://www.nhlbi.nih.gov/health/sleep-deprivation/healthy-sleep-habits",
+      "https://pubmed.ncbi.nlm.nih.gov/15213209/"
+    ]
+  },
+  "MW_NUT_03": {
+    "hero_local": "images/MW_NUT_03_hero.jpg",
+    "figure_local": "images/editorial/MW_NUT_03_summary.svg",
+    "hero_source_page": "https://test-repo-y1wb.onrender.com/images/MW_NUT_03_hero.jpg",
+    "figure_source_page": "https://test-repo-y1wb.onrender.com/images/editorial/MW_NUT_03_summary.svg",
+    "creator": "Original project image library / editorial assets",
+    "provenance": "Hero restored from the original project library. Retained diagrams are illustrations, not study outcome data; other inline visuals are original editorial summaries.",
+    "license_note": "Existing project raster assets restored; no new claim of upstream authorship or verified external licensing. SVG summaries are project-created.",
+    "evidence_urls": [
+      "https://pubmed.ncbi.nlm.nih.gov/28698222/",
+      "https://www.who.int/news-room/fact-sheets/detail/healthy-diet",
+      "https://bjsm.bmj.com/content/57/17/1073",
+      "https://www.nhs.uk/symptoms/missed-or-late-periods/",
+      "https://ods.od.nih.gov/factsheets/Zinc-HealthProfessional/",
+      "https://ods.od.nih.gov/factsheets/VitaminD-Consumer/",
+      "https://www.endocrine.org/patient-engagement/endocrine-library/hypogonadism"
+    ]
+  },
+  "MW_NUT_04": {
+    "hero_local": "images/MW_NUT_04_hero.jpg",
+    "figure_local": "images/MW_NUT_04_figure.png",
+    "hero_source_page": "https://test-repo-y1wb.onrender.com/images/MW_NUT_04_hero.jpg",
+    "figure_source_page": "https://test-repo-y1wb.onrender.com/images/MW_NUT_04_figure.png",
+    "creator": "Original project image library / editorial assets",
+    "provenance": "Hero restored from the original project library. Retained diagrams are illustrations, not study outcome data; other inline visuals are original editorial summaries.",
+    "license_note": "Existing project raster assets restored; no new claim of upstream authorship or verified external licensing. SVG summaries are project-created.",
+    "evidence_urls": [
+      "https://www.who.int/news-room/fact-sheets/detail/alcohol",
+      "https://www.nhlbi.nih.gov/health/sleep-deprivation/healthy-sleep-habits",
+      "https://www.nhlbi.nih.gov/health/sleep/stages-of-sleep",
+      "https://pubmed.ncbi.nlm.nih.gov/34314344/",
+      "https://pubmed.ncbi.nlm.nih.gov/29562364/",
+      "https://www.endocrine.org/patient-engagement/endocrine-library/hypogonadism",
+      "https://integration.asrm.org/practice-guidance/practice-committee-documents/diagnosis-and-treatment-of-infertility-in-men-aua-asrm-guideline-part2/",
+      "https://openstax.org/books/anatomy-and-physiology-2e/pages/17-8-gonadal-and-placental-hormones"
+    ]
+  },
+  "MW_SXH_01": {
+    "hero_local": "images/MW_SXH_01_hero.jpg",
+    "figure_local": "images/editorial/MW_SXH_01_summary.svg",
+    "hero_source_page": "https://test-repo-y1wb.onrender.com/images/MW_SXH_01_hero.jpg",
+    "figure_source_page": "https://test-repo-y1wb.onrender.com/images/editorial/MW_SXH_01_summary.svg",
+    "creator": "Original project image library / editorial assets",
+    "provenance": "Hero restored from the original project library. Retained diagrams are illustrations, not study outcome data; other inline visuals are original editorial summaries.",
+    "license_note": "Existing project raster assets restored; no new claim of upstream authorship or verified external licensing. SVG summaries are project-created.",
+    "evidence_urls": [
+      "https://pubmed.ncbi.nlm.nih.gov/29562364/",
+      "https://www.endocrine.org/patient-engagement/endocrine-library/hypogonadism",
+      "https://integration.asrm.org/practice-guidance/practice-committee-documents/diagnosis-and-treatment-of-infertility-in-men-aua-asrm-guideline-part2/",
+      "https://openstax.org/books/anatomy-and-physiology-2e/pages/17-8-gonadal-and-placental-hormones",
+      "https://www.nhs.uk/symptoms/loss-of-libido/",
+      "https://www.devonsexualhealth.nhs.uk/your-sexual-health/relationships-and-intimacy/",
+      "https://pubmed.ncbi.nlm.nih.gov/30777780/",
+      "https://bjsm.bmj.com/content/57/17/1073",
+      "https://www.nhs.uk/symptoms/missed-or-late-periods/"
+    ]
+  },
+  "MW_SXH_02": {
+    "hero_local": "images/MW_SXH_02_hero.jpg",
+    "figure_local": "images/editorial/MW_SXH_02_summary.svg",
+    "hero_source_page": "https://test-repo-y1wb.onrender.com/images/MW_SXH_02_hero.jpg",
+    "figure_source_page": "https://test-repo-y1wb.onrender.com/images/editorial/MW_SXH_02_summary.svg",
+    "creator": "Original project image library / editorial assets",
+    "provenance": "Hero restored from the original project library. Retained diagrams are illustrations, not study outcome data; other inline visuals are original editorial summaries.",
+    "license_note": "Existing project raster assets restored; no new claim of upstream authorship or verified external licensing. SVG summaries are project-created.",
+    "evidence_urls": [
+      "https://www.niddk.nih.gov/health-information/urologic-diseases/erectile-dysfunction/symptoms-causes",
+      "https://www.niddk.nih.gov/health-information/urologic-diseases/erectile-dysfunction/treatment",
+      "https://www.devonsexualhealth.nhs.uk/your-sexual-health/relationships-and-intimacy/",
+      "https://pubmed.ncbi.nlm.nih.gov/10853004/",
+      "https://pubmed.ncbi.nlm.nih.gov/29562364/",
+      "https://www.endocrine.org/patient-engagement/endocrine-library/hypogonadism",
+      "https://integration.asrm.org/practice-guidance/practice-committee-documents/diagnosis-and-treatment-of-infertility-in-men-aua-asrm-guideline-part2/",
+      "https://openstax.org/books/anatomy-and-physiology-2e/pages/17-8-gonadal-and-placental-hormones",
+      "https://www.heart.org/en/health-topics/high-blood-pressure/the-facts-about-high-blood-pressure/all-about-heart-rate-pulse",
+      "https://pubmed.ncbi.nlm.nih.gov/29345524/",
+      "https://pubmed.ncbi.nlm.nih.gov/27881567/"
+    ]
+  },
+  "MW_SXH_03": {
+    "hero_local": "images/MW_SXH_03_hero.jpg",
+    "figure_local": "images/editorial/MW_SXH_03_summary.svg",
+    "hero_source_page": "https://test-repo-y1wb.onrender.com/images/MW_SXH_03_hero.jpg",
+    "figure_source_page": "https://test-repo-y1wb.onrender.com/images/editorial/MW_SXH_03_summary.svg",
+    "creator": "Original project image library / editorial assets",
+    "provenance": "Hero restored from the original project library. Retained diagrams are illustrations, not study outcome data; other inline visuals are original editorial summaries.",
+    "license_note": "Existing project raster assets restored; no new claim of upstream authorship or verified external licensing. SVG summaries are project-created.",
+    "evidence_urls": [
+      "https://pubmed.ncbi.nlm.nih.gov/21632481/",
+      "https://www.nhlbi.nih.gov/health/sleep/how-much-sleep",
+      "https://www.endocrine.org/patient-engagement/endocrine-library/hypogonadism",
+      "https://www.nhlbi.nih.gov/health/sleep-apnea/symptoms",
+      "https://www.nhlbi.nih.gov/health/sleep/stages-of-sleep",
+      "https://pubmed.ncbi.nlm.nih.gov/34314344/",
+      "https://www.nhlbi.nih.gov/health/sleep/sleep-wake-cycle",
+      "https://pubmed.ncbi.nlm.nih.gov/29562364/",
+      "https://integration.asrm.org/practice-guidance/practice-committee-documents/diagnosis-and-treatment-of-infertility-in-men-aua-asrm-guideline-part2/",
+      "https://openstax.org/books/anatomy-and-physiology-2e/pages/17-8-gonadal-and-placental-hormones"
+    ]
+  },
+  "MW_SXH_04": {
+    "hero_local": "images/MW_SXH_04_hero.jpg",
+    "figure_local": "images/editorial/MW_SXH_04_summary.svg",
+    "hero_source_page": "https://test-repo-y1wb.onrender.com/images/MW_SXH_04_hero.jpg",
+    "figure_source_page": "https://test-repo-y1wb.onrender.com/images/editorial/MW_SXH_04_summary.svg",
+    "creator": "Original project image library / editorial assets",
+    "provenance": "Hero restored from the original project library. Retained diagrams are illustrations, not study outcome data; other inline visuals are original editorial summaries.",
+    "license_note": "Existing project raster assets restored; no new claim of upstream authorship or verified external licensing. SVG summaries are project-created.",
+    "evidence_urls": [
+      "https://www.niddk.nih.gov/health-information/urologic-diseases/erectile-dysfunction/symptoms-causes",
+      "https://www.nhs.uk/symptoms/loss-of-libido/",
+      "https://www.niddk.nih.gov/health-information/urologic-diseases/erectile-dysfunction/treatment",
+      "https://www.devonsexualhealth.nhs.uk/your-sexual-health/relationships-and-intimacy/",
+      "https://pubmed.ncbi.nlm.nih.gov/10853004/",
+      "https://support.google.com/product-documentation/answer/14779613?hl=en",
+      "https://pubmed.ncbi.nlm.nih.gov/27680542/",
+      "https://www.nhs.uk/every-mind-matters/lifes-challenges/maintaining-healthy-relationships-and-mental-wellbeing/"
+    ]
+  },
+  "MW_REL_01": {
+    "hero_local": "images/MW_REL_01_hero.jpg",
+    "figure_local": "images/editorial/MW_REL_01_summary.svg",
+    "hero_source_page": "https://test-repo-y1wb.onrender.com/images/MW_REL_01_hero.jpg",
+    "figure_source_page": "https://test-repo-y1wb.onrender.com/images/editorial/MW_REL_01_summary.svg",
+    "creator": "Original project image library / editorial assets",
+    "provenance": "Hero restored from the original project library. Retained diagrams are illustrations, not study outcome data; other inline visuals are original editorial summaries.",
+    "license_note": "Existing project raster assets restored; no new claim of upstream authorship or verified external licensing. SVG summaries are project-created.",
     "evidence_urls": [
       "https://www.nhs.uk/every-mind-matters/lifes-challenges/maintaining-healthy-relationships-and-mental-wellbeing/",
-      "https://www.devonsexualhealth.nhs.uk/your-sexual-health/relationships-and-intimacy/"
+      "https://www.devonsexualhealth.nhs.uk/your-sexual-health/relationships-and-intimacy/",
+      "https://www.nhs.uk/symptoms/loss-of-libido/",
+      "https://pubmed.ncbi.nlm.nih.gov/30777780/",
+      "https://support.google.com/product-documentation/answer/14779613?hl=en",
+      "https://pubmed.ncbi.nlm.nih.gov/27680542/",
+      "https://www.gottman.com/blog/the-magic-relationship-ratio-according-science/"
+    ]
+  },
+  "MW_REL_02": {
+    "hero_local": "images/MW_REL_02_hero.jpg",
+    "figure_local": "images/editorial/MW_REL_02_summary.svg",
+    "hero_source_page": "https://test-repo-y1wb.onrender.com/images/MW_REL_02_hero.jpg",
+    "figure_source_page": "https://test-repo-y1wb.onrender.com/images/editorial/MW_REL_02_summary.svg",
+    "creator": "Original project image library / editorial assets",
+    "provenance": "Hero restored from the original project library. Retained diagrams are illustrations, not study outcome data; other inline visuals are original editorial summaries.",
+    "license_note": "Existing project raster assets restored; no new claim of upstream authorship or verified external licensing. SVG summaries are project-created.",
+    "evidence_urls": [
+      "https://pubmed.ncbi.nlm.nih.gov/30777780/",
+      "https://www.devonsexualhealth.nhs.uk/your-sexual-health/relationships-and-intimacy/",
+      "https://www.nhs.uk/symptoms/loss-of-libido/",
+      "https://www.nhs.uk/every-mind-matters/lifes-challenges/maintaining-healthy-relationships-and-mental-wellbeing/",
+      "https://www.nth.nhs.uk/resources/pelvic-floor-exercises-for-men/",
+      "https://www.royalberkshire.nhs.uk/media/avwg3hls/pelvic-floor-strengthening-and-relaxation-exercises-for-men_jun24.pdf",
+      "https://www.nhs.uk/conditions/urinary-incontinence/treatment/",
+      "https://www.cuh.nhs.uk/patient-information/female-pelvic-floor-muscle-exercises/",
+      "https://pubmed.ncbi.nlm.nih.gov/27872005/"
+    ]
+  },
+  "MW_REL_03": {
+    "hero_local": "images/MW_REL_03_hero.jpg",
+    "figure_local": "images/editorial/MW_REL_03_summary.svg",
+    "hero_source_page": "https://test-repo-y1wb.onrender.com/images/MW_REL_03_hero.jpg",
+    "figure_source_page": "https://test-repo-y1wb.onrender.com/images/editorial/MW_REL_03_summary.svg",
+    "creator": "Original project image library / editorial assets",
+    "provenance": "Hero restored from the original project library. Retained diagrams are illustrations, not study outcome data; other inline visuals are original editorial summaries.",
+    "license_note": "Existing project raster assets restored; no new claim of upstream authorship or verified external licensing. SVG summaries are project-created.",
+    "evidence_urls": [
+      "https://www.nhs.uk/every-mind-matters/lifes-challenges/maintaining-healthy-relationships-and-mental-wellbeing/",
+      "https://www.devonsexualhealth.nhs.uk/your-sexual-health/relationships-and-intimacy/",
+      "https://www.nhs.uk/symptoms/loss-of-libido/",
+      "https://pubmed.ncbi.nlm.nih.gov/30777780/",
+      "https://support.google.com/product-documentation/answer/14779613?hl=en",
+      "https://pubmed.ncbi.nlm.nih.gov/27680542/"
+    ]
+  },
+  "MW_REL_04": {
+    "hero_local": "images/MW_REL_04_hero.jpg",
+    "figure_local": "images/editorial/MW_REL_04_summary.svg",
+    "hero_source_page": "https://test-repo-y1wb.onrender.com/images/MW_REL_04_hero.jpg",
+    "figure_source_page": "https://test-repo-y1wb.onrender.com/images/editorial/MW_REL_04_summary.svg",
+    "creator": "Original project image library / editorial assets",
+    "provenance": "Hero restored from the original project library. Retained diagrams are illustrations, not study outcome data; other inline visuals are original editorial summaries.",
+    "license_note": "Existing project raster assets restored; no new claim of upstream authorship or verified external licensing. SVG summaries are project-created.",
+    "evidence_urls": [
+      "https://www.nhs.uk/every-mind-matters/lifes-challenges/maintaining-healthy-relationships-and-mental-wellbeing/",
+      "https://pubmed.ncbi.nlm.nih.gov/39514915/",
+      "https://www.devonsexualhealth.nhs.uk/your-sexual-health/relationships-and-intimacy/",
+      "https://www.nhlbi.nih.gov/health/sleep/how-much-sleep",
+      "https://www.nhlbi.nih.gov/health/sleep/sleep-wake-cycle",
+      "https://support.google.com/product-documentation/answer/14779613?hl=en",
+      "https://pubmed.ncbi.nlm.nih.gov/27680542/"
+    ]
+  },
+  "MW_SXO_01": {
+    "hero_local": "images/MW_SXO_01_hero.jpg",
+    "figure_local": "images/editorial/MW_SXO_01_summary.svg",
+    "hero_source_page": "https://test-repo-y1wb.onrender.com/images/MW_SXO_01_hero.jpg",
+    "figure_source_page": "https://test-repo-y1wb.onrender.com/images/editorial/MW_SXO_01_summary.svg",
+    "creator": "Original project image library / editorial assets",
+    "provenance": "Hero restored from the original project library. Retained diagrams are illustrations, not study outcome data; other inline visuals are original editorial summaries.",
+    "license_note": "Existing project raster assets restored; no new claim of upstream authorship or verified external licensing. SVG summaries are project-created.",
+    "evidence_urls": [
+      "https://www.nhs.uk/symptoms/loss-of-libido/",
+      "https://www.endocrine.org/patient-engagement/endocrine-library/hypogonadism",
+      "https://www.devonsexualhealth.nhs.uk/your-sexual-health/relationships-and-intimacy/",
+      "https://pubmed.ncbi.nlm.nih.gov/30777780/",
+      "https://pubmed.ncbi.nlm.nih.gov/29562364/",
+      "https://integration.asrm.org/practice-guidance/practice-committee-documents/diagnosis-and-treatment-of-infertility-in-men-aua-asrm-guideline-part2/",
+      "https://openstax.org/books/anatomy-and-physiology-2e/pages/17-8-gonadal-and-placental-hormones",
+      "https://www.nhs.uk/every-mind-matters/lifes-challenges/maintaining-healthy-relationships-and-mental-wellbeing/"
+    ]
+  },
+  "MW_SXO_02": {
+    "hero_local": "images/MW_SXO_02_hero.jpg",
+    "figure_local": "images/MW_SXO_02_figure.png",
+    "hero_source_page": "https://test-repo-y1wb.onrender.com/images/MW_SXO_02_hero.jpg",
+    "figure_source_page": "https://test-repo-y1wb.onrender.com/images/MW_SXO_02_figure.png",
+    "creator": "Original project image library / editorial assets",
+    "provenance": "Hero restored from the original project library. Retained diagrams are illustrations, not study outcome data; other inline visuals are original editorial summaries.",
+    "license_note": "Existing project raster assets restored; no new claim of upstream authorship or verified external licensing. SVG summaries are project-created.",
+    "evidence_urls": [
+      "https://www.niddk.nih.gov/health-information/urologic-diseases/erectile-dysfunction/symptoms-causes",
+      "https://www.devonsexualhealth.nhs.uk/your-sexual-health/relationships-and-intimacy/",
+      "https://www.niddk.nih.gov/health-information/urologic-diseases/erectile-dysfunction/treatment",
+      "https://pubmed.ncbi.nlm.nih.gov/10853004/",
+      "https://www.nhs.uk/symptoms/loss-of-libido/",
+      "https://pubmed.ncbi.nlm.nih.gov/30777780/",
+      "https://www.nth.nhs.uk/resources/pelvic-floor-exercises-for-men/",
+      "https://www.royalberkshire.nhs.uk/media/avwg3hls/pelvic-floor-strengthening-and-relaxation-exercises-for-men_jun24.pdf",
+      "https://www.nhs.uk/conditions/urinary-incontinence/treatment/",
+      "https://www.cuh.nhs.uk/patient-information/female-pelvic-floor-muscle-exercises/",
+      "https://pubmed.ncbi.nlm.nih.gov/27872005/"
+    ]
+  },
+  "MW_SXO_03": {
+    "hero_local": "images/MW_SXO_03_hero.jpg",
+    "figure_local": "images/editorial/MW_SXO_03_summary.svg",
+    "hero_source_page": "https://test-repo-y1wb.onrender.com/images/MW_SXO_03_hero.jpg",
+    "figure_source_page": "https://test-repo-y1wb.onrender.com/images/editorial/MW_SXO_03_summary.svg",
+    "creator": "Original project image library / editorial assets",
+    "provenance": "Hero restored from the original project library. Retained diagrams are illustrations, not study outcome data; other inline visuals are original editorial summaries.",
+    "license_note": "Existing project raster assets restored; no new claim of upstream authorship or verified external licensing. SVG summaries are project-created.",
+    "evidence_urls": [
+      "https://www.nhs.uk/symptoms/loss-of-libido/",
+      "https://pubmed.ncbi.nlm.nih.gov/29562364/",
+      "https://integration.asrm.org/practice-guidance/practice-committee-documents/diagnosis-and-treatment-of-infertility-in-men-aua-asrm-guideline-part2/",
+      "https://www.endocrine.org/patient-engagement/endocrine-library/hypogonadism",
+      "https://openstax.org/books/anatomy-and-physiology-2e/pages/17-8-gonadal-and-placental-hormones",
+      "https://www.devonsexualhealth.nhs.uk/your-sexual-health/relationships-and-intimacy/",
+      "https://pubmed.ncbi.nlm.nih.gov/30777780/",
+      "https://www.niddk.nih.gov/health-information/urologic-diseases/erectile-dysfunction/symptoms-causes",
+      "https://www.niddk.nih.gov/health-information/urologic-diseases/erectile-dysfunction/treatment",
+      "https://pubmed.ncbi.nlm.nih.gov/10853004/"
+    ]
+  },
+  "MW_SXO_04": {
+    "hero_local": "images/MW_SXO_04_hero.jpg",
+    "figure_local": "images/editorial/MW_SXO_04_summary.svg",
+    "hero_source_page": "https://test-repo-y1wb.onrender.com/images/MW_SXO_04_hero.jpg",
+    "figure_source_page": "https://test-repo-y1wb.onrender.com/images/editorial/MW_SXO_04_summary.svg",
+    "creator": "Original project image library / editorial assets",
+    "provenance": "Hero restored from the original project library. Retained diagrams are illustrations, not study outcome data; other inline visuals are original editorial summaries.",
+    "license_note": "Existing project raster assets restored; no new claim of upstream authorship or verified external licensing. SVG summaries are project-created.",
+    "evidence_urls": [
+      "https://www.nhs.uk/symptoms/loss-of-libido/",
+      "https://www.devonsexualhealth.nhs.uk/your-sexual-health/relationships-and-intimacy/",
+      "https://pubmed.ncbi.nlm.nih.gov/30777780/",
+      "https://www.nhs.uk/every-mind-matters/lifes-challenges/maintaining-healthy-relationships-and-mental-wellbeing/",
+      "https://pubmed.ncbi.nlm.nih.gov/29562364/",
+      "https://www.endocrine.org/patient-engagement/endocrine-library/hypogonadism",
+      "https://integration.asrm.org/practice-guidance/practice-committee-documents/diagnosis-and-treatment-of-infertility-in-men-aua-asrm-guideline-part2/",
+      "https://openstax.org/books/anatomy-and-physiology-2e/pages/17-8-gonadal-and-placental-hormones"
+    ]
+  },
+  "MW_NUT_05": {
+    "hero_local": "images/MW_NUT_05_hero.jpg",
+    "figure_local": "images/editorial/MW_NUT_05_summary.svg",
+    "hero_source_page": "https://test-repo-y1wb.onrender.com/images/MW_NUT_05_hero.jpg",
+    "figure_source_page": "https://test-repo-y1wb.onrender.com/images/editorial/MW_NUT_05_summary.svg",
+    "creator": "Original project image library / editorial assets",
+    "provenance": "Hero restored from the original project library. Retained diagrams are illustrations, not study outcome data; other inline visuals are original editorial summaries.",
+    "license_note": "Existing project raster assets restored; no new claim of upstream authorship or verified external licensing. SVG summaries are project-created.",
+    "evidence_urls": [
+      "https://ods.od.nih.gov/factsheets/Zinc-HealthProfessional/",
+      "https://ods.od.nih.gov/factsheets/VitaminD-Consumer/",
+      "https://www.endocrine.org/patient-engagement/endocrine-library/hypogonadism",
+      "https://pubmed.ncbi.nlm.nih.gov/29562364/",
+      "https://integration.asrm.org/practice-guidance/practice-committee-documents/diagnosis-and-treatment-of-infertility-in-men-aua-asrm-guideline-part2/",
+      "https://openstax.org/books/anatomy-and-physiology-2e/pages/17-8-gonadal-and-placental-hormones",
+      "https://bjsm.bmj.com/content/57/17/1073",
+      "https://www.nhs.uk/symptoms/missed-or-late-periods/"
+    ]
+  },
+  "MW_NUT_06": {
+    "hero_local": "images/MW_NUT_06_hero.jpg",
+    "figure_local": "images/MW_NUT_06_figure.png",
+    "hero_source_page": "https://test-repo-y1wb.onrender.com/images/MW_NUT_06_hero.jpg",
+    "figure_source_page": "https://test-repo-y1wb.onrender.com/images/MW_NUT_06_figure.png",
+    "creator": "Original project image library / editorial assets",
+    "provenance": "Hero restored from the original project library. Retained diagrams are illustrations, not study outcome data; other inline visuals are original editorial summaries.",
+    "license_note": "Existing project raster assets restored; no new claim of upstream authorship or verified external licensing. SVG summaries are project-created.",
+    "evidence_urls": [
+      "https://integration.asrm.org/practice-guidance/practice-committee-documents/diagnosis-and-treatment-of-infertility-in-men-aua-asrm-guideline-part2/",
+      "https://integration.asrm.org/globalassets/_asrm/practice-guidance/practice-guidelines/pdf/optimizing_natural_fertility.pdf",
+      "https://www.who.int/news-room/fact-sheets/detail/healthy-diet",
+      "https://ods.od.nih.gov/factsheets/Zinc-HealthProfessional/",
+      "https://ods.od.nih.gov/factsheets/VitaminD-Consumer/",
+      "https://www.endocrine.org/patient-engagement/endocrine-library/hypogonadism",
+      "https://bjsm.bmj.com/content/57/17/1073",
+      "https://www.nhs.uk/symptoms/missed-or-late-periods/",
+      "https://www.who.int/publications/i/item/9789240030787/"
+    ]
+  },
+  "MW_NUT_07": {
+    "hero_local": "images/MW_NUT_07_hero.jpg",
+    "figure_local": "images/editorial/MW_NUT_07_summary.svg",
+    "hero_source_page": "https://test-repo-y1wb.onrender.com/images/MW_NUT_07_hero.jpg",
+    "figure_source_page": "https://test-repo-y1wb.onrender.com/images/editorial/MW_NUT_07_summary.svg",
+    "creator": "Original project image library / editorial assets",
+    "provenance": "Hero restored from the original project library. Retained diagrams are illustrations, not study outcome data; other inline visuals are original editorial summaries.",
+    "license_note": "Existing project raster assets restored; no new claim of upstream authorship or verified external licensing. SVG summaries are project-created.",
+    "evidence_urls": [
+      "https://pubmed.ncbi.nlm.nih.gov/35684143/",
+      "https://www.who.int/news-room/fact-sheets/detail/healthy-diet",
+      "https://bjsm.bmj.com/content/57/17/1073",
+      "https://www.nhs.uk/symptoms/missed-or-late-periods/",
+      "https://pubmed.ncbi.nlm.nih.gov/29562364/",
+      "https://www.endocrine.org/patient-engagement/endocrine-library/hypogonadism",
+      "https://integration.asrm.org/practice-guidance/practice-committee-documents/diagnosis-and-treatment-of-infertility-in-men-aua-asrm-guideline-part2/",
+      "https://openstax.org/books/anatomy-and-physiology-2e/pages/17-8-gonadal-and-placental-hormones"
+    ]
+  },
+  "MW_NUT_08": {
+    "hero_local": "images/MW_NUT_08_hero.jpg",
+    "figure_local": "images/editorial/MW_NUT_08_summary.svg",
+    "hero_source_page": "https://test-repo-y1wb.onrender.com/images/MW_NUT_08_hero.jpg",
+    "figure_source_page": "https://test-repo-y1wb.onrender.com/images/editorial/MW_NUT_08_summary.svg",
+    "creator": "Original project image library / editorial assets",
+    "provenance": "Hero restored from the original project library. Retained diagrams are illustrations, not study outcome data; other inline visuals are original editorial summaries.",
+    "license_note": "Existing project raster assets restored; no new claim of upstream authorship or verified external licensing. SVG summaries are project-created.",
+    "evidence_urls": [
+      "https://www.nhs.uk/conditions/dehydration/",
+      "https://www.heart.org/en/health-topics/high-blood-pressure/the-facts-about-high-blood-pressure/all-about-heart-rate-pulse",
+      "https://pubmed.ncbi.nlm.nih.gov/29345524/",
+      "https://pubmed.ncbi.nlm.nih.gov/27881567/",
+      "https://www.cdc.gov/physicalactivity/basics/measuring/index.html",
+      "https://www.who.int/news-room/fact-sheets/detail/physical-activity"
+    ]
+  },
+  "MW_SXH_05": {
+    "hero_local": "images/MW_SXH_05_hero.jpg",
+    "figure_local": "images/editorial/MW_SXH_05_summary.svg",
+    "hero_source_page": "https://test-repo-y1wb.onrender.com/images/MW_SXH_05_hero.jpg",
+    "figure_source_page": "https://test-repo-y1wb.onrender.com/images/editorial/MW_SXH_05_summary.svg",
+    "creator": "Original project image library / editorial assets",
+    "provenance": "Hero restored from the original project library. Retained diagrams are illustrations, not study outcome data; other inline visuals are original editorial summaries.",
+    "license_note": "Existing project raster assets restored; no new claim of upstream authorship or verified external licensing. SVG summaries are project-created.",
+    "evidence_urls": [
+      "https://www.niddk.nih.gov/health-information/urologic-diseases/erectile-dysfunction/symptoms-causes",
+      "https://www.endocrine.org/patient-engagement/endocrine-library/hypogonadism",
+      "https://www.niddk.nih.gov/health-information/urologic-diseases/erectile-dysfunction/treatment",
+      "https://www.devonsexualhealth.nhs.uk/your-sexual-health/relationships-and-intimacy/",
+      "https://pubmed.ncbi.nlm.nih.gov/10853004/",
+      "https://www.nhlbi.nih.gov/health/sleep/stages-of-sleep",
+      "https://pubmed.ncbi.nlm.nih.gov/34314344/",
+      "https://pubmed.ncbi.nlm.nih.gov/29562364/",
+      "https://integration.asrm.org/practice-guidance/practice-committee-documents/diagnosis-and-treatment-of-infertility-in-men-aua-asrm-guideline-part2/",
+      "https://openstax.org/books/anatomy-and-physiology-2e/pages/17-8-gonadal-and-placental-hormones"
+    ]
+  },
+  "MW_SXH_06": {
+    "hero_local": "images/MW_SXH_06_hero.jpg",
+    "figure_local": "images/editorial/MW_SXH_06_summary.svg",
+    "hero_source_page": "https://test-repo-y1wb.onrender.com/images/MW_SXH_06_hero.jpg",
+    "figure_source_page": "https://test-repo-y1wb.onrender.com/images/editorial/MW_SXH_06_summary.svg",
+    "creator": "Original project image library / editorial assets",
+    "provenance": "Hero restored from the original project library. Retained diagrams are illustrations, not study outcome data; other inline visuals are original editorial summaries.",
+    "license_note": "Existing project raster assets restored; no new claim of upstream authorship or verified external licensing. SVG summaries are project-created.",
+    "evidence_urls": [
+      "https://www.niddk.nih.gov/health-information/urologic-diseases/erectile-dysfunction/treatment",
+      "https://www.who.int/news-room/fact-sheets/detail/physical-activity",
+      "https://bjsm.bmj.com/content/57/17/1073",
+      "https://www.niddk.nih.gov/health-information/urologic-diseases/erectile-dysfunction/symptoms-causes",
+      "https://www.devonsexualhealth.nhs.uk/your-sexual-health/relationships-and-intimacy/",
+      "https://pubmed.ncbi.nlm.nih.gov/10853004/",
+      "https://www.cdc.gov/physicalactivity/basics/measuring/index.html",
+      "https://www.nth.nhs.uk/resources/pelvic-floor-exercises-for-men/",
+      "https://www.royalberkshire.nhs.uk/media/avwg3hls/pelvic-floor-strengthening-and-relaxation-exercises-for-men_jun24.pdf",
+      "https://www.nhs.uk/conditions/urinary-incontinence/treatment/",
+      "https://www.cuh.nhs.uk/patient-information/female-pelvic-floor-muscle-exercises/",
+      "https://pubmed.ncbi.nlm.nih.gov/27872005/"
+    ]
+  },
+  "MW_SXH_07": {
+    "hero_local": "images/MW_SXH_07_hero.jpg",
+    "figure_local": "images/editorial/MW_SXH_07_summary.svg",
+    "hero_source_page": "https://test-repo-y1wb.onrender.com/images/MW_SXH_07_hero.jpg",
+    "figure_source_page": "https://test-repo-y1wb.onrender.com/images/editorial/MW_SXH_07_summary.svg",
+    "creator": "Original project image library / editorial assets",
+    "provenance": "Hero restored from the original project library. Retained diagrams are illustrations, not study outcome data; other inline visuals are original editorial summaries.",
+    "license_note": "Existing project raster assets restored; no new claim of upstream authorship or verified external licensing. SVG summaries are project-created.",
+    "evidence_urls": [
+      "https://integration.asrm.org/practice-guidance/practice-committee-documents/diagnosis-and-treatment-of-infertility-in-men-aua-asrm-guideline-part2/",
+      "https://integration.asrm.org/globalassets/_asrm/practice-guidance/practice-guidelines/pdf/optimizing_natural_fertility.pdf",
+      "https://www.nhs.uk/symptoms/testicle-pain/",
+      "https://pubmed.ncbi.nlm.nih.gov/29562364/",
+      "https://www.endocrine.org/patient-engagement/endocrine-library/hypogonadism",
+      "https://openstax.org/books/anatomy-and-physiology-2e/pages/17-8-gonadal-and-placental-hormones",
+      "https://www.nhlbi.nih.gov/health/sleep/how-much-sleep",
+      "https://www.nhlbi.nih.gov/health/sleep/sleep-wake-cycle"
+    ]
+  },
+  "MW_SXH_08": {
+    "hero_local": "images/MW_SXH_08_hero.jpg",
+    "figure_local": "images/MW_SXH_08_figure.png",
+    "hero_source_page": "https://test-repo-y1wb.onrender.com/images/MW_SXH_08_hero.jpg",
+    "figure_source_page": "https://test-repo-y1wb.onrender.com/images/MW_SXH_08_figure.png",
+    "creator": "Original project image library / editorial assets",
+    "provenance": "Hero restored from the original project library. Retained diagrams are illustrations, not study outcome data; other inline visuals are original editorial summaries.",
+    "license_note": "Existing project raster assets restored; no new claim of upstream authorship or verified external licensing. SVG summaries are project-created.",
+    "evidence_urls": [
+      "https://pubmed.ncbi.nlm.nih.gov/29562364/",
+      "https://www.endocrine.org/patient-engagement/endocrine-library/hypogonadism",
+      "https://integration.asrm.org/practice-guidance/practice-committee-documents/diagnosis-and-treatment-of-infertility-in-men-aua-asrm-guideline-part2/",
+      "https://openstax.org/books/anatomy-and-physiology-2e/pages/17-8-gonadal-and-placental-hormones",
+      "https://integration.asrm.org/globalassets/_asrm/practice-guidance/practice-guidelines/pdf/optimizing_natural_fertility.pdf",
+      "https://www.nhs.uk/symptoms/loss-of-libido/",
+      "https://www.devonsexualhealth.nhs.uk/your-sexual-health/relationships-and-intimacy/",
+      "https://pubmed.ncbi.nlm.nih.gov/30777780/"
+    ]
+  },
+  "MW_REL_05": {
+    "hero_local": "images/MW_REL_05_hero.jpg",
+    "figure_local": "images/editorial/MW_REL_05_summary.svg",
+    "hero_source_page": "https://test-repo-y1wb.onrender.com/images/MW_REL_05_hero.jpg",
+    "figure_source_page": "https://test-repo-y1wb.onrender.com/images/editorial/MW_REL_05_summary.svg",
+    "creator": "Original project image library / editorial assets",
+    "provenance": "Hero restored from the original project library. Retained diagrams are illustrations, not study outcome data; other inline visuals are original editorial summaries.",
+    "license_note": "Existing project raster assets restored; no new claim of upstream authorship or verified external licensing. SVG summaries are project-created.",
+    "evidence_urls": [
+      "https://www.nhs.uk/every-mind-matters/lifes-challenges/maintaining-healthy-relationships-and-mental-wellbeing/",
+      "https://www.devonsexualhealth.nhs.uk/your-sexual-health/relationships-and-intimacy/",
+      "https://support.google.com/product-documentation/answer/14779613?hl=en",
+      "https://pubmed.ncbi.nlm.nih.gov/27680542/",
+      "https://pubmed.ncbi.nlm.nih.gov/30245619/"
+    ]
+  },
+  "MW_REL_06": {
+    "hero_local": "images/MW_REL_06_hero.jpg",
+    "figure_local": "images/editorial/MW_REL_06_summary.svg",
+    "hero_source_page": "https://test-repo-y1wb.onrender.com/images/MW_REL_06_hero.jpg",
+    "figure_source_page": "https://test-repo-y1wb.onrender.com/images/editorial/MW_REL_06_summary.svg",
+    "creator": "Original project image library / editorial assets",
+    "provenance": "Hero restored from the original project library. Retained diagrams are illustrations, not study outcome data; other inline visuals are original editorial summaries.",
+    "license_note": "Existing project raster assets restored; no new claim of upstream authorship or verified external licensing. SVG summaries are project-created.",
+    "evidence_urls": [
+      "https://www.nhs.uk/symptoms/loss-of-libido/",
+      "https://www.devonsexualhealth.nhs.uk/your-sexual-health/relationships-and-intimacy/",
+      "https://pubmed.ncbi.nlm.nih.gov/30777780/",
+      "https://www.nhs.uk/every-mind-matters/lifes-challenges/maintaining-healthy-relationships-and-mental-wellbeing/",
+      "https://www.niddk.nih.gov/health-information/urologic-diseases/erectile-dysfunction/symptoms-causes",
+      "https://www.niddk.nih.gov/health-information/urologic-diseases/erectile-dysfunction/treatment",
+      "https://pubmed.ncbi.nlm.nih.gov/10853004/"
+    ]
+  },
+  "MW_REL_07": {
+    "hero_local": "images/MW_REL_07_hero.jpg",
+    "figure_local": "images/editorial/MW_REL_07_summary.svg",
+    "hero_source_page": "https://test-repo-y1wb.onrender.com/images/MW_REL_07_hero.jpg",
+    "figure_source_page": "https://test-repo-y1wb.onrender.com/images/editorial/MW_REL_07_summary.svg",
+    "creator": "Original project image library / editorial assets",
+    "provenance": "Hero restored from the original project library. Retained diagrams are illustrations, not study outcome data; other inline visuals are original editorial summaries.",
+    "license_note": "Existing project raster assets restored; no new claim of upstream authorship or verified external licensing. SVG summaries are project-created.",
+    "evidence_urls": [
+      "https://www.nhs.uk/every-mind-matters/lifes-challenges/maintaining-healthy-relationships-and-mental-wellbeing/",
+      "https://www.devonsexualhealth.nhs.uk/your-sexual-health/relationships-and-intimacy/",
+      "https://www.nhs.uk/symptoms/loss-of-libido/",
+      "https://pubmed.ncbi.nlm.nih.gov/30777780/",
+      "https://support.google.com/product-documentation/answer/14779613?hl=en",
+      "https://pubmed.ncbi.nlm.nih.gov/27680542/"
     ]
   },
   "MW_REL_08": {
-    "hero_local": "images/editorial/MW_REL_08_hero.svg",
+    "hero_local": "images/MW_REL_08_hero.jpg",
     "figure_local": "images/editorial/MW_REL_08_summary.svg",
-    "hero_source_page": "https://test-repo-y1wb.onrender.com/images/editorial/MW_REL_08_hero.svg",
+    "hero_source_page": "https://test-repo-y1wb.onrender.com/images/MW_REL_08_hero.jpg",
     "figure_source_page": "https://test-repo-y1wb.onrender.com/images/editorial/MW_REL_08_summary.svg",
-    "creator": "Pulse & Vitality editorial assets",
-    "provenance": "Original project-owned SVG editorial illustration; not a study figure",
-    "license_note": "Original SVG assets created in this project; no external photo or figure attribution claimed.",
+    "creator": "Original project image library / editorial assets",
+    "provenance": "Hero restored from the original project library. Retained diagrams are illustrations, not study outcome data; other inline visuals are original editorial summaries.",
+    "license_note": "Existing project raster assets restored; no new claim of upstream authorship or verified external licensing. SVG summaries are project-created.",
     "evidence_urls": [
       "https://pubmed.ncbi.nlm.nih.gov/39514915/",
       "https://www.nhs.uk/every-mind-matters/lifes-challenges/maintaining-healthy-relationships-and-mental-wellbeing/",
       "https://www.nhlbi.nih.gov/health/sleep-deprivation/healthy-sleep-habits",
-      "https://www.nhlbi.nih.gov/health/sleep-apnea/symptoms"
-    ]
-  },
-  "MW_SXO_05": {
-    "hero_local": "images/editorial/MW_SXO_05_hero.svg",
-    "figure_local": "images/editorial/MW_SXO_05_summary.svg",
-    "hero_source_page": "https://test-repo-y1wb.onrender.com/images/editorial/MW_SXO_05_hero.svg",
-    "figure_source_page": "https://test-repo-y1wb.onrender.com/images/editorial/MW_SXO_05_summary.svg",
-    "creator": "Pulse & Vitality editorial assets",
-    "provenance": "Original project-owned SVG editorial illustration; not a study figure",
-    "license_note": "Original SVG assets created in this project; no external photo or figure attribution claimed.",
-    "evidence_urls": [
-      "https://www.nhs.uk/conditions/ejaculation-problems/",
+      "https://www.nhlbi.nih.gov/health/sleep-apnea/symptoms",
+      "https://www.nhlbi.nih.gov/health/sleep/how-much-sleep",
+      "https://www.nhlbi.nih.gov/health/sleep/sleep-wake-cycle",
       "https://www.devonsexualhealth.nhs.uk/your-sexual-health/relationships-and-intimacy/"
     ]
   },
+  "MW_SXO_05": {
+    "hero_local": "images/MW_SXO_05_hero.jpg",
+    "figure_local": "images/MW_SXO_05_figure.png",
+    "hero_source_page": "https://test-repo-y1wb.onrender.com/images/MW_SXO_05_hero.jpg",
+    "figure_source_page": "https://test-repo-y1wb.onrender.com/images/MW_SXO_05_figure.png",
+    "creator": "Original project image library / editorial assets",
+    "provenance": "Hero restored from the original project library. Retained diagrams are illustrations, not study outcome data; other inline visuals are original editorial summaries.",
+    "license_note": "Existing project raster assets restored; no new claim of upstream authorship or verified external licensing. SVG summaries are project-created.",
+    "evidence_urls": [
+      "https://www.nhs.uk/conditions/ejaculation-problems/",
+      "https://www.devonsexualhealth.nhs.uk/your-sexual-health/relationships-and-intimacy/",
+      "https://www.royalberkshire.nhs.uk/media/avwg3hls/pelvic-floor-strengthening-and-relaxation-exercises-for-men_jun24.pdf",
+      "https://www.nth.nhs.uk/resources/pelvic-floor-exercises-for-men/",
+      "https://www.nhs.uk/conditions/urinary-incontinence/treatment/",
+      "https://www.cuh.nhs.uk/patient-information/female-pelvic-floor-muscle-exercises/",
+      "https://pubmed.ncbi.nlm.nih.gov/27872005/",
+      "https://www.nhs.uk/symptoms/loss-of-libido/",
+      "https://pubmed.ncbi.nlm.nih.gov/30777780/"
+    ]
+  },
   "MW_SXO_06": {
-    "hero_local": "images/editorial/MW_SXO_06_hero.svg",
+    "hero_local": "images/MW_SXO_06_hero.jpg",
     "figure_local": "images/editorial/MW_SXO_06_summary.svg",
-    "hero_source_page": "https://test-repo-y1wb.onrender.com/images/editorial/MW_SXO_06_hero.svg",
+    "hero_source_page": "https://test-repo-y1wb.onrender.com/images/MW_SXO_06_hero.jpg",
     "figure_source_page": "https://test-repo-y1wb.onrender.com/images/editorial/MW_SXO_06_summary.svg",
-    "creator": "Pulse & Vitality editorial assets",
-    "provenance": "Original project-owned SVG editorial illustration; not a study figure",
-    "license_note": "Original SVG assets created in this project; no external photo or figure attribution claimed.",
+    "creator": "Original project image library / editorial assets",
+    "provenance": "Hero restored from the original project library. Retained diagrams are illustrations, not study outcome data; other inline visuals are original editorial summaries.",
+    "license_note": "Existing project raster assets restored; no new claim of upstream authorship or verified external licensing. SVG summaries are project-created.",
     "evidence_urls": [
       "https://www.devonsexualhealth.nhs.uk/your-sexual-health/relationships-and-intimacy/",
-      "https://www.endocrine.org/patient-engagement/endocrine-library/hypogonadism"
+      "https://www.endocrine.org/patient-engagement/endocrine-library/hypogonadism",
+      "https://www.nhs.uk/symptoms/loss-of-libido/",
+      "https://pubmed.ncbi.nlm.nih.gov/30777780/",
+      "https://pubmed.ncbi.nlm.nih.gov/29562364/",
+      "https://integration.asrm.org/practice-guidance/practice-committee-documents/diagnosis-and-treatment-of-infertility-in-men-aua-asrm-guideline-part2/",
+      "https://openstax.org/books/anatomy-and-physiology-2e/pages/17-8-gonadal-and-placental-hormones",
+      "https://www.nhs.uk/conditions/ejaculation-problems/",
+      "https://www.royalberkshire.nhs.uk/media/avwg3hls/pelvic-floor-strengthening-and-relaxation-exercises-for-men_jun24.pdf",
+      "https://pubmed.ncbi.nlm.nih.gov/12659241/"
     ]
   },
   "MW_SXO_08": {
-    "hero_local": "images/editorial/MW_SXO_08_hero.svg",
+    "hero_local": "images/MW_SXO_08_hero.jpg",
     "figure_local": "images/editorial/MW_SXO_08_summary.svg",
-    "hero_source_page": "https://test-repo-y1wb.onrender.com/images/editorial/MW_SXO_08_hero.svg",
+    "hero_source_page": "https://test-repo-y1wb.onrender.com/images/MW_SXO_08_hero.jpg",
     "figure_source_page": "https://test-repo-y1wb.onrender.com/images/editorial/MW_SXO_08_summary.svg",
-    "creator": "Pulse & Vitality editorial assets",
-    "provenance": "Original project-owned SVG editorial illustration; not a study figure",
-    "license_note": "Original SVG assets created in this project; no external photo or figure attribution claimed.",
+    "creator": "Original project image library / editorial assets",
+    "provenance": "Hero restored from the original project library. Retained diagrams are illustrations, not study outcome data; other inline visuals are original editorial summaries.",
+    "license_note": "Existing project raster assets restored; no new claim of upstream authorship or verified external licensing. SVG summaries are project-created.",
     "evidence_urls": [
       "https://www.nhs.uk/symptoms/loss-of-libido/",
       "https://pubmed.ncbi.nlm.nih.gov/29562364/",
-      "https://www.niddk.nih.gov/health-information/urologic-diseases/erectile-dysfunction/symptoms-causes"
+      "https://www.niddk.nih.gov/health-information/urologic-diseases/erectile-dysfunction/symptoms-causes",
+      "https://www.devonsexualhealth.nhs.uk/your-sexual-health/relationships-and-intimacy/",
+      "https://pubmed.ncbi.nlm.nih.gov/30777780/",
+      "https://www.endocrine.org/patient-engagement/endocrine-library/hypogonadism",
+      "https://integration.asrm.org/practice-guidance/practice-committee-documents/diagnosis-and-treatment-of-infertility-in-men-aua-asrm-guideline-part2/",
+      "https://openstax.org/books/anatomy-and-physiology-2e/pages/17-8-gonadal-and-placental-hormones",
+      "https://www.niddk.nih.gov/health-information/urologic-diseases/erectile-dysfunction/treatment",
+      "https://pubmed.ncbi.nlm.nih.gov/10853004/"
     ]
   }
 }
