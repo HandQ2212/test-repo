@@ -39,7 +39,13 @@ Các sơ đồ được giữ gồm khoảng R–R trên ECG, cấu trúc giấc
 
 Đợt đầu xử lý đúng 10 bài đầu tiên: LM_SL_01, LM_SL_02, DM_SL_01, DM_SL_02, LM_RC_01, LM_RC_02, DM_RC_01, DM_RC_02, LM_AC_01, LM_AC_02. Đã chọn 19 hình, ghi nguồn/tác giả/giấy phép và chú thích Việt/Anh theo nội dung thực sự nhìn thấy. Có 10 ảnh đầu bài và 9 hình trong bài. Hình đa ký N3 thay nhãn Stage 4 cũ; sơ đồ R–R không được gọi là dữ liệu của người đọc; ảnh Fitbit không được gọi là ảnh chụp AZM. Bài WHOOP chưa thêm hình thứ hai khi chưa có ứng viên đủ phù hợp và rõ quyền dùng.
 
-Bộ mới dùng các ảnh Commons với giấy phép tương ứng và các ảnh Pexels được đối chiếu với trang ảnh/tác giả và giấy phép. Thông tin nguồn được lưu trong `data/image_selections.json`, sheet `Image_Register` của master Excel và hiển thị cạnh ảnh. 73 bài còn lại chưa được rà soát ảnh trong quy trình theo phiên; không gắn trạng thái hoàn tất cho các bài đó. Xem [tiến độ từng đợt](Image_Research_Progress.md) và [bộ ảnh đợt 01](Image_Research_Batch_01.html).
+Bộ mới dùng các ảnh Commons với giấy phép tương ứng và các ảnh Pexels được đối chiếu với trang ảnh/tác giả và giấy phép. Thông tin nguồn được lưu trong `data/image_selections.json`, sheet `Image_Register` của master Excel và hiển thị cạnh ảnh.
+
+Đợt 02 xử lý 15 bài tiếp theo (DM_AC_01 đến LM_MH_03), với 29 vị trí hình từ 24 nguồn ảnh khác nhau: 15 ảnh đầu bài và 14 hình trong bài. Có 21 nguồn ảnh mới và 3 nguồn dụng cụ/tín hiệu đã kiểm tra ở đợt 01 được dùng lại. Các hình giải phẫu hoặc biểu đồ phù hợp có thể xuất hiện trong nhiều bài; số vị trí hình không phải số ảnh độc nhất. Bài PMS dùng một ảnh túi chườm đúng nội dung. Các hình mới gồm bố trí CPET, nhiệt kế đo nền, que LH, dịch nhầy cổ tử cung và cơ sàn chậu nam. Chú thích phân biệt rõ que LH với hCG, BBT với nhiệt độ da, chu kỳ 28 ngày minh họa với lịch riêng của mỗi người; ảnh tư thế không được gọi là bằng chứng đang co cơ Kegel.
+
+Đã loại ảnh thở luân phiên qua mũi khỏi bài thở dài sinh lý và sơ đồ thần kinh cổ Gray844 khỏi bài sàn chậu. Không dùng ảnh găng Galvactivator khi metadata Commons ghi CC BY nhưng trang bảo tàng gốc ghi CC BY-NC-SA cho ảnh; không sao chép hình nghiên cứu Balban có giấy phép NC-ND. Các ảnh cũ được thay ở đầu ra và Excel; văn bản chuyên sâu Việt/Anh giữ nguyên.
+
+Tổng cộng 25/83 bài có 48 vị trí hình đã đối chiếu; 58 bài còn lại chưa được rà soát ảnh trong quy trình theo phiên. Xem [tiến độ từng đợt](Image_Research_Progress.md), [bộ ảnh đợt 01](Image_Research_Batch_01.html) và [bộ ảnh đợt 02](Image_Research_Batch_02.html). Tiến độ này không đồng nghĩa bản live đã cập nhật; việc triển khai được kiểm tra riêng.
 
 ## File và khả năng kiểm tra lại
 

@@ -130,13 +130,14 @@ for i, art in enumerate(articles):
         rel_icon = category_icons.get(rel["category"], "📄")
         rel_bg, rel_text, _ = category_colors.get(rel["category"], ("#F1F5F9", "#334155", "#64748B"))
         rel_hero = resolve_post_img_path(rel.get("hero_image", ""))
+        rel_fit = 'contain' if rel.get('hero_image_fit') == 'contain' else 'cover'
         rel_cat_vi = category_vi.get(rel["category"], rel["category"])
         rel_title_vi = rel.get("title_vi", rel["title"])
         rel_desc_vi = rel.get("description_vi", rel["description"])
 
         related_cards_en += f"""
         <a href="{rel['id']}.html?lang=en" class="related-post-card">
-          <div class="related-post-img" style="background-image: url('{rel_hero}');">
+          <div class="related-post-img" data-image-fit="{rel_fit}" style="background-image: url('{rel_hero}');">
             <span class="related-post-badge" style="background: {rel_bg}; color: {rel_text};">
               {rel_icon} {rel['category']}
             </span>
@@ -154,7 +155,7 @@ for i, art in enumerate(articles):
         """
         related_cards_vi += f"""
         <a href="{rel['id']}.html?lang=vi" class="related-post-card">
-          <div class="related-post-img" style="background-image: url('{rel_hero}');">
+          <div class="related-post-img" data-image-fit="{rel_fit}" style="background-image: url('{rel_hero}');">
             <span class="related-post-badge" style="background: {rel_bg}; color: {rel_text};">
               {rel_icon} {rel_cat_vi}
             </span>

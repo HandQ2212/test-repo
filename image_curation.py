@@ -67,8 +67,10 @@ def write_review_docs(articles):
           <style>body{{max-width:1200px;margin:auto;padding:28px;font-family:system-ui,sans-serif}}h1{{font-size:30px}}h2{{font-size:22px;margin-top:40px}}.image-grid{{display:grid;grid-template-columns:repeat(auto-fit,minmax(min(100%,380px),1fr));gap:24px}}.article-inline-diagram{{margin:0}}.article-inline-diagram img{{height:340px;object-fit:contain}}figcaption p{{margin-top:12px}}a{{color:#2443a0}}</style></head>
           <body><h1>Đợt {batch['batch']:02d}: bộ ảnh cho {len(batch['article_ids'])} bài</h1><p>Ảnh và sơ đồ được đối chiếu về chủ thể, nguồn và giấy phép. Bấm tiêu đề để đọc bài; mỗi hình có tác giả, giấy phép và lý do chọn.</p>{''.join(chunks)}</body></html>'''
         (BASE/'docs'/f"Image_Research_Batch_{batch['batch']:02d}.html").write_text(document,encoding='utf-8')
-    lines += ['', f'Đã chọn {len(assets)} hình cho {len(covered)}/83 bài. Các bài còn lại giữ trạng thái chưa rà soát trong quy trình này.', '',
-              'Nguồn và metadata: `data/image_selections.json`. Bảng Excel: sheet `Image_Register`. Bộ xem trước: `docs/Image_Research_Batch_01.html`.', '',
+    galleries = ', '.join(f"[Đợt {b['batch']:02d}](Image_Research_Batch_{b['batch']:02d}.html)"
+                          for b in progress['batches'] if b['status'] == 'image research completed')
+    lines += ['', f'Đã chọn {len(assets)} vị trí hình cho {len(covered)}/83 bài. Một số hình giải phẫu/dụng cụ được dùng lại khi phù hợp, với nguồn và giấy phép giữ nguyên. Các bài còn lại giữ trạng thái chưa rà soát trong quy trình này.', '',
+              f'Nguồn và metadata: `data/image_selections.json`. Bảng Excel: sheet `Image_Register`. Bộ xem trước: {galleries}.', '',
               'Ảnh tóm tắt chỉ có chữ không được đưa trở lại. Ảnh không tải được không hiển thị khung hoặc chú thích. Không suy chẩn đoán, hormone, điểm số hay cường độ vận động từ một bức ảnh.']
     (BASE/'docs/Image_Research_Progress.md').write_text('\n'.join(lines)+'\n',encoding='utf-8')
     path.write_text(json.dumps(progress,ensure_ascii=False,indent=2)+'\n',encoding='utf-8')

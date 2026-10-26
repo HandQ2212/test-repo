@@ -339,6 +339,19 @@ body {
   gap: 0.5rem;
 }
 
+/* Keep scientific diagrams and device details intact in article thumbnails. */
+.card-cover-img[data-image-fit="contain"] {
+  background-size: cover, contain;
+  background-repeat: no-repeat;
+  background-color: #fff;
+}
+
+.related-post-img[data-image-fit="contain"] {
+  background-size: contain;
+  background-repeat: no-repeat;
+  background-color: #fff;
+}
+
 .badge {
   font-size: 0.72rem;
   font-weight: 700;

@@ -453,7 +453,7 @@ function render() {
 
     return `
       <div class="article-card" onclick="openArticle('${art.id}')">
-        <div class="card-cover-img" style="background-image: linear-gradient(180deg, rgba(15, 23, 42, 0.25) 0%, rgba(15, 23, 42, 0.85) 100%), url('${art.hero_image}');">
+        <div class="card-cover-img" data-image-fit="${art.hero_image_fit === 'contain' ? 'contain' : 'cover'}" style="background-image: linear-gradient(180deg, rgba(15, 23, 42, 0.25) 0%, rgba(15, 23, 42, 0.85) 100%), url('${art.hero_image}');">
           <div class="card-badges">
             <span class="badge ${catClass}">${icon} ${catLabel}</span>
             <span class="badge badge-type">${art.type}</span>
@@ -641,7 +641,7 @@ function openFullArticleView(art, updateHash = true) {
     const relColors = categoryColors[rel.category] || { bg: '#F1F5F9', text: '#334155' };
     return `
       <div class="related-post-card" onclick="openArticle('${rel.id}')" style="cursor: pointer;">
-        <div class="related-post-img" style="background-image: url('${rel.hero_image}');">
+        <div class="related-post-img" data-image-fit="${rel.hero_image_fit === 'contain' ? 'contain' : 'cover'}" style="background-image: url('${rel.hero_image}');">
           <span class="related-post-badge" style="background: ${relColors.bg}; color: ${relColors.text};">
             ${relIcon} ${getCatLabel(rel.category)}
           </span>
