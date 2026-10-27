@@ -1,20 +1,30 @@
 # Strain 0–21: đọc tải vận động để phân bố sức
 
-## Điểm Strain đang nói điều gì?
-Strain là điểm WHOOP dùng để tóm tắt mức gắng sức, trên thang 0–21. Đây là thang phi tuyến: tăng từ 15 lên 16 đòi hỏi thêm tải khác với tăng từ 5 lên 6. Vì vậy, hai buổi có Activity Strain bằng 8 không tạo ra Day Strain bằng 16. Day Strain bao gồm cả tải ngoài buổi tập. [S01](https://www.whoop.com/us/en/thelocker/how-does-whoop-strain-work-101/) [S02](https://developer.whoop.com/docs/whoop-101/)
+Bạn đã vận động cả ngày nhưng điểm tập vẫn chưa như mong đợi? Trước khi thêm một buổi tập, hãy xem điểm đang tóm tắt điều gì và cơ thể bạn đang cảm thấy ra sao. Một ngày có ích không nhất thiết là ngày đạt điểm cao nhất.
 
-## Nhịp tim chỉ phản ánh một phần
-Tải tim mạch được suy ra từ đáp ứng nhịp tim; tải cơ có thể được ước tính thêm trong hoạt động phù hợp. Nhịp tim không tăng nhiều trong một buổi nâng tạ vẫn có thể đi cùng mệt cơ đáng kể. Strain cũng không đo trực tiếp tổn thương cơ, mức đau hay chất lượng kỹ thuật. [S01](https://www.whoop.com/us/en/thelocker/how-does-whoop-strain-work-101/)
+## Strain là bản tóm tắt mức gắng sức
+Nếu &lt;Tên App/&gt; hiển thị Strain theo thang 0–21 được mô tả trong tài liệu tham khảo, đây là thang phi tuyến. Hai buổi cùng đạt 8 điểm không cộng thành 16 điểm trong ngày. Activity Strain mô tả một hoạt động; Day Strain phản ánh tải tích lũy cả ngày, bao gồm cả vận động ngoài buổi tập. [S01](https://www.whoop.com/us/en/thelocker/how-does-whoop-strain-work-101/) [S02](https://developer.whoop.com/docs/whoop-101/)
 
-## Dùng điểm để điều chỉnh lịch tập
-Ví dụ, sau một ngày làm việc vận động nhiều, Day Strain đã cao dù bạn chưa đến phòng gym. Hãy xem lại mục tiêu buổi tối và cảm nhận mệt, thay vì mặc định phải hoàn thành thêm một mức điểm cố định. Ngày tập nhẹ và ngày nghỉ có vị trí trong một lịch vận động bền vững; tập tăng sức mạnh cũng cần được quan tâm bên cạnh aerobic. [S04](https://www.who.int/initiatives/behealthy/physical-activity/)
+Điểm này hữu ích khi so những ngày của chính bạn, với cách ghi dữ liệu tương đối nhất quán. Nó không trực tiếp cho biết cơ đang đau đến đâu, kỹ thuật có tốt hay chấn thương đã hồi phục chưa. Một buổi nâng tạ có thể làm cơ mệt rõ dù nhịp tim không cao kéo dài như khi chạy. [S01](https://www.whoop.com/us/en/thelocker/how-does-whoop-strain-work-101/)
 
-Strain Target là gợi ý của hệ thống, không phải ranh giới an toàn cá nhân. Đau ngực, choáng hoặc khó thở bất thường là lý do dừng tập và tìm trợ giúp y tế, dù điểm còn thấp. Theo dõi nhiều ngày sẽ hữu ích hơn việc cố vượt điểm hôm qua.
+## Đặt điểm cạnh kế hoạch và cảm nhận
+Giả sử hôm nay bạn đi lại nhiều trong công việc, tối đến chân đã mỏi nhưng lịch vẫn có buổi chạy nhanh. Tải trong ngày giúp bạn nhận ra phần vận động dễ bị bỏ quên. Bạn có thể cân nhắc buổi nhẹ hơn hoặc sắp xếp lại lịch, thay vì cố hoàn thành một mức điểm bằng mọi giá.
+
+Ngược lại, điểm thấp sau một ngày nghỉ không phải dấu hiệu bạn đang mất tiến bộ. Ngày nhẹ và ngày nghỉ có vai trò trong kế hoạch dài hạn. Hướng dẫn vận động khuyến khích cả aerobic và tăng sức mạnh phù hợp khả năng, chứ không yêu cầu tối đa hóa một điểm số hằng ngày. [S04](https://www.who.int/initiatives/behealthy/physical-activity/)
+
+## Trước buổi tập, tự hỏi ba điều
+1. Hôm nay mình đã chịu những tải nào: tập luyện, đi lại, công việc thể lực?
+2. Mình đang thấy tỉnh táo, mỏi thông thường hay có đau và mệt khác hẳn mọi ngày?
+3. Mục tiêu của buổi này là gì, và mức tập nào phù hợp với tình trạng hiện tại?
+
+Nếu có Strain Target, hãy coi đó là gợi ý để cân nhắc cùng các câu trả lời trên. Điểm thấp không bảo đảm tập an toàn khi có đau ngực, choáng hoặc khó thở bất thường; những triệu chứng này cần được ưu tiên xử trí.
+
+Bạn không cần quyết định lại cả kế hoạch từ một ngày dữ liệu. Nhìn nhịp xen kẽ giữa ngày nặng, ngày nhẹ và cảm nhận qua nhiều ngày thường giúp bạn điều chỉnh dễ hơn.
 
 ## Nguồn tham khảo và phạm vi hỗ trợ
 
-- **S01** — WHOOP. [How does WHOOP Strain work?](https://www.whoop.com/us/en/thelocker/how-does-whoop-strain-work-101/). Phạm vi: Thang Strain phi tuyến 0–21; Day Strain và Activity Strain; tải tim mạch và cơ bắp.
-- **S02** — WHOOP Developers. [WHOOP 101](https://developer.whoop.com/docs/whoop-101/). Phạm vi: Định nghĩa Sleep, Recovery, Strain và tính phi tuyến của Strain.
-- **S04** — World Health Organization. [Physical activity](https://www.who.int/initiatives/behealthy/physical-activity/). Phạm vi: Vận động tốt hơn không vận động; tập cơ lớn ít nhất 2 ngày/tuần; hoạt động aerobic.
+- **S01** —  [Cách tính điểm tải vận động Strain](https://www.whoop.com/us/en/thelocker/how-does-whoop-strain-work-101/). Phạm vi tài liệu: Thang Strain phi tuyến 0–21; Day Strain và Activity Strain; tải tim mạch và cơ bắp.
+- **S02** —  [Phân biệt tải trong ngày và tải từng hoạt động](https://developer.whoop.com/docs/whoop-101/). Phạm vi tài liệu: Định nghĩa Sleep, Recovery, Strain và tính phi tuyến của Strain.
+- **S04** —  [Khuyến nghị vận động thể lực của WHO](https://www.who.int/initiatives/behealthy/physical-activity/). Phạm vi tài liệu: Vận động tốt hơn không vận động; tập cơ lớn ít nhất 2 ngày/tuần; hoạt động aerobic.
 
-> Bài biên soạn độc lập bởi Pulse & Vitality; tài liệu WHOOP và các nguồn khác được dùng để tham khảo. Đăng ngày 2026-10-27; nguồn đối chiếu 2026-10-26. Nội dung giáo dục, không thay thế đánh giá, chẩn đoán hoặc điều trị y tế.
+> Bài biên soạn độc lập bởi Pulse & Vitality. Nội dung chỉnh ngày 27/10/2026; nguồn đối chiếu 2026-10-26. Liên kết được đặt tên theo chủ đề; tên tài liệu gốc và đơn vị phát hành có trên trang nguồn.

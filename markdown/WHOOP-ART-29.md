@@ -1,33 +1,41 @@
 # Blood Pressure Insights: phân biệt ước tính với đo vòng bít
 
-## Huyết áp tâm thu và tâm trương là gì?
-Số tâm thu mô tả áp lực khi tim co bóp; số tâm trương là áp lực giữa các nhịp. WHOOP mô tả Blood Pressure Insights, viết tắt BPI, là khoảng huyết áp ước tính từ dữ liệu lúc ngủ, hiển thị buổi sáng. Cùng đơn vị mmHg không khiến kết quả tương đương đo vòng bít tại một thời điểm. [S45](https://support.whoop.com/s/article/WHOOP-Life-Blood-Pressure-Insights) [S55](https://www.whoop.com/us/en/thelocker/blood-pressure-insights-accuracy/)
+Nếu một ước tính trên ứng dụng khác máy đo bắp tay, đừng lấy trung bình hai số hoặc tự sửa thuốc để làm chúng khớp. Trước tiên cần biết hai phương pháp đang mô tả điều gì và kết quả nào được dùng trong kế hoạch chăm sóc của bạn.
 
-## Điều kiện và hiệu chuẩn
-Hướng dẫn WHOOP nêu MG với gói Life, từ 18 tuổi, hoàn thành câu hỏi và nhập ba số đo vòng bít để hiệu chuẩn ban đầu. Bài hướng dẫn ngày 24/06/2026 yêu cầu thêm số đo vòng bít mới mỗi 30 ngày. Làm theo nhắc trong ứng dụng; không hiểu “hiệu chuẩn một lần” là không bao giờ cần cập nhật nữa. [S45](https://support.whoop.com/s/article/WHOOP-Life-Blood-Pressure-Insights) [S55](https://www.whoop.com/us/en/thelocker/blood-pressure-insights-accuracy/)
+## Cùng đơn vị không có nghĩa cùng phép đo
+Huyết áp tâm thu mô tả áp lực khi tim co bóp; tâm trương là áp lực giữa các nhịp. Trong hệ thống tham khảo, Blood Pressure Insights là khoảng ước tính từ dữ liệu lúc ngủ, hiển thị buổi sáng. Nó không tương đương số đo vòng bít tại một thời điểm chỉ vì cùng có đơn vị mmHg. [S45](https://support.whoop.com/s/article/WHOOP-Life-Blood-Pressure-Insights) [S55](https://www.whoop.com/us/en/thelocker/blood-pressure-insights-accuracy/)
 
-Trang hỗ trợ còn nêu cần ít nhất năm giờ Time in Bed để sinh kết quả. Đây là thời gian trên giường theo bản ghi, không phải cam kết “ngủ đủ năm giờ là có số đo chính xác” hay khuyến nghị thời lượng ngủ. Mất kết quả không đồng nghĩa huyết áp bình thường. [S45](https://support.whoop.com/s/article/WHOOP-Life-Blood-Pressure-Insights)
+Nếu &lt;Tên App/&gt; hiển thị huyết áp, hãy kiểm tra đó là dữ liệu từ máy vòng bít, nhập tay hay một ước tính. Không mặc định app có thể tự đo huyết áp chỉ từ cảm biến nhịp tim.
 
-Nhà sản xuất ghi tính năng không dành cho người mang thai hoặc đang dùng thuốc huyết áp; nếu tình trạng thay đổi, tạm ngừng dùng BPI và hỏi nhân viên y tế. Việc mở được tính năng không xác nhận phù hợp sử dụng cho mọi người. Không được tự ngừng thuốc để trở thành người đủ điều kiện. [S45](https://support.whoop.com/s/article/WHOOP-Life-Blood-Pressure-Insights)
+## Hiệu chuẩn không biến ước tính thành phép chẩn đoán
+Tài liệu của tính năng tham khảo yêu cầu ba số đo vòng bít để hiệu chuẩn ban đầu và bổ sung số đo mới mỗi 30 ngày. Đây là quy trình riêng của sản phẩm nguồn, không phải hướng dẫn hiệu chuẩn chung cho &lt;Tên App/&gt;. Điều kiện dùng, phần cứng và quy trình thực tế phải theo thiết bị bạn có. [S45](https://support.whoop.com/s/article/WHOOP-Life-Blood-Pressure-Insights) [S55](https://www.whoop.com/us/en/thelocker/blood-pressure-insights-accuracy/)
 
-## Bối cảnh quản lý và giới hạn hiệu quả
-FDA gửi thư cảnh báo về BPI ngày 14/07/2025. Sau khi sản phẩm và nhãn được sửa, thư ngày 17/06/2026 nêu FDA không dự định thực thi các yêu cầu thiết bị với BPI đã sửa theo chính sách general wellness. Thư này không phải quyết định cấp phép hoặc chứng nhận BPI dùng chẩn đoán tăng huyết áp; cũng không áp dụng mọi phiên bản hoặc thị trường. [S53](https://www.fda.gov/inspections-compliance-enforcement-and-criminal-investigations/warning-letters/whoop-inc-709755-07142025) [S54](https://www.fda.gov/inspections-compliance-enforcement-and-criminal-investigations/warning-letters/whoop-inc-709755-06172026)
+Nguồn cũng nêu giới hạn đối tượng và điều kiện dữ liệu đêm. Việc có đủ dữ liệu hoặc mở được tính năng không tự xác nhận phù hợp cho mọi người. Không ngừng thuốc hay thay kế hoạch chăm sóc để trở thành người đủ điều kiện dùng một tính năng wellness. [S45](https://support.whoop.com/s/article/WHOOP-Life-Blood-Pressure-Insights)
 
-WHOOP công bố số liệu so sánh với vòng bít trong bài của hãng; các số đó không tự chứng minh khả năng theo dõi hoặc điều trị bệnh cho từng người. Không dùng BPI để chẩn đoán hay đổi thuốc. Ước tính qua đêm cũng không thay bản ghi huyết áp lưu động 24 giờ. [S55](https://www.whoop.com/us/en/thelocker/blood-pressure-insights-accuracy/) [S45](https://support.whoop.com/s/article/WHOOP-Life-Blood-Pressure-Insights)
+## Khi cần theo dõi huyết áp tại nhà
+AHA khuyến nghị máy đo tự động bắp tay đã được thẩm định và vòng bít đúng cỡ. Hãy trao đổi để biết loại máy và lịch đo phù hợp với bạn. [S46](https://www.heart.org/en/health-topics/high-blood-pressure/understanding-blood-pressure-readings/monitoring-your-blood-pressure-at-home)
 
-## Khi cần biết huyết áp thực tế
-AHA khuyến nghị máy đo tự động bắp tay đã được thẩm định và vòng bít đúng cỡ. Tránh hút thuốc, caffeine và tập thể dục trong 30 phút trước đo; đi tiểu, ngồi nghỉ ít nhất năm phút, lưng được đỡ, chân đặt phẳng, tay ngang tim, đo trên da trần và không nói chuyện. Mỗi lần đo lấy hai số cách nhau ít nhất một phút hoặc theo kế hoạch chuyên môn. Mang bản ghi khi khám, không tự ngừng thuốc khi số đẹp. [S46](https://www.heart.org/en/health-topics/high-blood-pressure/understanding-blood-pressure-readings/monitoring-your-blood-pressure-at-home)
+Một lần đo nên được chuẩn bị có thứ tự:
 
-Ví dụ, WHOOP và máy vòng bít khác nhau không phải lý do lấy trung bình hai phương pháp hoặc sửa thuốc để khớp ứng dụng. Kiểm tra thời điểm, kỹ thuật và hiệu chuẩn, rồi trao đổi khi cần. Màu trong ứng dụng không thay tiêu chuẩn chẩn đoán hoặc kế hoạch theo dõi cá nhân.
+1. Tránh hút thuốc, caffeine và vận động trong 30 phút trước đo; đi tiểu nếu cần.
+2. Nghỉ yên ít nhất năm phút, không nói chuyện hoặc dùng điện thoại khi đo.
+3. Ngồi lưng được đỡ, chân đặt phẳng; đặt tay được đỡ ngang mức tim.
+4. Quấn vòng bít trên da trần theo hướng dẫn, đúng cỡ và đúng vị trí.
+5. Đo hai lần cách nhau một phút, ghi lại kết quả hoặc làm theo kế hoạch riêng của nhân viên y tế. [S46](https://www.heart.org/en/health-topics/high-blood-pressure/understanding-blood-pressure-readings/monitoring-your-blood-pressure-at-home)
 
-Đau ngực, khó thở, yếu liệt hoặc triệu chứng nặng cần trợ giúp khẩn cấp; không chờ sáng hôm sau để xem ước tính. Hướng dẫn nội dung này không thay kế hoạch theo dõi riêng của bác sĩ.
+## Mang dữ liệu đến cuộc trao đổi đúng chỗ
+Một bản ghi gồm ngày, giờ, hai kết quả và triệu chứng nếu có thường dễ sử dụng hơn chỉ ảnh màu trong app. Mang máy đến buổi khám khi được hướng dẫn để kiểm tra cách dùng và đối chiếu kết quả. Không tự ngừng thuốc dù số tại nhà đẹp. [S46](https://www.heart.org/en/health-topics/high-blood-pressure/understanding-blood-pressure-readings/monitoring-your-blood-pressure-at-home)
+
+Các hồ sơ quản lý và số liệu do nhà sản xuất công bố chỉ áp dụng trong phạm vi sản phẩm được nêu, không phải bằng chứng &lt;Tên App/&gt; được cấp phép đo hoặc điều trị tăng huyết áp. Ước tính wellness cũng không thay theo dõi huyết áp lưu động 24 giờ. [S53](https://www.fda.gov/inspections-compliance-enforcement-and-criminal-investigations/warning-letters/whoop-inc-709755-07142025) [S54](https://www.fda.gov/inspections-compliance-enforcement-and-criminal-investigations/warning-letters/whoop-inc-709755-06172026) [S55](https://www.whoop.com/us/en/thelocker/blood-pressure-insights-accuracy/)
+
+Khi có đau ngực, khó thở, yếu liệt hoặc triệu chứng nặng, cần trợ giúp khẩn cấp; đừng chờ ước tính sáng hôm sau. Nếu đang có kế hoạch theo dõi riêng, kế hoạch đó được ưu tiên hơn hướng dẫn tổng quát trong bài.
 
 ## Nguồn tham khảo và phạm vi hỗ trợ
 
-- **S45** — WHOOP Support. [WHOOP Life: Blood Pressure Insights](https://support.whoop.com/s/article/WHOOP-Life-Blood-Pressure-Insights). Phạm vi: WHOOP mô tả BPI là wellness: MG/Life, >=18 tuổi, dữ liệu đêm, 3 số đo vòng bít; không dành cho thai kỳ/người dùng thuốc huyết áp. Phân loại quản lý đối chiếu riêng với S53–S54.
-- **S46** — American Heart Association. [Home Blood Pressure Monitoring](https://www.heart.org/en/health-topics/high-blood-pressure/understanding-blood-pressure-readings/monitoring-your-blood-pressure-at-home). Phạm vi: Máy đo bắp tay được thẩm định, vòng bít đúng cỡ, nghỉ 5 phút, lặp sau 1 phút, không tự ngưng thuốc.
-- **S53** — U.S. Food and Drug Administration. [WHOOP, Inc. — Warning Letter CMS 709755, July 14, 2025](https://www.fda.gov/inspections-compliance-enforcement-and-criminal-investigations/warning-letters/whoop-inc-709755-07142025). Phạm vi: Bối cảnh thư cảnh báo BPI 2025; phải đọc cùng thư kết thúc xử lý 17/06/2026 cho sản phẩm đã sửa, không mô tả 2025 là trạng thái mới nhất.
-- **S54** — U.S. Food and Drug Administration. [WHOOP, Inc. — Closeout Letter CMS 709755, June 17, 2026](https://www.fda.gov/inspections-compliance-enforcement-and-criminal-investigations/warning-letters/whoop-inc-709755-06172026). Phạm vi: FDA nêu không dự định thực thi các yêu cầu thiết bị với BPI đã sửa đổi theo chính sách general wellness; thư không phải quyết định clearance/approval, không áp dụng mọi phiên bản hay tính năng khác.
-- **S55** — WHOOP. [How Accurate is WHOOP Blood Pressure Insights?](https://www.whoop.com/us/en/thelocker/blood-pressure-insights-accuracy/). Phạm vi: Bài 24/06/2026: khoảng ước tính từ đêm; hiệu chuẩn bằng 3 số đo vòng bít; thêm số đo mới mỗi 30 ngày. Số liệu độ chính xác là báo cáo của hãng, không tự chứng minh đủ để chẩn đoán.
+- **S45** —  [Điều kiện và giới hạn tính năng ước tính huyết áp tham khảo](https://support.whoop.com/s/article/WHOOP-Life-Blood-Pressure-Insights). Phạm vi tài liệu: thiết bị trong nguồn mô tả BPI là wellness: MG/Life, >=18 tuổi, dữ liệu đêm, 3 số đo vòng bít; không dành cho thai kỳ/người dùng thuốc huyết áp. Phân loại quản lý đối chiếu riêng với S53–S54.
+- **S46** —  [AHA: theo dõi huyết áp tại nhà bằng máy đo vòng bít](https://www.heart.org/en/health-topics/high-blood-pressure/understanding-blood-pressure-readings/monitoring-your-blood-pressure-at-home). Phạm vi tài liệu: Máy đo bắp tay được thẩm định, vòng bít đúng cỡ, nghỉ 5 phút, lặp sau 1 phút, không tự ngưng thuốc.
+- **S53** —  [Thư cảnh báo FDA năm 2025 về sản phẩm ước tính huyết áp tham chiếu](https://www.fda.gov/inspections-compliance-enforcement-and-criminal-investigations/warning-letters/whoop-inc-709755-07142025). Phạm vi tài liệu: Bối cảnh thư cảnh báo BPI 2025; phải đọc cùng thư kết thúc xử lý 17/06/2026 cho sản phẩm đã sửa, không mô tả 2025 là trạng thái mới nhất.
+- **S54** —  [Thư FDA tháng 6/2026 về sản phẩm ước tính huyết áp đã sửa đổi](https://www.fda.gov/inspections-compliance-enforcement-and-criminal-investigations/warning-letters/whoop-inc-709755-06172026). Phạm vi tài liệu: FDA nêu không dự định thực thi các yêu cầu thiết bị với BPI đã sửa đổi theo chính sách general wellness; thư không phải quyết định clearance/approval, không áp dụng mọi phiên bản hay tính năng khác.
+- **S55** —  [Báo cáo của nhà sản xuất về ước tính huyết áp và hiệu chuẩn](https://www.whoop.com/us/en/thelocker/blood-pressure-insights-accuracy/). Phạm vi tài liệu: Bài 24/06/2026: khoảng ước tính từ đêm; hiệu chuẩn bằng 3 số đo vòng bít; thêm số đo mới mỗi 30 ngày. Số liệu độ chính xác là báo cáo của hãng, không tự chứng minh đủ để chẩn đoán.
 
-> Bài biên soạn độc lập bởi Pulse & Vitality; tài liệu WHOOP và các nguồn khác được dùng để tham khảo. Đăng ngày 2026-10-27; nguồn đối chiếu 2026-10-26. Nội dung giáo dục, không thay thế đánh giá, chẩn đoán hoặc điều trị y tế.
+> Bài biên soạn độc lập bởi Pulse & Vitality. Nội dung chỉnh ngày 27/10/2026; nguồn đối chiếu 2026-10-26. Liên kết được đặt tên theo chủ đề; tên tài liệu gốc và đơn vị phát hành có trên trang nguồn.

@@ -13,7 +13,7 @@
 
   function inspect(figure) {
     const img = figure.querySelector('img');
-    if (!img || /(^|\/)images\/editorial\//i.test(img.getAttribute('src') || '')) {
+    if (figure.dataset.mediaEnabled === 'false' || !img || !img.getAttribute('src') || /(^|\/)images\/editorial\//i.test(img.getAttribute('src') || '')) {
       discard(figure);
       return;
     }

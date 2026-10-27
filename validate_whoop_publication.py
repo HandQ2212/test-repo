@@ -12,9 +12,15 @@ BASE=Path(__file__).resolve().parent
 
 class Media(HTMLParser):
     def __init__(self):
-        super().__init__();self.images=[]
+        super().__init__();self.images=[];self.visible=[];self.skip=0
     def handle_starttag(self,tag,attrs):
+        if tag in ['script','style']:self.skip+=1
         if tag=='img':self.images.append(dict(attrs))
+        assert tag.lower() not in ['tên','ten'],'App placeholder became an HTML element'
+    def handle_endtag(self,tag):
+        if tag in ['script','style']:self.skip-=1
+    def handle_data(self,data):
+        if not self.skip:self.visible.append(data)
 
 
 def main():
@@ -41,29 +47,40 @@ def main():
             source=refs[ref['id'].removeprefix('whoop_')]
             assert ref['url']==source['url'] and ref['url'] in a['content_vi']
         page=(BASE/'posts'/(a['id']+'.html')).read_text()
-        assert a['title_vi'] in page and a['title'] in page
+        assert a['title_vi'] in unescape(page) and a['title'] in unescape(page)
         assert 'Vietnamese edition' in page
         assert 'bản dịch nguyên văn' not in a['content_vi']
         parser=Media();parser.feed(page)
-        assert len(parser.images)==4,a['id']
+        assert len(parser.images)==(2 if a['hero_image'] else 0),a['id']
+        visible=' '.join(parser.visible)
+        assert not re.search('WHOOP',visible,re.I),(a['id'],'Brand still visible in article')
+        assert '<Tên App/>' in visible,(a['id'],'Literal app placeholder missing')
+        assert not a['inline_image'] and 'article-inline-diagram' not in page
+        assert a['reader_revision']==3 and a['visual_policy']=='prose_first_no_text_card_diagram'
         for img in parser.images:
             assert img.get('alt')
             src=img['src']
             if not src.startswith(('https://','http://','data:')):
                 assert (BASE/'posts'/src).resolve().is_file(),(a['id'],src)
-        for role in ['hero_image','inline_image']:
-            assert (BASE/a[role]).is_file()
-        assert sha256((BASE/a['inline_image']).read_bytes()).hexdigest()==figures[a['id']]['sha256']
-        credit=a['image_attributions'][0]
-        assert sha256((BASE/credit['asset']).read_bytes()).hexdigest()==credit['sha256']
-        assert credit['author'] in unescape(page) and credit['license_url'] in unescape(page)
-        assert credit['role']=='hero'
+        assert figures[a['id']]['active'] is False
+        if a['hero_image']:
+            assert (BASE/a['hero_image']).is_file()
+            credit=a['image_attributions'][0]
+            assert sha256((BASE/credit['asset']).read_bytes()).hexdigest()==credit['sha256']
+            assert credit['author'] in unescape(page) and credit['license_url'] in unescape(page)
+            assert credit['role']=='hero'
+        else:assert not a['image_attributions']
         for ref in a['references']:
             assert ref['url'] in unescape(page)
     before=BASE.parent/'audit/whoop-publication-2026-10-27/before/Health_Blog_Demo/articles.json'
     if before.exists():
         assert articles[:83]==json.loads(before.read_text()),'Existing article records changed'
-    print(f'PASS: 29 independent Vietnamese WHOOP articles; 112 total records; 29 standalone pages; sources, licensed heroes and original SVGs match.')
+    previous=BASE.parent/'audit/app-content-revision-2026-10-27/before/Health_Blog_Demo/data/whoop_article_records.json'
+    if previous.exists():
+        for old,new in zip(json.loads(previous.read_text()),records):
+            assert old['id']==new['id'] and old['public_url']==new['public_url']
+            assert [r['url'] for r in old['references']]==[r['url'] for r in new['references']],(new['id'],'Reference URLs changed')
+    print('PASS: 29 revised articles; literal app placeholder; no visible WHOOP branding; source URLs preserved; no text-card diagrams; optional licensed images; 83 existing records preserved.')
 
 
 if __name__=='__main__':

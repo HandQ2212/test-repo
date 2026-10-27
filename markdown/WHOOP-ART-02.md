@@ -1,19 +1,30 @@
-# Theo dõi bước chân trên WHOOP: bắt đầu và kiểm tra dữ liệu
+# Theo dõi bước chân trên &lt;Tên App/&gt;: bắt đầu và kiểm tra dữ liệu
 
-## Bước chân được ghi như thế nào?
-WHOOP dùng gia tốc kế và thuật toán để nhận diện kiểu chuyển động giống đi bộ hoặc chạy. Con số hiển thị là ước tính; thiết bị cố loại các chuyển động khác nhưng không bảo đảm nhận diện đúng mọi tình huống. Theo hướng dẫn hiện tại, tính năng Steps được tối ưu khi đeo ở cổ tay. [S03](https://support.whoop.com/s/article/Steps)
+Điện thoại báo một con số, vòng đeo báo một con số khác. Điều đó khá dễ gây bối rối, nhưng chênh lệch chưa đủ để kết luận bạn đã đi ít đi hoặc một thiết bị hoàn toàn sai.
 
-## Thiết lập một tuần quan sát
-Mở mục Steps trong phần chỉ số hoặc xu hướng của ứng dụng; tên và vị trí menu có thể đổi theo phiên bản. Trước khi đặt mục tiêu, hãy đeo đều trong các ngày làm việc lẫn cuối tuần. Kiểm tra dây vừa, cảm biến tiếp xúc da và ứng dụng đã đồng bộ. Ghi lại những khoảng tháo thiết bị để tránh hiểu ngày thiếu dữ liệu là ngày ít vận động. [S03](https://support.whoop.com/s/article/Steps) [S48](https://support.whoop.com/s/article/What-Affects-WHOOP-Accuracy?language=en_US)
+## Số bước là kết quả nhận diện chuyển động
+Thiết bị đeo thường dùng gia tốc kế và thuật toán để nhận diện kiểu chuyển động giống đi bộ hoặc chạy. Chuyển động tay, vị trí đeo và khoảng thời gian không mang thiết bị đều có thể ảnh hưởng kết quả. Trong hệ thống được tài liệu tham khảo mô tả, tính năng Steps được tối ưu cho vị trí cổ tay; không mặc định đổi sang bắp tay vẫn cho cùng chất lượng đếm. [S03](https://support.whoop.com/s/article/Steps) [S48](https://support.whoop.com/s/article/What-Affects-WHOOP-Accuracy?language=en_US)
 
-## Vì sao số bước khác điện thoại?
-Điện thoại có thể nằm trên bàn trong lúc bạn đi lại; hai thiết bị cũng dùng thuật toán và vị trí cảm biến khác nhau. Chênh lệch không tự chứng minh một bên sai hoàn toàn. Nên theo dõi xu hướng trên cùng một thiết bị, cùng cách đeo, trước khi diễn giải thay đổi nhỏ. [S03](https://support.whoop.com/s/article/Steps)
+Khi đọc Steps trên &lt;Tên App/&gt;, hãy xem dữ liệu đến từ thiết bị nào. Nếu app nhận bước từ nhiều nguồn, cần đọc cách tổng hợp của phiên bản đang dùng, thay vì tự cộng tất cả các con số với nhau.
 
-Ví dụ, số bước giảm đúng vào tuần chuyển vòng sang bắp tay là lý do kiểm tra điều kiện đo trước khi kết luận bạn lười vận động hơn. Một phép đếm tay trên đoạn đi bộ ngắn có thể giúp phát hiện sai lệch lớn, nhưng không thay thế nghiên cứu kiểm định toàn bộ thuật toán. Khi dữ liệu bất thường kéo dài, kiểm tra cách đeo và liên hệ hỗ trợ.
+## Kiểm tra theo thứ tự dễ nhất
+1. Xem thiết bị đã đồng bộ và ngày đang chọn có đúng không.
+2. Nhớ lại những lúc tháo thiết bị, sạc hoặc để điện thoại trên bàn.
+3. Kiểm tra cách đeo theo hướng dẫn của thiết bị, nhất là khi vừa đổi vị trí.
+4. So các ngày có thời gian ghi tương đương trước khi đánh giá xu hướng.
+
+Một phép đếm tay trên đoạn đi bộ ngắn có thể giúp phát hiện sai lệch lớn. Tuy vậy, một đoạn đường không đại diện cho mọi tình huống trong ngày và không thay thế kiểm định thuật toán. [S03](https://support.whoop.com/s/article/Steps)
+
+## Một ví dụ để đọc lại dữ liệu
+Tuần trước bạn đeo vòng ở cổ tay cả ngày. Tuần này bạn chuyển sang bắp tay và có vài buổi quên đeo lại sau khi sạc. Biểu đồ bước thấp hơn có thể chứa cả thay đổi cách ghi, chứ không chỉ thay đổi hành vi. Trước khi tăng mục tiêu, hãy đưa cách đo về tương đối nhất quán.
+
+Điện thoại cũng có giới hạn riêng: nó có thể không ở bên bạn khi đi lấy nước hoặc làm việc nhà. Vì vậy, mục tiêu thực tế là tìm một nguồn đủ ổn định để theo dõi thói quen của bạn, không phải khiến mọi màn hình luôn khớp từng bước.
+
+Nếu số vẫn bất thường sau khi kiểm tra cách đeo và đồng bộ, ghi lại ví dụ cụ thể để hỏi hỗ trợ thiết bị. Trong lúc đó, bạn vẫn có thể duy trì những quãng đi bộ phù hợp mà không cần chờ một con số hoàn hảo.
 
 ## Nguồn tham khảo và phạm vi hỗ trợ
 
-- **S03** — WHOOP Support. [Steps](https://support.whoop.com/s/article/Steps). Phạm vi: Ước tính bước bằng gia tốc kế; ưu tiên vị trí cổ tay; khác biệt giữa thiết bị.
-- **S48** — WHOOP Support. [What Affects WHOOP Accuracy?](https://support.whoop.com/s/article/What-Affects-WHOOP-Accuracy?language=en_US). Phạm vi: Độ vừa dây, vị trí đeo và nhiễu đo ảnh hưởng dữ liệu.
+- **S03** —  [Hướng dẫn về dữ liệu bước chân](https://support.whoop.com/s/article/Steps). Phạm vi tài liệu: Ước tính bước bằng gia tốc kế; ưu tiên vị trí cổ tay; khác biệt giữa thiết bị.
+- **S48** —  [Cách đeo và những yếu tố ảnh hưởng chất lượng tín hiệu](https://support.whoop.com/s/article/What-Affects-WHOOP-Accuracy?language=en_US). Phạm vi tài liệu: Độ vừa dây, vị trí đeo và nhiễu đo ảnh hưởng dữ liệu.
 
-> Bài biên soạn độc lập bởi Pulse & Vitality; tài liệu WHOOP và các nguồn khác được dùng để tham khảo. Đăng ngày 2026-10-27; nguồn đối chiếu 2026-10-26. Nội dung giáo dục, không thay thế đánh giá, chẩn đoán hoặc điều trị y tế.
+> Bài biên soạn độc lập bởi Pulse & Vitality. Nội dung chỉnh ngày 27/10/2026; nguồn đối chiếu 2026-10-26. Liên kết được đặt tên theo chủ đề; tên tài liệu gốc và đơn vị phát hành có trên trang nguồn.

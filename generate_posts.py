@@ -50,7 +50,7 @@ def image_credit(art, role, lang):
     return (f'<span class="image-attribution"><a href="{html.escape(credit["source_page"])}" target="_blank" rel="noopener noreferrer">{html.escape(credit["author"])}</a>'
             f' · <a href="{html.escape(credit["license_url"])}" target="_blank" rel="noopener noreferrer">{html.escape(credit["license"])}</a> · {html.escape(note)}</span>')
 
-def render_article_markdown(md_text, inline_img_src, inline_caption, inline_source_url, lang="en", credit_html=""):
+def render_article_markdown(md_text, inline_img_src, inline_caption, inline_source_url, lang="en", credit_html="", fold_references=False):
     body_html = markdown.markdown(
         md_text,
         extensions=['extra', 'tables', 'sane_lists']
@@ -61,6 +61,9 @@ def render_article_markdown(md_text, inline_img_src, inline_caption, inline_sour
         return f'\n<div class="mermaid">\n{raw_code}\n</div>\n'
 
     body_html = re.sub(r'<pre><code class="(?:language-)?mermaid">([\s\S]*?)</code></pre>', repl_mermaid, body_html)
+    if fold_references:
+        body_html = re.sub(r'<h2[^>]*>Nguồn tham khảo và phạm vi hỗ trợ</h2>([\s\S]*?)(?=<blockquote>|$)',
+                          r'<details class="article-references"><summary>Nguồn tham khảo và phạm vi hỗ trợ</summary>\1</details>',body_html)
 
     if "article-inline-diagram" not in body_html and inline_img_src and not re.search(r'(^|/)images/editorial/', inline_img_src):
         src_label = "Figure source ↗" if lang == "en" else "Nguồn hình ↗"
@@ -113,15 +116,16 @@ for i, art in enumerate(articles):
     hero_credit_en = image_credit(art, 'hero', 'en')
     hero_fit = art.get('hero_image_fit', 'cover')
 
-    body_html_en = render_article_markdown(art["content"], inline_img_src, caption_en, inline_source_url, "en", image_credit(art, 'inline', 'en'))
-    body_html_vi = render_article_markdown(art.get("content_vi", art["content"]), inline_img_src, caption_vi, inline_source_url, "vi", image_credit(art, 'inline', 'vi'))
+    body_html_en = render_article_markdown(art["content"], inline_img_src, caption_en, inline_source_url, "en", image_credit(art, 'inline', 'en'), bool(art.get('reader_revision')))
+    body_html_vi = render_article_markdown(art.get("content_vi", art["content"]), inline_img_src, caption_vi, inline_source_url, "vi", image_credit(art, 'inline', 'vi'), bool(art.get('reader_revision')))
 
     prev_art = articles[i - 1] if i > 0 else None
     next_art = articles[i + 1] if i < len(articles) - 1 else None
 
-    related = [a for a in articles if a["category"] == cat and a["id"] != art["id"]][:3]
+    related_pool = [a for a in articles if a.get('collection') == art.get('collection')] if art.get('reader_revision') else articles
+    related = [a for a in related_pool if a["category"] == cat and a["id"] != art["id"]][:3]
     if len(related) < 3:
-        others = [a for a in articles if a["id"] != art["id"] and a not in related]
+        others = [a for a in related_pool if a["id"] != art["id"] and a not in related]
         related.extend(others[:3 - len(related)])
 
     related_cards_en = ""
@@ -131,13 +135,14 @@ for i, art in enumerate(articles):
         rel_bg, rel_text, _ = category_colors.get(rel["category"], ("#F1F5F9", "#334155", "#64748B"))
         rel_hero = resolve_post_img_path(rel.get("hero_image", ""))
         rel_fit = 'contain' if rel.get('hero_image_fit') == 'contain' else 'cover'
+        rel_background = f"url('{rel_hero}')" if rel_hero else 'linear-gradient(135deg, #16364b, #28675f)'
         rel_cat_vi = category_vi.get(rel["category"], rel["category"])
         rel_title_vi = rel.get("title_vi", rel["title"])
         rel_desc_vi = rel.get("description_vi", rel["description"])
 
         related_cards_en += f"""
         <a href="{rel['id']}.html?lang=en" class="related-post-card">
-          <div class="related-post-img" data-image-fit="{rel_fit}" style="background-image: url('{rel_hero}');">
+          <div class="related-post-img" data-image-fit="{rel_fit}" style="background-image: {rel_background};">
             <span class="related-post-badge" style="background: {rel_bg}; color: {rel_text};">
               {rel_icon} {rel['category']}
             </span>
@@ -155,7 +160,7 @@ for i, art in enumerate(articles):
         """
         related_cards_vi += f"""
         <a href="{rel['id']}.html?lang=vi" class="related-post-card">
-          <div class="related-post-img" data-image-fit="{rel_fit}" style="background-image: url('{rel_hero}');">
+          <div class="related-post-img" data-image-fit="{rel_fit}" style="background-image: {rel_background};">
             <span class="related-post-badge" style="background: {rel_bg}; color: {rel_text};">
               {rel_icon} {rel_cat_vi}
             </span>
@@ -504,6 +509,10 @@ for i, art in enumerate(articles):
 </body>
 </html>
 """
+    if not art.get('hero_image'):
+        html_page = re.sub(r'      <figure class="article-featured-hero">.*?</figure>\n', '', html_page, flags=re.S)
+    # The app-name placeholder is literal text, never an HTML element.
+    html_page = html_page.replace('<Tên App/>', '&lt;Tên App/&gt;')
     with open(os.path.join(posts_dir, f"{art['id']}.html"), "w", encoding="utf-8") as pf:
         pf.write('\n'.join(line.rstrip() for line in html_page.splitlines()) + '\n')
 

@@ -1,6 +1,6 @@
 # Pulse & Vitality — health education
 
-112 health education articles: 83 in-depth bilingual articles and 29 independent Vietnamese guides to WHOOP metrics. The WHOOP collection was added on 27 October 2026, using rewritten explanations, source links, licensed illustrative images and reviewed original SVGs. Its English UI explicitly identifies the Vietnamese edition. **Clinical sign-off has not been recorded.** Source organizations have not endorsed the website.
+112 health education articles: 83 in-depth bilingual articles and 29 independent Vietnamese guides for the literal app-name placeholder `<Tên App/>`. The new collection was revised on 27 October 2026 to prioritize explanations, worked examples and practical next steps. It retains 11 useful licensed illustrations; 18 articles use prose without a hero, and all 29 decorative text-card diagrams have been retired. Source URLs and historical source identities are preserved. Its English UI explicitly identifies the Vietnamese edition. **Clinical sign-off has not been recorded.** Source organizations have not endorsed the website.
 
 The audit found unrelated canonical PubMed identifiers in at least 29 articles, unsupported wearable-to-hormone interpretations, and images that did not match captions. This edition develops the original topic outlines from revision `f68c786` into full articles, with corrected mechanisms and research interpretation. It replaces the overly brief summaries introduced in the first audit. Original texts remain in Git history; local workbook and JSON backups are in the workspace audit directory.
 
@@ -18,9 +18,9 @@ WHOOP collection: [29 guides](https://test-repo-y1wb.onrender.com/?collection=wh
 - `data/editorial_sources.tsv`: 82 source titles, URLs, types and support scopes. Manufacturer documentation explains a product; it is not clinical efficacy evidence. One retracted paper is cited solely to explain why its testosterone claim is excluded.
 - `rebuild_editorial.py`: rebuild article JSON/JS, Markdown, master workbook, roadmaps, workbook copies in `docs/`, and all standalone HTML.
 - `generate_posts.py`: regenerate standalone HTML from the current JSON only.
-- `data/whoop_article_records.json`, `whoop_sources.json`, `whoop_image_manifest.json`: portable snapshot of the 29 Vietnamese WHOOP education records, source register and original diagram provenance.
+- `data/whoop_article_records.json`, `whoop_sources.json`, `whoop_image_manifest.json`: portable snapshot of the 29 Vietnamese app education records, original source register and retired-diagram decisions. Source titles retain their real identities internally; the UI uses descriptive link labels and unchanged URLs.
 - `sync_whoop_articles.py`: merge the WHOOP snapshot into the published catalog, retaining the 83 original records. The full editorial rebuild calls this before generating posts. Use `--import-research /absolute/path/to/WHOOP_Content_Research` only when importing an updated research edition from the workspace.
-- `validate_whoop_publication.py`: check all 29 records, citations, page paths, language labels, licensed hero assets and diagram hashes.
+- `validate_whoop_publication.py`: check all 29 records, citations, page paths, literal app placeholder, absence of visible source branding, optional licensed images, unchanged reference URLs and removal of text-card diagrams.
 - `article_figures.js`: show captions after image loading succeeds, discard broken inline figures, and remove retired summary figures embedded in article HTML.
 - `validate_editorial.py`: coverage, references, images, bibliographic identity and parity across outputs.
 

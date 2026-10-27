@@ -1,21 +1,32 @@
 # Số bước mỗi ngày: đặt mục tiêu phù hợp với mức hiện tại
 
-## Số bước bổ sung điều gì cho buổi tập?
-Một buổi tập không mô tả toàn bộ chuyển động trong ngày. Steps giúp bạn nhận ra các ngày ngồi nhiều, còn Strain mô tả một khía cạnh gắng sức khác. Đạp xe và tập tạ có thể có giá trị dù không tạo nhiều bước; không nên quy đổi mọi bài tập thành bước để chấm chất lượng vận động. [S03](https://support.whoop.com/s/article/Steps) [S04](https://www.who.int/initiatives/behealthy/physical-activity/)
+Một ngày làm việc bận rộn có thể rất mệt nhưng vẫn ít cơ hội đi lại. Theo dõi bước giúp nhận ra điều đó và tìm chỗ để thêm chuyển động, kể cả khi bạn đã có một buổi tập riêng.
 
-## Có cần đạt 10.000 bước?
-Các nghiên cứu đoàn hệ và tổng hợp cho thấy nhiều bước hơn thường liên quan đến kết cục sức khỏe tốt hơn, với dạng quan hệ thay đổi theo kết cục và nhóm người. Tổng quan năm 2025 ghi nhận lợi ích liên quan ở cả những mức thấp hơn 10.000 bước. Đây chủ yếu là bằng chứng quan sát, không chứng minh một số bước cụ thể sẽ giảm một tỷ lệ nguy cơ giống nhau cho riêng bạn. [S05](https://pubmed.ncbi.nlm.nih.gov/40713949/)
+## Bước chân bổ sung cho bức tranh vận động
+Steps mô tả một phần chuyển động trong ngày. Nó không ghi đủ giá trị của đạp xe, bơi hoặc tập tạ, nên đừng dùng số bước để xếp hạng mọi hình thức tập. Điểm tải và số bước trả lời những câu hỏi khác nhau: mức gắng sức có thể cao dù số bước không nhiều. [S03](https://support.whoop.com/s/article/Steps) [S04](https://www.who.int/initiatives/behealthy/physical-activity/)
 
-## Tăng từ mức đang làm được
-Hãy dùng vài ngày đủ dữ liệu để hiểu mức nền. Nếu lịch làm việc ít đi lại, có thể thử thêm một quãng đi bộ ngắn trong giờ nghỉ hoặc sau bữa ăn, rồi xem khả năng duy trì. Đây là ví dụ xây thói quen, không phải liều tập được kê cho mọi người. WHO nhấn mạnh vận động một ít vẫn tốt hơn không vận động. [S04](https://www.who.int/initiatives/behealthy/physical-activity/)
+Khi mở &lt;Tên App/&gt;, bạn có thể bắt đầu bằng câu hỏi “ngày nào mình thường ngồi lâu?” thay vì “hôm nay đã đủ chỉ tiêu chưa?”. Cách đọc này giúp dữ liệu gắn với lịch sống thực tế.
 
-Nếu đau khớp tăng, chóng mặt hoặc bệnh nền hạn chế đi bộ, hãy điều chỉnh với chuyên gia. Người cần phương tiện hỗ trợ di chuyển cũng có thể chọn hình thức vận động phù hợp khác. Mục tiêu là vận động đều và có ích trong hoàn cảnh thực tế, chứ không phải đánh đổi đau hoặc thiếu ngủ để hoàn thành một vòng tiến độ.
+## Không cần lấy 10.000 làm ranh giới thành công
+Nghiên cứu về bước chân ghi nhận mối liên hệ giữa đi nhiều hơn và nhiều kết cục sức khỏe tốt hơn, kể cả ở những mức dưới 10.000 bước. Phần lớn bằng chứng là quan sát: nó không hứa một mức bước sẽ đem lại cùng lợi ích cho từng người. [S05](https://pubmed.ncbi.nlm.nih.gov/40713949/)
+
+Vì vậy, tăng từ mức đang làm được thường dễ thực hiện hơn việc chọn ngay một con số xa với lịch hiện tại. WHO cũng nhấn mạnh vận động một ít vẫn tốt hơn không vận động. [S04](https://www.who.int/initiatives/behealthy/physical-activity/)
+
+## Chọn một cơ hội có sẵn trong ngày
+Bạn có thể thử đi lại khi nghỉ giữa hai phiên làm việc, thêm một đoạn đường phù hợp khi đi chợ, hoặc đi cùng người thân sau bữa ăn. Đây là ví dụ tạo thói quen, không phải liều vận động bắt buộc.
+
+Chẳng hạn, nếu ngày làm việc luôn thấp hơn cuối tuần, hãy chọn một khoảng nghỉ mà bạn chủ động được. Sau vài ngày, nhìn lại xem việc đó có vừa lịch, có gây đau hoặc mệt quá không, và bạn có muốn tiếp tục không. Không cần tăng đồng thời quãng đường, tốc độ và mục tiêu điểm.
+
+## Ngày ít bước không xóa mất những ngày trước
+Trời mưa, lịch chăm sóc gia đình hoặc một ngày cần nghỉ đều có thể làm số bước giảm. Dùng xu hướng để điều chỉnh kế hoạch, tránh biến mỗi ngày thành một lần chấm điểm bản thân.
+
+Nếu đi bộ làm đau tăng hoặc bệnh nền hạn chế khả năng di chuyển, hãy tìm hình thức vận động phù hợp với chuyên gia. Người dùng phương tiện hỗ trợ di chuyển cũng có thể xây dựng thói quen vận động có ích; số bước không đại diện cho toàn bộ nỗ lực của họ.
 
 ## Nguồn tham khảo và phạm vi hỗ trợ
 
-- **S03** — WHOOP Support. [Steps](https://support.whoop.com/s/article/Steps). Phạm vi: Ước tính bước bằng gia tốc kế; ưu tiên vị trí cổ tay; khác biệt giữa thiết bị.
-- **S05** — Ding D, Nguyen B, Nau T, et al. Lancet Public Health. 2025;10(8):e668–e681.. [Daily steps and health outcomes in adults: a systematic review and dose-response meta-analysis](https://pubmed.ncbi.nlm.nih.gov/40713949/). PMID 40713949. DOI 10.1016/S2468-2667(25)00164-1. Phạm vi: Mối liên hệ quan sát giữa số bước và kết cục sức khỏe; không suy luận nhân quả cho từng người.
+- **S03** —  [Hướng dẫn về dữ liệu bước chân](https://support.whoop.com/s/article/Steps). Phạm vi tài liệu: Ước tính bước bằng gia tốc kế; ưu tiên vị trí cổ tay; khác biệt giữa thiết bị.
+- **S05** — Ding D, Nguyen B, Nau T, et al. Lancet Public Health. 2025;10(8):e668–e681. [Tổng quan nghiên cứu về số bước và sức khỏe, năm 2025](https://pubmed.ncbi.nlm.nih.gov/40713949/). PMID 40713949. DOI 10.1016/S2468-2667(25)00164-1. Phạm vi tài liệu: Mối liên hệ quan sát giữa số bước và kết cục sức khỏe; không suy luận nhân quả cho từng người.
   Có [đính chính liên quan](https://pubmed.ncbi.nlm.nih.gov/40883040/); chưa đối chiếu được toàn văn đính chính.
-- **S04** — World Health Organization. [Physical activity](https://www.who.int/initiatives/behealthy/physical-activity/). Phạm vi: Vận động tốt hơn không vận động; tập cơ lớn ít nhất 2 ngày/tuần; hoạt động aerobic.
+- **S04** —  [Khuyến nghị vận động thể lực của WHO](https://www.who.int/initiatives/behealthy/physical-activity/). Phạm vi tài liệu: Vận động tốt hơn không vận động; tập cơ lớn ít nhất 2 ngày/tuần; hoạt động aerobic.
 
-> Bài biên soạn độc lập bởi Pulse & Vitality; tài liệu WHOOP và các nguồn khác được dùng để tham khảo. Đăng ngày 2026-10-27; nguồn đối chiếu 2026-10-26. Nội dung giáo dục, không thay thế đánh giá, chẩn đoán hoặc điều trị y tế.
+> Bài biên soạn độc lập bởi Pulse & Vitality. Nội dung chỉnh ngày 27/10/2026; nguồn đối chiếu 2026-10-26. Liên kết được đặt tên theo chủ đề; tên tài liệu gốc và đơn vị phát hành có trên trang nguồn.

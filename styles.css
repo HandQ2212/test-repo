@@ -331,6 +331,23 @@ body {
   transition: transform 0.3s ease;
 }
 
+.card-cover-img.card-text-cover {
+  height: 112px;
+  min-height: 112px;
+  background-color: #24564f;
+}
+
+.article-references {
+  margin: 2.5rem 0 1.5rem;
+  padding: 1.1rem 1.25rem;
+  border: 1px solid var(--border-light);
+  border-radius: 10px;
+  background: #f8fafc;
+  font-size: 0.9rem;
+}
+.article-references summary { cursor: pointer; font-weight: 700; color: #334155; }
+.article-references[open] summary { margin-bottom: 1rem; }
+
 .card-badges {
   display: flex;
   justify-content: space-between;

@@ -1,22 +1,36 @@
 # Restorative Sleep: vì sao tỷ lệ REM và ngủ sâu cần bối cảnh?
 
-## Đây là cách nhóm chỉ số của WHOOP
-Restorative Sleep trong WHOOP là tổng thời gian ngủ sâu SWS và REM. Tỷ lệ tương ứng lấy tổng hai phần chia cho tổng thời gian ngủ, không phải thời gian trên giường. Đây là định nghĩa sản phẩm; không có nghĩa ngủ nông là vô ích. N1 và N2 là những giai đoạn NREM thật sự. [S25](https://www.whoop.com/ie/en/thelocker/what-is-restorative-sleep/) [S20](https://www.nhlbi.nih.gov/health/sleep/stages-of-sleep)
+Thấy tỷ lệ ngủ sâu hoặc REM giảm có thể khiến bạn muốn tìm cách “bù” ngay. Trước hết, hãy xem cả số giờ ngủ và cách thiết bị ước tính: một phần trăm riêng lẻ dễ che mất bức tranh của đêm đó.
 
-## Tỷ lệ có thể tăng khi tổng thời gian giảm
-Ví dụ minh họa: ba giờ REM cộng SWS trong tám giờ ngủ bằng 37,5%; cùng ba giờ đó trong sáu giờ ngủ bằng 50%. Tỷ lệ cao hơn trong ví dụ không chứng minh đêm sáu giờ phục hồi tốt hơn. Đọc cả số giờ, mức buồn ngủ và điều kiện đo.
+## Restorative Sleep là một cách nhóm dữ liệu
+Trong hệ thống tham khảo, Restorative Sleep bằng thời gian ngủ sâu SWS cộng REM. Tỷ lệ được tính trên tổng thời gian ngủ, không phải toàn bộ thời gian trên giường. Đây là định nghĩa sản phẩm, không có nghĩa ngủ nông là vô ích. N1 và N2 cũng là những giai đoạn ngủ thật sự. [S25](https://www.whoop.com/ie/en/thelocker/what-is-restorative-sleep/) [S20](https://www.nhlbi.nih.gov/health/sleep/stages-of-sleep)
 
-## Không chấm bệnh bằng một phần trăm
-Giai đoạn ngủ được ước tính từ cảm biến trên vòng tay, không được đo bằng sóng não. Nghiên cứu đối chiếu WHOOP với đa ký năm 2020 ghi nhận khả năng phân biệt ngủ/thức và phân bốn trạng thái khác nhau; không thể biến một kết quả gộp thành độ chính xác của mọi chỉ số hoặc mọi người dùng. [S21](https://pubmed.ncbi.nlm.nih.gov/32713257/)
+Nếu &lt;Tên App/&gt; dùng nhãn này, hãy kiểm tra định nghĩa trước khi so với một màn hình khác có cách nhóm riêng.
 
-Một vài đêm tỷ lệ khác thường là lý do xem chất lượng dữ liệu và bối cảnh, chưa đủ để kết luận thiếu REM hay bệnh thần kinh. Các giai đoạn và phân bố ngủ cũng thay đổi theo tuổi và trong đêm. [S20](https://www.nhlbi.nih.gov/health/sleep/stages-of-sleep)
+## Một ví dụ bằng số dễ đọc hơn biểu đồ
+Giả sử tổng REM cộng SWS đều là ba giờ ở hai đêm:
 
-Hãy ưu tiên cơ hội ngủ, lịch phù hợp và cảm giác hồi phục thực tế. Không tự mua thuốc hoặc thực phẩm bổ sung để đạt tỷ lệ SWS+REM cố định. Khi ngủ không hồi phục kéo dài, ngáy kèm ngưng thở hoặc buồn ngủ ảnh hưởng hoạt động, cần đánh giá chuyên môn.
+| Đêm minh họa | Tổng thời gian ngủ | REM + SWS | Tỷ lệ |
+|---|---|---|---|
+| A | 8 giờ | 3 giờ | 37,5% |
+| B | 6 giờ | 3 giờ | 50% |
+
+Đêm B có tỷ lệ cao hơn vì mẫu số nhỏ hơn. Ví dụ không chứng minh đêm B phục hồi tốt hơn; cần đọc cả thời lượng, cảm nhận và bối cảnh. Các số trong bảng là giả định, không phải mục tiêu dành cho người đọc.
+
+## Giai đoạn ngủ trên vòng tay là ước tính
+Vòng tay không đo sóng não như khảo sát giấc ngủ. Một nghiên cứu năm 2020 đánh giá thiết bị tham khảo trong một mẫu nhỏ; kết quả không xác nhận độ chính xác của mọi thế hệ thiết bị hay của &lt;Tên App/&gt;. [S21](https://pubmed.ncbi.nlm.nih.gov/32713257/)
+
+Phân bố giai đoạn cũng thay đổi theo tuổi và trong đêm. Vì vậy, một vài đêm tỷ lệ khác thường chưa đủ kết luận thiếu REM hoặc có bệnh thần kinh. [S20](https://www.nhlbi.nih.gov/health/sleep/stages-of-sleep)
+
+## Điều có thể làm mà không phải đuổi theo tỷ lệ
+Hãy nhìn xem mình có đủ cơ hội ngủ, lịch có phù hợp và ban ngày có thấy hồi phục không. Nếu vừa đổi cách đeo hoặc bản ghi thiếu, kiểm tra dữ liệu trước khi diễn giải thay đổi nhỏ.
+
+Bạn không cần mua thuốc hay thực phẩm bổ sung để đạt một tỷ lệ cố định. Nếu ngủ không hồi phục kéo dài, ngáy kèm ngưng thở hoặc buồn ngủ ảnh hưởng hoạt động, trao đổi với chuyên gia sẽ hữu ích hơn cố tối ưu từng màu trên biểu đồ.
 
 ## Nguồn tham khảo và phạm vi hỗ trợ
 
-- **S25** — WHOOP. [What is Restorative Sleep? [+How to Track it]](https://www.whoop.com/ie/en/thelocker/what-is-restorative-sleep/). Phạm vi: WHOOP gộp SWS và REM thành Restorative Sleep; không coi tỷ lệ quảng bá là ngưỡng chẩn đoán.
-- **S20** — NHLBI / NIH. [How Sleep Works: Sleep Phases and Stages](https://www.nhlbi.nih.gov/health/sleep/stages-of-sleep). Phạm vi: NREM gồm N1, N2, N3; REM; N1 là ngủ, không phải thức.
-- **S21** — Miller DJ, Lastella M, Scanlan AT, et al. J Sports Sci. 2020;38(22):2631–2636.. [A validation study of the WHOOP strap against polysomnography to assess sleep](https://pubmed.ncbi.nlm.nih.gov/32713257/). PMID 32713257. DOI 10.1080/02640414.2020.1797448. Phạm vi: 12 người lớn khỏe mạnh, 86 lần ngủ; thử thuật toán/phần cứng tại thời điểm 2020; không đại diện mọi thế hệ.
+- **S25** —  [Định nghĩa nhóm thời gian ngủ sâu và REM trong sản phẩm tham khảo](https://www.whoop.com/ie/en/thelocker/what-is-restorative-sleep/). Phạm vi tài liệu: thiết bị trong nguồn gộp SWS và REM thành Restorative Sleep; không coi tỷ lệ quảng bá là ngưỡng chẩn đoán.
+- **S20** —  [NINDS: kiến thức về giấc ngủ và các giai đoạn ngủ](https://www.nhlbi.nih.gov/health/sleep/stages-of-sleep). Phạm vi tài liệu: NREM gồm N1, N2, N3; REM; N1 là ngủ, không phải thức.
+- **S21** — Miller DJ, Lastella M, Scanlan AT, et al. J Sports Sci. 2020;38(22):2631–2636. [Nghiên cứu năm 2020 đối chiếu một thiết bị đeo với đa ký giấc ngủ](https://pubmed.ncbi.nlm.nih.gov/32713257/). PMID 32713257. DOI 10.1080/02640414.2020.1797448. Phạm vi tài liệu: 12 người lớn khỏe mạnh, 86 lần ngủ; thử thuật toán/phần cứng tại thời điểm 2020; không đại diện mọi thế hệ.
 
-> Bài biên soạn độc lập bởi Pulse & Vitality; tài liệu WHOOP và các nguồn khác được dùng để tham khảo. Đăng ngày 2026-10-27; nguồn đối chiếu 2026-10-26. Nội dung giáo dục, không thay thế đánh giá, chẩn đoán hoặc điều trị y tế.
+> Bài biên soạn độc lập bởi Pulse & Vitality. Nội dung chỉnh ngày 27/10/2026; nguồn đối chiếu 2026-10-26. Liên kết được đặt tên theo chủ đề; tên tài liệu gốc và đơn vị phát hành có trên trang nguồn.

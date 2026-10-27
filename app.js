@@ -71,7 +71,7 @@ const uiStrings = {
     heroBadge: 'Health education • Sources and limitations',
     heroTitle: 'Evidence-Based Science for Sleep, Recovery, Activity & Longevity',
     heroSubtitle: (total, viOnly) => viOnly
-      ? `${total} health guides: ${total - viOnly} bilingual articles and ${viOnly} Vietnamese guides to WHOOP metrics, with examples, sources and interpretation limits.`
+      ? `${total} health guides: ${total - viOnly} bilingual articles and ${viOnly} Vietnamese guides for <Tên App/>, with practical examples and sources.`
       : `${total} bilingual health guides with physiological explanations, practical situations and checked references.`,
     searchPlaceholder: 'Search by topic, metric (HRV, Deep Sleep, BBT, VO2 Max, Kegel), or keywords...',
     labelCategory: 'Category:',
@@ -114,7 +114,7 @@ const uiStrings = {
     heroBadge: 'Kiến thức sức khỏe • Nguồn và giới hạn bằng chứng',
     heroTitle: 'Khoa Học Thực Chứng Về Giấc Ngủ, Phục Hồi, Vận Động & Sức Khỏe',
     heroSubtitle: (total, viOnly) => viOnly
-      ? `${total} bài kiến thức: ${total - viOnly} bài song ngữ và ${viOnly} bài tiếng Việt về chỉ số WHOOP, kèm ví dụ, nguồn tham khảo và giới hạn diễn giải.`
+      ? `${total} bài kiến thức: ${total - viOnly} bài song ngữ và ${viOnly} bài tiếng Việt cho <Tên App/>, kèm giải thích, ví dụ thực tế và nguồn tham khảo.`
       : `${total} bài song ngữ: giải thích cơ chế, tình huống ứng dụng và nguồn đã đối chiếu.`,
     searchPlaceholder: 'Tìm kiếm theo chủ đề, chỉ số (HRV, Ngủ sâu, BBT, VO2 Max, Kegel) hoặc từ khóa...',
     labelCategory: 'Chủ đề:',
@@ -168,6 +168,10 @@ function getCategoryClass(cat) {
 }
 
 // Helper getters for localized article fields
+function textHTML(value) {
+  return String(value ?? '').replace(/[&<>"']/g, c => ({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]));
+}
+
 function getTitle(art) {
   return (currentLang === 'vi' && art.title_vi) ? art.title_vi : art.title;
 }
@@ -189,6 +193,11 @@ function getInlineCaption(art) {
 function hasInlineFigure(art) {
   // Old cached article records must not reinsert retired text-card images.
   return Boolean(art.inline_image) && !/(^|\/)images\/editorial\//i.test(art.inline_image);
+}
+function foldArticleReferences(html, art) {
+  if (!art.reader_revision) return html;
+  return html.replace(/<h2[^>]*>Nguồn tham khảo và phạm vi hỗ trợ<\/h2>([\s\S]*?)(?=<blockquote>|$)/,
+    '<details class="article-references"><summary>Nguồn tham khảo và phạm vi hỗ trợ</summary>$1</details>');
 }
 function imageCreditHTML(art, role) {
   const credit = (art.image_attributions || []).find(a => a.role === role);
@@ -262,7 +271,7 @@ function applyUITranslations() {
   const collectionLink = document.getElementById('whoop-collection-link');
   if (collectionLink) {
     collectionLink.href = `?collection=whoop&lang=${currentLang}`;
-    collectionLink.textContent = currentLang === 'vi' ? 'Khám phá bộ bài về WHOOP →' : 'Explore the WHOOP collection →';
+    collectionLink.textContent = currentLang === 'vi' ? 'Đọc bộ bài dành cho <Tên App/> →' : 'Explore the <Tên App/> guides →';
   }
   if (searchInput) searchInput.placeholder = t.searchPlaceholder;
 
@@ -325,10 +334,6 @@ async function init() {
     }
   }
 
-  if (urlParams.get('collection') === 'whoop') {
-    searchQuery = 'WHOOP-ART-';
-    searchInput.value = searchQuery;
-  }
   setLanguage(currentLang);
   checkHashRoute();
 }
@@ -424,6 +429,7 @@ function checkHashRoute() {
 
 function filterArticles() {
   return allArticles.filter(art => {
+    if (urlParams.get('collection') === 'whoop' && !art.reader_revision) return false;
     if (currentCategory !== 'All' && art.category !== currentCategory) return false;
     if (currentType !== 'All' && art.type !== currentType) return false;
     if (currentGender !== 'All' && art.gender !== 'All' && art.gender !== currentGender) return false;
@@ -467,26 +473,26 @@ function render() {
 
     return `
       <div class="article-card" onclick="openArticle('${art.id}')">
-        <div class="card-cover-img" data-image-fit="${art.hero_image_fit === 'contain' ? 'contain' : 'cover'}" style="background-image: linear-gradient(180deg, rgba(15, 23, 42, 0.25) 0%, rgba(15, 23, 42, 0.85) 100%), url('${art.hero_image}');">
+        <div class="card-cover-img ${art.hero_image ? '' : 'card-text-cover'}" data-image-fit="${art.hero_image_fit === 'contain' ? 'contain' : 'cover'}" style="background-image: linear-gradient(180deg, rgba(15, 23, 42, 0.25) 0%, rgba(15, 23, 42, 0.85) 100%)${art.hero_image ? `, url('${art.hero_image}')` : ''};">
           <div class="card-badges">
             <span class="badge ${catClass}">${icon} ${catLabel}</span>
             <span class="badge badge-type">${art.type}</span>
           </div>
-          <span class="card-metric">${art.metric}</span>
+          <span class="card-metric">${textHTML(art.metric)}</span>
         </div>
 
         <div class="card-content">
           <div class="card-meta">
-            <span class="card-subtopic">${art.sub_topic}</span>
+            <span class="card-subtopic">${textHTML(art.sub_topic)}</span>
             <span class="card-time">⏱ ${readTime}</span>
           </div>
 
-          <h3 class="card-title">${title}</h3>
-          <p class="card-description">${desc}</p>
+          <h3 class="card-title">${textHTML(title)}</h3>
+          <p class="card-description">${textHTML(desc)}</p>
 
           <div class="card-takeaway-preview">
             <span class="takeaway-icon">💡</span>
-            <p>${takeaway.slice(0, 95)}...</p>
+            <p>${textHTML(takeaway.slice(0, 95))}...</p>
           </div>
 
           <div class="card-footer">
@@ -548,12 +554,19 @@ function openFullArticleView(art, updateHash = true) {
   const heroImg = document.getElementById('art-view-hero-img');
   const heroCaption = document.getElementById('art-view-hero-caption');
   if (heroImg && art.hero_image) {
+    heroImg.closest('figure').dataset.mediaEnabled = 'true';
     heroImg.src = art.hero_image;
     const photoCaption = currentLang === 'vi' ? (art.hero_caption_vi || title) : (art.hero_caption || title);
     heroImg.alt = photoCaption;
     heroImg.style.objectFit = art.hero_image_fit || 'cover';
     const heroSourceUrl = art.hero_image_source_url || art.hero_image;
-    heroCaption.innerHTML = `${photoCaption} • <a href="${heroSourceUrl}" target="_blank" rel="noopener noreferrer" class="img-source-badge">${t.heroPhotoSourceLabel}</a>${imageCreditHTML(art, 'hero')}`;
+    heroCaption.innerHTML = `${textHTML(photoCaption)} • <a href="${heroSourceUrl}" target="_blank" rel="noopener noreferrer" class="img-source-badge">${t.heroPhotoSourceLabel}</a>${imageCreditHTML(art, 'hero')}`;
+  } else if (heroImg) {
+    heroImg.closest('figure').dataset.mediaEnabled = 'false';
+    heroImg.closest('figure').classList.add('hidden');
+    heroImg.removeAttribute('src');
+    heroImg.alt = '';
+    heroCaption.textContent = '';
   }
 
   // Set Meta details
@@ -568,7 +581,7 @@ function openFullArticleView(art, updateHash = true) {
   document.getElementById('art-view-takeaway').textContent = takeaway;
 
   // Render Markdown Body with Injected Inline Diagram Image (if not already embedded in markdown)
-  let parsedHtml = marked.parse(contentMd);
+  let parsedHtml = foldArticleReferences(marked.parse(contentMd), art);
   if (hasInlineFigure(art) && !parsedHtml.includes('article-inline-diagram')) {
     const figSourceUrl = art.inline_image_source_url || art.inline_image;
     const inlineDiagramHtml = `
@@ -623,7 +636,7 @@ function openFullArticleView(art, updateHash = true) {
     paginationHtml += `
       <div class="post-nav-btn prev" onclick="openArticle('${prevArt.id}')" style="cursor: pointer;">
         <span class="nav-direction">${t.prevArticle}</span>
-        <span class="nav-title">${getTitle(prevArt)}</span>
+        <span class="nav-title">${textHTML(getTitle(prevArt))}</span>
       </div>
     `;
   } else {
@@ -634,7 +647,7 @@ function openFullArticleView(art, updateHash = true) {
     paginationHtml += `
       <div class="post-nav-btn next" onclick="openArticle('${nextArt.id}')" style="cursor: pointer;">
         <span class="nav-direction">${t.nextArticle}</span>
-        <span class="nav-title">${getTitle(nextArt)}</span>
+        <span class="nav-title">${textHTML(getTitle(nextArt))}</span>
       </div>
     `;
   } else {
@@ -643,9 +656,10 @@ function openFullArticleView(art, updateHash = true) {
   document.getElementById('art-view-pagination').innerHTML = paginationHtml;
 
   // Related Articles (same category, different id)
-  const related = allArticles.filter(a => a.category === art.category && a.id !== art.id).slice(0, 3);
+  const relatedPool = art.reader_revision ? allArticles.filter(a => a.collection === art.collection) : allArticles;
+  const related = relatedPool.filter(a => a.category === art.category && a.id !== art.id).slice(0, 3);
   if (related.length < 3) {
-    const others = allArticles.filter(a => a.id !== art.id && !related.includes(a)).slice(0, 3 - related.length);
+    const others = relatedPool.filter(a => a.id !== art.id && !related.includes(a)).slice(0, 3 - related.length);
     related.push(...others);
   }
 
@@ -655,14 +669,14 @@ function openFullArticleView(art, updateHash = true) {
     const relColors = categoryColors[rel.category] || { bg: '#F1F5F9', text: '#334155' };
     return `
       <div class="related-post-card" onclick="openArticle('${rel.id}')" style="cursor: pointer;">
-        <div class="related-post-img" data-image-fit="${rel.hero_image_fit === 'contain' ? 'contain' : 'cover'}" style="background-image: url('${rel.hero_image}');">
+        <div class="related-post-img" data-image-fit="${rel.hero_image_fit === 'contain' ? 'contain' : 'cover'}" style="background-image: ${rel.hero_image ? `url('${rel.hero_image}')` : 'linear-gradient(135deg, #16364b, #28675f)'};">
           <span class="related-post-badge" style="background: ${relColors.bg}; color: ${relColors.text};">
             ${relIcon} ${getCatLabel(rel.category)}
           </span>
         </div>
         <div class="related-post-info">
-          <h4 class="related-post-title">${getTitle(rel)}</h4>
-          <p class="related-post-desc">${getDesc(rel).slice(0, 85)}...</p>
+          <h4 class="related-post-title">${textHTML(getTitle(rel))}</h4>
+          <p class="related-post-desc">${textHTML(getDesc(rel).slice(0, 85))}...</p>
           <div class="related-post-meta">
             <span>⏱ ${getReadTime(rel)}</span>
             <span>•</span>
@@ -729,7 +743,7 @@ function openInAppModal(art) {
   inappMetric.textContent = art.metric;
   inappTitle.textContent = getTitle(art);
   inappTakeaway.textContent = getTakeaway(art);
-  let parsed = marked.parse(getContent(art));
+  let parsed = foldArticleReferences(marked.parse(getContent(art)), art);
   if (hasInlineFigure(art)) {
     parsed += `<figure class="article-inline-diagram"><img src="${art.inline_image}" alt="${getInlineCaption(art)}" loading="lazy"><figcaption>${getInlineCaption(art)}${imageCreditHTML(art, 'inline')}</figcaption></figure>`;
   }
