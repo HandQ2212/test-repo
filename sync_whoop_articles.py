@@ -79,6 +79,7 @@ def import_research(research):
     items = read(research/'articles.json')
     sources = {s['id']:s for s in read(research/'sources.json')}
     source_labels = read(research/'public_source_labels.json')
+    source_labels.update({sid:s['display_label'] for sid,s in sources.items() if s.get('display_label')})
     reviewed_images = {x['id']:x for x in read(research/'images/image_manifest.json')}
     legacy = {a['id']:a for a in read(BASE/'articles.json') if not a['id'].startswith(PREFIX)}
     assert len(items)==29 and len(legacy)==83
@@ -157,7 +158,7 @@ def import_research(research):
                             image_attributions=[hero] if hero else [],image_provenance='Selected licensed illustration only where useful; text-card diagrams replaced with prose and tables.',
                             image_review_status='Subject-specific media retained with credits; no decorative text-card diagrams',
                             independent_rewrite=True,collection='App Health Education',research_content_id=aid,
-                            reader_revision=3,reader_revision_date='2026-10-27',visual_policy='prose_first_no_text_card_diagram',
+                            reader_revision=item.get('reader_revision',3),reader_revision_date='2026-10-27',visual_policy='prose_first_no_text_card_diagram',
                             research_body_sha256=sha256(item['body'].encode()).hexdigest(),
                             original_whoop_card_title=item.get('original_title',''),
                             original_whoop_source_match=item.get('source_match',''),

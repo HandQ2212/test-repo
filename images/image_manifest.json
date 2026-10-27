@@ -5559,6 +5559,8 @@
     "creator": "See asset credits; original SVG by Pulse & Vitality",
     "provenance": "Selected licensed illustration only where useful; text-card diagrams replaced with prose and tables.",
     "evidence_urls": [
+      "https://pubmed.ncbi.nlm.nih.gov/11708692/",
+      "https://pubmed.ncbi.nlm.nih.gov/29345524/",
       "https://www.whoop.com/us/en/thelocker/how-does-whoop-strain-work-101/",
       "https://developer.whoop.com/docs/whoop-101/",
       "https://www.who.int/initiatives/behealthy/physical-activity/"
@@ -5574,7 +5576,7 @@
     "provenance": "Selected licensed illustration only where useful; text-card diagrams replaced with prose and tables.",
     "evidence_urls": [
       "https://support.whoop.com/s/article/Steps",
-      "https://support.whoop.com/s/article/What-Affects-WHOOP-Accuracy?language=en_US"
+      "https://support.apple.com/en-us/108779"
     ]
   },
   "WHOOP-ART-03": {
@@ -5613,9 +5615,10 @@
     "creator": "See asset credits; original SVG by Pulse & Vitality",
     "provenance": "Selected licensed illustration only where useful; text-card diagrams replaced with prose and tables.",
     "evidence_urls": [
-      "https://support.whoop.com/s/article/Steps",
+      "https://www.who.int/initiatives/behealthy/physical-activity/",
       "https://pubmed.ncbi.nlm.nih.gov/40713949/",
-      "https://www.who.int/initiatives/behealthy/physical-activity/"
+      "https://www.cdc.gov/physical-activity-basics/measuring/index.html",
+      "https://www.cdc.gov/physical-activity-basics/guidelines/adults.html"
     ]
   },
   "WHOOP-ART-04": {
@@ -5629,7 +5632,9 @@
     "evidence_urls": [
       "https://www.whoop.com/gr/en/thelocker/more-personalized-heart-rate-zones-with-whoop/",
       "https://www.whoop.com/us/en/thelocker/why-whoop-uses-heart-rate-reserve-not-max-heart-rate/",
-      "https://www.who.int/initiatives/behealthy/physical-activity/"
+      "https://www.who.int/initiatives/behealthy/physical-activity/",
+      "https://www.cdc.gov/physical-activity-basics/measuring/index.html",
+      "https://www.heart.org/en/healthy-living/fitness/fitness-basics/target-heart-rates"
     ]
   },
   "WHOOP-ART-05": {
@@ -5642,7 +5647,8 @@
     "provenance": "Selected licensed illustration only where useful; text-card diagrams replaced with prose and tables.",
     "evidence_urls": [
       "https://www.whoop.com/us/en/thelocker/why-whoop-uses-heart-rate-reserve-not-max-heart-rate/",
-      "https://support.whoop.com/s/article/What-Affects-WHOOP-Accuracy?language=en_US"
+      "https://support.whoop.com/s/article/What-Affects-WHOOP-Accuracy?language=en_US",
+      "https://www.heart.org/en/healthy-living/fitness/fitness-basics/target-heart-rates"
     ]
   },
   "WHOOP-ART-06": {
@@ -5681,7 +5687,9 @@
     "creator": "See asset credits; original SVG by Pulse & Vitality",
     "provenance": "Selected licensed illustration only where useful; text-card diagrams replaced with prose and tables.",
     "evidence_urls": [
-      "https://www.whoop.com/us/en/thelocker/podcast-48-science-tracking-calories/",
+      "https://www.fda.gov/food/nutrition-facts-label/how-understand-and-use-nutrition-facts-label",
+      "https://www.niddk.nih.gov/health-information/weight-management/just-enough-food-portions",
+      "https://www.whoop.com/us/en/thelocker/calorie-tracking-science/",
       "https://pubmed.ncbi.nlm.nih.gov/28538708/",
       "https://ods.od.nih.gov/factsheets/ExerciseAndAthleticPerformance-HealthProfessional/"
     ]
@@ -5695,9 +5703,10 @@
     "creator": "See asset credits; original SVG by Pulse & Vitality",
     "provenance": "Selected licensed illustration only where useful; text-card diagrams replaced with prose and tables.",
     "evidence_urls": [
+      "https://www.apple.com/health/pdf/Heart_Rate_Calorimetry_Activity_on_Apple_Watch_November_2024.pdf",
       "https://www.whoop.com/us/en/thelocker/calorie-tracking-science/",
       "https://pubmed.ncbi.nlm.nih.gov/28538708/",
-      "https://support.whoop.com/s/article/What-Affects-WHOOP-Accuracy?language=en_US"
+      "https://ods.od.nih.gov/factsheets/ExerciseAndAthleticPerformance-HealthProfessional/"
     ]
   },
   "WHOOP-ART-08": {
@@ -5709,9 +5718,10 @@
     "creator": "See asset credits; original SVG by Pulse & Vitality",
     "provenance": "Selected licensed illustration only where useful; text-card diagrams replaced with prose and tables.",
     "evidence_urls": [
-      "https://www.whoop.com/us/en/thelocker/how-does-whoop-recovery-work-101/",
-      "https://support.whoop.com/s/article/WHOOP-Recovery",
-      "https://www.who.int/initiatives/behealthy/physical-activity/"
+      "https://pubmed.ncbi.nlm.nih.gov/29345524/",
+      "https://www.nhlbi.nih.gov/health/sleep/why-sleep-important",
+      "https://www.heart.org/en/healthy-living/fitness/fitness-basics/target-heart-rates",
+      "https://pubmed.ncbi.nlm.nih.gov/8598068/"
     ]
   },
   "WHOOP-ART-09": {
@@ -5750,9 +5760,10 @@
     "creator": "See asset credits; original SVG by Pulse & Vitality",
     "provenance": "Selected licensed illustration only where useful; text-card diagrams replaced with prose and tables.",
     "evidence_urls": [
-      "https://www.whoop.com/us/en/thelocker/heart-rate-variability-hrv/",
       "https://pubmed.ncbi.nlm.nih.gov/8598068/",
-      "https://support.whoop.com/s/article/WHOOP-Recovery"
+      "https://www.frontiersin.org/journals/public-health/articles/10.3389/fpubh.2017.00258/full",
+      "https://developer.apple.com/documentation/healthkit/hkquantitytypeidentifier/heartratevariabilitysdnn",
+      "https://pubmed.ncbi.nlm.nih.gov/29345524/"
     ]
   },
   "WHOOP-ART-10": {
@@ -5764,9 +5775,11 @@
     "creator": "See asset credits; original SVG by Pulse & Vitality",
     "provenance": "Selected licensed illustration only where useful; text-card diagrams replaced with prose and tables.",
     "evidence_urls": [
+      "https://www.nhlbi.nih.gov/health/lungs",
       "https://www.whoop.com/us/en/thelocker/what-is-respiratory-rate-normal/",
-      "https://medlineplus.gov/ency/article/002341.htm",
-      "https://medlineplus.gov/ency/article/007198.htm"
+      "https://medlineplus.gov/ency/article/007198.htm",
+      "https://www.nhs.uk/symptoms/shortness-of-breath/",
+      "https://www.fda.gov/medical-devices/products-and-medical-procedures/pulse-oximeters"
     ]
   },
   "WHOOP-ART-11": {
@@ -5778,7 +5791,8 @@
     "creator": "See asset credits; original SVG by Pulse & Vitality",
     "provenance": "Selected licensed illustration only where useful; text-card diagrams replaced with prose and tables.",
     "evidence_urls": [
-      "https://www.whoop.com/us/en/thelocker/what-is-respiratory-rate-normal/",
+      "https://www.nhlbi.nih.gov/health/lungs",
+      "https://www.nhs.uk/symptoms/shortness-of-breath/",
       "https://medlineplus.gov/ency/article/002341.htm",
       "https://medlineplus.gov/ency/article/007198.htm"
     ]
@@ -5792,8 +5806,9 @@
     "creator": "See asset credits; original SVG by Pulse & Vitality",
     "provenance": "Selected licensed illustration only where useful; text-card diagrams replaced with prose and tables.",
     "evidence_urls": [
-      "https://www.whoop.com/us/pt/thelocker/what-causes-an-increased-respiratory-rate/",
-      "https://medlineplus.gov/ency/article/007198.htm"
+      "https://www.nhs.uk/symptoms/shortness-of-breath/",
+      "https://medlineplus.gov/ency/article/007198.htm",
+      "https://www.nhlbi.nih.gov/health/lungs"
     ]
   },
   "WHOOP-ART-13": {
@@ -5832,10 +5847,11 @@
     "creator": "See asset credits; original SVG by Pulse & Vitality",
     "provenance": "Selected licensed illustration only where useful; text-card diagrams replaced with prose and tables.",
     "evidence_urls": [
-      "https://support.whoop.com/s/article/WHOOP-Recovery",
-      "https://www.whoop.com/us/en/thelocker/everything-to-know-about-sleep/",
+      "https://pubmed.ncbi.nlm.nih.gov/34314344/",
+      "https://www.nhlbi.nih.gov/health/sleep/sleep-wake-cycle",
+      "https://www.nhlbi.nih.gov/health/sleep/how-much-sleep",
       "https://www.nhlbi.nih.gov/health/sleep/stages-of-sleep",
-      "https://pubmed.ncbi.nlm.nih.gov/32713257/"
+      "https://www.nhlbi.nih.gov/health/insomnia/treatment"
     ]
   },
   "WHOOP-ART-14": {
@@ -5847,8 +5863,10 @@
     "creator": "See asset credits; original SVG by Pulse & Vitality",
     "provenance": "Selected licensed illustration only where useful; text-card diagrams replaced with prose and tables.",
     "evidence_urls": [
-      "https://www.whoop.com/us/en/thelocker/new-feature-sleep-consistency-why-we-track-it/",
-      "https://www.whoop.com/us/en/thelocker/everything-to-know-about-sleep/",
+      "https://www.nhlbi.nih.gov/health/sleep/sleep-wake-cycle",
+      "https://www.nhlbi.nih.gov/health/sleep/how-much-sleep",
+      "https://pubmed.ncbi.nlm.nih.gov/34314344/",
+      "https://www.nhlbi.nih.gov/health/sleep-deprivation/healthy-sleep-habits",
       "https://www.nhlbi.nih.gov/health/insomnia/treatment"
     ]
   },
@@ -5861,9 +5879,12 @@
     "creator": "See asset credits; original SVG by Pulse & Vitality",
     "provenance": "Selected licensed illustration only where useful; text-card diagrams replaced with prose and tables.",
     "evidence_urls": [
-      "https://www.whoop.com/us/en/thelocker/what-is-sleep-debt-catch-up/",
       "https://www.nhlbi.nih.gov/health/sleep-deprivation/how-much-sleep",
-      "https://www.whoop.com/us/en/thelocker/how-much-sleep-do-i-need/"
+      "https://pubmed.ncbi.nlm.nih.gov/12683469/",
+      "https://www.nhlbi.nih.gov/health/sleep/sleep-wake-cycle",
+      "https://www.nhlbi.nih.gov/health/sleep/how-much-sleep",
+      "https://www.nhlbi.nih.gov/health/sleep-deprivation/healthy-sleep-habits",
+      "https://www.nhlbi.nih.gov/health/insomnia/treatment"
     ]
   },
   "WHOOP-ART-16": {
@@ -5875,9 +5896,11 @@
     "creator": "See asset credits; original SVG by Pulse & Vitality",
     "provenance": "Selected licensed illustration only where useful; text-card diagrams replaced with prose and tables.",
     "evidence_urls": [
-      "https://www.whoop.com/ie/en/thelocker/what-is-restorative-sleep/",
       "https://www.nhlbi.nih.gov/health/sleep/stages-of-sleep",
-      "https://pubmed.ncbi.nlm.nih.gov/32713257/"
+      "https://developer.apple.com/documentation/healthkit/hkcategoryvaluesleepanalysis",
+      "https://www.nhlbi.nih.gov/health/sleep/why-sleep-important",
+      "https://pubmed.ncbi.nlm.nih.gov/34314344/",
+      "https://www.nhlbi.nih.gov/health/sleep-deprivation/healthy-sleep-habits"
     ]
   },
   "WHOOP-ART-17": {
@@ -5890,6 +5913,7 @@
     "provenance": "Selected licensed illustration only where useful; text-card diagrams replaced with prose and tables.",
     "evidence_urls": [
       "https://www.whoop.com/us/en/thelocker/all-new-body-composition-and-weight-trends-insights-that-lead-to-progress/",
+      "https://pubmed.ncbi.nlm.nih.gov/15380917/",
       "https://ods.od.nih.gov/factsheets/ExerciseAndAthleticPerformance-HealthProfessional/"
     ]
   },
@@ -5931,7 +5955,11 @@
     "evidence_urls": [
       "https://www.niddk.nih.gov/health-information/diet-nutrition/changing-habits-better-health",
       "https://pubmed.ncbi.nlm.nih.gov/20921542/",
-      "https://www.who.int/initiatives/behealthy/physical-activity/"
+      "https://www.who.int/initiatives/behealthy/physical-activity/",
+      "https://www.cdc.gov/physical-activity-basics/guidelines/adults.html",
+      "https://www.fda.gov/food/nutrition-facts-label/how-understand-and-use-nutrition-facts-label",
+      "https://www.niddk.nih.gov/health-information/weight-management/just-enough-food-portions",
+      "https://www.nhlbi.nih.gov/health/sleep/how-much-sleep"
     ]
   },
   "WHOOP-ART-19": {
@@ -6000,7 +6028,9 @@
     "evidence_urls": [
       "https://www.whoop.com/us/en/thelocker/how-stress-impacts-sleep-patterns/",
       "https://www.nimh.nih.gov/health/publications/so-stressed-out-fact-sheet",
-      "https://www.nhlbi.nih.gov/health/insomnia/treatment"
+      "https://www.nhlbi.nih.gov/health/insomnia/treatment",
+      "https://www.nhlbi.nih.gov/health/sleep/stages-of-sleep",
+      "https://www.nhlbi.nih.gov/health/sleep-deprivation/healthy-sleep-habits"
     ]
   },
   "WHOOP-ART-22": {
@@ -6014,7 +6044,9 @@
     "evidence_urls": [
       "https://www.nimh.nih.gov/health/publications/so-stressed-out-fact-sheet",
       "https://www.whoop.com/us/en/thelocker/introducing-stress-monitor-a-new-way-to-monitor-manage-stress/",
-      "https://www.whoop.com/us/en/thelocker/how-to-manage-stress/"
+      "https://support.whoop.com/s/article/Get-to-Know-the-Stress-Monitor?language=en_US",
+      "https://www.whoop.com/us/en/thelocker/how-to-manage-stress/",
+      "https://pubmed.ncbi.nlm.nih.gov/8598068/"
     ]
   },
   "WHOOP-ART-23": {
@@ -6071,7 +6103,8 @@
       "https://support.whoop.com/s/article/WHOOP-Sleep?language=en_US",
       "https://www.nhlbi.nih.gov/health/sleep-deprivation/how-much-sleep",
       "https://www.nhlbi.nih.gov/health/insomnia/treatment",
-      "https://www.nhlbi.nih.gov/health/sleep-apnea/diagnosis"
+      "https://www.nhlbi.nih.gov/health/sleep-apnea/diagnosis",
+      "https://www.nhlbi.nih.gov/health/sleep/stages-of-sleep"
     ]
   },
   "WHOOP-ART-25": {
@@ -6128,7 +6161,9 @@
       "https://support.whoop.com/s/article/WHOOP-Strain?language=en_US",
       "https://www.whoop.com/us/en/thelocker/how-does-whoop-strain-work-101/",
       "https://www.who.int/initiatives/behealthy/physical-activity/",
-      "https://support.whoop.com/s/article/List-of-WHOOP-Activities"
+      "https://support.whoop.com/s/article/List-of-WHOOP-Activities",
+      "https://pubmed.ncbi.nlm.nih.gov/11708692/",
+      "https://www.cdc.gov/physical-activity-basics/guidelines/adults.html"
     ]
   },
   "WHOOP-ART-27": {
@@ -6169,7 +6204,9 @@
     "evidence_urls": [
       "https://support.whoop.com/s/article/Healthspan-WHOOP-Age-Pace-of-Aging-Guide?language=en_US",
       "https://www.who.int/initiatives/behealthy/physical-activity/",
-      "https://support.whoop.com/s/article/VO2-Max?language=en_US"
+      "https://support.whoop.com/s/article/VO2-Max?language=en_US",
+      "https://www.heart.org/en/healthy-living/fitness/fitness-basics/target-heart-rates",
+      "https://pubmed.ncbi.nlm.nih.gov/29345524/"
     ]
   },
   "WHOOP-ART-28": {
@@ -6183,9 +6220,9 @@
     "evidence_urls": [
       "https://support.whoop.com/s/article/ECG-Data-Accuracy-Best-Practices?language=en_US",
       "https://support.whoop.com/s/article/Irregular-Heart-Rhythm-Notifications-Data-Accuracy-Best-Practices?language=en_US",
-      "https://support.whoop.com/s/article/Regional-Feature-Availability",
       "https://www.accessdata.fda.gov/cdrh_docs/pdf24/K243236.pdf",
-      "https://apps.apple.com/gb/app/whoop/id933944389"
+      "https://apps.apple.com/gb/app/whoop/id933944389",
+      "https://www.heart.org/en/healthy-living/fitness/fitness-basics/target-heart-rates"
     ]
   },
   "WHOOP-ART-29": {
@@ -6228,7 +6265,9 @@
       "https://www.heart.org/en/health-topics/high-blood-pressure/understanding-blood-pressure-readings/monitoring-your-blood-pressure-at-home",
       "https://www.fda.gov/inspections-compliance-enforcement-and-criminal-investigations/warning-letters/whoop-inc-709755-07142025",
       "https://www.fda.gov/inspections-compliance-enforcement-and-criminal-investigations/warning-letters/whoop-inc-709755-06172026",
-      "https://www.whoop.com/us/en/thelocker/blood-pressure-insights-accuracy/"
+      "https://www.whoop.com/us/en/thelocker/blood-pressure-insights-accuracy/",
+      "https://apps.apple.com/gb/app/whoop/id933944389",
+      "https://www.heart.org/en/healthy-living/fitness/fitness-basics/target-heart-rates"
     ]
   }
 }

@@ -1,26 +1,58 @@
 # Macros và phục hồi: đủ chất trước khi tối ưu tỷ lệ
 
-Khi cảm thấy tập không vào hoặc hồi phục chậm, bạn có thể muốn tìm ngay một tỷ lệ macros tối ưu. Nhưng trước khi chỉnh phần trăm, hãy xem mình có ăn đủ và đều trong những ngày vận động hay chưa.
+Khi cảm thấy cơ bắp chậm hồi phục sau buổi tập, thức dậy uể oải hoặc tập mãi mà không tăng tạ, nhiều người thường vội vã tìm kiếm một "tỷ lệ macros thần thánh" hay mua ngay các loại thực phẩm bổ sung đắt tiền. Tuy nhiên, trước khi loay hoay căn chỉnh từng phần trăm chất đạm hay chất béo, điều cơ bản và quan trọng nhất là bạn đã cung cấp đủ tổng năng lượng và dinh dưỡng đa dạng cho cơ thể hay chưa.
 
-## Ba nhóm chất và vai trò cơ bản
-Macros là cách gọi ngắn của các chất dinh dưỡng đa lượng: carbohydrate, protein và chất béo. Quy ước năng lượng thường dùng là khoảng 4 kcal/g cho carbohydrate và protein, 9 kcal/g cho chất béo. Đây là cách hiểu nhãn và khẩu phần, không phải điểm chấm chất lượng thực phẩm. [S29](https://www.whoop.com/us/en/thelocker/how-to-count-macros/)
+Dinh dưỡng thể thao là một kim tự tháp: nền móng vững chắc nhất là **tổng năng lượng nạp vào và sự đều đặn của bữa ăn**, tiếp theo là **phân bổ các chất dinh dưỡng đa lượng (macros)**, rồi mới đến **thời điểm ăn (nutrient timing)** và cuối cùng ở đỉnh tháp là **thực phẩm bổ sung**. Đảo ngược thứ tự này sẽ khiến bạn tốn nhiều công sức nhưng hiệu quả phục hồi lại không như mong đợi. [S30](https://ods.od.nih.gov/factsheets/ExerciseAndAthleticPerformance-HealthProfessional/)
 
-Carbohydrate góp phần cung cấp năng lượng và dự trữ glycogen; protein cung cấp acid amin cho duy trì và sửa chữa mô; chất béo cũng là thành phần cần thiết. Hướng dẫn dinh dưỡng thể thao đặt đủ năng lượng, nước và các chất dinh dưỡng trong cùng một bức tranh. Nhu cầu vận động viên không tự áp dụng cho mọi người. [S30](https://ods.od.nih.gov/factsheets/ExerciseAndAthleticPerformance-HealthProfessional/)
+## Ba nhóm chất đa lượng và vai trò đối với sự phục hồi
 
-## Điểm phục hồi không cho ra tỷ lệ macros cá nhân
-Recovery trên &lt;Tên App/&gt; có thể được đọc cùng lịch tập và ăn uống nếu các dữ liệu đó có sẵn. Tuy vậy, một điểm thấp không đủ xác định bạn thiếu carbohydrate hay protein. Ngủ, tải tập, rượu, bệnh và điều kiện đo đều có thể góp phần vào diễn biến điểm.
+Thuật ngữ "Macros" là viết tắt của các chất dinh dưỡng đa lượng (Macronutrients) mà cơ thể cần với số lượng lớn mỗi ngày để duy trì sự sống, cung cấp năng lượng và tái tạo mô:
 
-Ngay cả khi một món ăn thường xuất hiện trước ngày có điểm tốt, sự trùng hợp chưa chứng minh món đó là nguyên nhân. Đừng xây quá nhiều quy tắc ăn uống từ một vài ngày dữ liệu.
+| Nhóm chất | Năng lượng cung cấp | Vai trò cốt lõi trong phục hồi và vận động | Nguồn thực phẩm tiêu biểu |
+|---|---|---|---|
+| **Carbohydrate (Tinh bột & đường)** | ~4 kcal/gam | Nhiên liệu chính cho não bộ và hệ thần kinh; nạp lại kho dự trữ glycogen trong cơ bắp và gan sau khi vận động | Cơm, yến mạch, khoai lang, chuối, trái cây, bánh mì nguyên cám |
+| **Protein (Chất đạm)** | ~4 kcal/gam | Cung cấp axit amin để sửa chữa các vi tổn thương sợi cơ, tái tạo mô liên kết, sản xuất enzyme và hormone | Thịt nạc, cá, trứng, đậu phụ, sữa chua, đậu đỗ, hạt |
+| **Lipid (Chất béo)** | ~9 kcal/gam | Cấu tạo màng tế bào, hỗ trợ hấp thu các vitamin tan trong dầu (A, D, E, K), duy trì sản xuất hormone sinh dục (như testosterone và estrogen) | Dầu ô liu, quả bơ, các loại hạt (hạnh nhân, óc chó), mỡ cá béo |
 
-## Một tình huống đáng xem lại trước
-Bạn tập dài sau giờ làm, trưa ăn vội rồi tối thường bỏ bữa vì mệt. Trong tình huống này, bảo đảm có bữa ăn phù hợp lịch có thể là việc cần xem trước, thay vì chỉ tăng phần trăm protein trên màn hình.
+### 1. Carbohydrate: Không thể thiếu nếu bạn muốn duy trì cường độ
 
-Nếu muốn ghi chép, chọn vài ngày đại diện và ghi giờ ăn, thành phần chính, lịch tập, cảm giác đói và mức đủ sức. Không nhất thiết tính đến từng gram mới có thông tin hữu ích cho buổi tư vấn. NIDDK khuyến khích thay đổi nhỏ, cụ thể và phù hợp hoàn cảnh. [S27](https://www.niddk.nih.gov/health-information/diet-nutrition/changing-habits-better-health)
+Nhiều người vì sợ tăng cân nên cắt giảm triệt để tinh bột, để rồi rơi vào tình trạng tập luyện không có sức, nhịp tim tăng vọt dù mới tập nhẹ, và điểm phục hồi ngày hôm sau sụt giảm.
 
-## Theo dõi đến mức còn thấy dễ chịu
-Bạn có thể dùng dữ liệu để phát hiện bữa thường bị bỏ quên, không cần biến mọi bữa ăn thành bài toán. Một chế độ ăn phù hợp còn cần sự đa dạng và khả năng duy trì, chứ không chỉ ba cột phần trăm.
+Khi bạn vận động ở vùng nhịp tim Zone 3, Zone 4 hoặc tập sức mạnh, cơ thể chủ yếu đốt cháy glucose và glycogen dự trữ trong cơ bắp. Sau buổi tập, nếu không nạp lại đủ carbohydrate, quá trình tái tổng hợp glycogen bị đình trệ. Thiếu hụt tinh bột kéo dài còn làm tăng hormone căng thẳng cortisol, gây ức chế hệ miễn dịch và làm gián đoạn giấc ngủ sâu. [S29](https://www.whoop.com/us/en/thelocker/how-to-count-macros/) [S30](https://ods.od.nih.gov/factsheets/ExerciseAndAthleticPerformance-HealthProfessional/)
 
-Người có bệnh thận, đái tháo đường dùng thuốc, đang mang thai hoặc có rối loạn ăn uống cần hướng dẫn riêng. Không cần tự mua bột protein hay thực phẩm bổ sung chỉ vì một ngày điểm phục hồi thấp. [S30](https://ods.od.nih.gov/factsheets/ExerciseAndAthleticPerformance-HealthProfessional/)
+### 2. Protein: Khối xây dựng cơ bắp nhưng cần phân bổ thông minh
+
+Cơ thể không có kho chứa protein dự trữ như glycogen của tinh bột hay mô mỡ của chất béo. Quá trình tổng hợp protein cơ bắp (Muscle Protein Synthesis - MPS) diễn ra liên tục và được kích thích mạnh mẽ sau khi tập sức mạnh hoặc khi có một lượng axit amin thiết yếu (đặc biệt là leucine) đi vào máu.
+
+- **Nhu cầu khuyến nghị cho người vận động:** Đối với người tập thể thao và vận động thường xuyên, các tổ chức dinh dưỡng thể thao quốc tế khuyến nghị mức nạp khoảng **1,2 đến 2,0 gam protein trên mỗi kilogram cân nặng mỗi ngày**. [S30](https://ods.od.nih.gov/factsheets/ExerciseAndAthleticPerformance-HealthProfessional/)
+- **Phân bổ theo bữa:** Thay vì dồn toàn bộ 100g đạm vào bữa tối, việc chia đều thành 3–4 bữa trong ngày (mỗi bữa khoảng 20–40g đạm) sẽ giúp duy trì quá trình tái tạo cơ bắp tối ưu và ổn định cảm giác no.
+
+### 3. Chất béo lành mạnh: Bảo vệ hệ nội tiết và khớp
+
+Chất béo cung cấp nguồn năng lượng đậm đặc nhất (9 kcal mỗi gam). Giảm lượng chất béo xuống dưới 15–20% tổng năng lượng khẩu phần trong thời gian dài có thể làm suy giảm nghiêm trọng nồng độ hormone sinh dục, gây khô khớp, rụng tóc và suy giảm khả năng hấp thu vitamin. Hãy ưu tiên các axit béo chưa bão hòa từ thực vật và cá béo (giàu Omega-3 giúp kháng viêm tự nhiên). [S30](https://ods.od.nih.gov/factsheets/ExerciseAndAthleticPerformance-HealthProfessional/)
+
+## Ví dụ tính toán: Lập bảng macros cho một người vận động 70 kg
+
+Giả sử một người nặng 70 kg, tập luyện 4 buổi mỗi tuần, có tổng nhu cầu năng lượng duy trì ước tính khoảng **2.200 kcal/ngày**. Dưới đây là cách phân bổ macros thực tế:
+
+| Nhóm chất | Mức tính toán cụ thể | Lượng gam mỗi ngày | Năng lượng tương ứng | Tỷ lệ trong khẩu phần |
+|---|---|---|---|---|
+| **Protein** | 1,6 g / kg thể trọng (70 × 1,6) | **112 g** | 112 × 4 = 448 kcal | ~20,4% |
+| **Fat** | Chiếm khoảng 25% tổng calo (2.200 × 0,25 = 550 kcal) | **61 g** (550 ÷ 9) | 550 kcal | ~25,0% |
+| **Carbs** | Phần calo còn lại: 2.200 − (448 + 550) = 1.202 kcal | **300 g** (1.202 ÷ 4) | 1.202 kcal | ~54,6% |
+| **Tổng cộng** | — | — | **2.200 kcal** | **100%** |
+
+Ví dụ này cho thấy: không có một tỷ lệ cố định nào bắt buộc cho tất cả mọi người. Người chạy cự ly dài có thể cần lượng tinh bột cao hơn (60–65%), trong khi người tập thể hình có thể nâng lượng đạm lên gần 2,0 g/kg và giảm nhẹ tinh bột. Con số này là kim chỉ nam để bạn bắt đầu, không phải là khuôn vàng thước ngọc phải khớp từng gam mỗi ngày.
+
+## Đọc và sử dụng dữ liệu dinh dưỡng trên &lt;Tên App/&gt; một cách tỉnh táo
+
+Một số ứng dụng cho phép bạn ghi lại nhật ký bữa ăn hoặc liên kết với các ứng dụng đếm calo để so sánh năng lượng nạp vào với năng lượng tiêu hao và tải tập luyện.
+
+- **Điều chỉnh linh hoạt theo ngày tập:** Vào những ngày có buổi tập dài và nặng (Day Strain cao), cơ thể cần nhiều carbohydrate hơn để nạp năng lượng. Vào những ngày nghỉ ngơi hoàn toàn, bạn có thể giảm bớt lượng tinh bột và giữ nguyên lượng đạm cùng chất béo lành mạnh.
+- **Tránh bẫy ám ảnh số liệu (Orthorexia):** Việc theo dõi từng gram thức ăn chỉ nên dùng như một công cụ học tập trong vài tuần đầu để bạn hình dung được khẩu phần ăn thật sự. Đừng để nó biến bữa ăn gia đình hay những buổi gặp gỡ bạn bè thành nỗi sợ hãi hoặc cảm giác tội lỗi khi lệch vài gam mỡ hay đường. [S27](https://www.niddk.nih.gov/health-information/diet-nutrition/changing-habits-better-health)
+- **Thực phẩm bổ sung chỉ là phần phụ:** Bột whey protein, thanh năng lượng hay creatine có thể tiện lợi khi bạn bận rộn, nhưng chúng không chứa các vi chất dinh dưỡng, chất xơ và chất chống oxy hóa dồi dào như thịt cá tươi, rau củ quả và ngũ cốc nguyên hạt. [S30](https://ods.od.nih.gov/factsheets/ExerciseAndAthleticPerformance-HealthProfessional/)
+
+Nếu bạn đang mắc bệnh thận, bệnh gan, tiểu đường hoặc có tiền sử rối loạn chuyển hóa, nhu cầu protein và carbohydrate cần được bác sĩ chuyên khoa hoặc chuyên gia dinh dưỡng lâm sàng thiết lập riêng để đảm bảo an toàn cho các cơ quan nội tạng. [S30](https://ods.od.nih.gov/factsheets/ExerciseAndAthleticPerformance-HealthProfessional/)
 
 ## Nguồn tham khảo và phạm vi hỗ trợ
 

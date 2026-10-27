@@ -9,9 +9,11 @@
     "is_product_screenshot": false,
     "is_measured_data": false,
     "rights": "Không xuất bản sơ đồ khung chữ. Bản cũ chỉ còn trong lịch sử nghiên cứu.",
-    "alt": "Sơ đồ giải thích: Strain 0–21: đọc tải vận động để phân bố sức",
+    "alt": "Sơ đồ giải thích: Hiểu tải tập: thời lượng, mức gắng sức và cách phân bố sức",
     "caption": "Giải thích bằng đoạn văn, ví dụ và bảng trong bài; không dùng ảnh khung chữ.",
     "source_ids": [
+      "S60",
+      "S61",
       "S01",
       "S02",
       "S04"
@@ -32,11 +34,11 @@
     "is_product_screenshot": false,
     "is_measured_data": false,
     "rights": "Không xuất bản sơ đồ khung chữ. Bản cũ chỉ còn trong lịch sử nghiên cứu.",
-    "alt": "Sơ đồ giải thích: Theo dõi bước chân trên <Tên App/>: bắt đầu và kiểm tra dữ liệu",
+    "alt": "Sơ đồ giải thích: Theo dõi bước chân: dữ liệu được ghi thế nào và cách bắt đầu",
     "caption": "Giải thích bằng đoạn văn, ví dụ và bảng trong bài; không dùng ảnh khung chữ.",
     "source_ids": [
       "S03",
-      "S48"
+      "S62"
     ],
     "checked_on": "2026-10-26",
     "png_path": null,
@@ -54,12 +56,13 @@
     "is_product_screenshot": false,
     "is_measured_data": false,
     "rights": "Không xuất bản sơ đồ khung chữ. Bản cũ chỉ còn trong lịch sử nghiên cứu.",
-    "alt": "Sơ đồ giải thích: Số bước mỗi ngày: đặt mục tiêu phù hợp với mức hiện tại",
+    "alt": "Sơ đồ giải thích: Số bước mỗi ngày: đặt mục tiêu phù hợp và tạo thói quen đi lại",
     "caption": "Giải thích bằng đoạn văn, ví dụ và bảng trong bài; không dùng ảnh khung chữ.",
     "source_ids": [
-      "S03",
+      "S04",
       "S05",
-      "S04"
+      "S58",
+      "S63"
     ],
     "checked_on": "2026-10-26",
     "png_path": null,
@@ -77,12 +80,14 @@
     "is_product_screenshot": false,
     "is_measured_data": false,
     "rights": "Không xuất bản sơ đồ khung chữ. Bản cũ chỉ còn trong lịch sử nghiên cứu.",
-    "alt": "Sơ đồ giải thích: Vùng nhịp tim <Tên App/>: hiểu HRR trước khi đọc Zone 1–5",
+    "alt": "Sơ đồ giải thích: Vùng nhịp tim: hiểu HRR, Zone 1–5 và thời gian tập của bạn",
     "caption": "Giải thích bằng đoạn văn, ví dụ và bảng trong bài; không dùng ảnh khung chữ.",
     "source_ids": [
       "S06",
       "S07",
-      "S04"
+      "S04",
+      "S58",
+      "S59"
     ],
     "checked_on": "2026-10-26",
     "png_path": null,
@@ -100,11 +105,12 @@
     "is_product_screenshot": false,
     "is_measured_data": false,
     "rights": "Không xuất bản sơ đồ khung chữ. Bản cũ chỉ còn trong lịch sử nghiên cứu.",
-    "alt": "Sơ đồ giải thích: Khi nào nên sửa HRmax và vùng nhịp tim?",
+    "alt": "Sơ đồ giải thích: HRmax: khi nào cần cập nhật và vì sao vùng nhịp tim thay đổi",
     "caption": "Giải thích bằng đoạn văn, ví dụ và bảng trong bài; không dùng ảnh khung chữ.",
     "source_ids": [
       "S07",
-      "S48"
+      "S48",
+      "S59"
     ],
     "checked_on": "2026-10-26",
     "png_path": null,
@@ -122,10 +128,12 @@
     "is_product_screenshot": false,
     "is_measured_data": false,
     "rights": "Không xuất bản sơ đồ khung chữ. Bản cũ chỉ còn trong lịch sử nghiên cứu.",
-    "alt": "Sơ đồ giải thích: Theo dõi calo: tách năng lượng ăn vào và tiêu hao",
+    "alt": "Sơ đồ giải thích: Calo ăn vào và tiêu hao: hiểu năng lượng để chăm sóc cơ thể",
     "caption": "Giải thích bằng đoạn văn, ví dụ và bảng trong bài; không dùng ảnh khung chữ.",
     "source_ids": [
-      "S09",
+      "S64",
+      "S65",
+      "S08",
       "S10",
       "S30"
     ],
@@ -145,12 +153,13 @@
     "is_product_screenshot": false,
     "is_measured_data": false,
     "rights": "Không xuất bản sơ đồ khung chữ. Bản cũ chỉ còn trong lịch sử nghiên cứu.",
-    "alt": "Sơ đồ giải thích: <Tên App/> tính calo như thế nào, và sai số nằm ở đâu?",
+    "alt": "Sơ đồ giải thích: Calo trên app: phân biệt năng lượng nghỉ, hoạt động và tổng ngày",
     "caption": "Giải thích bằng đoạn văn, ví dụ và bảng trong bài; không dùng ảnh khung chữ.",
     "source_ids": [
+      "S66",
       "S08",
       "S10",
-      "S48"
+      "S30"
     ],
     "checked_on": "2026-10-26",
     "png_path": null,
@@ -168,12 +177,13 @@
     "is_product_screenshot": false,
     "is_measured_data": false,
     "rights": "Không xuất bản sơ đồ khung chữ. Bản cũ chỉ còn trong lịch sử nghiên cứu.",
-    "alt": "Sơ đồ giải thích: Recovery: dùng điểm phục hồi để chọn mức tập hôm nay",
+    "alt": "Sơ đồ giải thích: Phục hồi mỗi ngày: hiểu tín hiệu cơ thể để chọn mức vận động",
     "caption": "Giải thích bằng đoạn văn, ví dụ và bảng trong bài; không dùng ảnh khung chữ.",
     "source_ids": [
-      "S11",
-      "S12",
-      "S04"
+      "S61",
+      "S67",
+      "S59",
+      "S14"
     ],
     "checked_on": "2026-10-26",
     "png_path": null,
@@ -191,12 +201,13 @@
     "is_product_screenshot": false,
     "is_measured_data": false,
     "rights": "Không xuất bản sơ đồ khung chữ. Bản cũ chỉ còn trong lịch sử nghiên cứu.",
-    "alt": "Sơ đồ giải thích: HRV: so với chính bạn trước khi so với người khác",
+    "alt": "Sơ đồ giải thích: HRV là gì? Hiểu khoảng nhịp tim và đọc thay đổi của chính bạn",
     "caption": "Giải thích bằng đoạn văn, ví dụ và bảng trong bài; không dùng ảnh khung chữ.",
     "source_ids": [
-      "S13",
       "S14",
-      "S12"
+      "S68",
+      "S69",
+      "S61"
     ],
     "checked_on": "2026-10-26",
     "png_path": null,
@@ -214,12 +225,14 @@
     "is_product_screenshot": false,
     "is_measured_data": false,
     "rights": "Không xuất bản sơ đồ khung chữ. Bản cũ chỉ còn trong lịch sử nghiên cứu.",
-    "alt": "Sơ đồ giải thích: Nhịp thở khi ngủ: đọc mức nền thay vì một ngưỡng duy nhất",
+    "alt": "Sơ đồ giải thích: Nhịp thở: hiểu số lần mỗi phút và thay đổi qua đêm",
     "caption": "Giải thích bằng đoạn văn, ví dụ và bảng trong bài; không dùng ảnh khung chữ.",
     "source_ids": [
+      "S70",
       "S15",
-      "S16",
-      "S18"
+      "S18",
+      "S71",
+      "S39"
     ],
     "checked_on": "2026-10-26",
     "png_path": null,
@@ -237,10 +250,11 @@
     "is_product_screenshot": false,
     "is_measured_data": false,
     "rights": "Không xuất bản sơ đồ khung chữ. Bản cũ chỉ còn trong lịch sử nghiên cứu.",
-    "alt": "Sơ đồ giải thích: Cách đếm nhịp thở khi nghỉ và so với <Tên App/>",
+    "alt": "Sơ đồ giải thích: Cách đếm nhịp thở khi nghỉ và ghi lại đúng bối cảnh",
     "caption": "Giải thích bằng đoạn văn, ví dụ và bảng trong bài; không dùng ảnh khung chữ.",
     "source_ids": [
-      "S15",
+      "S70",
+      "S71",
       "S16",
       "S18"
     ],
@@ -260,11 +274,12 @@
     "is_product_screenshot": false,
     "is_measured_data": false,
     "rights": "Không xuất bản sơ đồ khung chữ. Bản cũ chỉ còn trong lịch sử nghiên cứu.",
-    "alt": "Sơ đồ giải thích: Nhịp thở tăng: khi nào theo dõi, khi nào cần trợ giúp?",
+    "alt": "Sơ đồ giải thích: Nhịp thở tăng: hiểu diễn biến và chọn bước xử lý phù hợp",
     "caption": "Giải thích bằng đoạn văn, ví dụ và bảng trong bài; không dùng ảnh khung chữ.",
     "source_ids": [
-      "S17",
-      "S18"
+      "S71",
+      "S18",
+      "S70"
     ],
     "checked_on": "2026-10-26",
     "png_path": null,
@@ -282,13 +297,14 @@
     "is_product_screenshot": false,
     "is_measured_data": false,
     "rights": "Không xuất bản sơ đồ khung chữ. Bản cũ chỉ còn trong lịch sử nghiên cứu.",
-    "alt": "Sơ đồ giải thích: Sleep Performance: đọc đủ bốn thành phần của điểm ngủ",
+    "alt": "Sơ đồ giải thích: Điểm ngủ và tỷ lệ ngủ đủ: đọc đúng đêm ngủ của bạn",
     "caption": "Giải thích bằng đoạn văn, ví dụ và bảng trong bài; không dùng ảnh khung chữ.",
     "source_ids": [
-      "S12",
-      "S19",
+      "S75",
+      "S73",
+      "S72",
       "S20",
-      "S21"
+      "S47"
     ],
     "checked_on": "2026-10-26",
     "png_path": null,
@@ -306,11 +322,13 @@
     "is_product_screenshot": false,
     "is_measured_data": false,
     "rights": "Không xuất bản sơ đồ khung chữ. Bản cũ chỉ còn trong lịch sử nghiên cứu.",
-    "alt": "Sơ đồ giải thích: Ngủ đều giờ khác gì nằm trên giường đủ lâu?",
+    "alt": "Sơ đồ giải thích: Ngủ đều giờ khác gì nằm đủ lâu? Hiểu lịch ngủ và thời gian trên giường",
     "caption": "Giải thích bằng đoạn văn, ví dụ và bảng trong bài; không dùng ảnh khung chữ.",
     "source_ids": [
-      "S22",
-      "S19",
+      "S73",
+      "S72",
+      "S75",
+      "S74",
       "S47"
     ],
     "checked_on": "2026-10-26",
@@ -329,12 +347,15 @@
     "is_product_screenshot": false,
     "is_measured_data": false,
     "rights": "Không xuất bản sơ đồ khung chữ. Bản cũ chỉ còn trong lịch sử nghiên cứu.",
-    "alt": "Sơ đồ giải thích: Nợ ngủ: phục hồi nhịp sinh hoạt sau những đêm ngủ thiếu",
+    "alt": "Sơ đồ giải thích: Nợ ngủ: vì sao thiếu ngủ tích lũy và cách sắp xếp lại cơ hội nghỉ",
     "caption": "Giải thích bằng đoạn văn, ví dụ và bảng trong bài; không dùng ảnh khung chữ.",
     "source_ids": [
-      "S23",
       "S24",
-      "S37"
+      "S76",
+      "S73",
+      "S72",
+      "S74",
+      "S47"
     ],
     "checked_on": "2026-10-26",
     "png_path": null,
@@ -352,12 +373,14 @@
     "is_product_screenshot": false,
     "is_measured_data": false,
     "rights": "Không xuất bản sơ đồ khung chữ. Bản cũ chỉ còn trong lịch sử nghiên cứu.",
-    "alt": "Sơ đồ giải thích: Restorative Sleep: vì sao tỷ lệ REM và ngủ sâu cần bối cảnh?",
+    "alt": "Sơ đồ giải thích: Ngủ phục hồi: hiểu số giờ Deep, REM và tỷ lệ trong đêm",
     "caption": "Giải thích bằng đoạn văn, ví dụ và bảng trong bài; không dùng ảnh khung chữ.",
     "source_ids": [
-      "S25",
       "S20",
-      "S21"
+      "S77",
+      "S67",
+      "S75",
+      "S74"
     ],
     "checked_on": "2026-10-26",
     "png_path": null,
@@ -375,10 +398,11 @@
     "is_product_screenshot": false,
     "is_measured_data": false,
     "rights": "Không xuất bản sơ đồ khung chữ. Bản cũ chỉ còn trong lịch sử nghiên cứu.",
-    "alt": "Sơ đồ giải thích: Khối nạc và cân nặng: <Tên App/> nhận dữ liệu từ đâu?",
+    "alt": "Sơ đồ giải thích: Khối nạc, khối mỡ và cân nặng: hiểu đúng thành phần cơ thể",
     "caption": "Giải thích bằng đoạn văn, ví dụ và bảng trong bài; không dùng ảnh khung chữ.",
     "source_ids": [
       "S26",
+      "S78",
       "S30"
     ],
     "checked_on": "2026-10-26",
@@ -402,7 +426,11 @@
     "source_ids": [
       "S27",
       "S28",
-      "S04"
+      "S04",
+      "S63",
+      "S64",
+      "S65",
+      "S72"
     ],
     "checked_on": "2026-10-26",
     "png_path": null,
@@ -471,7 +499,9 @@
     "source_ids": [
       "S33",
       "S34",
-      "S47"
+      "S47",
+      "S20",
+      "S74"
     ],
     "checked_on": "2026-10-26",
     "png_path": null,
@@ -494,7 +524,9 @@
     "source_ids": [
       "S34",
       "S31",
-      "S35"
+      "S32",
+      "S35",
+      "S14"
     ],
     "checked_on": "2026-10-26",
     "png_path": null,
@@ -542,7 +574,8 @@
       "S49",
       "S24",
       "S47",
-      "S56"
+      "S56",
+      "S20"
     ],
     "checked_on": "2026-10-26",
     "png_path": null,
@@ -590,7 +623,9 @@
       "S40",
       "S01",
       "S04",
-      "S50"
+      "S50",
+      "S60",
+      "S63"
     ],
     "checked_on": "2026-10-26",
     "png_path": null,
@@ -613,7 +648,9 @@
     "source_ids": [
       "S41",
       "S04",
-      "S51"
+      "S51",
+      "S59",
+      "S61"
     ],
     "checked_on": "2026-10-26",
     "png_path": null,
@@ -636,9 +673,9 @@
     "source_ids": [
       "S42",
       "S43",
-      "S44",
       "S52",
-      "S57"
+      "S57",
+      "S59"
     ],
     "checked_on": "2026-10-26",
     "png_path": null,
@@ -663,7 +700,9 @@
       "S46",
       "S53",
       "S54",
-      "S55"
+      "S55",
+      "S57",
+      "S59"
     ],
     "checked_on": "2026-10-26",
     "png_path": null,
