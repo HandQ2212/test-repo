@@ -1,0 +1,470 @@
+<!DOCTYPE html>
+<html lang="vi">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Stress biểu hiện ra sao, và vòng đeo biết được phần nào? | Recognizing stress beyond wearable measurements</title>
+  <link rel="stylesheet" href="../styles.css?v=figure-load-1">
+  <script src="../article_figures.js?v=figure-load-1"></script>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:wght@400;500;600;700;800&family=Lora:ital,wght@0,400;0,500;0,600;1,400&display=swap" rel="stylesheet">
+  <script src="https://cdn.jsdelivr.net/npm/mermaid@10/dist/mermaid.min.js"></script>
+</head>
+<body class="blog-post-page">
+  <div class="reading-progress-container">
+    <div id="reading-progress" class="reading-progress-bar"></div>
+  </div>
+
+  <!-- Sticky Top Navigation with Bilingual Switcher -->
+  <header class="navbar post-navbar">
+    <div class="nav-container">
+      <a href="../index.html" class="brand" style="text-decoration: none;">
+        <div class="brand-logo">⚡</div>
+        <div class="brand-text">
+          <span class="brand-title">PULSE & VITALITY</span>
+          <span class="brand-subtitle" id="post-brand-subtitle">Cẩm Nang Khoa Học Sức Khỏe & Thiết Bị Đeo</span>
+        </div>
+      </a>
+      <div class="nav-actions">
+        <div class="lang-switch-group" role="group" aria-label="Language Switcher">
+          <button id="post-lang-vi" class="lang-btn active" onclick="switchPostLang('vi')">🇻🇳 Tiếng Việt</button>
+          <button id="post-lang-en" class="lang-btn" onclick="switchPostLang('en')">🇬🇧 English</button>
+        </div>
+        <a href="../index.html" class="btn-back-hub" id="post-back-btn">
+          ← Quay lại Danh sách
+        </a>
+      </div>
+    </div>
+  </header>
+
+  <!-- ========================================================= -->
+  <!-- VIETNAMESE ARTICLE CONTAINER                              -->
+  <!-- ========================================================= -->
+  <main id="post-container-vi" class="article-page-container">
+    <nav class="article-breadcrumb">
+      <a href="../index.html?lang=vi">Trang chủ</a>
+      <span class="sep">/</span>
+      <a href="../index.html?lang=vi">Phục hồi</a>
+      <span class="sep">/</span>
+      <span class="current">Recognizing stress beyond wearable measurements</span>
+    </nav>
+
+    <header class="article-page-header">
+      <div class="article-badges-row">
+        <span class="badge" style="background: #ECFDF5; color: #059669; font-weight: 700;">
+          🔋 Phục hồi
+        </span>
+        <span class="badge badge-sub">Recognizing stress beyond wearable measurements</span>
+        <span class="badge badge-type">Learn more</span>
+        <span class="article-read-time">⏱ 2–3 phút</span>
+      </div>
+
+      <h1 class="article-main-title">Stress biểu hiện ra sao, và vòng đeo biết được phần nào?</h1>
+      <p class="article-sapo-lead">Stress có thể biểu hiện ở cơ thể, cảm xúc và hành vi. Dữ liệu trên cổ tay chỉ phản ánh một phần trải nghiệm đó.</p>
+
+      <figure class="article-featured-hero">
+        <img src="../images/researched/batch-02/DM_HW_01_hero.jpg" alt="Tư thế ngồi yên và thoải mái khi dành thời gian chú ý hơi thở." style="object-fit: cover">
+        <figcaption>Tư thế ngồi yên và thoải mái khi dành thời gian chú ý hơi thở. • <a href="https://www.pexels.com/photo/a-man-doing-meditation-6648571/" target="_blank" rel="noopener noreferrer" class="img-source-badge">Nguồn ảnh ↗</a><span class="image-attribution"><a href="https://www.pexels.com/photo/a-man-doing-meditation-6648571/" target="_blank" rel="noopener noreferrer">Ivan S</a> · <a href="https://www.pexels.com/license/" target="_blank" rel="noopener noreferrer">Pexels License</a> · Pexels thu nhỏ/nén JPEG; không sửa nội dung.</span></figcaption>
+      </figure>
+
+      <div class="article-metadata-card">
+        <div class="meta-avatar">PV</div>
+        <div class="meta-content">
+          <div class="meta-author">Pulse & Vitality • Nội dung giáo dục sức khỏe</div>
+          <div class="meta-details">
+            <span>Nguồn tham khảo chính: <a href="https://www.nimh.nih.gov/health/publications/so-stressed-out-fact-sheet" target="_blank" rel="noopener noreferrer" style="color: inherit; text-decoration: underline; font-weight: 700;">I’m So Stressed Out! Fact Sheet ↗</a></span>
+            <span class="meta-dot">•</span>
+            <span>Cập nhật: <strong>2026-10-26</strong></span>
+            <span class="meta-dot">•</span>
+            <span>Duyệt lâm sàng: <strong>Chưa có xác nhận</strong></span>
+          </div>
+        </div>
+      </div>
+    </header>
+
+    <section class="takeaway-banner-large">
+      <div class="takeaway-banner-header">
+        <span class="takeaway-icon-lg">💡</span>
+        <span>Điểm Cốt Lõi & Hành Động Thực Tế</span>
+      </div>
+      <p>Quan tâm cảm xúc, biểu hiện cơ thể và ảnh hưởng sinh hoạt cùng với dữ liệu thiết bị.</p>
+    </section>
+
+    <article class="article-rich-body">
+      <h2>Stress không chỉ là một con số</h2>
+<p>Stress là đáp ứng cơ thể hoặc tinh thần trước một tác nhân bên ngoài; lo âu có thể còn tồn tại khi tác nhân không hiện diện. Mỗi người trải nghiệm khác nhau, và không phải mọi cảm giác căng thẳng đều là bệnh. Cần quan tâm thời gian kéo dài và ảnh hưởng đến đời sống. <a href="https://www.nimh.nih.gov/health/publications/so-stressed-out-fact-sheet">S34</a></p>
+        <figure class="article-inline-diagram">
+          <img src="../images/whoop/WHOOP-ART-22.svg" alt="Sơ đồ khái niệm do Pulse & Vitality biên soạn; không phải ảnh giao diện WHOOP hoặc dữ liệu đo thực. Nguồn khái niệm được dẫn trong bài." loading="lazy">
+          <figcaption><strong>Sơ đồ khái niệm do Pulse & Vitality biên soạn; không phải ảnh giao diện WHOOP hoặc dữ liệu đo thực. Nguồn khái niệm được dẫn trong bài.</strong> <a href="/images/whoop/WHOOP-ART-22.svg" target="_blank" rel="noopener noreferrer" class="img-source-badge">(Nguồn hình ↗)</a></figcaption>
+        </figure>
+
+<h2>Nhìn cả ba mặt</h2>
+<p>Bạn có thể nhận ra khó tập trung hoặc dễ cáu; cơ thể căng, khó ngủ; hoặc thay đổi cách ăn uống và né tránh công việc. Những biểu hiện này không đặc hiệu cho một nguyên nhân, nên không tự kết luận tất cả đều do stress. Tài liệu quản lý stress của WHOOP cũng đặt thói quen, kết nối xã hội và ngủ trong bức tranh rộng hơn. <a href="https://www.whoop.com/us/en/thelocker/how-to-manage-stress/">S35</a></p>
+<h2>Vòng đeo không quan sát được suy nghĩ</h2>
+<p>Stress Monitor dùng HR và HRV cùng chuyển động để mô tả đáp ứng sinh lý. Hai người cùng điểm có thể có trải nghiệm rất khác. Vòng đeo không đo trực tiếp cortisol, không xác nhận rối loạn lo âu và không phân biệt chính xác cảm xúc tích cực với tiêu cực. <a href="https://www.whoop.com/us/en/thelocker/introducing-stress-monitor-a-new-way-to-monitor-manage-stress/">S31</a></p>
+<p>Ví dụ, trước một buổi biểu diễn, tim tăng có thể đi cùng hào hứng lẫn lo lắng. Hãy dùng câu hỏi “mình đang cảm thấy và cần gì?” cùng dữ liệu, thay vì để ứng dụng trả lời thay trải nghiệm của bạn.</p>
+<p>Có thể bắt đầu bằng nghỉ ngắn, điều chỉnh việc đang kiểm soát được và trao đổi với người tin cậy. Nếu triệu chứng không giảm, làm bạn tránh hoạt động thường ngày hoặc ảnh hưởng rõ chức năng, nên trao đổi với chuyên gia. Các triệu chứng thể chất mới hoặc nặng vẫn cần đánh giá y tế, không mặc định chỉ do tâm lý. <a href="https://www.nimh.nih.gov/health/publications/so-stressed-out-fact-sheet">S34</a></p>
+<h2>Nguồn tham khảo và phạm vi hỗ trợ</h2>
+<ul>
+<li><strong>S34</strong> — NIMH / NIH. <a href="https://www.nimh.nih.gov/health/publications/so-stressed-out-fact-sheet">I’m So Stressed Out! Fact Sheet</a>. Phạm vi: Stress, lo âu, biện pháp ứng phó và thời điểm tìm hỗ trợ chuyên môn.</li>
+<li><strong>S31</strong> — WHOOP. <a href="https://www.whoop.com/us/en/thelocker/introducing-stress-monitor-a-new-way-to-monitor-manage-stress/">Introducing Stress Monitor: A New Way to Monitor &amp; Manage Stress</a>. Phạm vi: Thang 0–3; HR/HRV và chuyển động; không kết luận sức khỏe tâm thần từ điểm.</li>
+<li><strong>S35</strong> — WHOOP. <a href="https://www.whoop.com/us/en/thelocker/how-to-manage-stress/">Manage Stress With Science-Backed Strategies</a>. Phạm vi: Nguồn phù hợp chủ đề quản lý stress; chưa chứng minh trùng trang thẻ gốc.</li>
+</ul>
+<blockquote>
+<p>Bài biên soạn độc lập bởi Pulse &amp; Vitality; tài liệu WHOOP và các nguồn khác được dùng để tham khảo. Đăng ngày 2026-10-27; nguồn đối chiếu 2026-10-26. Nội dung giáo dục, không thay thế đánh giá, chẩn đoán hoặc điều trị y tế.</p>
+</blockquote>
+    </article>
+
+    <section class="canonical-citation-card">
+      <div class="citation-icon">📚</div>
+      <div class="citation-body">
+        <h4>Nguồn tham khảo và giới hạn bằng chứng</h4>
+        <p>Nguồn chính: <strong>I’m So Stressed Out! Fact Sheet</strong>. Các nguồn bổ sung và phạm vi hỗ trợ được liệt kê trong bài. Cập nhật 26/10/2026; chưa có xác nhận duyệt bởi bác sĩ.</p>
+        <div class="citation-actions">
+          <a href="https://www.nimh.nih.gov/health/publications/so-stressed-out-fact-sheet" target="_blank" rel="noopener noreferrer" class="btn-canonical-study">
+            Truy Cập Nguồn Gốc (I’m So Stressed Out! Fact Sheet...) ↗
+          </a>
+        </div>
+      </div>
+    </section>
+
+    <nav class="post-pagination-nav">
+
+    <a href="WHOOP-ART-21.html?lang=vi" class="post-nav-btn prev">
+      <span class="nav-direction">← Bài viết trước</span>
+      <span class="nav-title">Stress và giấc ngủ: theo dõi vòng lặp mà không tự chẩn đoán</span>
+    </a>
+
+    <a href="WHOOP-ART-23.html?lang=vi" class="post-nav-btn next">
+      <span class="nav-direction">Bài tiếp theo →</span>
+      <span class="nav-title">Quản lý stress: thử một thay đổi nhỏ và đánh giá thực tế</span>
+    </a>
+    </nav>
+
+    <section class="related-articles-section">
+      <div class="related-section-header">
+        <h3>Bài viết liên quan thuộc chủ đề Phục hồi</h3>
+      </div>
+      <div class="related-posts-grid">
+
+        <a href="LM_RC_01.html?lang=vi" class="related-post-card">
+          <div class="related-post-img" data-image-fit="contain" style="background-image: url('../images/researched/batch-01/LM_RC_01_hero.jpg');">
+            <span class="related-post-badge" style="background: #ECFDF5; color: #059669;">
+              🔋 Phục hồi
+            </span>
+          </div>
+          <div class="related-post-info">
+            <h4 class="related-post-title">HRV là gì và nên đọc thế nào trên thiết bị đeo?</h4>
+            <p class="related-post-desc">HRV mô tả sự thay đổi khoảng thời gian giữa các nhịp tim, không phải nhịp tim trung bình....</p>
+            <div class="related-post-meta">
+              <span>⏱ 10 phút</span>
+              <span>•</span>
+              <span>Learn more</span>
+            </div>
+          </div>
+        </a>
+
+        <a href="LM_RC_02.html?lang=vi" class="related-post-card">
+          <div class="related-post-img" data-image-fit="contain" style="background-image: url('../images/researched/batch-01/LM_RC_02_hero.jpg');">
+            <span class="related-post-badge" style="background: #ECFDF5; color: #059669;">
+              🔋 Phục hồi
+            </span>
+          </div>
+          <div class="related-post-info">
+            <h4 class="related-post-title">Nhịp tim nghỉ ban đêm: xem nền cá nhân và triệu chứng</h4>
+            <p class="related-post-desc">Nhịp tim thường thấp hơn khi ngủ, nhưng cách tính nhịp tim nghỉ khác nhau giữa các hãng....</p>
+            <div class="related-post-meta">
+              <span>⏱ 10 phút</span>
+              <span>•</span>
+              <span>Learn more</span>
+            </div>
+          </div>
+        </a>
+
+        <a href="DM_RC_01.html?lang=vi" class="related-post-card">
+          <div class="related-post-img" data-image-fit="cover" style="background-image: url('../images/researched/batch-01/DM_RC_01_hero.jpg');">
+            <span class="related-post-badge" style="background: #ECFDF5; color: #059669;">
+              🔋 Phục hồi
+            </span>
+          </div>
+          <div class="related-post-info">
+            <h4 class="related-post-title">Thở chậm để thư giãn: thực hành thoải mái, không ép nhịp</h4>
+            <p class="related-post-desc">Thở chậm có thể thay đổi HRV trong lúc tập và giúp một số người thư giãn....</p>
+            <div class="related-post-meta">
+              <span>⏱ 8 phút</span>
+              <span>•</span>
+              <span>Discover more</span>
+            </div>
+          </div>
+        </a>
+
+      </div>
+    </section>
+
+    <div class="return-hub-cta">
+      <a href="../index.html?lang=vi" class="btn-return-hub">← Quay lại Trang chủ & Tìm kiếm</a>
+      <button onclick="window.scrollTo({top: 0, behavior: 'smooth'})" class="btn-scroll-top">↑ Lên đầu trang</button>
+    </div>
+  </main>
+
+  <!-- ========================================================= -->
+  <!-- ENGLISH ARTICLE CONTAINER                                 -->
+  <!-- ========================================================= -->
+  <main id="post-container-en" class="article-page-container hidden">
+    <nav class="article-breadcrumb">
+      <a href="../index.html?lang=en">Knowledge Hub</a>
+      <span class="sep">/</span>
+      <a href="../index.html?lang=en">Recovery</a>
+      <span class="sep">/</span>
+      <span class="current">Recognizing stress beyond wearable measurements</span>
+    </nav>
+
+    <header class="article-page-header">
+      <div class="article-badges-row">
+        <span class="badge" style="background: #ECFDF5; color: #059669; font-weight: 700;">
+          🔋 Recovery
+        </span>
+        <span class="badge badge-sub">Recognizing stress beyond wearable measurements</span>
+        <span class="badge badge-type">Learn more</span>
+        <span class="article-read-time">⏱ 2–3 phút read</span>
+      </div>
+
+      <h1 class="article-main-title">Recognizing stress beyond wearable measurements</h1>
+      <p class="article-sapo-lead">Vietnamese edition: Recognizing stress beyond wearable measurements.</p>
+
+      <figure class="article-featured-hero">
+        <img src="../images/researched/batch-02/DM_HW_01_hero.jpg" alt="A quiet seated position for taking time to attend to breathing." style="object-fit: cover">
+        <figcaption>A quiet seated position for taking time to attend to breathing. • <a href="https://www.pexels.com/photo/a-man-doing-meditation-6648571/" target="_blank" rel="noopener noreferrer" class="img-source-badge">Image source ↗</a><span class="image-attribution"><a href="https://www.pexels.com/photo/a-man-doing-meditation-6648571/" target="_blank" rel="noopener noreferrer">Ivan S</a> · <a href="https://www.pexels.com/license/" target="_blank" rel="noopener noreferrer">Pexels License</a> · Pexels resized/compressed JPEG; no content changes.</span></figcaption>
+      </figure>
+
+      <div class="article-metadata-card">
+        <div class="meta-avatar">PV</div>
+        <div class="meta-content">
+          <div class="meta-author">Pulse & Vitality • Health education</div>
+          <div class="meta-details">
+            <span>Primary reference: <a href="https://www.nimh.nih.gov/health/publications/so-stressed-out-fact-sheet" target="_blank" rel="noopener noreferrer" style="color: inherit; text-decoration: underline; font-weight: 700;">I’m So Stressed Out! Fact Sheet ↗</a></span>
+            <span class="meta-dot">•</span>
+            <span>Updated: <strong>2026-10-26</strong></span>
+            <span class="meta-dot">•</span>
+            <span>Clinical review: <strong>Not recorded</strong></span>
+          </div>
+        </div>
+      </div>
+    </header>
+
+    <section class="takeaway-banner-large">
+      <div class="takeaway-banner-header">
+        <span class="takeaway-icon-lg">💡</span>
+        <span>Key Actionable Takeaway</span>
+      </div>
+      <p>Vietnamese edition. Recognizing stress beyond wearable measurements.</p>
+    </section>
+
+    <article class="article-rich-body">
+      <blockquote>
+<p><strong>Vietnamese edition:</strong> This article is currently available in Vietnamese. The English heading is an editorial title, not a full English translation.</p>
+</blockquote>
+<h2>Stress không chỉ là một con số</h2>
+<p>Stress là đáp ứng cơ thể hoặc tinh thần trước một tác nhân bên ngoài; lo âu có thể còn tồn tại khi tác nhân không hiện diện. Mỗi người trải nghiệm khác nhau, và không phải mọi cảm giác căng thẳng đều là bệnh. Cần quan tâm thời gian kéo dài và ảnh hưởng đến đời sống. <a href="https://www.nimh.nih.gov/health/publications/so-stressed-out-fact-sheet">S34</a></p>
+        <figure class="article-inline-diagram">
+          <img src="../images/whoop/WHOOP-ART-22.svg" alt="Original explanatory diagram in Vietnamese; not a WHOOP screenshot or measured data. Sources are listed in the article." loading="lazy">
+          <figcaption><strong>Original explanatory diagram in Vietnamese; not a WHOOP screenshot or measured data. Sources are listed in the article.</strong> <a href="/images/whoop/WHOOP-ART-22.svg" target="_blank" rel="noopener noreferrer" class="img-source-badge">(Figure source ↗)</a></figcaption>
+        </figure>
+
+<h2>Nhìn cả ba mặt</h2>
+<p>Bạn có thể nhận ra khó tập trung hoặc dễ cáu; cơ thể căng, khó ngủ; hoặc thay đổi cách ăn uống và né tránh công việc. Những biểu hiện này không đặc hiệu cho một nguyên nhân, nên không tự kết luận tất cả đều do stress. Tài liệu quản lý stress của WHOOP cũng đặt thói quen, kết nối xã hội và ngủ trong bức tranh rộng hơn. <a href="https://www.whoop.com/us/en/thelocker/how-to-manage-stress/">S35</a></p>
+<h2>Vòng đeo không quan sát được suy nghĩ</h2>
+<p>Stress Monitor dùng HR và HRV cùng chuyển động để mô tả đáp ứng sinh lý. Hai người cùng điểm có thể có trải nghiệm rất khác. Vòng đeo không đo trực tiếp cortisol, không xác nhận rối loạn lo âu và không phân biệt chính xác cảm xúc tích cực với tiêu cực. <a href="https://www.whoop.com/us/en/thelocker/introducing-stress-monitor-a-new-way-to-monitor-manage-stress/">S31</a></p>
+<p>Ví dụ, trước một buổi biểu diễn, tim tăng có thể đi cùng hào hứng lẫn lo lắng. Hãy dùng câu hỏi “mình đang cảm thấy và cần gì?” cùng dữ liệu, thay vì để ứng dụng trả lời thay trải nghiệm của bạn.</p>
+<p>Có thể bắt đầu bằng nghỉ ngắn, điều chỉnh việc đang kiểm soát được và trao đổi với người tin cậy. Nếu triệu chứng không giảm, làm bạn tránh hoạt động thường ngày hoặc ảnh hưởng rõ chức năng, nên trao đổi với chuyên gia. Các triệu chứng thể chất mới hoặc nặng vẫn cần đánh giá y tế, không mặc định chỉ do tâm lý. <a href="https://www.nimh.nih.gov/health/publications/so-stressed-out-fact-sheet">S34</a></p>
+<h2>Nguồn tham khảo và phạm vi hỗ trợ</h2>
+<ul>
+<li><strong>S34</strong> — NIMH / NIH. <a href="https://www.nimh.nih.gov/health/publications/so-stressed-out-fact-sheet">I’m So Stressed Out! Fact Sheet</a>. Phạm vi: Stress, lo âu, biện pháp ứng phó và thời điểm tìm hỗ trợ chuyên môn.</li>
+<li><strong>S31</strong> — WHOOP. <a href="https://www.whoop.com/us/en/thelocker/introducing-stress-monitor-a-new-way-to-monitor-manage-stress/">Introducing Stress Monitor: A New Way to Monitor &amp; Manage Stress</a>. Phạm vi: Thang 0–3; HR/HRV và chuyển động; không kết luận sức khỏe tâm thần từ điểm.</li>
+<li><strong>S35</strong> — WHOOP. <a href="https://www.whoop.com/us/en/thelocker/how-to-manage-stress/">Manage Stress With Science-Backed Strategies</a>. Phạm vi: Nguồn phù hợp chủ đề quản lý stress; chưa chứng minh trùng trang thẻ gốc.</li>
+</ul>
+<blockquote>
+<p>Bài biên soạn độc lập bởi Pulse &amp; Vitality; tài liệu WHOOP và các nguồn khác được dùng để tham khảo. Đăng ngày 2026-10-27; nguồn đối chiếu 2026-10-26. Nội dung giáo dục, không thay thế đánh giá, chẩn đoán hoặc điều trị y tế.</p>
+</blockquote>
+    </article>
+
+    <section class="canonical-citation-card">
+      <div class="citation-icon">📚</div>
+      <div class="citation-body">
+        <h4>References and evidence limits</h4>
+        <p>Primary reference: <strong>I’m So Stressed Out! Fact Sheet</strong>. Additional sources and their scope appear in the article. Updated 26 October 2026; clinical sign-off has not been recorded.</p>
+        <div class="citation-actions">
+          <a href="https://www.nimh.nih.gov/health/publications/so-stressed-out-fact-sheet" target="_blank" rel="noopener noreferrer" class="btn-canonical-study">
+            Access Original Source (I’m So Stressed Out! Fact Sheet...) ↗
+          </a>
+        </div>
+      </div>
+    </section>
+
+    <nav class="post-pagination-nav">
+
+    <a href="WHOOP-ART-21.html?lang=en" class="post-nav-btn prev">
+      <span class="nav-direction">← Previous Article</span>
+      <span class="nav-title">Understanding the two-way relationship between stress and sleep</span>
+    </a>
+
+    <a href="WHOOP-ART-23.html?lang=en" class="post-nav-btn next">
+      <span class="nav-direction">Next Article →</span>
+      <span class="nav-title">A practical approach to monitoring and managing stress</span>
+    </a>
+    </nav>
+
+    <section class="related-articles-section">
+      <div class="related-section-header">
+        <h3>Related Reads in Recovery</h3>
+      </div>
+      <div class="related-posts-grid">
+
+        <a href="LM_RC_01.html?lang=en" class="related-post-card">
+          <div class="related-post-img" data-image-fit="contain" style="background-image: url('../images/researched/batch-01/LM_RC_01_hero.jpg');">
+            <span class="related-post-badge" style="background: #ECFDF5; color: #059669;">
+              🔋 Recovery
+            </span>
+          </div>
+          <div class="related-post-info">
+            <h4 class="related-post-title">How to read heart rate variability</h4>
+            <p class="related-post-desc">HRV describes variation in intervals between heartbeats, rather than average pulse....</p>
+            <div class="related-post-meta">
+              <span>⏱ 6 min</span>
+              <span>•</span>
+              <span>Learn more</span>
+            </div>
+          </div>
+        </a>
+
+        <a href="LM_RC_02.html?lang=en" class="related-post-card">
+          <div class="related-post-img" data-image-fit="contain" style="background-image: url('../images/researched/batch-01/LM_RC_02_hero.jpg');">
+            <span class="related-post-badge" style="background: #ECFDF5; color: #059669;">
+              🔋 Recovery
+            </span>
+          </div>
+          <div class="related-post-info">
+            <h4 class="related-post-title">Overnight resting heart rate: baseline and symptoms</h4>
+            <p class="related-post-desc">Pulse often falls during sleep, but brands calculate resting heart rate differently....</p>
+            <div class="related-post-meta">
+              <span>⏱ 6 min</span>
+              <span>•</span>
+              <span>Learn more</span>
+            </div>
+          </div>
+        </a>
+
+        <a href="DM_RC_01.html?lang=en" class="related-post-card">
+          <div class="related-post-img" data-image-fit="cover" style="background-image: url('../images/researched/batch-01/DM_RC_01_hero.jpg');">
+            <span class="related-post-badge" style="background: #ECFDF5; color: #059669;">
+              🔋 Recovery
+            </span>
+          </div>
+          <div class="related-post-info">
+            <h4 class="related-post-title">Slow breathing for relaxation</h4>
+            <p class="related-post-desc">Slow breathing can alter HRV during practice and help some people relax....</p>
+            <div class="related-post-meta">
+              <span>⏱ 5 min</span>
+              <span>•</span>
+              <span>Discover more</span>
+            </div>
+          </div>
+        </a>
+
+      </div>
+    </section>
+
+    <div class="return-hub-cta">
+      <a href="../index.html?lang=en" class="btn-return-hub">← Back to Knowledge Hub & Search</a>
+      <button onclick="window.scrollTo({top: 0, behavior: 'smooth'})" class="btn-scroll-top">↑ Back to Top</button>
+    </div>
+  </main>
+
+  <footer class="site-footer">
+    <div class="footer-container">
+      <p>© 2026 Pulse & Vitality Performance Engine • Evidence-Based Wearable Health Hub (EN / VI)</p>
+    </div>
+  </footer>
+
+  <script>
+    if (window.mermaid) {
+      mermaid.initialize({
+        startOnLoad: false,
+        theme: 'neutral',
+        fontFamily: 'Plus Jakarta Sans, sans-serif',
+        securityLevel: 'loose',
+        flowchart: {
+          useMaxWidth: true,
+          htmlLabels: true,
+          curve: 'basis'
+        }
+      });
+    }
+
+    async function renderActiveMermaid() {
+      if (window.mermaid) {
+        try {
+          const activeContainer = document.querySelector('.article-page-container:not(.hidden)');
+          if (activeContainer) {
+            const nodes = activeContainer.querySelectorAll('.mermaid:not([data-processed="true"])');
+            if (nodes.length > 0) {
+              await mermaid.run({ nodes: nodes });
+            }
+          }
+        } catch (err) {
+          console.warn('Mermaid render warning:', err);
+        }
+      }
+    }
+
+    function switchPostLang(lang) {
+      localStorage.setItem('pv_lang', lang);
+      const viContainer = document.getElementById('post-container-vi');
+      const enContainer = document.getElementById('post-container-en');
+      const btnVi = document.getElementById('post-lang-vi');
+      const btnEn = document.getElementById('post-lang-en');
+      const brandSub = document.getElementById('post-brand-subtitle');
+      const backBtn = document.getElementById('post-back-btn');
+
+      if (lang === 'en') {
+        viContainer.classList.add('hidden');
+        enContainer.classList.remove('hidden');
+        btnVi.classList.remove('active');
+        btnEn.classList.add('active');
+        brandSub.textContent = 'Health & Human Performance Knowledge Hub';
+        backBtn.textContent = '← Back to All Articles';
+        backBtn.href = '../index.html?lang=en';
+        document.documentElement.lang = 'en';
+      } else {
+        enContainer.classList.add('hidden');
+        viContainer.classList.remove('hidden');
+        btnEn.classList.remove('active');
+        btnVi.classList.add('active');
+        brandSub.textContent = 'Cẩm Nang Khoa Học Sức Khỏe & Thiết Bị Đeo';
+        backBtn.textContent = '← Quay lại Danh sách';
+        backBtn.href = '../index.html?lang=vi';
+        document.documentElement.lang = 'vi';
+      }
+      setTimeout(renderActiveMermaid, 50);
+    }
+
+    (function initLang() {
+      const params = new URLSearchParams(window.location.search);
+      const qLang = params.get('lang');
+      const saved = qLang || localStorage.getItem('pv_lang') || 'vi';
+      switchPostLang(saved === 'en' ? 'en' : 'vi');
+      setTimeout(renderActiveMermaid, 100);
+    })();
+
+    window.addEventListener('scroll', () => {
+      const winScroll = document.body.scrollTop || document.documentElement.scrollTop;
+      const height = document.documentElement.scrollHeight - document.documentElement.clientHeight;
+      const bar = document.getElementById('reading-progress');
+      if (height > 0 && bar) {
+        bar.style.width = ((winScroll / height) * 100) + '%';
+      }
+    });
+  </script>
+</body>
+</html>

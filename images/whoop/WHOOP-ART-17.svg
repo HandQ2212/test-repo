@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="720" height="760" viewBox="0 0 720 760" role="img" aria-labelledby="title desc"><title id="title">Khối nạc và cân nặng: WHOOP nhận dữ liệu từ đâu?</title><desc id="desc">Sơ đồ khái niệm do biên tập tạo, không phải dữ liệu thực hoặc ảnh giao diện WHOOP.</desc>
+<rect width="720" height="760" rx="24" fill="#0f2535"/>
+<g font-family="Arial, Helvetica, sans-serif">
+<text x="36" y="44" font-size="17" fill="#85d9ca" font-weight="700"><tspan x="36" dy="0">WHOOP-ART-17  /  GIẢI THÍCH CHỈ SỐ</tspan></text>
+<text x="36" y="91" font-size="29" fill="#ffffff" font-weight="700"><tspan x="36" dy="0">Khối nạc và cân nặng: WHOOP nhận dữ liệu</tspan><tspan x="36" dy="39">từ đâu?</tspan></text>
+<rect x="32" y="190" width="656" height="136" rx="16" fill="#ecf6f3"/>
+<circle cx="70" cy="230" r="19" fill="#167b70"/>
+<text x="70" y="237" text-anchor="middle" font-size="22" font-weight="700" fill="white">1</text>
+<text x="107" y="233" font-size="26" fill="#0f393c" font-weight="700"><tspan x="107" dy="0">Nguồn dữ liệu</tspan></text>
+<text x="56" y="276" font-size="24" fill="#274754" font-weight="400"><tspan x="56" dy="0">Cân, ứng dụng tích hợp hoặc nhập tay</tspan></text>
+<rect x="32" y="354" width="656" height="136" rx="16" fill="#ecf6f3"/>
+<circle cx="70" cy="394" r="19" fill="#167b70"/>
+<text x="70" y="401" text-anchor="middle" font-size="22" font-weight="700" fill="white">2</text>
+<text x="107" y="397" font-size="26" fill="#0f393c" font-weight="700"><tspan x="107" dy="0">Thành phần</tspan></text>
+<text x="56" y="440" font-size="24" fill="#274754" font-weight="400"><tspan x="56" dy="0">Khối nạc khác khối cơ xương</tspan></text>
+<rect x="32" y="518" width="656" height="136" rx="16" fill="#ecf6f3"/>
+<circle cx="70" cy="558" r="19" fill="#167b70"/>
+<text x="70" y="565" text-anchor="middle" font-size="22" font-weight="700" fill="white">3</text>
+<text x="107" y="561" font-size="26" fill="#0f393c" font-weight="700"><tspan x="107" dy="0">Xu hướng</tspan></text>
+<text x="56" y="604" font-size="24" fill="#274754" font-weight="400"><tspan x="56" dy="0">So cùng phương pháp và điều kiện</tspan></text>
+<text x="36" y="717" font-size="16" fill="#c0d6db" font-weight="400"><tspan x="36" dy="0">Sơ đồ khái niệm • Không phải dữ liệu đo thực</tspan></text>
+<text x="36" y="742" font-size="14" fill="#c0d6db" font-weight="400"><tspan x="36" dy="0">Biên tập gốc • Nguồn đối chiếu ở chú thích và bài viết</tspan></text>
+</g></svg>

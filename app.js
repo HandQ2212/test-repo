@@ -70,7 +70,9 @@ const uiStrings = {
     brandSubtitle: 'Health & Human Performance Knowledge Hub',
     heroBadge: 'Health education • Sources and limitations',
     heroTitle: 'Evidence-Based Science for Sleep, Recovery, Activity & Longevity',
-    heroSubtitle: '83 in-depth bilingual articles with physiological explanations, comparison tables, practical situations and checked references.',
+    heroSubtitle: (total, viOnly) => viOnly
+      ? `${total} health guides: ${total - viOnly} bilingual articles and ${viOnly} Vietnamese guides to WHOOP metrics, with examples, sources and interpretation limits.`
+      : `${total} bilingual health guides with physiological explanations, practical situations and checked references.`,
     searchPlaceholder: 'Search by topic, metric (HRV, Deep Sleep, BBT, VO2 Max, Kegel), or keywords...',
     labelCategory: 'Category:',
     labelFormat: 'Format:',
@@ -111,7 +113,9 @@ const uiStrings = {
     brandSubtitle: 'Cẩm Nang Khoa Học Sức Khỏe & Thiết Bị Đeo Thông Minh',
     heroBadge: 'Kiến thức sức khỏe • Nguồn và giới hạn bằng chứng',
     heroTitle: 'Khoa Học Thực Chứng Về Giấc Ngủ, Phục Hồi, Vận Động & Sức Khỏe',
-    heroSubtitle: '83 bài chuyên sâu song ngữ: giải thích cơ chế, bảng so sánh, tình huống ứng dụng và nguồn đã đối chiếu.',
+    heroSubtitle: (total, viOnly) => viOnly
+      ? `${total} bài kiến thức: ${total - viOnly} bài song ngữ và ${viOnly} bài tiếng Việt về chỉ số WHOOP, kèm ví dụ, nguồn tham khảo và giới hạn diễn giải.`
+      : `${total} bài song ngữ: giải thích cơ chế, tình huống ứng dụng và nguồn đã đối chiếu.`,
     searchPlaceholder: 'Tìm kiếm theo chủ đề, chỉ số (HRV, Ngủ sâu, BBT, VO2 Max, Kegel) hoặc từ khóa...',
     labelCategory: 'Chủ đề:',
     labelFormat: 'Định dạng:',
@@ -253,7 +257,13 @@ function applyUITranslations() {
 
   setElText('hero-badge', t.heroBadge);
   setElText('hero-title', t.heroTitle);
-  setElText('hero-subtitle', t.heroSubtitle);
+  const viOnly = allArticles.filter(a => a.available_languages?.length === 1 && a.available_languages[0] === 'vi').length;
+  setElText('hero-subtitle', t.heroSubtitle(allArticles.length, viOnly));
+  const collectionLink = document.getElementById('whoop-collection-link');
+  if (collectionLink) {
+    collectionLink.href = `?collection=whoop&lang=${currentLang}`;
+    collectionLink.textContent = currentLang === 'vi' ? 'Khám phá bộ bài về WHOOP →' : 'Explore the WHOOP collection →';
+  }
   if (searchInput) searchInput.placeholder = t.searchPlaceholder;
 
   setElText('filter-label-category', t.labelCategory);
@@ -315,6 +325,10 @@ async function init() {
     }
   }
 
+  if (urlParams.get('collection') === 'whoop') {
+    searchQuery = 'WHOOP-ART-';
+    searchInput.value = searchQuery;
+  }
   setLanguage(currentLang);
   checkHashRoute();
 }

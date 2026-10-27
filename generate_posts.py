@@ -507,4 +507,5 @@ for i, art in enumerate(articles):
     with open(os.path.join(posts_dir, f"{art['id']}.html"), "w", encoding="utf-8") as pf:
         pf.write('\n'.join(line.rstrip() for line in html_page.splitlines()) + '\n')
 
-print(f"Successfully generated all {len(articles)} bilingual (EN + VI) standalone blog post pages!")
+vi_only=sum(a.get('available_languages')==['vi'] for a in articles)
+print(f"Generated {len(articles)} standalone blog pages: {len(articles)-vi_only} bilingual and {vi_only} Vietnamese editions.")

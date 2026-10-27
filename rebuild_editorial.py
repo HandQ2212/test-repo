@@ -247,7 +247,7 @@ def main():
     catalog={r['id']:r for r in rows}
     from build_longform import build as build_longform
     longform=build_longform(sources,catalog)
-    articles=json.loads((BASE/'articles.json').read_text())
+    articles=[a for a in json.loads((BASE/'articles.json').read_text()) if not a['id'].startswith('WHOOP-ART-')]
     assert len(catalog)==len(rows)==len(articles)==83
     assert set(catalog)=={a['id'] for a in articles}
     AUDIT.mkdir(parents=True,exist_ok=True)
@@ -339,8 +339,12 @@ def main():
     sync_roadmaps(articles)
     from image_curation import write_review_docs
     write_review_docs(articles)
+    # Keep the independently maintained WHOOP collection through full rebuilds.
+    from sync_whoop_articles import merge_whoop_articles
+    whoop_records=merge_whoop_articles()
     subprocess.run([sys.executable,str(BASE/'generate_posts.py')],check=True)
     print(json.dumps({'articles':len(articles),'sources':len(sources),'confirmed_canonical_mismatches':len(CONFIRMED_MISMATCHES),
+                      'whoop_articles':len(whoop_records),'total_blog_articles':len(articles)+len(whoop_records),
                       'original_urls_checked':len(results),'original_http_statuses':dict(Counter(str(r.get('http_status','error')) for r in results.values()))},indent=2))
 
 if __name__=='__main__':main()

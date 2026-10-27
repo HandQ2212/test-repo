@@ -1,0 +1,478 @@
+<!DOCTYPE html>
+<html lang="vi">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>ECG và cảnh báo nhịp tim WHOOP: đọc kết quả và giới hạn | Understanding WHOOP ECG and irregular rhythm notifications</title>
+  <link rel="stylesheet" href="../styles.css?v=figure-load-1">
+  <script src="../article_figures.js?v=figure-load-1"></script>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:wght@400;500;600;700;800&family=Lora:ital,wght@0,400;0,500;0,600;1,400&display=swap" rel="stylesheet">
+  <script src="https://cdn.jsdelivr.net/npm/mermaid@10/dist/mermaid.min.js"></script>
+</head>
+<body class="blog-post-page">
+  <div class="reading-progress-container">
+    <div id="reading-progress" class="reading-progress-bar"></div>
+  </div>
+
+  <!-- Sticky Top Navigation with Bilingual Switcher -->
+  <header class="navbar post-navbar">
+    <div class="nav-container">
+      <a href="../index.html" class="brand" style="text-decoration: none;">
+        <div class="brand-logo">⚡</div>
+        <div class="brand-text">
+          <span class="brand-title">PULSE & VITALITY</span>
+          <span class="brand-subtitle" id="post-brand-subtitle">Cẩm Nang Khoa Học Sức Khỏe & Thiết Bị Đeo</span>
+        </div>
+      </a>
+      <div class="nav-actions">
+        <div class="lang-switch-group" role="group" aria-label="Language Switcher">
+          <button id="post-lang-vi" class="lang-btn active" onclick="switchPostLang('vi')">🇻🇳 Tiếng Việt</button>
+          <button id="post-lang-en" class="lang-btn" onclick="switchPostLang('en')">🇬🇧 English</button>
+        </div>
+        <a href="../index.html" class="btn-back-hub" id="post-back-btn">
+          ← Quay lại Danh sách
+        </a>
+      </div>
+    </div>
+  </header>
+
+  <!-- ========================================================= -->
+  <!-- VIETNAMESE ARTICLE CONTAINER                              -->
+  <!-- ========================================================= -->
+  <main id="post-container-vi" class="article-page-container">
+    <nav class="article-breadcrumb">
+      <a href="../index.html?lang=vi">Trang chủ</a>
+      <span class="sep">/</span>
+      <a href="../index.html?lang=vi">Sức khỏe toàn diện</a>
+      <span class="sep">/</span>
+      <span class="current">Understanding WHOOP ECG and irregular rhythm notifications</span>
+    </nav>
+
+    <header class="article-page-header">
+      <div class="article-badges-row">
+        <span class="badge" style="background: #E0F2FE; color: #0284C7; font-weight: 700;">
+          🌿 Sức khỏe toàn diện
+        </span>
+        <span class="badge badge-sub">Understanding WHOOP ECG and irregular rhythm notifications</span>
+        <span class="badge badge-type">Learn more</span>
+        <span class="article-read-time">⏱ 3–4 phút</span>
+      </div>
+
+      <h1 class="article-main-title">ECG và cảnh báo nhịp tim WHOOP: đọc kết quả và giới hạn</h1>
+      <p class="article-sapo-lead">ECG theo yêu cầu khác sàng lọc nhịp nền. Kết quả bình thường hoặc không có cảnh báo không loại trừ mọi bệnh tim.</p>
+
+      <figure class="article-featured-hero">
+        <img src="../images/researched/batch-01/LM_RC_01_inline.png" alt="Sơ đồ các khoảng R–R giữa các nhịp; đây không phải bản ghi ECG của thiết bị WHOOP hoặc của người đọc." style="object-fit: contain">
+        <figcaption>Sơ đồ các khoảng R–R giữa các nhịp; đây không phải bản ghi ECG của thiết bị WHOOP hoặc của người đọc. • <a href="https://commons.wikimedia.org/wiki/File:ECG-RRinterval.svg" target="_blank" rel="noopener noreferrer" class="img-source-badge">Nguồn ảnh ↗</a><span class="image-attribution"><a href="https://commons.wikimedia.org/wiki/File:ECG-RRinterval.svg" target="_blank" rel="noopener noreferrer">Anthony Atkielski (Agateller), atom and Kychot</a> · <a href="https://commons.wikimedia.org/wiki/File:ECG-RRinterval.svg#Licensing" target="_blank" rel="noopener noreferrer">Copyrighted free use</a> · PNG kết xuất từ SVG; giữ nguyên nội dung.</span></figcaption>
+      </figure>
+
+      <div class="article-metadata-card">
+        <div class="meta-avatar">PV</div>
+        <div class="meta-content">
+          <div class="meta-author">Pulse & Vitality • Nội dung giáo dục sức khỏe</div>
+          <div class="meta-details">
+            <span>Nguồn tham khảo chính: <a href="https://support.whoop.com/s/article/ECG-Data-Accuracy-Best-Practices?language=en_US" target="_blank" rel="noopener noreferrer" style="color: inherit; text-decoration: underline; font-weight: 700;">ECG: Data Accuracy & Best Practices ↗</a></span>
+            <span class="meta-dot">•</span>
+            <span>Cập nhật: <strong>2026-10-26</strong></span>
+            <span class="meta-dot">•</span>
+            <span>Duyệt lâm sàng: <strong>Chưa có xác nhận</strong></span>
+          </div>
+        </div>
+      </div>
+    </header>
+
+    <section class="takeaway-banner-large">
+      <div class="takeaway-banner-header">
+        <span class="takeaway-icon-lg">💡</span>
+        <span>Điểm Cốt Lõi & Hành Động Thực Tế</span>
+      </div>
+      <p>Phân biệt ECG chủ động với sàng lọc IHRN; kết quả bình thường không loại trừ mọi bệnh tim.</p>
+    </section>
+
+    <article class="article-rich-body">
+      <h2>Hai chức năng có cách hoạt động khác nhau</h2>
+<p>ECG chủ động ghi hoạt động điện tim khoảng 30 giây. Hồ sơ FDA K243236 mô tả ECG phiên bản 1.0 một kênh, tương tự chuyển đạo I; không tương đương điện tim 12 chuyển đạo ở cơ sở y tế. <a href="https://www.accessdata.fda.gov/cdrh_docs/pdf24/K243236.pdf">S52</a></p>
+        <figure class="article-inline-diagram">
+          <img src="../images/whoop/WHOOP-ART-28.svg" alt="Sơ đồ khái niệm do Pulse & Vitality biên soạn; không phải ảnh giao diện WHOOP hoặc dữ liệu đo thực. Nguồn khái niệm được dẫn trong bài." loading="lazy">
+          <figcaption><strong>Sơ đồ khái niệm do Pulse & Vitality biên soạn; không phải ảnh giao diện WHOOP hoặc dữ liệu đo thực. Nguồn khái niệm được dẫn trong bài.</strong> <a href="/images/whoop/WHOOP-ART-28.svg" target="_blank" rel="noopener noreferrer" class="img-source-badge">(Nguồn hình ↗)</a></figcaption>
+        </figure>
+
+<p>Irregular Heart Rhythm Notifications, viết tắt IHRN, dùng tín hiệu quang học PPG để sàng lọc dấu hiệu gợi ý rung nhĩ khi ít hoặc không chuyển động. Đây không phải ECG liên tục và không quan sát mọi thời điểm. Không có cảnh báo không loại trừ rung nhĩ gián đoạn. Phạm vi FDA K243236 của ECG không tự áp dụng cho IHRN. <a href="https://support.whoop.com/s/article/Irregular-Heart-Rhythm-Notifications-Data-Accuracy-Best-Practices?language=en_US">S43</a> <a href="https://apps.apple.com/gb/app/whoop/id933944389">S57</a> <a href="https://www.accessdata.fda.gov/cdrh_docs/pdf24/K243236.pdf">S52</a></p>
+<h2>Ai có thể sử dụng?</h2>
+<p>Hướng dẫn WHOOP nêu thiết bị MG, gói Life, từ 22 tuổi và thị trường đủ điều kiện. ECG cần tiếp xúc điện cực/phụ kiện tương thích; không khuyến nghị cho người có máy tạo nhịp, ICD hoặc thiết bị điện tử cấy ghép, và có giới hạn với loạn nhịp đã biết khác AFib. IHRN không dành cho người đã chẩn đoán AFib. Không gộp hai bộ điều kiện thành một. <a href="https://support.whoop.com/s/article/ECG-Data-Accuracy-Best-Practices?language=en_US">S42</a> <a href="https://support.whoop.com/s/article/Irregular-Heart-Rhythm-Notifications-Data-Accuracy-Best-Practices?language=en_US">S43</a></p>
+<p>Danh sách khu vực được lập chỉ mục và đối chiếu ngày 26/10/2026 chưa liệt kê Việt Nam cho ECG/IHRN. Đây là ảnh chụp thông tin nguồn, không phải xác nhận trực tiếp tài khoản hoặc quy định tại Việt Nam. Kiểm tra danh sách hiện hành và ứng dụng ở vị trí thực tế. <a href="https://support.whoop.com/s/article/Regional-Feature-Availability">S44</a></p>
+<h2>Hiểu các nhóm kết quả</h2>
+<p>Normal Sinus Rhythm là phân loại trong lần ghi; AFib là dấu hiệu cần trao đổi y tế. Low/High Heart Rate không tự chẩn đoán nguyên nhân nhịp chậm/nhanh. Hồ sơ ECG 1.0 còn phân biệt Inconclusive, tức không kết luận được, với Unsuccessful Reading, tức ghi thất bại. Cả hai không phải kết quả bình thường. Tên hiển thị và giới hạn phân loại có thể khác theo phiên bản và khu vực. <a href="https://www.accessdata.fda.gov/cdrh_docs/pdf24/K243236.pdf">S52</a> <a href="https://support.whoop.com/s/article/ECG-Data-Accuracy-Best-Practices?language=en_US">S42</a></p>
+<p>Khi không có triệu chứng nặng và bản ghi lỗi, làm theo hướng dẫn: đeo cổ tay, giữ yên, tiếp xúc đúng và đo lại khi phù hợp. Với IHRN, hướng dẫn nêu vị trí đã kiểm định là cổ tay; không mặc định đeo bắp tay cho kết quả tương đương. Nếu có cảnh báo hoặc kết quả gợi ý AFib, lưu báo cáo và trao đổi y tế; không đo lặp chỉ để tìm một lần bình thường. <a href="https://support.whoop.com/s/article/ECG-Data-Accuracy-Best-Practices?language=en_US">S42</a> <a href="https://support.whoop.com/s/article/Irregular-Heart-Rhythm-Notifications-Data-Accuracy-Best-Practices?language=en_US">S43</a></p>
+<p>ECG/IHRN không phát hiện nhồi máu cơ tim hoặc mọi bệnh tim. Đau ngực, khó thở nhiều, ngất hoặc triệu chứng nặng cần trợ giúp khẩn cấp, kể cả khi lần đo báo nhịp xoang. Không tự bắt đầu hay dừng thuốc từ kết quả này. <a href="https://support.whoop.com/s/article/ECG-Data-Accuracy-Best-Practices?language=en_US">S42</a> <a href="https://support.whoop.com/s/article/Irregular-Heart-Rhythm-Notifications-Data-Accuracy-Best-Practices?language=en_US">S43</a></p>
+<h2>Nguồn tham khảo và phạm vi hỗ trợ</h2>
+<ul>
+<li><strong>S42</strong> — WHOOP Support. <a href="https://support.whoop.com/s/article/ECG-Data-Accuracy-Best-Practices?language=en_US">ECG: Data Accuracy &amp; Best Practices</a>. Phạm vi: ECG theo yêu cầu khoảng 30 giây; MG/Life, &gt;=22 tuổi, giới hạn thiết bị cấy ghép, phân loại, không phát hiện nhồi máu.</li>
+<li><strong>S43</strong> — WHOOP Support. <a href="https://support.whoop.com/s/article/Irregular-Heart-Rhythm-Notifications-Data-Accuracy-Best-Practices?language=en_US">Irregular Heart Rhythm Notifications: Data Accuracy &amp; Best Practices</a>. Phạm vi: Sàng lọc nền lúc ít chuyển động; &gt;=22 tuổi; không dành cho người đã chẩn đoán AFib; khác ECG chủ động.</li>
+<li><strong>S44</strong> — WHOOP Support. <a href="https://support.whoop.com/s/article/Regional-Feature-Availability">Regional Feature Availability</a>. Phạm vi: Khả dụng theo thị trường; không suy ra Việt Nam được bật từ trang Hoa Kỳ.</li>
+<li><strong>S52</strong> — U.S. Food and Drug Administration. <a href="https://www.accessdata.fda.gov/cdrh_docs/pdf24/K243236.pdf">WHOOP ECG Feature (1.0): FDA 510(k) K243236</a>. Phạm vi: Hồ sơ 04/04/2025 cho ECG 1.0 ở Hoa Kỳ: một kênh tương tự Lead I, spot check 30 giây, &gt;=22 tuổi, kết quả Inconclusive khác Unsuccessful Reading; không mở rộng sang IHRN/BPI/thị trường khác.</li>
+<li><strong>S57</strong> — WHOOP, Inc. — Apple App Store. <a href="https://apps.apple.com/gb/app/whoop/id933944389">WHOOP App — Intended Purpose and Safety Information (UK listing)</a>. Phạm vi: Thông tin do WHOOP công bố: IHRN phân tích pulse-rate data từ cảm biến PPG; sàng lọc cơ hội khi đủ dữ liệu, &gt;=22 tuổi, không khuyến nghị cho người đã biết AFib. Không phải xác nhận tính khả dụng tại Việt Nam.</li>
+</ul>
+<blockquote>
+<p>Bài biên soạn độc lập bởi Pulse &amp; Vitality; tài liệu WHOOP và các nguồn khác được dùng để tham khảo. Đăng ngày 2026-10-27; nguồn đối chiếu 2026-10-26. Nội dung giáo dục, không thay thế đánh giá, chẩn đoán hoặc điều trị y tế.</p>
+</blockquote>
+    </article>
+
+    <section class="canonical-citation-card">
+      <div class="citation-icon">📚</div>
+      <div class="citation-body">
+        <h4>Nguồn tham khảo và giới hạn bằng chứng</h4>
+        <p>Nguồn chính: <strong>ECG: Data Accuracy & Best Practices</strong>. Các nguồn bổ sung và phạm vi hỗ trợ được liệt kê trong bài. Cập nhật 26/10/2026; chưa có xác nhận duyệt bởi bác sĩ.</p>
+        <div class="citation-actions">
+          <a href="https://support.whoop.com/s/article/ECG-Data-Accuracy-Best-Practices?language=en_US" target="_blank" rel="noopener noreferrer" class="btn-canonical-study">
+            Truy Cập Nguồn Gốc (ECG: Data Accuracy & Best Practices...) ↗
+          </a>
+        </div>
+      </div>
+    </section>
+
+    <nav class="post-pagination-nav">
+
+    <a href="WHOOP-ART-27.html?lang=vi" class="post-nav-btn prev">
+      <span class="nav-direction">← Bài viết trước</span>
+      <span class="nav-title">WHOOP Age và Pace of Aging: hiểu điểm Healthspan</span>
+    </a>
+
+    <a href="WHOOP-ART-29.html?lang=vi" class="post-nav-btn next">
+      <span class="nav-direction">Bài tiếp theo →</span>
+      <span class="nav-title">Blood Pressure Insights: phân biệt ước tính với đo vòng bít</span>
+    </a>
+    </nav>
+
+    <section class="related-articles-section">
+      <div class="related-section-header">
+        <h3>Bài viết liên quan thuộc chủ đề Sức khỏe toàn diện</h3>
+      </div>
+      <div class="related-posts-grid">
+
+        <a href="LM_HW_01.html?lang=vi" class="related-post-card">
+          <div class="related-post-img" data-image-fit="contain" style="background-image: url('../images/researched/batch-02/LM_HW_01_hero.jpg');">
+            <span class="related-post-badge" style="background: #E0F2FE; color: #0284C7;">
+              🌿 Sức khỏe toàn diện
+            </span>
+          </div>
+          <div class="related-post-info">
+            <h4 class="related-post-title">Điểm stress của đồng hồ nói được gì?</h4>
+            <p class="related-post-desc">Một số thiết bị suy đoán trạng thái kích hoạt sinh lý từ nhịp tim, HRV, chuyển động hoặc đ...</p>
+            <div class="related-post-meta">
+              <span>⏱ 7 phút</span>
+              <span>•</span>
+              <span>Learn more</span>
+            </div>
+          </div>
+        </a>
+
+        <a href="LM_HW_02.html?lang=vi" class="related-post-card">
+          <div class="related-post-img" data-image-fit="contain" style="background-image: url('../images/researched/batch-02/LM_HW_02_hero.jpg');">
+            <span class="related-post-badge" style="background: #E0F2FE; color: #0284C7;">
+              🌿 Sức khỏe toàn diện
+            </span>
+          </div>
+          <div class="related-post-info">
+            <h4 class="related-post-title">VO2 max trên đồng hồ: ước tính thể lực, không dự báo tuổi thọ cá nhân</h4>
+            <p class="related-post-desc">VO2 max mô tả khả năng sử dụng oxy tối đa khi gắng sức....</p>
+            <div class="related-post-meta">
+              <span>⏱ 9 phút</span>
+              <span>•</span>
+              <span>Learn more</span>
+            </div>
+          </div>
+        </a>
+
+        <a href="DM_HW_01.html?lang=vi" class="related-post-card">
+          <div class="related-post-img" data-image-fit="cover" style="background-image: url('../images/researched/batch-02/DM_HW_01_hero.jpg');">
+            <span class="related-post-badge" style="background: #E0F2FE; color: #0284C7;">
+              🌿 Sức khỏe toàn diện
+            </span>
+          </div>
+          <div class="related-post-info">
+            <h4 class="related-post-title">Thở dài sinh lý: bằng chứng thực tế và cách thử an toàn</h4>
+            <p class="related-post-desc">Một thử nghiệm từ xa so sánh các bài thở ngắn và thiền đã ghi nhận cải thiện tâm trạng với...</p>
+            <div class="related-post-meta">
+              <span>⏱ 7 phút</span>
+              <span>•</span>
+              <span>Discover more</span>
+            </div>
+          </div>
+        </a>
+
+      </div>
+    </section>
+
+    <div class="return-hub-cta">
+      <a href="../index.html?lang=vi" class="btn-return-hub">← Quay lại Trang chủ & Tìm kiếm</a>
+      <button onclick="window.scrollTo({top: 0, behavior: 'smooth'})" class="btn-scroll-top">↑ Lên đầu trang</button>
+    </div>
+  </main>
+
+  <!-- ========================================================= -->
+  <!-- ENGLISH ARTICLE CONTAINER                                 -->
+  <!-- ========================================================= -->
+  <main id="post-container-en" class="article-page-container hidden">
+    <nav class="article-breadcrumb">
+      <a href="../index.html?lang=en">Knowledge Hub</a>
+      <span class="sep">/</span>
+      <a href="../index.html?lang=en">Health & Wellness</a>
+      <span class="sep">/</span>
+      <span class="current">Understanding WHOOP ECG and irregular rhythm notifications</span>
+    </nav>
+
+    <header class="article-page-header">
+      <div class="article-badges-row">
+        <span class="badge" style="background: #E0F2FE; color: #0284C7; font-weight: 700;">
+          🌿 Health & Wellness
+        </span>
+        <span class="badge badge-sub">Understanding WHOOP ECG and irregular rhythm notifications</span>
+        <span class="badge badge-type">Learn more</span>
+        <span class="article-read-time">⏱ 3–4 phút read</span>
+      </div>
+
+      <h1 class="article-main-title">Understanding WHOOP ECG and irregular rhythm notifications</h1>
+      <p class="article-sapo-lead">Vietnamese edition: Understanding WHOOP ECG and irregular rhythm notifications.</p>
+
+      <figure class="article-featured-hero">
+        <img src="../images/researched/batch-01/LM_RC_01_inline.png" alt="A diagram of R–R intervals; not an ECG recording from WHOOP or from the reader." style="object-fit: contain">
+        <figcaption>A diagram of R–R intervals; not an ECG recording from WHOOP or from the reader. • <a href="https://commons.wikimedia.org/wiki/File:ECG-RRinterval.svg" target="_blank" rel="noopener noreferrer" class="img-source-badge">Image source ↗</a><span class="image-attribution"><a href="https://commons.wikimedia.org/wiki/File:ECG-RRinterval.svg" target="_blank" rel="noopener noreferrer">Anthony Atkielski (Agateller), atom and Kychot</a> · <a href="https://commons.wikimedia.org/wiki/File:ECG-RRinterval.svg#Licensing" target="_blank" rel="noopener noreferrer">Copyrighted free use</a> · PNG rendering of SVG; content unchanged.</span></figcaption>
+      </figure>
+
+      <div class="article-metadata-card">
+        <div class="meta-avatar">PV</div>
+        <div class="meta-content">
+          <div class="meta-author">Pulse & Vitality • Health education</div>
+          <div class="meta-details">
+            <span>Primary reference: <a href="https://support.whoop.com/s/article/ECG-Data-Accuracy-Best-Practices?language=en_US" target="_blank" rel="noopener noreferrer" style="color: inherit; text-decoration: underline; font-weight: 700;">ECG: Data Accuracy & Best Practices ↗</a></span>
+            <span class="meta-dot">•</span>
+            <span>Updated: <strong>2026-10-26</strong></span>
+            <span class="meta-dot">•</span>
+            <span>Clinical review: <strong>Not recorded</strong></span>
+          </div>
+        </div>
+      </div>
+    </header>
+
+    <section class="takeaway-banner-large">
+      <div class="takeaway-banner-header">
+        <span class="takeaway-icon-lg">💡</span>
+        <span>Key Actionable Takeaway</span>
+      </div>
+      <p>Vietnamese edition. Understanding WHOOP ECG and irregular rhythm notifications.</p>
+    </section>
+
+    <article class="article-rich-body">
+      <blockquote>
+<p><strong>Vietnamese edition:</strong> This article is currently available in Vietnamese. The English heading is an editorial title, not a full English translation.</p>
+</blockquote>
+<h2>Hai chức năng có cách hoạt động khác nhau</h2>
+<p>ECG chủ động ghi hoạt động điện tim khoảng 30 giây. Hồ sơ FDA K243236 mô tả ECG phiên bản 1.0 một kênh, tương tự chuyển đạo I; không tương đương điện tim 12 chuyển đạo ở cơ sở y tế. <a href="https://www.accessdata.fda.gov/cdrh_docs/pdf24/K243236.pdf">S52</a></p>
+        <figure class="article-inline-diagram">
+          <img src="../images/whoop/WHOOP-ART-28.svg" alt="Original explanatory diagram in Vietnamese; not a WHOOP screenshot or measured data. Sources are listed in the article." loading="lazy">
+          <figcaption><strong>Original explanatory diagram in Vietnamese; not a WHOOP screenshot or measured data. Sources are listed in the article.</strong> <a href="/images/whoop/WHOOP-ART-28.svg" target="_blank" rel="noopener noreferrer" class="img-source-badge">(Figure source ↗)</a></figcaption>
+        </figure>
+
+<p>Irregular Heart Rhythm Notifications, viết tắt IHRN, dùng tín hiệu quang học PPG để sàng lọc dấu hiệu gợi ý rung nhĩ khi ít hoặc không chuyển động. Đây không phải ECG liên tục và không quan sát mọi thời điểm. Không có cảnh báo không loại trừ rung nhĩ gián đoạn. Phạm vi FDA K243236 của ECG không tự áp dụng cho IHRN. <a href="https://support.whoop.com/s/article/Irregular-Heart-Rhythm-Notifications-Data-Accuracy-Best-Practices?language=en_US">S43</a> <a href="https://apps.apple.com/gb/app/whoop/id933944389">S57</a> <a href="https://www.accessdata.fda.gov/cdrh_docs/pdf24/K243236.pdf">S52</a></p>
+<h2>Ai có thể sử dụng?</h2>
+<p>Hướng dẫn WHOOP nêu thiết bị MG, gói Life, từ 22 tuổi và thị trường đủ điều kiện. ECG cần tiếp xúc điện cực/phụ kiện tương thích; không khuyến nghị cho người có máy tạo nhịp, ICD hoặc thiết bị điện tử cấy ghép, và có giới hạn với loạn nhịp đã biết khác AFib. IHRN không dành cho người đã chẩn đoán AFib. Không gộp hai bộ điều kiện thành một. <a href="https://support.whoop.com/s/article/ECG-Data-Accuracy-Best-Practices?language=en_US">S42</a> <a href="https://support.whoop.com/s/article/Irregular-Heart-Rhythm-Notifications-Data-Accuracy-Best-Practices?language=en_US">S43</a></p>
+<p>Danh sách khu vực được lập chỉ mục và đối chiếu ngày 26/10/2026 chưa liệt kê Việt Nam cho ECG/IHRN. Đây là ảnh chụp thông tin nguồn, không phải xác nhận trực tiếp tài khoản hoặc quy định tại Việt Nam. Kiểm tra danh sách hiện hành và ứng dụng ở vị trí thực tế. <a href="https://support.whoop.com/s/article/Regional-Feature-Availability">S44</a></p>
+<h2>Hiểu các nhóm kết quả</h2>
+<p>Normal Sinus Rhythm là phân loại trong lần ghi; AFib là dấu hiệu cần trao đổi y tế. Low/High Heart Rate không tự chẩn đoán nguyên nhân nhịp chậm/nhanh. Hồ sơ ECG 1.0 còn phân biệt Inconclusive, tức không kết luận được, với Unsuccessful Reading, tức ghi thất bại. Cả hai không phải kết quả bình thường. Tên hiển thị và giới hạn phân loại có thể khác theo phiên bản và khu vực. <a href="https://www.accessdata.fda.gov/cdrh_docs/pdf24/K243236.pdf">S52</a> <a href="https://support.whoop.com/s/article/ECG-Data-Accuracy-Best-Practices?language=en_US">S42</a></p>
+<p>Khi không có triệu chứng nặng và bản ghi lỗi, làm theo hướng dẫn: đeo cổ tay, giữ yên, tiếp xúc đúng và đo lại khi phù hợp. Với IHRN, hướng dẫn nêu vị trí đã kiểm định là cổ tay; không mặc định đeo bắp tay cho kết quả tương đương. Nếu có cảnh báo hoặc kết quả gợi ý AFib, lưu báo cáo và trao đổi y tế; không đo lặp chỉ để tìm một lần bình thường. <a href="https://support.whoop.com/s/article/ECG-Data-Accuracy-Best-Practices?language=en_US">S42</a> <a href="https://support.whoop.com/s/article/Irregular-Heart-Rhythm-Notifications-Data-Accuracy-Best-Practices?language=en_US">S43</a></p>
+<p>ECG/IHRN không phát hiện nhồi máu cơ tim hoặc mọi bệnh tim. Đau ngực, khó thở nhiều, ngất hoặc triệu chứng nặng cần trợ giúp khẩn cấp, kể cả khi lần đo báo nhịp xoang. Không tự bắt đầu hay dừng thuốc từ kết quả này. <a href="https://support.whoop.com/s/article/ECG-Data-Accuracy-Best-Practices?language=en_US">S42</a> <a href="https://support.whoop.com/s/article/Irregular-Heart-Rhythm-Notifications-Data-Accuracy-Best-Practices?language=en_US">S43</a></p>
+<h2>Nguồn tham khảo và phạm vi hỗ trợ</h2>
+<ul>
+<li><strong>S42</strong> — WHOOP Support. <a href="https://support.whoop.com/s/article/ECG-Data-Accuracy-Best-Practices?language=en_US">ECG: Data Accuracy &amp; Best Practices</a>. Phạm vi: ECG theo yêu cầu khoảng 30 giây; MG/Life, &gt;=22 tuổi, giới hạn thiết bị cấy ghép, phân loại, không phát hiện nhồi máu.</li>
+<li><strong>S43</strong> — WHOOP Support. <a href="https://support.whoop.com/s/article/Irregular-Heart-Rhythm-Notifications-Data-Accuracy-Best-Practices?language=en_US">Irregular Heart Rhythm Notifications: Data Accuracy &amp; Best Practices</a>. Phạm vi: Sàng lọc nền lúc ít chuyển động; &gt;=22 tuổi; không dành cho người đã chẩn đoán AFib; khác ECG chủ động.</li>
+<li><strong>S44</strong> — WHOOP Support. <a href="https://support.whoop.com/s/article/Regional-Feature-Availability">Regional Feature Availability</a>. Phạm vi: Khả dụng theo thị trường; không suy ra Việt Nam được bật từ trang Hoa Kỳ.</li>
+<li><strong>S52</strong> — U.S. Food and Drug Administration. <a href="https://www.accessdata.fda.gov/cdrh_docs/pdf24/K243236.pdf">WHOOP ECG Feature (1.0): FDA 510(k) K243236</a>. Phạm vi: Hồ sơ 04/04/2025 cho ECG 1.0 ở Hoa Kỳ: một kênh tương tự Lead I, spot check 30 giây, &gt;=22 tuổi, kết quả Inconclusive khác Unsuccessful Reading; không mở rộng sang IHRN/BPI/thị trường khác.</li>
+<li><strong>S57</strong> — WHOOP, Inc. — Apple App Store. <a href="https://apps.apple.com/gb/app/whoop/id933944389">WHOOP App — Intended Purpose and Safety Information (UK listing)</a>. Phạm vi: Thông tin do WHOOP công bố: IHRN phân tích pulse-rate data từ cảm biến PPG; sàng lọc cơ hội khi đủ dữ liệu, &gt;=22 tuổi, không khuyến nghị cho người đã biết AFib. Không phải xác nhận tính khả dụng tại Việt Nam.</li>
+</ul>
+<blockquote>
+<p>Bài biên soạn độc lập bởi Pulse &amp; Vitality; tài liệu WHOOP và các nguồn khác được dùng để tham khảo. Đăng ngày 2026-10-27; nguồn đối chiếu 2026-10-26. Nội dung giáo dục, không thay thế đánh giá, chẩn đoán hoặc điều trị y tế.</p>
+</blockquote>
+    </article>
+
+    <section class="canonical-citation-card">
+      <div class="citation-icon">📚</div>
+      <div class="citation-body">
+        <h4>References and evidence limits</h4>
+        <p>Primary reference: <strong>ECG: Data Accuracy & Best Practices</strong>. Additional sources and their scope appear in the article. Updated 26 October 2026; clinical sign-off has not been recorded.</p>
+        <div class="citation-actions">
+          <a href="https://support.whoop.com/s/article/ECG-Data-Accuracy-Best-Practices?language=en_US" target="_blank" rel="noopener noreferrer" class="btn-canonical-study">
+            Access Original Source (ECG: Data Accuracy & Best Practices...) ↗
+          </a>
+        </div>
+      </div>
+    </section>
+
+    <nav class="post-pagination-nav">
+
+    <a href="WHOOP-ART-27.html?lang=en" class="post-nav-btn prev">
+      <span class="nav-direction">← Previous Article</span>
+      <span class="nav-title">Interpreting WHOOP Age and Pace of Aging</span>
+    </a>
+
+    <a href="WHOOP-ART-29.html?lang=en" class="post-nav-btn next">
+      <span class="nav-direction">Next Article →</span>
+      <span class="nav-title">Understanding blood pressure estimates and cuff measurements</span>
+    </a>
+    </nav>
+
+    <section class="related-articles-section">
+      <div class="related-section-header">
+        <h3>Related Reads in Health & Wellness</h3>
+      </div>
+      <div class="related-posts-grid">
+
+        <a href="LM_HW_01.html?lang=en" class="related-post-card">
+          <div class="related-post-img" data-image-fit="contain" style="background-image: url('../images/researched/batch-02/LM_HW_01_hero.jpg');">
+            <span class="related-post-badge" style="background: #E0F2FE; color: #0284C7;">
+              🌿 Health & Wellness
+            </span>
+          </div>
+          <div class="related-post-info">
+            <h4 class="related-post-title">What a wearable stress score can tell you</h4>
+            <p class="related-post-desc">Some wearables infer physiological arousal from pulse, HRV, movement or skin conductance....</p>
+            <div class="related-post-meta">
+              <span>⏱ 5 min</span>
+              <span>•</span>
+              <span>Learn more</span>
+            </div>
+          </div>
+        </a>
+
+        <a href="LM_HW_02.html?lang=en" class="related-post-card">
+          <div class="related-post-img" data-image-fit="contain" style="background-image: url('../images/researched/batch-02/LM_HW_02_hero.jpg');">
+            <span class="related-post-badge" style="background: #E0F2FE; color: #0284C7;">
+              🌿 Health & Wellness
+            </span>
+          </div>
+          <div class="related-post-info">
+            <h4 class="related-post-title">Wearable VO2 max: a fitness estimate</h4>
+            <p class="related-post-desc">VO2 max describes maximal oxygen use during exertion....</p>
+            <div class="related-post-meta">
+              <span>⏱ 5 min</span>
+              <span>•</span>
+              <span>Learn more</span>
+            </div>
+          </div>
+        </a>
+
+        <a href="DM_HW_01.html?lang=en" class="related-post-card">
+          <div class="related-post-img" data-image-fit="cover" style="background-image: url('../images/researched/batch-02/DM_HW_01_hero.jpg');">
+            <span class="related-post-badge" style="background: #E0F2FE; color: #0284C7;">
+              🌿 Health & Wellness
+            </span>
+          </div>
+          <div class="related-post-info">
+            <h4 class="related-post-title">Physiological sighing: evidence and comfortable practice</h4>
+            <p class="related-post-desc">A remote trial compared brief daily breathing practices with meditation and reported mood ...</p>
+            <div class="related-post-meta">
+              <span>⏱ 5 min</span>
+              <span>•</span>
+              <span>Discover more</span>
+            </div>
+          </div>
+        </a>
+
+      </div>
+    </section>
+
+    <div class="return-hub-cta">
+      <a href="../index.html?lang=en" class="btn-return-hub">← Back to Knowledge Hub & Search</a>
+      <button onclick="window.scrollTo({top: 0, behavior: 'smooth'})" class="btn-scroll-top">↑ Back to Top</button>
+    </div>
+  </main>
+
+  <footer class="site-footer">
+    <div class="footer-container">
+      <p>© 2026 Pulse & Vitality Performance Engine • Evidence-Based Wearable Health Hub (EN / VI)</p>
+    </div>
+  </footer>
+
+  <script>
+    if (window.mermaid) {
+      mermaid.initialize({
+        startOnLoad: false,
+        theme: 'neutral',
+        fontFamily: 'Plus Jakarta Sans, sans-serif',
+        securityLevel: 'loose',
+        flowchart: {
+          useMaxWidth: true,
+          htmlLabels: true,
+          curve: 'basis'
+        }
+      });
+    }
+
+    async function renderActiveMermaid() {
+      if (window.mermaid) {
+        try {
+          const activeContainer = document.querySelector('.article-page-container:not(.hidden)');
+          if (activeContainer) {
+            const nodes = activeContainer.querySelectorAll('.mermaid:not([data-processed="true"])');
+            if (nodes.length > 0) {
+              await mermaid.run({ nodes: nodes });
+            }
+          }
+        } catch (err) {
+          console.warn('Mermaid render warning:', err);
+        }
+      }
+    }
+
+    function switchPostLang(lang) {
+      localStorage.setItem('pv_lang', lang);
+      const viContainer = document.getElementById('post-container-vi');
+      const enContainer = document.getElementById('post-container-en');
+      const btnVi = document.getElementById('post-lang-vi');
+      const btnEn = document.getElementById('post-lang-en');
+      const brandSub = document.getElementById('post-brand-subtitle');
+      const backBtn = document.getElementById('post-back-btn');
+
+      if (lang === 'en') {
+        viContainer.classList.add('hidden');
+        enContainer.classList.remove('hidden');
+        btnVi.classList.remove('active');
+        btnEn.classList.add('active');
+        brandSub.textContent = 'Health & Human Performance Knowledge Hub';
+        backBtn.textContent = '← Back to All Articles';
+        backBtn.href = '../index.html?lang=en';
+        document.documentElement.lang = 'en';
+      } else {
+        enContainer.classList.add('hidden');
+        viContainer.classList.remove('hidden');
+        btnEn.classList.remove('active');
+        btnVi.classList.add('active');
+        brandSub.textContent = 'Cẩm Nang Khoa Học Sức Khỏe & Thiết Bị Đeo';
+        backBtn.textContent = '← Quay lại Danh sách';
+        backBtn.href = '../index.html?lang=vi';
+        document.documentElement.lang = 'vi';
+      }
+      setTimeout(renderActiveMermaid, 50);
+    }
+
+    (function initLang() {
+      const params = new URLSearchParams(window.location.search);
+      const qLang = params.get('lang');
+      const saved = qLang || localStorage.getItem('pv_lang') || 'vi';
+      switchPostLang(saved === 'en' ? 'en' : 'vi');
+      setTimeout(renderActiveMermaid, 100);
+    })();
+
+    window.addEventListener('scroll', () => {
+      const winScroll = document.body.scrollTop || document.documentElement.scrollTop;
+      const height = document.documentElement.scrollHeight - document.documentElement.clientHeight;
+      const bar = document.getElementById('reading-progress');
+      if (height > 0 && bar) {
+        bar.style.width = ((winScroll / height) * 100) + '%';
+      }
+    });
+  </script>
+</body>
+</html>

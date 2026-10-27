@@ -22,10 +22,11 @@ class Links(HTMLParser):
         if tag=='img':self.images.append(dict(attrs))
 
 def main():
-    articles=json.loads((BASE/'articles.json').read_text())
+    all_articles=json.loads((BASE/'articles.json').read_text())
+    articles=[a for a in all_articles if not a['id'].startswith('WHOOP-ART-')]
     assert len(articles)==len({a['id'] for a in articles})==83
     js=(BASE/'articles_data.js').read_text().strip()
-    assert json.loads(js.removeprefix('const articles = ').removesuffix(';'))==articles
+    assert json.loads(js.removeprefix('const articles = ').removesuffix(';'))==all_articles
     registry=json.loads((BASE/'data/references.json').read_text())
     sources={s['id']:s for s in registry}
     with (BASE/'data/editorial_sources.tsv').open(newline='') as f:
