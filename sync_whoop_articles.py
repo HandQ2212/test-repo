@@ -22,10 +22,96 @@ PREFIX = 'WHOOP-ART-'
 # Reuse reviewed, licensed assets by their actual visible subject. No WHOOP
 # marketing images or screenshots are copied. Each reused image retains its credit.
 HERO = {
-    1: ('DM_AC_02','hero'), 3: ('DM_RC_02','hero'), 6: ('MW_NUT_01','hero'),
-    9: ('LM_RC_01','inline'), 13: ('LM_SL_02','hero'), 18: ('MW_NUT_07','hero'),
-    19: ('MW_NUT_03','hero'), 23: ('DM_HW_01','hero'), 26: ('DM_WH_01','hero'),
-    27: ('LM_HW_02','hero'), 29: ('MW_SXH_02','hero'),
+    1: ('DM_AC_02', 'hero'),
+    2: ('LM_AC_01', 'inline'),
+    3: ('DM_RC_02', 'hero'),
+    4: ('DM_AC_01', 'hero'),
+    5: ('DM_AC_01', 'inline'),
+    6: ('MW_NUT_01', 'hero'),
+    7: ('DM_AC_02', 'inline'),
+    8: ('DM_RC_02', 'inline'),
+    9: ('LM_RC_01', 'inline'),
+    10: ('DM_HW_01', 'inline'),
+    11: ('DM_RC_01', 'inline'),
+    12: ('MW_SXH_08', 'hero'),
+    13: ('LM_SL_02', 'hero'),
+    14: ('DM_SL_02', 'inline'),
+    15: ('DM_SL_02', 'hero'),
+    16: ('LM_SL_02', 'inline'),
+    17: ('WH_30', 'inline'),
+    18: ('MW_NUT_07', 'hero'),
+    19: ('MW_NUT_03', 'hero'),
+    20: ('LM_SL_01', 'hero'),
+    21: ('MW_REL_08', 'hero'),
+    22: ('MW_SXO_01', 'hero'),
+    23: ('DM_HW_01', 'hero'),
+    24: ('DM_SL_01', 'hero'),
+    25: ('WH_16', 'hero'),
+    26: ('DM_WH_01', 'hero'),
+    27: ('LM_HW_02', 'hero'),
+    28: ('LM_RC_01', 'hero'),
+    29: ('MW_SXH_02', 'hero'),
+}
+
+HERO_CAPTIONS = {
+    1: ('Một khoảng nghỉ giữa các hoạt động tập luyện; phân bố tải bao gồm cả lúc vận động và lúc nghỉ.',
+        'A break between exercise activities; planning load includes movement and rest.'),
+    2: ('Đi bộ nhanh ngoài trời; một hình thức vận động cơ bản để tích lũy số bước chân hàng ngày.',
+        'Brisk walking outdoors; a fundamental activity for accumulating daily steps.'),
+    3: ('Hai người đi bộ trên lối đi trong công viên; tạo thói quen đi bộ duy trì đều đặn mỗi ngày.',
+        'Two people walking in a park; building a sustainable daily walking habit.'),
+    4: ('Chạy cùng người đồng hành tạo cơ hội kiểm tra khả năng trò chuyện và duy trì đúng vùng nhịp tim.',
+        'Running with a partner enables the talk test to help maintain target heart rate zones.'),
+    5: ('Dây đeo ngực Polar H10 thu tín hiệu điện tim phục vụ đo nhịp tim chính xác khi kiểm tra gắng sức.',
+        'Polar H10 chest strap recording cardiac signals for accurate heart rate measurement during exercise.'),
+    6: ('Bữa ăn gồm thịt gà, khoai tây và rau; ảnh minh họa, không cung cấp số calo của khẩu phần.',
+        'A meal with chicken, potatoes and vegetables; the image does not establish its calorie content.'),
+    7: ('Bữa ăn cân bằng kết hợp với vận động giúp điều hòa năng lượng nạp vào và tiêu hao trong ngày.',
+        'A balanced meal alongside physical activity helps regulate daily energy intake and expenditure.'),
+    8: ('Đạp xe nhẹ nhàng hoặc vận động nhẹ giúp cơ thể phục hồi chủ động sau các ngày tập nặng.',
+        'Gentle cycling or active recovery helps stimulate blood flow after intense training days.'),
+    9: ('Khoảng R–R nằm giữa hai đỉnh R liên tiếp trên sơ đồ ECG, cơ sở tính toán biến thiên nhịp tim (HRV).',
+        'R-R interval between consecutive R-peaks on an ECG waveform, the basis for calculating HRV.'),
+    10: ('Sơ đồ giải phẫu phế nang và mao mạch phổi, nơi diễn ra quá trình trao đổi khí trong từng nhịp thở.',
+         'Anatomical diagram of pulmonary alveoli and capillaries where gas exchange occurs during breathing.'),
+    11: ('Chuyển động của cơ hoành và khoang ngực giữa thì hít vào và thở ra khi đếm nhịp thở khi nghỉ.',
+         'Movement of the diaphragm and thoracic cage between inhalation and exhalation when counting resting breaths.'),
+    12: ('Ảnh minh họa buổi trao đổi và thăm khám với bác sĩ khi nhận thấy nhịp thở tăng hoặc có triệu chứng bất thường.',
+         'Medical consultation illustrating when an elevated breathing rate or unusual symptoms warrant clinical evaluation.'),
+    13: ('Người mẫu đeo thiết bị ghi nhận dữ liệu giấc ngủ ở tư thế nằm nghiêng thoải mái.',
+         'Model wearing a sleep recording device in a comfortable side-sleeping position.'),
+    14: ('Mẫu nhật ký giấc ngủ theo dõi khung giờ đi ngủ và thức giấc để đánh giá tính nhất quán của lịch ngủ.',
+         'Sleep diary template for tracking bedtime and wake time to evaluate sleep schedule consistency.'),
+    15: ('Nằm nghỉ ngơi trên giường để cơ thể hồi phục sau những ngày tích lũy nợ ngủ.',
+         'Resting in bed to allow the body to recover from accumulated sleep loss.'),
+    16: ('Hypnogram minh họa các chu kỳ chuyển đổi giữa thức, giai đoạn REM và giấc ngủ sâu (NREM 3 / SWS).',
+         'Hypnogram illustrating sleep stage cycles between wakefulness, REM and deep slow-wave sleep (NREM 3).'),
+    17: ('Tập luyện kháng lực giúp bảo tồn khối nạc và sức mạnh cơ bắp bên cạnh việc theo dõi tỷ lệ mỡ cơ thể.',
+         'Resistance training helps preserve lean mass and muscle strength alongside body fat monitoring.'),
+    18: ('Các phần ăn được chuẩn bị sẵn: một ví dụ sắp xếp môi trường để bữa ăn thuận tiện hơn; không quy định khẩu phần cá nhân.',
+         'Prepared meals illustrate making food easier to access; the photo does not prescribe individual portions.'),
+    19: ('Nguồn thực phẩm giàu chất đạm, tinh bột và chất béo lành mạnh hỗ trợ phục hồi và phát triển cơ bắp.',
+         'Wholesome sources of protein, carbohydrates and healthy fats supporting recovery and muscle growth.'),
+    20: ('Cảm biến quang học ở mặt dưới thiết bị đeo theo dõi nhịp tim và HRV để ước tính đáp ứng sinh lý trong ngày.',
+         'Optical sensor beneath a wearable tracking heart rate and HRV to estimate daily physiological stress.'),
+    21: ('Nghỉ ngơi và tạo vùng đệm thư giãn trước giờ ngủ giúp giảm căng thẳng và cải thiện chất lượng giấc ngủ.',
+         'Relaxing and establishing an evening wind-down routine helps reduce stress and improve sleep quality.'),
+    22: ('Dành thời gian nghỉ ngơi yên tĩnh và đọc sách giúp nhận diện và giải tỏa các biểu hiện căng thẳng cơ thể.',
+         'Taking quiet rest time and reading helps recognize and relieve somatic stress symptoms.'),
+    23: ('Tư thế ngồi yên và thoải mái khi dành thời gian thực hành kỹ thuật thở điều hòa hệ thần kinh.',
+         'Sitting comfortably while practicing structured breathing techniques to regulate the nervous system.'),
+    24: ('Bản ghi đa ký giấc ngủ tiêu chuẩn trong phòng kiểm tra chuyên khoa giúp phân tích nhu cầu và sự gián đoạn giấc ngủ.',
+         'Standard polysomnography sleep recording in a clinical laboratory analyzing sleep need and disruptions.'),
+    25: ('Cảm biến quang học chiếu sáng ở mặt dưới đồng hồ đo lường SpO₂, nhiệt độ da và các chỉ số sinh tồn đêm.',
+         'Illuminated optical sensor on a smartwatch measuring SpO2, skin temperature and overnight vitals.'),
+    26: ('Một người tập với tạ tay; minh họa tải cơ học và bài tập sức mạnh toàn thân.',
+         'A person exercising with dumbbells; illustrating muscular load and resistance training.'),
+    27: ('Mặt nạ thu khí thở và hệ thống COSMED trong bố trí đo lường VO2 max và năng lực tim mạch.',
+         'Breathing mask and COSMED metabolic cart measuring VO2 max and cardiorespiratory fitness.'),
+    28: ('Thiết bị đo tín hiệu điện tim gắn đai ngực cung cấp bản ghi điện tim chính xác phục vụ theo dõi nhịp.',
+         'Chest-worn cardiac sensor providing precise electrical recordings for heart rhythm monitoring.'),
+    29: ('Đo huyết áp với vòng bít trong một buổi chăm sóc sức khỏe; ảnh minh họa phương pháp đo vật lý tiêu chuẩn.',
+         'Blood pressure measurement with an upper-arm cuff during health care; illustrating the standard physical measurement.'),
 }
 
 TAKEAWAYS = [
@@ -114,21 +200,9 @@ def import_research(research):
             hero=deepcopy(next(x for x in legacy[source_art]['image_attributions'] if x['role']==role))
             hero.update(article_id=aid,role='hero')
         # Captions are factual descriptions of the same, unmodified source asset.
-        if n==1:
-            hero.update(caption_vi='Một khoảng nghỉ giữa các hoạt động tập luyện; phân bố tải bao gồm cả lúc vận động và lúc nghỉ.',
-                        caption_en='A break between exercise activities; planning load includes movement and rest.')
-        elif n==6:
-            hero.update(caption_vi='Bữa ăn gồm thịt gà, khoai tây và rau; ảnh minh họa, không cung cấp số calo của khẩu phần.',
-                        caption_en='A meal with chicken, potatoes and vegetables; the image does not establish its calorie content.')
-        elif n==18:
-            hero.update(caption_vi='Các phần ăn được chuẩn bị sẵn: một ví dụ sắp xếp môi trường để bữa ăn thuận tiện hơn; không quy định khẩu phần cá nhân.',
-                        caption_en='Prepared meals illustrate making food easier to access; the photo does not prescribe individual portions.')
-        elif n==26:
-            hero.update(caption_vi='Một người tập với tạ tay; ảnh không xác định mức tải cơ hoặc kỹ thuật phù hợp cho từng người.',
-                        caption_en='A person exercising with dumbbells; the image does not establish muscular load or individualized technique.')
-        elif n==29:
-            hero.update(caption_vi='Đo huyết áp với vòng bít trong một buổi chăm sóc sức khỏe; ảnh minh họa phương pháp đo, không phải một ước tính từ app.',
-                        caption_en='Blood pressure measurement with a cuff during health care; not an app-derived estimate.')
+        if hero and n in HERO_CAPTIONS:
+            cap_vi, cap_en = HERO_CAPTIONS[n]
+            hero.update(caption_vi=cap_vi, caption_en=cap_en)
         if hero:
             for lang in ['vi','en']:
                 hero['alt_'+lang]=hero['caption_'+lang]
