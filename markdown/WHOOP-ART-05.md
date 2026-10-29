@@ -71,4 +71,4 @@ Vùng nhịp tim giúp chọn cường độ, nhưng cảm giác và triệu ch�
 - **S48** —  [Cách đeo và những yếu tố ảnh hưởng chất lượng tín hiệu](https://support.whoop.com/s/article/What-Affects-WHOOP-Accuracy?language=en_US). Phạm vi tài liệu: Độ vừa dây, vị trí đeo và nhiễu đo ảnh hưởng dữ liệu.
 - **S59** —  [AHA: nhịp tim nghỉ, tối đa và nhịp tim khi tập](https://www.heart.org/en/healthy-living/fitness/fitness-basics/target-heart-rates). Phạm vi tài liệu: Nhịp tim nghỉ, HRmax theo tuổi là hướng dẫn trung bình; thuốc và bệnh tim ảnh hưởng mục tiêu nhịp tim.
 
-> Bài biên soạn độc lập bởi Pulse & Vitality. Nội dung chỉnh ngày 27/10/2026; nguồn đối chiếu 2026-10-26. Liên kết được đặt tên theo chủ đề; tên tài liệu gốc và đơn vị phát hành có trên trang nguồn.
+> Bài biên soạn độc lập bởi Pulse & Vitality. Nội dung chỉnh ngày 29/10/2026; nguồn đối chiếu 2026-10-26. Liên kết được đặt tên theo chủ đề; tên tài liệu gốc và đơn vị phát hành có trên trang nguồn.

@@ -6,7 +6,7 @@ Overnight resting heart rate: baseline and symptoms
 
 ---
 
-Trước đây, việc kiểm tra **Nhịp tim nghỉ (Resting Heart Rate - RHR)** đồng nghĩa với việc ngồi yên tại bàn làm việc hoặc phòng khám và đếm mạch đập trong 60 giây. Ngày nay, các thiết bị đeo tiên tiến như **Oura Ring**, **WHOOP**, **Garmin**, và **Fitbit** đo **Nhịp tim nghỉ ban đêm (Nocturnal / Overnight RHR)** khi bạn đang chìm sâu vào giấc ngủ.
+Nhịp tim nghỉ có thể được ghi khi bạn ngồi yên hoặc được thiết bị ước tính từ dữ liệu trong lúc ngủ. Mỗi hãng sử dụng khoảng thời gian và phương pháp riêng; kết quả ban đêm không nhất thiết chỉ được lấy từ giấc ngủ sâu.
 
 Nhịp tim thường thấp hơn khi ngủ, nhưng cách tính nhịp tim nghỉ khác nhau giữa các hãng. Nhiệt độ, thuốc, bệnh, rượu và vận động đều có thể ảnh hưởng. Một đường nhịp tim không đủ để xác định cơ thể đang tiêu hóa hay đã phục hồi xong.
 

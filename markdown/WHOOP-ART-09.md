@@ -67,4 +67,4 @@ Bạn không cần nâng HRV mỗi ngày hoặc thay lịch sống chỉ để �
 - **S69** —  [Apple: chỉ số HRV theo SDNN trong dữ liệu sức khỏe](https://developer.apple.com/documentation/healthkit/hkquantitytypeidentifier/heartratevariabilitysdnn). Phạm vi tài liệu: Loại dữ liệu HRV trong HealthKit dùng SDNN, đơn vị thời gian; không gọi dữ liệu này là RMSSD.
 - **S61** — Kellmann M, Bertollo M, Bosquet L, et al. Int J Sports Physiol Perform. 2018;13(2):240–245. [Đồng thuận chuyên môn về hồi phục và hiệu suất thể thao](https://pubmed.ncbi.nlm.nih.gov/29345524/). PMID 29345524. DOI 10.1123/ijspp.2017-0759. Phạm vi tài liệu: Cân bằng tải tập, áp lực khác và hồi phục; biến thiên phản ứng giữa người và trong cùng người.
 
-> Bài biên soạn độc lập bởi Pulse & Vitality. Nội dung chỉnh ngày 27/10/2026; nguồn đối chiếu 2026-10-26. Liên kết được đặt tên theo chủ đề; tên tài liệu gốc và đơn vị phát hành có trên trang nguồn.
+> Bài biên soạn độc lập bởi Pulse & Vitality. Nội dung chỉnh ngày 29/10/2026; nguồn đối chiếu 2026-10-26. Liên kết được đặt tên theo chủ đề; tên tài liệu gốc và đơn vị phát hành có trên trang nguồn.

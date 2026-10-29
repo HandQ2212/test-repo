@@ -77,4 +77,4 @@ Ngáy kèm ngưng thở được chứng kiến, buồn ngủ ảnh hưởng an 
 - **S20** —  [NINDS: kiến thức về giấc ngủ và các giai đoạn ngủ](https://www.nhlbi.nih.gov/health/sleep/stages-of-sleep). Phạm vi tài liệu: NREM gồm N1, N2, N3; REM; N1 là ngủ, không phải thức.
 - **S47** —  [NHLBI: điều trị mất ngủ và CBT-I](https://www.nhlbi.nih.gov/health/insomnia/treatment). Phạm vi tài liệu: Vệ sinh giấc ngủ, kiểm soát kích thích; CBT-I là lựa chọn đầu tay thường dùng cho mất ngủ kéo dài.
 
-> Bài biên soạn độc lập bởi Pulse & Vitality. Nội dung chỉnh ngày 27/10/2026; nguồn đối chiếu 2026-10-26. Liên kết được đặt tên theo chủ đề; tên tài liệu gốc và đơn vị phát hành có trên trang nguồn.
+> Bài biên soạn độc lập bởi Pulse & Vitality. Nội dung chỉnh ngày 29/10/2026; nguồn đối chiếu 2026-10-26. Liên kết được đặt tên theo chủ đề; tên tài liệu gốc và đơn vị phát hành có trên trang nguồn.

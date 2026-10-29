@@ -113,7 +113,12 @@ def build(sources,catalog):
         for lang in ['vi','en']:
             parts=[]
             if aid in original_hooks:
-                parts.append(first_paragraph(original['content_vi' if lang=='vi' else 'content']))
+                hook=first_paragraph(original['content_vi' if lang=='vi' else 'content'])
+                if lang=='vi' and aid=='LM_RC_01':
+                    hook='Nếu nhịp tim nghỉ là 60 nhịp/phút, khoảng thời gian trung bình giữa hai nhịp là một giây, hay 1.000 mili giây. Các khoảng này không nhất thiết bằng nhau; sự thay đổi giữa chúng là cơ sở để hiểu HRV.'
+                elif lang=='vi' and aid=='LM_RC_02':
+                    hook='Nhịp tim nghỉ có thể được ghi khi bạn ngồi yên hoặc được thiết bị ước tính từ dữ liệu trong lúc ngủ. Mỗi hãng sử dụng khoảng thời gian và phương pháp riêng; kết quả ban đêm không nhất thiết chỉ được lấy từ giấc ngủ sâu.'
+                parts.append(hook)
             parts.append(row['facts_'+lang])
             parts.append(('**Tình huống minh họa:** ' if lang=='vi' else '**Illustrative situation:** ')+case['case_'+lang])
             for mid in mids:

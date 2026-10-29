@@ -71,4 +71,4 @@ Khi hiện dễ chịu và chỉ có một số khác thường, làm rõ bản 
 - **S18** —  [MedlinePlus: thở nhanh và nông](https://medlineplus.gov/ency/article/007198.htm). Phạm vi tài liệu: Nhịp thở nghỉ người lớn 12–20 lần/phút; nguyên nhân và dấu hiệu cần cấp cứu.
 - **S70** —  [NHLBI: phổi, trao đổi khí và điều hòa hô hấp](https://www.nhlbi.nih.gov/health/lungs). Phạm vi tài liệu: Trao đổi oxy vàCO2; não điều hòa thở; cấu trúc phổi và hệ hô hấp.
 
-> Bài biên soạn độc lập bởi Pulse & Vitality. Nội dung chỉnh ngày 27/10/2026; nguồn đối chiếu 2026-10-26. Liên kết được đặt tên theo chủ đề; tên tài liệu gốc và đơn vị phát hành có trên trang nguồn.
+> Bài biên soạn độc lập bởi Pulse & Vitality. Nội dung chỉnh ngày 29/10/2026; nguồn đối chiếu 2026-10-26. Liên kết được đặt tên theo chủ đề; tên tài liệu gốc và đơn vị phát hành có trên trang nguồn.

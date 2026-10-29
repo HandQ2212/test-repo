@@ -80,4 +80,4 @@ Khi đọc &lt;Tên App/&gt;, kết hợp ba phần: tổng thời gian ngủ, s
 - **S75** — Schutte-Rodin S, Deak MC, Khosla S, et al. J Clin Sleep Med. 2021. [AASM: đánh giá công nghệ theo dõi giấc ngủ](https://pubmed.ncbi.nlm.nih.gov/34314344/). PMID 34314344. Phạm vi tài liệu: Phân biệt công nghệ ngủ tiêu dùng và đánh giá lâm sàng; xác thực từng kết quả, giới hạn suy đoán ngủ/thức/giai đoạn.
 - **S74** —  [NHLBI: thói quen hỗ trợ ngủ và lịch làm ca](https://www.nhlbi.nih.gov/health/sleep-deprivation/healthy-sleep-habits). Phạm vi tài liệu: Lịch ngủ đều, cơ hội ngủ, môi trường và caffeine; hỗ trợ người làmca.
 
-> Bài biên soạn độc lập bởi Pulse & Vitality. Nội dung chỉnh ngày 27/10/2026; nguồn đối chiếu 2026-10-26. Liên kết được đặt tên theo chủ đề; tên tài liệu gốc và đơn vị phát hành có trên trang nguồn.
+> Bài biên soạn độc lập bởi Pulse & Vitality. Nội dung chỉnh ngày 29/10/2026; nguồn đối chiếu 2026-10-26. Liên kết được đặt tên theo chủ đề; tên tài liệu gốc và đơn vị phát hành có trên trang nguồn.

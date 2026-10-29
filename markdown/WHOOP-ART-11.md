@@ -69,4 +69,4 @@ Nhịp thở nhanh mới xuất hiện, kéo dài khi nghỉ hoặc khó thở �
 - **S16** —  [MedlinePlus: các dấu hiệu sinh tồn](https://medlineplus.gov/ency/article/002341.htm). Phạm vi tài liệu: Dấu hiệu sinh tồn phụ thuộc tuổi và bối cảnh; trang này nêu 12–18 lần/phút ở người lớn nghỉ.
 - **S18** —  [MedlinePlus: thở nhanh và nông](https://medlineplus.gov/ency/article/007198.htm). Phạm vi tài liệu: Nhịp thở nghỉ người lớn 12–20 lần/phút; nguyên nhân và dấu hiệu cần cấp cứu.
 
-> Bài biên soạn độc lập bởi Pulse & Vitality. Nội dung chỉnh ngày 27/10/2026; nguồn đối chiếu 2026-10-26. Liên kết được đặt tên theo chủ đề; tên tài liệu gốc và đơn vị phát hành có trên trang nguồn.
+> Bài biên soạn độc lập bởi Pulse & Vitality. Nội dung chỉnh ngày 29/10/2026; nguồn đối chiếu 2026-10-26. Liên kết được đặt tên theo chủ đề; tên tài liệu gốc và đơn vị phát hành có trên trang nguồn.

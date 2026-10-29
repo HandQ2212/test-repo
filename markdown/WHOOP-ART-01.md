@@ -70,4 +70,4 @@ Tiến bộ bền vững thường cần cả kích thích tập luyện và cơ
 - **S02** —  [Phân biệt tải trong ngày và tải từng hoạt động](https://developer.whoop.com/docs/whoop-101/). Phạm vi tài liệu: Định nghĩa Sleep, Recovery, Strain và tính phi tuyến của Strain.
 - **S04** —  [Khuyến nghị vận động thể lực của WHO](https://www.who.int/initiatives/behealthy/physical-activity/). Phạm vi tài liệu: Vận động tốt hơn không vận động; tập cơ lớn ít nhất 2 ngày/tuần; hoạt động aerobic.
 
-> Bài biên soạn độc lập bởi Pulse & Vitality. Nội dung chỉnh ngày 27/10/2026; nguồn đối chiếu 2026-10-26. Liên kết được đặt tên theo chủ đề; tên tài liệu gốc và đơn vị phát hành có trên trang nguồn.
+> Bài biên soạn độc lập bởi Pulse & Vitality. Nội dung chỉnh ngày 29/10/2026; nguồn đối chiếu 2026-10-26. Liên kết được đặt tên theo chủ đề; tên tài liệu gốc và đơn vị phát hành có trên trang nguồn.

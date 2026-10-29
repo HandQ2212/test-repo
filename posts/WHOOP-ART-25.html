@@ -3,7 +3,7 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Health Monitor: đọc SpO₂, nhiệt độ da và khoảng cá nhân | Interpreting Health Monitor trends</title>
+  <title>Đọc nhịp tim, HRV, SpO₂ và nhiệt độ da đúng bối cảnh | Understanding heart rate, HRV, oxygen and skin temperature</title>
   <link rel="stylesheet" href="../styles.css?v=figure-load-1">
   <script src="../article_figures.js?v=figure-load-1"></script>
   <link rel="preconnect" href="https://fonts.googleapis.com">
@@ -57,15 +57,15 @@
         </span>
         <span class="badge badge-sub">Phục hồi và stress</span>
         <span class="badge badge-type">Learn more</span>
-        <span class="article-read-time">⏱ 7–8 phút</span>
+        <span class="article-read-time">⏱ 4–5 phút</span>
       </div>
 
-      <h1 class="article-main-title">Health Monitor: đọc SpO₂, nhiệt độ da và khoảng cá nhân</h1>
-      <p class="article-sapo-lead">Hiểu khoảng nền cá nhân 30 ngày, cơ chế đo SpO₂ và nhiệt độ da qua đêm, cách nhận diện cụm báo động ủ bệnh và giới hạn y khoa.</p>
+      <h1 class="article-main-title">Đọc nhịp tim, HRV, SpO₂ và nhiệt độ da đúng bối cảnh</h1>
+      <p class="article-sapo-lead">Tìm hiểu nguồn đo, khoảng cá nhân và giới hạn khi diễn giải các chỉ số sức khỏe.</p>
 
       <figure class="article-featured-hero">
-        <img src="../images/researched/batch-03/WH_16_hero.jpg" alt="Cảm biến quang học chiếu sáng ở mặt dưới đồng hồ đo lường SpO₂, nhiệt độ da và các chỉ số sinh tồn đêm." style="object-fit: contain">
-        <figcaption>Cảm biến quang học chiếu sáng ở mặt dưới đồng hồ đo lường SpO₂, nhiệt độ da và các chỉ số sinh tồn đêm. • <a href="https://commons.wikimedia.org/wiki/File:Garmin_Forerunner_35_sensor.jpg" target="_blank" rel="noopener noreferrer" class="img-source-badge">Nguồn ảnh ↗</a><span class="image-attribution"><a href="https://commons.wikimedia.org/wiki/File:Garmin_Forerunner_35_sensor.jpg" target="_blank" rel="noopener noreferrer">Tiia Monto</a> · <a href="https://creativecommons.org/licenses/by-sa/4.0" target="_blank" rel="noopener noreferrer">CC BY-SA 4.0</a> · Giữ nguyên nội dung file ảnh gốc.</span></figcaption>
+        <img src="../images/researched/batch-03/WH_16_hero.jpg" alt="Cảm biến quang học phát sáng ở mặt dưới một đồng hồ." style="object-fit: contain">
+        <figcaption>Cảm biến quang học phát sáng ở mặt dưới một đồng hồ. • <a href="https://commons.wikimedia.org/wiki/File:Garmin_Forerunner_35_sensor.jpg" target="_blank" rel="noopener noreferrer" class="img-source-badge">Nguồn ảnh ↗</a><span class="image-attribution"><a href="https://commons.wikimedia.org/wiki/File:Garmin_Forerunner_35_sensor.jpg" target="_blank" rel="noopener noreferrer">Tiia Monto</a> · <a href="https://creativecommons.org/licenses/by-sa/4.0" target="_blank" rel="noopener noreferrer">CC BY-SA 4.0</a> · Giữ nguyên nội dung file ảnh gốc.</span></figcaption>
       </figure>
 
       <div class="article-metadata-card">
@@ -73,7 +73,7 @@
         <div class="meta-content">
           <div class="meta-author">Pulse & Vitality • Nội dung giáo dục sức khỏe</div>
           <div class="meta-details">
-            <span>Nguồn tham khảo chính: <a href="https://support.whoop.com/s/article/WHOOP-Health-Monitor-Report" target="_blank" rel="noopener noreferrer" style="color: inherit; text-decoration: underline; font-weight: 700;">Bảng theo dõi sức khỏe và báo cáo của hệ thống tham khảo ↗</a></span>
+            <span>Nguồn tham khảo chính: <a href="https://www.heart.org/en/healthy-living/fitness/fitness-basics/target-heart-rates" target="_blank" rel="noopener noreferrer" style="color: inherit; text-decoration: underline; font-weight: 700;">AHA: nhịp tim nghỉ, tối đa và nhịp tim khi tập ↗</a></span>
             <span class="meta-dot">•</span>
             <span>Cập nhật: <strong>2026-10-26</strong></span>
             <span class="meta-dot">•</span>
@@ -92,94 +92,30 @@
     </section>
 
     <article class="article-rich-body">
-      <p>Mỗi sáng thức dậy, mở bảng theo dõi sức khỏe (Health Monitor) trên &lt;Tên App/&gt;, bạn thường nhìn thấy một bảng tổng hợp các chỉ số với những chấm màu xanh lục, vàng hoặc cam. Một buổi sáng thấy tất cả đều xanh mang lại cảm giác an tâm; ngược lại, chỉ cần một chỉ số lệch khỏi vùng xanh cũng có thể khiến bạn lo lắng: <em>"Liệu mình có đang bị bệnh gì không?"</em></p>
-<p>Để sử dụng bảng theo dõi này như một người tiêu dùng thông thái, bạn cần hiểu rõ bản chất của từng chỉ số, khái niệm về <strong>khoảng nền cá nhân</strong>, và quan trọng nhất: <strong>cách kết hợp các tín hiệu lại với nhau thay vì chỉ phản ứng thái quá với một màu sắc hiển thị</strong>. <a href="https://support.whoop.com/s/article/WHOOP-Health-Monitor-Report">S38</a> <a href="https://medlineplus.gov/ency/article/002341.htm">S16</a></p>
-<h2>Khái niệm cốt lõi: Khoảng nền cá nhân (Personal Baseline)</h2>
-<p>Khác với các xét nghiệm y tế tổng quát thường sử dụng khoảng tham chiếu chung cho toàn bộ dân số, bảng theo dõi sức khỏe của thiết bị đeo vận hành dựa trên <strong>khoảng nền cá nhân được xây dựng từ dữ liệu của chính bạn qua 14 đến 30 đêm ngủ gần nhất</strong>:</p>
-<ul>
-<li><strong>Màu xanh (Trong khoảng bình thường):</strong> Giá trị đêm qua nằm trong khoảng dao động thống kê quen thuộc của cơ thể bạn (thường nằm trong khoảng ±1,5 độ lệch chuẩn quanh giá trị trung bình tháng).</li>
-<li><strong>Màu vàng / Cam (Lệch khỏi khoảng nền):</strong> Giá trị đêm qua tăng cao hoặc tụt thấp hơn đáng kể so với mức bình thường của chính bạn.</li>
-</ul>
-<p>Một người có nhịp tim nghỉ bình thường là 50 lần/phút khi tăng lên 62 lần/phút sẽ bị cảnh báo màu vàng, trong khi người khác có mức nền 65 lần/phút thì con số 62 lại là màu xanh hoàn hảo. Điểm mạnh của thiết bị đeo là phát hiện sự thay đổi so với chính bạn, không phải so sánh bạn với bất kỳ ai khác. <a href="https://support.whoop.com/s/article/WHOOP-Health-Monitor-Report">S38</a></p>
-<h2>Năm chỉ số sinh tồn đêm được đo lường như thế nào?</h2>
-<p>Bảng theo dõi sức khỏe qua đêm thường tập trung vào năm thước đo sinh lý quan trọng: <a href="https://support.whoop.com/s/article/WHOOP-Health-Monitor-Report">S38</a> <a href="https://medlineplus.gov/ency/article/002341.htm">S16</a></p>
-<table>
-<thead>
-<tr>
-<th>Chỉ số</th>
-<th>Cách đo lường qua đêm</th>
-<th>Khoảng sinh lý thông thường</th>
-<th>Ý nghĩa sinh học</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td><strong>RHR (Nhịp tim nghỉ)</strong></td>
-<td>Trung bình nhịp tim trong các đoạn ngủ sâu</td>
-<td>40–80 lần/phút tùy thể lực</td>
-<td>Khả năng hồi phục của tim; tăng khi mệt mỏi, sốt hoặc quá tải</td>
-</tr>
-<tr>
-<td><strong>HRV (Biến thiên nhịp tim)</strong></td>
-<td>Độ lệch chuẩn hoặc căn bậc hai khoảng R–R (RMSSD/SDNN)</td>
-<td>Khác biệt lớn theo từng người (20–120+ ms)</td>
-<td>Mức độ cân bằng của hệ thần kinh tự chủ; tụt khi căng thẳng, ủ bệnh</td>
-</tr>
-<tr>
-<td><strong>Respiratory Rate (Nhịp thở)</strong></td>
-<td>Số lần hô hấp mỗi phút khi ngủ sâu</td>
-<td>12–20 lần/phút ở người lớn</td>
-<td>Ổn định nhất trong các chỉ số; tăng vọt là dấu hiệu báo động viêm đường hô hấp</td>
-</tr>
-<tr>
-<td><strong>SpO₂ (Bão hòa oxy máu)</strong></td>
-<td>Cảm biến quang học đo tỷ lệ hồng cầu gắn oxy</td>
-<td>95% – 100% ở người khỏe mạnh ngang mực nước biển</td>
-<td>Đánh giá hiệu quả trao đổi khí của phổi trong đêm</td>
-</tr>
-<tr>
-<td><strong>Nhiệt độ bề mặt da</strong></td>
-<td>Đo bằng cảm biến nhiệt tiếp xúc da (hiển thị độ lệch so với nền, ví dụ: +0,4°C)</td>
-<td>Dao động ±0,5°C quanh mức nền</td>
-<td>Phản ánh tuần hoàn ngoại vi, chu kỳ nội tiết và phản ứng viêm/sốt</td>
-</tr>
-</tbody>
-</table>
-<h2>Hiểu đúng về SpO₂ đo ở cổ tay</h2>
-<p>Cảm biến đo SpO₂ trên vòng đeo tay hoạt động bằng cách chiếu hai bước sóng ánh sáng (đỏ và hồng ngoại) qua da xuống các mao mạch ở cổ tay, sau đó đo lượng ánh sáng bị hấp thụ để ước tính tỷ lệ hemoglobin chứa oxy. <a href="https://www.fda.gov/medical-devices/products-and-medical-procedures/pulse-oximeters">S39</a></p>
-<p>Tuy nhiên, cơ quan Quản lý Thực phẩm và Dược phẩm Hoa Kỳ (FDA) đã đưa ra nhiều hướng dẫn quan trọng về giới hạn của phép đo SpO₂ quang học ở người tiêu dùng: <a href="https://www.fda.gov/medical-devices/products-and-medical-procedures/pulse-oximeters">S39</a>
-- <strong>Tưới máu ngoại vi kém:</strong> Khi trời lạnh hoặc bạn nằm đè lên cánh tay làm giảm lưu lượng máu đến cổ tay, cảm biến có thể đọc kết quả SpO₂ thấp giả tạo (dưới 92%).
-- <strong>Cách đeo:</strong> Dây đeo lỏng lẻo làm ánh sáng môi trường lọt vào cảm biến sẽ gây nhiễu tín hiệu.
-- <strong>Sắc tố da và chuyển động:</strong> Lớp sắc tố melanin dày hơn hoặc cử động tay trong đêm có thể ảnh hưởng đến độ chính xác của thuật toán. <a href="https://support.whoop.com/s/article/What-Affects-WHOOP-Accuracy?language=en_US">S48</a></p>
-<p>Vì vậy, nếu thức dậy thấy SpO₂ báo 93% nhưng bạn hoàn toàn không khó thở, môi hồng hào, hãy kiểm tra lại cách đeo và đo lại khi cơ thể ấm áp, thay vì vội vã hoảng sợ.</p>
-<h2>Nhiệt độ da khác gì thân nhiệt trung tâm?</h2>
-<p>Cảm biến trên vòng đo <strong>nhiệt độ bề mặt da cổ tay</strong>, hoàn toàn không phải <strong>thân nhiệt trung tâm (Core Body Temperature)</strong> được đo bằng nhiệt kế kẹp nách hay ngậm miệng:</p>
-<ul>
-<li><strong>Nhiệt độ phòng ngủ và chăn gối:</strong> Đắp một tấm chăn dày hoặc phòng ngủ bật điều hòa quá lạnh có thể làm nhiệt độ da lệch 0,3°C – 0,5°C mà thân nhiệt trung tâm không hề đổi.</li>
-<li><strong>Rượu bia:</strong> Uống cồn gây giãn mạch máu dưới da, làm da nóng bừng và tăng nhiệt độ bề mặt trong nửa đầu đêm.</li>
-<li><strong>Chu kỳ kinh nguyệt ở nữ giới:</strong> Sau thời điểm rụng trứng (bước vào pha hoàng thể - Luteal phase), hormone progesterone tăng cao tự nhiên khiến nhiệt độ da ban đêm tăng ổn định từ 0,3°C đến 0,6°C trong khoảng hai tuần cho đến chu kỳ tiếp theo. Đây là hiện tượng sinh lý hoàn toàn lành mạnh. <a href="https://support.whoop.com/s/article/WHOOP-Health-Monitor-Report">S38</a></li>
-</ul>
-<h2>Nhận diện "Cụm báo động" khi cơ thể ủ bệnh</h2>
-<p>Giá trị thực sự của Health Monitor nằm ở <strong>sự phối hợp giữa các chỉ số</strong>. Một chỉ số đơn lẻ nhảy màu thường chỉ là nhiễu đo đạc. Nhưng khi bạn thấy xuất hiện một cụm biến động đồng thời sau một đêm:
-- <strong>Nhịp tim nghỉ (RHR) tăng vọt</strong> (+5 đến +10 nhịp so với nền).
-- <strong>HRV tụt dốc thảm hại</strong> (giảm 30–50% so với nền).
-- <strong>Nhịp thở (Respiratory Rate) tăng</strong> (+2 đến +3 lần/phút).
-- <strong>Nhiệt độ da tăng cao</strong> (+0,8°C đến +1,5°C so với nền).</p>
-<p>Đây là "dấu vân tay" sinh học điển hình của một phản ứng miễn dịch toàn thân — cơ thể bạn đang dồn năng lượng chống lại một đợt nhiễm trùng virus (như cúm, COVID-19) hoặc tình trạng viêm nhiễm cấp tính, thường xuất hiện trước khi bạn cảm thấy đau họng hay sổ mũi rõ rệt. <a href="https://support.whoop.com/s/article/WHOOP-Health-Monitor-Report">S38</a></p>
-<p>Khi thấy cụm báo động này, quyết định sáng suốt nhất là hủy bỏ buổi tập nặng dự kiến, uống nhiều nước, ăn nhẹ nhàng và dành trọn vẹn cả ngày để nghỉ ngơi tĩnh dưỡng.</p>
-<h2>Ranh giới an toàn y khoa</h2>
-<p>Bảng theo dõi sức khỏe là công cụ tầm soát xu hướng cá nhân, <strong>không phải thiết bị chẩn đoán y khoa cấp cứu</strong>:
-- <strong>Một bảng màu xanh không có nghĩa là bạn hoàn toàn an toàn:</strong> Nếu bạn cảm thấy đau thắt ngực, khó thở dữ dội, hoa mắt chóng mặt hoặc tê bì nửa người, hãy gọi cấp cứu hoặc đến bệnh viện ngay lập tức, bất kể mọi chỉ số trên màn hình đều hiển thị màu xanh hoàn hảo. <a href="https://medlineplus.gov/ency/article/002341.htm">S16</a>
-- <strong>Không tự ý thay đổi thuốc điều trị:</strong> Không bao giờ tự ý tăng giảm liều thuốc huyết áp, tim mạch hay tiểu đường chỉ dựa trên các dao động màu sắc của Health Monitor mà không có chỉ định từ bác sĩ điều trị của bạn. <a href="https://support.whoop.com/s/article/WHOOP-Health-Monitor-Report">S38</a></p>
+      <p>Một chỉ số khác thường trên màn hình có thể khiến bạn lo lắng. Cách đọc hữu ích nhất là hỏi: chỉ số này được đo bằng gì, vào lúc nào, có đáng tin trong hoàn cảnh đó không và tôi đang cảm thấy thế nào?</p>
+<h2>Khoảng cá nhân giúp quan sát thay đổi</h2>
+<p>Một số thiết bị hoặc ứng dụng tóm tắt những giá trị thường thấy của bạn trong một khoảng thời gian. Khoảng này phụ thuộc cách đo, số ngày dữ liệu và thuật toán. Một giá trị ngoài khoảng có thể là dấu hiệu để chú ý, nhưng không tự chứng minh bạn bị bệnh; giá trị trong khoảng cũng không bảo đảm bạn hoàn toàn khỏe mạnh.</p>
+<p>Nếu &lt;Tên App/&gt; nhận dữ liệu từ nhiều nguồn, hãy xem thời điểm và nguồn của từng kết quả. Thiếu dữ liệu không phải là kết quả bình thường. So sánh có ý nghĩa hơn khi dùng cùng phương pháp và điều kiện tương tự.</p>
+<h2>Nhịp tim và HRV</h2>
+<p><strong>Nhịp tim hiện tại</strong> phản ánh thời điểm đo, còn <strong>nhịp tim nghỉ</strong> là một chỉ số được xác định theo quy tắc của nguồn dữ liệu. Một số đo sau khi vừa leo cầu thang không tương đương nhịp tim nghỉ qua đêm. Sốt, thuốc, vận động, giấc ngủ và các yếu tố khác đều có thể ảnh hưởng nhịp tim.</p>
+<p><strong>HRV</strong> mô tả sự biến thiên giữa các khoảng nhịp tim liên tiếp. Có nhiều cách tính, chẳng hạn SDNN và RMSSD; không nên so trực tiếp các con số khác loại hoặc khác điều kiện đo. HRV không thể một mình xác định bệnh, mức stress hay việc bạn đã hồi phục hoàn toàn. <a href="https://www.heart.org/en/healthy-living/fitness/fitness-basics/target-heart-rates">S59</a></p>
+<h2>Nhịp thở và độ bão hòa oxy</h2>
+<p>Nhịp thở là số lần thở trong một phút. Thiết bị có thể ước tính từ tín hiệu trong lúc ngủ, khác với việc bạn tự đếm khi đang thức. Hãy xem thay đổi cùng tình trạng cơ thể, thay vì tự chẩn đoán từ một con số.</p>
+<p>SpO₂ là ước tính tỷ lệ oxy gắn với hemoglobin trong máu. Thiết bị quang học có giới hạn: tuần hoàn, nhiệt độ da, sắc tố da, chuyển động và cách đặt cảm biến có thể ảnh hưởng độ chính xác. Các thiết bị khác nhau không có cùng mục đích sử dụng hay mức kiểm định. Không dùng chỉ số tốt để bỏ qua tình trạng khó thở hoặc triệu chứng đáng lo. <a href="https://www.fda.gov/medical-devices/products-and-medical-procedures/pulse-oximeters">S39</a></p>
+<h2>Nhiệt độ da không phải thân nhiệt trung tâm</h2>
+<p>Một số thiết bị ghi nhiệt độ da hoặc độ lệch so với mức thường thấy. Nhiệt độ da chịu ảnh hưởng môi trường, vị trí và điều kiện đo; nó không tương đương số đo thân nhiệt bằng nhiệt kế phù hợp. Không thể xác định sốt, mang thai hoặc thời điểm rụng trứng chỉ từ một độ lệch nhiệt độ da. Nếu cần kiểm tra sốt, sử dụng phương pháp phù hợp và xem cùng triệu chứng.</p>
+<h2>Khi nhiều chỉ số thay đổi</h2>
+<p>Giả sử sau một đêm ngủ ít bạn thấy nhịp tim nghỉ cao hơn và cảm thấy mệt. Có nhiều lời giải thích có thể xảy ra, nên bạn có thể nghỉ ngơi, ghi nhận tình trạng và theo dõi thêm thay vì kết luận chắc chắn mình đang mắc bệnh. Nếu đang dùng thuốc hay có bệnh nền, hãy làm theo kế hoạch đã được nhân viên y tế hướng dẫn.</p>
+<p><strong>Khó thở nặng, đau ngực nghiêm trọng, ngất hoặc lú lẫn cần được xử trí khẩn cấp</strong>, ngay cả khi các số trên màn hình có vẻ bình thường. Với triệu chứng mới, kéo dài hoặc khiến bạn lo ngại, liên hệ nhân viên y tế để được đánh giá. <a href="https://www.nhs.uk/symptoms/shortness-of-breath/">S71</a> <a href="https://www.nhs.uk/conditions/heart-attack/">S81</a></p>
 <details class="article-references"><summary>Nguồn tham khảo và phạm vi hỗ trợ</summary>
 <ul>
-<li><strong>S38</strong> —  <a href="https://support.whoop.com/s/article/WHOOP-Health-Monitor-Report">Bảng theo dõi sức khỏe và báo cáo của hệ thống tham khảo</a>. Phạm vi tài liệu: Live HR và các chỉ số RHR/HRV/RR/SpO2/nhiệt độ da; Health Monitor thuộc Peak/Life; khoảng và màu cảnh báo không thay chẩn đoán.</li>
+<li><strong>S59</strong> —  <a href="https://www.heart.org/en/healthy-living/fitness/fitness-basics/target-heart-rates">AHA: nhịp tim nghỉ, tối đa và nhịp tim khi tập</a>. Phạm vi tài liệu: Nhịp tim nghỉ, HRmax theo tuổi là hướng dẫn trung bình; thuốc và bệnh tim ảnh hưởng mục tiêu nhịp tim.</li>
 <li><strong>S39</strong> —  <a href="https://www.fda.gov/medical-devices/products-and-medical-procedures/pulse-oximeters">FDA: máy đo oxy ngoại vi và giới hạn sử dụng</a>. Phạm vi tài liệu: Giới hạn đo SpO2 quang học; sắc tố da, tuần hoàn, nhiệt độ; ưu tiên triệu chứng. Không phải kiểm định riêng thiết bị trong nguồn.</li>
-<li><strong>S48</strong> —  <a href="https://support.whoop.com/s/article/What-Affects-WHOOP-Accuracy?language=en_US">Cách đeo và những yếu tố ảnh hưởng chất lượng tín hiệu</a>. Phạm vi tài liệu: Độ vừa dây, vị trí đeo và nhiễu đo ảnh hưởng dữ liệu.</li>
-<li><strong>S16</strong> —  <a href="https://medlineplus.gov/ency/article/002341.htm">MedlinePlus: các dấu hiệu sinh tồn</a>. Phạm vi tài liệu: Dấu hiệu sinh tồn phụ thuộc tuổi và bối cảnh; trang này nêu 12–18 lần/phút ở người lớn nghỉ.</li>
+<li><strong>S71</strong> —  <a href="https://www.nhs.uk/symptoms/shortness-of-breath/">NHS: khó thở và khi nào cần trợ giúp</a>. Phạm vi tài liệu: Dấu hiệu khó thở cần chăm sóc khẩn; triệu chứng nặng hoặc ảnh hưởng hoạt động cần đánh giá thay vì tự chẩn đoán.</li>
+<li><strong>S81</strong> —  <a href="https://www.nhs.uk/conditions/heart-attack/">NHS: dấu hiệu cần cấp cứu do nhồi máu cơ tim</a>. Phạm vi tài liệu: Đau ngực nghiêm trọng và các triệu chứng nhồi máu cơ tim cần được xử trí khẩn cấp.</li>
 </ul>
 </details><blockquote>
-<p>Bài biên soạn độc lập bởi Pulse &amp; Vitality. Nội dung chỉnh ngày 27/10/2026; nguồn đối chiếu 2026-10-26. Liên kết được đặt tên theo chủ đề; tên tài liệu gốc và đơn vị phát hành có trên trang nguồn.</p>
+<p>Bài biên soạn độc lập bởi Pulse &amp; Vitality. Nội dung chỉnh ngày 29/10/2026; nguồn đối chiếu 2026-10-26. Liên kết được đặt tên theo chủ đề; tên tài liệu gốc và đơn vị phát hành có trên trang nguồn.</p>
 </blockquote>
     </article>
 
@@ -187,10 +123,10 @@
       <div class="citation-icon">📚</div>
       <div class="citation-body">
         <h4>Nguồn tham khảo và giới hạn bằng chứng</h4>
-        <p>Nguồn chính: <strong>Bảng theo dõi sức khỏe và báo cáo của hệ thống tham khảo</strong>. Các nguồn bổ sung và phạm vi hỗ trợ được liệt kê trong bài. Cập nhật 26/10/2026; chưa có xác nhận duyệt bởi bác sĩ.</p>
+        <p>Nguồn chính: <strong>AHA: nhịp tim nghỉ, tối đa và nhịp tim khi tập</strong>. Các nguồn bổ sung và phạm vi hỗ trợ được liệt kê trong bài. Cập nhật 26/10/2026; chưa có xác nhận duyệt bởi bác sĩ.</p>
         <div class="citation-actions">
-          <a href="https://support.whoop.com/s/article/WHOOP-Health-Monitor-Report" target="_blank" rel="noopener noreferrer" class="btn-canonical-study">
-            Truy Cập Nguồn Gốc (Bảng theo dõi sức khỏe và báo cáo của hệ...) ↗
+          <a href="https://www.heart.org/en/healthy-living/fitness/fitness-basics/target-heart-rates" target="_blank" rel="noopener noreferrer" class="btn-canonical-study">
+            Truy Cập Nguồn Gốc (AHA: nhịp tim nghỉ, tối đa và nhịp tim k...) ↗
           </a>
         </div>
       </div>
@@ -200,12 +136,12 @@
 
     <a href="WHOOP-ART-24.html?lang=vi" class="post-nav-btn prev">
       <span class="nav-direction">← Bài viết trước</span>
-      <span class="nav-title">Sleep Need và thức giấc: đọc các phần tạo nên đêm ngủ</span>
+      <span class="nav-title">Nhu cầu ngủ, thời gian trên giường và những lần thức giấc</span>
     </a>
 
     <a href="WHOOP-ART-26.html?lang=vi" class="post-nav-btn next">
       <span class="nav-direction">Bài tiếp theo →</span>
-      <span class="nav-title">Strength Trainer: hiểu tải cơ, sets, reps và khối lượng tạ</span>
+      <span class="nav-title">Nhật ký tập sức mạnh: hiệp, lần lặp, mức tạ và gắng sức</span>
     </a>
     </nav>
 
@@ -233,7 +169,7 @@
         </a>
 
         <a href="WHOOP-ART-09.html?lang=vi" class="related-post-card">
-          <div class="related-post-img" data-image-fit="contain" style="background-image: url('../images/researched/batch-01/LM_RC_01_inline.png');">
+          <div class="related-post-img" data-image-fit="cover" style="background-image: linear-gradient(135deg, #16364b, #28675f);">
             <span class="related-post-badge" style="background: #ECFDF5; color: #059669;">
               🔋 Phục hồi
             </span>
@@ -294,15 +230,15 @@
         </span>
         <span class="badge badge-sub">Phục hồi và stress</span>
         <span class="badge badge-type">Learn more</span>
-        <span class="article-read-time">⏱ 7–8 phút read</span>
+        <span class="article-read-time">⏱ 4–5 phút read</span>
       </div>
 
-      <h1 class="article-main-title">Interpreting Health Monitor trends</h1>
-      <p class="article-sapo-lead">Vietnamese edition: Interpreting Health Monitor trends.</p>
+      <h1 class="article-main-title">Understanding heart rate, HRV, oxygen and skin temperature</h1>
+      <p class="article-sapo-lead">Vietnamese edition: Understanding heart rate, HRV, oxygen and skin temperature.</p>
 
       <figure class="article-featured-hero">
-        <img src="../images/researched/batch-03/WH_16_hero.jpg" alt="Illuminated optical sensor on a smartwatch measuring SpO2, skin temperature and overnight vitals." style="object-fit: contain">
-        <figcaption>Illuminated optical sensor on a smartwatch measuring SpO2, skin temperature and overnight vitals. • <a href="https://commons.wikimedia.org/wiki/File:Garmin_Forerunner_35_sensor.jpg" target="_blank" rel="noopener noreferrer" class="img-source-badge">Image source ↗</a><span class="image-attribution"><a href="https://commons.wikimedia.org/wiki/File:Garmin_Forerunner_35_sensor.jpg" target="_blank" rel="noopener noreferrer">Tiia Monto</a> · <a href="https://creativecommons.org/licenses/by-sa/4.0" target="_blank" rel="noopener noreferrer">CC BY-SA 4.0</a> · Original image content unchanged.</span></figcaption>
+        <img src="../images/researched/batch-03/WH_16_hero.jpg" alt="An illuminated optical sensor on a watch." style="object-fit: contain">
+        <figcaption>An illuminated optical sensor on a watch. • <a href="https://commons.wikimedia.org/wiki/File:Garmin_Forerunner_35_sensor.jpg" target="_blank" rel="noopener noreferrer" class="img-source-badge">Image source ↗</a><span class="image-attribution"><a href="https://commons.wikimedia.org/wiki/File:Garmin_Forerunner_35_sensor.jpg" target="_blank" rel="noopener noreferrer">Tiia Monto</a> · <a href="https://creativecommons.org/licenses/by-sa/4.0" target="_blank" rel="noopener noreferrer">CC BY-SA 4.0</a> · Original image content unchanged.</span></figcaption>
       </figure>
 
       <div class="article-metadata-card">
@@ -310,7 +246,7 @@
         <div class="meta-content">
           <div class="meta-author">Pulse & Vitality • Health education</div>
           <div class="meta-details">
-            <span>Primary reference: <a href="https://support.whoop.com/s/article/WHOOP-Health-Monitor-Report" target="_blank" rel="noopener noreferrer" style="color: inherit; text-decoration: underline; font-weight: 700;">Bảng theo dõi sức khỏe và báo cáo của hệ thống tham khảo ↗</a></span>
+            <span>Primary reference: <a href="https://www.heart.org/en/healthy-living/fitness/fitness-basics/target-heart-rates" target="_blank" rel="noopener noreferrer" style="color: inherit; text-decoration: underline; font-weight: 700;">AHA: nhịp tim nghỉ, tối đa và nhịp tim khi tập ↗</a></span>
             <span class="meta-dot">•</span>
             <span>Updated: <strong>2026-10-26</strong></span>
             <span class="meta-dot">•</span>
@@ -325,101 +261,37 @@
         <span class="takeaway-icon-lg">💡</span>
         <span>Key Actionable Takeaway</span>
       </div>
-      <p>Vietnamese edition. Interpreting Health Monitor trends.</p>
+      <p>Vietnamese edition. Understanding heart rate, HRV, oxygen and skin temperature.</p>
     </section>
 
     <article class="article-rich-body">
       <blockquote>
 <p><strong>Vietnamese edition:</strong> This article is currently available in Vietnamese. The English heading is an editorial title, not a full English translation.</p>
 </blockquote>
-<p>Mỗi sáng thức dậy, mở bảng theo dõi sức khỏe (Health Monitor) trên &lt;Tên App/&gt;, bạn thường nhìn thấy một bảng tổng hợp các chỉ số với những chấm màu xanh lục, vàng hoặc cam. Một buổi sáng thấy tất cả đều xanh mang lại cảm giác an tâm; ngược lại, chỉ cần một chỉ số lệch khỏi vùng xanh cũng có thể khiến bạn lo lắng: <em>"Liệu mình có đang bị bệnh gì không?"</em></p>
-<p>Để sử dụng bảng theo dõi này như một người tiêu dùng thông thái, bạn cần hiểu rõ bản chất của từng chỉ số, khái niệm về <strong>khoảng nền cá nhân</strong>, và quan trọng nhất: <strong>cách kết hợp các tín hiệu lại với nhau thay vì chỉ phản ứng thái quá với một màu sắc hiển thị</strong>. <a href="https://support.whoop.com/s/article/WHOOP-Health-Monitor-Report">S38</a> <a href="https://medlineplus.gov/ency/article/002341.htm">S16</a></p>
-<h2>Khái niệm cốt lõi: Khoảng nền cá nhân (Personal Baseline)</h2>
-<p>Khác với các xét nghiệm y tế tổng quát thường sử dụng khoảng tham chiếu chung cho toàn bộ dân số, bảng theo dõi sức khỏe của thiết bị đeo vận hành dựa trên <strong>khoảng nền cá nhân được xây dựng từ dữ liệu của chính bạn qua 14 đến 30 đêm ngủ gần nhất</strong>:</p>
-<ul>
-<li><strong>Màu xanh (Trong khoảng bình thường):</strong> Giá trị đêm qua nằm trong khoảng dao động thống kê quen thuộc của cơ thể bạn (thường nằm trong khoảng ±1,5 độ lệch chuẩn quanh giá trị trung bình tháng).</li>
-<li><strong>Màu vàng / Cam (Lệch khỏi khoảng nền):</strong> Giá trị đêm qua tăng cao hoặc tụt thấp hơn đáng kể so với mức bình thường của chính bạn.</li>
-</ul>
-<p>Một người có nhịp tim nghỉ bình thường là 50 lần/phút khi tăng lên 62 lần/phút sẽ bị cảnh báo màu vàng, trong khi người khác có mức nền 65 lần/phút thì con số 62 lại là màu xanh hoàn hảo. Điểm mạnh của thiết bị đeo là phát hiện sự thay đổi so với chính bạn, không phải so sánh bạn với bất kỳ ai khác. <a href="https://support.whoop.com/s/article/WHOOP-Health-Monitor-Report">S38</a></p>
-<h2>Năm chỉ số sinh tồn đêm được đo lường như thế nào?</h2>
-<p>Bảng theo dõi sức khỏe qua đêm thường tập trung vào năm thước đo sinh lý quan trọng: <a href="https://support.whoop.com/s/article/WHOOP-Health-Monitor-Report">S38</a> <a href="https://medlineplus.gov/ency/article/002341.htm">S16</a></p>
-<table>
-<thead>
-<tr>
-<th>Chỉ số</th>
-<th>Cách đo lường qua đêm</th>
-<th>Khoảng sinh lý thông thường</th>
-<th>Ý nghĩa sinh học</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td><strong>RHR (Nhịp tim nghỉ)</strong></td>
-<td>Trung bình nhịp tim trong các đoạn ngủ sâu</td>
-<td>40–80 lần/phút tùy thể lực</td>
-<td>Khả năng hồi phục của tim; tăng khi mệt mỏi, sốt hoặc quá tải</td>
-</tr>
-<tr>
-<td><strong>HRV (Biến thiên nhịp tim)</strong></td>
-<td>Độ lệch chuẩn hoặc căn bậc hai khoảng R–R (RMSSD/SDNN)</td>
-<td>Khác biệt lớn theo từng người (20–120+ ms)</td>
-<td>Mức độ cân bằng của hệ thần kinh tự chủ; tụt khi căng thẳng, ủ bệnh</td>
-</tr>
-<tr>
-<td><strong>Respiratory Rate (Nhịp thở)</strong></td>
-<td>Số lần hô hấp mỗi phút khi ngủ sâu</td>
-<td>12–20 lần/phút ở người lớn</td>
-<td>Ổn định nhất trong các chỉ số; tăng vọt là dấu hiệu báo động viêm đường hô hấp</td>
-</tr>
-<tr>
-<td><strong>SpO₂ (Bão hòa oxy máu)</strong></td>
-<td>Cảm biến quang học đo tỷ lệ hồng cầu gắn oxy</td>
-<td>95% – 100% ở người khỏe mạnh ngang mực nước biển</td>
-<td>Đánh giá hiệu quả trao đổi khí của phổi trong đêm</td>
-</tr>
-<tr>
-<td><strong>Nhiệt độ bề mặt da</strong></td>
-<td>Đo bằng cảm biến nhiệt tiếp xúc da (hiển thị độ lệch so với nền, ví dụ: +0,4°C)</td>
-<td>Dao động ±0,5°C quanh mức nền</td>
-<td>Phản ánh tuần hoàn ngoại vi, chu kỳ nội tiết và phản ứng viêm/sốt</td>
-</tr>
-</tbody>
-</table>
-<h2>Hiểu đúng về SpO₂ đo ở cổ tay</h2>
-<p>Cảm biến đo SpO₂ trên vòng đeo tay hoạt động bằng cách chiếu hai bước sóng ánh sáng (đỏ và hồng ngoại) qua da xuống các mao mạch ở cổ tay, sau đó đo lượng ánh sáng bị hấp thụ để ước tính tỷ lệ hemoglobin chứa oxy. <a href="https://www.fda.gov/medical-devices/products-and-medical-procedures/pulse-oximeters">S39</a></p>
-<p>Tuy nhiên, cơ quan Quản lý Thực phẩm và Dược phẩm Hoa Kỳ (FDA) đã đưa ra nhiều hướng dẫn quan trọng về giới hạn của phép đo SpO₂ quang học ở người tiêu dùng: <a href="https://www.fda.gov/medical-devices/products-and-medical-procedures/pulse-oximeters">S39</a>
-- <strong>Tưới máu ngoại vi kém:</strong> Khi trời lạnh hoặc bạn nằm đè lên cánh tay làm giảm lưu lượng máu đến cổ tay, cảm biến có thể đọc kết quả SpO₂ thấp giả tạo (dưới 92%).
-- <strong>Cách đeo:</strong> Dây đeo lỏng lẻo làm ánh sáng môi trường lọt vào cảm biến sẽ gây nhiễu tín hiệu.
-- <strong>Sắc tố da và chuyển động:</strong> Lớp sắc tố melanin dày hơn hoặc cử động tay trong đêm có thể ảnh hưởng đến độ chính xác của thuật toán. <a href="https://support.whoop.com/s/article/What-Affects-WHOOP-Accuracy?language=en_US">S48</a></p>
-<p>Vì vậy, nếu thức dậy thấy SpO₂ báo 93% nhưng bạn hoàn toàn không khó thở, môi hồng hào, hãy kiểm tra lại cách đeo và đo lại khi cơ thể ấm áp, thay vì vội vã hoảng sợ.</p>
-<h2>Nhiệt độ da khác gì thân nhiệt trung tâm?</h2>
-<p>Cảm biến trên vòng đo <strong>nhiệt độ bề mặt da cổ tay</strong>, hoàn toàn không phải <strong>thân nhiệt trung tâm (Core Body Temperature)</strong> được đo bằng nhiệt kế kẹp nách hay ngậm miệng:</p>
-<ul>
-<li><strong>Nhiệt độ phòng ngủ và chăn gối:</strong> Đắp một tấm chăn dày hoặc phòng ngủ bật điều hòa quá lạnh có thể làm nhiệt độ da lệch 0,3°C – 0,5°C mà thân nhiệt trung tâm không hề đổi.</li>
-<li><strong>Rượu bia:</strong> Uống cồn gây giãn mạch máu dưới da, làm da nóng bừng và tăng nhiệt độ bề mặt trong nửa đầu đêm.</li>
-<li><strong>Chu kỳ kinh nguyệt ở nữ giới:</strong> Sau thời điểm rụng trứng (bước vào pha hoàng thể - Luteal phase), hormone progesterone tăng cao tự nhiên khiến nhiệt độ da ban đêm tăng ổn định từ 0,3°C đến 0,6°C trong khoảng hai tuần cho đến chu kỳ tiếp theo. Đây là hiện tượng sinh lý hoàn toàn lành mạnh. <a href="https://support.whoop.com/s/article/WHOOP-Health-Monitor-Report">S38</a></li>
-</ul>
-<h2>Nhận diện "Cụm báo động" khi cơ thể ủ bệnh</h2>
-<p>Giá trị thực sự của Health Monitor nằm ở <strong>sự phối hợp giữa các chỉ số</strong>. Một chỉ số đơn lẻ nhảy màu thường chỉ là nhiễu đo đạc. Nhưng khi bạn thấy xuất hiện một cụm biến động đồng thời sau một đêm:
-- <strong>Nhịp tim nghỉ (RHR) tăng vọt</strong> (+5 đến +10 nhịp so với nền).
-- <strong>HRV tụt dốc thảm hại</strong> (giảm 30–50% so với nền).
-- <strong>Nhịp thở (Respiratory Rate) tăng</strong> (+2 đến +3 lần/phút).
-- <strong>Nhiệt độ da tăng cao</strong> (+0,8°C đến +1,5°C so với nền).</p>
-<p>Đây là "dấu vân tay" sinh học điển hình của một phản ứng miễn dịch toàn thân — cơ thể bạn đang dồn năng lượng chống lại một đợt nhiễm trùng virus (như cúm, COVID-19) hoặc tình trạng viêm nhiễm cấp tính, thường xuất hiện trước khi bạn cảm thấy đau họng hay sổ mũi rõ rệt. <a href="https://support.whoop.com/s/article/WHOOP-Health-Monitor-Report">S38</a></p>
-<p>Khi thấy cụm báo động này, quyết định sáng suốt nhất là hủy bỏ buổi tập nặng dự kiến, uống nhiều nước, ăn nhẹ nhàng và dành trọn vẹn cả ngày để nghỉ ngơi tĩnh dưỡng.</p>
-<h2>Ranh giới an toàn y khoa</h2>
-<p>Bảng theo dõi sức khỏe là công cụ tầm soát xu hướng cá nhân, <strong>không phải thiết bị chẩn đoán y khoa cấp cứu</strong>:
-- <strong>Một bảng màu xanh không có nghĩa là bạn hoàn toàn an toàn:</strong> Nếu bạn cảm thấy đau thắt ngực, khó thở dữ dội, hoa mắt chóng mặt hoặc tê bì nửa người, hãy gọi cấp cứu hoặc đến bệnh viện ngay lập tức, bất kể mọi chỉ số trên màn hình đều hiển thị màu xanh hoàn hảo. <a href="https://medlineplus.gov/ency/article/002341.htm">S16</a>
-- <strong>Không tự ý thay đổi thuốc điều trị:</strong> Không bao giờ tự ý tăng giảm liều thuốc huyết áp, tim mạch hay tiểu đường chỉ dựa trên các dao động màu sắc của Health Monitor mà không có chỉ định từ bác sĩ điều trị của bạn. <a href="https://support.whoop.com/s/article/WHOOP-Health-Monitor-Report">S38</a></p>
+<p>Một chỉ số khác thường trên màn hình có thể khiến bạn lo lắng. Cách đọc hữu ích nhất là hỏi: chỉ số này được đo bằng gì, vào lúc nào, có đáng tin trong hoàn cảnh đó không và tôi đang cảm thấy thế nào?</p>
+<h2>Khoảng cá nhân giúp quan sát thay đổi</h2>
+<p>Một số thiết bị hoặc ứng dụng tóm tắt những giá trị thường thấy của bạn trong một khoảng thời gian. Khoảng này phụ thuộc cách đo, số ngày dữ liệu và thuật toán. Một giá trị ngoài khoảng có thể là dấu hiệu để chú ý, nhưng không tự chứng minh bạn bị bệnh; giá trị trong khoảng cũng không bảo đảm bạn hoàn toàn khỏe mạnh.</p>
+<p>Nếu &lt;Tên App/&gt; nhận dữ liệu từ nhiều nguồn, hãy xem thời điểm và nguồn của từng kết quả. Thiếu dữ liệu không phải là kết quả bình thường. So sánh có ý nghĩa hơn khi dùng cùng phương pháp và điều kiện tương tự.</p>
+<h2>Nhịp tim và HRV</h2>
+<p><strong>Nhịp tim hiện tại</strong> phản ánh thời điểm đo, còn <strong>nhịp tim nghỉ</strong> là một chỉ số được xác định theo quy tắc của nguồn dữ liệu. Một số đo sau khi vừa leo cầu thang không tương đương nhịp tim nghỉ qua đêm. Sốt, thuốc, vận động, giấc ngủ và các yếu tố khác đều có thể ảnh hưởng nhịp tim.</p>
+<p><strong>HRV</strong> mô tả sự biến thiên giữa các khoảng nhịp tim liên tiếp. Có nhiều cách tính, chẳng hạn SDNN và RMSSD; không nên so trực tiếp các con số khác loại hoặc khác điều kiện đo. HRV không thể một mình xác định bệnh, mức stress hay việc bạn đã hồi phục hoàn toàn. <a href="https://www.heart.org/en/healthy-living/fitness/fitness-basics/target-heart-rates">S59</a></p>
+<h2>Nhịp thở và độ bão hòa oxy</h2>
+<p>Nhịp thở là số lần thở trong một phút. Thiết bị có thể ước tính từ tín hiệu trong lúc ngủ, khác với việc bạn tự đếm khi đang thức. Hãy xem thay đổi cùng tình trạng cơ thể, thay vì tự chẩn đoán từ một con số.</p>
+<p>SpO₂ là ước tính tỷ lệ oxy gắn với hemoglobin trong máu. Thiết bị quang học có giới hạn: tuần hoàn, nhiệt độ da, sắc tố da, chuyển động và cách đặt cảm biến có thể ảnh hưởng độ chính xác. Các thiết bị khác nhau không có cùng mục đích sử dụng hay mức kiểm định. Không dùng chỉ số tốt để bỏ qua tình trạng khó thở hoặc triệu chứng đáng lo. <a href="https://www.fda.gov/medical-devices/products-and-medical-procedures/pulse-oximeters">S39</a></p>
+<h2>Nhiệt độ da không phải thân nhiệt trung tâm</h2>
+<p>Một số thiết bị ghi nhiệt độ da hoặc độ lệch so với mức thường thấy. Nhiệt độ da chịu ảnh hưởng môi trường, vị trí và điều kiện đo; nó không tương đương số đo thân nhiệt bằng nhiệt kế phù hợp. Không thể xác định sốt, mang thai hoặc thời điểm rụng trứng chỉ từ một độ lệch nhiệt độ da. Nếu cần kiểm tra sốt, sử dụng phương pháp phù hợp và xem cùng triệu chứng.</p>
+<h2>Khi nhiều chỉ số thay đổi</h2>
+<p>Giả sử sau một đêm ngủ ít bạn thấy nhịp tim nghỉ cao hơn và cảm thấy mệt. Có nhiều lời giải thích có thể xảy ra, nên bạn có thể nghỉ ngơi, ghi nhận tình trạng và theo dõi thêm thay vì kết luận chắc chắn mình đang mắc bệnh. Nếu đang dùng thuốc hay có bệnh nền, hãy làm theo kế hoạch đã được nhân viên y tế hướng dẫn.</p>
+<p><strong>Khó thở nặng, đau ngực nghiêm trọng, ngất hoặc lú lẫn cần được xử trí khẩn cấp</strong>, ngay cả khi các số trên màn hình có vẻ bình thường. Với triệu chứng mới, kéo dài hoặc khiến bạn lo ngại, liên hệ nhân viên y tế để được đánh giá. <a href="https://www.nhs.uk/symptoms/shortness-of-breath/">S71</a> <a href="https://www.nhs.uk/conditions/heart-attack/">S81</a></p>
 <details class="article-references"><summary>Nguồn tham khảo và phạm vi hỗ trợ</summary>
 <ul>
-<li><strong>S38</strong> —  <a href="https://support.whoop.com/s/article/WHOOP-Health-Monitor-Report">Bảng theo dõi sức khỏe và báo cáo của hệ thống tham khảo</a>. Phạm vi tài liệu: Live HR và các chỉ số RHR/HRV/RR/SpO2/nhiệt độ da; Health Monitor thuộc Peak/Life; khoảng và màu cảnh báo không thay chẩn đoán.</li>
+<li><strong>S59</strong> —  <a href="https://www.heart.org/en/healthy-living/fitness/fitness-basics/target-heart-rates">AHA: nhịp tim nghỉ, tối đa và nhịp tim khi tập</a>. Phạm vi tài liệu: Nhịp tim nghỉ, HRmax theo tuổi là hướng dẫn trung bình; thuốc và bệnh tim ảnh hưởng mục tiêu nhịp tim.</li>
 <li><strong>S39</strong> —  <a href="https://www.fda.gov/medical-devices/products-and-medical-procedures/pulse-oximeters">FDA: máy đo oxy ngoại vi và giới hạn sử dụng</a>. Phạm vi tài liệu: Giới hạn đo SpO2 quang học; sắc tố da, tuần hoàn, nhiệt độ; ưu tiên triệu chứng. Không phải kiểm định riêng thiết bị trong nguồn.</li>
-<li><strong>S48</strong> —  <a href="https://support.whoop.com/s/article/What-Affects-WHOOP-Accuracy?language=en_US">Cách đeo và những yếu tố ảnh hưởng chất lượng tín hiệu</a>. Phạm vi tài liệu: Độ vừa dây, vị trí đeo và nhiễu đo ảnh hưởng dữ liệu.</li>
-<li><strong>S16</strong> —  <a href="https://medlineplus.gov/ency/article/002341.htm">MedlinePlus: các dấu hiệu sinh tồn</a>. Phạm vi tài liệu: Dấu hiệu sinh tồn phụ thuộc tuổi và bối cảnh; trang này nêu 12–18 lần/phút ở người lớn nghỉ.</li>
+<li><strong>S71</strong> —  <a href="https://www.nhs.uk/symptoms/shortness-of-breath/">NHS: khó thở và khi nào cần trợ giúp</a>. Phạm vi tài liệu: Dấu hiệu khó thở cần chăm sóc khẩn; triệu chứng nặng hoặc ảnh hưởng hoạt động cần đánh giá thay vì tự chẩn đoán.</li>
+<li><strong>S81</strong> —  <a href="https://www.nhs.uk/conditions/heart-attack/">NHS: dấu hiệu cần cấp cứu do nhồi máu cơ tim</a>. Phạm vi tài liệu: Đau ngực nghiêm trọng và các triệu chứng nhồi máu cơ tim cần được xử trí khẩn cấp.</li>
 </ul>
 </details><blockquote>
-<p>Bài biên soạn độc lập bởi Pulse &amp; Vitality. Nội dung chỉnh ngày 27/10/2026; nguồn đối chiếu 2026-10-26. Liên kết được đặt tên theo chủ đề; tên tài liệu gốc và đơn vị phát hành có trên trang nguồn.</p>
+<p>Bài biên soạn độc lập bởi Pulse &amp; Vitality. Nội dung chỉnh ngày 29/10/2026; nguồn đối chiếu 2026-10-26. Liên kết được đặt tên theo chủ đề; tên tài liệu gốc và đơn vị phát hành có trên trang nguồn.</p>
 </blockquote>
     </article>
 
@@ -427,10 +299,10 @@
       <div class="citation-icon">📚</div>
       <div class="citation-body">
         <h4>References and evidence limits</h4>
-        <p>Primary reference: <strong>Bảng theo dõi sức khỏe và báo cáo của hệ thống tham khảo</strong>. Additional sources and their scope appear in the article. Updated 26 October 2026; clinical sign-off has not been recorded.</p>
+        <p>Primary reference: <strong>AHA: nhịp tim nghỉ, tối đa và nhịp tim khi tập</strong>. Additional sources and their scope appear in the article. Updated 26 October 2026; clinical sign-off has not been recorded.</p>
         <div class="citation-actions">
-          <a href="https://support.whoop.com/s/article/WHOOP-Health-Monitor-Report" target="_blank" rel="noopener noreferrer" class="btn-canonical-study">
-            Access Original Source (Bảng theo dõi sức khỏe và báo cáo của hệ...) ↗
+          <a href="https://www.heart.org/en/healthy-living/fitness/fitness-basics/target-heart-rates" target="_blank" rel="noopener noreferrer" class="btn-canonical-study">
+            Access Original Source (AHA: nhịp tim nghỉ, tối đa và nhịp tim k...) ↗
           </a>
         </div>
       </div>
@@ -440,12 +312,12 @@
 
     <a href="WHOOP-ART-24.html?lang=en" class="post-nav-btn prev">
       <span class="nav-direction">← Previous Article</span>
-      <span class="nav-title">Sleep need, sleep continuity and the limits of sleep estimates</span>
+      <span class="nav-title">Sleep need, time in bed and nighttime awakenings</span>
     </a>
 
     <a href="WHOOP-ART-26.html?lang=en" class="post-nav-btn next">
       <span class="nav-direction">Next Article →</span>
-      <span class="nav-title">Understanding muscular load and strength workout logging</span>
+      <span class="nav-title">Strength training logs, sets, repetitions and effort</span>
     </a>
     </nav>
 
@@ -473,7 +345,7 @@
         </a>
 
         <a href="WHOOP-ART-09.html?lang=en" class="related-post-card">
-          <div class="related-post-img" data-image-fit="contain" style="background-image: url('../images/researched/batch-01/LM_RC_01_inline.png');">
+          <div class="related-post-img" data-image-fit="cover" style="background-image: linear-gradient(135deg, #16364b, #28675f);">
             <span class="related-post-badge" style="background: #ECFDF5; color: #059669;">
               🔋 Recovery
             </span>

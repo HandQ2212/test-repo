@@ -60,4 +60,4 @@ Sau một thời gian theo dõi, hãy tự hỏi: mình có nhiều cơ hội di
 - **S58** —  [CDC: cường độ vận động và khả năng trò chuyện](https://www.cdc.gov/physical-activity-basics/measuring/index.html). Phạm vi tài liệu: Cường độ tương đối, cảm giác gắng sức và talk test; không đồng nhất talk test với vùng HRR đo bằng thiết bị.
 - **S63** —  [CDC: vận động aerobic và tập sức mạnh cho người lớn](https://www.cdc.gov/physical-activity-basics/guidelines/adults.html). Phạm vi tài liệu: Người lớn: ít nhất 150 phút mức vừa hoặc75 phút mức mạnh mỗi tuần, kết hợp tương đương và ít nhất2 ngày tăng sức mạnh; chia nhỏ thời gian.
 
-> Bài biên soạn độc lập bởi Pulse & Vitality. Nội dung chỉnh ngày 27/10/2026; nguồn đối chiếu 2026-10-26. Liên kết được đặt tên theo chủ đề; tên tài liệu gốc và đơn vị phát hành có trên trang nguồn.
+> Bài biên soạn độc lập bởi Pulse & Vitality. Nội dung chỉnh ngày 29/10/2026; nguồn đối chiếu 2026-10-26. Liên kết được đặt tên theo chủ đề; tên tài liệu gốc và đơn vị phát hành có trên trang nguồn.

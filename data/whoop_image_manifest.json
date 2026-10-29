@@ -425,12 +425,12 @@
     "caption": "Giải thích bằng đoạn văn, ví dụ và bảng trong bài; không dùng ảnh khung chữ.",
     "source_ids": [
       "S27",
-      "S28",
-      "S04",
-      "S63",
       "S64",
       "S65",
-      "S72"
+      "S28",
+      "S72",
+      "S04",
+      "S63"
     ],
     "checked_on": "2026-10-26",
     "png_path": null,
@@ -451,7 +451,7 @@
     "alt": "Sơ đồ giải thích: Macros và phục hồi: đủ chất trước khi tối ưu tỷ lệ",
     "caption": "Giải thích bằng đoạn văn, ví dụ và bảng trong bài; không dùng ảnh khung chữ.",
     "source_ids": [
-      "S29",
+      "S64",
       "S30",
       "S27"
     ],
@@ -471,12 +471,11 @@
     "is_product_screenshot": false,
     "is_measured_data": false,
     "rights": "Không xuất bản sơ đồ khung chữ. Bản cũ chỉ còn trong lịch sử nghiên cứu.",
-    "alt": "Sơ đồ giải thích: Stress Monitor 0–3: hiểu đáp ứng sinh lý trong ngày",
+    "alt": "Sơ đồ giải thích: Hiểu stress: cảm nhận, tín hiệu cơ thể và cách theo dõi",
     "caption": "Giải thích bằng đoạn văn, ví dụ và bảng trong bài; không dùng ảnh khung chữ.",
     "source_ids": [
-      "S31",
-      "S32",
-      "S34"
+      "S34",
+      "S31"
     ],
     "checked_on": "2026-10-26",
     "png_path": null,
@@ -499,9 +498,9 @@
     "source_ids": [
       "S33",
       "S34",
-      "S47",
-      "S20",
-      "S74"
+      "S24",
+      "S72",
+      "S47"
     ],
     "checked_on": "2026-10-26",
     "png_path": null,
@@ -519,14 +518,13 @@
     "is_product_screenshot": false,
     "is_measured_data": false,
     "rights": "Không xuất bản sơ đồ khung chữ. Bản cũ chỉ còn trong lịch sử nghiên cứu.",
-    "alt": "Sơ đồ giải thích: Stress biểu hiện ra sao, và vòng đeo biết được phần nào?",
+    "alt": "Sơ đồ giải thích: Stress biểu hiện ra sao và dữ liệu cơ thể cho biết điều gì?",
     "caption": "Giải thích bằng đoạn văn, ví dụ và bảng trong bài; không dùng ảnh khung chữ.",
     "source_ids": [
       "S34",
       "S31",
-      "S32",
-      "S35",
-      "S14"
+      "S71",
+      "S81"
     ],
     "checked_on": "2026-10-26",
     "png_path": null,
@@ -547,9 +545,11 @@
     "alt": "Sơ đồ giải thích: Quản lý stress: thử một thay đổi nhỏ và đánh giá thực tế",
     "caption": "Giải thích bằng đoạn văn, ví dụ và bảng trong bài; không dùng ảnh khung chữ.",
     "source_ids": [
-      "S35",
+      "S34",
       "S36",
-      "S34"
+      "S63",
+      "S71",
+      "S81"
     ],
     "checked_on": "2026-10-26",
     "png_path": null,
@@ -567,15 +567,13 @@
     "is_product_screenshot": false,
     "is_measured_data": false,
     "rights": "Không xuất bản sơ đồ khung chữ. Bản cũ chỉ còn trong lịch sử nghiên cứu.",
-    "alt": "Sơ đồ giải thích: Sleep Need và thức giấc: đọc các phần tạo nên đêm ngủ",
+    "alt": "Sơ đồ giải thích: Nhu cầu ngủ, thời gian trên giường và những lần thức giấc",
     "caption": "Giải thích bằng đoạn văn, ví dụ và bảng trong bài; không dùng ảnh khung chữ.",
     "source_ids": [
+      "S72",
       "S37",
-      "S49",
       "S24",
-      "S47",
-      "S56",
-      "S20"
+      "S47"
     ],
     "checked_on": "2026-10-26",
     "png_path": null,
@@ -593,13 +591,13 @@
     "is_product_screenshot": false,
     "is_measured_data": false,
     "rights": "Không xuất bản sơ đồ khung chữ. Bản cũ chỉ còn trong lịch sử nghiên cứu.",
-    "alt": "Sơ đồ giải thích: Health Monitor: đọc SpO₂, nhiệt độ da và khoảng cá nhân",
+    "alt": "Sơ đồ giải thích: Đọc nhịp tim, HRV, SpO₂ và nhiệt độ da đúng bối cảnh",
     "caption": "Giải thích bằng đoạn văn, ví dụ và bảng trong bài; không dùng ảnh khung chữ.",
     "source_ids": [
-      "S38",
+      "S59",
       "S39",
-      "S48",
-      "S16"
+      "S71",
+      "S81"
     ],
     "checked_on": "2026-10-26",
     "png_path": null,
@@ -617,15 +615,12 @@
     "is_product_screenshot": false,
     "is_measured_data": false,
     "rights": "Không xuất bản sơ đồ khung chữ. Bản cũ chỉ còn trong lịch sử nghiên cứu.",
-    "alt": "Sơ đồ giải thích: Strength Trainer: hiểu tải cơ, sets, reps và khối lượng tạ",
+    "alt": "Sơ đồ giải thích: Nhật ký tập sức mạnh: hiệp, lần lặp, mức tạ và gắng sức",
     "caption": "Giải thích bằng đoạn văn, ví dụ và bảng trong bài; không dùng ảnh khung chữ.",
     "source_ids": [
-      "S40",
-      "S01",
-      "S04",
-      "S50",
       "S60",
-      "S63"
+      "S63",
+      "S40"
     ],
     "checked_on": "2026-10-26",
     "png_path": null,
@@ -643,14 +638,14 @@
     "is_product_screenshot": false,
     "is_measured_data": false,
     "rights": "Không xuất bản sơ đồ khung chữ. Bản cũ chỉ còn trong lịch sử nghiên cứu.",
-    "alt": "Sơ đồ giải thích: <Tên App/> Age và Pace of Aging: hiểu điểm Healthspan",
+    "alt": "Sơ đồ giải thích: Tuổi sinh học và lão hóa khỏe mạnh: hiểu chỉ số và giới hạn",
     "caption": "Giải thích bằng đoạn văn, ví dụ và bảng trong bài; không dùng ảnh khung chữ.",
     "source_ids": [
       "S41",
-      "S04",
+      "S79",
+      "S63",
       "S51",
-      "S59",
-      "S61"
+      "S72"
     ],
     "checked_on": "2026-10-26",
     "png_path": null,
@@ -668,14 +663,14 @@
     "is_product_screenshot": false,
     "is_measured_data": false,
     "rights": "Không xuất bản sơ đồ khung chữ. Bản cũ chỉ còn trong lịch sử nghiên cứu.",
-    "alt": "Sơ đồ giải thích: ECG và cảnh báo nhịp tim <Tên App/>: đọc kết quả và giới hạn",
+    "alt": "Sơ đồ giải thích: Điện tâm đồ và cảnh báo nhịp tim: đọc kết quả đúng cách",
     "caption": "Giải thích bằng đoạn văn, ví dụ và bảng trong bài; không dùng ảnh khung chữ.",
     "source_ids": [
-      "S42",
-      "S43",
       "S52",
-      "S57",
-      "S59"
+      "S43",
+      "S80",
+      "S71",
+      "S81"
     ],
     "checked_on": "2026-10-26",
     "png_path": null,
@@ -693,16 +688,12 @@
     "is_product_screenshot": false,
     "is_measured_data": false,
     "rights": "Không xuất bản sơ đồ khung chữ. Bản cũ chỉ còn trong lịch sử nghiên cứu.",
-    "alt": "Sơ đồ giải thích: Blood Pressure Insights: phân biệt ước tính với đo vòng bít",
+    "alt": "Sơ đồ giải thích: Huyết áp: cách đo tại nhà và đọc kết quả an toàn",
     "caption": "Giải thích bằng đoạn văn, ví dụ và bảng trong bài; không dùng ảnh khung chữ.",
     "source_ids": [
-      "S45",
       "S46",
-      "S53",
-      "S54",
-      "S55",
-      "S57",
-      "S59"
+      "S45",
+      "S82"
     ],
     "checked_on": "2026-10-26",
     "png_path": null,

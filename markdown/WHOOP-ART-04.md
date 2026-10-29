@@ -81,4 +81,4 @@ Vùng nhịp tim là công cụ phân bố cường độ. Bạn vẫn cần c�
 - **S58** —  [CDC: cường độ vận động và khả năng trò chuyện](https://www.cdc.gov/physical-activity-basics/measuring/index.html). Phạm vi tài liệu: Cường độ tương đối, cảm giác gắng sức và talk test; không đồng nhất talk test với vùng HRR đo bằng thiết bị.
 - **S59** —  [AHA: nhịp tim nghỉ, tối đa và nhịp tim khi tập](https://www.heart.org/en/healthy-living/fitness/fitness-basics/target-heart-rates). Phạm vi tài liệu: Nhịp tim nghỉ, HRmax theo tuổi là hướng dẫn trung bình; thuốc và bệnh tim ảnh hưởng mục tiêu nhịp tim.
 
-> Bài biên soạn độc lập bởi Pulse & Vitality. Nội dung chỉnh ngày 27/10/2026; nguồn đối chiếu 2026-10-26. Liên kết được đặt tên theo chủ đề; tên tài liệu gốc và đơn vị phát hành có trên trang nguồn.
+> Bài biên soạn độc lập bởi Pulse & Vitality. Nội dung chỉnh ngày 29/10/2026; nguồn đối chiếu 2026-10-26. Liên kết được đặt tên theo chủ đề; tên tài liệu gốc và đơn vị phát hành có trên trang nguồn.

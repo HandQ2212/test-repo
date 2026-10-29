@@ -69,4 +69,4 @@ Mệt kéo dài, khả năng vận động giảm bất thường, hồi hộp m
 - **S59** —  [AHA: nhịp tim nghỉ, tối đa và nhịp tim khi tập](https://www.heart.org/en/healthy-living/fitness/fitness-basics/target-heart-rates). Phạm vi tài liệu: Nhịp tim nghỉ, HRmax theo tuổi là hướng dẫn trung bình; thuốc và bệnh tim ảnh hưởng mục tiêu nhịp tim.
 - **S14** — Task Force of the ESC and NASPE. Circulation. 1996;93(5):1043–1065. [Khuyến nghị chuyên môn về phép đo HRV](https://pubmed.ncbi.nlm.nih.gov/8598068/). PMID 8598068. Phạm vi tài liệu: Định nghĩa HRV, rMSSD, SDNN, điều kiện đo và giới hạn so sánh.
 
-> Bài biên soạn độc lập bởi Pulse & Vitality. Nội dung chỉnh ngày 27/10/2026; nguồn đối chiếu 2026-10-26. Liên kết được đặt tên theo chủ đề; tên tài liệu gốc và đơn vị phát hành có trên trang nguồn.
+> Bài biên soạn độc lập bởi Pulse & Vitality. Nội dung chỉnh ngày 29/10/2026; nguồn đối chiếu 2026-10-26. Liên kết được đặt tên theo chủ đề; tên tài liệu gốc và đơn vị phát hành có trên trang nguồn.

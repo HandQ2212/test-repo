@@ -56,7 +56,7 @@ def main():
         assert not re.search('WHOOP',visible,re.I),(a['id'],'Brand still visible in article')
         assert '<Tên App/>' in visible,(a['id'],'Literal app placeholder missing')
         assert not a['inline_image'] and 'article-inline-diagram' not in page
-        assert a['reader_revision'] in (3, 4) and a['visual_policy']=='prose_first_no_text_card_diagram'
+        assert a['reader_revision'] in (3, 4, 5) and a['visual_policy']=='prose_first_no_text_card_diagram'
         for img in parser.images:
             assert img.get('alt')
             src=img['src']
@@ -74,7 +74,13 @@ def main():
             assert ref['url'] in unescape(page)
     before=BASE.parent/'audit/whoop-publication-2026-10-27/before/Health_Blog_Demo/articles.json'
     if before.exists():
-        assert articles[:83]==json.loads(before.read_text()),'Existing article records changed'
+        original=json.loads(before.read_text())
+        for current, prior in zip(articles[:83], original):
+            assert current['id']==prior['id']
+            if current['id'] in ('LM_RC_01','LM_RC_02'):
+                changed={k for k in current if current[k]!=prior[k]}
+                assert changed=={'content_vi'}, (current['id'],changed)
+            else: assert current==prior,current['id']
     previous=BASE.parent/'audit/app-content-revision-2026-10-27/before/Health_Blog_Demo/data/whoop_article_records.json'
     if previous.exists():
         for old,new in zip(json.loads(previous.read_text()),records):
@@ -83,7 +89,7 @@ def main():
                 assert [r['url'] for r in old['references']]==[r['url'] for r in new['references']],(new['id'],'Reference URLs changed')
             else:
                 assert len(new['references']) >= 2, (new['id'], 'Too few references')
-    print('PASS: 29 revised articles; literal app placeholder; no visible WHOOP branding; source URLs preserved; no text-card diagrams; optional licensed images; 83 existing records preserved.')
+    print('PASS: 29 revised articles; literal app placeholder; no visible WHOOP branding; source URLs preserved; no text-card diagrams; optional licensed images; 83 existing records checked; two introductions corrected.')
 
 
 if __name__=='__main__':

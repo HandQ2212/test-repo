@@ -57,4 +57,4 @@ Bạn cũng không cần diễn giải từng chênh lệch vài chục bước.
 - **S03** —  [Hướng dẫn về dữ liệu bước chân](https://support.whoop.com/s/article/Steps). Phạm vi tài liệu: Ước tính bước bằng gia tốc kế; ưu tiên vị trí cổ tay; khác biệt giữa thiết bị.
 - **S62** —  [Apple: quản lý dữ liệu, quyền truy cập và nguồn trong Sức khỏe](https://support.apple.com/en-us/108779). Phạm vi tài liệu: Dữ liệu bước, quyền ứng dụng, nguồn thiết bị và thứ tự ưu tiên dữ liệu trong Apple Health.
 
-> Bài biên soạn độc lập bởi Pulse & Vitality. Nội dung chỉnh ngày 27/10/2026; nguồn đối chiếu 2026-10-26. Liên kết được đặt tên theo chủ đề; tên tài liệu gốc và đơn vị phát hành có trên trang nguồn.
+> Bài biên soạn độc lập bởi Pulse & Vitality. Nội dung chỉnh ngày 29/10/2026; nguồn đối chiếu 2026-10-26. Liên kết được đặt tên theo chủ đề; tên tài liệu gốc và đơn vị phát hành có trên trang nguồn.

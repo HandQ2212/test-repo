@@ -5541,9 +5541,9 @@
         "role": "hero",
         "asset": "images/researched/batch-02/DM_AC_02_hero.jpg",
         "batch": 2,
-        "caption_vi": "Một khoảng nghỉ giữa các hoạt động tập luyện; phân bố tải bao gồm cả lúc vận động và lúc nghỉ.",
+        "caption_vi": "Người tập ngồi nghỉ sau vận động.",
         "caption_en": "A break between exercise activities; planning load includes movement and rest.",
-        "alt_vi": "Một khoảng nghỉ giữa các hoạt động tập luyện; phân bố tải bao gồm cả lúc vận động và lúc nghỉ.",
+        "alt_vi": "Người tập ngồi nghỉ sau vận động.",
         "alt_en": "A break between exercise activities; planning load includes movement and rest.",
         "relevance_vi": "Đúng tình huống nghỉ và phục hồi; không gán bệnh cho người mẫu.",
         "fit": "contain",
@@ -5709,10 +5709,10 @@
         "role": "hero",
         "asset": "images/researched/batch-02/DM_AC_01_inline.jpg",
         "batch": 2,
-        "caption_vi": "Dây đeo ngực Polar H10 thu tín hiệu điện tim phục vụ đo nhịp tim chính xác khi kiểm tra gắng sức.",
-        "caption_en": "Polar H10 chest strap recording cardiac signals for accurate heart rate measurement during exercise.",
-        "alt_vi": "Dây đeo ngực Polar H10 thu tín hiệu điện tim phục vụ đo nhịp tim chính xác khi kiểm tra gắng sức.",
-        "alt_en": "Polar H10 chest strap recording cardiac signals for accurate heart rate measurement during exercise.",
+        "caption_vi": "Dây đeo ngực dùng để ghi nhận nhịp tim khi vận động.",
+        "caption_en": "A chest strap used to record heart rate during activity.",
+        "alt_vi": "Dây đeo ngực dùng để ghi nhận nhịp tim khi vận động.",
+        "alt_en": "A chest strap used to record heart rate during activity.",
         "relevance_vi": "Bổ sung hình dụng cụ cho phần đối chiếu nhịp tim với talk test; thiết bị không tự xác định ngưỡng sinh lý riêng của người đọc.",
         "fit": "contain",
         "modifications_vi": "Bản thu nhỏ; giữ nguyên nội dung.",
@@ -5860,38 +5860,11 @@
     ]
   },
   "WHOOP-ART-09": {
-    "hero_local": "images/researched/batch-01/LM_RC_01_inline.png",
+    "hero_local": "",
     "figure_local": "",
-    "hero_source_page": "https://commons.wikimedia.org/wiki/File:ECG-RRinterval.svg",
+    "hero_source_page": "",
     "figure_source_page": "",
-    "image_attributions": [
-      {
-        "article_id": "WHOOP-ART-09",
-        "role": "hero",
-        "asset": "images/researched/batch-01/LM_RC_01_inline.png",
-        "title": "ECG-RRinterval.svg",
-        "source_page": "https://commons.wikimedia.org/wiki/File:ECG-RRinterval.svg",
-        "source_asset_url": "https://upload.wikimedia.org/wikipedia/commons/c/c1/ECG-RRinterval.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-        "download_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c1/ECG-RRinterval.svg/1280px-ECG-RRinterval.svg.png",
-        "author": "Anthony Atkielski (Agateller), atom and Kychot",
-        "license": "Copyrighted free use",
-        "license_url": "https://commons.wikimedia.org/wiki/File:ECG-RRinterval.svg#Licensing",
-        "caption_vi": "Khoảng R–R nằm giữa hai đỉnh R liên tiếp trên sơ đồ ECG, cơ sở tính toán biến thiên nhịp tim (HRV).",
-        "caption_en": "R-R interval between consecutive R-peaks on an ECG waveform, the basis for calculating HRV.",
-        "alt_vi": "Khoảng R–R nằm giữa hai đỉnh R liên tiếp trên sơ đồ ECG, cơ sở tính toán biến thiên nhịp tim (HRV).",
-        "alt_en": "R-R interval between consecutive R-peaks on an ECG waveform, the basis for calculating HRV.",
-        "relevance_vi": "Sơ đồ mô tả khoảng nhịp, không tự chứng minh biến thiên hay mức stress; tác giả và quyền sử dụng đã đối chiếu.",
-        "modifications_vi": "PNG kết xuất từ SVG; giữ nguyên nội dung.",
-        "modifications_en": "PNG rendering of SVG; content unchanged.",
-        "fit": "contain",
-        "width": 1280,
-        "height": 960,
-        "sha256": "c63807e248b4d5d6303585ede658d77794c0cbd489328326196dd4e920a073dd",
-        "checked_date": "2026-10-26",
-        "review_status": "Subject, source and licence checked",
-        "batch": 1
-      }
-    ],
+    "image_attributions": [],
     "creator": "See asset credits; original SVG by Pulse & Vitality",
     "provenance": "Selected licensed illustration only where useful; text-card diagrams replaced with prose and tables.",
     "evidence_urls": [
@@ -6044,10 +6017,10 @@
         "author": "Clinique Somnomed",
         "license": "CC BY-SA 4.0",
         "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
-        "caption_vi": "Người mẫu đeo thiết bị ghi nhận dữ liệu giấc ngủ ở tư thế nằm nghiêng thoải mái.",
-        "caption_en": "Model wearing a sleep recording device in a comfortable side-sleeping position.",
-        "alt_vi": "Người mẫu đeo thiết bị ghi nhận dữ liệu giấc ngủ ở tư thế nằm nghiêng thoải mái.",
-        "alt_en": "Model wearing a sleep recording device in a comfortable side-sleeping position.",
+        "caption_vi": "Một người tham gia ghi dữ liệu giấc ngủ với các điện cực.",
+        "caption_en": "A person participating in sleep recording with electrodes.",
+        "alt_vi": "Một người tham gia ghi dữ liệu giấc ngủ với các điện cực.",
+        "alt_en": "A person participating in sleep recording with electrodes.",
         "relevance_vi": "Minh họa việc ghi nhiều tín hiệu để phân loại giấc ngủ, không suy giai đoạn chỉ từ tư thế.",
         "modifications_vi": "Bản thu nhỏ; giữ nguyên nội dung.",
         "modifications_en": "Thumbnail; image content unchanged.",
@@ -6158,38 +6131,11 @@
     ]
   },
   "WHOOP-ART-16": {
-    "hero_local": "images/researched/batch-01/LM_SL_02_inline.png",
+    "hero_local": "",
     "figure_local": "",
-    "hero_source_page": "https://commons.wikimedia.org/wiki/File:Sleep_Hypnogram.svg",
+    "hero_source_page": "",
     "figure_source_page": "",
-    "image_attributions": [
-      {
-        "article_id": "WHOOP-ART-16",
-        "role": "hero",
-        "asset": "images/researched/batch-01/LM_SL_02_inline.png",
-        "title": "Sleep Hypnogram.svg",
-        "source_page": "https://commons.wikimedia.org/wiki/File:Sleep_Hypnogram.svg",
-        "source_asset_url": "https://upload.wikimedia.org/wikipedia/commons/3/3e/Sleep_Hypnogram.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-        "download_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3e/Sleep_Hypnogram.svg/1280px-Sleep_Hypnogram.svg.png",
-        "author": "RazerM at English Wikipedia",
-        "license": "CC BY-SA 3.0",
-        "license_url": "https://creativecommons.org/licenses/by-sa/3.0/",
-        "caption_vi": "Hypnogram minh họa các chu kỳ chuyển đổi giữa thức, giai đoạn REM và giấc ngủ sâu (NREM 3 / SWS).",
-        "caption_en": "Hypnogram illustrating sleep stage cycles between wakefulness, REM and deep slow-wave sleep (NREM 3).",
-        "alt_vi": "Hypnogram minh họa các chu kỳ chuyển đổi giữa thức, giai đoạn REM và giấc ngủ sâu (NREM 3 / SWS).",
-        "alt_en": "Hypnogram illustrating sleep stage cycles between wakefulness, REM and deep slow-wave sleep (NREM 3).",
-        "relevance_vi": "Trục giai đoạn và thời gian đã xem trực tiếp; đây là ví dụ, không phải lịch ngủ bắt buộc.",
-        "modifications_vi": "PNG kết xuất từ SVG; giữ nguyên nội dung.",
-        "modifications_en": "PNG rendering of SVG; content unchanged.",
-        "fit": "contain",
-        "width": 1280,
-        "height": 645,
-        "sha256": "db4e846fe771741226ca6b1e048eb8187aafeec44735ef9733f7a962133c9768",
-        "checked_date": "2026-10-26",
-        "review_status": "Subject, source and licence checked",
-        "batch": 1
-      }
-    ],
+    "image_attributions": [],
     "creator": "See asset credits; original SVG by Pulse & Vitality",
     "provenance": "Selected licensed illustration only where useful; text-card diagrams replaced with prose and tables.",
     "evidence_urls": [
@@ -6278,12 +6224,12 @@
     "provenance": "Selected licensed illustration only where useful; text-card diagrams replaced with prose and tables.",
     "evidence_urls": [
       "https://www.niddk.nih.gov/health-information/diet-nutrition/changing-habits-better-health",
-      "https://pubmed.ncbi.nlm.nih.gov/20921542/",
-      "https://www.who.int/initiatives/behealthy/physical-activity/",
-      "https://www.cdc.gov/physical-activity-basics/guidelines/adults.html",
       "https://www.fda.gov/food/nutrition-facts-label/how-understand-and-use-nutrition-facts-label",
       "https://www.niddk.nih.gov/health-information/weight-management/just-enough-food-portions",
-      "https://www.nhlbi.nih.gov/health/sleep/how-much-sleep"
+      "https://pubmed.ncbi.nlm.nih.gov/20921542/",
+      "https://www.nhlbi.nih.gov/health/sleep/how-much-sleep",
+      "https://www.who.int/initiatives/behealthy/physical-activity/",
+      "https://www.cdc.gov/physical-activity-basics/guidelines/adults.html"
     ]
   },
   "WHOOP-ART-19": {
@@ -6304,10 +6250,10 @@
         "role": "hero",
         "asset": "images/researched/batch-04/MW_NUT_03_hero.jpg",
         "batch": 4,
-        "caption_vi": "Nguồn thực phẩm giàu chất đạm, tinh bột và chất béo lành mạnh hỗ trợ phục hồi và phát triển cơ bắp.",
-        "caption_en": "Wholesome sources of protein, carbohydrates and healthy fats supporting recovery and muscle growth.",
-        "alt_vi": "Nguồn thực phẩm giàu chất đạm, tinh bột và chất béo lành mạnh hỗ trợ phục hồi và phát triển cơ bắp.",
-        "alt_en": "Wholesome sources of protein, carbohydrates and healthy fats supporting recovery and muscle growth.",
+        "caption_vi": "Một bữa ăn được chuẩn bị sẵn; ảnh không xác định đủ thành phần dinh dưỡng của khẩu phần.",
+        "caption_en": "A prepared meal; the photo does not establish its nutritional composition.",
+        "alt_vi": "Một bữa ăn được chuẩn bị sẵn; ảnh không xác định đủ thành phần dinh dưỡng của khẩu phần.",
+        "alt_en": "A prepared meal; the photo does not establish its nutritional composition.",
         "relevance_vi": "Nguồn mô tả thành phần cung cấp protein; không suy số gram protein hoặc nhu cầu cá nhân từ kích thước món ăn trong ảnh.",
         "fit": "contain",
         "modifications_vi": "Bản thu nhỏ; giữ nguyên nội dung.",
@@ -6322,7 +6268,7 @@
     "creator": "See asset credits; original SVG by Pulse & Vitality",
     "provenance": "Selected licensed illustration only where useful; text-card diagrams replaced with prose and tables.",
     "evidence_urls": [
-      "https://www.whoop.com/us/en/thelocker/how-to-count-macros/",
+      "https://www.fda.gov/food/nutrition-facts-label/how-understand-and-use-nutrition-facts-label",
       "https://ods.od.nih.gov/factsheets/ExerciseAndAthleticPerformance-HealthProfessional/",
       "https://www.niddk.nih.gov/health-information/diet-nutrition/changing-habits-better-health"
     ]
@@ -6344,10 +6290,10 @@
         "author": "Kyu3",
         "license": "CC BY-SA 4.0",
         "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
-        "caption_vi": "Cảm biến quang học ở mặt dưới thiết bị đeo theo dõi nhịp tim và HRV để ước tính đáp ứng sinh lý trong ngày.",
-        "caption_en": "Optical sensor beneath a wearable tracking heart rate and HRV to estimate daily physiological stress.",
-        "alt_vi": "Cảm biến quang học ở mặt dưới thiết bị đeo theo dõi nhịp tim và HRV để ước tính đáp ứng sinh lý trong ngày.",
-        "alt_en": "Optical sensor beneath a wearable tracking heart rate and HRV to estimate daily physiological stress.",
+        "caption_vi": "Cảm biến quang học ở mặt dưới một thiết bị đeo.",
+        "caption_en": "An optical sensor on the underside of a wearable.",
+        "alt_vi": "Cảm biến quang học ở mặt dưới một thiết bị đeo.",
+        "alt_en": "An optical sensor on the underside of a wearable.",
         "relevance_vi": "Cho thấy tín hiệu phần cứng mà thuật toán thiết bị đeo dùng; không giả làm ảnh chụp điểm ngủ.",
         "modifications_vi": "Bản thu nhỏ; giữ nguyên nội dung.",
         "modifications_en": "Thumbnail; image content unchanged.",
@@ -6363,9 +6309,8 @@
     "creator": "See asset credits; original SVG by Pulse & Vitality",
     "provenance": "Selected licensed illustration only where useful; text-card diagrams replaced with prose and tables.",
     "evidence_urls": [
-      "https://www.whoop.com/us/en/thelocker/introducing-stress-monitor-a-new-way-to-monitor-manage-stress/",
-      "https://support.whoop.com/s/article/Get-to-Know-the-Stress-Monitor?language=en_US",
-      "https://www.nimh.nih.gov/health/publications/so-stressed-out-fact-sheet"
+      "https://www.nimh.nih.gov/health/publications/so-stressed-out-fact-sheet",
+      "https://www.whoop.com/us/en/thelocker/introducing-stress-monitor-a-new-way-to-monitor-manage-stress/"
     ]
   },
   "WHOOP-ART-21": {
@@ -6386,10 +6331,10 @@
         "role": "hero",
         "asset": "images/researched/batch-06/MW_REL_08_hero.jpg",
         "batch": 6,
-        "caption_vi": "Nghỉ ngơi và tạo vùng đệm thư giãn trước giờ ngủ giúp giảm căng thẳng và cải thiện chất lượng giấc ngủ.",
-        "caption_en": "Relaxing and establishing an evening wind-down routine helps reduce stress and improve sleep quality.",
-        "alt_vi": "Nghỉ ngơi và tạo vùng đệm thư giãn trước giờ ngủ giúp giảm căng thẳng và cải thiện chất lượng giấc ngủ.",
-        "alt_en": "Relaxing and establishing an evening wind-down routine helps reduce stress and improve sleep quality.",
+        "caption_vi": "Hai người nằm nghỉ trên giường.",
+        "caption_en": "Two people resting in bed.",
+        "alt_vi": "Hai người nằm nghỉ trên giường.",
+        "alt_en": "Two people resting in bed.",
         "relevance_vi": "Gắn trực tiếp với sắp xếp giấc ngủ. Không gán xung đột, ngáy hay bệnh lý cho người mẫu, và không coi ngủ chung là lựa chọn bắt buộc.",
         "fit": "cover",
         "modifications_vi": "Pexels thu nhỏ/nén JPEG; không sửa nội dung.",
@@ -6406,9 +6351,9 @@
     "evidence_urls": [
       "https://www.whoop.com/us/en/thelocker/how-stress-impacts-sleep-patterns/",
       "https://www.nimh.nih.gov/health/publications/so-stressed-out-fact-sheet",
-      "https://www.nhlbi.nih.gov/health/insomnia/treatment",
-      "https://www.nhlbi.nih.gov/health/sleep/stages-of-sleep",
-      "https://www.nhlbi.nih.gov/health/sleep-deprivation/healthy-sleep-habits"
+      "https://www.nhlbi.nih.gov/health/sleep-deprivation/how-much-sleep",
+      "https://www.nhlbi.nih.gov/health/sleep/how-much-sleep",
+      "https://www.nhlbi.nih.gov/health/insomnia/treatment"
     ]
   },
   "WHOOP-ART-22": {
@@ -6429,10 +6374,10 @@
         "role": "hero",
         "asset": "images/researched/batch-05/MW_SXO_01_hero.jpg",
         "batch": 5,
-        "caption_vi": "Dành thời gian nghỉ ngơi yên tĩnh và đọc sách giúp nhận diện và giải tỏa các biểu hiện căng thẳng cơ thể.",
-        "caption_en": "Taking quiet rest time and reading helps recognize and relieve somatic stress symptoms.",
-        "alt_vi": "Dành thời gian nghỉ ngơi yên tĩnh và đọc sách giúp nhận diện và giải tỏa các biểu hiện căng thẳng cơ thể.",
-        "alt_en": "Taking quiet rest time and reading helps recognize and relieve somatic stress symptoms.",
+        "caption_vi": "Hai người trò chuyện trong một buổi tư vấn.",
+        "caption_en": "Two people talking during a consultation.",
+        "alt_vi": "Hai người trò chuyện trong một buổi tư vấn.",
+        "alt_en": "Two people talking during a consultation.",
         "relevance_vi": "Không dùng vóc dáng, cử chỉ hay sự gần gũi trong ảnh để đánh giá ham muốn của một người.",
         "fit": "contain",
         "modifications_vi": "Pexels thu nhỏ/nén JPEG; không sửa nội dung.",
@@ -6449,9 +6394,8 @@
     "evidence_urls": [
       "https://www.nimh.nih.gov/health/publications/so-stressed-out-fact-sheet",
       "https://www.whoop.com/us/en/thelocker/introducing-stress-monitor-a-new-way-to-monitor-manage-stress/",
-      "https://support.whoop.com/s/article/Get-to-Know-the-Stress-Monitor?language=en_US",
-      "https://www.whoop.com/us/en/thelocker/how-to-manage-stress/",
-      "https://pubmed.ncbi.nlm.nih.gov/8598068/"
+      "https://www.nhs.uk/symptoms/shortness-of-breath/",
+      "https://www.nhs.uk/conditions/heart-attack/"
     ]
   },
   "WHOOP-ART-23": {
@@ -6472,10 +6416,10 @@
         "role": "hero",
         "asset": "images/researched/batch-02/DM_HW_01_hero.jpg",
         "batch": 2,
-        "caption_vi": "Tư thế ngồi yên và thoải mái khi dành thời gian thực hành kỹ thuật thở điều hòa hệ thần kinh.",
-        "caption_en": "Sitting comfortably while practicing structured breathing techniques to regulate the nervous system.",
-        "alt_vi": "Tư thế ngồi yên và thoải mái khi dành thời gian thực hành kỹ thuật thở điều hòa hệ thần kinh.",
-        "alt_en": "Sitting comfortably while practicing structured breathing techniques to regulate the nervous system.",
+        "caption_vi": "Một người ngồi yên trong tư thế thiền.",
+        "caption_en": "A person sitting in a meditation posture.",
+        "alt_vi": "Một người ngồi yên trong tư thế thiền.",
+        "alt_en": "A person sitting in a meditation posture.",
         "relevance_vi": "Ảnh bối cảnh thực hành, không giả làm ảnh người đang thực hiện chính xác nhịp hít hai lần rồi thở ra của nghiên cứu.",
         "fit": "cover",
         "modifications_vi": "Pexels thu nhỏ/nén JPEG; không sửa nội dung.",
@@ -6490,9 +6434,11 @@
     "creator": "See asset credits; original SVG by Pulse & Vitality",
     "provenance": "Selected licensed illustration only where useful; text-card diagrams replaced with prose and tables.",
     "evidence_urls": [
-      "https://www.whoop.com/us/en/thelocker/how-to-manage-stress/",
+      "https://www.nimh.nih.gov/health/publications/so-stressed-out-fact-sheet",
       "https://pubmed.ncbi.nlm.nih.gov/36630953/",
-      "https://www.nimh.nih.gov/health/publications/so-stressed-out-fact-sheet"
+      "https://www.cdc.gov/physical-activity-basics/guidelines/adults.html",
+      "https://www.nhs.uk/symptoms/shortness-of-breath/",
+      "https://www.nhs.uk/conditions/heart-attack/"
     ]
   },
   "WHOOP-ART-24": {
@@ -6512,10 +6458,10 @@
         "author": "Clinique Somnomed",
         "license": "CC BY-SA 4.0",
         "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
-        "caption_vi": "Bản ghi đa ký giấc ngủ tiêu chuẩn trong phòng kiểm tra chuyên khoa giúp phân tích nhu cầu và sự gián đoạn giấc ngủ.",
-        "caption_en": "Standard polysomnography sleep recording in a clinical laboratory analyzing sleep need and disruptions.",
-        "alt_vi": "Bản ghi đa ký giấc ngủ tiêu chuẩn trong phòng kiểm tra chuyên khoa giúp phân tích nhu cầu và sự gián đoạn giấc ngủ.",
-        "alt_en": "Standard polysomnography sleep recording in a clinical laboratory analyzing sleep need and disruptions.",
+        "caption_vi": "Một người tham gia ghi dữ liệu giấc ngủ với các điện cực.",
+        "caption_en": "A person participating in sleep recording with electrodes.",
+        "alt_vi": "Một người tham gia ghi dữ liệu giấc ngủ với các điện cực.",
+        "alt_en": "A person participating in sleep recording with electrodes.",
         "relevance_vi": "Đặt đúng bối cảnh phép đo dùng phân loại ngủ sâu; người trong ảnh không được gán chẩn đoán.",
         "modifications_vi": "Bản thu nhỏ; giữ nguyên nội dung.",
         "modifications_en": "Thumbnail; image content unchanged.",
@@ -6531,12 +6477,10 @@
     "creator": "See asset credits; original SVG by Pulse & Vitality",
     "provenance": "Selected licensed illustration only where useful; text-card diagrams replaced with prose and tables.",
     "evidence_urls": [
+      "https://www.nhlbi.nih.gov/health/sleep/how-much-sleep",
       "https://www.whoop.com/us/en/thelocker/how-much-sleep-do-i-need/",
-      "https://support.whoop.com/s/article/WHOOP-Sleep?language=en_US",
       "https://www.nhlbi.nih.gov/health/sleep-deprivation/how-much-sleep",
-      "https://www.nhlbi.nih.gov/health/insomnia/treatment",
-      "https://www.nhlbi.nih.gov/health/sleep-apnea/diagnosis",
-      "https://www.nhlbi.nih.gov/health/sleep/stages-of-sleep"
+      "https://www.nhlbi.nih.gov/health/insomnia/treatment"
     ]
   },
   "WHOOP-ART-25": {
@@ -6557,10 +6501,10 @@
         "role": "hero",
         "asset": "images/researched/batch-03/WH_16_hero.jpg",
         "batch": 3,
-        "caption_vi": "Cảm biến quang học chiếu sáng ở mặt dưới đồng hồ đo lường SpO₂, nhiệt độ da và các chỉ số sinh tồn đêm.",
-        "caption_en": "Illuminated optical sensor on a smartwatch measuring SpO2, skin temperature and overnight vitals.",
-        "alt_vi": "Cảm biến quang học chiếu sáng ở mặt dưới đồng hồ đo lường SpO₂, nhiệt độ da và các chỉ số sinh tồn đêm.",
-        "alt_en": "Illuminated optical sensor on a smartwatch measuring SpO2, skin temperature and overnight vitals.",
+        "caption_vi": "Cảm biến quang học phát sáng ở mặt dưới một đồng hồ.",
+        "caption_en": "An illuminated optical sensor on a watch.",
+        "alt_vi": "Cảm biến quang học phát sáng ở mặt dưới một đồng hồ.",
+        "alt_en": "An illuminated optical sensor on a watch.",
         "relevance_vi": "Chỉ mô tả cảm biến nhìn thấy, không khẳng định mẫu đồng hồ này cung cấp điểm HRV theo chu kỳ hoặc đo hormone.",
         "fit": "contain",
         "modifications_vi": "Giữ nguyên nội dung file ảnh gốc.",
@@ -6575,10 +6519,10 @@
     "creator": "See asset credits; original SVG by Pulse & Vitality",
     "provenance": "Selected licensed illustration only where useful; text-card diagrams replaced with prose and tables.",
     "evidence_urls": [
-      "https://support.whoop.com/s/article/WHOOP-Health-Monitor-Report",
+      "https://www.heart.org/en/healthy-living/fitness/fitness-basics/target-heart-rates",
       "https://www.fda.gov/medical-devices/products-and-medical-procedures/pulse-oximeters",
-      "https://support.whoop.com/s/article/What-Affects-WHOOP-Accuracy?language=en_US",
-      "https://medlineplus.gov/ency/article/002341.htm"
+      "https://www.nhs.uk/symptoms/shortness-of-breath/",
+      "https://www.nhs.uk/conditions/heart-attack/"
     ]
   },
   "WHOOP-ART-26": {
@@ -6599,10 +6543,10 @@
         "role": "hero",
         "asset": "images/researched/batch-02/DM_WH_01_hero.jpg",
         "batch": 2,
-        "caption_vi": "Một người tập với tạ tay; minh họa tải cơ học và bài tập sức mạnh toàn thân.",
-        "caption_en": "A person exercising with dumbbells; illustrating muscular load and resistance training.",
-        "alt_vi": "Một người tập với tạ tay; minh họa tải cơ học và bài tập sức mạnh toàn thân.",
-        "alt_en": "A person exercising with dumbbells; illustrating muscular load and resistance training.",
+        "caption_vi": "Một người thực hiện bài tập vận động cánh tay.",
+        "caption_en": "A person performing an arm exercise.",
+        "alt_vi": "Một người thực hiện bài tập vận động cánh tay.",
+        "alt_en": "A person performing an arm exercise.",
         "relevance_vi": "Thể hiện vận động thực tế, không gán pha hormone hoặc lịch tập bắt buộc cho người trong ảnh.",
         "fit": "cover",
         "modifications_vi": "Pexels thu nhỏ/nén JPEG; không sửa nội dung.",
@@ -6617,12 +6561,9 @@
     "creator": "See asset credits; original SVG by Pulse & Vitality",
     "provenance": "Selected licensed illustration only where useful; text-card diagrams replaced with prose and tables.",
     "evidence_urls": [
-      "https://support.whoop.com/s/article/WHOOP-Strain?language=en_US",
-      "https://www.whoop.com/us/en/thelocker/how-does-whoop-strain-work-101/",
-      "https://www.who.int/initiatives/behealthy/physical-activity/",
-      "https://support.whoop.com/s/article/List-of-WHOOP-Activities",
       "https://pubmed.ncbi.nlm.nih.gov/11708692/",
-      "https://www.cdc.gov/physical-activity-basics/guidelines/adults.html"
+      "https://www.cdc.gov/physical-activity-basics/guidelines/adults.html",
+      "https://support.whoop.com/s/article/WHOOP-Strain?language=en_US"
     ]
   },
   "WHOOP-ART-27": {
@@ -6662,53 +6603,26 @@
     "provenance": "Selected licensed illustration only where useful; text-card diagrams replaced with prose and tables.",
     "evidence_urls": [
       "https://support.whoop.com/s/article/Healthspan-WHOOP-Age-Pace-of-Aging-Guide?language=en_US",
-      "https://www.who.int/initiatives/behealthy/physical-activity/",
+      "https://www.who.int/philippines/news/q-a-detail/healthy-ageing-and-functional-ability",
+      "https://www.cdc.gov/physical-activity-basics/guidelines/adults.html",
       "https://support.whoop.com/s/article/VO2-Max?language=en_US",
-      "https://www.heart.org/en/healthy-living/fitness/fitness-basics/target-heart-rates",
-      "https://pubmed.ncbi.nlm.nih.gov/29345524/"
+      "https://www.nhlbi.nih.gov/health/sleep/how-much-sleep"
     ]
   },
   "WHOOP-ART-28": {
-    "hero_local": "images/researched/batch-01/LM_RC_01_hero.jpg",
+    "hero_local": "",
     "figure_local": "",
-    "hero_source_page": "https://commons.wikimedia.org/wiki/File:Polar_H10.jpg",
+    "hero_source_page": "",
     "figure_source_page": "",
-    "image_attributions": [
-      {
-        "article_id": "WHOOP-ART-28",
-        "role": "hero",
-        "asset": "images/researched/batch-01/LM_RC_01_hero.jpg",
-        "title": "Polar H10.jpg",
-        "source_page": "https://commons.wikimedia.org/wiki/File:Polar_H10.jpg",
-        "source_asset_url": "https://upload.wikimedia.org/wikipedia/commons/4/4a/Polar_H10.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-        "download_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4a/Polar_H10.jpg/1280px-Polar_H10.jpg",
-        "author": "Tiia Monto",
-        "license": "CC BY-SA 3.0",
-        "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
-        "caption_vi": "Thiết bị đo tín hiệu điện tim gắn đai ngực cung cấp bản ghi điện tim chính xác phục vụ theo dõi nhịp.",
-        "caption_en": "Chest-worn cardiac sensor providing precise electrical recordings for heart rhythm monitoring.",
-        "alt_vi": "Thiết bị đo tín hiệu điện tim gắn đai ngực cung cấp bản ghi điện tim chính xác phục vụ theo dõi nhịp.",
-        "alt_en": "Chest-worn cardiac sensor providing precise electrical recordings for heart rhythm monitoring.",
-        "relevance_vi": "Minh họa một cách thu tín hiệu nhịp tim; không khẳng định đai ngực và đồng hồ cho HRV giống nhau.",
-        "modifications_vi": "Bản thu nhỏ; giữ nguyên nội dung.",
-        "modifications_en": "Thumbnail; image content unchanged.",
-        "fit": "contain",
-        "width": 1280,
-        "height": 1208,
-        "sha256": "4f1708611507b0bc46f0b9d99d81cc259bb45480bd23965acc941d0caf54f21b",
-        "checked_date": "2026-10-26",
-        "review_status": "Subject, source and licence checked",
-        "batch": 1
-      }
-    ],
+    "image_attributions": [],
     "creator": "See asset credits; original SVG by Pulse & Vitality",
     "provenance": "Selected licensed illustration only where useful; text-card diagrams replaced with prose and tables.",
     "evidence_urls": [
-      "https://support.whoop.com/s/article/ECG-Data-Accuracy-Best-Practices?language=en_US",
-      "https://support.whoop.com/s/article/Irregular-Heart-Rhythm-Notifications-Data-Accuracy-Best-Practices?language=en_US",
       "https://www.accessdata.fda.gov/cdrh_docs/pdf24/K243236.pdf",
-      "https://apps.apple.com/gb/app/whoop/id933944389",
-      "https://www.heart.org/en/healthy-living/fitness/fitness-basics/target-heart-rates"
+      "https://support.whoop.com/s/article/Irregular-Heart-Rhythm-Notifications-Data-Accuracy-Best-Practices?language=en_US",
+      "https://www.nhs.uk/conditions/atrial-fibrillation/",
+      "https://www.nhs.uk/symptoms/shortness-of-breath/",
+      "https://www.nhs.uk/conditions/heart-attack/"
     ]
   },
   "WHOOP-ART-29": {
@@ -6747,13 +6661,9 @@
     "creator": "See asset credits; original SVG by Pulse & Vitality",
     "provenance": "Selected licensed illustration only where useful; text-card diagrams replaced with prose and tables.",
     "evidence_urls": [
-      "https://support.whoop.com/s/article/WHOOP-Life-Blood-Pressure-Insights",
       "https://www.heart.org/en/health-topics/high-blood-pressure/understanding-blood-pressure-readings/monitoring-your-blood-pressure-at-home",
-      "https://www.fda.gov/inspections-compliance-enforcement-and-criminal-investigations/warning-letters/whoop-inc-709755-07142025",
-      "https://www.fda.gov/inspections-compliance-enforcement-and-criminal-investigations/warning-letters/whoop-inc-709755-06172026",
-      "https://www.whoop.com/us/en/thelocker/blood-pressure-insights-accuracy/",
-      "https://apps.apple.com/gb/app/whoop/id933944389",
-      "https://www.heart.org/en/healthy-living/fitness/fitness-basics/target-heart-rates"
+      "https://support.whoop.com/s/article/WHOOP-Life-Blood-Pressure-Insights",
+      "https://www.heart.org/en/health-topics/high-blood-pressure/understanding-blood-pressure-readings/when-to-call-911-for-high-blood-pressure"
     ]
   }
 }

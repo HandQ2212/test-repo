@@ -6,7 +6,7 @@ How to read heart rate variability
 
 ---
 
-Nếu nhịp tim nghỉ của bạn là **60 nhịp/phút (bpm)**, rất dễ lầm tưởng rằng trái tim đập chính xác mỗi **1.000 giây** một lần giống như đồng hồ thạch anh. Trên thực tế, một trái tim con người khỏe mạnh không bao giờ đập cứng nhắc như máy móc.
+Nếu nhịp tim nghỉ là 60 nhịp/phút, khoảng thời gian trung bình giữa hai nhịp là một giây, hay 1.000 mili giây. Các khoảng này không nhất thiết bằng nhau; sự thay đổi giữa chúng là cơ sở để hiểu HRV.
 
 HRV mô tả sự thay đổi khoảng thời gian giữa các nhịp tim, không phải nhịp tim trung bình. Chỉ số phụ thuộc tuổi, tư thế, hô hấp, thời điểm và phương pháp đo. Giá trị RMSSD ban đêm không thể so trực tiếp với SDNN đo cả ngày.
 

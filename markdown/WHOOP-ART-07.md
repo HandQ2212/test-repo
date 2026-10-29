@@ -70,4 +70,4 @@ Một số thấp không ra lệnh bạn phải nhịn; một số cao cũng kh�
 - **S10** — Shcherbina A, Mattsson CM, Waggott D, et al. J Pers Med. 2017;7(2):3. [Nghiên cứu năm 2017 về sai số nhịp tim và năng lượng trên thiết bị đeo](https://pubmed.ncbi.nlm.nih.gov/28538708/). PMID 28538708. DOI 10.3390/jpm7020003. Phạm vi tài liệu: Sai số tiêu hao năng lượng của 7 thiết bị được thử năm 2017; nghiên cứu không thử thiết bị trong nguồn.
 - **S30** —  [NIH: dinh dưỡng và thực phẩm bổ sung trong vận động](https://ods.od.nih.gov/factsheets/ExerciseAndAthleticPerformance-HealthProfessional/). Phạm vi tài liệu: Nền tảng dinh dưỡng thể thao, năng lượng, carbohydrate, protein và chất béo; không bắt buộc bổ sung.
 
-> Bài biên soạn độc lập bởi Pulse & Vitality. Nội dung chỉnh ngày 27/10/2026; nguồn đối chiếu 2026-10-26. Liên kết được đặt tên theo chủ đề; tên tài liệu gốc và đơn vị phát hành có trên trang nguồn.
+> Bài biên soạn độc lập bởi Pulse & Vitality. Nội dung chỉnh ngày 29/10/2026; nguồn đối chiếu 2026-10-26. Liên kết được đặt tên theo chủ đề; tên tài liệu gốc và đơn vị phát hành có trên trang nguồn.

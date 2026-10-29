@@ -974,5 +974,57 @@
     "pmid": "15380917",
     "bibliographic_citation": "Kyle UG, Bosaeus I, De Lorenzo AD, et al. Clin Nutr. 2004;23(5):1226–1243.",
     "display_label": "ESPEN: nguyên lý và giới hạn của ước tính thành phần bằng BIA"
+  },
+  {
+    "id": "S79",
+    "title": "Healthy ageing and functional ability",
+    "url": "https://www.who.int/philippines/news/q-a-detail/healthy-ageing-and-functional-ability",
+    "publisher": "World Health Organization",
+    "kind": "public_health",
+    "supports": "Lão hóa khỏe mạnh là duy trì năng lực thực hiện điều có ý nghĩa; người có bệnh được kiểm soát vẫn có thể lão hóa khỏe mạnh.",
+    "verification_method": "direct_page",
+    "checked_on": "2026-10-29",
+    "doi": "",
+    "pmid": "",
+    "display_label": "WHO: lão hóa khỏe mạnh và khả năng thực hiện hoạt động"
+  },
+  {
+    "id": "S80",
+    "title": "Atrial fibrillation",
+    "url": "https://www.nhs.uk/conditions/atrial-fibrillation/",
+    "publisher": "NHS",
+    "kind": "clinical_guidance",
+    "supports": "Rung nhĩ là rối loạn nhịp có liên quan nguy cơ đột quỵ; cần đánh giá và điều trị theo hoàn cảnh.",
+    "verification_method": "direct_page",
+    "checked_on": "2026-10-29",
+    "doi": "",
+    "pmid": "",
+    "display_label": "NHS: rung nhĩ và đánh giá"
+  },
+  {
+    "id": "S81",
+    "title": "Heart attack",
+    "url": "https://www.nhs.uk/conditions/heart-attack/",
+    "publisher": "NHS",
+    "kind": "clinical_guidance",
+    "supports": "Đau ngực nghiêm trọng và các triệu chứng nhồi máu cơ tim cần được xử trí khẩn cấp.",
+    "verification_method": "direct_page",
+    "checked_on": "2026-10-29",
+    "doi": "",
+    "pmid": "",
+    "display_label": "NHS: dấu hiệu cần cấp cứu do nhồi máu cơ tim"
+  },
+  {
+    "id": "S82",
+    "title": "When To Call 911 About High Blood Pressure",
+    "url": "https://www.heart.org/en/health-topics/high-blood-pressure/understanding-blood-pressure-readings/when-to-call-911-for-high-blood-pressure",
+    "publisher": "American Heart Association",
+    "kind": "clinical_guidance",
+    "supports": "Với người không mang thai, đo lại khi huyết áp trên 180 hoặc 120; cấp cứu nếu có triệu chứng, liên hệ nhân viên y tế ngay nếu không có triệu chứng.",
+    "verification_method": "direct_page",
+    "checked_on": "2026-10-29",
+    "doi": "",
+    "pmid": "",
+    "display_label": "AHA: xử trí huyết áp rất cao"
   }
 ]

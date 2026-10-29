@@ -66,4 +66,4 @@ Theo dõi nhịp thở có ích nhất khi giúp bạn hiểu tình trạng và 
 - **S71** —  [NHS: khó thở và khi nào cần trợ giúp](https://www.nhs.uk/symptoms/shortness-of-breath/). Phạm vi tài liệu: Dấu hiệu khó thở cần chăm sóc khẩn; triệu chứng nặng hoặc ảnh hưởng hoạt động cần đánh giá thay vì tự chẩn đoán.
 - **S39** —  [FDA: máy đo oxy ngoại vi và giới hạn sử dụng](https://www.fda.gov/medical-devices/products-and-medical-procedures/pulse-oximeters). Phạm vi tài liệu: Giới hạn đo SpO2 quang học; sắc tố da, tuần hoàn, nhiệt độ; ưu tiên triệu chứng. Không phải kiểm định riêng thiết bị trong nguồn.
 
-> Bài biên soạn độc lập bởi Pulse & Vitality. Nội dung chỉnh ngày 27/10/2026; nguồn đối chiếu 2026-10-26. Liên kết được đặt tên theo chủ đề; tên tài liệu gốc và đơn vị phát hành có trên trang nguồn.
+> Bài biên soạn độc lập bởi Pulse & Vitality. Nội dung chỉnh ngày 29/10/2026; nguồn đối chiếu 2026-10-26. Liên kết được đặt tên theo chủ đề; tên tài liệu gốc và đơn vị phát hành có trên trang nguồn.

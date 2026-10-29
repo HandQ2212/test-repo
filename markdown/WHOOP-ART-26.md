@@ -1,72 +1,39 @@
-# Strength Trainer: hiểu tải cơ, sets, reps và khối lượng tạ
+# Nhật ký tập sức mạnh: hiệp, lần lặp, mức tạ và gắng sức
 
-Nếu bạn từng trải qua một buổi tập chân kinh hoàng với các bài squat nặng, bước ra khỏi phòng gym với hai chân run rẩy và ngày hôm sau không thể đi xuống cầu thang bình thường, nhưng chiếc đồng hồ thể thao lại chỉ chấm điểm tải tập (Strain) vẻn vẹn 6 hoặc 7 điểm — thấp hơn cả một buổi đi bộ dạo mát 30 phút — thì bạn không hề đơn độc.
+Một buổi tập tạ có thể khiến cơ mỏi rõ dù nhịp tim trung bình không cao bằng lúc chạy. Đó là vì nhịp tim chỉ phản ánh một phần đáp ứng của cơ thể; nó không mô tả đầy đủ bài tập, kỹ thuật hay mức gắng sức của cơ. Nhật ký tập giúp bạn nhìn rõ hơn công việc đã thực hiện.
 
-Cảm giác hụt hẫng đó xuất phát từ giới hạn cố hữu của các thiết bị theo dõi chỉ dựa thuần túy vào nhịp tim. Tập luyện sức mạnh vận hành theo những cơ chế sinh lý hoàn toàn khác biệt so với các bài tập sức bền, và để đánh giá đúng công sức của bạn, tính năng **Strength Trainer** đã ra đời để đưa **tải cơ học (Muscular Load)** vào bức tranh toàn diện. [S40](https://support.whoop.com/s/article/WHOOP-Strain?language=en_US) [S01](https://www.whoop.com/us/en/thelocker/how-does-whoop-strain-work-101/)
+## Ghi những gì trong một buổi tập?
 
-## Vì sao nhịp tim đơn thuần đánh giá thấp bài tập tạ?
+Với mỗi bài, bạn có thể lưu tên bài, số hiệp, số lần lặp, mức tạ và cảm nhận độ khó. Ghi thêm thời gian nghỉ, khoảng chuyển động hoặc ghi chú kỹ thuật khi những điều đó quan trọng với bạn. Một buổi tập dùng dây kháng lực hoặc trọng lượng cơ thể vẫn có giá trị dù không có số kg để nhập.
 
-Khi bạn chạy bộ hay đạp xe, các nhóm cơ lớn co bóp nhịp nhàng liên tục, đòi hỏi tim phải bơm máu không ngừng nghỉ để cung cấp oxy, khiến nhịp tim duy trì ở mức cao suốt 30–60 phút. Đây là **tải tim mạch (Cardiovascular Load)**. [S01](https://www.whoop.com/us/en/thelocker/how-does-whoop-strain-work-101/)
+Nếu đổi bài, đổi dụng cụ hoặc thay đổi cách tính trọng lượng, đừng so các con số như thể mọi điều kiện đều giống nhau. Với tạ đơn, cần ghi rõ số kg là cho một tay hay tổng hai tay; với máy tập, mức hiển thị không nhất thiết tương đương mức tạ tự do.
 
-Ngược lại, khi bạn gánh tạ squat 100 kg trong 8 lần lặp:
-- Áp lực cơ học trong bắp đùi tăng vọt, các sợi cơ co thắt cực đại làm chèn ép các mạch máu tại chỗ (Intramuscular Pressure), khiến dòng máu tạm thời bị cản trở.
-- Hệ thần kinh trung ương phải phát động các xung thần kinh tần số cao để huy động toàn bộ các sợi cơ co nhanh (Fast-twitch fibers).
-- Hiệp tập chỉ diễn ra trong khoảng 30 đến 45 giây, sau đó bạn ngồi nghỉ 2–3 phút. Trong lúc nghỉ, nhịp tim có thể tăng lên nhưng nhanh chóng hạ xuống.
+## Ví dụ tính khối lượng tập
 
-Nếu chỉ nhìn vào nhịp tim trung bình của cả buổi tập (bao gồm phần lớn thời gian ngồi nghỉ giữa các hiệp), thuật toán tim mạch thông thường sẽ lầm tưởng rằng bạn "chẳng làm việc mấy". Nhưng thực tế, các sợi cơ bắp và hệ thần kinh của bạn vừa phải gánh chịu một khối lượng công cơ học khổng lồ và những vi tổn thương sâu sắc cần nhiều ngày để phục hồi. [S40](https://support.whoop.com/s/article/WHOOP-Strain?language=en_US) [S60](https://pubmed.ncbi.nlm.nih.gov/11708692/)
+Giả sử bạn thực hiện 3 hiệp, mỗi hiệp 10 lần với mức tạ 20 kg:
 
-## Bốn biến số cốt lõi trong nhật ký tập sức mạnh
+**3 × 10 × 20 = 600 kg-lần lặp.**
 
-Để theo dõi và lập trình tập luyện sức mạnh một cách khoa học, bạn cần nắm vững bốn thông số cơ bản: [S50](https://support.whoop.com/s/article/List-of-WHOOP-Activities) [S60](https://pubmed.ncbi.nlm.nih.gov/11708692/)
+Con số này là một cách tóm tắt khối lượng tập trong ví dụ; nó không có nghĩa bạn nâng một vật nặng 600 kg, không phải năng lượng tiêu hao hay công cơ học đo bằng joule. Nó cũng không cho biết hết chất lượng kỹ thuật, độ khó hoặc ảnh hưởng của từng bài tập. Nếu các hiệp dùng mức tạ khác nhau, tính từng hiệp rồi cộng lại.
 
-| Biến số | Định nghĩa | Ví dụ trong thực tế |
-|---|---|---|
-| **Bài tập (Exercise)** | Động tác cụ thể được thực hiện (bài đa khớp compound hay cô lập isolation) | Barbell Back Squat, Dumbbell Bench Press, Lat Pulldown |
-| **Số hiệp (Sets)** | Số lần bạn thực hiện liên tục một nhóm lần lặp rồi nghỉ | 3 hiệp hoặc 4 hiệp |
-| **Số lần lặp (Reps)** | Số lần hoàn thành trọn vẹn đường chuyển động của động tác trong một hiệp | 8 lần lặp hoặc 10 lần lặp |
-| **Mức tạ (Weight / Load)** | Khối lượng tạ được nâng (tính bằng kg hoặc pound), bao gồm cả thanh đòn | 60 kg, 80 kg, 100 kg |
-| **Tổng khối lượng tải (Volume Load)** | Tổng trọng lượng được di chuyển: **Sets × Reps × Weight** | 3 hiệp × 10 lần × 60 kg = **1.800 kg** |
+Ví dụ hai buổi cùng 600 kg-lần lặp có thể tạo cảm giác rất khác nếu bài tập, tốc độ, thời gian nghỉ hoặc biên độ chuyển động khác nhau. Vì vậy đừng dùng tổng này như cuộc thi hằng ngày hoặc bằng chứng chắc chắn rằng một buổi tốt hơn buổi kia.
 
-Bên cạnh Volume Load, mức độ gắng sức của hiệp tập thường được đánh giá bằng thước đo **RIR (Reps in Reserve - số lần còn có thể làm thêm trước khi thất bại)** hoặc **RPE (Rating of Perceived Exertion từ 1–10)**. Dừng hiệp tập ở mức RIR 1–2 (còn dư 1–2 cái nữa là sập tạ) thường mang lại sự kích thích cơ bắp tối ưu mà không làm kiệt quệ hệ thần kinh trung ương. [S60](https://pubmed.ncbi.nlm.nih.gov/11708692/)
+## Thêm cảm nhận gắng sức
 
-## Strength Trainer tính toán tải cơ như thế nào?
+Sau buổi tập, bạn có thể tự đánh giá độ khó trên một thang nhất quán. Một cách theo dõi tải là nhân thời lượng buổi với mức gắng sức cảm nhận: buổi 40 phút được chấm 5/10 cho 200 đơn vị tương đối. Đây là chỉ số tự báo cáo, không phải lượng calo hay thang điểm độc quyền 0–21 của một thiết bị khác. [S60](https://pubmed.ncbi.nlm.nih.gov/11708692/)
 
-Trên &lt;Tên App/&gt;, khi bạn kích hoạt tính năng Strength Trainer và ghi lại từng hiệp tập, thuật toán kết hợp dữ liệu từ hai nguồn độc lập: [S40](https://support.whoop.com/s/article/WHOOP-Strain?language=en_US)
+Ghi thêm tình trạng đau, mệt và chất lượng vận động có thể giúp bạn quyết định điều chỉnh. Mỏi cơ sau tập không phải điều kiện bắt buộc để buổi tập có ích; đau nhói, chóng mặt hoặc triệu chứng bất thường là lý do dừng lại và tìm tư vấn phù hợp.
 
-1. **Cảm biến chuyển động (Gia tốc kế & Con quay hồi chuyển):** Đo lường vận tốc di chuyển của thanh tạ hoặc cánh tay, biên độ chuyển động (Range of Motion - ROM), và phân tích thời gian pha co cơ lệch tâm (Eccentric - hạ tạ) lẫn đồng tâm (Concentric - đẩy tạ).
-2. **Khối lượng tạ và cấu trúc giải phẫu:** Dựa trên bài tập bạn chọn (ví dụ: Deadlift tác động chủ yếu lên chuỗi cơ sau: gân kheo, mông, lưng dưới) và số kg bạn nhập, ứng dụng tính toán **công cơ học (Mechanical Work = Lực × Quãng đường)** và mức độ mỏi cơ cục bộ.
+## Xếp buổi tập trong cả tuần
 
-Sau đó, tải cơ học này được tích hợp toán học cùng tải tim mạch để tạo thành một điểm số tải tập hoàn chỉnh (Workout Strain). Nhờ đó, một buổi tập nâng tạ nặng với nhịp tim không quá cao vẫn nhận được điểm Strain xứng đáng (ví dụ: 13.0 – 16.0), phản ánh chính xác sự tiêu hao sinh học thực tế của cơ thể. [S40](https://support.whoop.com/s/article/WHOOP-Strain?language=en_US)
+Hướng dẫn sức khỏe cộng đồng khuyến nghị người trưởng thành tập tăng cường cơ ít nhất hai ngày mỗi tuần, cùng hoạt động aerobic phù hợp. Người mới có thể bắt đầu bằng bài tập và mức khó vừa sức, học kỹ thuật rồi tăng dần; nhu cầu hồi phục tùy người và bài tập. [S63](https://www.cdc.gov/physical-activity-basics/guidelines/adults.html)
 
-## Ví dụ cụ thể: Một buổi tập sức mạnh 45 phút
-
-Dưới đây là bảng phân tích một buổi tập thân dưới mẫu của một người tập nâng tạ:
-
-| Bài tập | Cấu trúc tập | Phép tính khối lượng tải (Volume Load) | Nhóm cơ chịu tải chính |
-|---|---|---|---|
-| **1. Barbell Back Squat** | 4 hiệp × 8 reps @ 80 kg | 4 × 8 × 80 = **2.560 kg** | Cơ tứ đầu đùi, cơ mông, thân người |
-| **2. Romanian Deadlift** | 3 hiệp × 10 reps @ 70 kg | 3 × 10 × 70 = **2.100 kg** | Cơ đùi sau (gân kheo), mông, lưng dưới |
-| **3. Dumbbell Walking Lunge** | 3 hiệp × 12 bước @ 20 kg (2 quả 10kg) | 3 × 12 × 20 = **720 kg** | Cơ mông, đùi trước, khả năng thăng bằng |
-| **4. Standing Calf Raise** | 3 hiệp × 15 reps @ 50 kg | 3 × 15 × 50 = **2.250 kg** | Cơ bắp chuối |
-| **Tổng buổi tập** | **13 hiệp tập chính** | **Tổng Volume Load: 7.630 kg** | Toàn bộ thân dưới chịu áp lực cơ học cao |
-
-Nếu không có Strength Trainer, buổi tập này có thể chỉ được tính tải dựa trên khoảng 15 phút nhịp tim Zone 1–2 xen kẽ các lúc nghỉ. Với việc ghi nhận đầy đủ hơn 7,6 tấn tạ di chuyển, bạn sẽ thấy điểm phục hồi ngày hôm sau phản ánh đúng nhu cầu nghỉ ngơi của hệ cơ xương khớp.
-
-## Nguyên tắc an toàn: Kỹ thuật luôn đứng trước con số
-
-Mặc dù việc nhìn thấy điểm Strain cơ bắp cao hay tổng khối lượng tạ nhảy số mang lại nhiều phấn khích, bạn cần ghi nhớ những nguyên tắc sống còn:
-
-- **Không hy sinh kỹ thuật động tác để đổi lấy điểm số:** Nâng một mức tạ quá nặng với lưng cong gập hay khớp gối sụp vào trong chỉ để ứng dụng ghi nhận tải cao là con đường ngắn nhất dẫn đến chấn thương đĩa đệm và dây chằng. Một hiệp tập chỉ thực sự có giá trị khi từng rep được kiểm soát trọn vẹn và an toàn.
-- **Áp dụng Quá tải tăng tiến (Progressive Overload) bền vững:** Tăng tiến không nhất thiết phải là tăng thêm bánh tạ mỗi tuần. Cải thiện độ sâu của động tác squat, kiểm soát pha hạ tạ chậm hơn (tempo 3 giây), hoặc rút ngắn thời gian nghỉ giữa các hiệp cũng là những hình thức tăng tiến tuyệt vời.
-- **Cân bằng giữa sức mạnh và tim mạch:** Khuyến nghị từ WHO và CDC nhấn mạnh: người trưởng thành nên duy trì ít nhất 150 phút aerobic mức vừa mỗi tuần kết hợp với ít nhất 2 buổi tập tăng cường sức mạnh toàn thân. Sự kết hợp này mang lại lợi ích bảo vệ tim mạch, duy trì mật độ xương và kéo dài tuổi thọ khỏe mạnh vượt trội hơn bất kỳ hình thức đơn lẻ nào. [S04](https://www.who.int/initiatives/behealthy/physical-activity/) [S63](https://www.cdc.gov/physical-activity-basics/guidelines/adults.html)
+Bạn có thể ghi nhật ký trong &lt;Tên App/&gt; hoặc lưu dữ liệu từ nguồn tương thích nếu có. Các thông số ghi lại hỗ trợ nhìn xu hướng, nhưng không chứng minh ứng dụng tính được tải cơ bằng thuật toán của sản phẩm tham khảo hay dự báo chính xác mức phục hồi ngày mai. Hãy dành chỗ cho nghỉ ngơi, điều chỉnh lịch và cảm nhận của chính bạn. [S40](https://support.whoop.com/s/article/WHOOP-Strain?language=en_US)
 
 ## Nguồn tham khảo và phạm vi hỗ trợ
 
-- **S40** —  [Các cách ước tính tải tim mạch và tải cơ](https://support.whoop.com/s/article/WHOOP-Strain?language=en_US). Phạm vi tài liệu: Tải cơ tự động theo loại/thời lượng; liên kết bài sau tập; Strength Trainer ghi sets, reps, weights.
-- **S01** —  [Cách tính điểm tải vận động Strain](https://www.whoop.com/us/en/thelocker/how-does-whoop-strain-work-101/). Phạm vi tài liệu: Thang Strain phi tuyến 0–21; Day Strain và Activity Strain; tải tim mạch và cơ bắp.
-- **S04** —  [Khuyến nghị vận động thể lực của WHO](https://www.who.int/initiatives/behealthy/physical-activity/). Phạm vi tài liệu: Vận động tốt hơn không vận động; tập cơ lớn ít nhất 2 ngày/tuần; hoạt động aerobic.
-- **S50** —  [Danh sách hoạt động được tính tải cơ và thời gian sức mạnh trong nguồn](https://support.whoop.com/s/article/List-of-WHOOP-Activities). Phạm vi tài liệu: Ký hiệu * chỉ hoạt động tự ước tính Muscular Strain; ^ chỉ hoạt động tính vào Strength Activity Time; hai danh sách không đồng nhất.
 - **S60** — Foster C, Florhaug JA, Franklin J, et al. J Strength Cond Res. 2001;15(1):109–115. [Nghiên cứu gốc về theo dõi tải bằng session-RPE](https://pubmed.ncbi.nlm.nih.gov/11708692/). PMID 11708692. Phạm vi tài liệu: Session-RPE để theo dõi tải trong các hình thức tập; điểm cảm nhận và điểm nhịp tim không cùng giá trị tuyệt đối.
 - **S63** —  [CDC: vận động aerobic và tập sức mạnh cho người lớn](https://www.cdc.gov/physical-activity-basics/guidelines/adults.html). Phạm vi tài liệu: Người lớn: ít nhất 150 phút mức vừa hoặc75 phút mức mạnh mỗi tuần, kết hợp tương đương và ít nhất2 ngày tăng sức mạnh; chia nhỏ thời gian.
+- **S40** —  [Các cách ước tính tải tim mạch và tải cơ](https://support.whoop.com/s/article/WHOOP-Strain?language=en_US). Phạm vi tài liệu: Tải cơ tự động theo loại/thời lượng; liên kết bài sau tập; Strength Trainer ghi sets, reps, weights.
 
-> Bài biên soạn độc lập bởi Pulse & Vitality. Nội dung chỉnh ngày 27/10/2026; nguồn đối chiếu 2026-10-26. Liên kết được đặt tên theo chủ đề; tên tài liệu gốc và đơn vị phát hành có trên trang nguồn.
+> Bài biên soạn độc lập bởi Pulse & Vitality. Nội dung chỉnh ngày 29/10/2026; nguồn đối chiếu 2026-10-26. Liên kết được đặt tên theo chủ đề; tên tài liệu gốc và đơn vị phát hành có trên trang nguồn.

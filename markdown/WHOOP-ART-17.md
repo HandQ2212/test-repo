@@ -68,4 +68,4 @@ Một nguyên tắc đủ dùng khi mở &lt;Tên App/&gt; là: **đọc đúng 
 - **S78** — Kyle UG, Bosaeus I, De Lorenzo AD, et al. Clin Nutr. 2004;23(5):1226–1243. [ESPEN: nguyên lý và giới hạn của ước tính thành phần bằng BIA](https://pubmed.ncbi.nlm.nih.gov/15380917/). PMID 15380917. DOI 10.1016/j.clnu.2004.06.004. Phạm vi tài liệu: Nguyên lý BIA, ước tính nước/khối không mỡ và ảnh hưởng điều kiện đo; không đồng nhất ước tính nguồn khác nhau.
 - **S30** —  [NIH: dinh dưỡng và thực phẩm bổ sung trong vận động](https://ods.od.nih.gov/factsheets/ExerciseAndAthleticPerformance-HealthProfessional/). Phạm vi tài liệu: Nền tảng dinh dưỡng thể thao, năng lượng, carbohydrate, protein và chất béo; không bắt buộc bổ sung.
 
-> Bài biên soạn độc lập bởi Pulse & Vitality. Nội dung chỉnh ngày 27/10/2026; nguồn đối chiếu 2026-10-26. Liên kết được đặt tên theo chủ đề; tên tài liệu gốc và đơn vị phát hành có trên trang nguồn.
+> Bài biên soạn độc lập bởi Pulse & Vitality. Nội dung chỉnh ngày 29/10/2026; nguồn đối chiếu 2026-10-26. Liên kết được đặt tên theo chủ đề; tên tài liệu gốc và đơn vị phát hành có trên trang nguồn.

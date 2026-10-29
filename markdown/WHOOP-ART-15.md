@@ -65,4 +65,4 @@ Khi nhìn lại tiến triển, hỏi cả ba việc: cơ hội ngủ có đư�
 - **S74** —  [NHLBI: thói quen hỗ trợ ngủ và lịch làm ca](https://www.nhlbi.nih.gov/health/sleep-deprivation/healthy-sleep-habits). Phạm vi tài liệu: Lịch ngủ đều, cơ hội ngủ, môi trường và caffeine; hỗ trợ người làmca.
 - **S47** —  [NHLBI: điều trị mất ngủ và CBT-I](https://www.nhlbi.nih.gov/health/insomnia/treatment). Phạm vi tài liệu: Vệ sinh giấc ngủ, kiểm soát kích thích; CBT-I là lựa chọn đầu tay thường dùng cho mất ngủ kéo dài.
 
-> Bài biên soạn độc lập bởi Pulse & Vitality. Nội dung chỉnh ngày 27/10/2026; nguồn đối chiếu 2026-10-26. Liên kết được đặt tên theo chủ đề; tên tài liệu gốc và đơn vị phát hành có trên trang nguồn.
+> Bài biên soạn độc lập bởi Pulse & Vitality. Nội dung chỉnh ngày 29/10/2026; nguồn đối chiếu 2026-10-26. Liên kết được đặt tên theo chủ đề; tên tài liệu gốc và đơn vị phát hành có trên trang nguồn.
