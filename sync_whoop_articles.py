@@ -170,6 +170,7 @@ def import_research(research):
     legacy = {a['id']:a for a in read(BASE/'articles.json') if not a['id'].startswith(PREFIX)}
     assert len(items)==29 and len(legacy)==83
     records=[]
+    custom_heroes=read(BASE/'data/whoop_custom_heroes.json')
     for n,item in enumerate(items,1):
         aid=item['id']
         ref_list=[]
@@ -195,7 +196,9 @@ def import_research(research):
         body+=(f'\n> Bài biên soạn độc lập bởi Pulse & Vitality. Nội dung chỉnh ngày 29/10/2026; '
                f'nguồn đối chiếu {item["checked_on"]}. Liên kết được đặt tên theo chủ đề; tên tài liệu gốc và đơn vị phát hành có trên trang nguồn.\n')
         hero={}
-        if n in HERO:
+        if str(n) in custom_heroes:
+            hero=deepcopy(custom_heroes[str(n)])
+        elif n in HERO:
             source_art,role=HERO[n]
             hero=deepcopy(next(x for x in legacy[source_art]['image_attributions'] if x['role']==role))
             hero.update(article_id=aid,role='hero')
@@ -203,7 +206,7 @@ def import_research(research):
             if (n in (9,20) or hero.get('height',0)>hero.get('width',0)) and hero['asset'].lower().endswith(('.jpg','.jpeg')):
                 hero['fit']='cover'
         # Captions are factual descriptions of the same, unmodified source asset.
-        if hero and n in HERO_CAPTIONS:
+        if hero and n in HERO_CAPTIONS and str(n) not in custom_heroes:
             cap_vi, cap_en = HERO_CAPTIONS[n]
             hero.update(caption_vi=cap_vi, caption_en=cap_en)
         if hero:
