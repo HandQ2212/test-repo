@@ -8,6 +8,7 @@ import json
 from pathlib import Path
 import re
 from PIL import Image
+from sync_whoop_articles import CARD_LABELS
 
 BASE=Path(__file__).resolve().parent
 
@@ -32,6 +33,8 @@ def main():
     figures=json.loads((BASE/'data/whoop_image_manifest.json').read_text())
     assert len(articles)==len({a['id'] for a in articles})==112
     assert len(records)==29
+    assert [a['metric'] for a in records]==CARD_LABELS
+    assert len(set(CARD_LABELS))==len(CARD_LABELS)
     assert {a['id'] for a in records}=={f'WHOOP-ART-{n:02d}' for n in range(1,30)}
     assert [a for a in articles if a['id'].startswith('WHOOP-ART-')]==records
     source_data=(BASE/'articles_data.js').read_text().strip()

@@ -147,6 +147,20 @@ TAKEAWAYS = [
 ]
 
 
+# Short, article-specific labels shown on the cover of each card.
+CARD_LABELS = [
+    'Tải tập', 'Theo dõi bước chân', 'Mục tiêu bước chân', 'Vùng nhịp tim',
+    'Nhịp tim tối đa', 'Năng lượng ăn vào và tiêu hao', 'Ước tính calo trên app',
+    'Phục hồi hằng ngày', 'Biến thiên nhịp tim (HRV)', 'Nhịp thở khi ngủ',
+    'Đếm nhịp thở khi nghỉ', 'Nhịp thở tăng', 'Điểm ngủ và ngủ đủ',
+    'Giờ ngủ và thời gian trên giường', 'Nợ ngủ', 'Giấc ngủ sâu và REM',
+    'Thành phần cơ thể', 'Thói quen quản lý cân nặng', 'Dinh dưỡng đa lượng',
+    'Theo dõi stress', 'Stress và giấc ngủ', 'Dấu hiệu stress', 'Quản lý stress',
+    'Nhu cầu và tính liên tục của giấc ngủ', 'Các chỉ số sức khỏe',
+    'Nhật ký tập sức mạnh', 'Tuổi sinh học', 'Điện tâm đồ và nhịp tim', 'Huyết áp',
+]
+
+
 def read(path):
     return json.loads(path.read_text(encoding='utf-8'))
 
@@ -221,7 +235,7 @@ def import_research(research):
         # Vietnamese edition before presenting its actual Vietnamese text.
         en_body='> **Vietnamese edition:** This article is currently available in Vietnamese. The English heading is an editorial title, not a full English translation.\n\n'+body
         records.append(dict(id=aid,type='Learn more',category=category,sub_topic={'Sleep':'Giấc ngủ','Activity':'Vận động','Recovery_Stress':'Phục hồi và stress','Life_Heart_BP':'Tim mạch và huyết áp','Healthspan_Body':'Chỉ số sức khỏe dài hạn'}.get(item['group'],category),
-                            gender='All',screen=category+' Screen',metric={'Activity':'Hiểu vận động', 'Sleep':'Hiểu giấc ngủ', 'Recovery_Stress':'Hiểu phục hồi và stress', 'Life_Heart_BP':'Hiểu dữ liệu tim mạch', 'Healthspan_Body':'Hiểu chỉ số sức khỏe'}.get(item['group'],'Kiến thức sức khỏe'),
+                            gender='All',screen=category+' Screen',metric=CARD_LABELS[n-1],
                             trigger='Educational reading on wearable metrics',title=item['title_en'],title_vi=item['title_vi'],
                             description='Vietnamese edition: '+item['title_en']+'.',description_vi=item['summary_vi'],
                             content=en_body,content_vi=body,takeaway='Vietnamese edition. '+item['title_en']+'.',
