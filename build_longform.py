@@ -116,6 +116,8 @@ def build(sources,catalog):
                 hook=first_paragraph(original['content_vi' if lang=='vi' else 'content'])
                 if lang=='vi' and aid=='LM_RC_01':
                     hook='Nếu nhịp tim nghỉ là 60 nhịp/phút, khoảng thời gian trung bình giữa hai nhịp là một giây, hay 1.000 mili giây. Các khoảng này không nhất thiết bằng nhau; sự thay đổi giữa chúng là cơ sở để hiểu HRV.'
+                elif lang=='en' and aid=='LM_RC_01':
+                    hook='At a resting heart rate of 60 beats per minute, the average interval between beats is one second, or 1,000 milliseconds. Individual intervals need not be equal; their variation is the basis for understanding heart rate variability.'
                 elif lang=='vi' and aid=='LM_RC_02':
                     hook='Nhịp tim nghỉ có thể được ghi khi bạn ngồi yên hoặc được thiết bị ước tính từ dữ liệu trong lúc ngủ. Mỗi hãng sử dụng khoảng thời gian và phương pháp riêng; kết quả ban đêm không nhất thiết chỉ được lấy từ giấc ngủ sâu.'
                 parts.append(hook)

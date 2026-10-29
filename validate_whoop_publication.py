@@ -79,7 +79,7 @@ def main():
             assert current['id']==prior['id']
             if current['id'] in ('LM_RC_01','LM_RC_02'):
                 changed={k for k in current if current[k]!=prior[k]}
-                assert changed=={'content_vi'}, (current['id'],changed)
+                assert changed==({'content_vi','content'} if current['id']=='LM_RC_01' else {'content_vi'}), (current['id'],changed)
             else: assert current==prior,current['id']
     previous=BASE.parent/'audit/app-content-revision-2026-10-27/before/Health_Blog_Demo/data/whoop_article_records.json'
     if previous.exists():

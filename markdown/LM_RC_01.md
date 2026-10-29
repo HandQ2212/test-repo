@@ -102,7 +102,7 @@ Nếu có hồi hộp kèm chóng mặt, ngất, đau ngực hoặc khó thở, 
 
 ---
 
-If your resting heart rate is **60 beats per minute (bpm)**, it is tempting to assume your heart beats exactly once every **1.000 second** like a quartz clock. In reality, a healthy human heart never beats with robotic regularity.
+At a resting heart rate of 60 beats per minute, the average interval between beats is one second, or 1,000 milliseconds. Individual intervals need not be equal; their variation is the basis for understanding heart rate variability.
 
 HRV describes variation in intervals between heartbeats, rather than average pulse. Age, posture, breathing, timing and measurement method matter. Overnight RMSSD and all-day SDNN are not interchangeable.
 
