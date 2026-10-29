@@ -321,7 +321,7 @@ body {
 .card-cover-img {
   height: 200px;
   background-size: cover;
-  background-position: center;
+  background-position: center 35%;
   position: relative;
   padding: 1.25rem 1.35rem;
   display: flex;
@@ -1390,6 +1390,7 @@ body {
   width: 100%;
   height: 440px;
   object-fit: cover;
+  object-position: center 35%;
   display: block;
 }
 
@@ -2256,3 +2257,13 @@ body {
 .hidden {
   display: none !important;
 }
+
+/* Focal points keep faces and activities visible when portrait photos fill wide frames. */
+.article-featured-hero img[src*="WH_12_hero"],
+.article-featured-hero img[src*="WH_30_inline"],
+.article-featured-hero img[src*="LM_AC_01_inline"] { object-position: center 18%; }
+.article-featured-hero img[src*="MW_SXH_04_hero"] { object-position: center 43%; }
+.card-cover-img[style*="WH_12_hero"], .related-post-img[style*="WH_12_hero"],
+.card-cover-img[style*="WH_30_inline"], .related-post-img[style*="WH_30_inline"],
+.card-cover-img[style*="LM_AC_01_inline"], .related-post-img[style*="LM_AC_01_inline"] { background-position: center 18%; }
+.card-cover-img[style*="MW_SXH_04_hero"], .related-post-img[style*="MW_SXH_04_hero"] { background-position: center 43%; }

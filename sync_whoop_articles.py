@@ -30,12 +30,14 @@ HERO = {
     6: ('MW_NUT_01', 'hero'),
     7: ('DM_AC_02', 'inline'),
     8: ('DM_RC_02', 'inline'),
+    9: ('LM_SL_01', 'hero'),
     10: ('DM_HW_01', 'inline'),
     11: ('DM_RC_01', 'inline'),
     12: ('MW_SXH_08', 'hero'),
     13: ('LM_SL_02', 'hero'),
     14: ('DM_SL_02', 'inline'),
     15: ('DM_SL_02', 'hero'),
+    16: ('LM_SL_02', 'hero'),
     17: ('WH_30', 'inline'),
     18: ('MW_NUT_07', 'hero'),
     19: ('MW_NUT_03', 'hero'),
@@ -47,6 +49,7 @@ HERO = {
     25: ('WH_16', 'hero'),
     26: ('DM_WH_01', 'hero'),
     27: ('LM_HW_02', 'hero'),
+    28: ('MW_SXH_08', 'hero'),
     29: ('MW_SXH_02', 'hero'),
 }
 
@@ -67,8 +70,8 @@ HERO_CAPTIONS = {
         'A balanced meal alongside physical activity helps regulate daily energy intake and expenditure.'),
     8: ('Đạp xe nhẹ nhàng hoặc vận động nhẹ giúp cơ thể phục hồi chủ động sau các ngày tập nặng.',
         'Gentle cycling or active recovery helps stimulate blood flow after intense training days.'),
-    9: ('Khoảng R–R nằm giữa hai đỉnh R liên tiếp trên sơ đồ ECG, cơ sở tính toán biến thiên nhịp tim (HRV).',
-        'R-R interval between consecutive R-peaks on an ECG waveform, the basis for calculating HRV.'),
+    9: ('Cảm biến quang học trên mặt dưới của một thiết bị đeo; ảnh minh họa nguồn tín hiệu có thể dùng khi theo dõi nhịp tim.',
+        'An optical sensor on a wearable, illustrating a possible source of heart-rate data.'),
     10: ('Sơ đồ giải phẫu phế nang và mao mạch phổi, nơi diễn ra quá trình trao đổi khí trong từng nhịp thở.',
          'Anatomical diagram of pulmonary alveoli and capillaries where gas exchange occurs during breathing.'),
     11: ('Chuyển động của cơ hoành và khoang ngực giữa thì hít vào và thở ra khi đếm nhịp thở khi nghỉ.',
@@ -81,10 +84,10 @@ HERO_CAPTIONS = {
          'Sleep diary template for tracking bedtime and wake time to evaluate sleep schedule consistency.'),
     15: ('Nằm nghỉ ngơi trên giường để cơ thể hồi phục sau những ngày tích lũy nợ ngủ.',
          'Resting in bed to allow the body to recover from accumulated sleep loss.'),
-    16: ('Hypnogram minh họa các chu kỳ chuyển đổi giữa thức, giai đoạn REM và giấc ngủ sâu (NREM 3 / SWS).',
-         'Hypnogram illustrating sleep stage cycles between wakefulness, REM and deep slow-wave sleep (NREM 3).'),
-    17: ('Tập luyện kháng lực giúp bảo tồn khối nạc và sức mạnh cơ bắp bên cạnh việc theo dõi tỷ lệ mỡ cơ thể.',
-         'Resistance training helps preserve lean mass and muscle strength alongside body fat monitoring.'),
+    16: ('Một người tham gia ghi dữ liệu giấc ngủ với các điện cực trong cơ sở theo dõi giấc ngủ.',
+         'A person undergoing sleep monitoring with electrodes in a sleep facility.'),
+    17: ('Một người nghỉ sau buổi vận động.',
+         'A person resting after exercise.'),
     18: ('Các phần ăn được chuẩn bị sẵn: một ví dụ sắp xếp môi trường để bữa ăn thuận tiện hơn; không quy định khẩu phần cá nhân.',
          'Prepared meals illustrate making food easier to access; the photo does not prescribe individual portions.'),
     19: ('Một bữa ăn được chuẩn bị sẵn; ảnh không xác định đủ thành phần dinh dưỡng của khẩu phần.',
@@ -105,8 +108,8 @@ HERO_CAPTIONS = {
          'A person performing an arm exercise.'),
     27: ('Mặt nạ thu khí thở và hệ thống COSMED trong bố trí đo lường VO2 max và năng lực tim mạch.',
          'Breathing mask and COSMED metabolic cart measuring VO2 max and cardiorespiratory fitness.'),
-    28: ('Thiết bị đo tín hiệu điện tim gắn đai ngực cung cấp bản ghi điện tim chính xác phục vụ theo dõi nhịp.',
-         'Chest-worn cardiac sensor providing precise electrical recordings for heart rhythm monitoring.'),
+    28: ('Ảnh minh họa buổi trao đổi với nhân viên y tế về sức khỏe tim mạch.',
+         'A medical consultation illustrating a discussion about heart health.'),
     29: ('Đo huyết áp với vòng bít trong một buổi chăm sóc sức khỏe; ảnh minh họa phương pháp đo vật lý tiêu chuẩn.',
          'Blood pressure measurement with an upper-arm cuff during health care; illustrating the standard physical measurement.'),
 }
@@ -196,6 +199,9 @@ def import_research(research):
             source_art,role=HERO[n]
             hero=deepcopy(next(x for x in legacy[source_art]['image_attributions'] if x['role']==role))
             hero.update(article_id=aid,role='hero')
+            # Portrait photographs use a wide frame; scientific diagrams retain contain.
+            if (n in (9,20) or hero.get('height',0)>hero.get('width',0)) and hero['asset'].lower().endswith(('.jpg','.jpeg')):
+                hero['fit']='cover'
         # Captions are factual descriptions of the same, unmodified source asset.
         if hero and n in HERO_CAPTIONS:
             cap_vi, cap_en = HERO_CAPTIONS[n]

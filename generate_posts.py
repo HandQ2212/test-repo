@@ -207,7 +207,7 @@ for i, art in enumerate(articles):
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>{title_vi} | {title_en}</title>
-  <link rel="stylesheet" href="../styles.css?v=figure-load-1">
+  <link rel="stylesheet" href="../styles.css?v=hero-layout-2">
   <script src="../article_figures.js?v=figure-load-1"></script>
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>

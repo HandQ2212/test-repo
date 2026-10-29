@@ -1,5 +1,6 @@
 """Validate WHOOP publication artifacts; no claim of clinical certification."""
 from collections import Counter
+from copy import deepcopy
 from hashlib import sha256
 from html import unescape
 from html.parser import HTMLParser
@@ -77,10 +78,19 @@ def main():
         original=json.loads(before.read_text())
         for current, prior in zip(articles[:83], original):
             assert current['id']==prior['id']
+            normalized=deepcopy(current)
+            # Permitted editorial corrections from the previous audit.
             if current['id'] in ('LM_RC_01','LM_RC_02'):
-                changed={k for k in current if current[k]!=prior[k]}
-                assert changed==({'content_vi','content'} if current['id']=='LM_RC_01' else {'content_vi'}), (current['id'],changed)
-            else: assert current==prior,current['id']
+                normalized['content_vi']=prior['content_vi']
+                if current['id']=='LM_RC_01':normalized['content']=prior['content']
+            # Portrait photos can fill landscape frames without changing the asset,
+            # source, caption, or any other attribution metadata.
+            if current.get('hero_image_fit') != prior.get('hero_image_fit'):
+                assert current['hero_image_fit']=='cover'
+                normalized['hero_image_fit']=prior['hero_image_fit']
+                for item,old_item in zip(normalized['image_attributions'],prior['image_attributions']):
+                    if item['role']=='hero':item['fit']=old_item['fit']
+            assert normalized==prior,current['id']
     previous=BASE.parent/'audit/app-content-revision-2026-10-27/before/Health_Blog_Demo/data/whoop_article_records.json'
     if previous.exists():
         for old,new in zip(json.loads(previous.read_text()),records):
@@ -89,7 +99,7 @@ def main():
                 assert [r['url'] for r in old['references']]==[r['url'] for r in new['references']],(new['id'],'Reference URLs changed')
             else:
                 assert len(new['references']) >= 2, (new['id'], 'Too few references')
-    print('PASS: 29 revised articles; literal app placeholder; no visible WHOOP branding; source URLs preserved; no text-card diagrams; optional licensed images; 83 existing records checked; two introductions corrected.')
+    print('PASS: 29 revised articles; literal app placeholder; no visible WHOOP branding; source URLs preserved; no text-card diagrams; optional licensed images; 83 existing records checked; only approved content and photo-framing changes.')
 
 
 if __name__=='__main__':
