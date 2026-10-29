@@ -13,7 +13,8 @@ def selections():
 
 def apply_image_selections(records):
     for article in records.values():
-        article.update(hero_caption='', hero_caption_vi='', hero_image_fit='cover',
+        article.update(inline_image='', inline_image_source_url='', inline_caption='', inline_caption_vi='',
+                       hero_caption='', hero_caption_vi='', hero_image_fit='cover',
                        image_attributions=[], image_review_batch=0,
                        image_review_status='Pending image research session')
     for asset in selections():

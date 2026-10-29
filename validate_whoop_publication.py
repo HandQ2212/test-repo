@@ -76,20 +76,17 @@ def main():
     before=BASE.parent/'audit/whoop-publication-2026-10-27/before/Health_Blog_Demo/articles.json'
     if before.exists():
         original=json.loads(before.read_text())
+        image_fields={'hero_image','thumbnail','hero_image_source_url','inline_image',
+                      'inline_image_source_url','inline_caption','inline_caption_vi',
+                      'hero_caption','hero_caption_vi','hero_image_fit','image_attributions',
+                      'image_provenance','image_review_status'}
         for current, prior in zip(articles[:83], original):
             assert current['id']==prior['id']
             normalized=deepcopy(current)
-            # Permitted editorial corrections from the previous audit.
             if current['id'] in ('LM_RC_01','LM_RC_02'):
                 normalized['content_vi']=prior['content_vi']
                 if current['id']=='LM_RC_01':normalized['content']=prior['content']
-            # Portrait photos can fill landscape frames without changing the asset,
-            # source, caption, or any other attribution metadata.
-            if current.get('hero_image_fit') != prior.get('hero_image_fit'):
-                assert current['hero_image_fit']=='cover'
-                normalized['hero_image_fit']=prior['hero_image_fit']
-                for item,old_item in zip(normalized['image_attributions'],prior['image_attributions']):
-                    if item['role']=='hero':item['fit']=old_item['fit']
+            for field in image_fields:normalized[field]=prior[field]
             assert normalized==prior,current['id']
     previous=BASE.parent/'audit/app-content-revision-2026-10-27/before/Health_Blog_Demo/data/whoop_article_records.json'
     if previous.exists():
