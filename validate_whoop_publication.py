@@ -7,6 +7,7 @@ from html.parser import HTMLParser
 import json
 from pathlib import Path
 import re
+from PIL import Image
 
 BASE=Path(__file__).resolve().parent
 
@@ -74,19 +75,46 @@ def main():
         for ref in a['references']:
             assert ref['url'] in unescape(page)
     before=BASE.parent/'audit/whoop-publication-2026-10-27/before/Health_Blog_Demo/articles.json'
+    image_baseline=BASE.parent/'audit/image-review-all-2026-10-29/before/articles.json'
+    replacements=json.loads((BASE/'data/portrait_replacements.json').read_text())
+    if image_baseline.exists():
+        previous_images={a['id']:a for a in json.loads(image_baseline.read_text())}
+        checked=set()
+        for current in articles:
+            prior=previous_images[current['id']]
+            for role,field in [('hero','hero_image'),('inline','inline_image')]:
+                key=f'{current["id"]}:{role}'
+                if key in replacements:
+                    assert prior[field]==replacements[key]['old_asset']
+                    assert current[field]==replacements[key]['new_asset']
+                    with Image.open(BASE/prior[field]) as old_image, Image.open(BASE/current[field]) as new_image:
+                        assert old_image.height>old_image.width and new_image.width>new_image.height,key
+                    checked.add(key)
+                else:
+                    assert current[field]==prior[field],key
+            for field in ['content','content_vi','title','title_vi','references','public_url']:
+                assert current.get(field)==prior.get(field),(current['id'],field)
+        assert checked==set(replacements)
     if before.exists():
         original=json.loads(before.read_text())
-        image_fields={'hero_image','thumbnail','hero_image_source_url','inline_image',
-                      'inline_image_source_url','inline_caption','inline_caption_vi',
-                      'hero_caption','hero_caption_vi','hero_image_fit','image_attributions',
-                      'image_provenance','image_review_status'}
         for current, prior in zip(articles[:83], original):
             assert current['id']==prior['id']
             normalized=deepcopy(current)
+            # Permitted editorial corrections from the previous audit.
             if current['id'] in ('LM_RC_01','LM_RC_02'):
                 normalized['content_vi']=prior['content_vi']
                 if current['id']=='LM_RC_01':normalized['content']=prior['content']
-            for field in image_fields:normalized[field]=prior[field]
+            if any(k.startswith(current['id']+':') for k in replacements):
+                for field in ['hero_image','thumbnail','hero_image_source_url','hero_caption','hero_caption_vi','hero_image_fit','inline_image','inline_image_source_url','inline_caption','inline_caption_vi','image_attributions']:
+                    if field in prior: normalized[field]=deepcopy(prior[field])
+                    else: normalized.pop(field,None)
+            # Portrait photos can fill landscape frames without changing the asset,
+            # source, caption, or any other attribution metadata.
+            if current.get('hero_image_fit') != prior.get('hero_image_fit'):
+                assert current['hero_image_fit']=='cover'
+                normalized['hero_image_fit']=prior['hero_image_fit']
+                for item,old_item in zip(normalized['image_attributions'],prior['image_attributions']):
+                    if item['role']=='hero':item['fit']=old_item['fit']
             assert normalized==prior,current['id']
     previous=BASE.parent/'audit/app-content-revision-2026-10-27/before/Health_Blog_Demo/data/whoop_article_records.json'
     if previous.exists():

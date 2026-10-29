@@ -1,0 +1,217 @@
+{
+  "DM_SL_02:hero": {
+    "source": "bed",
+    "old_asset": "images/researched/batch-01/DM_SL_02_hero.jpg",
+    "new_asset": "images/researched/landscape-2026-10-29/4913754.jpg"
+  },
+  "DM_AC_02:hero": {
+    "source": "gym",
+    "old_asset": "images/researched/batch-02/DM_AC_02_hero.jpg",
+    "new_asset": "images/researched/landscape-2026-10-29/11513151.jpg"
+  },
+  "LM_MH_01:hero": {
+    "source": "perineum",
+    "old_asset": "images/researched/batch-02/LM_MH_01_hero.png",
+    "new_asset": "images/researched/portrait-replacements-2026-10-29/perineum.jpg"
+  },
+  "WH_09:hero": {
+    "source": "6213817",
+    "old_asset": "images/researched/batch-03/WH_09_hero.jpg",
+    "new_asset": "images/researched/portrait-replacements-2026-10-29/6213817.jpg"
+  },
+  "WH_10:hero": {
+    "source": "journal",
+    "old_asset": "images/researched/batch-03/WH_10_hero.jpg",
+    "new_asset": "images/researched/landscape-2026-10-29/9429448.jpg"
+  },
+  "WH_12:hero": {
+    "source": "15195276",
+    "old_asset": "images/researched/batch-03/WH_12_hero.jpg",
+    "new_asset": "images/researched/portrait-replacements-2026-10-29/15195276.jpg"
+  },
+  "WH_17:hero": {
+    "source": "dumbbells",
+    "old_asset": "images/researched/batch-03/WH_17_hero.jpg",
+    "new_asset": "images/researched/landscape-2026-10-29/8032748.jpg"
+  },
+  "WH_18:hero": {
+    "source": "20342106",
+    "old_asset": "images/researched/batch-03/WH_18_hero.jpg",
+    "new_asset": "images/researched/portrait-replacements-2026-10-29/20342106.jpg"
+  },
+  "WH_20:hero": {
+    "source": "calendar",
+    "old_asset": "images/researched/batch-04/WH_20_hero.jpg",
+    "new_asset": "images/researched/landscape-2026-10-29/28353112.jpg"
+  },
+  "WH_23:hero": {
+    "source": "20459081",
+    "old_asset": "images/researched/batch-04/WH_23_hero.jpg",
+    "new_asset": "images/researched/portrait-replacements-2026-10-29/20459081.jpg"
+  },
+  "WH_26:hero": {
+    "source": "mat",
+    "old_asset": "images/researched/batch-04/WH_26_hero.jpg",
+    "new_asset": "images/researched/landscape-2026-10-29/4793328.jpg"
+  },
+  "WH_27:hero": {
+    "source": "shoes",
+    "old_asset": "images/researched/batch-04/WH_27_hero.jpg",
+    "new_asset": "images/researched/landscape-2026-10-29/135229.jpg"
+  },
+  "WH_28:hero": {
+    "source": "8250882",
+    "old_asset": "images/researched/batch-04/WH_28_hero.jpg",
+    "new_asset": "images/researched/portrait-replacements-2026-10-29/8250882.jpg"
+  },
+  "MW_SXH_04:hero": {
+    "source": "36006045",
+    "old_asset": "images/researched/batch-05/MW_SXH_04_hero.jpg",
+    "new_asset": "images/researched/portrait-replacements-2026-10-29/36006045.jpg"
+  },
+  "MW_REL_02:hero": {
+    "source": "6248764",
+    "old_asset": "images/researched/batch-05/MW_REL_02_hero.jpg",
+    "new_asset": "images/researched/portrait-replacements-2026-10-29/6248764.jpg"
+  },
+  "MW_REL_03:hero": {
+    "source": "19202410",
+    "old_asset": "images/researched/batch-05/MW_REL_03_hero.jpg",
+    "new_asset": "images/researched/portrait-replacements-2026-10-29/19202410.jpg"
+  },
+  "MW_SXO_01:hero": {
+    "source": "cups",
+    "old_asset": "images/researched/batch-05/MW_SXO_01_hero.jpg",
+    "new_asset": "images/researched/landscape-2026-10-29/7368007.jpg"
+  },
+  "WHOOP-ART-01:hero": {
+    "source": "workout",
+    "old_asset": "images/researched/batch-02/DM_AC_02_hero.jpg",
+    "new_asset": "images/researched/landscape-2026-10-29/8032758.jpg"
+  },
+  "WHOOP-ART-02:hero": {
+    "source": "36429545",
+    "old_asset": "images/researched/batch-01/LM_AC_01_inline.jpg",
+    "new_asset": "images/researched/portrait-replacements-2026-10-29/36429545.jpg"
+  },
+  "WHOOP-ART-15:hero": {
+    "source": "bed2",
+    "old_asset": "images/researched/batch-01/DM_SL_02_hero.jpg",
+    "new_asset": "images/researched/landscape-2026-10-29/8251692.jpg"
+  },
+  "WHOOP-ART-22:hero": {
+    "source": "36511421",
+    "old_asset": "images/researched/batch-05/MW_SXO_01_hero.jpg",
+    "new_asset": "images/researched/portrait-replacements-2026-10-29/36511421.jpg"
+  },
+  "LM_SL_01:inline": {
+    "source": "sleep_lab",
+    "old_asset": "images/researched/batch-01/LM_SL_01_inline.jpg",
+    "new_asset": "images/researched/batch-01/LM_SL_02_hero.jpg"
+  },
+  "LM_AC_01:inline": {
+    "source": "12918252",
+    "old_asset": "images/researched/batch-01/LM_AC_01_inline.jpg",
+    "new_asset": "images/researched/portrait-replacements-2026-10-29/12918252.jpg"
+  },
+  "DM_HW_02:inline": {
+    "source": "15814247",
+    "old_asset": "images/researched/batch-02/DM_HW_02_inline.jpg",
+    "new_asset": "images/researched/portrait-replacements-2026-10-29/15814247.jpg"
+  },
+  "LM_WH_02:inline": {
+    "source": "5717450",
+    "old_asset": "images/researched/batch-02/LM_WH_02_inline.jpg",
+    "new_asset": "images/researched/portrait-replacements-2026-10-29/5717450.jpg"
+  },
+  "DM_WH_01:inline": {
+    "source": "12918252",
+    "old_asset": "images/researched/batch-02/DM_WH_01_inline.jpg",
+    "new_asset": "images/researched/portrait-replacements-2026-10-29/12918252.jpg"
+  },
+  "LM_MH_01:inline": {
+    "source": "male_anatomy",
+    "old_asset": "images/researched/batch-02/LM_MH_01_inline.png",
+    "new_asset": "images/researched/batch-03/DM_MH_01_inline.png"
+  },
+  "LM_MH_02:inline": {
+    "source": "perineum",
+    "old_asset": "images/researched/batch-02/LM_MH_02_inline.png",
+    "new_asset": "images/researched/portrait-replacements-2026-10-29/perineum.jpg"
+  },
+  "LM_MH_03:inline": {
+    "source": "male_anatomy",
+    "old_asset": "images/researched/batch-02/LM_MH_03_inline.png",
+    "new_asset": "images/researched/batch-03/DM_MH_01_inline.png"
+  },
+  "DM_MH_02:inline": {
+    "source": "perineum",
+    "old_asset": "images/researched/batch-03/DM_MH_02_inline.png",
+    "new_asset": "images/researched/portrait-replacements-2026-10-29/perineum.jpg"
+  },
+  "DM_MH_03:inline": {
+    "source": "7447241",
+    "old_asset": "images/researched/batch-03/DM_MH_03_inline.jpg",
+    "new_asset": "images/researched/portrait-replacements-2026-10-29/7447241.jpg"
+  },
+  "WH_04:inline": {
+    "source": "8460083",
+    "old_asset": "images/researched/batch-03/WH_04_inline.jpg",
+    "new_asset": "images/researched/portrait-replacements-2026-10-29/8460083.jpg"
+  },
+  "WH_15:inline": {
+    "source": "6590808",
+    "old_asset": "images/researched/batch-03/WH_15_inline.jpg",
+    "new_asset": "images/researched/portrait-replacements-2026-10-29/6590808.jpg"
+  },
+  "WH_25:inline": {
+    "source": "gray34",
+    "old_asset": "images/researched/batch-04/WH_25_inline.jpg",
+    "new_asset": "images/researched/portrait-replacements-2026-10-29/gray34.png"
+  },
+  "WH_29:inline": {
+    "source": "29614952",
+    "old_asset": "images/researched/batch-04/WH_29_inline.jpg",
+    "new_asset": "images/researched/portrait-replacements-2026-10-29/29614952.jpg"
+  },
+  "WH_30:inline": {
+    "source": "4959808",
+    "old_asset": "images/researched/batch-04/WH_30_inline.jpg",
+    "new_asset": "images/researched/portrait-replacements-2026-10-29/4959808.jpg"
+  },
+  "MW_NUT_03:inline": {
+    "source": "15373907",
+    "old_asset": "images/researched/batch-04/MW_NUT_03_inline.jpg",
+    "new_asset": "images/researched/portrait-replacements-2026-10-29/15373907.jpg"
+  },
+  "MW_NUT_04:inline": {
+    "source": "7444961",
+    "old_asset": "images/researched/batch-05/MW_NUT_04_inline.jpg",
+    "new_asset": "images/researched/portrait-replacements-2026-10-29/7444961.jpg"
+  },
+  "MW_SXH_01:inline": {
+    "source": "8442376",
+    "old_asset": "images/researched/batch-05/MW_SXH_01_inline.jpg",
+    "new_asset": "images/researched/portrait-replacements-2026-10-29/8442376.jpg"
+  },
+  "MW_NUT_05:inline": {
+    "source": "4753637",
+    "old_asset": "images/researched/batch-05/MW_NUT_05_inline.jpg",
+    "new_asset": "images/researched/portrait-replacements-2026-10-29/4753637.jpg"
+  },
+  "MW_SXH_06:inline": {
+    "source": "male_anatomy",
+    "old_asset": "images/researched/batch-06/MW_SXH_06_inline.png",
+    "new_asset": "images/researched/batch-03/DM_MH_01_inline.png"
+  },
+  "MW_SXH_08:inline": {
+    "source": "6129898",
+    "old_asset": "images/researched/batch-06/MW_SXH_08_inline.jpg",
+    "new_asset": "images/researched/portrait-replacements-2026-10-29/6129898.jpg"
+  },
+  "MW_SXO_05:inline": {
+    "source": "perineum",
+    "old_asset": "images/researched/batch-06/MW_SXO_05_inline.png",
+    "new_asset": "images/researched/portrait-replacements-2026-10-29/perineum.jpg"
+  }
+}

@@ -11,7 +11,7 @@ Từ phiên 02, mỗi phiên xử lý tối đa 15 bài. Phiên 01 đã hoàn t�
 | 05 | 15 | Đã chọn và đối chiếu ảnh | MW_NUT_04, MW_SXH_01, MW_SXH_02, MW_SXH_03, MW_SXH_04, MW_REL_01, MW_REL_02, MW_REL_03, MW_REL_04, MW_SXO_01, MW_SXO_02, MW_SXO_03, MW_SXO_04, MW_NUT_05, MW_NUT_06 |
 | 06 | 13 | Đã chọn và đối chiếu ảnh | MW_NUT_07, MW_NUT_08, MW_SXH_05, MW_SXH_06, MW_SXH_07, MW_SXH_08, MW_REL_05, MW_REL_06, MW_REL_07, MW_REL_08, MW_SXO_05, MW_SXO_06, MW_SXO_08 |
 
-Đã chọn 97 vị trí hình cho 83/83 bài. Một số hình giải phẫu/dụng cụ được dùng lại khi phù hợp, với nguồn và giấy phép giữ nguyên. Toàn bộ danh mục đã hoàn tất các phiên rà soát ảnh.
+Đã chọn 143 vị trí hình cho 83/83 bài. Một số hình giải phẫu/dụng cụ được dùng lại khi phù hợp, với nguồn và giấy phép giữ nguyên. Toàn bộ danh mục đã hoàn tất các phiên rà soát ảnh.
 
 Nguồn và metadata: `data/image_selections.json`. Bảng Excel: sheet `Image_Register`. Bộ xem trước: [Đợt 01](Image_Research_Batch_01.html), [Đợt 02](Image_Research_Batch_02.html), [Đợt 03](Image_Research_Batch_03.html), [Đợt 04](Image_Research_Batch_04.html), [Đợt 05](Image_Research_Batch_05.html), [Đợt 06](Image_Research_Batch_06.html).
 
